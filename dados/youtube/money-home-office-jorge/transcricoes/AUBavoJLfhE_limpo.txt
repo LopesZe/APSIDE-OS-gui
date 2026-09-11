@@ -1,0 +1,382 @@
+Fala galera, Jorge por aqui e eu criei
+agentes de trá tr orgânico para clientes
+no cloud code e eu fiz aqui mais de
+27.000, foi mais, só que eu não gosto de
+ficar ostentando aqui, só que eu sei que
+a internet precisa provar, então vou
+compartilhar a minha tela, vou provar e
+vou falar para você como eu construir
+esses agentes, para que que eles servem
+e como tem tudo a ver com monetização de
+sites, de blogs, você que me acompanha
+aqui. Então, deixa eu primeiro
+compartilhar a tela só para te provar
+isso. Bom, galera, vou filtrar aqui e
+vou mostrar. Hoje é dia 15. Eu tô
+gravando só do dia de ontem para hoje
+quanto esses agentes de A me renderam.
+Foi mais de 8.000. Se eu pegar aqui os
+últimos 7 dias, eles me renderam mais de
+R$ 27.000.
+Agentes de A que eu criei nos últimos 30
+dias. gente, o resultado é maior. Só
+que, como eu falei, eu não vou ficar
+aqui, sabe, ostentando, não é o meu
+objetivo. Só meu objetivo é mostrar para
+você que essa é uma janela de
+oportunidade, que você que quer aí de
+alguma forma ganhar dinheiro da sua
+casa, trabalhar da sua casa, essa é uma
+janela maravilhosa de oportunidade.
+Então, primeiro eu vou te mostrar o que
+que é um agente de A, como que eu criei
+esse agente de A. Depois, na segunda
+parte desse vídeo, eu vou te falar como
+é possível você ganhar dinheiro com
+agentes de A mais monetização de sites.
+Eu vou casar essas duas frentes aqui com
+você no final e isso vai te trazer uma
+clareza maior do mercado que eu
+enxerguei. Não vi ninguém fazendo até
+hoje no mercado. Para mim, eu tô sendo
+pioneiro aqui. Eu vou compartilhar em
+primeira mão para você. Bom, vamos lá.
+Eu não sei se você conhece o Cloud Code.
+Aqui é o espaço aonde a gente faz coisas
+com um pouquinho mais de, vamos dizer
+assim, com programação, mas sem
+necessariamente você saber programar.
+Tudo que eu criei aqui, gente, eu criei
+num terminal, mas eu deixei muito
+simples para qualquer pessoa que tem
+interesse utilizar. Eu criei alguns
+agentes de A, tá, que traz tráfego
+orgânico, mas eu vou mostrar hoje
+especial um agente de A aqui que ele vai
+trazer tráfego orgânico através do
+Google Negócio. Você tem hoje
+empresários como um todo precisando
+trazer clientes. Você tem nutricionista,
+psicólogos, contadores, você tem
+advogados. Só para você ter ideia, no
+Brasil são mais de 500.000 advogados,
+mais de 200.000 contadores, quase
+300.000 contadores que estão são
+negócios locais que precisam captar
+clientes. Fora se a gente falar de
+comércio, mas eu não tô nem aqui focando
+no comércio, tô só mostrando o tamanho
+desse mercado só de SEO local. Que que é
+SEO local? Como eu tava falando, são
+pequenos empresários que faturam seus
+15, 20, R$ 30.000, que não tem condição
+de fazer um tráfego pago e para isso ele
+precisa trazer um tráfego orgânico, tá?
+E aí eu começo aqui sempre cadastrando
+um novo cliente, tá? Então isso aqui é
+um grande diferencial. É a ideia do do
+agente de A é que você possa cadastrar
+inúmeros clientes e fazer de uma maneira
+extremamente profissional. É como eu
+pegasse uma agência de SEO e colocasse
+aqui dentro. Ele faz tudo para você.
+Aqui eu tô mostrando a parte só de
+Google Negócio, mas ele vai fazer
+tráfego orgânico através de de SEO, né?
+a pessoa buscar ali encontrar o site,
+fazer tráfego orgânico, um apelo de
+venda que é eh é esse empresário ser
+sugerido pelo Google, ser sugerido pelo
+chat EPT e trazer cliente para ele.
+Então o que que eu tô dizendo aqui para
+vocês é que existe uma janela de
+oportunidade desse empresário que tá
+precisando captar clientes, tá? Então
+vamos cadastrar aqui uma empresa
+fictícia. Eu vou cadastrar aqui como
+fosse um dentista, tá? E é basicamente a
+ideia é que você só vai respondendo
+aqui, cadastrando com mais eh
+informações possíveis, tá bom? Eu
+cadastrei aqui, gente, como fosse alguns
+serviços, tá? Ortodentista, implante
+dentário, lente de contato para dentes,
+né? Eh, e também o foco de dentista 24
+horas, porque é um apelo bastante forte
+aqui nesse setor, tá? Então, na medida
+que eu vou cadastrando, ele vai
+entendendo um pouco mais sobre o meu
+negócio. Bom, gente, depois que eu
+finalizei aqui o cadastro, gente, agora
+a mágica começa aqui. Ele pede
+autorização para ele assumir é a
+extensão do Chrome, tá? Para ele fazer o
+quê? Ele vai fazer uma engenharia
+reversa. Eu vou mostrar aqui eh
+automaticamente para você como que
+funciona. Bom, gente, agora, ó, ele
+assumiu aqui o Chrome e ele vai começar
+a fazer uma engenharia reversa. Para
+você eh poder trabalhar no SEO com
+tráfego orgânico, tudo que você faz é
+engenharia reversa. Então você entende o
+que que esse concorrente tá fazendo de
+certo, quais são as palavras-chaves,
+quais são a a descrição que ele criou,
+eh a categoria que ele criou, tudo isso
+automático. Por quê? A gente conectou o
+Cloud Code com o MCP do Uber. Que que é
+o Ubersh? é a ferramenta onde a gente
+traqueia o jeito que as pessoas buscam
+organicamente no Google, no chat EPT e
+assim por diante. Então, quando eu pego
+essa ferramenta e conecto ela dentro do
+cloud, ela consegue trazer para mim
+dados muito relevantes
+[limpando a garganta]
+organicamente de como as pessoas estão
+buscando esses três primeiros colocados.
+ele desconsidera os patrocinados e pega
+somente aqueles que são tráfego
+orgânico. E aí ele, se você tem um
+perfil, por exemplo, no Google Meu
+Negócio, que que ele vai fazer? Ele vai
+comparar o que que foi feito certo e o
+que que foi feito errado. Então,
+automaticamente a gente tem aqui uma
+janela de oportunidade muito
+interessante, por ele vai literalmente
+ser um profissional extremamente senor,
+mapeando essas informações para você e
+trazendo tudo automaticamente.
+Existe um padrão que o Google reconhece
+que essa ficha aqui foi cadastrada da
+forma correta. E esse padrão, ele tá
+aqui aberto pra gente analisar, entender
+e replicar esse mesmo padrão. Eu tô
+explicando isso daqui no Google meu
+negócio, mas é a mesma coisa para site.
+É a mesma lógica para fazer o
+ranqueamento dessas empresas também no
+chat EPT. O Google Meu Negócio é só um
+exemplo, ó, gente. E ele já mapeou aqui
+o concorrente, tá? Os três primeiros
+colocados, pegou a quantidade de
+avaliações e olha que interessante, né?
+Você tem aqui, ó, a clínica dental arte
+com 526 avaliações e o segundo local só
+tem 45 avaliações. Para um dentista que
+atende uma massa muito grande, 45
+avaliações é pouco, mas mesmo assim ele
+tá na segunda posição. A gente vai
+entender o por que ele tá nessa segunda
+posição. Então, quando você pega um
+agente de A, e não faz um agente de A
+para fazer coisa simples, mas faz para
+principalmente fazer com que esse
+cientista tenha clientes, de fato, você
+agregue valor nesse ponto, a figura
+muda. Por primeiro, você tem um fator
+muito forte no mercado que é agentes de
+A. Todo mundo tá querendo saber sobre
+cloud code, agentes de A. Esse
+empresário tá antenado sobre esse
+assunto e ele precisa trazer clientes. E
+no nosso caso, a gente oferece trazer
+clientes tanto no Google Man Negócio,
+tanto no tráfego orgânico, como também
+através dele aparecer na recomendação de
+A. Então, quando você junta esse pacote,
+literalmente brira os olhos dele. Aí
+você fala assim: "Ah, Jorge, mas como
+que eu vou captar cliente?" Da mesma
+forma. Esses caras que estão nas
+primeiras posições estão satisfeitos,
+mas e os caras que estão lá na segunda
+posição e os sites que são dentista que
+estão na 10ma posição e nem estão
+conseguindo ter o mínimo de acesso.
+Quando você pega o seu conhecimento de
+SEO, ou caso você não tenha, né, o
+agente de A vai ter isso para você e
+mostra que o primeiro colocado tá tendo
+essa quantidade de acesso, o próprio
+cliente vai falar: "Meu Deus, o cara tá
+isso daqui, tá tendo esse resultado e eu
+nem tô sendo recomendado pela EA."
+Então, de fato, o argumento é muito bom
+e você não precisa sair ligando pras
+pessoas, literalmente dá para você
+automatizar. Da mesma maneira que o
+cloud aqui ele tá verificando quais
+clientes estão bem posicionados, você
+pode usar esse agente para captar e
+automatizar o contato, seja por e-mail
+ou trazer o WhatsApp para chamar. E aí
+você pode literalmente vender no mesmo
+formato que eu tô vendendo aqui soluções
+de tráfego orgânico. Ah, Jorge, mas
+então você acabou, você não vai mais
+falar de monetização de sites. Gente,
+perceba, tráfego orgânico tá aqui. Eu
+sempre dominei SEO. O que eu tô fazendo
+é trazendo uma nova fonte de renda. Eu
+tenho a fonte de renda de sites que é
+maravilhosa. Você pode aprender sobre
+isso também, mas você não tem só uma
+fonte de renda. você através do próprio
+conhecimento que eu transbordo sobre
+tráfego orgânico, você também pode
+trazer eh outra fonte de renda que é
+vender agentes de A para pequenos
+negócios. E mais do que isso, você vai
+aprender também como criar os seus
+próprios agentes de A. Você quer
+participar desse movimento? Nós teremos
+um workshop 100% gratuito. Entra aqui no
+grupo do WhatsApp que tá fixado aqui no
+primeiro comentário, tá logo na primeira
+descrição e lá você vai entender tudo
+sobre esse novo formato de você
+monetizar e montar o seu ecossistema,
+assim como eu montei o meu. Bom, e agora
+ele faz uma parte muito interessante que
+é o quê, gente? Ele pesquisou qual é a
+palavrachave correta, só que ele não
+pesquisou e de forma aleatória, ele
+chamou diretamente o Bersuch. Nesse caso
+ele chamou o Sir Rush. Eu conectei três,
+né? O Bersur e o eh Certitus, como eu
+falei para vocês. E ele falou: "Ó, a
+gente tem aqui, ó, dentista em Judiaí
+tem 1300 pessoas. Implante dentitário
+tem a possibilidade de ser nacional. Faz
+sentido para você?" Ó, dentista perto de
+mim é uma palavra também muito
+relevante. Dentista 24 horas. Qual que
+faz mais sentido para você? Nesse caso,
+como eu sou um, tô aqui simulando que
+sou um negócio local, coloquei dentista
+em Jundiaí, tá? E aí ele pegou e fez
+mais algumas perguntas para mim aqui. E
+agora o que que ele tá fazendo? Ele
+atualizou literalmente o MD da forma que
+você deveria criar eh o trabalho eh de
+Google Meu Negócio desse player, tá?
+Então você tem toda a descrição, você
+tem todas as categorias criadas. Se você
+conhece um pouquinho de Google Me
+Negócio, você tem noção que eu tô
+falando aqui, ó. as palavras
+secundárias, todos os serviços com todas
+as descrições, já com link pro WhatsApp
+que você forneceu lá no começo, tá? E as
+áreas de atendimento, todos os
+atributos, tudo, tudo
+[limpando a garganta] certinho. E o
+melhor, gente, as imagens das fotos já
+com as palavras-chaves otimizadas. Esse
+daqui é só um resumo do que o agente de
+A pode fazer, mas eu não tô aqui para te
+falar sobre esse agente de A. Eu tô para
+te falar sobre o ecossistema por trás
+que eu quero abrir, que eu faço hoje
+aqui com vocês. E antes de mostrar esse
+ecossistema aqui para vocês, eu preciso
+dizer o seguinte. Então, como funciona
+esse ecossistema? Eu tenho a
+possibilidade de utilizar utilizar o
+agente para subir, por exemplo, um site
+de review Amazon. Eu tenho e ganhar
+dinheiro como afiliado. Eu tenho a
+possibilidade de vender esse serviço
+para esse público que eu tô falando de
+venda de serviço. E eu tenho a
+possibilidade também, se você quiser,
+como eu, criar um produto digital. Por
+exemplo, eu criei um produto digital
+ensinando exatamente como que o
+empreendedor, quando a pessoa pode
+fazer, fui lá na Hotmart e criei cada
+aula dessa, explicando, mostrando cada
+aula, passo a passo. O agente, por
+exemplo, ele vai instalar o agente, tem
+o passo a passo aqui. Como nós teremos o
+braço de você criar o seu próprio
+agente, você pode criar o seu agente e
+ir na Hotmart. E aí, já abro um
+parênteses aqui. Eu sou grato por tá eh
+falando da Hotmart, porque eu uso a
+Hotmart há anos e ela é também uma
+patrocinadora desse canal. Então, muito
+feliz aqui de compartilhar a Hotmart eh
+essa possibilidade. Inclusive, se você
+não é cadastrado como um infoprodutor,
+você deveria, porque você consegue criar
+o seu agente e eh subir o seu agente pra
+pessoa baixar aqui, ó. e o treinamento
+desse agente. Então, cada eh como você
+sobe esse agente, eu fui lá, eu fui
+criando videoaulas dentro da Hotmart.
+Então, perceba que é um ecossistema. Se
+você quer dentro de SEO, que é a minha
+lógica, você quer criar o seu agente e
+lançar um infoproduto, você lança. Não,
+eu quero criar esse agente para não
+lançar o infoproduto, mas eu quero criar
+esse agente para prestar serviço. Eu
+tenho para monetizar sites, monetizar
+sites para dar consultoria de empresas,
+porque eu cheguei a fechar contratos
+muito interessantes para eu montar a
+toda a estrutura. às vezes que eu dá o
+agente para ele operar também, você tem
+essa possibilidade. Então é literalmente
+pegar o meu ecossistema e aplicar
+naquilo que faz mais sentido. Se você
+tem duas, 3 horas, talvez seja muito
+difícil você tocar um ecossistema como
+esse, mas você pode escolher aquele que
+faz mais sentido para você. Então, de
+fato, gente, para mim é uma janela de
+oportunidade gigante. Coloca nos
+comentários o que você acha. Inclusive
+aqui peço para você, se você não tá no
+meu grupo do WhatsApp, eu vou mostrar
+isso no workshop de forma um pouco mais
+detalhada. Então, vale muito a pena você
+tá com a gente. Sabe qual que é o
+melhor? Hoje eu tô com uma garota
+propaganda. Vem cá.
+Essa aqui é a Zoi. É minha filha de 6
+anos e eh eu tenho a possibilidade de
+trabalhar e tá próximo da Zoi. Eu levo a
+Zoei pra escola, né, Zozô?
+&gt;&gt; Que mais o papai faz com você? pai
+dormir com a gente, ele come,
+&gt;&gt; almoça com com ela, janta com ela, não é
+verdade, filha? Gente, isso aqui é
+maravilhoso, você conseguir ter o seu
+trabalho, o seu ganha pão e conseguir
+ganhar dinheiro [limpando a garganta] e
+literalmente ficar pertinho do seu
+filho. Isso é bom demais. Fala a
+verdade. Alguém aí pode dar um oi pra
+Zoi. Fala oi pra galera. Zoi. Pode
+falar. Fala.
+Pode quando
+tá a noite, eu sempre fico juntar aqui
+com papai.
+&gt;&gt; É, quando o papai tá criando os agentes,
+Zoe tá assistindo desenho do meu lado
+aqui naquela poltroninha ali, né, Zozô?
+Ela deita ali, a gente junta as duas,
+ela deita ali ficando com o papai
+também. Então é isso. Você quer entender
+mais sobre isso? Se o mundo de
+monetização de sites é novo para você,
+assiste esse vídeo. Se você quer
+entender mais como você vendeu a
+prestação do serviço, seus agentes,
+assiste esse outro vídeo aqui. Espero
+ter te ajudado. Até o próximo vídeo.

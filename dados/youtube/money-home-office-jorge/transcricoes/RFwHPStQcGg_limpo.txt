@@ -1,0 +1,306 @@
+Fala gente, tudo bem com você? E hoje a
+gente vai utilizar o agente caçador de
+nicho para encontrar uma oportunidade
+aqui e montar um projeto em poucos
+minutos, tá? Esse vídeo tá impedível,
+vai ser um passo a passo muito simples.
+Primeiro a gente vai usar o Cloud Code
+com a agente que a gente criou para
+encontrar a oportunidade. Depois eu vou
+mostrar o quanto que esse cara consegue
+faturar. O próprio agente já te traz
+isso com base nos dados de tráfego de
+pesquisa que estão acontecendo. Depois
+disso, a gente tá falando aí de
+estruturar o projeto e colocar ele no
+ar. Então o passo a passo tá imperdível.
+E no meio desse conteúdo, gente, tem
+dicas muito importantes, muito
+relevantes. Então fica até o final desse
+vídeo. Mas antes, deixa eu fazer um
+convite muito especial. Grupo do
+WhatsApp fixado no primeiro comentário.
+Dou dicas semanais e complementares a
+esse vídeo aqui. Vale muito a pena.
+Entra no grupo aí do WhatsApp, tá bom?
+Então vamos lá, gente. Como que
+funciona? A gente vai trabalhar o que a
+gente chama de site FDF. O que que é um
+site FDF? Tá? A pessoa, ela foi
+convencida por algum motivo que ela
+deseja comprar concurso. Então, pode ser
+uma necessidade do trabalho dela, pode
+ser que algum amigo falou alguma coisa
+para ela. Dentro do subconsciente dela,
+ela já tem esse desejo de comprar o
+curso. Então, bora compartilhar a tela e
+construir junto esse projeto do zero por
+você. Então, me permita 30 segundos aqui
+explicar para você a lógica, tá? Então,
+ela digitou curso de PHP Lovelo, então
+esquece tráfego pago, tá? Ela vem para
+cá, cai numa página aí como da Udom da
+vida, né, que a gente inspirou nesse
+modelo aqui, muito parecido com o da
+Udom. E aí vai ter aqui uma land page.
+Normalmente, gente, esse curso vai ser
+um curso barato, tá? Eh, de fato, eu
+gosto de trabalhar com curso R$ 97, 147,
+297. São cursos interessantes. Então, no
+nosso caso, gente, nós não seremos nesse
+momento um infoprodutor. A gente vai se
+afiliar. Então esse infoprodutor vai est
+lá dentro da Hotmart. A gente se afilia
+a esse produto na Hotmart e
+consequentemente ele compra da nossa
+land page. Então o que que a gente faz?
+Só cria a land page como essa aqui
+semelhante. E aqui a gente coloca o
+nosso link de afiliado, tá? Então essa é
+a forma simples aqui de te explicar, tá
+Jorge? Mas aonde que tá o segredo desse
+negócio? Encontrar a melhor forma de
+monetização. E por isso a gente vai
+utilizar o nosso agente aqui do cloud. E
+aí a gente vai vir aqui no cloud code,
+tá? Esse formato ele ele funciona só no
+Coud Code. E aí a gente vai digitar aqui
+chamando esse agente. Esse agente, para
+você que não sabe, é o agente totalmente
+treinado por mim, aonde eu peguei toda a
+base de conhecimento desde 2019 e
+ensinei ele quais as melhores maneiras
+de monetização. E o melhor, gente, eu
+não só fiz isso, mas eu cruzei, por
+exemplo, com MCP do Bers, que traz dados
+reais para você encontrar oportunidades
+reais, tá? Então ele vai fazer algumas
+perguntas aqui. Eu vou preencher de
+forma bem rápida. Então colocar aqui, ó,
+uma hora que eu tenho disponibilidade.
+Meta de faturamento, vou colocar 5.000
+por mês. E vou colocar aqui que eu quero
+esse resultado de 5.000 por mês em 6
+meses. Aí, gente, ele vem aqui no chat e
+faz outras perguntas pra gente. Ah, como
+que você se avalia tecnicamente? Eu vou
+colocar aqui o som iniciante, tá? Eh, o
+cinco aqui. Se eu quero alguma
+estratégia de SEO local aqui, quantas
+quantas postagens você consegue fazer?
+Eu vou colocar que eu consigo fazer 10
+por semana e eh vou colocar no seis aqui
+se se eu quero alguma estratégia de se
+local. Vou colocar aqui não, tá? Vem
+mais duas perguntas só. E perceba, a
+gente tá num ambiente de chat, tá? A
+gente fez questão de criar assim para
+não criar no terminal, assustar e etc.
+Então ele quer aqui alguns nichos que eu
+gostaria de trabalhar. Eu vou deixar
+aberto, tá? Encontre a melhor
+oportunidade para mim. E aí ele pergunta
+algum nicho que eu não quero trabalhar,
+eu vou colocar aqui saúde. Pronto. Então
+que que ele vai fazer agora, gente?
+Agora que começa o segredo do negócio,
+tá? O ideal é que obviamente a gente dê
+nichos, etc. Eu deixei aberto aqui para
+ser mais dinâmico no vídeo, mas esse
+agente de A, ele vai cruzar o meu
+perfil, meu tempo de disponibilidade, a
+minha produtividade, né? Quantos artigos
+que eu consigo fazer, ele vai pegar
+essas características e encontrar a
+melhor oportunidade pro meu perfil.
+Então isso muda tudo por cada pessoa tem
+um perfil. Que que ele fez aqui, gente?
+Ó, ele colocou o meu, gente, ó, o que
+que ele fez aqui, ó. Ele colocou o site
+FDF como melhor opção, né? Então, ele
+colocou uma hora aqui, eh, por dia. E
+aí, com base nisso, ele começa a fazer
+uma pesquisa. Essa pesquisa é
+fundamental para esse negócio dar certo,
+tá? E aí, o que que ele fez, gente? Ele
+cruzou os meus dados, as minhas
+informações com base no que tá rolando
+no mercado, o que que as pessoas estão
+pesquisando lá. E isso é fundamental,
+tá? Porque de fato quando eh ele
+consegue encontrar essa oportunidade com
+base no meu perfil, ele vai ver o volume
+de tráfego, ele vai ver literalmente
+quanto que ali de oportunidade
+financeira mesmo, né, gente? Prontinho,
+ele acabou de fazer um formato aqui
+incrível, tá? Ele foi lá e começou a
+buscar opções para mim de acordo com o
+meu perfil, tá? E aí o que acontece? Nós
+temos aqui um guardião. O que que é um
+guardião? é um outro agente que garante
+que eh seja entregue uma oportunidade
+com com base nos parâmetros. Então, são
+dois agentes trabalhando para você. Eh,
+e aí o que que ele entregou de
+oportunidade? Por exemplo, ó, ele
+colocou aqui o meu perfil, né? Colocou
+aqui o melhor formato de de monetização,
+colocou um alerta em relação ao sandbox
+aqui e aí ele já colocou, ó, se você não
+quiser isso aqui também tem um
+secundário, tá? E a oportunidade
+encontrada, ele encontrou aqui um ramo
+de estética, né, que é um ramo que fala
+aí sobre maquiagem,
+eh, coisas relacionadas à unha, etc.,
+né, sobrancelha, etc. E monta aqui mais
+ou menos uma projeção financeira. E aí
+ele monta o tamanho desse mercado, né? É
+só para você ter uma ideia do tamanho do
+mercado, que não necessariamente
+significa isso que você vai faturar, é
+só para você entender eh o tamanho da
+oportunidade que tem. Todos esses
+volumes aqui são de pesquisas reais que
+estão acontecendo e também ele coloca em
+ordem de prioridade, né, quais páginas
+você deve começar primeiro, tá? E agora
+a gente tem o próximo passo. Bom, agora
+que a gente já tem o norte aqui de qual
+o curso que a gente vai se afiliar, a
+gente precisa encontrar, né, eh, um
+infoprodutor que faça isso, tá? E o
+melhor caminho, na minha opinião, é
+literalmente a Hotmart, tá? Esse vídeo
+aqui é um vídeo patrocinado da Hotmart,
+mas de fato eu falo de maneira muito
+verdadeira. A Hotmart ela assim uma
+parte fundamental no coração dessa
+lógica aqui de monetização. Quando a
+gente fala de fundo de funil, a pessoa
+já tá no momento de compra, ela já
+decidiu que quer comprar aquele curso. E
+aí quando ela pesquisa isso no Google,
+né? Então ela digitou lá, sei lá, curso
+de confeiteiro online, ela quer cair
+numa land page e quer realizar a compra.
+E aqui, gente, entra a Hotmart, que faz
+muito sentido. A Hotmart é uma
+plataforma para quem quer criar, vender
+ou se afiliar a produtos digitais, como
+curso online, ebooks, mentorias e
+eventos, entre outros diversos tipos de
+soluções que a Hotmart tem, tá? Então,
+nesse primeiro momento, a gente vai
+trabalhar como afiliado, né? E aí a
+gente vai se afiliar a esse
+infoprodutor. Mas vamos dizer que esse
+negócio começou a escalar, começou a
+chegar num resultado financeiro
+interessante. O que que você pode fazer?
+Você pode criar o seu próprio produto.
+Então lá dentro da Hotmart você consegue
+hospedar e vender o seu produto digital.
+Então nesse primeiro momento, entra como
+afiliado, mas depois por não não se
+tornar um produtor desse produto que
+você já tá vendendo, não é verdade? Você
+pode literalmente montar aí um formato
+bem interessante, escalar suas vendas
+com isso. E gente, olha como isso se
+conecta com o que eu tô mostrando aqui
+no modelo do site FDF. Eu não quero
+criar uma página genérica. Eu quero
+encontrar buscas com intenções de
+compra, entender que a pessoa quer
+escolher uma oferta que faz sentido
+criar uma página que ajuda essa pessoa a
+tomar essa decisão. Então o raciocínio é
+simples. Eu escolho um nicho, depois eu
+vejo se existe buscas, né, do Google
+efetivamente ali, como a gente fez,
+entro lá na Hotmart, analiso os produtos
+digitais que tem total relação com a
+intenção de busca e depois eu crio, né,
+uma página, obviamente, uma land page de
+fundo de funil para se conectar para
+quem tá realmente buscando aquela aquele
+curso, buscando aquela solução. Mas
+presta atenção, isso aqui é não é sair
+pegando qualquer produto, jogando o link
+de qualquer maneira. O erro de muita
+gente é escolher o produto errado ou
+escolher de forma aleatória e achar que
+é só colocar o link que vai vender rios
+de dinheiro. E não é assim, né, gente? A
+estratégia é primeiro entender a
+intenção de busca, né, com base numa boa
+oferta, né, que você vai encontrar lá na
+Hotmart, criar a página. E de fato a
+Hotmart ela entra com uma plataforma,
+gente, que traz credibilidade. Ela
+consegue conectar você a esse criador,
+mas dentro do mercado ela é muito
+conhecida e inclusive vai te ajudar a
+passar essa credibilidade. Então, se
+você quer conhecer a Hotmart, entender
+eh como começar nesses nesse modelo de
+negócio, ó, o link tá aqui na descrição
+desse vídeo, se cadastra lá na Hotmart
+que esse é o primeiro passo, tá? como eu
+falei agora como um afiliado, mas depois
+você pode se tornar um infoprodutor.
+Bom, gente, que que você vai fazer
+agora? Você vai pegar o nosso template
+pronto já para isso. É, cada curso desse
+vai se tornar uma land page, tá? Então,
+por exemplo, esse daqui, deixa eu pegar
+aqui um exemplo de de land page para
+você ver. Por exemplo, essa land page
+aqui, ela é a land page que vai ser ali
+eh igual da UDM que eu tava te
+mostrando, onde você vai preencher todos
+os dados das informações que a gente
+pegou da Hotmart e a gente vai colocar
+aqui o nosso link de afiliado, tá? Então
+imagina o seguinte, vai ser literalmente
+um formato de escola, né? Você tem
+vários cursos, a pessoa pesquisando no
+Google, caino na sua land page,
+obviamente de novo, né? trabalhe com
+ticket médio baixo e aí isso vai virar
+uma consequência de vendas para você.
+Gente, isso aqui, olha, é fenomenal, tá?
+Se você quer de fato fazer esse negócio
+dar certo, você precisa entender que o
+caçador de nicho faz toda a diferença
+para você. Você se afiliar a um produto
+adequado faz muita diferença. E depois
+disso entra a parte de backlinks. Você
+tem duas maneiras de fazer. Uma é
+gratuitamente através de um grupo do
+WhatsApp que eu tô deixando aqui, que é
+um grupo exclusivo de backlinks, tá? tá
+com mais de 800 pessoas que trocam
+backlink. Você não sabe o que backlink é
+basicamente o Google para ele dar
+tráfego para você, ele obviamente
+precisa confiar em você. Então backlink
+são outros sites te referenciando e você
+consegue fazer isso gratuitamente. Link
+fixado no primeiro comentário. E também
+caso você queira tem o nosso formato de
+rateio, aonde nós fazemos os backlinks
+para você de forma automática, tá?
+Então, portais como IG, Terra e etc,
+você consegue receber por um valor assim
+infinitamente mais barato. Então, entra
+no grupo WhatsApp, você tem essas duas
+oportunidades e aí você começa a tocar o
+seu projeto. E ó, eu tô deixando aqui
+outros formatos de monetização que faz
+muito sentido para você. Entra aqui,
+aprenda mais um pouquinho sobre
+monetização de sites que você vai
+adorar. Espero ter te ajudado.
