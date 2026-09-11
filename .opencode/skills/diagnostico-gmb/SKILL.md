@@ -12,6 +12,8 @@ description: >
 
 Skill de diagnóstico do Google Meu Negócio. Analisa o perfil e gera score + relatório.
 
+**Inclui:** Análise do GMB + Volume de busca do serviço na cidade + Oportunidade real.
+
 ## Dependências
 
 - WebSearch ou WebFetch (pra buscar o GMB)
@@ -24,7 +26,23 @@ Skill de diagnóstico do Google Meu Negócio. Analisa o perfil e gera score + re
 2. Localizar o painel do GMB (lado direito da busca)
 3. Anotar todas as informações visíveis
 
-### Passo 2 — Analisar 10 Critérios
+### Passo 2 — Analisar Volume de Busca (NOVO ⭐)
+
+**ANTES de analisar o GMB, verificar se o serviço tem demanda.**
+
+1. Buscar `"[serviço] [cidade]"` no Google
+2. Estimar volume:
+   - **MUITO BAIXO** (<50 buscas/mês) → Serviço sem demanda
+   - **BAIXO** (50-200 buscas/mês) → Demanda limitada
+   - **MÉDIO** (200-1.000 buscas/mês) → Boa oportunidade
+   - **ALTO** (>1.000 buscas/mês) → Excelente oportunidade
+
+3. Encontrar concorrente líder:
+   - Quem aparece no topo do orgânico?
+   - Quantos acessos estimados tem?
+   - Qual a posição do cliente?
+
+### Passo 3 — Analisar 10 Critérios
 
 | Critério | Pontos | O que verificar |
 |----------|--------|-----------------|
@@ -39,7 +57,7 @@ Skill de diagnóstico do Google Meu Negócio. Analisa o perfil e gera score + re
 | **Website** | 5 | Tem link pro site? |
 | **Redes sociais** | 5 | Tem Facebook, Instagram, etc.? |
 
-### Passo 3 — Calcular Score
+### Passo 4 — Calcular Score
 
 **Soma total = Score (0-100)**
 
@@ -49,7 +67,7 @@ Skill de diagnóstico do Google Meu Negócio. Analisa o perfil e gera score + re
 - **61-80 = 🟢 OK** — Já encaminhado. Melhorias pontuais.
 - **81-100 = ✅ COMPLETO** — Não prospecar. Já tá bem servido.
 
-### Passo 4 — Gerar Relatório
+### Passo 5 — Gerar Relatório
 
 Criar arquivo `marketing/diagnosticos/gmb-[nome]-[data].md` com:
 
@@ -59,6 +77,7 @@ Criar arquivo `marketing/diagnosticos/gmb-[nome]-[data].md` com:
 **Data:** [AAAA-MM-DD]
 **Score:** XX/100
 **Classificação:** [VERMELHO/AMARELO/OK/COMPLETO]
+**Volume de busca do serviço:** [MUITO BAIXO/BAIXO/MÉDIO/ALTO]
 
 ---
 
@@ -79,16 +98,23 @@ Criar arquivo `marketing/diagnosticos/gmb-[nome]-[data].md` com:
 
 ---
 
-## O que está faltando
+## Oportunidade de Mercado
 
-1. [Item 1 — evidência do problema]
-2. [Item 2 — evidência do problema]
-3. [Item 3 — evidência do problema]
+### Volume de Busca
+- Pessoas buscando "[serviço] em [cidade]": ~[X]/mês
+- Concorrente líder: [NOME]
+- Tráfego estimado do concorrente: [Y]/mês
+- Posição do cliente: [Z]ª página
 
-### Impacto
-Quando alguém busca "[nicho] perto de mim" no Google, o concorrente
-tem um perfil mais completo, mais avaliações e mais informações.
-Isso pode influenciar qual empresa a pessoa escolhe.
+### O que o concorrente ganha
+- Estimativa de clientes por mês: [W]
+- Ticket médio estimado: R$[valor]
+- **Faturamento potencial:** R$[total]/mês
+
+### O que falta pro cliente
+- [Item 1 — evidência do problema]
+- [Item 2 — evidência do problema]
+- [Item 3 — evidência do problema]
 
 ---
 
@@ -121,10 +147,11 @@ Isso pode influenciar qual empresa a pessoa escolhe.
 *Diagnóstico gerado pela APSIDE*
 ```
 
-### Passo 5 — Entregar
+### Passo 6 — Entregar
 1. Mostrar score no chat
 2. Listar o que falta
-3. Oferecer diagnóstico completo (Raio-X) ou proposta de solução
+3. **Mostrar a oportunidade:** "Seu concorrente tá captando X clientes por mês"
+4. Oferecer diagnóstico completo (Raio-X) ou proposta de solução
 
 ## Regras
 

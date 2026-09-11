@@ -41,8 +41,11 @@ Negócios que já têm Google fraco, sem fotos, sem avaliações.
 
 1. Buscar o negócio no Google
 2. Analisar: Google, site, redes, captação
-3. Identificar 2-3 problemas reais
-4. Formato: 1 página com Problema → Evidência → Impacto → Prioridade
+3. **Pesquisar volume de busca do serviço na cidade** (Ubersuggest, Google, ou estimativa)
+4. **Encontrar concorrente líder** — quem aparece no topo do orgânico
+5. **Calcular gap** — "concorrente tem X, você tem Y"
+6. Identificar 2-3 problemas reais
+7. Formato: 1 página com Problema → Evidência → Impacto → Prioridade
 
 #### Passo A2 — Prospecção digital
 
@@ -103,9 +106,10 @@ Rodar os comandos na ordem:
 1. Chegada (30s)
 2. Contexto — ouve antes de falar (2 min)
 3. Mostra o problema — pesquisa no celular na frente dele (2 min)
-4. Entrega raio-x — mostra os 4 pontos (2 min)
-5. Fecha — proposta + prazo (2 min)
-6. Indicação — sempre (1 min)
+4. **Argumentação SEO** — usa as 3 argumentações acima (2 min)
+5. Entrega raio-x — mostra os 4 pontos + dados de busca (2 min)
+6. Fecha — proposta + prazo (2 min)
+7. Indicação — sempre (1 min)
 
 #### Passo B6 — Follow-up (se não fechar)
 
@@ -134,6 +138,65 @@ Se o cliente estiver satisfeito, identificar o próximo problema:
 2. Se sim → "Bom. E como tá a parte de converter quem te encontra?"
 3. Se não → "Deixa eu ver o que pode estar acontecendo..."
 
+## Script de Argumentação SEO (3 argumentações)
+
+Quando o cliente pergunta "por que eu preciso disso?" ou "isso funciona mesmo?", usar as 3 argumentações na ordem:
+
+### Argumentação 1 — Tráfego do Concorrente
+
+> "Seu concorrente [NOME] aparece quando alguém busca [serviço] na cidade. Ele tá captando clientes que deveriam ser seus. Olha: ele tem [X] acessos por mês só pelo Google. São pessoas procurando exatamente o que você oferece."
+
+**Como descobrir:** Buscar "[serviço] [cidade]" no Google. Anotar o 1º colocado orgânico. Se tiver Ubersuggest ou SimilarWeb, ver o tráfego estimado.
+
+### Argumentação 2 — Volume de Busca
+
+> "Existem [X] pessoas por mês buscando [serviço] no Google na sua região. Hoje você não aparece pra nenhuma delas. Seu concorrente aparece pra [Y] delas. A pergunta é: quem vai captar essas pessoas — você ou ele?"
+
+**Como descobrir:** Ubersuggest, Google Keyword Planner, ou estimativa manual: "quantas pessoas buscam esse serviço na cidade?"
+
+### Argumentação 3 — Recomendação por IA
+
+> "Quando alguém digita no ChatGPT 'melhor [serviço] em [cidade]', quem aparece? Seu concorrente. O mundo tá mudando. Não é só o Google mais. É o ChatGPT, é o Gemini, é o Copilot. Se o seu negócio não tá otimizado pra essas ferramentas, você fica invisível."
+
+**Como usar:** Quando o cliente é mais velho ou cético, essa argumentação mostra que é "tendência" e "futuro".
+
+### Regra de ouro das argumentações
+
+**NÃO vender site. Vender CLIENTES.**
+
+- ✅ "Vou colocar seu negócio na frente de quem tá procurando"
+- ✅ "Cada página é um vendedor que trabalha 24h"
+- ✅ "Seu concorrente tá captando clientes que deveriam ser seus"
+- ❌ "Vou criar um site bonito"
+- ❌ "Seu site tá com problema técnico"
+- ❌ "Precisa otimizar as meta tags"
+
+---
+
+## Matemática do SEO (para usar no fechamento)
+
+Quando o cliente perguntar "quanto eu vou ganhar com isso?", usar esta fórmula:
+
+```
+Tráfego potencial × Taxa de conversão × Ticket médio = Faturamento estimado
+
+Exemplo:
+- 500 pessoas buscam "encanador em [cidade]" por mês
+- 10% clicam no site = 50 visitas
+- 5% ligam = 2.5 ligações/mês
+- Ticket médio R$200 = R$500/mês extra
+
+Com mais páginas (outras cidades/serviços):
+- 5 cidades × R$500 = R$2.500/mês potencial
+```
+
+**Como usar:**
+- Não inventar os números — usar dados reais ou estimativas conservadoras
+- Mostrar que o investimento se paga em poucos meses
+- Comparar com custo de Google Ads (mais caro, para quando parar de pagar)
+
+---
+
 ## Regras
 
 - **O diagnóstico é a porta.** Não o Display NFC.
@@ -145,6 +208,7 @@ Se o cliente estiver satisfeito, identificar o próximo problema:
 - **Instagram-first: não vender na DM.** O objetivo é gerar curiosidade e agendar visita presencial.
 - **Instagram-first: sempre usar dados reais.** Seguidores, posts, engajamento — tudo extraído do Apify.
 - **Instagram-first: o gancho é "você é invisível no Google".** Não "seu Instagram tá ruim". O Instagram deles é bom. É o Google que não existe.
+- **SEO: sempre vender o RESULTADO, não o SITE.** "Vou colocar seu negócio na frente de quem procura" não "Vou criar seu site".
 
 ## Referências
 

@@ -119,6 +119,7 @@ Use tabela quando ajudar. Seja direto, sem enrolacao.
 | **H2s** | Subtitulos com variacoes da palavra-chave? | Tags `<h2>` |
 | **URLs** | Estrutura limpa? Palavra-chave na URL? | Barra de endereco |
 | **Texto** | Conteudo relevante? Minimo 300 palavras na pagina principal? | Body |
+| **Palavras semanticas** | Tem palavras correlacionadas ao assunto? (ex: vidracaria → "instalacao", "reparo", "vidro") | Body |
 | **Imagens** | Tem `alt` descritivo? Nome do arquivo descritivo? | Tags `<img>` |
 | **Velocidade** | Carrega rapido? (testar com PageSpeed Insights) | pagespeed.web.dev |
 | **Mobile** | Responsivo? Texto legivel sem zoom? | Visual + PageSpeed |
@@ -141,6 +142,7 @@ Use tabela quando ajudar. Seja direto, sem enrolacao.
 | H1 unico e otimizado | 10 |
 | H2s com variacoes | 10 |
 | Conteudo (300+ palavras) | 15 |
+| Palavras semanticas (LSI) | 5 |
 | Imagens com alt | 10 |
 | Velocidade boa (>70 PageSpeed) | 10 |
 | Mobile responsivo | 10 |
@@ -166,8 +168,10 @@ Salvar em `dados/seo/[nome-do-cliente]-[data]/diagnostico-seo.md` com a estrutur
 1. **Cabecalho** — nome, data, cidade, servico
 2. **Secao 1: Concorrente GMB** — categorias, servicos, areas, avaliacoes, pontos fortes/fracos
 3. **Secao 2: SEO On-Page** — score (0-100), tabela de fatores com status, o que bom/falta
-4. **Secao 3: Plano de Acao** — checklist GMB + checklist SEO on-page + prioridades
-5. **Secao 4: Proximos Passos** — o que entregar, prazo, investimento
+4. **Secao 3: Matematica do SEO** — volume de busca, trafego potencial, conversao estimada, faturamento potencial
+5. **Secao 4: Topic Cluster** — estrutura de URLs do concorrente, estrutura sugerida
+6. **Secao 5: Plano de Acao** — checklist GMB + checklist SEO on-page + topic cluster + prioridades
+7. **Secao 6: Proximos Passos** — o que entregar, prazo, investimento
 
 #### Saida HTML (visual pro cliente)
 
@@ -181,6 +185,8 @@ Criar `relatorio-seo.html` na mesma pasta. Layout:
   - Score GMB (gauge visual verde/amarelo/vermelho)
   - Score On-Page (gauge visual)
   - Tabela "Concorrente Lider" com dados extraidos
+  - **Matematica do SEO** — trafego potencial vs atual (visual comparativo)
+  - **Topic Cluster** — estrutura de URLs sugerida
   - Tabela "Seu Site" com fatores OK/faltando
   - Checklist de implementacao
   - CTA final (contato)
@@ -245,6 +251,87 @@ const fs = require('fs');
 
 ---
 
+### Etapa 5 — Matematica do SEO (pro cliente entender o valor)
+
+**O que faz:** Calcula o potencial financeiro de SEO pro cliente. Mostra quanto ele pode ganhar se estiver bem posicionado.
+
+**Como calcular:**
+
+```
+1. VOLUME DE BUSCA:
+   → Buscar "[servico] [cidade]" no Google
+   → Estimar quantas pessoas buscam isso por mes
+   → Ex: "vidracaria em Campinas" = ~1.500 buscas/mes
+
+2. TRAFEGO POTENCIAL:
+   → Posicao 1-3 = ~60% dos cliques
+   → Posicao 4-10 = ~30% dos cliques
+   → Posicao 11+ = ~5% dos cliques
+   → Ex: 1.500 × 60% = 900 visitas/mes (se no topo)
+
+3. CONVERSAO:
+   → Site local: 3-5% dos visitantes ligam/mandam WhatsApp
+   → Ex: 900 × 4% = 36 leads/mes
+
+4. FATURAMENTO:
+   → Leads × Ticket medio = Faturamento potencial
+   → Ex: 36 × R$300 = R$10.800/mes potencial
+```
+
+**Como mostrar pro cliente:**
+
+> "Existem [X] pessoas por mes buscando [servico] em [cidade]. Hoje voce nao aparece pra nenhuma. Seu concorrente aparece pra [Y] delas. Com um site otimizado, voce poderia estar captando [Z] clientes por mes. Sao R$[valor] em receita que esta indo pro concorrente."
+
+**Importante:**
+- NUNCA inventar os numeros — usar estimativas conservadoras
+- Mostrar que o investimento se paga em poucos meses
+- Comparar com Google Ads (mais caro, para quando parar de pagar)
+
+---
+
+### Etapa 6 — Topic Cluster (estrutura de URLs)
+
+**O que faz:** Mostra como o concorrente estrutura as URLs e sugere a estrutura ideal pro cliente.
+
+**Conceito:**
+```
+ESTRUTURA RUIM (generica):
+/servicos/
+/sobre/
+/contato/
+
+ESTRUTURA BOA (por cidade/servico):
+/servico/cidade/
+/servico/cidade/subservico-1/
+/servico/cidade/subservico-2/
+
+EXEMPLO REAL (vidracaria):
+/vidracaria/campinas/
+/vidracaria/paulinia/
+/vidracaria/limeira/
+/vidracaria/instalacao/
+/vidracaria/reparo/
+```
+
+**Por que funciona:**
+- Google entende a hierarquia do site
+- Cada pagina ranquea pra uma palavra-chave especifica
+- Topic cluster = autoridade no assunto
+- "Quando o Google vê que voce domina tudo sobre um assunto, ele confia mais no seu site"
+
+**Como mostrar pro cliente:**
+
+> "Seu concorrente tem uma pagina pra cada cidade que ele atende. Pra Campinas, tem. Pra Paulinia, tem. Pra Limeira, tem. Cada pagina traz clientes diferentes. Voce so tem uma pagina generica. Sao clientes que estao indo pro concorrente."
+
+**Checklist de Topic Cluster:**
+- [ ] Criar pagina principal: /[servico]/[cidade]/
+- [ ] Criar paginas por sub-servico: /[servico]/[cidade]/[subservico]/
+- [ ] Criar paginas por regiao (se atende varias): /[servico]/[bairro]/
+- [ ] Linkar todas as paginas entre si (links internos)
+- [ ] Cada pagina com conteudo unico (nao copiar/colar)
+
+---
+
 ## Como rodar (sequencia)
 
 Quando o usuario pedir `/seo-gmb` ou "analisar SEO do [NOME]", rodar na ordem:
@@ -272,9 +359,22 @@ Quando o usuario pedir `/seo-gmb` ou "analisar SEO do [NOME]", rodar na ordem:
    → Gerar checklist GMB + SEO
    → Priorizar por impacto
 
-6. ENTREGAR RESUMO:
+6. RODAR ETAPA 5 (matematica do SEO):
+   → Estimar volume de busca do servico na cidade
+   → Calcular trafego potencial
+   → Calcular conversao estimada
+   → Mostrar faturamento potencial
+
+7. RODAR ETAPA 6 (topic cluster):
+   → Mapear URLs do concorrente
+   → Sugerir estrutura pro cliente
+   → Listar paginas a criar
+
+8. ENTREGAR RESUMO:
    - Score GMB do concorrente: XX
    - Score on-page do site: XX/100
+   - Trafego potencial: XX visitas/mes
+   - Faturamento potencial: R$XX/mes
    - Arquivos: diagnostico-seo.md + relatorio-seo.png
    - Top 3 prioridades
 ```

@@ -57,6 +57,12 @@ Criar arquivo `saidas/proposta-[cliente]-[data].md` com:
 ### Impacto
 [O que acontece se não resolver — sem inventar números]
 
+### O que o concorrente está ganhando
+- Concorrente líder: [NOME]
+- Tráfego estimado: [X] visitas/mês
+- Posição no Google: [1ª-3ª posição]
+- Clientes potenciais por mês: [Y]
+
 ---
 
 ## Solução Proposta
@@ -71,6 +77,29 @@ Criar arquivo `saidas/proposta-[cliente]-[data].md` com:
 
 ### Investimento
 R$ [valor]
+
+---
+
+## ROI — Quanto você pode ganhar
+
+**Cálculo do potencial:**
+
+| Métrica | Valor estimado |
+|---------|----------------|
+| Pessoas buscando [serviço] em [cidade] | [X]/mês |
+| Posição potencial (1ª-3ª) | [Y]% dos cliques |
+| Visitas potenciais | [Z]/mês |
+| Taxa de conversão (ligação/WhatsApp) | 3-5% |
+| Leads potenciais | [W]/mês |
+| Ticket médio | R$[valor] |
+| **Faturamento potencial** | **R$[total]/mês** |
+
+**Retorno sobre investimento:**
+- Investimento: R$[valor]
+- Retorno mensal potencial: R$[total]
+- Payback: [X] meses
+
+> "Seu concorrente tá captando [X] clientes por mês com orgânico. Com essa solução, você pode estar captando o mesmo tanto."
 
 ---
 
