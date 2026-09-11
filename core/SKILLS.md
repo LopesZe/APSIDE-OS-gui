@@ -15,6 +15,7 @@ O opencode descobre sozinho; este índice é para humanos e para o `RESOLVER.md`
 | `/publicar-tema` | Conteúdo completo a partir de tema: blog + carrossel + legendas IG/FB/LinkedIn. |
 | `/aprovar-post` | Aprova e publica (blog + Instagram + Facebook via Meta Graph API). |
 | `/seo` | Fluxo completo SEO/GEO/Google Ads em 8 passos. |
+| `/seo-gmb` | Pipeline completo de SEO local: diagnostico concorrente GMB + SEO on-page + relatorio visual + checklist. |
 | `/anuncio-google` | Campanha Google Ads em CSV pronto para o Google Ads Editor. |
 | `/relatorio-ads` | Relatório semanal de Google + Meta Ads com alertas e recomendações. |
 | `/responder-avaliacoes` | Respostas curtas e humanas para avaliações do Google Meu Negócio. |

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Proposta — ANG Festas — APSIDE</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1F2133;
+  color: #fff;
+  width: 1080px;
+  margin: 0 auto;
+  padding: 60px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.header .tag {
+  display: inline-block;
+  background: rgba(0,230,91,0.15);
+  color: #00E65B;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+.header h1 {
+  font-size: 42px;
+  font-weight: 900;
+  background: linear-gradient(90deg, #00E65B, #0066FF, #6E00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 8px;
+}
+.header .sub {
+  font-size: 16px;
+  color: #888;
+}
+
+.section {
+  margin-bottom: 48px;
+}
+.section-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #00E65B;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-title .num {
+  background: #00E65B;
+  color: #1F2133;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+}
+th {
+  background: rgba(0,230,91,0.1);
+  color: #00E65B;
+  text-align: left;
+  padding: 12px 16px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  font-size: 13px;
+  line-height: 1.5;
+}
+.fail { color: #FF4444; }
+.ok { color: #00E65B; }
+
+.cards {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+.card {
+  flex: 1;
+  background: rgba(255,255,255,0.04);
+  border-radius: 16px;
+  padding: 24px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.card-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #00E65B;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.card p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #ccc;
+}
+
+.price-box {
+  background: linear-gradient(135deg, rgba(0,230,91,0.1), rgba(0,102,255,0.1));
+  border: 2px solid #00E65B;
+  border-radius: 20px;
+  padding: 40px;
+  text-align: center;
+  margin: 40px 0;
+}
+.price-box .value {
+  font-size: 56px;
+  font-weight: 900;
+  color: #00E65B;
+  margin-bottom: 8px;
+}
+.price-box .label {
+  font-size: 16px;
+  color: #888;
+  margin-bottom: 16px;
+}
+.price-box .includes {
+  font-size: 13px;
+  color: #aaa;
+  line-height: 1.8;
+}
+
+.before-after {
+  display: flex;
+  gap: 24px;
+}
+.before-after .col {
+  flex: 1;
+  border-radius: 16px;
+  padding: 24px;
+}
+.before-after .before {
+  background: rgba(255,68,68,0.08);
+  border: 1px solid rgba(255,68,68,0.2);
+}
+.before-after .after {
+  background: rgba(0,230,91,0.08);
+  border: 1px solid rgba(0,230,91,0.2);
+}
+.before-after .col-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.before-after .before .col-title { color: #FF4444; }
+.before-after .after .col-title { color: #00E65B; }
+.before-after ul {
+  list-style: none;
+}
+.before-after li {
+  padding: 6px 0;
+  font-size: 13px;
+  color: #ccc;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.cta {
+  text-align: center;
+  padding: 48px 40px;
+  background: linear-gradient(135deg, #00E65B, #0066FF);
+  border-radius: 20px;
+  margin-top: 40px;
+}
+.cta h2 {
+  font-size: 28px;
+  font-weight: 900;
+  color: #1F2133;
+  margin-bottom: 8px;
+}
+.cta p {
+  font-size: 16px;
+  color: #1F2133;
+  opacity: 0.7;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 11px;
+  color: #444;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="tag">Proposta Comercial</div>
+  <h1>ANG Festas</h1>
+  <div class="sub">Presença Digital Completa — Ponta Grossa, PR — 11/09/2026</div>
+</div>
+
+<!-- DIAGNOSTICO -->
+<div class="section">
+  <div class="section-title"><div class="num">1</div> Diagnóstico</div>
+  <table>
+    <tr><th>Item</th><th>Situação Atual</th><th>Impacto</th></tr>
+    <tr><td>Website</td><td class="fail">Não tem</td><td>Clientes não encontram você no Google</td></tr>
+    <tr><td>Fotos</td><td class="fail">2 fotos (só fachada)</td><td>Perfil passa descuido</td></tr>
+    <tr><td>Serviços</td><td class="fail">Genérico</td><td>Google não entende o que você faz</td></tr>
+    <tr><td>Categorias</td><td class="fail">Uma só</td><td>Perde espaço pro concorrente</td></tr>
+    <tr><td>Avaliações</td><td class="ok">5,0 (9 avaliações)</td><td>Nota ótima, mas volume baixo</td></tr>
+  </table>
+  <p style="font-size:14px; color:#aaa; margin-top:12px; line-height:1.6;">
+    <strong style="color:#FF4444;">Problema:</strong> A ANG Festas tem um bom negócio (nota 5,0 comprova), mas não aparece quando alguém busca "salão de festas em Ponta Grossa". O Google mostra a concorrência porque ela tem website, fotos, serviços detalhados e categorias corretas.
+  </p>
+</div>
+
+<!-- SOLUCAO -->
+<div class="section">
+  <div class="section-title"><div class="num">2</div> Solução</div>
+  <div class="cards">
+    <div class="card">
+      <div class="card-title">Google Meu Negócio</div>
+      <p>Otimização completa: categorias corretas, 6+ serviços detalhados, descrição com palavras-chave, áreas de atendimento, link do Instagram.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">Landing Page</div>
+      <p>Site de 1 página, responsivo, com fotos, serviços, WhatsApp direto, mapa e SEO otimizado. HTTPS incluído.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">Fotos + Avaliações</div>
+      <p>30+ fotos organizadas no Google + estratégia de avaliações (meta: 20+ em 30 dias).</p>
+    </div>
+  </div>
+</div>
+
+<!-- ANTES / DEPOIS -->
+<div class="section">
+  <div class="section-title"><div class="num">3</div> Antes vs Depois</div>
+  <div class="before-after">
+    <div class="col before">
+      <div class="col-title">Hoje</div>
+      <ul>
+        <li>2 fotos no Google</li>
+        <li>"Máquinas e serviços"</li>
+        <li>Sem website</li>
+        <li>1 categoria</li>
+        <li>9 avaliações</li>
+      </ul>
+    </div>
+    <div class="col after">
+      <div class="col-title">Com a APSIDE</div>
+      <ul>
+        <li>30+ fotos organizadas</li>
+        <li>6 serviços com descrição</li>
+        <li>Landing page profissional</li>
+        <li>5 categorias otimizadas</li>
+        <li>Meta: 20+ avaliações</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- INVESTIMENTO -->
+<div class="price-box">
+  <div class="value">R$ 697</div>
+  <div class="label">Pagamento único</div>
+  <div class="includes">
+    Landing page + Otimização GMB + Bank de fotos + Estratégia de avaliações<br>
+    Prazo: 7 dias úteis · Hospedagem: 1 ano incluído
+  </div>
+</div>
+
+<!-- PROXIMOS PASSOS -->
+<div class="section">
+  <div class="section-title"><div class="num">4</div> Próximos Passos</div>
+  <div class="cards">
+    <div class="card">
+      <div class="card-title">1. Confirme</div>
+      <p>Fale com a APSIDE via WhatsApp ou telefone pra confirmar o interesse.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">2. Briefing</div>
+      <p>15 minutos pra alinhar serviços, fotos e textos do site.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">3. Entrega</div>
+      <p>7 dias úteis — site no ar + GMB otimizado + fotos publicadas.</p>
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta">
+  <h2>Quer implementar isso?</h2>
+  <p>APSIDE — Estruturação digital para negócios locais — (42) 99990-9828</p>
+</div>
+
+<div class="footer">
+  Proposta válida por 7 dias — APSIDE — 11/09/2026
+</div>
+
+</body>
+</html>

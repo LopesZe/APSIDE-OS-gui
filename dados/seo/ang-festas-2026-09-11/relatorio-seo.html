@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Diagnostico SEO — ANG Festas — APSIDE</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1F2133;
+  color: #fff;
+  width: 1080px;
+  margin: 0 auto;
+  padding: 60px;
+}
+
+/* HEADER */
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.header .tag {
+  display: inline-block;
+  background: rgba(0,230,91,0.15);
+  color: #00E65B;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+.header h1 {
+  font-size: 42px;
+  font-weight: 900;
+  background: linear-gradient(90deg, #00E65B, #0066FF, #6E00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 8px;
+}
+.header .sub {
+  font-size: 18px;
+  color: #888;
+}
+
+/* SCORES */
+.scores {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 50px;
+}
+.score-card {
+  flex: 1;
+  background: rgba(255,255,255,0.04);
+  border-radius: 20px;
+  padding: 32px;
+  text-align: center;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.score-card .label {
+  font-size: 11px;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+.score-card .value {
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 1;
+}
+.score-card .value.yellow { color: #FFD700; }
+.score-card .value.red { color: #FF4444; }
+.score-card .value.green { color: #00E65B; }
+.score-card .detail {
+  font-size: 13px;
+  color: #666;
+  margin-top: 8px;
+}
+
+/* SECTION */
+.section {
+  margin-bottom: 48px;
+}
+.section-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #00E65B;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-title .num {
+  background: #00E65B;
+  color: #1F2133;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+/* TABLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+}
+th {
+  background: rgba(0,230,91,0.1);
+  color: #00E65B;
+  text-align: left;
+  padding: 12px 16px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  font-size: 13px;
+  line-height: 1.5;
+}
+.ok { color: #00E65B; }
+.fail { color: #FF4444; }
+.warn { color: #FFD700; }
+
+/* TWO COLS */
+.two-cols {
+  display: flex;
+  gap: 24px;
+}
+.two-cols .col {
+  flex: 1;
+  background: rgba(255,255,255,0.03);
+  border-radius: 16px;
+  padding: 24px;
+  border: 1px solid rgba(255,255,255,0.06);
+}
+.col-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* CHECKLIST */
+.checklist {
+  list-style: none;
+}
+.checklist li {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.check {
+  width: 18px;
+  height: 18px;
+  border: 2px solid #00E65B;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.priority {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.priority.alta { background: rgba(0,230,91,0.15); color: #00E65B; }
+.priority.media { background: rgba(0,102,255,0.15); color: #0066FF; }
+.priority.baixa { background: rgba(255,255,255,0.08); color: #888; }
+
+/* CTA */
+.cta {
+  text-align: center;
+  padding: 48px 40px;
+  background: linear-gradient(135deg, #00E65B, #0066FF);
+  border-radius: 20px;
+  margin-top: 40px;
+}
+.cta h2 {
+  font-size: 28px;
+  font-weight: 900;
+  color: #1F2133;
+  margin-bottom: 8px;
+}
+.cta p {
+  font-size: 16px;
+  color: #1F2133;
+  opacity: 0.7;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 11px;
+  color: #444;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="tag">Diagnostico SEO Local</div>
+  <h1>ANG Festas</h1>
+  <div class="sub">Salao de Festas — Ponta Grossa, PR — 11/09/2026</div>
+</div>
+
+<!-- SCORES -->
+<div class="scores">
+  <div class="score-card">
+    <div class="label">Seu GMB</div>
+    <div class="value yellow">35</div>
+    <div class="detail">/100 — precisa melhorias</div>
+  </div>
+  <div class="score-card">
+    <div class="label">Concorrente (Kirian)</div>
+    <div class="value green">45</div>
+    <div class="detail">/100 — site mas SEO fraco</div>
+  </div>
+  <div class="score-card">
+    <div class="label">Avaliacoes</div>
+    <div class="value green">5,0</div>
+    <div class="detail">9 avaliacoes — nota otima</div>
+  </div>
+</div>
+
+<!-- CONCORRENTE -->
+<div class="section">
+  <div class="section-title"><div class="num">1</div> Concorrente Lider — Kirian Festas</div>
+  <table>
+    <tr><th>Campo</th><th>Kirian (Concorrente)</th><th>ANG Festas (Voce)</th></tr>
+    <tr><td>Categoria principal</td><td class="ok">Salao de Eventos</td><td class="fail">Salao de festas (generica)</td></tr>
+    <tr><td>Servicos cadastrados</td><td class="ok">9 servicos detalhados</td><td class="fail">"Maquinas e servicos"</td></tr>
+    <tr><td>Fotos</td><td class="ok">45+ fotos</td><td class="fail">2 fotos (fachada)</td></tr>
+    <tr><td>Website</td><td class="ok">kirianfestaseeventos.com.br</td><td class="fail">NAO TEM</td></tr>
+    <tr><td>Avaliacoes</td><td class="ok">Mais bem avaliada de PG</td><td class="ok">5,0 (9 avaliacoes)</td></tr>
+    <tr><td>Capacidade</td><td class="ok">250 convidados</td><td class="fail">Nao informado</td></tr>
+    <tr><td>Tempo de mercado</td><td class="ok">17 anos</td><td class="warn">Nao informado</td></tr>
+  </table>
+</div>
+
+<!-- ON-PAGE -->
+<div class="section">
+  <div class="section-title"><div class="num">2</div> SEO On-Page do Concorrente</div>
+  <table>
+    <tr><th>Fator</th><th>Status no Kirian</th><th>Oportunidade</th></tr>
+    <tr><td>Title tag</td><td class="fail">200+ chars (keyword stuffing)</td><td class="ok">Voce pode fazer melhor</td></tr>
+    <tr><td>Meta description</td><td class="fail">Copia do title, nao chama clique</td><td class="ok">Faca uma boa</td></tr>
+    <tr><td>H1</td><td class="warn">Generico, sem palavra-chave</td><td class="ok">Faca "Salao de Festas em Ponta Grossa"</td></tr>
+    <tr><td>Schema</td><td class="fail">Nao tem</td><td class="ok">Adicione LocalBusiness</td></tr>
+    <tr><td>HTTPS</td><td class="fail">HTTP (sem SSL)</td><td class="ok">Use HTTPS desde o inicio</td></tr>
+    <tr><td>Velocidade</td><td class="warn">12+ fonts, scripts pesados</td><td class="ok">Site leve = melhor</td></tr>
+    <tr><td>Conteudo</td><td class="ok">800+ palavras</td><td class="warn">Minimo 300</td></tr>
+    <tr><td>Mobile</td><td class="ok">Responsivo</td><td class="ok">Ja esta bom</td></tr>
+  </table>
+</div>
+
+<!-- SEUS PROBLEMAS -->
+<div class="section">
+  <div class="section-title"><div class="num">3</div> O que Voce Precisa Fazer</div>
+  <div class="two-cols">
+    <div class="col">
+      <div class="col-title">URGENTE (esta semana)</div>
+      <ul class="checklist">
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Criar website (landing page)</li>
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Adicionar website ao GMB</li>
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Categorias corretas no GMB</li>
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Servicos detalhados</li>
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Subir 20+ fotos reais</li>
+      </ul>
+    </div>
+    <div class="col">
+      <div class="col-title">PROXIMAS 2 SEMANAS</div>
+      <ul class="checklist">
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> +30 fotos (total: 50+)</li>
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Melhorar descricao do GMB</li>
+        <li><div class="check"></div> <span class="priority alta">ALTA</span> Solicitar avaliacoes</li>
+        <li><div class="check"></div> <span class="priority media">MEDIA</span> Areas de atendimento</li>
+        <li><div class="check"></div> <span class="priority media">MEDIA</span> Responder avaliacoes</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- DIFERENCIAIS -->
+<div class="section">
+  <div class="section-title"><div class="num">4</div> O que Voce Pode Superar</div>
+  <table>
+    <tr><th>Vantagem</th><th>Como usar</th></tr>
+    <tr><td>Kirian erra no SEO tecnico</td><td>Title tag + meta description otimizadas = mais cliques</td></tr>
+    <tr><td>Kirian nao tem HTTPS</td><td>Site com HTTPS = mais confianca + ranking melhor</td></tr>
+    <tr><td>Kirian nao tem schema</td><td>Schema LocalBusiness = Google entende melhor voce</td></tr>
+    <tr><td>Kirian tem hotmail</td><td>Email profissional = mais credibilidade</td></tr>
+    <tr><td>Voce tem 5,0 estrelas</td><td>Nota perfeita + mais avaliacoes = mais confianca</td></tr>
+  </table>
+</div>
+
+<!-- CTA -->
+<div class="cta">
+  <h2>Quer implementar isso?</h2>
+  <p>APSIDE — Estruturacao digital para negocios locais — (42) 99990-9828</p>
+</div>
+
+<div class="footer">
+  Diagnostico gerado pela APSIDE — 11/09/2026
+</div>
+
+</body>
+</html>

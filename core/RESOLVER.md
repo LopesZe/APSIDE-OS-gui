@@ -16,6 +16,7 @@ próxima ou pergunte.
 | "publicar tema", "gera conteúdo do tema X" | `publicar-tema` |
 | "aprovar post X", "publicar o post" | `aprovar-post` |
 | "seo", "google meu negócio", "aparecer no chatgpt" | `seo` |
+| "seo do site", "seo local", "concorrente no google", "o que o concorrente faz", "/seo-gmb" | `seo-gmb` |
 | "anúncio google", "csv pro google ads" | `anuncio-google` |
 | "relatório de ads", "performance da semana" | `relatorio-ads` |
 | "responder avaliação", "review do google" | `responder-avaliacoes` |
