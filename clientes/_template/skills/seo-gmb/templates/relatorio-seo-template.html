@@ -1,0 +1,221 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080">
+<title>Diagnostico SEO — APSIDE</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1F2133;
+  color: #fff;
+  width: 1080px;
+  padding: 60px;
+}
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.header h1 {
+  font-size: 36px;
+  font-weight: 800;
+  background: linear-gradient(90deg, #00E65B, #0066FF, #6E00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 8px;
+}
+.header .sub {
+  font-size: 16px;
+  color: #888;
+}
+.scores {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+.score-card {
+  flex: 1;
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 30px;
+  text-align: center;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+.score-card .label {
+  font-size: 14px;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+}
+.score-card .value {
+  font-size: 64px;
+  font-weight: 900;
+}
+.score-card .value.green { color: #00E65B; }
+.score-card .value.yellow { color: #FFD700; }
+.score-card .value.red { color: #FF4444; }
+.score-card .detail {
+  font-size: 14px;
+  color: #aaa;
+  margin-top: 8px;
+}
+.section {
+  margin-bottom: 40px;
+}
+.section-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #00E65B;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+th {
+  background: rgba(0,230,91,0.15);
+  color: #00E65B;
+  text-align: left;
+  padding: 12px 16px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  font-size: 14px;
+}
+.status-ok { color: #00E65B; }
+.status-fail { color: #FF4444; }
+.checklist {
+  list-style: none;
+}
+.checklist li {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.checklist li .check {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #00E65B;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.priority {
+  display: inline-block;
+  background: rgba(0,230,91,0.15);
+  color: #00E65B;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.cta {
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(135deg, #00E65B, #0066FF);
+  border-radius: 16px;
+  margin-top: 40px;
+}
+.cta h2 {
+  font-size: 28px;
+  font-weight: 800;
+  color: #1F2133;
+  margin-bottom: 10px;
+}
+.cta p {
+  font-size: 16px;
+  color: #1F2133;
+  opacity: 0.8;
+}
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 12px;
+  color: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Diagnostico SEO</h1>
+  <div class="sub">NOME_DO_NEGOCIO — CIDADE — DATA</div>
+</div>
+
+<div class="scores">
+  <div class="score-card">
+    <div class="label">Score Concorrente GMB</div>
+    <div class="value green">XX</div>
+    <div class="detail">1o organico no Map Pack</div>
+  </div>
+  <div class="score-card">
+    <div class="label">Score On-Page</div>
+    <div class="value yellow">XX/100</div>
+    <div class="detail">SEO tecnico do site</div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Concorrente Lider — GMB</div>
+  <table>
+    <tr><th>Campo</th><th>Concorrente</th><th>Seu Perfil</th></tr>
+    <tr><td>Categoria principal</td><td>EX: Barbearia</td><td class="status-faltando">FALTA</td></tr>
+    <tr><td>Categorias secundarias</td><td>EX: Corte masculino, Barba</td><td class="status-faltando">FALTA</td></tr>
+    <tr><td>Servicos cadastrados</td><td>EX: 8 servicos</td><td class="status-faltando">0 servicos</td></tr>
+    <tr><td>Avaliacoes</td><td>EX: 4.8 (120 avaliacoes)</td><td>EX: 4.5 (12 avaliacoes)</td></tr>
+    <tr><td>Fotos</td><td>EX: 45 fotos</td><td>EX: 5 fotos</td></tr>
+    <tr><td>Areas de atendimento</td><td>EX: 3 cidades</td><td class="status-faltando">NAO DEFINIDO</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <div class="section-title">SEO On-Page — Seu Site</div>
+  <table>
+    <tr><th>Fator</th><th>Status</th><th>Nota</th></tr>
+    <tr><td>Title tag</td><td class="status-ok">OK</td><td>Otimizada</td></tr>
+    <tr><td>Meta descricao</td><td class="status-fail">FALTA</td><td>Nao configurada</td></tr>
+    <tr><td>H1</td><td class="status-ok">OK</td><td>Unico e otimizado</td></tr>
+    <tr><td>Conteudo</td><td class="status-fail">FRACO</td><td>120 palavras (minimo 300)</td></tr>
+    <tr><td>Imagens alt</td><td class="status-fail">FALTA</td><td>8 imagens sem alt</td></tr>
+    <tr><td>Velocidade</td><td class="status-ok">OK</td><td>PageSpeed: 78</td></tr>
+    <tr><td>Mobile</td><td class="status-ok">OK</td><td>Responsivo</td></tr>
+    <tr><td>Schema</td><td class="status-fail">FALTA</td><td>Sem dados estruturados</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <div class="section-title">Checklist de Implementacao</div>
+  <ul class="checklist">
+    <li><div class="check"></div> <span class="priority">ALTA</span> Title tag + Meta descricao (30 min)</li>
+    <li><div class="check"></div> <span class="priority">ALTA</span> H1 + H2s com variacoes (1h)</li>
+    <li><div class="check"></div> <span class="priority">ALTA</span> Conteudo 300+ palavras (2-4h)</li>
+    <li><div class="check"></div> <span class="priority">ALTA</span> Fotos reais no GMB (rapido)</li>
+    <li><div class="check"></div> <span class="priority">ALTA</span> Solicitar avaliacoes (meta: 10+)</li>
+    <li><div class="check"></div> <span class="priority">MEDIA</span> Schema LocalBusiness (1h)</li>
+    <li><div class="check"></div> <span class="priority">MEDIA</span> Otimizar velocidade</li>
+    <li><div class="check"></div> <span class="priority">BAIXA</span> Alt em todas as imagens</li>
+  </ul>
+</div>
+
+<div class="cta">
+  <h2>Quer implementar isso?</h2>
+  <p>APSIDE — Estruturacao digital para negocios locais</p>
+</div>
+
+<div class="footer">
+  Diagnostico gerado pela APSIDE — DATA
+</div>
+
+</body>
+</html>
