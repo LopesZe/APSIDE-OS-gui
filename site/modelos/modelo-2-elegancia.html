@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>APSIDE — Modelo 2: Elegância</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  background: #0a0a0a;
+  color: #e0e0e0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+
+/* Noise */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.4;
+}
+
+/* ===== NAV ===== */
+.nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 48px;
+  z-index: 100;
+  background: transparent;
+  transition: background 0.3s;
+}
+.nav.scrolled {
+  background: rgba(10,10,10,0.9);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.nav-logo {
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+.nav-logo span { color: #00E65B; }
+.nav-links { display: flex; gap: 32px; }
+.nav-links a {
+  font-size: 13px;
+  font-weight: 500;
+  color: #555;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: #fff; }
+.nav-cta {
+  padding: 9px 22px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(10px);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.1);
+  cursor: pointer;
+  transition: all 0.25s;
+}
+.nav-cta:hover {
+  background: #00E65B;
+  border-color: #00E65B;
+  color: #0a0a0a;
+}
+
+/* ===== HERO SPLIT ===== */
+.hero {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 60px;
+  padding: 0 64px;
+  position: relative;
+  z-index: 1;
+}
+.hero-left {
+  padding: 40px 0;
+}
+.hero-eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #00E65B;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  opacity: 0;
+  transform: translateX(-20px);
+}
+.hero-eyebrow::before {
+  content: '';
+  width: 20px; height: 1px;
+  background: #00E65B;
+}
+.hero h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 1.05;
+  color: #fff;
+  margin-bottom: 24px;
+  opacity: 0;
+  transform: translateY(30px);
+}
+.hero h1 .light { font-weight: 300; color: #555; }
+.hero-desc {
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: #666;
+  line-height: 1.7;
+  max-width: 440px;
+  margin-bottom: 36px;
+  opacity: 0;
+  transform: translateY(20px);
+}
+.hero-btns {
+  display: flex;
+  gap: 14px;
+  opacity: 0;
+  transform: translateY(20px);
+}
+.btn-glow {
+  padding: 16px 36px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #00E65B, #0066FF);
+  color: #0a0a0a;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+}
+.btn-glow:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(0,230,91,0.25);
+}
+.btn-ghost {
+  padding: 16px 36px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.1);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn-ghost:hover { border-color: rgba(255,255,255,0.25); background: rgba(255,255,255,0.03); }
+
+/* Hero right — glass card */
+.hero-right {
+  position: relative;
+  opacity: 0;
+  transform: translateX(40px);
+}
+.hero-card {
+  background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 20px;
+  padding: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(0,230,91,0.4), transparent);
+}
+.hero-card-glow {
+  position: absolute;
+  top: -50%; right: -30%;
+  width: 300px; height: 300px;
+  background: radial-gradient(circle, rgba(0,230,91,0.08) 0%, transparent 65%);
+  pointer-events: none;
+  filter: blur(40px);
+}
+.card-stat {
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+.card-stat-num {
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 0.85;
+  background: linear-gradient(135deg, #00E65B, #0066FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.card-stat-label {
+  font-size: 14px;
+  color: #555;
+  padding-bottom: 6px;
+}
+.card-stat-desc {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  max-width: 320px;
+}
+.card-metrics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 12px;
+  overflow: hidden;
+  margin-top: 32px;
+}
+.metric {
+  background: rgba(10,10,10,0.8);
+  padding: 20px;
+  text-align: center;
+}
+.metric-num {
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 4px;
+}
+.metric-label {
+  font-size: 11px;
+  color: #555;
+}
+
+/* ===== SEÇÕES COM GLASS ===== */
+.section {
+  position: relative;
+  z-index: 1;
+  padding: 120px 64px;
+}
+.section-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.section-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #00E65B;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-label::before {
+  content: '';
+  width: 20px; height: 1px;
+  background: #00E65B;
+}
+.section h2 {
+  font-size: clamp(2rem, 3.5vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  color: #fff;
+  margin-bottom: 16px;
+}
+.section p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.7;
+  margin-bottom: 32px;
+}
+
+/* Glass cards grid */
+.glass-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.glass-card {
+  background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 14px;
+  padding: 28px 24px;
+  transition: all 0.35s;
+  position: relative;
+  overflow: hidden;
+}
+.glass-card::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: linear-gradient(135deg, rgba(0,230,91,0.03) 0%, transparent 50%);
+  opacity: 0;
+  transition: opacity 0.35s;
+  pointer-events: none;
+}
+.glass-card:hover {
+  border-color: rgba(255,255,255,0.12);
+  transform: translateY(-3px);
+}
+.glass-card:hover::after { opacity: 1; }
+.glass-card .icon {
+  width: 40px; height: 40px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  background: rgba(0,230,91,0.08);
+  border: 1px solid rgba(0,230,91,0.12);
+  margin-bottom: 16px;
+}
+.glass-card h4 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.glass-card p {
+  font-size: 13px;
+  color: #666;
+  line-height: 1.55;
+  margin: 0;
+}
+
+/* ===== PROCESSO ALTERNADO ===== */
+.process-alt {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  overflow: hidden;
+  margin-top: 40px;
+}
+.process-row {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  background: #0a0a0a;
+  transition: background 0.3s;
+}
+.process-row:hover { background: rgba(255,255,255,0.02); }
+.process-num {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, #00E65B, #0066FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  padding: 32px;
+}
+.process-content {
+  padding: 32px 32px 32px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.process-content h4 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.process-content p {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ===== CTA GRADIENT ===== */
+.cta-gradient {
+  position: relative;
+  z-index: 1;
+  padding: 140px 64px;
+  text-align: center;
+}
+.cta-gradient-inner {
+  max-width: 640px;
+  margin: 0 auto;
+  position: relative;
+}
+.cta-gradient::before {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px; height: 600px;
+  background: radial-gradient(circle, rgba(0,230,91,0.06) 0%, rgba(0,102,255,0.04) 40%, rgba(110,0,255,0.02) 60%, transparent 70%);
+  pointer-events: none;
+  filter: blur(60px);
+}
+.cta-gradient h2 {
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.cta-gradient p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 36px;
+  line-height: 1.6;
+}
+.cta-gradient .btn-glow { font-size: 16px; padding: 18px 44px; }
+
+/* ===== FOOTER ===== */
+.footer {
+  position: relative;
+  z-index: 1;
+  padding: 32px 64px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #333;
+}
+.footer a { color: #00E65B; }
+
+/* ===== RESPONSIVO ===== */
+@media (max-width: 860px) {
+  .nav { padding: 0 20px; }
+  .nav-links { display: none; }
+  .hero { grid-template-columns: 1fr; padding: 100px 24px 60px; gap: 40px; }
+  .hero-right { order: -1; }
+  .section { padding: 80px 24px; }
+  .section-split { grid-template-columns: 1fr; }
+  .glass-grid { grid-template-columns: 1fr; }
+  .process-row { grid-template-columns: 60px 1fr; }
+  .cta-gradient { padding: 80px 24px; }
+  .footer { flex-direction: column; gap: 8px; text-align: center; padding: 24px 20px; }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <div class="nav-logo">APSIDE<span>.</span></div>
+  <div class="nav-links">
+    <a href="#servicos">Serviços</a>
+    <a href="#processo">Processo</a>
+    <a href="#cta">Contato</a>
+  </div>
+  <button class="nav-cta">Falar comigo</button>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-left">
+    <div class="hero-eyebrow">APSIDE — Presença Digital</div>
+    <h1>Seu negócio está <span class="light">perdendo clientes</span> todo dia</h1>
+    <p class="hero-desc">Diagnóstico, estratégia e execução. Sem agência, sem enrolação. Eu resolvo o que está te travando e entrego resultado real.</p>
+    <div class="hero-btns">
+      <button class="btn-glow">Começar pelo diagnóstico</button>
+      <button class="btn-ghost">Ver serviços</button>
+    </div>
+  </div>
+  <div class="hero-right">
+    <div class="hero-card">
+      <div class="hero-card-glow"></div>
+      <div class="card-stat">
+        <span class="card-stat-num">76%</span>
+        <span class="card-stat-label">/100</span>
+      </div>
+      <p class="card-stat-desc">das pessoas que buscam um serviço local visitam o negócio em até 24 horas.</p>
+      <div class="card-metrics">
+        <div class="metric"><div class="metric-num">75%</div><div class="metric-label">julgam pela foto</div></div>
+        <div class="metric"><div class="metric-num">87%</div><div class="metric-label">confiam em reviews</div></div>
+        <div class="metric"><div class="metric-num">46%</div><div class="metric-label">buscas são locais</div></div>
+        <div class="metric"><div class="metric-num">70%</div><div class="metric-label">visitas no mobile</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVIÇOS -->
+<section class="section" id="servicos">
+  <div class="section-split">
+    <div class="section-text">
+      <div class="section-label">Soluções</div>
+      <h2>O que resolve<br>o problema do seu negócio</h2>
+      <p>Cada negócio tem um gargalo diferente. A gente identifica o que mais impacta e resolve na ordem certa.</p>
+    </div>
+    <div class="glass-grid">
+      <div class="glass-card">
+        <div class="icon">📍</div>
+        <h4>Google Meu Negócio</h4>
+        <p>Perfil completo, otimizado e pronto pra converter.</p>
+      </div>
+      <div class="glass-card">
+        <div class="icon">🖥️</div>
+        <h4>Sites & Landing Pages</h4>
+        <p>Presença online profissional com foco em conversão.</p>
+      </div>
+      <div class="glass-card">
+        <div class="icon">⭐</div>
+        <h4>Avaliações</h4>
+        <p>Estratégia ativa pra gerar e responder reviews.</p>
+      </div>
+      <div class="glass-card">
+        <div class="icon">🤖</div>
+        <h4>Automação com IA</h4>
+        <p>Processos manuais que viram automáticos.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESSO -->
+<section class="section" id="processo">
+  <div class="section-split">
+    <div class="section-text">
+      <div class="section-label">Processo</div>
+      <h2>Como a gente<br>trabalha junto</h2>
+      <p>Transparente, sem surpresa. Cada etapa é clara e você acompanha em tempo real.</p>
+    </div>
+    <div class="process-alt">
+      <div class="process-row">
+        <div class="process-num">01</div>
+        <div class="process-content">
+          <h4>Diagnóstico</h4>
+          <p>Analiso sua presença digital e encontro o que está te custando clientes.</p>
+        </div>
+      </div>
+      <div class="process-row">
+        <div class="process-num">02</div>
+        <div class="process-content">
+          <h4>Estratégia</h4>
+          <p>Defino o que precisa ser resolvido, na ordem que faz mais sentido.</p>
+        </div>
+      </div>
+      <div class="process-row">
+        <div class="process-num">03</div>
+        <div class="process-content">
+          <h4>Implementação</h4>
+          <p>Executo com entregas parciais. Você acompanha cada passo.</p>
+        </div>
+      </div>
+      <div class="process-row">
+        <div class="process-num">04</div>
+        <div class="process-content">
+          <h4>Resultado</h4>
+          <p>Mais visibilidade, mais contatos, mais clientes reais.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-gradient" id="cta">
+  <div class="cta-gradient-inner">
+    <div class="section-label" style="justify-content:center;">Próximo passo</div>
+    <h2>Diagnóstico gratuito.<br>Sem compromisso.</h2>
+    <p>A gente conversa, eu analiso e te mostro o que está acontecendo. Depois, a decisão é sua.</p>
+    <button class="btn-glow">Agendar diagnóstico</button>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <span>© 2026 APSIDE — Presença Digital para Negócios Locais</span>
+  <a href="#">guilherme@apside.com.br</a>
+</footer>
+
+<!-- GSAP -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+/* NAV scroll */
+window.addEventListener('scroll',()=>{
+  document.getElementById('nav').classList.toggle('scrolled',window.scrollY>50);
+});
+
+gsap.registerPlugin(ScrollTrigger);
+
+// Hero entrance
+gsap.to('.hero-eyebrow',{opacity:1,x:0,duration:0.8,delay:0.2,ease:'power3.out'});
+gsap.to('.hero h1',{opacity:1,y:0,duration:1,delay:0.4,ease:'power3.out'});
+gsap.to('.hero-desc',{opacity:1,y:0,duration:0.8,delay:0.6,ease:'power3.out'});
+gsap.to('.hero-btns',{opacity:1,y:0,duration:0.8,delay:0.8,ease:'power3.out'});
+gsap.to('.hero-right',{opacity:1,x:0,duration:1,delay:0.5,ease:'power3.out'});
+
+// Glass cards
+gsap.from('.glass-card',{y:30,opacity:0,duration:0.6,stagger:0.1,
+  scrollTrigger:{trigger:'.glass-grid',start:'top 80%'}});
+
+// Process rows
+gsap.from('.process-row',{x:-30,opacity:0,duration:0.5,stagger:0.1,
+  scrollTrigger:{trigger:'.process-alt',start:'top 80%'}});
+
+// CTA
+gsap.from('.cta-gradient h2',{y:40,opacity:0,duration:0.8,
+  scrollTrigger:{trigger:'.cta-gradient',start:'top 70%'}});
+gsap.from('.cta-gradient p',{y:30,opacity:0,duration:0.8,delay:0.15,
+  scrollTrigger:{trigger:'.cta-gradient',start:'top 70%'}});
+gsap.from('.cta-gradient .btn-glow',{y:20,opacity:0,duration:0.8,delay:0.3,
+  scrollTrigger:{trigger:'.cta-gradient',start:'top 70%'}});
+</script>
+</body>
+</html>

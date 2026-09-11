@@ -1,0 +1,153 @@
+:root {
+  --fundo-escuro: #1F2133;
+  --fundo-claro: #FFFFFF;
+  --acento-verde: #00E65B;
+  --acento-azul: #0066FF;
+  --texto-escuro: #0F172A;
+  --texto-claro: #cbd5e1;
+  --fonte: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--fonte);
+  color: var(--texto-escuro);
+  background: var(--fundo-claro);
+  line-height: 1.55;
+}
+
+/* ---------- Announcement bar ---------- */
+.announce {
+  background: var(--acento-verde); color: #07210f;
+  text-align: center; padding: 10px 16px; font-weight: 600; font-size: 14px;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 20px 48px; background: var(--fundo-escuro);
+}
+.site-header .logo { height: 36px; }
+.site-nav a {
+  color: #fff; text-decoration: none; margin-left: 26px;
+  font-weight: 600; font-size: 15px; letter-spacing: 0.02em;
+}
+.site-nav a:hover { color: var(--acento-verde); }
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-block; background: var(--acento-verde); color: #07210f;
+  font-weight: 700; font-size: 16px; padding: 14px 28px; border-radius: 8px;
+  text-decoration: none; border: none; cursor: pointer;
+}
+.btn:hover { background: #19ff72; }
+.btn.azul { background: var(--acento-azul); color: #fff; }
+.btn.azul:hover { background: #2a82ff; }
+
+/* ---------- Hero ---------- */
+.hero {
+  background: var(--fundo-escuro); color: #fff;
+  padding: 100px 48px 120px; text-align: center;
+}
+.hero .tag {
+  color: var(--acento-verde); font-weight: 600; letter-spacing: 0.22em;
+  text-transform: uppercase; font-size: 13px; margin-bottom: 22px;
+}
+.hero h1 {
+  font-size: 62px; font-weight: 800; line-height: 1.08; letter-spacing: -0.03em;
+  max-width: 920px; margin: 0 auto 26px;
+}
+.hero h1 .hl { color: var(--acento-verde); }
+.hero p.sub {
+  font-size: 21px; color: var(--texto-claro); max-width: 660px; margin: 0 auto 34px;
+}
+.hero-form { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.hero-form input {
+  padding: 14px 18px; border-radius: 8px; border: none; font-size: 16px;
+  width: 320px; max-width: 80%;
+}
+.hero-form .btn { padding: 14px 26px; }
+
+/* ---------- Logos strip (social proof) ---------- */
+.logos-strip {
+  display: flex; gap: 36px; justify-content: center; flex-wrap: wrap;
+  padding: 44px 48px; opacity: 0.65;
+}
+.logos-strip span { font-weight: 800; font-size: 17px; color: var(--texto-claro); letter-spacing: 0.02em; }
+
+/* ---------- Sections ---------- */
+.section { padding: 92px 48px; }
+.section.dark { background: var(--fundo-escuro); color: #fff; }
+.section h2 { font-size: 42px; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 14px; }
+.section h2 .hl { color: var(--acento-azul); }
+.section.dark h2 .hl { color: var(--acento-verde); }
+.section .lead { font-size: 19px; max-width: 680px; margin-bottom: 8px; }
+.section.dark .lead { color: var(--texto-claro); }
+
+/* ---------- Cards grid ---------- */
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; margin-top: 40px; }
+.card {
+  background: #fff; border: 1px solid #e6e8ef; border-radius: 14px; padding: 30px;
+}
+.card .ic { font-size: 28px; margin-bottom: 12px; }
+.card h3 { font-size: 21px; margin-bottom: 10px; color: var(--texto-escuro); }
+.card p { color: #475569; font-size: 16px; }
+.section.dark .card { background: #272a3d; border-color: #34374d; }
+.section.dark .card h3 { color: #fff; }
+.section.dark .card p { color: var(--texto-claro); }
+.card .ic.verde { color: var(--acento-verde); }
+.card .ic.azul { color: var(--acento-azul); }
+
+/* ---------- Steps ---------- */
+.steps { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-top: 36px; }
+.step { background: #fff; border-radius: 12px; padding: 22px; }
+.step .n { color: var(--acento-azul); font-weight: 800; font-size: 22px; }
+.step h4 { font-size: 16px; margin: 8px 0 6px; }
+.step p { font-size: 14px; color: #475569; }
+.section.dark .step { background: #272a3d; }
+.section.dark .step p { color: var(--texto-claro); }
+
+/* ---------- Metrics ---------- */
+.metrics { display: flex; gap: 22px; flex-wrap: wrap; margin-top: 34px; }
+.metric-dark {
+  background: var(--fundo-escuro); color: #fff; border-radius: 16px;
+  padding: 34px; flex: 1; min-width: 240px;
+}
+.metric-dark .big { font-size: 54px; font-weight: 800; color: var(--acento-verde); line-height: 1; }
+.metric-dark p { color: var(--texto-claro); margin-top: 8px; }
+
+/* ---------- Testimonials ---------- */
+.grid-3.tm .card { background: #fff; }
+.stars { color: #f5b50a; font-size: 18px; margin-bottom: 10px; }
+.testimonial p { font-size: 16px; color: #334155; }
+.testimonial .who { margin-top: 14px; font-weight: 700; font-size: 15px; }
+.testimonial .role { font-weight: 500; font-size: 14px; color: #64748b; }
+
+/* ---------- Industries / integrations ---------- */
+.chips { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 28px; }
+.chip { background: #fff; border-radius: 10px; padding: 14px 22px; font-weight: 600; font-size: 15px; }
+.section.dark .chip { background: #272a3d; }
+
+/* ---------- Final CTA ---------- */
+.cta-final { background: var(--fundo-escuro); color: #fff; text-align: center; padding: 96px 48px; }
+.cta-final h2 { font-size: 46px; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 16px; }
+.cta-final p { color: var(--texto-claro); font-size: 19px; margin-bottom: 30px; }
+
+/* ---------- Footer ---------- */
+.site-footer { background: var(--fundo-escuro); color: #fff; padding: 56px 48px 36px; }
+.footer-cols { display: grid; grid-template-columns: repeat(4, 1fr); gap: 26px; text-align: left; }
+.footer-cols h5 { font-size: 15px; margin-bottom: 14px; color: var(--acento-verde); text-transform: uppercase; letter-spacing: 0.12em; }
+.footer-cols a { display: block; color: var(--texto-claro); text-decoration: none; margin: 7px 0; font-size: 15px; }
+.footer-cols a:hover { color: #fff; }
+.footer-bottom { border-top: 1px solid rgba(255,255,255,0.12); margin-top: 36px; padding-top: 22px; font-size: 14px; color: var(--texto-claro); text-align: center; }
+
+/* ---------- Responsivo ---------- */
+@media (max-width: 900px) {
+  .grid-3, .steps { grid-template-columns: 1fr; }
+  .footer-cols { grid-template-columns: repeat(2, 1fr); }
+  .hero h1 { font-size: 40px; }
+  .site-header { padding: 16px 22px; }
+  .site-nav a { margin-left: 14px; font-size: 13px; }
+  .section, .hero, .cta-final, .site-footer { padding-left: 22px; padding-right: 22px; }
+}

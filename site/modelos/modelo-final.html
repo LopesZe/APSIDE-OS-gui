@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>APSIDE — Site Institucional</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  background: #0a0a0a;
+  color: #e0e0e0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.4;
+}
+
+/* ===== PARTICLES ===== */
+#particles {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ===== NAV — começa sólida, vira glass ao rolar ===== */
+.nav {
+  position: fixed;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 480px;
+  max-width: 600px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 0 28px;
+  z-index: 100;
+  background: rgba(20,20,20,0.95);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 100px;
+  transition: background 0.5s, border-color 0.5s, backdrop-filter 0.5s;
+}
+.nav.scrolled {
+  background: rgba(20,20,20,0.55);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-color: rgba(255,255,255,0.06);
+}
+.nav-logo {
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+.nav-links { display: flex; gap: 24px; }
+.nav-links a {
+  font-size: 13px;
+  font-weight: 500;
+  color: #fff;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: #fff; }
+.nav-cta {
+  padding: 8px 20px;
+  border-radius: 100px;
+  font-size: 12px;
+  font-weight: 600;
+  background: #fff;
+  color: #0a0a0a;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+.nav-cta:hover { background: #ddd; transform: scale(1.03); }
+
+/* ===== HERO ===== */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 64px;
+  position: relative;
+  z-index: 1;
+}
+.hero-left {
+  max-width: 700px;
+  text-align: center;
+  padding: 40px 0;
+}
+.hero-eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #fff;
+  margin-bottom: 24px;
+  opacity: 0;
+  transform: translateY(16px);
+}
+.hero h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 1.05;
+  color: #fff;
+  margin-bottom: 24px;
+  opacity: 0;
+  transform: translateY(20px);
+}
+.hero h1 .light { font-weight: 300; color: #fff; }
+.hero-desc {
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: #fff;
+  line-height: 1.7;
+  max-width: 500px;
+  margin: 0 auto 36px;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(16px);
+}
+.hero-btns {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(16px);
+}
+.btn-primary {
+  padding: 16px 36px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 700;
+  background: #fff;
+  color: #0a0a0a;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn-primary:hover {
+  background: #ddd;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(255,255,255,0.1);
+}
+.btn-outline {
+  padding: 16px 36px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.12);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn-outline:hover {
+  border-color: rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.04);
+}
+
+/* Stats row — entre hero e serviços */
+.stats-row {
+  position: relative;
+  z-index: 1;
+  padding: 60px 48px;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.stat { text-align: center; }
+.stat-num {
+  font-size: 56px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  color: #fff;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+.stat-num .pct {
+  font-weight: 300;
+  font-size: 40px;
+  color: #ccc;
+}
+.stat-label {
+  font-size: 14px;
+  color: #fff;
+  max-width: 160px;
+  margin: 0 auto;
+  line-height: 1.4;
+}
+
+/* ===== SERVIÇOS ===== */
+.services {
+  position: relative;
+  z-index: 1;
+  padding: 120px 48px;
+}
+.services-header {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto 64px;
+}
+.section-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #fff;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+.services-header h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  color: #fff;
+  margin-bottom: 12px;
+}
+.services-header p {
+  font-size: 1rem;
+  color: #fff;
+  line-height: 1.6;
+}
+
+.service-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 48px 0;
+}
+.service-row + .service-row {
+  border-top: 1px solid rgba(255,255,255,0.04);
+}
+.service-row.reverse { direction: rtl; }
+.service-row.reverse > * { direction: ltr; }
+.service-text .label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+  margin-bottom: 12px;
+}
+.service-text h3 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin-bottom: 12px;
+}
+.service-text p {
+  font-size: 1rem;
+  color: #fff;
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+.service-link {
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: gap 0.3s;
+}
+.service-link:hover { gap: 12px; }
+
+/* Service visual — com luz percorrendo borda (mais devagar) */
+.service-visual {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 16px;
+  padding: 28px;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.4s;
+}
+.service-visual::before {
+  content: '';
+  position: absolute;
+  top: -1px; left: -1px; right: -1px; bottom: -1px;
+  border-radius: 17px;
+  background: conic-gradient(from var(--angle, 0deg), transparent 0%, rgba(255,255,255,0.5) 8%, transparent 16%);
+  opacity: 0;
+  transition: opacity 0.5s;
+  z-index: -1;
+  animation: border-rotate 6s linear infinite;
+}
+.service-visual:hover::before { opacity: 1; }
+.service-visual::after {
+  content: '';
+  position: absolute;
+  inset: 1px;
+  border-radius: 15px;
+  background: #0a0a0a;
+  z-index: -1;
+}
+@keyframes border-rotate { to { --angle: 360deg; } }
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
+
+/* Mock content — detalhado */
+.sv-mock {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.sv-mock-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.sv-mock-avatar {
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  flex-shrink: 0;
+}
+.sv-mock-info { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.sv-mock-name {
+  height: 8px;
+  width: 60%;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.12);
+}
+.sv-mock-sub {
+  height: 6px;
+  width: 40%;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.05);
+}
+.sv-mock-body { display: flex; flex-direction: column; gap: 10px; }
+.sv-mock-line {
+  height: 7px;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.05);
+}
+.sv-mock-line.w100 { width: 100%; }
+.sv-mock-line.w80 { width: 80%; }
+.sv-mock-line.w60 { width: 60%; }
+.sv-mock-line.w45 { width: 45%; }
+.sv-mock-line.highlight {
+  background: linear-gradient(90deg, rgba(255,255,255,0.15), rgba(255,255,255,0.04));
+}
+.sv-mock-photos {
+  display: flex;
+  gap: 6px;
+  margin-top: 4px;
+}
+.sv-mock-photo {
+  width: 44px; height: 44px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+.sv-mock-btn {
+  display: inline-block;
+  width: fit-content;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 10px;
+  font-weight: 600;
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.5);
+  margin-top: 4px;
+  letter-spacing: 0.02em;
+}
+.sv-mock-stars {
+  font-size: 12px;
+  color: rgba(255,255,255,0.6);
+  margin-bottom: 4px;
+}
+/* Browser mock */
+.sv-mock-browser {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.sv-mock-dots {
+  display: flex;
+  gap: 4px;
+}
+.sv-mock-dots span {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.1);
+}
+.sv-mock-url {
+  flex: 1;
+  padding: 4px 10px;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.04);
+  font-size: 9px;
+  font-family: 'Courier New', monospace;
+  color: rgba(255,255,255,0.3);
+}
+.sv-mock-nav {
+  display: flex;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  margin-bottom: 4px;
+}
+.sv-mock-nav span {
+  font-size: 9px;
+  color: rgba(255,255,255,0.3);
+  font-weight: 500;
+}
+.sv-mock-hero-title {
+  height: 10px;
+  width: 70%;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.12);
+  margin-bottom: 6px;
+}
+.sv-mock-hero-sub {
+  height: 6px;
+  width: 50%;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.05);
+  margin-bottom: 10px;
+}
+.sv-mock-btn-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+.sv-mock-btn-solid {
+  width: 70px; height: 24px;
+  border-radius: 4px;
+  background: rgba(255,255,255,0.12);
+}
+.sv-mock-btn-ghost {
+  width: 70px; height: 24px;
+  border-radius: 4px;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+/* Chat mock */
+.sv-mock-chat {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.sv-mock-msg {
+  max-width: 85%;
+  padding: 8px 12px;
+  border-radius: 10px;
+  font-size: 10px;
+  line-height: 1.4;
+  color: rgba(255,255,255,0.7);
+}
+.sv-mock-msg-bot {
+  background: rgba(255,255,255,0.06);
+  align-self: flex-start;
+  border-bottom-left-radius: 2px;
+}
+.sv-mock-msg-user {
+  background: rgba(255,255,255,0.12);
+  align-self: flex-end;
+  border-bottom-right-radius: 2px;
+}
+.sv-mock-footer {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+.sv-mock-stat-inline {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.sv-mock-stat-inline span {
+  font-size: 9px;
+  color: rgba(255,255,255,0.4);
+  white-space: nowrap;
+}
+.sv-mock-row {
+  display: flex;
+  gap: 8px;
+}
+.sv-mock-chip {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 9px;
+  font-weight: 500;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.4);
+}
+.sv-mock-stat {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.sv-mock-stat-bar {
+  flex: 1;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.05);
+  overflow: hidden;
+}
+.sv-mock-stat-fill {
+  height: 100%;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.15);
+}
+.sv-mock-stat-num {
+  font-size: 10px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.5);
+  min-width: 28px;
+  text-align: right;
+}
+
+/* ===== PROCESSO — flutuante, sem moldura ===== */
+.process {
+  position: relative;
+  z-index: 1;
+  padding: 120px 48px;
+}
+.process-inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.process-header {
+  text-align: center;
+  margin-bottom: 64px;
+}
+.process-header h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: #fff;
+  margin-bottom: 12px;
+}
+.process-header p {
+  font-size: 1rem;
+  color: #fff;
+}
+.process-steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+.step {
+  padding: 32px 20px;
+  text-align: center;
+  position: relative;
+  border-radius: 16px;
+  transition: background 0.4s;
+}
+.step:hover {
+  background: rgba(255,255,255,0.03);
+}
+.step-num {
+  font-size: 52px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  color: #fff;
+  margin-bottom: 16px;
+  line-height: 1;
+  transition: transform 0.3s;
+}
+.step:hover .step-num {
+  transform: scale(1.05);
+}
+.step h4 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+}
+.step p {
+  font-size: 13px;
+  color: #fff;
+  line-height: 1.6;
+}
+
+/* ===== CTA ===== */
+.cta-section {
+  position: relative;
+  z-index: 1;
+  padding: 140px 48px;
+  text-align: center;
+}
+.cta-box {
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+}
+.cta-mesh {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px; height: 500px;
+  background: radial-gradient(circle, rgba(255,255,255,0.03) 0%, transparent 60%);
+  pointer-events: none;
+  filter: blur(60px);
+  z-index: -1;
+}
+.cta-box h2 {
+  font-size: clamp(2rem, 4.5vw, 3.2rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  color: #fff;
+  margin-bottom: 16px;
+}
+.cta-box p {
+  font-size: 1.05rem;
+  color: #fff;
+  margin-bottom: 32px;
+  line-height: 1.6;
+}
+.cta-note {
+  margin-top: 16px;
+  font-size: 12px;
+  color: #888;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+  position: relative;
+  z-index: 1;
+  padding: 32px 48px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #888;
+}
+.footer a { color: #fff; transition: opacity 0.2s; }
+.footer a:hover { opacity: 0.7; }
+
+/* ===== RESPONSIVO ===== */
+@media (max-width: 860px) {
+  .nav { min-width: auto; width: calc(100% - 32px); padding: 0 20px; }
+  .nav-links { display: none; }
+  .hero { padding: 100px 24px 60px; }
+  .stats-row { flex-wrap: wrap; gap: 40px; padding: 40px 24px; }
+  .stat-num { font-size: 40px; }
+  .stat-num .pct { font-size: 28px; }
+  .services { padding: 80px 24px; }
+  .service-row { grid-template-columns: 1fr; gap: 32px; }
+  .service-row.reverse { direction: ltr; }
+  .process { padding: 80px 24px; }
+  .process-steps { grid-template-columns: 1fr 1fr; }
+  .cta-section { padding: 80px 24px; }
+  .footer { flex-direction: column; gap: 8px; text-align: center; padding: 24px 20px; }
+}
+</style>
+</head>
+<body>
+
+<canvas id="particles"></canvas>
+
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <div class="nav-logo">APSIDE</div>
+  <div class="nav-links">
+    <a href="#servicos">Serviços</a>
+    <a href="#processo">Como funciona</a>
+    <a href="#cta">Contato</a>
+  </div>
+  <button class="nav-cta">Falar comigo</button>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-left">
+    <div class="hero-eyebrow">APSIDE</div>
+    <h1>Seu negócio está <span class="light">perdendo clientes</span> todo dia</h1>
+    <p class="hero-desc">Eu diagnostico o que está te travando e implemento a solução. Google, site, automação. Tudo que seu negócio precisa pra ser encontrado e converter.</p>
+    <div class="hero-btns">
+      <button class="btn-primary">Começar pelo diagnóstico</button>
+      <button class="btn-outline">Ver serviços</button>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<section class="stats-row">
+  <div class="stat">
+    <div class="stat-num">76<span class="pct">%</span></div>
+    <div class="stat-label">visitam o negócio em 24h</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num">75<span class="pct">%</span></div>
+    <div class="stat-label">julgam pela foto</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num">87<span class="pct">%</span></div>
+    <div class="stat-label">confiam em reviews</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num">46<span class="pct">%</span></div>
+    <div class="stat-label">das buscas são locais</div>
+  </div>
+</section>
+
+<!-- SERVIÇOS -->
+<section class="services" id="servicos">
+  <div class="services-header">
+    <div class="section-label">Soluções</div>
+    <h2>Seu negócio tem um problema.<br>A gente resolve o que importa.</h2>
+    <p>Não existe tabela de serviço genérico. Eu identifico o gargalo e monto a solução certa pro seu caso.</p>
+  </div>
+
+  <!-- Row 1 — Google Meu Negócio -->
+  <div class="service-row">
+    <div class="service-text">
+      <div class="label">Google Meu Negócio</div>
+      <h3>Seu perfil no Google convertendo de verdade</h3>
+      <p>Fotos profissionais, avaliações estratégicas, informações corretas. Quem te procura no Google te encontra e te escolhe. Não o concorrente.</p>
+      <a href="#" class="service-link">Saiba mais →</a>
+    </div>
+    <div class="service-visual">
+      <div class="sv-mock">
+        <div class="sv-mock-header">
+          <div class="sv-mock-avatar"></div>
+          <div class="sv-mock-info">
+            <div class="sv-mock-name"></div>
+            <div class="sv-mock-sub"></div>
+          </div>
+        </div>
+        <div class="sv-mock-stars">★★★★★ <span style="color:rgba(255,255,255,0.3);font-size:10px">4.9 · 127 avaliações</span></div>
+        <div class="sv-mock-body">
+          <div class="sv-mock-line w100"></div>
+          <div class="sv-mock-line w80"></div>
+          <div class="sv-mock-line w45"></div>
+        </div>
+        <div class="sv-mock-photos">
+          <div class="sv-mock-photo"></div>
+          <div class="sv-mock-photo"></div>
+          <div class="sv-mock-photo"></div>
+          <div class="sv-mock-photo"></div>
+          <div class="sv-mock-photo"></div>
+        </div>
+        <div class="sv-mock-btn">Agendar Consulta</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Row 2 — Sites -->
+  <div class="service-row reverse">
+    <div class="service-text">
+      <div class="label">Sites e Landing Pages</div>
+      <h3>Presença online que vende, não só existe</h3>
+      <p>Site rápido, bonito e responsivo. Feito pra converter visitante em cliente. Cada página é pensada pro seu negócio específico.</p>
+      <a href="#" class="service-link">Saiba mais →</a>
+    </div>
+    <div class="service-visual">
+      <div class="sv-mock">
+        <div class="sv-mock-browser">
+          <div class="sv-mock-dots"><span></span><span></span><span></span></div>
+          <div class="sv-mock-url">seunegocio.com.br</div>
+        </div>
+        <div class="sv-mock-nav">
+          <span>Início</span>
+          <span>Serviços</span>
+          <span>Sobre</span>
+          <span>Contato</span>
+        </div>
+        <div class="sv-mock-body">
+          <div class="sv-mock-hero-title"></div>
+          <div class="sv-mock-hero-sub"></div>
+          <div class="sv-mock-line w60 highlight"></div>
+          <div class="sv-mock-btn-row">
+            <div class="sv-mock-btn-solid"></div>
+            <div class="sv-mock-btn-ghost"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Row 3 — Automação -->
+  <div class="service-row">
+    <div class="service-text">
+      <div class="label">Automação e IA</div>
+      <h3>Processos que rodavam sem você precisar estar lá</h3>
+      <p>WhatsApp automático, agendamento inteligente, follow-up sem esquecer. O que era manual vira automático. Você foca no cliente.</p>
+      <a href="#" class="service-link">Saiba mais →</a>
+    </div>
+    <div class="service-visual">
+      <div class="sv-mock">
+        <div class="sv-mock-chat">
+          <div class="sv-mock-msg sv-mock-msg-bot">Olá! Recebi sua mensagem. Em que posso ajudar?</div>
+          <div class="sv-mock-msg sv-mock-msg-user">Quero agendar uma consulta</div>
+          <div class="sv-mock-msg sv-mock-msg-bot">Perfeito! Temos horário terça às 14h. Confirma?</div>
+          <div class="sv-mock-msg sv-mock-msg-user">Sim, confirmo!</div>
+          <div class="sv-mock-msg sv-mock-msg-bot">Agendado! ✅ Vou te enviar a localização.</div>
+        </div>
+        <div class="sv-mock-footer">
+          <div class="sv-mock-stat-inline">
+            <div class="sv-mock-stat-bar"><div class="sv-mock-stat-fill" style="width:94%"></div></div>
+            <span>94% automatizado</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESSO -->
+<section class="process" id="processo">
+  <div class="process-inner">
+    <div class="process-header">
+      <div class="section-label">Como funciona</div>
+      <h2>Do diagnóstico ao resultado</h2>
+      <p>Transparente do início ao fim. Você sabe o que está sendo feito e por quê.</p>
+    </div>
+    <div class="process-steps">
+      <div class="step">
+        <div class="step-num">01</div>
+        <h4>Diagnóstico</h4>
+        <p>Analiso sua presença digital e encontro exatamente o que está te custando clientes.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">02</div>
+        <h4>Estratégia</h4>
+        <p>Defino o que precisa ser resolvido, na ordem que traz resultado mais rápido.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">03</div>
+        <h4>Implementação</h4>
+        <p>Executo com entregas parciais. Você acompanha e aprova cada etapa.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">04</div>
+        <h4>Resultado</h4>
+        <p>Mais visibilidade, mais contatos, mais clientes reais. Métricas que fazem sentido.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section" id="cta">
+  <div class="cta-box">
+    <div class="cta-mesh"></div>
+    <div class="section-label">Próximo passo</div>
+    <h2>Seu negócio merece<br>ser encontrado</h2>
+    <p>Diagnóstico gratuito. A gente conversa, eu analiso e te mostro o que está acontecendo. Depois, a decisão é sua.</p>
+    <button class="btn-primary">Agendar diagnóstico</button>
+    <p class="cta-note">Sem pressão. Conversa real entre profissionais.</p>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <span>© 2026 APSIDE · Presença Digital para Negócios Locais</span>
+  <a href="#">guilherme@apside.com.br</a>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+/* PARTICLES — céu noturno, brilho independente por estrela */
+(function(){
+  const c=document.getElementById('particles'),ctx=c.getContext('2d');
+  let w,h,pts=[],mouse={x:-999,y:-999},mouseActive=false,time=0;
+  const N=180,R=160,F=0.7;
+  function resize(){w=c.width=innerWidth;h=c.height=innerHeight;}
+  function mk(){
+    const x=Math.random()*w,y=Math.random()*h;
+    return{
+      x,y,ox:x,oy:y,
+      s:Math.random()*1.6+0.3,
+      baseA:Math.random()*0.6+0.15,
+      a:0,
+      phase:Math.random()*Math.PI*2,
+      speed:Math.random()*0.015+0.002,
+      twinkleType:Math.random(),
+      vx:0,vy:0
+    };
+  }
+  function init(){resize();pts=[];for(let i=0;i<N;i++)pts.push(mk());}
+  function draw(){
+    time+=0.016;
+    ctx.clearRect(0,0,w,h);
+    for(const p of pts){
+      // Cada estrela tem seu proprio padrao de brilho
+      let twinkle;
+      if(p.twinkleType<0.4){
+        // Estrelas que brilham suave e devagar
+        twinkle=Math.sin(time*p.speed*40+p.phase);
+      } else if(p.twinkleType<0.7){
+        // Estrelas com brilho medio, ritmo irregular
+        twinkle=Math.sin(time*p.speed*50+p.phase)*0.6+Math.sin(time*p.speed*23+p.phase*2)*0.4;
+      } else {
+        // Estrelas que "piscam" rapido de vez em quando
+        const base=Math.sin(time*p.speed*30+p.phase);
+        const flicker=Math.sin(time*p.speed*120+p.phase*3)>0.7?0.3:0;
+        twinkle=base*0.5+flicker;
+      }
+      p.a=p.baseA*(0.5+twinkle*0.5);
+      p.a=Math.max(0.08,p.a);
+
+      if(mouseActive){
+        const dx=mouse.x-p.x,dy=mouse.y-p.y,d=Math.sqrt(dx*dx+dy*dy);
+        if(d<R){const f=(1-d/R)*F;p.vx-=dx*f*0.012;p.vy-=dy*f*0.012;}
+      }
+      p.vx+=(p.ox-p.x)*0.006;p.vy+=(p.oy-p.y)*0.006;
+      p.vx*=0.93;p.vy*=0.93;p.x+=p.vx;p.y+=p.vy;
+
+      ctx.beginPath();ctx.arc(p.x,p.y,p.s,0,Math.PI*2);
+      ctx.fillStyle=`rgba(255,255,255,${p.a})`;ctx.fill();
+    }
+    requestAnimationFrame(draw);
+  }
+  addEventListener('resize',resize);
+  addEventListener('mousemove',e=>{mouse.x=e.clientX;mouse.y=e.clientY;mouseActive=true;});
+  addEventListener('mouseleave',()=>{mouseActive=false;});
+  init();draw();
+})();
+
+/* NAV */
+window.addEventListener('scroll',()=>{
+  document.getElementById('nav').classList.toggle('scrolled',window.scrollY>50);
+});
+
+/* GSAP */
+gsap.registerPlugin(ScrollTrigger);
+
+gsap.to('.hero-eyebrow',{opacity:1,y:0,duration:1,delay:0.3,ease:'power2.out'});
+gsap.to('.hero h1',{opacity:1,y:0,duration:1.2,delay:0.5,ease:'power2.out'});
+gsap.to('.hero-desc',{opacity:1,y:0,duration:1,delay:0.7,ease:'power2.out'});
+gsap.to('.hero-btns',{opacity:1,y:0,duration:1,delay:0.9,ease:'power2.out'});
+
+document.querySelectorAll('.service-row').forEach(row=>{
+  gsap.from(row.querySelector('.service-text'),{x:-30,opacity:0,duration:0.8,scrollTrigger:{trigger:row,start:'top 75%'}});
+  gsap.from(row.querySelector('.service-visual'),{x:30,opacity:0,duration:0.8,delay:0.15,scrollTrigger:{trigger:row,start:'top 75%'}});
+});
+
+gsap.from('.step',{y:20,opacity:0,duration:0.5,stagger:0.08,scrollTrigger:{trigger:'.process-steps',start:'top 80%'}});
+
+gsap.from('.cta-box h2',{y:30,opacity:0,duration:0.8,scrollTrigger:{trigger:'.cta-section',start:'top 70%'}});
+gsap.from('.cta-box p',{y:20,opacity:0,duration:0.8,delay:0.15,scrollTrigger:{trigger:'.cta-section',start:'top 70%'}});
+gsap.from('.cta-box .btn-primary',{y:15,opacity:0,duration:0.8,delay:0.3,scrollTrigger:{trigger:'.cta-section',start:'top 70%'}});
+</script>
+</body>
+</html>

@@ -1,0 +1,132 @@
+Refência 1 e 2 (conteúdo idêntico): landing page Assistly AI — plataforma de automação de suporte ao cliente com IA.
+Estética: SaaS moderno clean, fundo claro, acento verde (#00D056). Estrutura referência:
+- Announcement bar (verde) com oferta de teste grátis
+- Header: logo + nav central + botões (Log in / Start free)
+- Hero: tag NEW, título "Automate Conversations. Delight Customers.", subtítulo (resolve 80% sem código), campo de e-mail + CTA, mockup de chat, faixa de logos de parceiros
+- Features: 3 cards (Analytics Dashboard, AI-Powered Responses, Multi-Language)
+- Seção CRM/Helpdesk com integrações (Zendesk, Salesforce, HubSpot, Shopify)
+- Workflow em passos + métricas simuladas (83% automatizado, 2.8s)
+- Indústrias atendidas + ecossistema de integrações
+- Prova social: card escuro 98% satisfação, segurança (AES-256, OAuth), depoimentos com estrelas
+- CTA final + footer em colunas
+
+Adaptação APSIDE: manter estrutura, trocar por PT-BR, cores da marca (marinho #1F2133 + verde #00E65B / branco + azul #0066FF),
+sem gradiente atrás de texto, e produto = IA pra PME (sites, tráfego pago, automação, CRM, mentoria).
+
+" PROMPT
+Você vai construir o site institucional da Apside, uma empresa de tecnologia
+aplicada a operações empresariais (IA, automação, integração, dados, software).
+
+REGRA MAIS IMPORTANTE: este site NÃO pode parecer um template genérico de
+"SaaS de IA". Ele precisa ter identidade visual própria, forte e cinematográfica,
+misturando duas referências:
+
+1. ElevenLabs (elevenlabs.io) — fundo escuro, tipografia bold e técnica, uso de
+   gradientes discretos (azul → roxo → verde) só em pontos de destaque,
+   micro-interações limpas, sensação de produto sério e não "startup fofa".
+2. Apple (apple.com/br/iphone-17-pro) — espaçamento generoso, uma ideia por
+   tela/seção (não empilhar informação), tipografia enorme em títulos curtos,
+   transições de scroll suaves (elementos que aparecem, crescem ou trocam
+   conforme o usuário rola a página), fotos/imagens que carregam peso visual
+   sozinhas, sem excesso de texto ao lado.
+
+NÃO USE: cards genéricos com ícone + título + parágrafo em grid 3x3 repetido
+por toda a página. Isso é o padrão "site de agência de IA" que queremos evitar.
+Cada seção deve ter uma composição visual diferente da anterior.
+
+## Stack técnica
+- Next.js (App Router) + TypeScript
+- TailwindCSS para estilo
+- Framer Motion para animações de scroll (scroll-linked reveals, parallax leve,
+  transições entre seções)
+- Fontes: uma sans-serif geométrica/moderna (ex. Inter, Geist ou Neue Montreal)
+  como base. Títulos em peso Bold/Semibold, texto em Regular/Medium.
+- Totalmente responsivo (mobile-first), mas o desktop é a experiência principal
+  a ser cuidada primeiro (como Apple/ElevenLabs).
+- Sem bibliotecas de UI genéricas tipo Bootstrap ou templates prontos de
+  landing page.
+
+## Paleta de cores
+- Base: preto profundo (#0A0A0A), branco (#FAFAFA), cinza (#8A8A8A / #1A1A1A
+  para superfícies escuras)
+- Cor principal: azul elétrico (#2E6FFF ou similar) — tecnologia, precisão
+- Cor de destaque: verde (#3DDC84 ou similar) — evolução, resultado
+- Gradiente de apoio (usar com MUITA parcimônia, só em 2-3 pontos do site,
+  nunca como fundo geral): azul → roxo → verde
+- Modo escuro é o padrão do site (fundo preto profundo), não modo claro
+
+## Estrutura de seções (nessa ordem)
+
+1. HERO
+   - Tela cheia, fundo escuro
+   - Título grande: "Tecnologia para os pontos que movem uma empresa."
+   - Subtítulo curto: "Sua operação tem gargalos. Nós encontramos onde estão."
+   - Um elemento visual central: uma representação abstrata de trajetória
+     orbital (dois pontos extremos conectados por uma curva) — animado
+     sutilmente (a curva se desenha ou pulsa levemente), NUNCA um planeta,
+     robô ou holograma literal
+   - CTA: "Conhecer a Apside"
+   - Scroll indicator discreto
+
+2. O PROBLEMA (inimigo da marca)
+   - Estilo Apple: uma frase grande, pouco texto
+   - Ideia: empresas já têm tecnologia demais (WhatsApp, CRM, ERP, planilhas,
+     dashboards) e essas ferramentas não conversam entre si
+   - Visual: várias "ilhas" de logos/ícones de ferramentas comuns (genéricos,
+     sem marcas registradas) desconectadas, que na seção seguinte se conectam
+   - Frase de fechamento: "Menos complexidade. Mais inteligência."
+
+3. O QUE FAZEMOS (capacidades, não produtos)
+   - 5 capacidades: Inteligência Artificial, Automação, Integração, Dados,
+     Software
+   - NÃO usar grid genérico 3x3 de cards. Usar um layout do tipo "scroll
+     horizontal" ou "troca de imagem conforme o scroll" (como a Apple faz nas
+     páginas de produto: uma imagem grande muda enquanto o texto ao lado
+     também muda)
+   - Cada capacidade tem: nome curto, uma frase de exemplo real (ex.:
+     "Identificamos um processo que consumia 120 horas por mês. Automatizamos
+     essa etapa. O tempo caiu para 30 horas.")
+
+4. O MÉTODO APSIDE (Mapear → Priorizar → Construir → Evoluir)
+   - Visual: uma linha/trajetória horizontal (ou vertical no mobile) conectando
+     as 4 etapas, com a curva orbital do símbolo aparecendo de novo aqui como
+     fio condutor visual do site inteiro
+   - Cada etapa com 1 frase de definição, sem parágrafos longos
+   - Diferencial em destaque tipográfico grande no fim da seção:
+     "Diagnóstico antes da tecnologia."
+
+5. RESULTADOS / PROVA (antes → depois)
+   - Formato "antes / depois" com números (ex. "120h → 30h por mês"),
+     estilo comparação limpa tipo Apple (specs), não estilo depoimento com
+     foto de rosto genérica de banco de imagens
+   - Se não houver cases reais ainda, deixar estrutura pronta com placeholder
+     claramente marcado como [CASE_1], [CASE_2] etc.
+
+6. COMO TRABALHAMOS (jornada comercial)
+   - 3 etapas: Diagnóstico → Implementação → Evolução
+   - Visual mais leve que a seção do método (essa é operacional/comercial,
+     não a tese da marca)
+
+7. CTA FINAL
+   - Tela cheia, minimalista, igual ao hero em peso visual
+   - Frase do manifesto: "Grandes mudanças nem sempre começam transformando
+     tudo. Às vezes começam encontrando o ponto certo."
+   - CTA: agendar diagnóstico / falar com a Apside
+
+8. FOOTER
+   - Minimalista, sem excesso de links, logo pequeno, poucas linhas
+
+## Copy e tom
+- Direto, confiante, prático, nunca exagerado
+- Frases curtas. Nunca usar termos como "revolucionário", "disruptivo",
+  "ecossistema hiperinteligente", "transformação digital 360°", "sinergia"
+- Sempre que possível, estruturar frases como problema → solução → impacto
+
+## Animações (referência ElevenLabs/Apple)
+- Fade + leve translate ao entrar no viewport (não usar animações "bounce"
+  ou exageradas)
+- Na seção do método, a curva orbital se desenha progressivamente conforme
+  o scroll passa pelas 4 etapas
+- Parallax sutil em imagens de fundo, nunca em texto
+- Transições entre seções devem parecer contínuas, não "cortes" abruptos"
+"

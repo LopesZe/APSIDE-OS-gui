@@ -1,0 +1,97 @@
+<!doctype html>
+<!--
+  MODELO DE POST INSTAGRAM
+  Estilo: 1080x1440, texto à esquerda centralizado na página,
+  header com logo + paginação, tópico em negrito, título com 1 palavra em destaque,
+  divisória, parágrafo de apoio.
+
+  COMO USAR:
+  1. Copie este arquivo para marketing/conteudo/insta-<modo>-<tema>-<DATA>/carrossel.html
+  2. Ajuste as variáveis em :root:
+     --accent   : cor principal
+     --brand    : cor do nome da marca no CTA
+     --logo     : logo da marca (caminho relativo)
+     --logo-dark: logo da marca fundo escuro (caminho relativo)
+  3. Edite os textos. Duplique blocos <div class="slide"> conforme a quantidade de slides.
+  4. Renderize: node templates/carrossel/render.js <caminho>/carrossel.html <caminho>/instagram
+-->
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  --accent:#1d6398;
+  --brand:#FF7A1A;
+  --logo:"../../../identidade/ESCRITA LOGO FUNDO CLARO.png";
+  --logo-dark:"../../../identidade/ESCRITA LOGO FUNDO ESCURO.png";
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Inter',sans-serif; }
+.slide {
+  width:1080px; height:1440px; position:relative; background:#FBFBF8; color:#1A1A1A;
+  padding:110px; display:flex; flex-direction:column; justify-content:center; align-items:center;
+}
+.logo { position:absolute; top:56px; left:110px; height:140px; }
+.counter { position:absolute; top:74px; right:110px; font-size:22px; font-weight:600; letter-spacing:0.22em; color:#9a9a9a; }
+.content { width:900px; text-align:left; }
+.topic { font-size:22px; font-weight:900; letter-spacing:0.16em; color:var(--accent); }
+.title { font-size:94px; font-weight:900; line-height:1.06; letter-spacing:-0.02em; margin-top:46px; }
+.title .hl { color:var(--accent); }
+.divider { width:180px; height:5px; background:var(--accent); margin:50px 0; }
+.body { font-size:39px; font-weight:500; line-height:1.55; }
+.cta-title { font-size:86px; font-weight:900; line-height:1.1; letter-spacing:-0.02em; }
+.cta-sub { font-size:42px; font-weight:500; margin-top:32px; }
+.brand { color:var(--brand); }
+.slide.cta { background:var(--accent); color:#fff; }
+.slide.cta .topic { color:#fff; }
+.slide.cta .counter { color:#fff; font-weight:900; }
+</style>
+</head>
+<body>
+
+<div class="slide" id="s1">
+  <img class="logo" src="../../../identidade/ESCRITA LOGO FUNDO CLARO.png"/>
+  <div class="counter">01 / 04</div>
+  <div class="content">
+    <div class="topic">01 - TÓPICO</div>
+    <div class="title">Título do slide com <span class="hl">destaque</span> na palavra-chave.</div>
+    <div class="divider"></div>
+    <div class="body">Parágrafo de apoio, sem travessão nem hífen que quebrem a mensagem.</div>
+  </div>
+</div>
+
+<div class="slide" id="s2">
+  <img class="logo" src="../../../identidade/ESCRITA LOGO FUNDO CLARO.png"/>
+  <div class="counter">02 / 04</div>
+  <div class="content">
+    <div class="topic">02 - TÓPICO</div>
+    <div class="title">Outro <span class="hl">título</span> com palavra em destaque.</div>
+    <div class="divider"></div>
+    <div class="body">Outro parágrafo de apoio alinhado à esquerda.</div>
+  </div>
+</div>
+
+<div class="slide" id="s3">
+  <img class="logo" src="../../../identidade/ESCRITA LOGO FUNDO CLARO.png"/>
+  <div class="counter">03 / 04</div>
+  <div class="content">
+    <div class="topic">03 - TÓPICO</div>
+    <div class="title">Este título do slide 3 não pode quebrar linha.</div>
+    <div class="divider"></div>
+    <div class="body">Parágrafo de apoio do slide 3.</div>
+  </div>
+</div>
+
+<div class="slide cta" id="s4">
+  <img class="logo" src="../../../identidade/ESCRITA LOGO FUNDO ESCURO.png"/>
+  <div class="counter">04 / 04</div>
+  <div class="content">
+    <div class="topic">04 - CONTATO</div>
+    <div class="cta-title">Sua frase de <span class="brand">MARCA</span> de fechamento.</div>
+    <div class="cta-sub">Fale com a gente.</div>
+  </div>
+</div>
+
+</body>
+</html>

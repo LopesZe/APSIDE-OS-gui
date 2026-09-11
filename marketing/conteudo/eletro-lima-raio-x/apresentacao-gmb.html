@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>Eletro Lima — Diagnóstico GMB</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0E1116;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* COVER */
+.cover {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,230,91,0.3);
+  border-radius: 30px;
+  color: #00E65B;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.cover h1 {
+  color: #F5ECD7;
+  font-size: 52px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+.cover h1 span { color: #00E65B; }
+.cover .subtitle {
+  color: #8a8a8a;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+.cover-meta {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+.cover-meta-item { text-align: center; }
+.cover-meta-item .value {
+  color: #F5ECD7;
+  font-size: 36px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: #666;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #555;
+  font-size: 12px;
+}
+
+/* ANALYSIS */
+.analysis { background: #fff; }
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #f0f0f0;
+}
+.page-header h2 {
+  font-size: 28px;
+  font-weight: 800;
+  color: #0E1116;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num { color: #ccc; font-size: 14px; font-weight: 600; }
+.score-section { display: flex; gap: 40px; margin-bottom: 40px; }
+.score-big {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: conic-gradient(#F59E0B 0deg, #F59E0B 198deg, #e8e8e8 198deg, #e8e8e8 360deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.score-big::before {
+  content: '';
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: #fff;
+  position: absolute;
+}
+.score-big .score-value {
+  position: relative;
+  z-index: 1;
+  font-size: 48px;
+  font-weight: 900;
+  color: #0E1116;
+}
+.score-big .score-unit {
+  position: relative;
+  z-index: 1;
+  font-size: 18px;
+  color: #888;
+  font-weight: 500;
+}
+.score-details { flex: 1; }
+.score-label {
+  font-size: 14px;
+  font-weight: 700;
+  color: #F59E0B;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.score-desc {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.criteria-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #f8f9fa;
+}
+.criteria-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  flex-shrink: 0;
+}
+.criteria-ok { background: #d4edda; color: #155724; }
+.criteria-warn { background: #fff3cd; color: #856404; }
+.criteria-fail { background: #f8d7da; color: #721c24; }
+.criteria-text { font-size: 12px; font-weight: 500; color: #333; }
+
+/* MISSING */
+.missing { background: #fff; }
+.missing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  flex: 1;
+}
+.missing-card {
+  padding: 28px;
+  border-radius: 16px;
+  border: 1px solid #f0f0f0;
+}
+.missing-card-negative { background: #fef2f2; border-color: #fecaca; }
+.missing-card-positive { background: #f0fdf4; border-color: #bbf7d0; }
+.missing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.missing-card-negative h3 { color: #dc2626; }
+.missing-card-positive h3 { color: #16a34a; }
+.missing-list { list-style: none; }
+.missing-list li {
+  padding: 8px 0;
+  font-size: 13px;
+  color: #444;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.missing-list li:last-child { border-bottom: none; }
+.missing-list .icon { flex-shrink: 0; margin-top: 1px; }
+
+/* COMPARISON */
+.comparison {
+  background: #0E1116;
+  padding: 10mm 14mm;
+}
+.comparison h2 {
+  color: #F5ECD7;
+  font-size: 24px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 20px;
+  letter-spacing: -0.5px;
+}
+.comp-cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex: 1;
+}
+.comp-card {
+  width: 500px;
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.comp-card-bad { border: 2px dashed #e5e7eb; }
+.comp-card-good { border: 2px solid #00E65B; }
+.comp-card-tag {
+  padding: 8px 16px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+.comp-card-bad .comp-card-tag { background: #fef2f2; color: #dc2626; }
+.comp-card-good .comp-card-tag { background: #f0fdf4; color: #16a34a; }
+.comp-card-body {
+  padding: 14px 18px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.comp-map {
+  width: 100%;
+  height: 80px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  position: relative;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.comp-map img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.comp-map-placeholder {
+  color: #999;
+  font-size: 11px;
+  text-align: center;
+}
+.comp-name { font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 1px; }
+.comp-cat { font-size: 10px; color: #888; margin-bottom: 6px; }
+.comp-rating { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+.comp-stars { color: #f4b400; font-size: 12px; }
+.comp-rating-num { font-size: 12px; font-weight: 600; color: #333; }
+.comp-rating-count { font-size: 10px; color: #888; }
+.comp-info { font-size: 9px; color: #666; line-height: 1.6; margin-bottom: 8px; }
+.comp-info span { display: block; }
+.comp-photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3px;
+  margin-bottom: 8px;
+}
+.comp-photo {
+  aspect-ratio: 1;
+  border-radius: 5px;
+  overflow: hidden;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  color: #bbb;
+}
+.comp-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.comp-photo-empty {
+  background: #f3f4f6;
+  border: 1px dashed #d1d5db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  color: #bbb;
+}
+.comp-reviews { flex: 1; }
+.comp-review { display: flex; gap: 5px; margin-bottom: 4px; align-items: flex-start; }
+.comp-review-avatar {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  color: #666;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.comp-review-name { font-size: 8px; font-weight: 600; color: #333; }
+.comp-review-stars { color: #f4b400; font-size: 7px; }
+.comp-review-text { font-size: 8px; color: #666; line-height: 1.3; }
+.comp-social { display: flex; gap: 5px; margin-top: 6px; }
+.comp-social-icon {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  color: #fff;
+  font-weight: 700;
+}
+.comp-social-off { opacity: 0.2; }
+
+/* PROPOSAL */
+.proposal { background: #fff; }
+.proposal-cards {
+  display: flex;
+  gap: 16px;
+  flex: 1;
+  align-items: stretch;
+}
+.proposal-card {
+  flex: 1;
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.proposal-basic { background: #f8f9fa; border: 2px solid #e9ecef; }
+.proposal-complete {
+  background: linear-gradient(135deg, #0E1116, #1a2332);
+  border: 2px solid #00E65B;
+  position: relative;
+}
+.proposal-complete::before {
+  content: 'RECOMENDADO';
+  position: absolute;
+  top: -1px;
+  right: 20px;
+  background: #00E65B;
+  color: #0E1116;
+  padding: 4px 12px;
+  border-radius: 0 0 8px 8px;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.proposal-premium { background: #f8f9fa; border: 2px solid #e9ecef; }
+.proposal-card h3 { font-size: 15px; font-weight: 800; margin-bottom: 4px; }
+.proposal-basic h3 { color: #1a1a1a; }
+.proposal-complete h3 { color: #F5ECD7; }
+.proposal-premium h3 { color: #1a1a1a; }
+.proposal-card .price {
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+.proposal-basic .price { color: #1a1a1a; }
+.proposal-complete .price { color: #00E65B; }
+.proposal-premium .price { color: #1a1a1a; }
+.proposal-card .price span { font-size: 14px; font-weight: 500; }
+.proposal-basic .price span { color: #888; }
+.proposal-complete .price span { color: #8a8a8a; }
+.proposal-premium .price span { color: #888; }
+.proposal-list { list-style: none; flex: 1; }
+.proposal-list li {
+  padding: 6px 0;
+  font-size: 11px;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+.proposal-complete .proposal-list li {
+  color: #ccc;
+  border-bottom-color: rgba(255,255,255,0.08);
+}
+.proposal-premium .proposal-list li { color: #444; }
+.proposal-list li:last-child { border-bottom: none; }
+.proposal-check { color: #00E65B; font-weight: 700; flex-shrink: 0; }
+.proposal-card .cta {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.proposal-basic .cta { color: #888; }
+.proposal-complete .cta { color: #00E65B; }
+.proposal-premium .cta { color: #888; }
+
+/* CTA */
+.cta-page {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cta-page h2 {
+  color: #F5ECD7;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 16px;
+}
+.cta-page h2 span { color: #00E65B; }
+.cta-page .cta-sub {
+  color: #8a8a8a;
+  font-size: 16px;
+  margin-bottom: 40px;
+  max-width: 500px;
+}
+.cta-contact {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+.cta-contact-item { text-align: center; }
+.cta-contact-item .icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(0,230,91,0.1);
+  border: 1px solid rgba(0,230,91,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin: 0 auto 8px;
+}
+.cta-contact-item .text {
+  color: #F5ECD7;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+/* PHOTO PICKER */
+.photo-slot {
+  position: relative;
+  cursor: pointer;
+}
+.photo-slot input[type="file"] {
+  display: none;
+}
+.photo-slot .pick-btn {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+  border-radius: inherit;
+  z-index: 2;
+}
+.photo-slot:hover .pick-btn {
+  opacity: 1;
+}
+.photo-slot.has-photo .pick-btn {
+  opacity: 0;
+}
+.photo-slot.has-photo:hover .pick-btn {
+  opacity: 1;
+}
+.pick-btn .pick-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #00E65B;
+  color: #0E1116;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.pick-btn .pick-label {
+  color: #fff;
+  font-size: 8px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.photo-slot img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: inherit;
+}
+
+@media print {
+  .pick-btn { display: none !important; }
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================== -->
+<!-- PÁGINA 1: CAPA                 -->
+<!-- ============================== -->
+<div class="page cover">
+  <div class="cover-badge">Diagnóstico Google Meu Negócio</div>
+  <h1>Eletro Lima<br><span>Ponta Grossa PR</span></h1>
+  <p class="subtitle">Análise completa do perfil Google Meu Negócio + plano de ação</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">4.6</div>
+      <div class="label">Nota média</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">38</div>
+      <div class="label">Avaliações</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">55</div>
+      <div class="label">Score / 100</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <img src="file:///C:/Users/guilo/APSIDE-OS/identidade/LOGO%20FUNDO%20ESCURO.png" alt="APSIDE" style="height: 28px;">
+    <span>Setembro 2026</span>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 2: DIAGNÓSTICO          -->
+<!-- ============================== -->
+<div class="page analysis">
+  <div class="page-header">
+    <h2>Diagnóstico do Perfil</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="score-section">
+    <div class="score-big">
+      <span class="score-value">55</span>
+      <span class="score-unit">/100</span>
+    </div>
+    <div class="score-details">
+      <div class="score-label">Classificação: Precisa de melhorias</div>
+      <p class="score-desc">
+        A Eletro Lima é uma empresa sólida — 27 anos de mercado, CREA-PR, 2 filiais.
+        Mas o Google Meu Negócio não acompanha a qualidade do negócio.
+        A categoria cadastrada não reflete tudo que a empresa faz, e com apenas 38 avaliações pra uma empresa desde 1999, há muito espaço pra melhorar.
+      </p>
+      <div class="criteria-grid">
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Categoria incompleta</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Fotos no perfil</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">38 avaliações (pouco)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Respostas do dono</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Telefone cadastrado</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Endereço completo</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Horário incompleto</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Categoria principal</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Website linkado</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Redes sociais (poucas)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 3: O QUE FALTA          -->
+<!-- ============================== -->
+<div class="page missing">
+  <div class="page-header">
+    <h2>O que está faltando</h2>
+    <span class="page-num">03</span>
+  </div>
+  <div class="missing-grid">
+    <div class="missing-card missing-card-negative">
+      <h3><span style="font-size:18px;">⚠</span> Oportunidades perdidas</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Categoria cadastrada incompleta</strong><br>
+            "Serviço de instalação elétrica" não reflete engenharia, materiais, projetos industriais, automação, SPDA. Isso afeta aparecimento nas buscas.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>38 avaliações pra 27 anos</strong><br>
+            Empresa com CREA-PR e 2 filiais deveria ter muito mais avaliações. Poucas avaliações reduzem a confiança de quem busca.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem respostas às avaliações</strong><br>
+            Responder gera confiança e mostra que a empresa se importa com o cliente.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Horário incompleto</strong><br>
+            Não mostra se funciona sábado. Isso pode afastar clientes que buscam no fim de semana.
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="missing-card missing-card-positive">
+      <h3><span style="font-size:18px;">✓</span> O que já funciona bem</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Nota 4.6 com 38 avaliações</strong><br>
+            Boa nota média. Avaliações positivas mencionam "atendimento personalizado", "profissionais capacitados".
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Endereço completo no Contorno</strong><br>
+            Av. Visconde de Taunay, 3130 — boa localização em Ponta Grossa.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Website profissional</strong><br>
+            Site completo com catálogo, serviços e WhatsApp. Muitas empresas não têm isso.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>27 anos de mercado</strong><br>
+            Empresa estabelecida, CREA-PR, 2 filiais. Isso gera confiança — só precisa mostrar no Google.
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 4: ANTES & DEPOIS       -->
+<!-- Para adicionar foto: coloque o arquivo na pasta fotos/ e substitua o <div> por <img> -->
+<!-- Exemplo: <img src="fotos/minha-foto.jpg" style="width:100%;height:100%;object-fit:cover;"> -->
+<!-- ============================== -->
+<div class="page comparison">
+  <h2>Antes & Depois</h2>
+  <div class="comp-cards">
+
+    <!-- ---- COLUNA "ANTES" ---- -->
+    <div class="comp-card comp-card-bad">
+      <div class="comp-card-tag">Assim tá hoje</div>
+      <div class="comp-card-body">
+
+        <!-- FOTO 1: Mapa/Foto de capa do "antes" -->
+        <div class="comp-map photo-slot" onclick="this.querySelector('input').click()">
+          <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+          <div class="pick-btn"><div class="pick-icon">+</div><div class="pick-label">Foto</div></div>
+          <div class="comp-map-placeholder">📍 Av. Visconde de Taunay, 3130</div>
+        </div>
+
+        <div class="comp-name">Eletro Lima</div>
+        <div class="comp-cat">Serviço de instalação elétrica</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★½</span>
+          <span class="comp-rating-num">4.6</span>
+          <span class="comp-rating-count">38 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99818-2825</span>
+          <span>🕐 Aberto, fecha 18:00</span>
+          <span style="color:#16a34a;">🌐 www.eletricalima.com.br</span>
+          <span style="color:#dc2626;">📱 Instagram fraco (247 seguidores)</span>
+        </div>
+
+        <!-- FOTOS 2-5: Grid de fotos do "antes" -->
+        <div class="comp-photos">
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Fachada
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Produto
+          </div>
+          <div class="comp-photo comp-photo-empty photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo comp-photo-empty photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+        </div>
+
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">A</div>
+            <div>
+              <div class="comp-review-name">Avaliação <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Bons preços, atendimento personalizado</div>
+            </div>
+          </div>
+        </div>
+        <div class="comp-social">
+          <div class="comp-social-icon" style="background:#1877f2;">f</div>
+          <div class="comp-social-icon" style="background:linear-gradient(45deg,#f09433,#dc2743,#bc1888);">ig</div>
+          <div class="comp-social-icon comp-social-off" style="background:#010101;">tk</div>
+          <div class="comp-social-icon" style="background:#25d366;">wa</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ---- COLUNA "DEPOIS" ---- -->
+    <div class="comp-card comp-card-good">
+      <div class="comp-card-tag">Assim pode ficar</div>
+      <div class="comp-card-body">
+
+        <!-- FOTO 6: Mapa/Foto de capa do "depois" -->
+        <div class="comp-map photo-slot" onclick="this.querySelector('input').click()">
+          <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+          <div class="pick-btn"><div class="pick-icon">+</div><div class="pick-label">Foto</div></div>
+          <div class="comp-map-placeholder">📍 Av. Visconde de Taunay, 3130</div>
+        </div>
+
+        <div class="comp-name">Eletro Lima</div>
+        <div class="comp-cat">Engenharia Elétrica Industrial · Materiais · Projetos</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">4.8</span>
+          <span class="comp-rating-count">120+ avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 3028-9591</span>
+          <span>🕐 Seg-Sex 8h–18h · Sáb 8h–12h</span>
+          <span style="color:#16a34a;">🌐 www.eletricalima.com.br</span>
+          <span style="color:#16a34a;">📱 @eletrolima25 (500+ seguidores)</span>
+        </div>
+
+        <!-- FOTOS 7-14: Grid de fotos do "depois" -->
+        <div class="comp-photos">
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Fachada
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Indústria
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Projeto
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Equipe
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Material
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Automação
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            SPDA
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" multiple onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Solar
+          </div>
+        </div>
+
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">M</div>
+            <div>
+              <div class="comp-review-name">Marcos R. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Profissionais capacitados, atendimento de qualidade</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">A</div>
+            <div>
+              <div class="comp-review-name">Ana S. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Resolveu nosso problema de automação industrial</div>
+            </div>
+          </div>
+        </div>
+        <div class="comp-social">
+          <div class="comp-social-icon" style="background:#1877f2;">f</div>
+          <div class="comp-social-icon" style="background:linear-gradient(45deg,#f09433,#dc2743,#bc1888);">ig</div>
+          <div class="comp-social-icon" style="background:#010101;">tk</div>
+          <div class="comp-social-icon" style="background:#25d366;">wa</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 5: SOLUÇÕES             -->
+<!-- ============================== -->
+<div class="page proposal">
+  <div class="page-header">
+    <h2>Soluções pra resolver</h2>
+    <span class="page-num">05</span>
+  </div>
+  <div class="proposal-cards">
+    <div class="proposal-card proposal-basic">
+      <h3>Presença no Google</h3>
+      <div class="price">R$ 297–497 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> Otimização completa do perfil</li>
+        <li><span class="proposal-check">✓</span> Correção de categorias</li>
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Horário completo</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp</li>
+      </ul>
+      <div class="cta">Prazo: 2–5 dias</div>
+    </div>
+    <div class="proposal-card proposal-complete">
+      <h3>Google + Landing Page</h3>
+      <div class="price">R$ 697–1.200 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> Tudo da Presença no Google</li>
+        <li><span class="proposal-check">✓</span> Landing page responsiva</li>
+        <li><span class="proposal-check">✓</span> WhatsApp integrado</li>
+        <li><span class="proposal-check">✓</span> SEO básico</li>
+        <li><span class="proposal-check">✓</span> 4 peças de conteúdo</li>
+        <li><span class="proposal-check">✓</span> Display NFC configurado</li>
+      </ul>
+      <div class="cta">Prazo: 5–7 dias</div>
+    </div>
+    <div class="proposal-card proposal-premium">
+      <h3>Estruturação Digital</h3>
+      <div class="price">R$ 1.500–5.000 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> Tudo do Google + Landing</li>
+        <li><span class="proposal-check">✓</span> Organização de captação</li>
+        <li><span class="proposal-check">✓</span> Configuração de follow-up</li>
+        <li><span class="proposal-check">✓</span> Google Ads (opcional)</li>
+        <li><span class="proposal-check">✓</span> Conteúdo mensal (opcional)</li>
+        <li><span class="proposal-check">✓</span> Relatórios de métricas</li>
+      </ul>
+      <div class="cta">Prazo: 1–3 semanas</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 6: CTA                  -->
+<!-- ============================== -->
+<div class="page cta-page">
+  <h2>Pronto pra <span>crescer</span>?</h2>
+  <p class="cta-sub">
+    A Eletro Lima já tem a base — 27 anos, CREA-PR, 2 filiais, site profissional.
+    Falta pouca coisa pra dominar o Google em Ponta Grossa.
+  </p>
+  <div class="cta-contact">
+    <div class="cta-contact-item">
+      <div class="icon">💬</div>
+      <div class="text">(42) 3028-9591</div>
+    </div>
+    <div class="cta-contact-item">
+      <div class="icon">📍</div>
+      <div class="text">Av. Visconde de Taunay, 3130 — PG</div>
+    </div>
+  </div>
+  <img src="file:///C:/Users/guilo/APSIDE-OS/identidade/LOGO%20FUNDO%20ESCURO.png" alt="APSIDE" style="height: 60px; margin-top: 16px;">
+</div>
+
+<script>
+function pickPhoto(input) {
+  const files = input.files;
+  if (!files.length) return;
+
+  const container = input.closest('.comp-photos') || input.closest('.comp-map');
+  const slots = container ? Array.from(container.querySelectorAll('.photo-slot')) : [input.closest('.photo-slot')];
+  const startIdx = slots.indexOf(input.closest('.photo-slot'));
+
+  for (let i = 0; i < files.length && (startIdx + i) < slots.length; i++) {
+    const slot = slots[startIdx + i];
+    const file = files[i];
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      let img = slot.querySelector('img');
+      if (!img) {
+        img = document.createElement('img');
+        slot.appendChild(img);
+      }
+      img.src = e.target.result;
+      slot.classList.add('has-photo');
+    };
+    reader.readAsDataURL(file);
+  }
+
+  input.value = '';
+}
+</script>
+</body>
+</html>

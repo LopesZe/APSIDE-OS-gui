@@ -1,0 +1,686 @@
+[
+  {
+    "title": "Carnes & Cia - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": "Carnes e Cia, a sua casa de carnes localizada no Santa Paula.\nTemos o SIM e trabalhamos com supervisão da Médica Veterinária.\nFazemos hambúrgueres artesanal de costela com bacon, no qual fazemos\nofertas toda quinta-feira.\nPara semana, temos opções de carnes bovinos, suinos,ovinos e aves.\nPara o final de semana, carnes temperadas ou não, sem falar nos cortes\nespeciais para seu churrasco!!! Fale conosco, faça sua encomenda.\nAceitamos pagamentos com vale alimentação.",
+    "price": null,
+    "categoryName": "Cold cut store",
+    "address": "R. Quaresmeira, 13 - Contorno, Ponta Grossa - PR, 84061-230, Brazil",
+    "neighborhood": "Contorno",
+    "street": "R. Quaresmeira, 13",
+    "city": "Ponta Grossa",
+    "postalCode": "84061-230",
+    "state": "State of Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99912-0031",
+    "phoneUnformatted": "+5542999120031",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0963143,
+      "lng": -50.2038237
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": "WQ3W+FF Contorno, Ponta Grossa - Paraná, Brazil",
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU9jT4tgR6JQRfKXODK7LGEs",
+    "categories": [
+      "Cold cut store"
+    ],
+    "fid": "0x94e811d8e2d3d853:0x4b18cbae0ccea57c",
+    "cid": "5411298900685268348",
+    "reviewsCount": 210,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 209
+    },
+    "imagesCount": 57,
+    "imageCategories": [
+      "All",
+      "Inside",
+      "Videos",
+      "Meat",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2026-09-04T17:33:48.515Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {
+      "Su": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 57
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 59
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Mo": [],
+      "Tu": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 29
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "We": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 22
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 47
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 42
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 24
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 47
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 29
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Th": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 19
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 45
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 31
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 55
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 36
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Fr": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 44
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 36
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 39
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 49
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Sa": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 29
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 57
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 83
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 88
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 57
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 37
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 29
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 18
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ]
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 1 PM, 3 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 1 PM, 3 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 1 PM, 3 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 1 PM, 3 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 12 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Casa de Carnes Santa Paula",
+        "reviewsCount": 73,
+        "totalScore": 4.7
+      },
+      {
+        "category": "People also search for",
+        "title": "Açougue e Cia",
+        "reviewsCount": 4,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "Açougue do Julio",
+        "reviewsCount": 7,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "Boutique da Carne Costella e Cia.",
+        "reviewsCount": 1,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "CASA DE CARNES FORTALEZA LTDA",
+        "reviewsCount": 0,
+        "totalScore": 0
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "quality meat",
+        "count": 26
+      },
+      {
+        "title": "attentive butchers",
+        "count": 2
+      },
+      {
+        "title": "fresh meat",
+        "count": 11
+      },
+      {
+        "title": "meats",
+        "count": 23
+      },
+      {
+        "title": "selected meats",
+        "count": 4
+      },
+      {
+        "title": "clean environment",
+        "count": 5
+      },
+      {
+        "title": "quality products",
+        "count": 17
+      },
+      {
+        "title": "butcher shop",
+        "count": 11
+      },
+      {
+        "title": "friendly",
+        "count": 2
+      },
+      {
+        "title": "condiments",
+        "count": 3
+      }
+    ],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "questionsAndAnswers": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carnes%20%26%20Cia%20-%20Ponta%20Grossa&query_place_id=ChIJU9jT4tgR6JQRfKXODK7LGEs",
+    "searchString": "Direct Detail URL: https://www.google.com/maps/place/Carnes+%26+Cia+-+Ponta+Grossa/@-25.0963143,-50.2038237,916m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94e811d8e2d3d853:0x4b18cbae0ccea57c!8m2!3d-25.0963143!4d-50.2038237!16s%2Fg%2F11sd742rzx",
+    "language": "en",
+    "inputStartUrl": "https://www.google.com/maps/place/Carnes+%26+Cia+-+Ponta+Grossa/@-25.0963143,-50.2038237,916m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94e811d8e2d3d853:0x4b18cbae0ccea57c!8m2!3d-25.0963143!4d-50.2038237!16s%2Fg%2F11sd742rzx",
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4BZvsCZLWeWKBWhDbzEBsFMW7ZBTajIljrDZ9fbU-pG0YryLyldZmVEWDxaXNfVTxs4XF1GOarQUz0u9DfzY7NlFY3xUOP2OOsNEopB7lqaP-gAogDF6rxziL3vf0BVCgInom=w408-h263-k-no",
+    "kgmid": "/g/11sd742rzx",
+    "businessProfileId": "18264609222081173801",
+    "webResults": [],
+    "tableReservationLinks": [],
+    "tableReservationProviders": [],
+    "bookingLinks": [],
+    "restaurantData": {
+      "tableReservationProvider": null
+    },
+    "ownerUpdates": [],
+    "imageUrls": [],
+    "reviews": [],
+    "leadsEnrichment": []
+  }
+]

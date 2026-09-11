@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --fundo-escuro: #1F2133;
+    --fundo-claro:  #FFFFFF;
+    --acento-escuro: #00E65B;
+    --acento-claro:  #0066FF;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  .slide {
+    width: 1080px; height: 1920px; position: relative; overflow: hidden;
+    font-family: 'Inter', sans-serif;
+    display: flex; flex-direction: column; align-items: flex-start; justify-content: center;
+    text-align: left; padding: 120px;
+  }
+  .dark { background: var(--fundo-escuro); color: #FFFFFF; --accent: var(--acento-escuro); }
+  .light { background: var(--fundo-claro); color: #0F172A; --accent: var(--acento-claro); }
+  .counter { position: absolute; top: 90px; right: 120px; font-size: 18px; font-weight: 600; letter-spacing: 0.18em; opacity: 0.7; }
+  .logo-top { position: absolute; top: 84px; left: 120px; width: 170px; opacity: 0.95; }
+  .icon { position: absolute; bottom: 90px; right: 120px; width: 100px; opacity: 0.95; }
+  .handle { position: absolute; bottom: 96px; left: 120px; font-size: 26px; font-weight: 600; }
+  .topic {
+    color: var(--accent); font-weight: 600; font-size: 30px; letter-spacing: 0.02em;
+    margin-bottom: 28px; text-transform: none;
+  }
+  h2 {
+    font-weight: 800; font-size: 88px; line-height: 1.06; letter-spacing: -0.03em;
+    max-width: 840px;
+  }
+  .hl { color: var(--accent); }
+  .rule { width: 64px; height: 6px; background: var(--accent); margin: 40px 0; border-radius: 9999px; }
+  .light p { color: #475569; }
+  .dark p { color: #cbd5e1; }
+  p { font-size: 34px; font-weight: 400; line-height: 1.5; max-width: 820px; }
+  .hint {
+    margin-top: 48px; font-size: 26px; font-weight: 600; color: var(--accent);
+    letter-spacing: 0.02em;
+  }
+  .numeral { font-size: 340px; font-weight: 800; line-height: 0.9; letter-spacing: -0.04em; color: var(--accent); margin-bottom: 16px; }
+</style>
+</head>
+<body>
+
+<!-- REEL (escuro) — dado de impacto -->
+<div class="slide dark">
+  <img class="logo-top" src="../../../identidade/LOGO%20FUNDO%20ESCURO.png" alt="APSIDE">
+  <div class="counter">REEL</div>
+  <div class="topic">IA no negócio</div>
+  <div class="numeral">73%</div>
+  <h2>das tarefas da sua PME dá pra <span class="hl">automatizar</span></h2>
+  <div class="rule"></div>
+  <p>Atendimento, follow-up e relatório no piloto automático. Você foca no cliente, a máquina faz o resto.</p>
+  <div class="hint">Veja o carrossel completo →</div>
+  <img class="icon" src="../../../identidade/ICONE%20FUNDO%20ESCURO.png" alt="APSIDE">
+  <div class="handle">@apside</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dados da Prospecção — Parrilla XV</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', sans-serif; background: #0E1116; color: #F5ECD7; min-height: 100vh; }
+.container { max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.nav { display: flex; gap: 12px; justify-content: center; margin-bottom: 32px; }
+.nav a { padding: 8px 16px; border-radius: 8px; font-size: 12px; font-weight: 600; text-decoration: none; color: #888; border: 1px solid rgba(255,255,255,0.08); transition: all 0.2s; }
+.nav a:hover { border-color: #00E65B; color: #00E65B; }
+.nav a.active { background: #00E65B; color: #0E1116; border-color: #00E65B; }
+.header { text-align: center; padding: 48px 0 40px; border-bottom: 1px solid rgba(255,255,255,0.06); margin-bottom: 40px; }
+.header .badge { display: inline-block; padding: 6px 18px; border: 1px solid rgba(0,230,91,0.3); border-radius: 20px; color: #00E65B; font-size: 11px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px; }
+.header h1 { font-size: 32px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 8px; }
+.header .sub { color: #888; font-size: 14px; }
+.section { margin-bottom: 48px; }
+.section-title { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.section-title .icon { font-size: 18px; }
+.section-title h2 { font-size: 16px; font-weight: 700; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 16px; }
+th, td { padding: 10px 14px; text-align: left; font-size: 13px; border-bottom: 1px solid rgba(255,255,255,0.04); }
+th { color: #666; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
+td { color: #ccc; }
+td.val { color: #F5ECD7; font-weight: 600; }
+td.red { color: #ef4444; font-weight: 600; }
+td.green { color: #00E65B; font-weight: 600; }
+.posts-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-top: 12px; }
+.post-card { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px; padding: 12px; }
+.post-card .likes { font-size: 18px; font-weight: 700; color: #dc2743; }
+.post-card .date { font-size: 10px; color: #666; margin-top: 4px; }
+.post-card .caption { font-size: 10px; color: #888; margin-top: 4px; line-height: 1.3; }
+.score-bar { background: rgba(255,255,255,0.04); border-radius: 12px; padding: 24px; margin-top: 16px; }
+.score-bar .row { display: flex; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.03); }
+.score-bar .row:last-child { border-bottom: none; }
+.score-bar .criterio { flex: 1; font-size: 13px; color: #ccc; }
+.score-bar .pontos { font-size: 13px; font-weight: 700; width: 50px; text-align: right; }
+.score-bar .pontos.ok { color: #00E65B; }
+.score-bar .pontos.warn { color: #f59e0b; }
+.score-bar .pontos.fail { color: #ef4444; }
+.score-bar .bar-bg { width: 120px; height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; overflow: hidden; }
+.score-bar .bar-fill { height: 100%; border-radius: 3px; }
+.score-total { text-align: center; margin-top: 16px; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.06); }
+.score-total .num { font-size: 48px; font-weight: 900; color: #00E65B; }
+.score-total .lbl { font-size: 12px; color: #666; margin-top: 4px; }
+.footer { text-align: center; padding: 32px 0; border-top: 1px solid rgba(255,255,255,0.06); margin-top: 48px; }
+.footer .logo { color: #00E65B; font-size: 20px; font-weight: 800; }
+.footer .txt { color: #555; font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="nav">
+    <a href="index.html">Visão Geral</a>
+    <a href="script-abordagem.html">Script de Abordagem</a>
+    <a href="apresentacao.html">Apresentação (6 págs)</a>
+    <a href="dados.html" class="active">Dados da Prospecção</a>
+  </div>
+
+  <div class="header">
+    <div class="badge">Extraído via Instagram + WebSearch</div>
+    <h1>Dados da Prospecção</h1>
+    <div class="sub">Parrilla XV · @parrillaxv · 11/Set/2026</div>
+  </div>
+
+  <div class="section">
+    <div class="section-title"><span class="icon">📷</span><h2>Dados do Instagram</h2></div>
+    <table>
+      <tr><th>Campo</th><th>Valor</th></tr>
+      <tr><td>Username</td><td class="val">@parrillaxv</td></tr>
+      <tr><td>Nome completo</td><td class="val">Parrilla XV</td></tr>
+      <tr><td>Seguidores</td><td class="val">27.647</td></tr>
+      <tr><td>Seguindo</td><td>118</td></tr>
+      <tr><td>Bio</td><td>🔥 Gastronomia, fogo e experiências 🥩 Restaurante | Eventos | Buffet 🍾 Casamentos • Corporativo 📲 Solicite seu orçamento 👇</td></tr>
+      <tr><td>Link na bio</td><td>parrillaxvuptecnologias.com.br (placeholder — NÃO é site próprio)</td></tr>
+      <tr><td>Conta privada</td><td class="green">Não</td></tr>
+      <tr><td>Conta verificada</td><td>Não</td></tr>
+      <tr><td>Categoria</td><td class="val">Restaurant</td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title"><span class="icon">📍</span><h2>Endereço e Contato</h2></div>
+    <table>
+      <tr><th>Campo</th><th>Valor</th></tr>
+      <tr><td>Endereço</td><td class="val">Rua XV de Setembro, 1561 — Uvaranas, Ponta Grossa, PR</td></tr>
+      <tr><td>WhatsApp</td><td class="val">(42) 99867-6089</td></tr>
+      <tr><td>Telefone fixo</td><td class="red">Não encontrado</td></tr>
+      <tr><td>Horário</td><td>Seg-Qui: 18h • Sex: 12h–16h, 18h–23h30 • Sáb-Dom: 12h–15h30, 18h–23h30</td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title"><span class="icon">❤️</span><h2>Últimos Posts — Engajamento</h2></div>
+    <div class="posts-grid">
+      <div class="post-card"><div class="likes">—</div><div class="date">10/Set/2026</div><div class="caption">Pasta al Mare</div></div>
+      <div class="post-card"><div class="likes">3</div><div class="date">10/Set/2026</div><div class="caption">Carne na parrilla</div></div>
+      <div class="post-card"><div class="likes">94</div><div class="date">28/Nov/2025</div><div class="caption">Article</div></div>
+      <div class="post-card"><div class="likes">121</div><div class="date">17/Out/2025</div><div class="caption">Drone FPV</div></div>
+      <div class="post-card"><div class="likes">63</div><div class="date">09/Dez/2024</div><div class="caption">Certificação Angus</div></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title"><span class="icon">🔍</span><h2>Presença Digital</h2></div>
+    <table>
+      <tr><th>Canal</th><th>Status</th><th>Detalhe</th></tr>
+      <tr><td>Google Meu Negócio</td><td class="red">❌ Não encontrado</td><td>Não aparece em buscas</td></tr>
+      <tr><td>Site próprio</td><td class="red">❌ Não tem</td><td>Link na bio é placeholder</td></tr>
+      <tr><td>Instagram</td><td class="green">✅ Ativo</td><td>@parrillaxv, 27.647 seguidores</td></tr>
+      <tr><td>WhatsApp</td><td class="green">✅ Ativo</td><td>(42) 99867-6089</td></tr>
+      <tr><td>Avaliações Google</td><td class="red">❌ Zero</td><td>Sem canal de reviews</td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title"><span class="icon">📊</span><h2>Score Digital</h2></div>
+    <div class="score-bar">
+      <div class="row"><div class="criterio">Seguidores (>5k)</div><div class="bar-bg"><div class="bar-fill" style="width:100%;background:#00E65B"></div></div><div class="pontos ok">20/20</div></div>
+      <div class="row"><div class="criterio">Engajamento (bio + posts ativos)</div><div class="bar-bg"><div class="bar-fill" style="width:100%;background:#00E65B"></div></div><div class="pontos ok">15/15</div></div>
+      <div class="row"><div class="criterio">Sem GMB (oportunidade)</div><div class="bar-bg"><div class="bar-fill" style="width:100%;background:#ef4444"></div></div><div class="pontos fail">25/25</div></div>
+      <div class="row"><div class="criterio">Sem site (link é placeholder)</div><div class="bar-bg"><div class="bar-fill" style="width:80%;background:#f59e0b"></div></div><div class="pontos warn">20/25</div></div>
+      <div class="row"><div class="criterio">Dados de contato</div><div class="bar-bg"><div class="bar-fill" style="width:50%;background:#f59e0b"></div></div><div class="pontos warn">5/10</div></div>
+      <div class="row"><div class="criterio">Categoria definida</div><div class="bar-bg"><div class="bar-fill" style="width:100%;background:#00E65B"></div></div><div class="pontos ok">5/5</div></div>
+      <div class="score-total"><div class="num">90 / 100</div><div class="lbl">🟢 COMPLETO — Oportunidade de otimização</div></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title"><span class="icon">💡</span><h2>Solução Sugerida</h2></div>
+    <table>
+      <tr><th>Solução</th><th>Preço</th><th>Prazo</th></tr>
+      <tr><td class="val">Google + Site + Otimização</td><td class="val">R$ 997–1.800</td><td>7–10 dias úteis</td></tr>
+    </table>
+    <table style="margin-top:12px">
+      <tr><th>Inclui</th></tr>
+      <tr><td>✅ Google Meu Negócio completo com fotos de alta qualidade</td></tr>
+      <tr><td>✅ Site institucional com cardápio, eventos e WhatsApp</td></tr>
+      <tr><td>✅ SEO local (aparecer em "restaurante argentino Ponta Grossa")</td></tr>
+      <tr><td>✅ 4 carrosséis pra Instagram</td></tr>
+      <tr><td>✅ Otimização do link na bio</td></tr>
+    </table>
+  </div>
+
+  <div class="footer"><div class="logo">APSIDE</div><div class="txt">Presença digital que traz cliente · Setembro 2026</div></div>
+</div>
+</body>
+</html>

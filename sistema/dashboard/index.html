@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{DASHBOARD_TITLE}}</title>
+    <style>
+      :root { --bg:#0f1115; --card:#171a21; --panel:#1c2029; --line:#2a2f3a; --txt:#e6e9ef; --muted:#9aa3b2; --brand:#ff5a1f; --brand2:#ffb347; --ok:#3ddc84; --bad:#ff5a5a; --blue:#4ea8ff; }
+      * { box-sizing: border-box; }
+      body { margin:0; background:var(--bg); color:var(--txt); font-family: ui-sans-serif, system-ui, "Segoe UI", Roboto, sans-serif; }
+      header { position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:14px; padding:16px 22px; background:rgba(15,17,21,.92); backdrop-filter:blur(6px); border-bottom:1px solid var(--line); }
+      header h1 { font-size:17px; margin:0; letter-spacing:.3px; }
+      header h1 b { color:var(--brand); }
+      .back { display:none; cursor:pointer; border:1px solid var(--line); background:var(--panel); color:var(--txt); padding:7px 13px; border-radius:9px; font-size:13px; }
+      .back:hover { border-color:var(--brand); }
+      .backbtn { cursor:pointer; border:1px solid var(--line); background:var(--panel); color:var(--txt); padding:8px 14px; border-radius:9px; font-size:13px; font-weight:600; margin-bottom:16px; }
+      .backbtn:hover { border-color:var(--brand); color:var(--brand); }
+      .downbtn { cursor:pointer; border:0; background:var(--brand); color:#fff; padding:8px 14px; border-radius:9px; font-size:13px; font-weight:600; margin-bottom:16px; margin-right:10px; }
+      .downbtn:hover { filter:brightness(1.08); }
+      .controls { margin-left:auto; display:flex; gap:8px; align-items:center; font-size:13px; color:var(--muted); }
+      .controls input, .controls select { background:var(--card); border:1px solid var(--line); color:var(--txt); border-radius:8px; padding:7px 10px; color-scheme:dark; }
+      .controls input::-webkit-calendar-picker-indicator { filter:invert(0.8); cursor:pointer; }
+      .controls input::placeholder { color:var(--muted); }
+      .controls button { background:var(--brand); color:#fff; border:0; border-radius:8px; padding:7px 12px; cursor:pointer; font-weight:600; }
+      main { padding:22px; max-width:1180px; margin:0 auto; }
+      .cards { display:grid; grid-template-columns:repeat(5,1fr); gap:14px; margin-bottom:22px; }
+      .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; }
+      .card .label { font-size:12px; color:var(--muted); }
+      .card .value { font-size:22px; font-weight:700; margin-top:6px; }
+      .card .value.brand { color:var(--brand2); }
+      .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:16px; }
+      .panel { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px; margin-bottom:16px; }
+      .panel h2 { font-size:14px; margin:0 0 14px; color:var(--muted); text-transform:uppercase; letter-spacing:.6px; }
+      table { width:100%; border-collapse:collapse; font-size:14px; }
+      th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); }
+      th { color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.4px; }
+      td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; }
+      tr.click { cursor:pointer; }
+      tr.click:hover { background:rgba(255,90,31,.08); }
+      tr.click:hover td { border-color:var(--brand); }
+      .badge { display:inline-block; padding:3px 9px; border-radius:999px; font-size:12px; font-weight:700; }
+      .badge.acima { background:rgba(61,220,132,.15); color:var(--ok); }
+      .badge.abaixo { background:rgba(255,90,90,.15); color:var(--bad); }
+      .badge.igual { background:rgba(78,168,255,.15); color:var(--blue); }
+      .muted { color:var(--muted); }
+      .empty { color:var(--muted); font-style:italic; }
+      .kv { font-size:14px; line-height:1.7; }
+      .kv b { color:var(--brand2); }
+      .infogrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(165px,1fr)); gap:12px; margin-bottom:16px; }
+      .infocard { background:var(--card); border:1px solid var(--line); border-radius:11px; padding:13px; }
+      .infocard .k { font-size:11px; color:var(--brand); text-transform:uppercase; letter-spacing:.4px; }
+      .infocard .v { font-size:15px; font-weight:600; margin-top:6px; word-break:break-word; }
+      .infocard .v.big { font-size:19px; color:var(--brand2); }
+      tfoot td { border-top:2px solid var(--line); border-bottom:none; }
+      input.q { width:100%; background:var(--card); border:1px solid var(--line); color:var(--txt); border-radius:9px; padding:9px 12px; margin-bottom:14px; font-size:14px; }
+      .bar { height:8px; border-radius:6px; background:linear-gradient(90deg,var(--brand),var(--brand2)); }
+      .barwrap { background:var(--card); border-radius:6px; overflow:hidden; height:8px; }
+      .mini { font-size:12px; color:var(--muted); margin-top:4px; }
+      .prod-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:12px; }
+      .prod { background:var(--card); border:1px solid var(--line); border-radius:11px; padding:13px; }
+      .prod .c { font-size:12px; color:var(--muted); }
+      .prod .d { font-weight:600; }
+      .prod .m { font-size:11px; color:var(--brand); text-transform:uppercase; letter-spacing:.5px; }
+      .ver-mais { display:flex; justify-content:center; margin-top:12px; }
+      .ver-mais button { background:transparent; border:1px solid var(--line); color:var(--muted); padding:8px 20px; border-radius:9px; font-size:13px; cursor:pointer; font-weight:600; }
+      .ver-mais button:hover { border-color:var(--brand); color:var(--brand); }
+      .modal-overlay { position:fixed; inset:0; z-index:100; background:rgba(0,0,0,.7); display:flex; align-items:center; justify-content:center; padding:20px; }
+      .modal-overlay.hidden { display:none; }
+      .modal { background:var(--panel); border:1px solid var(--line); border-radius:14px; width:100%; max-width:960px; max-height:85vh; display:flex; flex-direction:column; }
+      .modal-header { display:flex; align-items:center; justify-content:space-between; padding:16px 20px; border-bottom:1px solid var(--line); }
+      .modal-header h2 { margin:0; font-size:16px; }
+      .modal-close { background:transparent; border:0; color:var(--muted); font-size:20px; cursor:pointer; padding:4px 8px; }
+      .modal-close:hover { color:var(--brand); }
+      .modal-body { padding:16px 20px; overflow-y:auto; flex:1; }
+      .pill { font-size:11px; padding:2px 8px; border-radius:999px; background:var(--card); border:1px solid var(--line); color:var(--muted); }
+    </style>
+  </head>
+  <body>
+    <header>
+      <button class="back" id="backBtn" onclick="goHome()">← Voltar</button>
+      <h1>{{DASHBOARD_TITLE}}</h1>
+      <div class="controls" id="controls">
+        <span>De</span><input type="date" id="de" />
+        <span>Até</span><input type="date" id="ate" />
+        <button onclick="load()">Filtrar</button>
+      </div>
+    </header>
+
+    <main id="home">
+      <div class="cards" id="cards"></div>
+      <div class="panel">
+        <h2>Clientes e seus números (acumulado)</h2>
+        <input class="q" placeholder="Buscar cliente, cidade ou CNPJ..." oninput="filtrarClientes(this.value)" />
+        <table>
+          <thead>
+            <tr><th>Cliente</th><th>Cidade</th><th class="num">Total comprado</th><th class="num">Pedidos</th><th>Última compra</th></tr>
+          </thead>
+          <tbody id="clientesTbody"></tbody>
+        </table>
+      </div>
+      <div class="grid2">
+        <div class="panel"><h2>Top clientes</h2><div id="topClientes"></div></div>
+        <div class="panel"><h2>Vendas por marca</h2><div id="vendasMarca"></div></div>
+      </div>
+      <div class="panel"><h2>Produtos mais vendidos</h2><div id="topProdutos"></div></div>
+      <div class="panel"><h2>Catálogo de produtos</h2><input class="q" id="q" placeholder="Buscar por descrição, código ou marca..." oninput="buscar()" /><div id="catalogo" class="prod-grid"></div><div class="ver-mais" id="verMaisBtn" style="display:none"><button onclick="abrirModal()">Ver todos os produtos</button></div></div>
+    </main>
+
+    <main id="cliente" style="display:none"></main>
+    <main id="venda" style="display:none"></main>
+
+    <div class="modal-overlay hidden" id="modalOverlay" onclick="fecharModal(event)">
+      <div class="modal" onclick="event.stopPropagation()">
+        <div class="modal-header">
+          <h2>Todos os produtos</h2>
+          <button class="modal-close" onclick="fecharModal()">&times;</button>
+        </div>
+        <div class="modal-body">
+          <input class="q" id="qModal" placeholder="Filtrar..." oninput="filtrarModal(this.value)" />
+          <div id="modalProdutos" class="prod-grid"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const fmt = (v) => (v == null ? "—" : "R$ " + Number(v).toLocaleString("pt-BR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+      const infoCard = (k, v, big) =>
+        `<div class="infocard"><div class="k">${k}</div><div class="v ${big ? "big" : ""}">${v == null || v === "" ? "—" : v}</div></div>`;
+      const STATE = { view: "home" };
+      let clientePedidosAtuais = [];
+      let clientesAtuais = [];
+      const pedidosCache = {};
+
+      function showView(name) {
+        STATE.view = name;
+        document.getElementById("home").style.display = name === "home" ? "" : "none";
+        document.getElementById("cliente").style.display = name === "cliente" ? "" : "none";
+        document.getElementById("venda").style.display = name === "venda" ? "" : "none";
+        document.getElementById("backBtn").style.display = name === "home" ? "none" : "";
+        document.getElementById("controls").style.display = name === "home" ? "" : "none";
+        window.scrollTo(0, 0);
+      }
+
+      async function load() {
+        const de = document.getElementById("de").value;
+        const ate = document.getElementById("ate").value;
+        const url = "/api/dashboard" + (de || ate ? `?de=${de}&ate=${ate}` : "");
+        const d = await (await fetch(url)).json();
+        const c = d.cards || {};
+        const cards = [
+          ["Vendas (período)", fmt(c.total_vendas), false],
+          ["Pedidos", c.num_pedidos, false],
+          ["Ticket médio", fmt(c.ticket_medio), false],
+          ["Clientes", c.clientes, false],
+          ["Produtos", c.produtos, false],
+        ];
+        document.getElementById("cards").innerHTML = cards
+          .map((c) => `<div class="card"><div class="label">${c[0]}</div><div class="value ${c[2] ? "brand" : ""}">${c[1]}</div></div>`)
+          .join("");
+
+        const maxC = Math.max(1, ...d.topClientes.map((x) => x.valor));
+        document.getElementById("topClientes").innerHTML =
+          d.topClientes.length
+            ? d.topClientes
+                .map(
+                  (x) =>
+                    `<div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:13px"><span>${x.nome}</span><b>${fmt(x.valor)}</b></div><div class="barwrap" style="margin-top:5px"><div class="bar" style="width:${(x.valor / maxC) * 100}%"></div></div></div>`
+                )
+                .join("")
+            : '<p class="empty">Sem dados.</p>';
+
+        const maxM = Math.max(1, ...d.vendasMarca.map((x) => x.valor));
+        document.getElementById("vendasMarca").innerHTML =
+          d.vendasMarca.length
+            ? d.vendasMarca
+                .map(
+                  (x) =>
+                    `<div style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;font-size:13px"><span>${x.marca}</span><b>${fmt(x.valor)}</b></div><div class="barwrap" style="margin-top:5px"><div class="bar" style="width:${(x.valor / maxM) * 100}%"></div></div></div>`
+                )
+                .join("")
+            : '<p class="empty">Sem dados.</p>';
+
+        const maxP = Math.max(1, ...d.topProdutos.map((x) => x.qty));
+        document.getElementById("topProdutos").innerHTML =
+          d.topProdutos.length
+            ? `<table><thead><tr><th>Produto</th><th>Marca</th><th class="num">Qtd</th><th class="num">Faturado</th></tr></thead><tbody>` +
+              d.topProdutos
+                .map(
+                  (x) =>
+                    `<tr><td>${x.descricao}</td><td class="muted">${x.marca}</td><td class="num">${x.qty}</td><td class="num">${fmt(x.valor)}</td></tr>`
+                )
+                .join("") +
+              "</tbody></table>"
+            : '<p class="empty">Sem dados.</p>';
+
+        const cls = await (await fetch("/api/clientes" + (de || ate ? `?de=${de}&ate=${ate}` : ""))).json();
+        clientesAtuais = cls.clientes || [];
+        filtrarClientes("");
+        await buscar();
+      }
+
+      let todosProdutos = [];
+
+      function renderizarCatalogo(produtos) {
+        const grid = document.getElementById("catalogo");
+        const visiveis = produtos.slice(0, 4);
+        grid.innerHTML = visiveis.length
+          ? visiveis
+              .map((p) => `<div class="prod"><div class="m">${p.marca || ""}</div><div class="d">${p.descricao}</div><div class="c">${p.codigo} · ${p.unidade || ""} · ${fmt(p.preco_ref)}</div></div>`)
+              .join("")
+          : '<p class="empty">Nenhum produto.</p>';
+        const btn = document.getElementById("verMaisBtn");
+        btn.style.display = produtos.length > 4 ? "" : "none";
+      }
+
+      function abrirModal() {
+        document.getElementById("qModal").value = "";
+        renderizarModal(todosProdutos);
+        document.getElementById("modalOverlay").classList.remove("hidden");
+        document.body.style.overflow = "hidden";
+      }
+
+      function fecharModal(e) {
+        if (e && e.target !== document.getElementById("modalOverlay")) return;
+        document.getElementById("modalOverlay").classList.add("hidden");
+        document.body.style.overflow = "";
+      }
+
+      function renderizarModal(produtos) {
+        document.getElementById("modalProdutos").innerHTML = produtos.length
+          ? produtos
+              .map((p) => `<div class="prod"><div class="m">${p.marca || ""}</div><div class="d">${p.descricao}</div><div class="c">${p.codigo} · ${p.unidade || ""} · ${fmt(p.preco_ref)}</div></div>`)
+              .join("")
+          : '<p class="empty">Nenhum produto.</p>';
+      }
+
+      function filtrarModal(q) {
+        q = (q || "").toLowerCase().trim();
+        const filtrados = q
+          ? todosProdutos.filter((p) => [p.descricao, p.codigo, p.marca].join(" ").toLowerCase().includes(q))
+          : todosProdutos;
+        renderizarModal(filtrados);
+      }
+
+      async function buscar() {
+        const q = document.getElementById("q").value.trim();
+        const de = document.getElementById("de").value;
+        const ate = document.getElementById("ate").value;
+        const params = new URLSearchParams();
+        if (q) params.set("q", q);
+        if (de) params.set("de", de);
+        if (ate) params.set("ate", ate);
+        const url = "/api/produtos" + (params.toString() ? "?" + params.toString() : "");
+        const d = await (await fetch(url)).json();
+        todosProdutos = d.produtos || [];
+        renderizarCatalogo(todosProdutos);
+      }
+
+      function filtrarClientes(q) {
+        q = (q || "").toLowerCase().trim();
+        const rows = clientesAtuais
+          .filter((c) => {
+            if (!q) return true;
+            const hay = [c.nome, c.cidade, c.cnpj].join(" ").toLowerCase();
+            return hay.includes(q);
+          })
+          .map(
+            (c) =>
+              `<tr class="click" onclick="showCliente(${c.id})"><td>${c.nome}</td><td class="muted">${c.cidade || "—"}</td><td class="num">${fmt(c.total)}</td><td class="num">${c.num}</td><td class="muted">${c.ultima || "—"}</td></tr>`
+          )
+          .join("");
+        const tbody = document.getElementById("clientesTbody");
+        if (tbody) tbody.innerHTML = rows || '<tr><td colspan="5" class="empty">Nenhum cliente.</td></tr>';
+      }
+
+      async function showCliente(id) {
+        const d = await (await fetch("/api/cliente/" + id)).json();
+        if (d.error) { alert(d.error); return; }
+        const c = d.cliente;
+        clientePedidosAtuais = d.pedidos || [];
+        document.getElementById("cliente").innerHTML = `
+          <button class="backbtn" onclick="goHome()">← Voltar aos clientes</button>
+          <h2 style="margin:0 0 14px">${c.nome}</h2>
+          <div class="infogrid" style="grid-template-columns:repeat(4,1fr)">
+            ${infoCard("CNPJ", c.cnpj)}
+            ${infoCard("Cidade", c.cidade)}
+            ${infoCard("Contato", c.contato)}
+            ${infoCard("Endereço", c.endereco)}
+          </div>
+          <div class="panel">
+            <h2>Últimas vendas / Notas</h2>
+            <table><thead><tr><th>Data</th><th>Nota</th><th>Vendedor</th><th class="num">Valor</th></tr></thead><tbody id="notasTbody"></tbody></table>
+          </div>
+        `;
+        filtrarNotas("");
+        showView("cliente");
+      }
+
+      function filtrarNotas(q) {
+        q = (q || "").toLowerCase().trim();
+        const rows = clientePedidosAtuais
+          .filter((p) => {
+            if (!q) return true;
+            const hay = [p.data, p.origem, p.numero_pedido, p.vendedor, fmt(p.valor_total)].join(" ").toLowerCase();
+            return hay.includes(q);
+          })
+          .map(
+            (p) =>
+              `<tr class="click" onclick="showVenda(${p.id})"><td>${p.data}</td><td>${p.origem || p.numero_pedido || "—"}</td><td class="muted">${p.vendedor || ""}</td><td class="num">${fmt(p.valor_total)}</td></tr>`
+          )
+          .join("");
+        const tbody = document.getElementById("notasTbody");
+        if (tbody) tbody.innerHTML = rows || '<tr><td colspan="4" class="empty">Sem vendas/notas.</td></tr>';
+      }
+
+      async function showVenda(id) {
+        const d = pedidosCache[id] ? { pedido: pedidosCache[id] } : await (await fetch("/api/pedido/" + id)).json();
+        if (d.error) { alert(d.error); return; }
+        const p = d.pedido;
+        const cl = p.clientes || {};
+        const itens = p.itens_pedido.length
+          ? p.itens_pedido
+              .map(
+                (it) =>
+                  `<tr><td class="muted">${it.produtos?.codigo || "—"}</td><td>${it.produtos?.descricao || "—"}</td><td class="muted">${it.produtos?.marca || "—"}</td><td>${it.produtos?.unidade || "—"}</td><td class="num">${it.qtd}</td><td class="num">${fmt(it.preco_unit)}</td><td class="num">${fmt(it.subtotal)}</td></tr>`
+              )
+              .join("")
+          : '<tr><td colspan="7" class="empty">Sem itens.</td></tr>';
+        let vendaInfo = `
+          <div class="infogrid">
+            ${infoCard("Data", p.data)}
+            ${infoCard("Nota (NF)", p.origem)}
+            ${infoCard("Número do pedido", p.numero_pedido)}
+            ${infoCard("Vendedor", p.vendedor)}
+            ${infoCard("Condição", p.condicao)}
+            ${infoCard("Valor total", fmt(p.valor_total), true)}
+          `;
+        if (p.obs) vendaInfo += `<div class="infocard" style="grid-column:1/-1"><div class="k">Observação</div><div class="v" style="font-weight:400">${p.obs}</div></div>`;
+        vendaInfo += `</div>`;
+
+        document.getElementById("venda").innerHTML = `
+          <button class="backbtn" onclick="showCliente(${p.cliente_id})">← Voltar ao cliente</button>
+          <h2 style="margin:0 0 14px">Venda #${p.id} — ${cl.nome || ""}</h2>
+          ${p.nf_arquivo ? `<button class="downbtn" onclick="baixarNf(${p.id})">⬇ Baixar NF-e (PDF)</button>` : ""}
+          ${vendaInfo}
+          <div class="panel">
+            <h2>Itens</h2>
+            <table>
+              <thead><tr><th>Cód</th><th>Descrição</th><th>Marca</th><th>Un</th><th class="num">Qtd</th><th class="num">Unit</th><th class="num">Subtotal</th></tr></thead>
+              <tbody>${itens}</tbody>
+              <tfoot><tr><td colspan="6" class="num"><b>Total</b></td><td class="num"><b>${fmt(p.valor_total)}</b></td></tr></tfoot>
+            </table>
+          </div>
+        `;
+        showView("venda");
+      }
+
+      async function baixarNf(id) {
+        try {
+          const d = await (await fetch("/api/pedido/" + id + "/nf")).json();
+          if (d.error) { alert(d.error); return; }
+          window.open(d.url, "_blank");
+        } catch (e) {
+          alert("Erro ao baixar NF");
+        }
+      }
+
+      function goHome() { showView("home"); load(); }
+
+      load();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>Loja Mix — Diagnóstico GMB</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0E1116;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* COVER */
+.cover {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,230,91,0.3);
+  border-radius: 30px;
+  color: #00E65B;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.cover h1 {
+  color: #F5ECD7;
+  font-size: 52px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+.cover h1 span { color: #00E65B; }
+.cover .subtitle {
+  color: #8a8a8a;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+.cover-meta {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+.cover-meta-item { text-align: center; }
+.cover-meta-item .value {
+  color: #F5ECD7;
+  font-size: 36px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: #666;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #555;
+  font-size: 12px;
+}
+
+/* ANALYSIS */
+.analysis { background: #fff; }
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #f0f0f0;
+}
+.page-header h2 {
+  font-size: 28px;
+  font-weight: 800;
+  color: #0E1116;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num { color: #ccc; font-size: 14px; font-weight: 600; }
+.score-section { display: flex; gap: 40px; margin-bottom: 40px; }
+.score-big {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: conic-gradient(#00E65B 0deg, #00E65B 288deg, #e8e8e8 288deg, #e8e8e8 360deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.score-big::before {
+  content: '';
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: #fff;
+  position: absolute;
+}
+.score-big .score-value {
+  position: relative;
+  z-index: 1;
+  font-size: 48px;
+  font-weight: 900;
+  color: #0E1116;
+}
+.score-big .score-unit {
+  position: relative;
+  z-index: 1;
+  font-size: 18px;
+  color: #888;
+  font-weight: 500;
+}
+.score-details { flex: 1; }
+.score-label {
+  font-size: 14px;
+  font-weight: 700;
+  color: #00E65B;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.score-desc {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.criteria-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #f8f9fa;
+}
+.criteria-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  flex-shrink: 0;
+}
+.criteria-ok { background: #d4edda; color: #155724; }
+.criteria-warn { background: #fff3cd; color: #856404; }
+.criteria-fail { background: #f8d7da; color: #721c24; }
+.criteria-text { font-size: 12px; font-weight: 500; color: #333; }
+
+/* MISSING */
+.missing { background: #fff; }
+.missing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  flex: 1;
+}
+.missing-card {
+  padding: 28px;
+  border-radius: 16px;
+  border: 1px solid #f0f0f0;
+}
+.missing-card-negative { background: #fef2f2; border-color: #fecaca; }
+.missing-card-positive { background: #f0fdf4; border-color: #bbf7d0; }
+.missing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.missing-card-negative h3 { color: #dc2626; }
+.missing-card-positive h3 { color: #16a34a; }
+.missing-list { list-style: none; }
+.missing-list li {
+  padding: 8px 0;
+  font-size: 13px;
+  color: #444;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.missing-list li:last-child { border-bottom: none; }
+.missing-list .icon { flex-shrink: 0; margin-top: 1px; }
+
+/* COMPARISON */
+.comparison {
+  background: #0E1116;
+  padding: 12mm 16mm;
+}
+.comparison h2 {
+  color: #F5ECD7;
+  font-size: 28px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 32px;
+  letter-spacing: -0.5px;
+}
+.comp-cards {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex: 1;
+}
+.comp-card {
+  width: 520px;
+  background: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.comp-card-bad { border: 2px dashed #e5e7eb; }
+.comp-card-good { border: 2px solid #00E65B; }
+.comp-card-tag {
+  padding: 10px 20px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+.comp-card-bad .comp-card-tag { background: #fef2f2; color: #dc2626; }
+.comp-card-good .comp-card-tag { background: #f0fdf4; color: #16a34a; }
+.comp-card-body {
+  padding: 20px 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.comp-map {
+  width: 100%;
+  height: 120px;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 16px;
+  position: relative;
+}
+.comp-map img { width: 100%; height: 100%; object-fit: cover; }
+.comp-map::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(transparent 50%, rgba(0,0,0,0.5));
+}
+.comp-map-pin {
+  position: absolute;
+  bottom: 8px;
+  left: 12px;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 500;
+  z-index: 2;
+}
+.comp-name { font-size: 16px; font-weight: 700; color: #1a1a1a; margin-bottom: 2px; }
+.comp-cat { font-size: 11px; color: #888; margin-bottom: 10px; }
+.comp-rating { display: flex; align-items: center; gap: 6px; margin-bottom: 12px; }
+.comp-stars { color: #f4b400; font-size: 14px; }
+.comp-rating-num { font-size: 13px; font-weight: 600; color: #333; }
+.comp-rating-count { font-size: 11px; color: #888; }
+.comp-info { font-size: 10px; color: #666; line-height: 1.7; margin-bottom: 12px; }
+.comp-info span { display: block; }
+.comp-photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+  margin-bottom: 12px;
+}
+.comp-photo { aspect-ratio: 1; border-radius: 6px; overflow: hidden; }
+.comp-photo img { width: 100%; height: 100%; object-fit: cover; }
+.comp-photo-empty {
+  background: #f3f4f6;
+  border: 1px dashed #d1d5db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #bbb;
+}
+.comp-reviews { flex: 1; }
+.comp-review { display: flex; gap: 6px; margin-bottom: 6px; align-items: flex-start; }
+.comp-review-avatar {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #666;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.comp-review-name { font-size: 9px; font-weight: 600; color: #333; }
+.comp-review-stars { color: #f4b400; font-size: 8px; }
+.comp-review-text { font-size: 9px; color: #666; line-height: 1.3; }
+.comp-social { display: flex; gap: 6px; margin-top: 8px; }
+.comp-social-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #fff;
+  font-weight: 700;
+}
+.comp-social-off { opacity: 0.2; }
+
+/* PROPOSAL */
+.proposal { background: #fff; }
+.proposal-cards {
+  display: flex;
+  gap: 16px;
+  flex: 1;
+  align-items: stretch;
+}
+.proposal-card {
+  flex: 1;
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.proposal-basic { background: #f8f9fa; border: 2px solid #e9ecef; }
+.proposal-complete {
+  background: linear-gradient(135deg, #0E1116, #1a2332);
+  border: 2px solid #00E65B;
+  position: relative;
+}
+.proposal-complete::before {
+  content: 'RECOMENDADO';
+  position: absolute;
+  top: -1px;
+  right: 20px;
+  background: #00E65B;
+  color: #0E1116;
+  padding: 4px 12px;
+  border-radius: 0 0 8px 8px;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.proposal-premium { background: #f8f9fa; border: 2px solid #e9ecef; }
+.proposal-card h3 { font-size: 15px; font-weight: 800; margin-bottom: 4px; }
+.proposal-basic h3 { color: #1a1a1a; }
+.proposal-complete h3 { color: #F5ECD7; }
+.proposal-premium h3 { color: #1a1a1a; }
+.proposal-card .price {
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+.proposal-basic .price { color: #1a1a1a; }
+.proposal-complete .price { color: #00E65B; }
+.proposal-premium .price { color: #1a1a1a; }
+.proposal-card .price span { font-size: 14px; font-weight: 500; }
+.proposal-basic .price span { color: #888; }
+.proposal-complete .price span { color: #8a8a8a; }
+.proposal-premium .price span { color: #888; }
+.proposal-list { list-style: none; flex: 1; }
+.proposal-list li {
+  padding: 6px 0;
+  font-size: 11px;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+.proposal-complete .proposal-list li {
+  color: #ccc;
+  border-bottom-color: rgba(255,255,255,0.08);
+}
+.proposal-premium .proposal-list li { color: #444; }
+.proposal-list li:last-child { border-bottom: none; }
+.proposal-check { color: #00E65B; font-weight: 700; flex-shrink: 0; }
+.proposal-card .cta {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.proposal-basic .cta { color: #888; }
+.proposal-complete .cta { color: #00E65B; }
+.proposal-premium .cta { color: #888; }
+
+/* CTA */
+.cta-page {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cta-page h2 {
+  color: #F5ECD7;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 16px;
+}
+.cta-page h2 span { color: #00E65B; }
+.cta-page .cta-sub {
+  color: #8a8a8a;
+  font-size: 16px;
+  margin-bottom: 40px;
+  max-width: 500px;
+}
+.cta-contact {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+.cta-contact-item { text-align: center; }
+.cta-contact-item .icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(0,230,91,0.1);
+  border: 1px solid rgba(0,230,91,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin: 0 auto 8px;
+}
+.cta-contact-item .text {
+  color: #F5ECD7;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+@media print {
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- PAGE 1: COVER -->
+<div class="page cover">
+  <div class="cover-badge">Diagnóstico Google Meu Negócio</div>
+  <h1>Loja Mix<br><span>Ponta Grossa</span></h1>
+  <p class="subtitle">Análise completa do perfil Google Meu Negócio + plano de ação</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">4.5</div>
+      <div class="label">Nota média</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">223</div>
+      <div class="label">Avaliações</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">80</div>
+      <div class="label">Score / 100</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <img src="../../../../identidade/LOGO FUNDO ESCURO.png" alt="APSIDE" style="height: 28px;">
+    <span>Setembro 2026</span>
+  </div>
+</div>
+
+<!-- PAGE 2: ANALYSIS -->
+<div class="page analysis">
+  <div class="page-header">
+    <h2>Diagnóstico do Perfil</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="score-section">
+    <div class="score-big">
+      <span class="score-value">80</span>
+      <span class="score-unit">/100</span>
+    </div>
+    <div class="score-details">
+      <div class="score-label">Classificação: Já encaminhado</div>
+      <p class="score-desc">
+        A Loja Mix tem uma base sólida — 223 avaliações com nota 4.5, boas fotos e horário cadastrado.
+        Mas está perdendo oportunidades por não ter website e redes sociais linkadas.
+        Com poucas otimizações, pode dominar as buscas por "loja de roupa em Ponta Grossa".
+      </p>
+      <div class="criteria-grid">
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Foto de capa (fachada)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">5 fotos no perfil</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">223 avaliações (4.5)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Respostas do dono</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Telefone cadastrado</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Endereço completo</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Horário de funcionamento</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Categoria definida</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Website (não tem)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Redes sociais (não linkadas)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 3: WHAT'S MISSING -->
+<div class="page missing">
+  <div class="page-header">
+    <h2>O que está faltando</h2>
+    <span class="page-num">03</span>
+  </div>
+  <div class="missing-grid">
+    <div class="missing-card missing-card-negative">
+      <h3><span style="font-size:18px;">⚠</span> Oportunidades perdidas</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem website</strong><br>
+            Loja de roupa sem site perde cliente que pesquisa "loja de roupa Ponta Grossa". Website transmite credibilidade e permite catálogo online.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem redes sociais linkadas</strong><br>
+            Instagram e TikTok são essenciais pra loja de roupa. Não ter linkados no GMB é cliente perdido.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem respostas às avaliações</strong><br>
+            Com 223 avaliações, responder gera confiança e mostra que o dono se importa com o cliente.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Poucas fotos de produtos</strong><br>
+            5 fotos é pouco pra loja de roupa que vive de vitrine. O ideal é 15-20 fotos mostrando variedade.
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="missing-card missing-card-positive">
+      <h3><span style="font-size:18px;">✓</span> O que já funciona bem</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>223 avaliações com nota 4.5</strong><br>
+            Boa prova social. Avaliações positivas mencionam "ótimo preço", "produtos de qualidade", "mta variedade".
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Endereço completo no Contorno</strong><br>
+            Bairro movimentado, boa localização pra atrair passagem.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Horário cadastrado</strong><br>
+            Cliente sabe quando tá aberto. Isso evita frustração.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Categoria bem definida</strong><br>
+            "Loja de Roupa" — claro e direto. Bom pra SEO local.
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 4: COMPARISON -->
+<div class="page comparison">
+  <h2>Antes & Depois</h2>
+  <div class="comp-cards">
+    <div class="comp-card comp-card-bad">
+      <div class="comp-card-tag">Assim tá hoje</div>
+      <div class="comp-card-body">
+        <div class="comp-map">
+          <img src="FACHADA.png" alt="Fachada">
+          <div class="comp-map-pin">📍 R. Castanheira, 295</div>
+        </div>
+        <div class="comp-name">Loja Mix</div>
+        <div class="comp-cat">Loja de Roupa</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★½</span>
+          <span class="comp-rating-num">4.5</span>
+          <span class="comp-rating-count">223 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99858-2752</span>
+          <span>🕐 Aberto, fecha 18:00</span>
+          <span style="color:#dc2626;">🌐 Sem website</span>
+          <span style="color:#dc2626;">📱 Sem redes sociais</span>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo"><img src="FACHADA.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 1.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 2.png" alt=""></div>
+          <div class="comp-photo comp-photo-empty">+3</div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">A</div>
+            <div>
+              <div class="comp-review-name">Avaliação <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Adoro fazer compras nesta loja</div>
+            </div>
+          </div>
+        </div>
+        <div class="comp-social">
+          <div class="comp-social-icon comp-social-off" style="background:#1877f2;">f</div>
+          <div class="comp-social-icon comp-social-off" style="background:linear-gradient(45deg,#f09433,#dc2743,#bc1888);">ig</div>
+          <div class="comp-social-icon comp-social-off" style="background:#010101;">tk</div>
+          <div class="comp-social-icon comp-social-off" style="background:#25d366;">wa</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="comp-card comp-card-good">
+      <div class="comp-card-tag">Assim pode ficar</div>
+      <div class="comp-card-body">
+        <div class="comp-map">
+          <img src="FACHADA.png" alt="Fachada">
+          <div class="comp-map-pin">📍 R. Castanheira, 295</div>
+        </div>
+        <div class="comp-name">Loja Mix</div>
+        <div class="comp-cat">Loja de Roupa · Aberto agora</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★½</span>
+          <span class="comp-rating-num">4.5</span>
+          <span class="comp-rating-count">223 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99858-2752</span>
+          <span>🕐 Seg-Sex 9h–18h · Sáb 9h–13h</span>
+          <span style="color:#16a34a;">🌐 www.lojamix.com.br</span>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo"><img src="FACHADA.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 1.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 2.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 3.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 4.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 1.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 2.png" alt=""></div>
+          <div class="comp-photo"><img src="FOTO 3.png" alt=""></div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">M</div>
+            <div>
+              <div class="comp-review-name">Maria S. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Ótimo preço e produtos de qualidade</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">J</div>
+            <div>
+              <div class="comp-review-name">João P. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Mta variedade e ótimo atendimento</div>
+            </div>
+          </div>
+        </div>
+        <div class="comp-social">
+          <div class="comp-social-icon" style="background:#1877f2;">f</div>
+          <div class="comp-social-icon" style="background:linear-gradient(45deg,#f09433,#dc2743,#bc1888);">ig</div>
+          <div class="comp-social-icon" style="background:#010101;">tk</div>
+          <div class="comp-social-icon" style="background:#25d366;">wa</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 5: PROPOSAL -->
+<div class="page proposal">
+  <div class="page-header">
+    <h2>Planos pra resolver</h2>
+    <span class="page-num">05</span>
+  </div>
+  <div class="proposal-cards">
+    <div class="proposal-card proposal-basic">
+      <h3>GMB Completo</h3>
+      <div class="price">R$ 197 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="proposal-check">✓</span> 3 serviços cadastrados</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Configuração de horários</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp no perfil</li>
+      </ul>
+      <div class="cta">Prazo: 24–48h</div>
+    </div>
+    <div class="proposal-card proposal-complete">
+      <h3>GMB + Site</h3>
+      <div class="price">R$ 690 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="proposal-check">✓</span> 3 serviços cadastrados</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Configuração de horários</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp no perfil</li>
+        <li><span class="proposal-check">✓</span> Site 1 página (landing page)</li>
+        <li><span class="proposal-check">✓</span> 4 carrosséis pra redes sociais</li>
+        <li><span class="proposal-check">✓</span> Otimização SEO local</li>
+        <li><span class="proposal-check">✓</span> CTA de WhatsApp integrado</li>
+      </ul>
+      <div class="cta">Prazo: 3–5 dias</div>
+    </div>
+    <div class="proposal-card proposal-premium">
+      <h3>GMB + Site + Social</h3>
+      <div class="price">R$ 1.990 <span>/mês</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="proposal-check">✓</span> 3 serviços cadastrados</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Configuração de horários</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp no perfil</li>
+        <li><span class="proposal-check">✓</span> Site 1 página (landing page)</li>
+        <li><span class="proposal-check">✓</span> 4 carrosséis pra redes sociais</li>
+        <li><span class="proposal-check">✓</span> Otimização SEO local</li>
+        <li><span class="proposal-check">✓</span> 8 posts/mês pra redes sociais</li>
+        <li><span class="proposal-check">✓</span> Gestão completa do GMB</li>
+        <li><span class="proposal-check">✓</span> Relatório mensal de métricas</li>
+        <li><span class="proposal-check">✓</span> Suporte prioritário</li>
+      </ul>
+      <div class="cta">Prazo: 3–5 dias + recorrência</div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE 6: CTA -->
+<div class="page cta-page">
+  <h2>Pronto pra <span>crescer</span>?</h2>
+  <p class="cta-sub">
+    A Loja Mix já tem a base — 223 avaliações, nota 4.5, produto bom.
+    Falta pouca coisa pra dominar o Google da região.
+  </p>
+  <div class="cta-contact">
+    <div class="cta-contact-item">
+      <div class="icon">💬</div>
+      <div class="text">(42) 99858-2752</div>
+    </div>
+    <div class="cta-contact-item">
+      <div class="icon">📍</div>
+      <div class="text">R. Castanheira, 295 — Contorno, PG</div>
+    </div>
+  </div>
+  <img src="../../../../identidade/LOGO FUNDO ESCURO.png" alt="APSIDE" style="height: 60px; margin-top: 16px;">
+</div>
+
+</body>
+</html>

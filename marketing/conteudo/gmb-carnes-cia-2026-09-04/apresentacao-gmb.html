@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<title>Carnes & Cia — Diagnóstico GMB</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page {
+  size: 297mm 210mm;
+  margin: 0;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0E1116;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* ==================== PAGE SYSTEM ==================== */
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ==================== COVER ==================== */
+.cover {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,230,91,0.3);
+  border-radius: 30px;
+  color: #00E65B;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.cover h1 {
+  color: #F5ECD7;
+  font-size: 52px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+.cover h1 span {
+  color: #00E65B;
+}
+.cover .subtitle {
+  color: #8a8a8a;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+.cover-meta {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+.cover-meta-item {
+  text-align: center;
+}
+.cover-meta-item .value {
+  color: #F5ECD7;
+  font-size: 36px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: #666;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #555;
+  font-size: 12px;
+}
+.cover-footer .brand {
+  color: #00E65B;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+/* ==================== ANALYSIS PAGE ==================== */
+.analysis {
+  background: #fff;
+}
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #f0f0f0;
+}
+.page-header h2 {
+  font-size: 28px;
+  font-weight: 800;
+  color: #0E1116;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num {
+  color: #ccc;
+  font-size: 14px;
+  font-weight: 600;
+}
+.score-section {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+.score-big {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: conic-gradient(#00E65B 0deg, #00E65B 234deg, #e8e8e8 234deg, #e8e8e8 360deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.score-big::before {
+  content: '';
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: #fff;
+  position: absolute;
+}
+.score-big .score-value {
+  position: relative;
+  z-index: 1;
+  font-size: 48px;
+  font-weight: 900;
+  color: #0E1116;
+}
+.score-big .score-unit {
+  position: relative;
+  z-index: 1;
+  font-size: 18px;
+  color: #888;
+  font-weight: 500;
+}
+.score-details {
+  flex: 1;
+}
+.score-label {
+  font-size: 14px;
+  font-weight: 700;
+  color: #00E65B;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.score-desc {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.criteria-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #f8f9fa;
+}
+.criteria-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  flex-shrink: 0;
+}
+.criteria-ok { background: #d4edda; color: #155724; }
+.criteria-warn { background: #fff3cd; color: #856404; }
+.criteria-fail { background: #f8d7da; color: #721c24; }
+.criteria-text {
+  font-size: 12px;
+  font-weight: 500;
+  color: #333;
+}
+
+/* ==================== MISSING PAGE ==================== */
+.missing {
+  background: #fff;
+}
+.missing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  flex: 1;
+}
+.missing-card {
+  padding: 28px;
+  border-radius: 16px;
+  border: 1px solid #f0f0f0;
+}
+.missing-card-negative {
+  background: #fef2f2;
+  border-color: #fecaca;
+}
+.missing-card-positive {
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.missing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.missing-card-negative h3 { color: #dc2626; }
+.missing-card-positive h3 { color: #16a34a; }
+.missing-list {
+  list-style: none;
+}
+.missing-list li {
+  padding: 8px 0;
+  font-size: 13px;
+  color: #444;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.missing-list li:last-child { border-bottom: none; }
+.missing-list .icon {
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+/* ==================== COMPARISON PAGE ==================== */
+.comparison {
+  background: #0E1116;
+  padding: 12mm 16mm;
+}
+.comparison h2 {
+  color: #F5ECD7;
+  font-size: 28px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 32px;
+  letter-spacing: -0.5px;
+}
+.comp-cards {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  flex: 1;
+}
+.comp-card {
+  width: 520px;
+  background: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.comp-card-bad { border: 2px dashed #e5e7eb; }
+.comp-card-good { border: 2px solid #00E65B; }
+.comp-card-tag {
+  padding: 10px 20px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+.comp-card-bad .comp-card-tag { background: #fef2f2; color: #dc2626; }
+.comp-card-good .comp-card-tag { background: #f0fdf4; color: #16a34a; }
+.comp-card-body {
+  padding: 20px 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.comp-map {
+  width: 100%;
+  height: 120px;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 16px;
+  position: relative;
+}
+.comp-map img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.comp-map::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(transparent 50%, rgba(0,0,0,0.5));
+}
+.comp-map-pin {
+  position: absolute;
+  bottom: 8px;
+  left: 12px;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 500;
+  z-index: 2;
+}
+.comp-name {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 2px;
+}
+.comp-cat {
+  font-size: 11px;
+  color: #888;
+  margin-bottom: 10px;
+}
+.comp-rating {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+.comp-stars { color: #f4b400; font-size: 14px; }
+.comp-rating-num { font-size: 13px; font-weight: 600; color: #333; }
+.comp-rating-count { font-size: 11px; color: #888; }
+.comp-info {
+  font-size: 10px;
+  color: #666;
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+.comp-info span { display: block; }
+.comp-photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+  margin-bottom: 12px;
+}
+.comp-photo {
+  aspect-ratio: 1;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.comp-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.comp-photo-empty {
+  background: #f3f4f6;
+  border: 1px dashed #d1d5db;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #bbb;
+}
+.comp-reviews {
+  flex: 1;
+}
+.comp-review {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 6px;
+  align-items: flex-start;
+}
+.comp-review-avatar {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #666;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.comp-review-name { font-size: 9px; font-weight: 600; color: #333; }
+.comp-review-stars { color: #f4b400; font-size: 8px; }
+.comp-review-text { font-size: 9px; color: #666; line-height: 1.3; }
+.comp-social {
+  display: flex;
+  gap: 6px;
+  margin-top: 8px;
+}
+.comp-social-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #fff;
+  font-weight: 700;
+}
+.comp-social-off { opacity: 0.2; }
+
+/* ==================== PROPOSAL PAGE ==================== */
+.proposal {
+  background: #fff;
+}
+.proposal-cards {
+  display: flex;
+  gap: 16px;
+  flex: 1;
+  align-items: stretch;
+}
+.proposal-card {
+  flex: 1;
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.proposal-basic {
+  background: #f8f9fa;
+  border: 2px solid #e9ecef;
+}
+.proposal-complete {
+  background: linear-gradient(135deg, #0E1116, #1a2332);
+  border: 2px solid #00E65B;
+  position: relative;
+}
+.proposal-complete::before {
+  content: 'RECOMENDADO';
+  position: absolute;
+  top: -1px;
+  right: 20px;
+  background: #00E65B;
+  color: #0E1116;
+  padding: 4px 12px;
+  border-radius: 0 0 8px 8px;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.proposal-premium {
+  background: #f8f9fa;
+  border: 2px solid #e9ecef;
+}
+.proposal-card h3 {
+  font-size: 15px;
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+.proposal-basic h3 { color: #1a1a1a; }
+.proposal-complete h3 { color: #F5ECD7; }
+.proposal-premium h3 { color: #1a1a1a; }
+.proposal-card .price {
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+.proposal-basic .price { color: #1a1a1a; }
+.proposal-complete .price { color: #00E65B; }
+.proposal-premium .price { color: #1a1a1a; }
+.proposal-card .price span {
+  font-size: 14px;
+  font-weight: 500;
+}
+.proposal-basic .price span { color: #888; }
+.proposal-complete .price span { color: #8a8a8a; }
+.proposal-premium .price span { color: #888; }
+.proposal-list {
+  list-style: none;
+  flex: 1;
+}
+.proposal-list li {
+  padding: 6px 0;
+  font-size: 11px;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+.proposal-complete .proposal-list li {
+  color: #ccc;
+  border-bottom-color: rgba(255,255,255,0.08);
+}
+.proposal-premium .proposal-list li {
+  color: #444;
+}
+.proposal-list li:last-child { border-bottom: none; }
+.proposal-check { color: #00E65B; font-weight: 700; flex-shrink: 0; }
+.proposal-card .cta {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.proposal-basic .cta {
+  color: #888;
+}
+.proposal-complete .cta {
+  color: #00E65B;
+}
+.proposal-premium .cta {
+  color: #888;
+}
+
+/* ==================== CTA PAGE ==================== */
+.cta-page {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cta-page h2 {
+  color: #F5ECD7;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 16px;
+}
+.cta-page h2 span { color: #00E65B; }
+.cta-page .cta-sub {
+  color: #8a8a8a;
+  font-size: 16px;
+  margin-bottom: 40px;
+  max-width: 500px;
+}
+.cta-contact {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+.cta-contact-item {
+  text-align: center;
+}
+.cta-contact-item .icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(0,230,91,0.1);
+  border: 1px solid rgba(0,230,91,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin: 0 auto 8px;
+}
+.cta-contact-item .text {
+  color: #F5ECD7;
+  font-size: 13px;
+  font-weight: 500;
+}
+.cta-page .brand-big {
+  color: #00E65B;
+  font-size: 24px;
+  font-weight: 900;
+  letter-spacing: 3px;
+}
+
+/* ==================== PRINT ==================== */
+@media print {
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- ==================== PAGE 1: COVER ==================== -->
+<div class="page cover">
+  <div class="cover-badge">Diagnóstico Google Meu Negócio</div>
+  <h1>Carnes & Cia<br><span>Ponta Grossa</span></h1>
+  <p class="subtitle">Análise completa do perfil Google Meu Negócio + plano de ação</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">5.0</div>
+      <div class="label">Nota média</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">210</div>
+      <div class="label">Avaliações</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">65</div>
+      <div class="label">Score / 100</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <img src="../../../identidade/LOGO FUNDO ESCURO.png" alt="APSIDE" style="height: 28px;">
+    <span>Setembro 2026</span>
+  </div>
+</div>
+
+<!-- ==================== PAGE 2: ANALYSIS ==================== -->
+<div class="page analysis">
+  <div class="page-header">
+    <h2>Diagnóstico do Perfil</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="score-section">
+    <div class="score-big">
+      <span class="score-value">65</span>
+      <span class="score-unit">/100</span>
+    </div>
+    <div class="score-details">
+      <div class="score-label">Classificação: Já encaminhado</div>
+      <p class="score-desc">
+        O Carnes & Cia tem uma base sólida — nota perfeita, muitas avaliações e redes sociais ativas.
+        Mas está perdendo oportunidades por não ter website e poucas fotos no perfil.
+        Pequenas otimizações podem aumentar drasticamente a visibilidade e atrair mais clientes.
+      </p>
+      <div class="criteria-grid">
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Foto de capa (fachada)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">~</div>
+          <span class="criteria-text">Fotos do perfil (poucas)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">210 avaliações (5.0)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Respostas do dono</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Telefone cadastrado</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Endereço completo</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Horário de funcionamento</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Categoria definida</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Website (não tem)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Redes sociais (3 linkadas)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== PAGE 3: WHAT'S MISSING ==================== -->
+<div class="page missing">
+  <div class="page-header">
+    <h2>O que está faltando</h2>
+    <span class="page-num">03</span>
+  </div>
+  <div class="missing-grid">
+    <div class="missing-card missing-card-negative">
+      <h3><span style="font-size:18px;">⚠</span> Oportunidades perdidas</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem website</strong><br>
+            Clientes que pesquisam "açougue Ponta Grossa" podem pular pro concorrente que tem site. Website transmite credibilidade e permite encomendas online.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Poucas fotos de produtos</strong><br>
+            Açougue vive de vitrine. Com apenas 3-4 fotos, o perfil não mostra a variedade de carnes, hambúrgueres artesanais e cortes especiais.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem posts regulares</strong><br>
+            Tem 1 oferta ativa, mas o ideal é postar 2-3x por semana. Posts mantêm o perfil ativo e aumentam o alcance no Google.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem WhatsApp linkado</strong><br>
+            Muitos clientes preferem enviar mensagem. O WhatsApp facilita encomendas e tirar dúvidas rápidas.
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="missing-card missing-card-positive">
+      <h3><span style="font-size:18px;">✓</span> O que já funciona bem</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Nota 5.0 com 210 avaliações</strong><br>
+            Isso é excepcional. Poucos negócios conseguem manter nota perfeita com tantas avaliações. Prova social fortíssima.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Descrição completa</strong><br>
+            Menciona SIM, supervisão veterinária, hambúrguer artesanal, ofertas de quinta, carne bovina/suína/ovina/aves. Boa para SEO.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>3 redes sociais linkadas</strong><br>
+            Facebook, TikTok e Instagram. Isso mostra que o negócio é ativo e multidisciplinar.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Oferta ativa no Google</strong><br>
+            "Fim de semana combina com churrasco" — mostra que o dono entende a importância de promoções no GMB.
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== PAGE 4: COMPARISON ==================== -->
+<div class="page comparison">
+  <h2>Antes & Depois</h2>
+  <div class="comp-cards">
+    <!-- BEFORE -->
+    <div class="comp-card comp-card-bad">
+      <div class="comp-card-tag">Assim tá hoje</div>
+      <div class="comp-card-body">
+        <div class="comp-map">
+          <img src="FACHADA.webp" alt="Fachada">
+          <div class="comp-map-pin">📍 R. Quaresmeira, 13</div>
+        </div>
+        <div class="comp-name">Carnes & Cia - Ponta Grossa</div>
+        <div class="comp-cat">Açougue</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">5.0</span>
+          <span class="comp-rating-count">210 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99912-0031</span>
+          <span>🕐 Abre às 15:00</span>
+          <span style="color:#dc2626;">🌐 Sem website</span>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo"><img src="FACHADA.webp" alt=""></div>
+          <div class="comp-photo"><img src="CARNES.webp" alt=""></div>
+          <div class="comp-photo"><img src="CARNES 2.webp" alt=""></div>
+          <div class="comp-photo comp-photo-empty">+5</div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">B</div>
+            <div>
+              <div class="comp-review-name">Brian A. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Lugar top demais</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">A</div>
+            <div>
+              <div class="comp-review-name">Aline A. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Profissionais atenciosos</div>
+            </div>
+          </div>
+        </div>
+        <div class="comp-social">
+          <div class="comp-social-icon" style="background:#1877f2;">f</div>
+          <div class="comp-social-icon" style="background:linear-gradient(45deg,#f09433,#dc2743,#bc1888);">ig</div>
+          <div class="comp-social-icon" style="background:#010101;">tk</div>
+          <div class="comp-social-icon comp-social-off" style="background:#25d366;">wa</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- AFTER -->
+    <div class="comp-card comp-card-good">
+      <div class="comp-card-tag">Assim pode ficar</div>
+      <div class="comp-card-body">
+        <div class="comp-map">
+          <img src="FACHADA.webp" alt="Fachada">
+          <div class="comp-map-pin">📍 R. Quaresmeira, 13</div>
+        </div>
+        <div class="comp-name">Carnes & Cia - Ponta Grossa</div>
+        <div class="comp-cat">Açougue · Aberto agora</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">5.0</span>
+          <span class="comp-rating-count">210 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99912-0031</span>
+          <span>🕐 Seg-Sex 15h–20h · Sáb 9h–13h</span>
+          <span style="color:#16a34a;">🌐 www.carnesecia.com.br</span>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo"><img src="FACHADA.webp" alt=""></div>
+          <div class="comp-photo"><img src="CARNES.webp" alt=""></div>
+          <div class="comp-photo"><img src="CARNES 2.webp" alt=""></div>
+          <div class="comp-photo"><img src="CARNES 3.webp" alt=""></div>
+          <div class="comp-photo"><img src="INTERNA.webp" alt=""></div>
+          <div class="comp-photo"><img src="INTERNA 2.webp" alt=""></div>
+          <div class="comp-photo"><img src="INTERNA 3.webp" alt=""></div>
+          <div class="comp-photo"><img src="INTERNA 4.webp" alt=""></div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">B</div>
+            <div>
+              <div class="comp-review-name">Brian A. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Lugar top demais pra comprar</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">F</div>
+            <div>
+              <div class="comp-review-name">Flávia L. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Vitrine linda, preço acessível</div>
+            </div>
+          </div>
+        </div>
+        <div class="comp-social">
+          <div class="comp-social-icon" style="background:#1877f2;">f</div>
+          <div class="comp-social-icon" style="background:linear-gradient(45deg,#f09433,#dc2743,#bc1888);">ig</div>
+          <div class="comp-social-icon" style="background:#010101;">tk</div>
+          <div class="comp-social-icon" style="background:#25d366;">wa</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== PAGE 5: PROPOSAL ==================== -->
+<div class="page proposal">
+  <div class="page-header">
+    <h2>Planos pra resolver</h2>
+    <span class="page-num">05</span>
+  </div>
+  <div class="proposal-cards">
+    <div class="proposal-card proposal-basic">
+      <h3>GMB Completo</h3>
+      <div class="price">R$ 197 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="proposal-check">✓</span> 3 serviços cadastrados</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Configuração de horários</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp no perfil</li>
+      </ul>
+      <div class="cta">Prazo: 24–48h</div>
+    </div>
+    <div class="proposal-card proposal-complete">
+      <h3>GMB + Site</h3>
+      <div class="price">R$ 690 <span>único</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="proposal-check">✓</span> 3 serviços cadastrados</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Configuração de horários</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp no perfil</li>
+        <li><span class="proposal-check">✓</span> Site 1 página (landing page)</li>
+        <li><span class="proposal-check">✓</span> 4 carrosséis pra redes sociais</li>
+        <li><span class="proposal-check">✓</span> Otimização SEO local</li>
+        <li><span class="proposal-check">✓</span> CTA de WhatsApp integrado</li>
+      </ul>
+      <div class="cta">Prazo: 3–5 dias</div>
+    </div>
+    <div class="proposal-card proposal-premium">
+      <h3>GMB + Site + Social</h3>
+      <div class="price">R$ 1.990 <span>/mês</span></div>
+      <ul class="proposal-list">
+        <li><span class="proposal-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="proposal-check">✓</span> 3 serviços cadastrados</li>
+        <li><span class="proposal-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="proposal-check">✓</span> Configuração de horários</li>
+        <li><span class="proposal-check">✓</span> Link WhatsApp no perfil</li>
+        <li><span class="proposal-check">✓</span> Site 1 página (landing page)</li>
+        <li><span class="proposal-check">✓</span> 4 carrosséis pra redes sociais</li>
+        <li><span class="proposal-check">✓</span> Otimização SEO local</li>
+        <li><span class="proposal-check">✓</span> 8 posts/mês pra redes sociais</li>
+        <li><span class="proposal-check">✓</span> Gestão completa do GMB</li>
+        <li><span class="proposal-check">✓</span> Relatório mensal de métricas</li>
+        <li><span class="proposal-check">✓</span> Suporte prioritário</li>
+      </ul>
+      <div class="cta">Prazo: 3–5 dias + recorrência</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== PAGE 6: CTA ==================== -->
+<div class="page cta-page">
+  <h2>Pronto pra <span>crescer</span>?</h2>
+  <p class="cta-sub">
+    O Carnes & Cia já tem a base — nota 5.0, 210 avaliações, produto bom.
+    Falta pouca coisa pra dominar o Google da região.
+  </p>
+  <div class="cta-contact">
+    <div class="cta-contact-item">
+      <div class="icon">💬</div>
+      <div class="text">(42) 99912-0031</div>
+    </div>
+    <div class="cta-contact-item">
+      <div class="icon">📍</div>
+      <div class="text">R. Quaresmeira, 13 — Contorno, PG</div>
+    </div>
+  </div>
+  <img src="../../../identidade/LOGO FUNDO ESCURO.png" alt="APSIDE" style="height: 60px; margin-top: 16px;">
+</div>
+
+</body>
+</html>

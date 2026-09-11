@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Script de Abordagem — Estação Grill</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', sans-serif; background: #0E1116; color: #F5ECD7; min-height: 100vh; }
+.container { max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+.nav { display: flex; gap: 12px; justify-content: center; margin-bottom: 32px; }
+.nav a { padding: 8px 16px; border-radius: 8px; font-size: 12px; font-weight: 600; text-decoration: none; color: #888; border: 1px solid rgba(255,255,255,0.08); transition: all 0.2s; }
+.nav a:hover { border-color: #00E65B; color: #00E65B; }
+.nav a.active { background: #00E65B; color: #0E1116; border-color: #00E65B; }
+.header { text-align: center; padding: 48px 0 40px; border-bottom: 1px solid rgba(255,255,255,0.06); margin-bottom: 40px; }
+.header .badge { display: inline-block; padding: 6px 18px; border: 1px solid rgba(0,230,91,0.3); border-radius: 20px; color: #00E65B; font-size: 11px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px; }
+.header h1 { font-size: 32px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 8px; }
+.header .sub { color: #888; font-size: 14px; }
+.meta { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 48px; }
+.meta-card { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 10px; padding: 16px; text-align: center; }
+.meta-card .val { font-size: 20px; font-weight: 800; color: #F5ECD7; }
+.meta-card .val.green { color: #00E65B; }
+.meta-card .lbl { font-size: 10px; color: #666; text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
+.section { margin-bottom: 48px; }
+.section-title { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.section-title .num { width: 32px; height: 32px; border-radius: 8px; background: #00E65B; color: #0E1116; display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 800; flex-shrink: 0; }
+.section-title h2 { font-size: 18px; font-weight: 700; }
+.step { margin-bottom: 24px; }
+.step-header { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+.step-num { color: #00E65B; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+.step-time { color: #555; font-size: 11px; }
+.bubble { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px 20px; margin-bottom: 12px; }
+.bubble.danger { border-color: rgba(239,68,68,0.2); background: rgba(239,68,68,0.05); }
+.bubble.success { border-color: rgba(0,230,91,0.2); background: rgba(0,230,91,0.04); }
+.bubble.warning { border-color: rgba(245,158,11,0.2); background: rgba(245,158,11,0.05); }
+.bubble-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; color: #888; }
+.bubble.danger .bubble-label { color: #ef4444; }
+.bubble.success .bubble-label { color: #00E65B; }
+.bubble.warning .bubble-label { color: #f59e0b; }
+.bubble p { font-size: 14px; line-height: 1.6; color: #ccc; }
+.bubble .line { padding: 4px 0; border-bottom: 1px solid rgba(255,255,255,0.03); }
+.bubble .line:last-child { border-bottom: none; }
+.checklist { list-style: none; margin-top: 12px; }
+.checklist li { display: flex; align-items: center; gap: 10px; padding: 8px 0; font-size: 13px; color: #aaa; border-bottom: 1px solid rgba(255,255,255,0.03); }
+.checklist li:last-child { border-bottom: none; }
+.check { width: 18px; height: 18px; border: 2px solid #333; border-radius: 4px; flex-shrink: 0; }
+.objection { margin-top: 16px; }
+.objection-label { font-size: 11px; font-weight: 600; color: #f59e0b; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.footer { text-align: center; padding: 32px 0; border-top: 1px solid rgba(255,255,255,0.06); margin-top: 48px; }
+.footer .logo { color: #00E65B; font-size: 20px; font-weight: 800; }
+.footer .txt { color: #555; font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="nav">
+    <a href="index.html">Visão Geral</a>
+    <a href="script-abordagem.html" class="active">Script de Abordagem</a>
+    <a href="apresentacao.html">Apresentação (6 págs)</a>
+    <a href="dados.html">Dados da Prospecção</a>
+  </div>
+
+  <div class="header">
+    <div class="badge">Lead 🟢 VERDE — Score 85/100</div>
+    <h1>Script de Abordagem</h1>
+    <div class="sub">Estação Grill · @estacaogrillpg · Ponta Grossa, PR</div>
+  </div>
+
+  <div class="meta">
+    <div class="meta-card"><div class="val">17.574</div><div class="lbl">Seguidores</div></div>
+    <div class="meta-card"><div class="val green">0</div><div class="lbl">Presença Google</div></div>
+    <div class="meta-card"><div class="val green">85</div><div class="lbl">Score /100</div></div>
+    <div class="meta-card"><div class="val">R$997</div><div class="lbl">Solução Sugerida</div></div>
+  </div>
+
+  <!-- ETAPA 1 -->
+  <div class="section">
+    <div class="section-title"><div class="num">1</div><h2>DM no Instagram — Primeiro Contato</h2></div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Mensagem 1</span><span class="step-time">— Gancho (curto, sem vender)</span></div>
+      <div class="bubble success">
+        <div class="bubble-label">Você envia</div>
+        <p>Oi! Vi o Instagram de vocês aqui e o Onigiri de salmão parece incrível. Trabalho com presença digital aqui de Ponta Grossa e tenho uma observação rápida que pode ajudar vocês. Posso mandar?</p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Mensagem 2</span><span class="step-time">— Problema + prova (se responder)</span></div>
+      <div class="bubble success">
+        <div class="bubble-label">Você envia</div>
+        <p>Beleza! Olha, vocês têm mais de 17 mil seguidores e um delivery que funciona todo dia. Mas fiz um teste: pesquisei "restaurante japonês Ponta Grossa" no Google.</p>
+        <p style="margin-top:8px">Apareceram vários... mas vocês não apareceram.</p>
+        <p style="margin-top:8px">Isso significa que todo cliente que pesquisa no Google e não conhece vocês pelo Instagram tá escolhendo outro lugar.</p>
+        <p style="margin-top:8px">Fiz um raio-x rápido do digital de vocês. Quer que eu mande? É sem compromisso.</p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Mensagem 3</span><span class="step-time">— Agendar (se interessar)</span></div>
+      <div class="bubble success">
+        <div class="bubble-label">Você envia</div>
+        <p>Show! Posso passar aí pra gente bater um papo rápido? Levo 10 minutos. Sem compromisso — é só pra mostrar o raio-x e trocar uma ideia.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ETAPA 2 -->
+  <div class="section">
+    <div class="section-title"><div class="num">2</div><h2>Presencial — 10 min no máximo</h2></div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Passo 1</span><span class="step-time">Chegada — 30s</span></div>
+      <div class="bubble"><div class="bubble-label">Fala</div><p>Bom dia! Sou o Guilherme, trabalho com presença digital aqui da região. A [nome do dono] está? Falei com [ela/ele] pelo Instagram.</p></div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Passo 2</span><span class="step-time">Contexto — 2 min (ouve antes de falar)</span></div>
+      <div class="bubble warning">
+        <div class="bubble-label">Perguntas</div>
+        <div class="line">1. "Há quanto tempo o Estação Grill funciona aqui?"</div>
+        <div class="line">2. "Como chega cliente? Indicação, iFood, Instagram ou Google?"</div>
+        <div class="line">3. "Quando alguém pesquisa no Google, vocês aparecem?"</div>
+        <div class="line">4. "Vocês têm site próprio ou é só o Linktree?"</div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Passo 3</span><span class="step-time">Mostrar o problema — 2 min</span></div>
+      <div class="bubble danger">
+        <div class="bubble-label">Fala + mostra o celular</div>
+        <p>"Olha, fiz o raio-x aqui. Vocês têm uma audiência boa — 17 mil seguidores, delivery todo dia, conteúdo bonito.</p>
+        <p style="margin-top:8px">Mas olha o que acontece no Google..."</p>
+        <p style="margin-top:8px;color:#ef4444">[Mostra a pesquisa: "restaurante japonês Ponta Grossa"]</p>
+        <p style="margin-top:8px">"Aparecem outros restaurantes... mas o Estação Grill não está aqui. E olha que vocês são de Castro, têm tradição."</p>
+        <p style="margin-top:8px">"Isso não é problema seu. É oportunidade. Porque resolver isso é rápido e traz cliente novo sem você fazer nada."</p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Passo 4</span><span class="step-time">Entregar Raio-X — 2 min</span></div>
+      <div class="bubble">
+        <div class="bubble-label">Fala + mostra a apresentação</div>
+        <p>"Fiz o raio-x completo. Tem 4 pontos principais:"</p>
+        <div class="line" style="margin-top:8px">1. ❌ Google não te conhece → cliente vai pro concorrente</div>
+        <div class="line">2. ❌ Sem site próprio → quem encontra não tem onde ver cardápio</div>
+        <div class="line">3. ❌ Linktree não é site → não aparece no Google</div>
+        <div class="line">4. ✅ Instagram forte → conteúdo perfeito pra alimentar o Google</div>
+        <p style="margin-top:12px">"E o melhor: o conteúdo de vocês é ótimo. As fotos dos onigiris, dos pratos... são perfeitas pra Google. Só falta conectar."</p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Passo 5</span><span class="step-time">Fechar — 2 min</span></div>
+      <div class="bubble success">
+        <div class="bubble-label">Proposta</div>
+        <p>"Resolvo isso por R$997 a 1.800. Crio o Google completo com suas fotos, um site com cardápio e WhatsApp, e configuro tudo pra vocês aparecerem quando alguém pesquisar.</p>
+        <p style="margin-top:8px;font-weight:700;color:#00E65B">Posso começar essa semana?"</p>
+      </div>
+      <div class="objection">
+        <div class="objection-label">Se disser "caro"</div>
+        <div class="bubble warning"><p>"Entendo. Mas pensa assim: com 17 mil seguidores, se 1 pessoa por semana te encontrar no Google e pedir delivery, já pagou o investimento em menos de um mês. E é preço fixo, não recorrente."</p></div>
+      </div>
+      <div class="objection">
+        <div class="objection-label">Se disser "depois"</div>
+        <div class="bubble warning"><p>"Sem problema. Mas cada mês sem Google é cliente que poderia estar pedindo de vocês e tá pedindo de outro. Me chama quando quiser — o raio-x fica guardado."</p></div>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-header"><span class="step-num">Passo 6</span><span class="step-time">Indicação (sempre)</span></div>
+      <div class="bubble"><div class="bubble-label">Fala</div><p>"Valeu! Tem algum colega que tenha restaurante ou bar por aqui? Eu passo lá e faço o raio-x pra ele também."</p></div>
+    </div>
+  </div>
+
+  <!-- ETAPA 3 -->
+  <div class="section">
+    <div class="section-title"><div class="num">3</div><h2>Follow-up — Se não fechar</h2></div>
+    <div class="step">
+      <div class="step-header"><span class="step-num">Dia 3</span><span class="step-time">WhatsApp</span></div>
+      <div class="bubble"><div class="bubble-label">Mensagem</div><p>Oi [nome]! Tudo bem? Sou o Guilherme que passou aí pra falar do Google. Enviei o raio-x por email/WhatsApp. Qualquer dúvida, me chama!</p></div>
+    </div>
+    <div class="step">
+      <div class="step-header"><span class="step-num">Dia 7</span><span class="step-time">WhatsApp</span></div>
+      <div class="bubble"><div class="bubble-label">Mensagem</div><p>Oi [nome]! Sem novidade, só passando pra saber se olhou o raio-x. Se quiser agendar uma visita, estou disponível essa semana. Abraço!</p></div>
+    </div>
+    <div class="step">
+      <div class="step-header"><span class="step-num">Dia 14</span><span class="step-time">WhatsApp — última tentativa</span></div>
+      <div class="bubble"><div class="bubble-label">Mensagem</div><p>Oi [nome]! Última mensagem, prometo 😄 Se mudar de ideia sobre o Google, é só me chamar. O raio-x continua válido. Abraço!</p></div>
+    </div>
+  </div>
+
+  <!-- CHECKLIST -->
+  <div class="section">
+    <div class="section-title"><div class="num">✓</div><h2>Antes de Ir</h2></div>
+    <ul class="checklist">
+      <li><div class="check"></div>Raio-X impresso (apresentação HTML → PDF)</li>
+      <li><div class="check"></div>Print do Instagram deles no celular</li>
+      <li><div class="check"></div>Print da pesquisa no Google (sem eles aparecendo)</li>
+      <li><div class="check"></div>WhatsApp com foto profissional</li>
+    </ul>
+  </div>
+
+  <div class="footer"><div class="logo">APSIDE</div><div class="txt">Presença digital que traz cliente · Setembro 2026</div></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "startUrls": [
+    { "url": "https://www.google.com/maps/place/Carnes+%26+Cia+-+Ponta+Grossa/@-25.0963143,-50.2038237,916m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94e811d8e2d3d853:0x4b18cbae0ccea57c!8m2!3d-25.0963143!4d-50.2038237!16s%2Fg%2F11sd742rzx" }
+  ],
+  "maxCrawledPlacesPerSearch": 1,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

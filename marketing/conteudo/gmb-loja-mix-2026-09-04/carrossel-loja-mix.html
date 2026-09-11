@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --vermelho: #E31E24;
+    --verde: #00A651;
+    --azul: #1B365D;
+    --branco: #FFFFFF;
+    --offwhite: #F8F8F8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  .slide {
+    width: 1080px; height: 1080px; position: relative; overflow: hidden;
+    font-family: 'Inter', sans-serif;
+    display: flex; flex-direction: column; align-items: flex-start; justify-content: center;
+    text-align: left; padding: 90px;
+  }
+  .slide-azul { background: var(--azul); color: var(--branco); }
+  .slide-branco { background: var(--branco); color: var(--azul); }
+  .slide-vermelho { background: var(--vermelho); color: var(--branco); }
+  .slide-verde { background: var(--verde); color: var(--branco); }
+  .counter {
+    position: absolute; top: 74px; right: 90px;
+    font-size: 16px; font-weight: 600; letter-spacing: 0.18em; opacity: 0.6;
+  }
+  .brand-name {
+    position: absolute; top: 70px; left: 90px;
+    font-size: 32px; font-weight: 900; letter-spacing: -0.5px;
+  }
+  .brand-name .l { color: var(--vermelho); }
+  .brand-name .o { color: var(--verde); }
+  .brand-name .j { color: var(--azul); }
+  .brand-name .a { color: var(--vermelho); }
+  .brand-name .m { color: var(--vermelho); }
+  .brand-name .i { color: var(--verde); }
+  .brand-name .x { color: var(--azul); }
+  .tag {
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+  .slide-azul .tag { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); }
+  .slide-branco .tag { background: rgba(27,54,93,0.08); border: 1px solid rgba(27,54,93,0.2); color: var(--azul); }
+  .slide-vermelho .tag { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); }
+  .topic {
+    font-weight: 600; font-size: 22px; letter-spacing: 0.02em;
+    margin-bottom: 20px; text-transform: uppercase; opacity: 0.8;
+  }
+  .slide-azul .topic { color: var(--verde); }
+  .slide-branco .topic { color: var(--vermelho); }
+  .slide-vermelho .topic { color: var(--branco); opacity: 0.9; }
+  .slide-verde .topic { color: var(--branco); opacity: 0.9; }
+  h2 {
+    font-weight: 800; font-size: 60px; line-height: 1.1; letter-spacing: -0.025em;
+    max-width: 880px;
+  }
+  .hl-vermelho { color: var(--vermelho); }
+  .hl-verde { color: var(--verde); }
+  .hl-azul { color: var(--azul); }
+  .hl-branco { color: var(--branco); }
+  .rule { width: 56px; height: 5px; margin: 30px 0; border-radius: 9999px; }
+  .slide-azul .rule { background: var(--verde); }
+  .slide-branco .rule { background: var(--vermelho); }
+  .slide-vermelho .rule { background: var(--branco); }
+  .slide-verde .rule { background: var(--branco); }
+  p { font-size: 26px; font-weight: 400; line-height: 1.55; max-width: 820px; }
+  .slide-azul p { color: rgba(255,255,255,0.8); }
+  .slide-branco p { color: #475569; }
+  .slide-vermelho p { color: rgba(255,255,255,0.85); }
+  .slide-verde p { color: rgba(255,255,255,0.85); }
+  .numeral {
+    font-size: 180px; font-weight: 900; line-height: 0.9;
+    letter-spacing: -0.04em; margin-bottom: 10px;
+  }
+  .slide-branco .numeral { color: var(--vermelho); }
+  .handle {
+    position: absolute; bottom: 76px; left: 90px;
+    font-size: 22px; font-weight: 600;
+  }
+  .icon-small {
+    position: absolute; bottom: 70px; right: 90px; font-size: 40px;
+  }
+  .grid-2 {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 30px;
+  }
+  .grid-item {
+    padding: 24px; border-radius: 16px;
+  }
+  .slide-azul .grid-item { background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); }
+  .grid-item h3 { font-size: 22px; font-weight: 700; margin-bottom: 8px; }
+  .grid-item p { font-size: 18px; margin: 0; }
+  .stars { color: #f4b400; font-size: 48px; letter-spacing: 4px; margin: 20px 0; }
+  .review-box {
+    padding: 28px; border-radius: 16px; margin-top: 16px;
+  }
+  .slide-azul .review-box { background: rgba(255,255,255,0.06); border-left: 4px solid var(--verde); }
+  .review-text { font-size: 22px; font-style: italic; line-height: 1.5; margin-bottom: 10px; color: rgba(255,255,255,0.9); }
+  .review-author { font-size: 16px; font-weight: 600; color: var(--verde); }
+  .contact-box {
+    padding: 30px; border-radius: 16px; margin-top: 20px;
+    background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15);
+  }
+  .contact-item {
+    font-size: 26px; font-weight: 600; margin-bottom: 12px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .contact-item .emoji { font-size: 28px; }
+  .contact-item .text { color: var(--branco); }
+  .highlight-box {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 16px;
+  }
+  .slide-azul .highlight-box { background: var(--verde); color: var(--branco); }
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1 — CAPA -->
+<div class="slide slide-azul">
+  <div class="brand-name"><span class="l">L</span><span class="o">O</span><span class="j">J</span><span class="a">A</span> <span class="m">M</span><span class="i">I</span><span class="x">X</span></div>
+  <div class="counter">01 / 06</div>
+  <div class="tag">Moda Feminina & Masculina</div>
+  <h2>Vestir bem não precisa custar <span class="hl-verde">caro</span>.</h2>
+  <div class="rule"></div>
+  <p>Roupas de qualidade, preços justos e atendimento que você merece. Direto no Santa Paula de Ponta Grossa.</p>
+  <div class="handle">@lojamix</div>
+  <div class="icon-small">👗</div>
+</div>
+
+<!-- SLIDE 2 — AVALIAÇÕES -->
+<div class="slide slide-branco">
+  <div class="brand-name"><span class="l">L</span><span class="o">O</span><span class="j">J</span><span class="a">A</span> <span class="m">M</span><span class="i">I</span><span class="x">X</span></div>
+  <div class="counter">02 / 06</div>
+  <div class="topic">Nossos clientes</div>
+  <div class="numeral">223+</div>
+  <h2>Avaliações no <span class="hl-vermelho">Google</span></h2>
+  <div class="rule"></div>
+  <div class="stars">★★★★½</div>
+  <p>4.5 estrelas. Cada avaliação é um cliente que voltou. Isso não tem preço.</p>
+  <div class="handle">@lojamix</div>
+  <div class="icon-small">⭐</div>
+</div>
+
+<!-- SLIDE 3 — VARIEDADE -->
+<div class="slide slide-azul">
+  <div class="brand-name"><span class="l">L</span><span class="o">O</span><span class="j">J</span><span class="a">A</span> <span class="m">M</span><span class="i">I</span><span class="x">X</span></div>
+  <div class="counter">03 / 06</div>
+  <div class="topic">Variedade</div>
+  <h2>De tudo um pouco <span class="hl-verde">pra você</span>.</h2>
+  <div class="rule"></div>
+  <div class="grid-2">
+    <div class="grid-item">
+      <h3>👗 Feminino</h3>
+      <p>Camisas, vestidos, calças, acessórios</p>
+    </div>
+    <div class="grid-item">
+      <h3>👔 Masculino</h3>
+      <p>Camisas, bermudas, calças, ternos</p>
+    </div>
+    <div class="grid-item">
+      <h3>👟 Calçados</h3>
+      <p>Tênis, sandálias, botas</p>
+    </div>
+    <div class="grid-item">
+      <h3>👜 Acessórios</h3>
+      <p>Bolsas, cintos, relógios</p>
+    </div>
+  </div>
+  <div class="handle">@lojamix</div>
+  <div class="icon-small">🛍️</div>
+</div>
+
+<!-- SLIDE 4 — DEPOIMENTOS -->
+<div class="slide slide-azul">
+  <div class="brand-name"><span class="l">L</span><span class="o">O</span><span class="j">J</span><span class="a">A</span> <span class="m">M</span><span class="i">I</span><span class="x">X</span></div>
+  <div class="counter">04 / 06</div>
+  <div class="topic">O que dizem</div>
+  <h2>O que nossos clientes <span class="hl-verde">dizem</span>:</h2>
+  <div class="rule"></div>
+  <div class="review-box">
+    <div class="review-text">"Adoro fazer compras nesta loja, ótimo preço e produtos de qualidade."</div>
+    <div class="review-author">— Cliente no Google</div>
+  </div>
+  <div class="review-box">
+    <div class="review-text">"Mta variedade e ótimo atendimento, parabéns a todos do estabelecimento."</div>
+    <div class="review-author">— Cliente no Google</div>
+  </div>
+  <div class="review-box">
+    <div class="review-text">"Roupas da moda com preços ótimos!"</div>
+    <div class="review-author">— Cliente no Google</div>
+  </div>
+  <div class="handle">@lojamix</div>
+  <div class="icon-small">💬</div>
+</div>
+
+<!-- SLIDE 5 — LOCALIZAÇÃO + HORÁRIO -->
+<div class="slide slide-vermelho">
+  <div class="brand-name"><span class="l" style="color:#fff">L</span><span class="o" style="color:#fff">O</span><span class="j" style="color:#fff">J</span><span class="a" style="color:#fff">A</span> <span class="m" style="color:#fff">M</span><span class="i" style="color:#fff">I</span><span class="x" style="color:#fff">X</span></div>
+  <div class="counter">05 / 06</div>
+  <div class="topic" style="color:rgba(255,255,255,0.9)">Venha nos visitar</div>
+  <h2>Onde <span class="hl-branco">estamos</span>.</h2>
+  <div class="rule" style="background:var(--branco)"></div>
+  <div class="contact-box">
+    <div class="contact-item">
+      <span class="emoji">📍</span>
+      <span class="text">Rua Castanheira, 295 — Santa Paula<br><em style="font-size:18px;opacity:0.7">Em frente ao posto de saúde</em></span>
+    </div>
+    <div class="contact-item">
+      <span class="emoji">🕐</span>
+      <span class="text">Seg-Sáb: 09h às 18h<br><em style="font-size:18px;opacity:0.7">Não fechamos para almoço!</em></span>
+    </div>
+  </div>
+  <div class="highlight-box">📍 Em frente ao posto de saúde</div>
+  <div class="handle">@lojamix</div>
+  <div class="icon-small">📍</div>
+</div>
+
+<!-- SLIDE 6 — CTA (CONTATO) -->
+<div class="slide slide-verde">
+  <div class="brand-name"><span class="l" style="color:#fff">L</span><span class="o" style="color:#fff">O</span><span class="j" style="color:#fff">J</span><span class="a" style="color:#fff">A</span> <span class="m" style="color:#fff">M</span><span class="i" style="color:#fff">I</span><span class="x" style="color:#fff">X</span></div>
+  <div class="counter">06 / 06</div>
+  <div class="topic" style="color:rgba(255,255,255,0.9)">Contato</div>
+  <h2>Vem trocar uma <span class="hl-branco">ideia</span>.</h2>
+  <div class="rule" style="background:var(--branco)"></div>
+  <div class="contact-box">
+    <div class="contact-item">
+      <span class="emoji">💬</span>
+      <span class="text">(42) 99856-2960<br><em style="font-size:18px;opacity:0.7">WhatsApp pra delivery</em></span>
+    </div>
+    <div class="contact-item">
+      <span class="emoji">📍</span>
+      <span class="text">Rua Castanheira, 295 — Santa Paula, PG</span>
+    </div>
+    <div class="contact-item">
+      <span class="emoji">🕐</span>
+      <span class="text">Seg-Sáb: 09h às 18h</span>
+    </div>
+  </div>
+  <div class="highlight-box">🛍️ Vem conferir</div>
+  <div class="handle">@lojamix</div>
+  <div class="icon-small">💚</div>
+</div>
+
+</body>
+</html>

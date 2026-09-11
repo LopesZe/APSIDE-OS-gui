@@ -1,0 +1,36 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "disabled_providers": ["ollama"],
+  "mcp": {
+    "notion": {
+      "type": "local",
+      "enabled": true,
+      "command": "npx",
+      "args": ["-y", "@notionhq/notion-mcp-server"]
+    },
+    "gmail": {
+      "type": "local",
+      "enabled": true,
+      "command": "npx",
+      "args": ["-y", "@gongrzhe/server-gmail-autoauth-mcp"]
+    },
+    "google-calendar": {
+      "type": "local",
+      "enabled": true,
+      "command": "npx",
+      "args": ["-y", "@gongrzhe/server-google-calendar-autoauth-mcp"]
+    },
+    "canva": {
+      "type": "local",
+      "enabled": true,
+      "command": "npx",
+      "args": ["-y", "@canva/canva-mcp-server"]
+    },
+    "n8n": {
+      "type": "local",
+      "enabled": true,
+      "command": "npx",
+      "args": ["-y", "n8n-mcp"]
+    }
+  }
+}

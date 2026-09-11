@@ -1,0 +1,11 @@
+{
+  "name": "apside-os",
+  "version": "1.0.0",
+  "description": "Sistema operacional universal para negócios",
+  "type": "module",
+  "scripts": {
+    "setup": "node setup.js",
+    "bot": "cd sistema && npm run bot",
+    "dashboard": "cd sistema && npm run dev"
+  }
+}

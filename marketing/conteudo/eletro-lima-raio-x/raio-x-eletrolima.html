@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raio-X Digital — Eletro Lima</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #1F2133;
+      --bg-card: #FFFFFF;
+      --text-primary: #000000;
+      --text-secondary: #6B7280;
+      --accent-green: #00E65B;
+      --accent-blue: #0066FF;
+      --danger: #EF4444;
+      --warning: #F59E0B;
+      --success: #10B981;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-dark);
+      color: var(--text-primary);
+      min-height: 100vh;
+    }
+
+    .page {
+      width: 1080px;
+      min-height: 1350px;
+      margin: 0 auto;
+      background: var(--bg-card);
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Header */
+    .header {
+      background: var(--bg-dark);
+      padding: 40px 60px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .logo-apside {
+      height: 40px;
+    }
+
+    .header-title {
+      color: #fff;
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .header-date {
+      color: var(--accent-green);
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    /* Hero Section */
+    .hero {
+      background: linear-gradient(135deg, var(--bg-dark) 0%, #2a2d45 100%);
+      padding: 60px;
+      text-align: center;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      background: var(--accent-green);
+      color: var(--bg-dark);
+      padding: 8px 20px;
+      border-radius: 30px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+
+    .hero-title {
+      color: #fff;
+      font-size: 48px;
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+
+    .hero-subtitle {
+      color: var(--accent-green);
+      font-size: 20px;
+      font-weight: 500;
+    }
+
+    .hero-company {
+      color: #fff;
+      font-size: 16px;
+      margin-top: 30px;
+      opacity: 0.8;
+    }
+
+    .hero-score {
+      margin-top: 40px;
+    }
+
+    .score-circle {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      background: conic-gradient(var(--warning) 0% 55%, #374151 55% 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .score-inner {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: var(--bg-dark);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .score-number {
+      color: var(--warning);
+      font-size: 36px;
+      font-weight: 800;
+    }
+
+    .score-label {
+      color: #9CA3AF;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* Content */
+    .content {
+      padding: 60px;
+    }
+
+    .section-title {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 30px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .section-title::before {
+      content: '';
+      width: 4px;
+      height: 24px;
+      background: var(--accent-green);
+      border-radius: 2px;
+    }
+
+    /* Problem Card */
+    .problem-card {
+      border: 2px solid #E5E7EB;
+      border-radius: 16px;
+      padding: 30px;
+      margin-bottom: 24px;
+      position: relative;
+    }
+
+    .problem-card.critical {
+      border-color: var(--danger);
+    }
+
+    .problem-card.warning {
+      border-color: var(--warning);
+    }
+
+    .problem-badge {
+      position: absolute;
+      top: -12px;
+      left: 24px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .problem-badge.critical {
+      background: var(--danger);
+      color: #fff;
+    }
+
+    .problem-badge.warning {
+      background: var(--warning);
+      color: #fff;
+    }
+
+    .problem-title {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 12px;
+      margin-top: 8px;
+    }
+
+    .problem-evidence {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+
+    .problem-impact {
+      background: #FEF3C7;
+      border-left: 4px solid var(--warning);
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+      font-size: 13px;
+      color: #92400E;
+    }
+
+    /* Score Grid */
+    .score-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+
+    .score-item {
+      text-align: center;
+      padding: 20px 12px;
+      border-radius: 12px;
+      background: #F9FAFB;
+    }
+
+    .score-item.good {
+      background: #D1FAE5;
+    }
+
+    .score-item.ok {
+      background: #FEF3C7;
+    }
+
+    .score-item.bad {
+      background: #FEE2E2;
+    }
+
+    .score-icon {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+
+    .score-name {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Summary Table */
+    .summary-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 40px;
+    }
+
+    .summary-table th {
+      background: var(--bg-dark);
+      color: #fff;
+      padding: 14px 20px;
+      text-align: left;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .summary-table td {
+      padding: 14px 20px;
+      border-bottom: 1px solid #E5E7EB;
+      font-size: 14px;
+    }
+
+    .status-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .status-badge.good {
+      background: #D1FAE5;
+      color: #065F46;
+    }
+
+    .status-badge.warning {
+      background: #FEF3C7;
+      color: #92400E;
+    }
+
+    .status-badge.bad {
+      background: #FEE2E2;
+      color: #991B1B;
+    }
+
+    /* CTA Section */
+    .cta-section {
+      background: linear-gradient(135deg, var(--bg-dark) 0%, #2a2d45 100%);
+      padding: 50px 60px;
+      text-align: center;
+    }
+
+    .cta-title {
+      color: #fff;
+      font-size: 28px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .cta-subtitle {
+      color: #9CA3AF;
+      font-size: 16px;
+      margin-bottom: 30px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: var(--accent-green);
+      color: var(--bg-dark);
+      padding: 16px 40px;
+      border-radius: 30px;
+      font-size: 16px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: transform 0.2s;
+    }
+
+    .cta-button:hover {
+      transform: scale(1.05);
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--bg-dark);
+      padding: 30px 60px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .footer-text {
+      color: #6B7280;
+      font-size: 12px;
+    }
+
+    .footer-logo {
+      color: var(--accent-green);
+      font-size: 14px;
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <!-- Header -->
+    <div class="header">
+      <div class="header-left">
+        <div class="header-title">RAIO-X DIGITAL APSIDE</div>
+      </div>
+      <div class="header-date">08/09/2026</div>
+    </div>
+
+    <!-- Hero -->
+    <div class="hero">
+      <div class="hero-badge">Diagnóstico Gratuito</div>
+      <h1 class="hero-title">Eletro Lima</h1>
+      <p class="hero-subtitle">Ponta Grossa PR — Desde 1999</p>
+      <p class="hero-company">Engenharia elétrica industrial | Materiais elétricos | CREA-PR</p>
+
+      <div class="hero-score">
+        <div class="score-circle">
+          <div class="score-inner">
+            <span class="score-number">55</span>
+            <span class="score-label">/100</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="content">
+      <!-- Score Grid -->
+      <div class="score-grid">
+        <div class="score-item ok">
+          <div class="score-icon">⚠️</div>
+          <div class="score-name">Google</div>
+        </div>
+        <div class="score-item good">
+          <div class="score-icon">✅</div>
+          <div class="score-name">Site</div>
+        </div>
+        <div class="score-item bad">
+          <div class="score-icon">❌</div>
+          <div class="score-name">Instagram</div>
+        </div>
+        <div class="score-item ok">
+          <div class="score-icon">⚠️</div>
+          <div class="score-name">Avaliações</div>
+        </div>
+        <div class="score-item bad">
+          <div class="score-icon">❌</div>
+          <div class="score-name">Conteúdo</div>
+        </div>
+      </div>
+
+      <!-- Problems -->
+      <h2 class="section-title">Problemas Identificados</h2>
+
+      <div class="problem-card warning">
+        <span class="problem-badge warning">Prioridade 1</span>
+        <h3 class="problem-title">Google Meu Negócio incompleto</h3>
+        <p class="problem-evidence">
+          A categoria cadastrada é "Serviço de instalação elétrica", mas a Eletro Lima faz muito mais: engenharia, materiais, projetos industriais, automação, SPDA. Com 27 anos de mercado e 2 filiais, apenas 38 avaliações aparecem — e nenhuma respondida.
+        </p>
+        <div class="problem-impact">
+          <strong>Impacto:</strong> Quando alguém busca "material elétrico Ponta Grossa" ou "engenharia elétrica industrial PR", a empresa pode não estar aparecendo porque a categoria não reflete tudo que faz. O concorrente com categorias melhores e mais avaliações aparece antes.
+        </div>
+      </div>
+
+      <div class="problem-card critical">
+        <span class="problem-badge critical">Prioridade 2</span>
+        <h3 class="problem-title">Instagram com baixa atividade</h3>
+        <p class="problem-evidence">
+          Apenas 247 seguidores e 30 posts no total. Para uma empresa com CREA-PR, 27 anos de mercado e atendimento nacional, o Instagram não está funcionando como vitrine de autoridade. Conteúdo predominantemente promocional, sem conteúdo técnico que eduque o mercado.
+        </p>
+        <div class="problem-impact">
+          <strong>Impacto:</strong> Quem encontra a Eletro Lima pelo Instagram não vê a profundidade técnica da empresa. Isso afeta a percepção de autoridade e pode afastar clientes industriais que buscam competência comprovada.
+        </div>
+      </div>
+
+      <div class="problem-card warning">
+        <span class="problem-badge warning">Prioridade 3</span>
+        <h3 class="problem-title">Dependência de indicação</h3>
+        <p class="problem-evidence">
+          A empresa é sólida — 27 anos, 2 filiais, CREA-PR, site profissional. Mas a presença digital não acompanha a qualidade do negócio. Provavelmente funciona muito por indicação.
+        </p>
+        <div class="problem-impact">
+          <strong>Impacto:</strong> Quem pesquisa no Google e não encontra o perfil completo pode ir pro concorrente. Isso é dinheiro saindo sem perceber.
+        </div>
+      </div>
+
+      <!-- Summary Table -->
+      <h2 class="section-title">Resumo da Presença</h2>
+      <table class="summary-table">
+        <thead>
+          <tr>
+            <th>Área</th>
+            <th>Status</th>
+            <th>O que falta</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Google Meu Negócio</strong></td>
+            <td><span class="status-badge warning">Incompleto</span></td>
+            <td>Categoria errada, poucas avaliações, sem respostas</td>
+          </tr>
+          <tr>
+            <td><strong>Site</strong></td>
+            <td><span class="status-badge good">Bom</span></td>
+            <td>Profissional, funcional — acompanha a empresa</td>
+          </tr>
+          <tr>
+            <td><strong>Instagram</strong></td>
+            <td><span class="status-badge bad">Fraco</span></td>
+            <td>Poucos seguidores, pouco conteúdo, sem autoridade</td>
+          </tr>
+          <tr>
+            <td><strong>Avaliações</strong></td>
+            <td><span class="status-badge warning">Poucas</span></td>
+            <td>38 avaliações para 27 anos de mercado</td>
+          </tr>
+          <tr>
+            <td><strong>Captação</strong></td>
+            <td><span class="status-badge warning">Indicação</span></td>
+            <td>Provavelmente depende de indicação</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- CTA -->
+    <div class="cta-section">
+      <h2 class="cta-title">Sua empresa é boa.<br>A presença digital precisa acompanhar.</h2>
+      <p class="cta-subtitle">Um diagnóstico completo + plano de ação pra resolver o que realmente importa.</p>
+      <a href="https://wa.me/5542998182825?text=Ol%C3%A1!%20Vi%20o%20Raio-X%20Digital%20da%20Eletro%20Lima%20e%20gostaria%20de%20conversar%20sobre%20como%20melhorar%20a%20presen%C3%A7a%20digital." class="cta-button">Quero resolver isso</a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <span class="footer-text">Diagnóstico gerado pela APSIDE — Estruturação digital para negócios locais</span>
+      <span class="footer-logo">apside</span>
+    </div>
+  </div>
+</body>
+</html>

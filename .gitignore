@@ -1,0 +1,16 @@
+# APSIDE-OS
+node_modules/
+*.log
+*.err.log
+.env
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
+
+# Embedded repos (clonados separadamente)
+site/MODELO FEITO COM CHAT GPT ASTRA/
+temp/next.js/
+temp/skills/

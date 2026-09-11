@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>APSIDE-OS — Estudo GMB</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0E1116;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* COVER */
+.cover {
+  background: linear-gradient(135deg, #0E1116 0%, #1a2332 50%, #0E1116 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,230,91,0.3);
+  border-radius: 30px;
+  color: #00E65B;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+.cover h1 {
+  color: #F5ECD7;
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 16px;
+}
+.cover h1 span { color: #00E65B; }
+.cover .subtitle {
+  color: #8a8a8a;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+.cover-stats {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+.cover-stat { text-align: center; }
+.cover-stat .num {
+  color: #F5ECD7;
+  font-size: 42px;
+  font-weight: 800;
+}
+.cover-stat .lbl {
+  color: #666;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+
+/* DARK PAGES */
+.dark-page {
+  background: #0E1116;
+  color: #F5ECD7;
+}
+.dark-page h2 {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 6px;
+  letter-spacing: -0.5px;
+}
+.dark-page h2 span { color: #00E65B; }
+.dark-page .page-subtitle {
+  color: #666;
+  font-size: 13px;
+  margin-bottom: 24px;
+  font-weight: 400;
+}
+
+/* LIGHT PAGES */
+.light-page {
+  background: #F5ECD7;
+  color: #1a1a1a;
+}
+.light-page h2 {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 6px;
+  letter-spacing: -0.5px;
+  color: #0E1116;
+}
+.light-page h2 span { color: #00E65B; }
+.light-page .page-subtitle {
+  color: #666;
+  font-size: 13px;
+  margin-bottom: 24px;
+  font-weight: 400;
+}
+
+/* GRID CARDS */
+.cards-grid {
+  display: grid;
+  gap: 12px;
+  flex: 1;
+}
+.cards-3x2 { grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, 1fr); }
+.cards-2x3 { grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 1fr); }
+.cards-3x3 { grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(3, 1fr); }
+.cards-4x2 { grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(2, 1fr); }
+
+.card {
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.card-dark {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.card-light {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.06);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.card .card-icon {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+.card .card-num {
+  font-size: 11px;
+  font-weight: 700;
+  color: #00E65B;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.card .card-title {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  line-height: 1.2;
+}
+.card-dark .card-title { color: #F5ECD7; }
+.card-light .card-title { color: #0E1116; }
+.card .card-text {
+  font-size: 11px;
+  line-height: 1.5;
+  flex: 1;
+}
+.card-dark .card-text { color: #999; }
+.card-light .card-text { color: #555; }
+.card .card-tag {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 8px;
+  width: fit-content;
+}
+.tag-green { background: rgba(0,230,91,0.15); color: #00E65B; }
+.tag-red { background: rgba(255,68,68,0.15); color: #FF4444; }
+.tag-yellow { background: rgba(234,179,8,0.15); color: #eab308; }
+.tag-blue { background: rgba(59,130,246,0.15); color: #3b82f6; }
+.tag-purple { background: rgba(168,85,247,0.15); color: #a855f7; }
+
+/* BIG NUMBER */
+.big-num {
+  font-size: 56px;
+  font-weight: 900;
+  color: #00E65B;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+/* FLOW */
+.flow-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.flow-step {
+  flex: 1;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 14px 16px;
+  text-align: center;
+}
+.flow-step .step-num {
+  font-size: 10px;
+  font-weight: 700;
+  color: #00E65B;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+.flow-step .step-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #F5ECD7;
+  margin-bottom: 2px;
+}
+.flow-step .step-skill {
+  font-size: 10px;
+  color: #666;
+}
+.flow-arrow {
+  color: #333;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+/* TABLE */
+.table-wrap {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-wrap th {
+  text-align: left;
+  font-size: 10px;
+  font-weight: 700;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 8px 12px;
+  border-bottom: 2px solid rgba(255,255,255,0.08);
+}
+.table-wrap td {
+  font-size: 12px;
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  color: #ccc;
+  vertical-align: top;
+}
+.table-wrap tr:last-child td { border-bottom: none; }
+.table-wrap .col-skill { color: #00E65B; font-weight: 600; }
+.table-wrap .col-impact { font-weight: 700; }
+
+/* SCORE BAR */
+.score-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.score-label {
+  width: 160px;
+  font-size: 12px;
+  color: #ccc;
+  font-weight: 500;
+}
+.score-bar {
+  flex: 1;
+  height: 8px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.score-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.5s;
+}
+.score-pct {
+  width: 36px;
+  text-align: right;
+  font-size: 11px;
+  font-weight: 700;
+  color: #F5ECD7;
+}
+
+/* BADGE */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 600;
+}
+.badge-green { background: rgba(0,230,91,0.12); color: #00E65B; }
+.badge-red { background: rgba(255,68,68,0.12); color: #FF4444; }
+.badge-yellow { background: rgba(234,179,8,0.12); color: #eab308; }
+
+/* TWO COL */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  flex: 1;
+}
+
+/* FOOTER */
+.page-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  margin-top: auto;
+}
+.page-footer.light {
+  border-top-color: rgba(0,0,0,0.08);
+}
+.page-footer span {
+  font-size: 10px;
+  color: #444;
+  letter-spacing: 0.5px;
+}
+.page-footer .page-num {
+  font-weight: 700;
+  color: #00E65B;
+}
+
+/* LIST */
+.clean-list {
+  list-style: none;
+  padding: 0;
+}
+.clean-list li {
+  font-size: 12px;
+  line-height: 1.6;
+  padding: 6px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  color: #ccc;
+}
+.clean-list li:last-child { border-bottom: none; }
+.clean-list li strong { color: #F5ECD7; }
+.clean-list li .hl { color: #00E65B; font-weight: 600; }
+</style>
+</head>
+<body>
+
+<!-- ==================== PÁGINA 1: CAPA ==================== -->
+<div class="page cover">
+  <div class="cover-badge">Estudo Interativo</div>
+  <h1>Como Colocar um<br>Negócio no <span>#1 do Google</span></h1>
+  <p class="subtitle">Guia completo de domínio do Google Meu Negócio — do diagnóstico à entrega</p>
+  <div class="cover-stats">
+    <div class="cover-stat">
+      <div class="num">3</div>
+      <div class="lbl">Fatores de Ranking</div>
+    </div>
+    <div class="cover-stat">
+      <div class="num">10</div>
+      <div class="lbl">Critérios de Análise</div>
+    </div>
+    <div class="cover-stat">
+      <div class="num">8</div>
+      <div class="lbl">Skills Conectadas</div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 2: OS 3 FATORES ==================== -->
+<div class="page dark-page">
+  <h2>Os 3 Fatores que o <span>Google Avalia</span></h2>
+  <p class="page-subtitle">Tudo que o Google usa pra decidir quem aparece primeiro — e o que dá pra controlar</p>
+
+  <div class="cards-grid cards-3x2" style="flex:1;">
+    <div class="card card-dark" style="grid-row: span 2;">
+      <div class="card-icon">🎯</div>
+      <div class="card-num">32% do ranking</div>
+      <div class="card-title">Relevância</div>
+      <div class="card-text" style="margin-bottom:12px;">
+        O quão bem o seu perfil combina com o que a pessoa busca.<br><br>
+        <strong style="color:#F5ECD7;">Fator #1:</strong> Categoria primária do GMB.<br><br>
+        Se você é "Barbearia" mas colocou "Salão de Beleza", o Google não te mostra pra quem busca "barbeiro".<br><br>
+        <strong style="color:#F5ECD7;">Controlável:</strong> Sim — 100%
+      </div>
+      <span class="card-tag tag-green">100% controlável</span>
+    </div>
+
+    <div class="card card-dark">
+      <div class="card-icon">📍</div>
+      <div class="card-num">Variável</div>
+      <div class="card-title">Proximidade</div>
+      <div class="card-text">
+        Quão perto o negócio está de quem busca. Não dá pra mudar a localização.<br><br>
+        <strong style="color:#F5ECD7;">Mas:</strong> Negócios com mais proeminência ranqueiam mais longe.
+      </div>
+      <span class="card-tag tag-red">Não controlável</span>
+    </div>
+
+    <div class="card card-dark">
+      <div class="card-icon">⭐</div>
+      <div class="card-num">45%+ do ranking</div>
+      <div class="card-title">Proeminência</div>
+      <div class="card-text">
+        O quão conhecido e confiável o negócio é. Construído com reviews, links, citações e autoridade online.
+      </div>
+      <span class="card-tag tag-yellow">Parcialmente controlável</span>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">02</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 3: FATORES DETALHADOS ==================== -->
+<div class="page dark-page">
+  <h2>O Que Pesos <span>Determinam o Ranking</span></h2>
+  <p class="page-subtitle">Top 15 fatores de ranking local (pesquisa Whitespark 2025 — 47 especialistas)</p>
+
+  <div style="flex:1; display:flex; flex-direction:column; gap:4px;">
+    <div class="score-bar-wrap">
+      <span class="score-label">1. Categoria primária GMB</span>
+      <div class="score-bar"><div class="score-fill" style="width:96%; background:#00E65B;"></div></div>
+      <span class="score-pct">#1</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">2. Keywords no nome do negócio</span>
+      <div class="score-bar"><div class="score-fill" style="width:90%; background:#00E65B;"></div></div>
+      <span class="score-pct">#2</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">3. Proximidade ao buscador</span>
+      <div class="score-bar"><div class="score-fill" style="width:88%; background:#eab308;"></div></div>
+      <span class="score-pct">#3</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">4. Endereço na cidade buscada</span>
+      <div class="score-bar"><div class="score-fill" style="width:85%; background:#eab308;"></div></div>
+      <span class="score-pct">#4</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">5. Remoção de spam</span>
+      <div class="score-bar"><div class="score-fill" style="width:72%; background:#3b82f6;"></div></div>
+      <span class="score-pct">#5</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">6. Nota alta no Google (4-5)</span>
+      <div class="score-bar"><div class="score-fill" style="width:70%; background:#00E65B;"></div></div>
+      <span class="score-pct">#6</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">7. Categorias secundárias</span>
+      <div class="score-bar"><div class="score-fill" style="width:68%; background:#00E65B;"></div></div>
+      <span class="score-pct">#7</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">8. Quantidade de reviews com texto</span>
+      <div class="score-bar"><div class="score-fill" style="width:65%; background:#00E65B;"></div></div>
+      <span class="score-pct">#8</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">9. Conta verificada</span>
+      <div class="score-bar"><div class="score-fill" style="width:60%; background:#3b82f6;"></div></div>
+      <span class="score-pct">#9</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">10. Perfil 100% completo</span>
+      <div class="score-bar"><div class="score-fill" style="width:57%; background:#00E65B;"></div></div>
+      <span class="score-pct">#10</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">11. Reviews constantes (não rajadas)</span>
+      <div class="score-bar"><div class="score-fill" style="width:54%; background:#00E65B;"></div></div>
+      <span class="score-pct">#11</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">12. Pin do mapa correto</span>
+      <div class="score-bar"><div class="score-fill" style="width:52%; background:#3b82f6;"></div></div>
+      <span class="score-pct">#12</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">13. Recência das reviews</span>
+      <div class="score-bar"><div class="score-fill" style="width:50%; background:#00E65B;"></div></div>
+      <span class="score-pct">#13</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">14. Site com keywords locais</span>
+      <div class="score-bar"><div class="score-fill" style="width:48%; background:#a855f7;"></div></div>
+      <span class="score-pct">#14</span>
+    </div>
+    <div class="score-bar-wrap">
+      <span class="score-label">15. Links de sites locais</span>
+      <div class="score-bar"><div class="score-fill" style="width:46%; background:#a855f7;"></div></div>
+      <span class="score-pct">#15</span>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">03</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 4: OS 10 CRITÉRIOS ==================== -->
+<div class="page dark-page">
+  <h2>Os 10 Critérios do <span>Diagnóstico</span></h2>
+  <p class="page-subtitle">O que analisamos em todo negócio — cada critério tem pontuação e impacto direto no ranking</p>
+
+  <div class="cards-grid cards-5x2" style="grid-template-columns: repeat(5, 1fr); grid-template-rows: repeat(2, 1fr); flex:1;">
+    <div class="card card-dark">
+      <div class="card-num">15 pts</div>
+      <div class="card-title">Foto de Capa</div>
+      <div class="card-text">Primeira impressão. Foto profissional, nítida, bem iluminada. É o que o cliente vê primeiro no Maps.</div>
+      <span class="card-tag tag-green">Alto impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">15 pts</div>
+      <div class="card-title">Fotos do Perfil</div>
+      <div class="card-text">10+ fotos: fachada, interior, equipe, produtos. Engajamento e confiança. Profiles com fotos ganham mais cliques.</div>
+      <span class="card-tag tag-green">Alto impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">15 pts</div>
+      <div class="card-title">Avaliações</div>
+      <div class="card-text">Volume + qualidade + recência. Pedir review pra TODO cliente satisfeito. Ritmo constante, não rajadas.</div>
+      <span class="card-tag tag-green">Alto impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">10 pts</div>
+      <div class="card-title">Respostas do Dono</div>
+      <div class="card-text">Negócio ativo, se importa. Responder TODAS as reviews em até 24h. Boas e ruins.</div>
+      <span class="card-tag tag-yellow">Médio impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">10 pts</div>
+      <div class="card-title">Telefone</div>
+      <div class="card-text">Número local, clicável. Acessibilidade e confiança. Quem liga quer comprar.</div>
+      <span class="card-tag tag-yellow">Médio impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">10 pts</div>
+      <div class="card-title">Endereço</div>
+      <div class="card-text">Endereço real, consistente em todo lugar. NAP (Nome, Endereço, Phone) idêntico em TODOS os diretórios.</div>
+      <span class="card-tag tag-yellow">Médio impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">10 pts</div>
+      <div class="card-title">Horário</div>
+      <div class="card-text">Horário correto + horários especiais (feriados). Horário errado = cliente chega e acha fechado = confiança perdida.</div>
+      <span class="card-tag tag-yellow">Médio impacto</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">5 pts</div>
+      <div class="card-title">Categoria</div>
+      <div class="card-text">Categoria primária correta + secundárias. O fator #1 de relevância. "Barbearia" ≠ "Salão de Beleza".</div>
+      <span class="card-tag tag-blue">Fator #1 de relevância</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">5 pts</div>
+      <div class="card-title">Site</div>
+      <div class="card-text">Site rápido, mobile, com NAP consistente. Página dedicada com palavras-chave locais.</div>
+      <span class="card-tag tag-purple">Complementar</span>
+    </div>
+    <div class="card card-dark">
+      <div class="card-num">5 pts</div>
+      <div class="card-title">Redes Sociais</div>
+      <div class="card-text">Links funcionais, perfil ativo. Presença multi-canal. Não afeta ranking diretamente, mas gera confiança.</div>
+      <span class="card-tag tag-purple">Complementar</span>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">04</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 5: SKILLS CONECTADAS ==================== -->
+<div class="page dark-page">
+  <h2>Como Cada Skill <span>Conecta no Processo</span></h2>
+  <p class="page-subtitle">Fluxo completo de entrega — do diagnóstico ao acompanhamento</p>
+
+  <div class="cards-grid" style="grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(2, 1fr); gap:10px; flex:1;">
+    <div class="card card-dark" style="border-color: rgba(0,230,91,0.3);">
+      <div class="card-num">ETAPA 1</div>
+      <div class="card-title">Diagnóstico</div>
+      <div class="card-text">
+        <code style="color:#00E65B; font-size:10px;">/diagnostico-gmb</code><br><br>
+        Analisa os 10 critérios. Gera score 0-100. Identifica o que falta.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> Markdown com diagnóstico
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(0,230,91,0.3);">
+      <div class="card-num">ETAPA 2</div>
+      <div class="card-title">Comparativo</div>
+      <div class="card-text">
+        <code style="color:#00E65B; font-size:10px;">/comparar-gmb</code><br><br>
+        Gera PNG "Antes vs Depois" com fotos reais. Visual pra mostrar pro cliente.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> PNG 1080x1350
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(0,230,91,0.3);">
+      <div class="card-num">ETAPA 3</div>
+      <div class="card-title">Apresentação</div>
+      <div class="card-text">
+        <code style="color:#00E65B; font-size:10px;">/apresentacao-gmb</code><br><br>
+        PDF A4 6 páginas: capa, diagnóstico, antes/depois, planos, CTA.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> PDF profissional
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(0,230,91,0.3);">
+      <div class="card-num">ETAPA 4</div>
+      <div class="card-title">Proposta</div>
+      <div class="card-text">
+        <code style="color:#00E65B; font-size:10px;">/proposta</code><br><br>
+        Escopo, preço, prazo, próximos passos. Baseada no problema identificado.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> Proposta comercial
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(59,130,246,0.3);">
+      <div class="card-num">ETAPA 5</div>
+      <div class="card-title">Implementação</div>
+      <div class="card-text">
+        <code style="color:#3b82f6; font-size:10px;">Manual</code><br><br>
+        Otimizar GMB: categorias, fotos, horários, serviços. Criar site se necessário.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> GMB otimizado + site
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(59,130,246,0.3);">
+      <div class="card-num">ETAPA 6</div>
+      <div class="card-title">Acompanhamento</div>
+      <div class="card-text">
+        <code style="color:#3b82f6; font-size:10px;">/responder-avaliacoes</code><br><br>
+        Gerenciar reviews, manter perfil ativo, medir resultados.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> Respostas prontas
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(168,85,247,0.3);">
+      <div class="card-num">VENDAS</div>
+      <div class="card-title">Abordagem</div>
+      <div class="card-text">
+        <code style="color:#a855f7; font-size:10px;">/vender</code><br><br>
+        Roteiro completo: Raio-X → DM → Reunião → Fechamento.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> Script + Kit
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(168,85,247,0.3);">
+      <div class="card-num">ORQUESTRADOR</div>
+      <div class="card-title">Master</div>
+      <div class="card-text">
+        <code style="color:#a855f7; font-size:10px;">/gmb-master</code><br><br>
+        Roda Diagnóstico + Comparativo + Apresentação juntos.<br><br>
+        <strong style="color:#F5ECD7;">Entrega:</strong> Tudo junto
+      </div>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">05</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 6: METAS DE APRENDIZAGEM ==================== -->
+<div class="page dark-page">
+  <h2>Metas de <span>Aprendizagem</span></h2>
+  <p class="page-subtitle">Sem prazo — apenas当 você dominar cada etapa, avança pra próxima</p>
+
+  <div class="two-col" style="flex:1;">
+    <div>
+      <h3 style="font-size:14px; font-weight:700; color:#00E65B; margin-bottom:12px; letter-spacing:1px; text-transform:uppercase;">Fase 1 — Dominar o Diagnóstico</h3>
+      <ul class="clean-list">
+        <li>✅ Rodar <code>/diagnostico-gmb</code> em 5+ negócios reais</li>
+        <li>✅ Saber explicar <strong>por que</strong> cada critério afeta o ranking</li>
+        <li>✅ Conseguir argumentar "seu Google não ranqueia por X"</li>
+        <li>✅ Identificar visualmente os problemas só de olhar o GMB</li>
+        <li>✅ Memorizar os 10 critérios e suas pontuações</li>
+      </ul>
+
+      <h3 style="font-size:14px; font-weight:700; color:#00E65B; margin:20px 0 12px; letter-spacing:1px; text-transform:uppercase;">Fase 2 — Dominar a Entrega</h3>
+      <ul class="clean-list">
+        <li>✅ Criar comparativo visual perfeito (<code>/comparar-gmb</code>)</li>
+        <li>✅ Montar apresentação completa (<code>/apresentacao-gmb</code>)</li>
+        <li>✅ Testar fluxo: diagnóstico → comparativo → apresentação → proposta</li>
+        <li>✅ Entregar tudo em &lt; 30 minutos por cliente</li>
+        <li>✅ Conseguir gerar PDF sem erros</li>
+      </ul>
+    </div>
+    <div>
+      <h3 style="font-size:14px; font-weight:700; color:#00E65B; margin-bottom:12px; letter-spacing:1px; text-transform:uppercase;">Fase 3 — Dominar a Venda</h3>
+      <ul class="clean-list">
+        <li>✅ Usar <code>/vender</code> em reunião real</li>
+        <li>✅ Fechar primeiro cliente</li>
+        <li>✅ Entregar resultado e cobrar</li>
+        <li>✅ Pedir indicação</li>
+        <li>✅ Conseguir repetir o processo sem consulta</li>
+      </ul>
+
+      <h3 style="font-size:14px; font-weight:700; color:#00E65B; margin:20px 0 12px; letter-spacing:1px; text-transform:uppercase;">Fase 4 — Dominar Sites</h3>
+      <ul class="clean-list">
+        <li>✅ Criar landing page profissional pra negócio local</li>
+        <li>✅ Entender o que Google espera de um site local</li>
+        <li>✅ Incluir NAP, schema, palavras-chave locais</li>
+        <li>✅ Entregar site básico funcionando</li>
+        <li>✅ Site passar no Google PageSpeed &gt; 90</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">06</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 7: O QUE NÃO FAZ ==================== -->
+<div class="page dark-page">
+  <h2>O Que <span>NÃO</span> Faz Diferença</h2>
+  <p class="page-subtitle">Mitos comuns que não afetam ranking — e o que fazer em vez disso</p>
+
+  <div class="two-col" style="flex:1;">
+    <div>
+      <h3 style="font-size:14px; font-weight:700; color:#FF4444; margin-bottom:12px;">❌ Não afeta ranking</h3>
+      <ul class="clean-list">
+        <li>❌ Keyword stuffing no nome do negócio <span class="hl" style="color:#FF4444;">(pode causar suspensão!)</span></li>
+        <li>❌ Geo-tagging de fotos</li>
+        <li>❌ Keywords nas respostas de reviews</li>
+        <li>❌ Quantidade de posts no GMB</li>
+        <li>❌ Quantidade de perguntas no Q&A</li>
+        <li>❌ Descrição com keywords repetidas</li>
+        <li>❌ Comprar reviews <span class="hl" style="color:#FF4444;">(risco de suspensão!)</span></li>
+      </ul>
+    </div>
+    <div>
+      <h3 style="font-size:14px; font-weight:700; color:#00E65B; margin-bottom:12px;">✅ O que fazer em vez disso</h3>
+      <ul class="clean-list">
+        <li>✅ Usar nome real do negócio (como na placa)</li>
+        <li>✅ Adicionar fotos com qualidade real</li>
+        <li>✅ Responder reviews de forma natural e humana</li>
+        <li>✅ Publicar posts com ofertas reais e CTAs</li>
+        <li>✅ Criar FAQ própria e responder</li>
+        <li>✅ Escrever descrição natural pra humanos</li>
+        <li>✅ Pedir review organicamente pra cada cliente</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="background:rgba(255,68,68,0.08); border:1px solid rgba(255,68,68,0.2); border-radius:12px; padding:16px; margin-top:16px;">
+    <div style="font-size:13px; font-weight:700; color:#FF4444; margin-bottom:6px;">⚠️ Causas de Suspensão</div>
+    <div style="font-size:11px; color:#ccc; line-height:1.6;">
+      5 causas documentadas: (1) Edições excessivas, (2) Sem presença física real, (3) Conta dona suspensa, (4) Listings duplicados, (5) Categorias spam. O Google <strong>não diz</strong> qual foi. Tenha prova de endereço e propriedade antes de precisar.
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">07</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 8: PREÇOS ==================== -->
+<div class="page dark-page">
+  <h2>Escada de <span>Preços</span></h2>
+  <p class="page-subtitle">O que oferecer e quanto cobrar — baseado no problema identificado</p>
+
+  <div class="cards-grid cards-4x2" style="flex:1;">
+    <div class="card card-dark" style="border-color: rgba(0,230,91,0.3);">
+      <div class="card-num">TIER 1</div>
+      <div class="card-title">Presença no Google</div>
+      <div class="card-text">
+        <div style="font-size:28px; font-weight:900; color:#00E65B; margin:8px 0;">R$297–497</div>
+        Otimização GMB completa.<br>
+        Categorias, fotos, horários, serviços.<br>
+        30 dias de gestão de reviews.<br><br>
+        <strong style="color:#F5ECD7;">Pra quem:</strong> Negócio sem GMB ou com GMB fraco.
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(59,130,246,0.3);">
+      <div class="card-num">TIER 2</div>
+      <div class="card-title">Landing Page</div>
+      <div class="card-text">
+        <div style="font-size:28px; font-weight:900; color:#3b82f6; margin:8px 0;">R$697–1.200</div>
+        Site 1 página profissional.<br>
+        Mobile-first, rápido, bonito.<br>
+        NAP consistente, schema local.<br><br>
+        <strong style="color:#F5ECD7;">Pra quem:</strong> Negócio sem site ou com site ruim.
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(168,85,247,0.3);">
+      <div class="card-num">TIER 3</div>
+      <div class="card-title">Google + Site</div>
+      <div class="card-text">
+        <div style="font-size:28px; font-weight:900; color:#a855f7; margin:8px 0;">R$697–890</div>
+        Bundle: GMB otimizado + Landing Page.<br>
+        "Presença completa" no Google.<br><br>
+        <strong style="color:#F5ECD7;">Pra quem:</strong> Negócio sem presença digital.
+      </div>
+    </div>
+    <div class="card card-dark" style="border-color: rgba(234,179,8,0.3);">
+      <div class="card-num">TIER 4</div>
+      <div class="card-title">Projeto Completo</div>
+      <div class="card-text">
+        <div style="font-size:28px; font-weight:900; color:#eab308; margin:8px 0;">R$1.500–5.000</div>
+        GMB + Site + SEO + Gestão mensal.<br>
+        Otimização completa e contínua.<br><br>
+        <strong style="color:#F5ECD7;">Pra quem:</strong> Negócio que quer crescer de verdade.
+      </div>
+    </div>
+  </div>
+
+  <div style="background:rgba(255,68,68,0.08); border:1px solid rgba(255,68,68,0.2); border-radius:12px; padding:14px; margin-top:12px; display:flex; align-items:center; gap:12px;">
+    <div style="font-size:24px;">🚫</div>
+    <div>
+      <div style="font-size:12px; font-weight:700; color:#FF4444;">Não priorizar agora</div>
+      <div style="font-size:11px; color:#999;">Social recorrente R$197/mês — relação esforço/receita ruim. Mentoria R$2.000 — precisa de cases primeiro. Trafego pago — não oferecer até ter Google + site prontos.</div>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>APSIDE-OS — Estudo GMB</span>
+    <span class="page-num">08</span>
+  </div>
+</div>
+
+<!-- ==================== PÁGINA 9: CHECKLIST FINAL ==================== -->
+<div class="page cover" style="background: linear-gradient(135deg, #0E1116 0%, #0a1628 50%, #0E1116 100%);">
+  <div class="cover-badge">Checklist Final</div>
+  <h1>Antes de <span>Cobrar</span></h1>
+  <p class="subtitle" style="max-width:600px;">Confirme que entendeu cada etapa antes de sair vendendo</p>
+
+  <div style="display:grid; grid-template-columns: 1fr 1fr; gap:16px; max-width:700px; text-align:left; margin-top:20px;">
+    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:16px;">
+      <div style="font-size:11px; font-weight:700; color:#00E65B; margin-bottom:8px;">DIAGNÓSTICO</div>
+      <ul style="list-style:none; padding:0;">
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo analisar um GMB sem olhar a skill</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Sei explicar por que cada critério importa</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo argumentar sem consultar nada</li>
+      </ul>
+    </div>
+    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:16px;">
+      <div style="font-size:11px; font-weight:700; color:#00E65B; margin-bottom:8px;">ENTREGA</div>
+      <ul style="list-style:none; padding:0;">
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo gerar comparativo sem erro</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo gerar PDF completo</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo entregar tudo em &lt; 30 min</li>
+      </ul>
+    </div>
+    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:16px;">
+      <div style="font-size:11px; font-weight:700; color:#00E65B; margin-bottom:8px;">VENDA</div>
+      <ul style="list-style:none; padding:0;">
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo usar o script de vendas</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Sei fechar sem parecer vendedor</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo pedir indicação naturalmente</li>
+      </ul>
+    </div>
+    <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:16px;">
+      <div style="font-size:11px; font-weight:700; color:#00E65B; margin-bottom:8px;">SITES</div>
+      <ul style="list-style:none; padding:0;">
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Consigo criar landing page local</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Sei incluir NAP + schema</li>
+        <li style="font-size:11px; color:#ccc; padding:3px 0;">□ Site passa no PageSpeed &gt; 90</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="cover-stats" style="margin-top:40px;">
+    <div class="cover-stat">
+      <div class="num" style="font-size:28px;">12</div>
+      <div class="lbl">Checkpoints</div>
+    </div>
+    <div class="cover-stat">
+      <div class="num" style="font-size:28px;">4</div>
+      <div class="lbl">Fases</div>
+    </div>
+    <div class="cover-stat">
+      <div class="num" style="font-size:28px;">0</div>
+      <div class="lbl">Atalhos</div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
