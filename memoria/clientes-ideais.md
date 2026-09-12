@@ -41,7 +41,7 @@ Clínica bonita, bem localizada, com Instagram ativo, clientes e estrutura profi
 Você consegue mostrar: "Seu negócio é bom. O problema é que a presença digital não está acompanhando." Isso torna a venda muito mais natural.
 
 **Mau prospect:**
-Lojinha com 500 problemas estruturais, sem dinheiro, sem混沌结构.
+Lojinha com 500 problemas estruturais, sem dinheiro, sem organização.
 
 **Por quê não funciona:**
 Você vai tentar resolver 50 coisas ao mesmo tempo, o cliente não vai conseguir pagar e vai blame você pelo resultado.

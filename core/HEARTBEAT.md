@@ -22,7 +22,6 @@ github:                (preenchido pelo /salvar)
 
 ## Alertas a resolver
 
-- **`memoria/clientes-ideais.md` é arquivo órfão** — não consta em MAPA.md. Adicionar ao MAPA
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
 
 ## Auditoria — 2026-09-11
@@ -40,7 +39,6 @@ github:                (preenchido pelo /salvar)
 - Git limpo, último commit `862d428`
 
 ### ⚠️ Alertas
-- `clientes-ideais.md` não mapeado no MAPA (órfão)
 - Site incompleto — faltam links, deploy, SEO, conteúdo real nos cards
 - `pendencias.md` vazio — sem fila de tarefas registradas
 
