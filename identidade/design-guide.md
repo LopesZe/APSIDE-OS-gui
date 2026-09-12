@@ -1,86 +1,160 @@
-# Identidade visual
+# Identidade Visual — APSIDE
 
-> Como a marca APSIDE aparece em tudo que o MazyOS gera.
-> As skills de conteúdo, carrossel e post leem esse arquivo antes de criar qualquer visual.
-
----
-
-## Cores
-
-- **Fundo principal:** Marinho / Azul Escuro `#1F2133` — rgb(31, 33, 51)
-- **Fundo claro / cards:** Branco `#FFFFFF` — rgb(255, 255, 255)
-- **Texto principal:** Preto Puro `#000000` — rgb(0, 0, 0)
-- **Cor de destaque / gradiente (início):** Verde Neon `#00E65B` — rgb(0, 230, 91)
-- **Cor de destaque / gradiente (meio):** Azul Elétrico `#0066FF` — rgb(0, 102, 255)
-- **Cor de destaque / gradiente (fim):** Roxo / Violeta `#6E00FF` — rgb(110, 0, 255)
-- **Cor proibida:** (não definida)
+> Referência rápida para skills e produção de conteúdo.
+> Manual completo: `identidade/MANUAL-DAMARCA.md`
 
 ---
 
-## Tipografia
+## 1. Paleta de cores
 
-- **Títulos e destaques:** (a definir — sugerir fonte geométrica/moderna que combine com o gradiente)
-- **Corpo, subtítulos e botões:** (a definir)
-- **Peso do título:** (a definir)
+### Cores primárias
 
-> Observação: as fontes ainda não foram informadas. Preencher quando definir.
+| Cor | Hex | RGB | Uso |
+|---|---|---|---|
+| Marinho (fundo escuro) | `#1F2133` | rgb(31, 33, 51) | Fundo principal, cards escuros |
+| Branco (fundo claro) | `#FFFFFF` | rgb(255, 255, 255) | Fundo claro, cards claros |
+| Preto | `#000000` | rgb(0, 0, 0) | Texto principal |
 
----
+### Gradiente da marca
 
-## Estilo geral
+| Posição | Cor | Hex |
+|---|---|---|
+| Início | Verde Neon | `#00E65B` |
+| Meio | Azul Elétrico | `#0066FF` |
+| Fim | Roxo / Violeta | `#6E00FF` |
 
-Visual moderno, com gradiente verde → azul → roxo como elemento de marca. Fundo escuro marinho ou branco. Estética tech/IA limpa.
+CSS: `linear-gradient(90deg, #00E65B 0%, #0066FF 50%, #6E00FF 100%)`
 
----
+### Cor de destaque por fundo
 
-## Elementos-chave
+| Fundo | Destaque |
+|---|---|
+| Escuro (`#1F2133`) | Verde Neon `#00E65B` |
+| Claro (`#FFFFFF`) | Azul Elétrico `#0066FF` |
 
-- Bordas: (a definir)
-- Border-radius dos cards: (a definir)
-- Botões: usar o gradiente como CTA
-- Sombras: (a definir)
+### Cores de borda e sombra
 
----
-
-## O que NUNCA fazer
-
-- Usar as buzzwords proibidas do tom de voz em peças visuais
-- Quebrar o padrão do gradiente da marca
-- Introduzir cor do brand kit "do nada" no meio de um carrossel (ex.: pular de verde/azul pro roxo sem padrão)
-
-## Templates de conteúdo (base reutilizável)
-
-Os templates prontos ficam em `marketing/templates/` (criados e validados em 2026-08):
-- `carrossel-base.html` (1080×1080, 7 slides), `post-unico-base.html` (1080×1080), `story-base.html` (1080×1920, 9:16), `legenda-modelo.md`, `render.js`.
-- Para criar uma peça nova: copie os arquivos pra `marketing/conteudo/carrossel-<tema>-<AAAA-MM-DD>/` e troque o texto. Cores paramêtricas no topo do CSS (`:root`) — mudar a paleta é mexer em 4 variáveis.
-- Logos: `identidade/LOGO FUNDO ESCURO.png` / `LOGO FUNDO CLARO.png` e `ICONE FUNDO ESCURO.png` / `ICONE FUNDO CLARO.png`. Escuro→`FUNDO ESCURO`, claro→`FUNDO CLARO`.
-- **Site institucional** (`site/`, HTML/CSS/JS puro, deploy-ready) segue o mesmo padrão: marinho+verde / branco+azul, logos por fundo, sem gradiente atrás de texto. CSS base em `site/assets/css/style.css`. Referência Assistly AI em `site/referencias/`. Em construção (dono vai refinar).
-
-## Padrão de carrossel / posts (regra do dono)
-
-Seguir um padrão claro e repetível entre os slides — não surpreender o espectador com cores novas aleatórias:
-
-- Fundo escuro (marinho `#1F2133`) → destaque sempre **verde neon `#00E65B`**
-- Fundo claro (branco `#FFFFFF`) → destaque sempre **azul elétrico `#0066FF`**
-- O roxo `#6E00FF` só entra se fizer parte do padrão definido desde o slide 1
-- Alternar fundo escuro ↔ claro slide a slide (nunca dois iguais seguidos)
-- LOGO/ÍCONE trocados conforme o fundo: fundo escuro → `LOGO/ICONE FUNDO ESCURO`, fundo claro → `LOGO/ICONE FUNDO CLARO`
-- RÉGUA/divisória e palavra-chave usam a cor de destaque do slide (nunca gradiente atrás de texto)
-- LOGO no topo; ícone pequeno no canto inferior (invertido com o `@handle` conforme aprovado no teste)
+| Contexto | Borda | Sombra |
+|---|---|---|
+| Fundo escuro | `rgba(255,255,255,0.08)` | `0 4px 24px rgba(0,0,0,0.4)` |
+| Fundo claro | `rgba(0,0,0,0.08)` | `0 4px 24px rgba(0,0,0,0.15)` |
 
 ---
 
-## Logo
+## 2. Tipografia
 
-- **Arquivos:** `identidade/1.jpg`, `identidade/2.jpg`, `identidade/3.jpg`, `identidade/4.jpg` (4 opções de logo, atualmente em JPG — converter para SVG/PDF vetorial quando possível)
-- **Versão pra fundo escuro:** a confirmar (uma das 4 opções deve servir sobre `#1F2133`)
-- **Onde usar:** slide final do carrossel (CTA), header de propostas, slides de apresentação
-- **Tamanho sugerido:** largura entre 120–200px nos HTMLs
+| Elemento | Fonte | Pesos |
+|---|---|---|
+| Títulos e destaques | DM Sans | 500 / 600 / 700 |
+| Corpo, subtítulos, botões | Inter | 400 / 500 / 600 |
 
-> Pendente: escolher 1 das 4 opções como logo principal da APSIDE.
+Import Google Fonts:
+```
+https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap
+```
 
 ---
 
-## Observações adicionais
+## 3. Elementos de interface
 
-Cores e logo definidos em 2026-08 durante o `/instalar`. Fontes pendentes.
+| Elemento | Regra |
+|---|---|
+| Bordas | 1px, cor conforme fundo (ver tabela acima) |
+| Border-radius | 12px (meio arredondado) |
+| Botões CTA | Gradiente da marca como fundo, texto branco |
+| Sombras | Sutis e elegantes (ver tabela acima) |
+
+---
+
+## 4. Logo (wordmark)
+
+Tipo: texto "APSIDE" em DM Sans Bold, centralizado.
+
+| Versão | Arquivo | Fundo |
+|---|---|---|
+| Branca | `logo-apside.svg` | Escuro |
+| Preta | `logo-apside-claro.svg` | Claro |
+| Gradiente | `logo-apside-gradiente.svg` | Escuro |
+| Gradiente | `logo-apside-gradiente-claro.svg` | Claro |
+
+**Uso:** slide final (CTA), header de propostas, site institucional.
+**Tamanho:** 120–200px de largura.
+
+---
+
+## 5. Ícone (símbolo)
+
+Tipo: átomo/orbital — representa IA, tecnologia, conexão.
+
+| Versão | Arquivo | Fundo |
+|---|---|---|
+| Gradiente | `icone-apside.svg` | Escuro |
+| Branco | `icone-apside-branco.svg` | Escuro |
+| Gradiente | `icone-apside-claro.svg` | Claro |
+| Preto | `icone-apside-preto.svg` | Claro |
+
+**Uso:** favicon, perfil social, cantos pequenos.
+**Tamanho:** 32–48px.
+
+---
+
+## 6. Regras de uso
+
+### Sempre fazer
+- Usar gradiente verde → azul → roxo como elemento de marca
+- Alternar fundo escuro ↔ claro slide a slide (nunca dois seguidos iguais)
+- Trocar logo/ícone conforme o fundo (escuro → versão escura; claro → versão clara)
+- Destaque do slide escuro = verde neon; destaque do slide claro = azul elétrico
+- Usar as cores de borda e sombra conforme a tabela
+
+### Nunca fazer
+- Misturar paletas de marcas diferentes na mesma peça
+- Introduzir cor "do nada" no meio de um carrossel
+- Usar gradiente atrás de texto
+- Colocar buzzwords proibidas (ver `memoria/preferencias.md`) em peças visuais
+- Usar fonte diferente das definidas
+
+---
+
+## 7. Padrão de carrossel / posts
+
+- Fundo escuro → destaque **verde neon `#00E65B`**
+- Fundo claro → destaque **azul elétrico `#0066FF`**
+- Roxo `#6E00FF` só entra se presente desde o slide 1
+- RÉGUA/divisória usa a cor de destaque do slide
+- Logo no topo; ícone pequeno no canto inferior
+
+---
+
+## 8. Arquivos da identidade
+
+```
+identidade/
+├── design-guide.md          ← este arquivo
+├── logo-apside.svg          ← wordmark branco
+├── logo-apside-claro.svg    ← wordmark preto
+├── logo-apside-gradiente.svg← wordmark gradiente (fundo escuro)
+├── logo-apside-gradiente-claro.svg ← wordmark gradiente (fundo claro)
+├── icone-apside.svg         ← ícone gradiente (fundo escuro)
+├── icone-apside-branco.svg  ← ícone branco (fundo escuro)
+├── icone-apside-claro.svg   ← ícone gradiente (fundo claro)
+├── icone-apside-preto.svg   ← ícone preto (fundo claro)
+└── marcas.md                ← marcas parceiras (template)
+```
+
+---
+
+## 9. Templates de conteúdo
+
+Templates em `marketing/templates/`:
+- `carrossel-base.html` (1080×1080, 7 slides)
+- `post-unico-base.html` (1080×1080)
+- `story-base.html` (1080×1920, 9:16)
+- `legenda-modelo.md`
+- `render.js`
+
+Para criar peça nova: copiar para `marketing/conteudo/carrossel-<tema>-<AAAA-MM-DD>/` e trocar texto. Cores paramêtricas no topo do CSS (`:root`).
+
+---
+
+*Atualizado em 2026-09-12. Identidade visual completa.*

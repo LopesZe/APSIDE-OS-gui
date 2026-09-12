@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E65B"/>
+      <stop offset="50%" stop-color="#0066FF"/>
+      <stop offset="100%" stop-color="#6E00FF"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1200" height="1800" fill="#0F1019"/>
+
+  <!-- ═══════════ HEADER ═══════════ -->
+  <rect x="0" y="0" width="1200" height="100" fill="#1F2133"/>
+  <text x="600" y="45" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="28" fill="#FFFFFF" letter-spacing="2">APSIDE</text>
+  <text x="600" y="72" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="500" font-size="12" fill="#9CA3AF" letter-spacing="3">BRAND KIT</text>
+  <rect x="0" y="98" width="1200" height="2" fill="url(#g)"/>
+
+  <!-- ═══════════ 01 CORES ═══════════ -->
+  <text x="80" y="160" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">01 CORES</text>
+  <line x1="80" y1="170" x2="200" y2="170" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- Cores primárias -->
+  <rect x="80" y="190" width="180" height="90" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="170" y="228" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">MARINHO</text>
+  <text x="170" y="248" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">#1F2133</text>
+  <text x="170" y="268" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Fundo principal</text>
+
+  <rect x="280" y="190" width="180" height="90" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <text x="370" y="228" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="12" fill="#000000">BRANCO</text>
+  <text x="370" y="248" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#666666">#FFFFFF</text>
+  <text x="370" y="268" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#999999">Fundo claro</text>
+
+  <rect x="480" y="190" width="180" height="90" rx="8" fill="#000000" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="570" y="228" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">PRETO</text>
+  <text x="570" y="248" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">#000000</text>
+  <text x="570" y="268" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Texto</text>
+
+  <!-- Gradiente -->
+  <rect x="680" y="190" width="440" height="90" rx="8" fill="url(#g)"/>
+  <text x="900" y="228" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">GRADIENTE DA MARCA</text>
+  <text x="900" y="248" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="rgba(255,255,255,0.8)">#00E65B → #0066FF → #6E00FF</text>
+  <text x="900" y="268" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="rgba(255,255,255,0.6)">Identidade visual</text>
+
+  <!-- Swatches do gradiente -->
+  <rect x="80" y="300" width="340" height="30" rx="6" fill="#00E65B"/>
+  <text x="250" y="320" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="11" fill="#000000">VERDE NEON #00E65B</text>
+
+  <rect x="440" y="300" width="340" height="30" rx="6" fill="#0066FF"/>
+  <text x="610" y="320" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="11" fill="#FFFFFF">AZUL ELÉTRICO #0066FF</text>
+
+  <rect x="800" y="300" width="320" height="30" rx="6" fill="#6E00FF"/>
+  <text x="960" y="320" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="11" fill="#FFFFFF">ROXO #6E00FF</text>
+
+  <!-- ═══════════ 02 TIPOGRAFIA ═══════════ -->
+  <text x="80" y="380" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">02 TIPOGRAFIA</text>
+  <line x1="80" y1="390" x2="240" y2="390" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- DM Sans -->
+  <rect x="80" y="410" width="500" height="130" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="110" y="445" font-family="'DM Sans',sans-serif" font-weight="600" font-size="16" fill="#FFFFFF">DM Sans</text>
+  <text x="110" y="465" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">Títulos e destaques</text>
+  <text x="110" y="505" font-family="'DM Sans',sans-serif" font-weight="700" font-size="32" fill="#FFFFFF">Aa Bb Cc 123</text>
+  <text x="110" y="525" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Pesos: 500 · 600 · 700</text>
+
+  <!-- Inter -->
+  <rect x="600" y="410" width="500" height="130" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="630" y="445" font-family="'Inter',sans-serif" font-weight="600" font-size="16" fill="#FFFFFF">Inter</text>
+  <text x="630" y="465" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">Corpo, botões, dados</text>
+  <text x="630" y="505" font-family="'Inter',sans-serif" font-weight="400" font-size="32" fill="#FFFFFF">Aa Bb Cc 123</text>
+  <text x="630" y="525" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Pesos: 400 · 500 · 600</text>
+
+  <!-- Hierarquia -->
+  <rect x="80" y="560" width="1020" height="60" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="110" y="588" font-family="'DM Sans',sans-serif" font-weight="700" font-size="18" fill="#FFFFFF">H1</text>
+  <text x="170" y="588" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">DM Sans 700 · 36-48px</text>
+  <text x="370" y="588" font-family="'DM Sans',sans-serif" font-weight="600" font-size="18" fill="#FFFFFF">H2</text>
+  <text x="430" y="588" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">DM Sans 600 · 28-32px</text>
+  <text x="630" y="588" font-family="'DM Sans',sans-serif" font-weight="500" font-size="18" fill="#FFFFFF">H3</text>
+  <text x="690" y="588" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">DM Sans 500 · 20-24px</text>
+  <text x="880" y="588" font-family="'Inter',sans-serif" font-weight="400" font-size="14" fill="#FFFFFF">Corpo</text>
+  <text x="940" y="588" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">Inter 400 · 16px</text>
+
+  <!-- ═══════════ 03 LOGO ═══════════ -->
+  <text x="80" y="670" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">03 LOGO</text>
+  <line x1="80" y1="680" x2="190" y2="680" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- Logo branca -->
+  <rect x="80" y="700" width="260" height="100" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="210" y="755" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="24" fill="#FFFFFF" letter-spacing="1">APSIDE</text>
+  <text x="210" y="785" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Branca · Fundo escuro</text>
+
+  <!-- Logo preta -->
+  <rect x="360" y="700" width="260" height="100" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <text x="490" y="755" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="24" fill="#000000" letter-spacing="1">APSIDE</text>
+  <text x="490" y="785" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#666666">Preta · Fundo claro</text>
+
+  <!-- Logo gradiente escuro -->
+  <rect x="640" y="700" width="260" height="100" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="770" y="755" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="24" fill="url(#g)" letter-spacing="1">APSIDE</text>
+  <text x="770" y="785" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Gradiente · Fundo escuro</text>
+
+  <!-- Logo gradiente claro -->
+  <rect x="920" y="700" width="260" height="100" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <text x="1050" y="755" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="24" fill="url(#g)" letter-spacing="1">APSIDE</text>
+  <text x="1050" y="785" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#666666">Gradiente · Fundo claro</text>
+
+  <!-- ═══════════ 04 ÍCONE ═══════════ -->
+  <text x="80" y="850" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">04 ÍCONE</text>
+  <line x1="80" y1="860" x2="180" y2="860" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- Ícone gradiente escuro -->
+  <rect x="80" y="880" width="140" height="140" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <circle cx="150" cy="940" r="4" fill="url(#g)"/>
+  <ellipse cx="150" cy="940" rx="28" ry="11" fill="none" stroke="url(#g)" stroke-width="1.5" transform="rotate(-48 150 940)"/>
+  <ellipse cx="150" cy="940" rx="28" ry="11" fill="none" stroke="url(#g)" stroke-width="1.5" transform="rotate(48 150 940)"/>
+  <text x="150" y="1000" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Gradiente · Escuro</text>
+
+  <!-- Ícone branco -->
+  <rect x="240" y="880" width="140" height="140" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <circle cx="310" cy="940" r="4" fill="#FFFFFF"/>
+  <ellipse cx="310" cy="940" rx="28" ry="11" fill="none" stroke="#FFFFFF" stroke-width="1.5" transform="rotate(-48 310 940)"/>
+  <ellipse cx="310" cy="940" rx="28" ry="11" fill="none" stroke="#FFFFFF" stroke-width="1.5" transform="rotate(48 310 940)"/>
+  <text x="310" y="1000" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">Branco · Escuro</text>
+
+  <!-- Ícone gradiente claro -->
+  <rect x="400" y="880" width="140" height="140" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <circle cx="470" cy="940" r="4" fill="url(#g)"/>
+  <ellipse cx="470" cy="940" rx="28" ry="11" fill="none" stroke="url(#g)" stroke-width="1.5" transform="rotate(-48 470 940)"/>
+  <ellipse cx="470" cy="940" rx="28" ry="11" fill="none" stroke="url(#g)" stroke-width="1.5" transform="rotate(48 470 940)"/>
+  <text x="470" y="1000" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#666666">Gradiente · Claro</text>
+
+  <!-- Ícone preto -->
+  <rect x="560" y="880" width="140" height="140" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <circle cx="630" cy="940" r="4" fill="#000000"/>
+  <ellipse cx="630" cy="940" rx="28" ry="11" fill="none" stroke="#000000" stroke-width="1.5" transform="rotate(-48 630 940)"/>
+  <ellipse cx="630" cy="940" rx="28" ry="11" fill="none" stroke="#000000" stroke-width="1.5" transform="rotate(48 630 940)"/>
+  <text x="630" y="1000" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#666666">Preto · Claro</text>
+
+  <!-- ═══════════ 05 INTERFACE ═══════════ -->
+  <text x="80" y="1070" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">05 ELEMENTOS</text>
+  <line x1="80" y1="1080" x2="250" y2="1080" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- Bordas -->
+  <rect x="80" y="1100" width="220" height="80" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="100" y="1128" font-family="'DM Sans',sans-serif" font-weight="600" font-size="13" fill="#FFFFFF">Bordas</text>
+  <text x="100" y="1148" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">1px · Sólida</text>
+  <rect x="100" y="1158" width="180" height="12" rx="4" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Radius -->
+  <rect x="320" y="1100" width="220" height="80" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="340" y="1128" font-family="'DM Sans',sans-serif" font-weight="600" font-size="13" fill="#FFFFFF">Radius</text>
+  <text x="340" y="1148" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">Cards: 12px · Botões: 8px</text>
+  <rect x="340" y="1158" width="60" height="16" rx="8" fill="none" stroke="url(#g)" stroke-width="1"/>
+  <rect x="410" y="1158" width="60" height="16" rx="4" fill="none" stroke="url(#g)" stroke-width="1"/>
+
+  <!-- Sombras -->
+  <rect x="560" y="1100" width="240" height="80" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="580" y="1128" font-family="'DM Sans',sans-serif" font-weight="600" font-size="13" fill="#FFFFFF">Sombras</text>
+  <text x="580" y="1148" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">Sutis e elegantes</text>
+  <rect x="580" y="1158" width="80" height="14" rx="4" fill="#1F2133" style="filter: drop-shadow(0 2px 8px rgba(0,0,0,0.4))"/>
+  <rect x="670" y="1158" width="80" height="14" rx="4" fill="#1F2133" style="filter: drop-shadow(0 2px 8px rgba(0,0,0,0.15))"/>
+
+  <!-- Botões -->
+  <rect x="820" y="1100" width="280" height="80" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="840" y="1128" font-family="'DM Sans',sans-serif" font-weight="600" font-size="13" fill="#FFFFFF">Botões</text>
+  <rect x="840" y="1148" width="90" height="24" rx="6" fill="url(#g)"/>
+  <text x="885" y="1165" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="10" fill="#FFFFFF">Primário</text>
+  <rect x="940" y="1148" width="90" height="24" rx="6" fill="none" stroke="url(#g)" stroke-width="1"/>
+  <text x="985" y="1165" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="10" fill="url(#g)">Secundário</text>
+
+  <!-- ═══════════ 06 REGRA DE DESTAQUE ═══════════ -->
+  <text x="80" y="1230" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">06 REGRA DE DESTAQUE</text>
+  <line x1="80" y1="1240" x2="310" y2="1240" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- Escuro → Verde -->
+  <rect x="80" y="1260" width="500" height="60" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <rect x="100" y="1280" width="80" height="20" rx="4" fill="#1F2133" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="140" y="1294" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="10" fill="#FFFFFF">ESCURO</text>
+  <text x="210" y="1294" font-family="'Inter',sans-serif" font-weight="400" font-size="12" fill="#9CA3AF">→</text>
+  <rect x="230" y="1280" width="80" height="20" rx="4" fill="#00E65B"/>
+  <text x="270" y="1294" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="10" fill="#000000">VERDE</text>
+  <text x="340" y="1294" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">#00E65B</text>
+
+  <!-- Claro → Azul -->
+  <rect x="600" y="1260" width="500" height="60" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <rect x="620" y="1280" width="80" height="20" rx="4" fill="#FFFFFF" stroke="rgba(0,0,0,0.08)" stroke-width="1"/>
+  <text x="660" y="1294" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="10" fill="#000000">CLARO</text>
+  <text x="730" y="1294" font-family="'Inter',sans-serif" font-weight="400" font-size="12" fill="#666666">→</text>
+  <rect x="750" y="1280" width="80" height="20" rx="4" fill="#0066FF"/>
+  <text x="790" y="1294" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="600" font-size="10" fill="#FFFFFF">AZUL</text>
+  <text x="860" y="1294" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#666666">#0066FF</text>
+
+  <!-- ═══════════ 07 CARROSSEL ═══════════ -->
+  <text x="80" y="1370" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">07 PADRÃO DE CARROSSEL</text>
+  <line x1="80" y1="1380" x2="340" y2="1380" stroke="#00E65B" stroke-width="1"/>
+
+  <!-- Slide escuro -->
+  <rect x="80" y="1400" width="160" height="200" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="160" y="1440" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#FFFFFF">Título</text>
+  <text x="160" y="1460" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#9CA3AF">Subtítulo</text>
+  <line x1="110" y1="1480" x2="210" y2="1480" stroke="#00E65B" stroke-width="1.5"/>
+  <text x="160" y="1520" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="10" fill="#FFFFFF">APSIDE</text>
+  <text x="160" y="1580" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="9" fill="#6B7280">Slide escuro → verde</text>
+
+  <!-- Slide claro -->
+  <rect x="260" y="1400" width="160" height="200" rx="8" fill="#FFFFFF" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <text x="340" y="1440" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#000000">Título</text>
+  <text x="340" y="1460" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#666666">Subtítulo</text>
+  <line x1="290" y1="1480" x2="390" y2="1480" stroke="#0066FF" stroke-width="1.5"/>
+  <text x="340" y="1520" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="10" fill="#000000">APSIDE</text>
+  <text x="340" y="1580" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="9" fill="#999999">Slide claro → azul</text>
+
+  <!-- Slide escuro 2 -->
+  <rect x="440" y="1400" width="160" height="200" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="520" y="1440" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#FFFFFF">Título</text>
+  <text x="520" y="1460" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#9CA3AF">Subtítulo</text>
+  <line x1="470" y1="1480" x2="570" y2="1480" stroke="#00E65B" stroke-width="1.5"/>
+  <text x="520" y="1520" text-anchor="middle" font-family="'DM Sans',sans-serif" font-weight="700" font-size="10" fill="#FFFFFF">APSIDE</text>
+  <text x="520" y="1580" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="9" fill="#6B7280">Alternância</text>
+
+  <!-- Regras do carrossel -->
+  <rect x="620" y="1400" width="480" height="200" rx="8" fill="#1F2133" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="640" y="1430" font-family="'DM Sans',sans-serif" font-weight="600" font-size="13" fill="#FFFFFF">Regras</text>
+  <text x="640" y="1455" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">• Logo no topo</text>
+  <text x="640" y="1475" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">• Ícone + @handle canto inferior</text>
+  <text x="640" y="1495" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">• Régua = cor de destaque do slide</text>
+  <text x="640" y="1515" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">• Nunca gradiente atrás de texto</text>
+  <text x="640" y="1535" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">• Roxo só se presente desde slide 1</text>
+  <text x="640" y="1555" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">• Nunca dois fundos iguais seguidos</text>
+  <text x="640" y="1580" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">1080×1080px · 7 slides</text>
+
+  <!-- ═══════════ FOOTER ═══════════ -->
+  <rect x="0" y="1640" width="1200" height="160" fill="#1F2133"/>
+  <rect x="0" y="1640" width="1200" height="2" fill="url(#g)"/>
+
+  <!-- Checklist -->
+  <text x="80" y="1680" font-family="'DM Sans',sans-serif" font-weight="700" font-size="14" fill="#00E65B" letter-spacing="2">CHECKLIST</text>
+
+  <text x="80" y="1710" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Cores na paleta</text>
+  <text x="280" y="1710" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Fontes DM Sans / Inter</text>
+  <text x="510" y="1710" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Logo versão correta</text>
+  <text x="720" y="1710" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Ícone versão correta</text>
+
+  <text x="80" y="1735" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Bordas e sombras OK</text>
+  <text x="280" y="1735" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Sem cores aleatórias</text>
+  <text x="480" y="1735" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Sem buzzwords</text>
+  <text x="640" y="1735" font-family="'Inter',sans-serif" font-weight="400" font-size="11" fill="#9CA3AF">☑ Gradiente só em destaque</text>
+
+  <!-- Créditos -->
+  <text x="600" y="1775" text-anchor="middle" font-family="'Inter',sans-serif" font-weight="400" font-size="10" fill="#6B7280">APSIDE — Brand Kit v1.0 — Setembro 2026</text>
+</svg>
