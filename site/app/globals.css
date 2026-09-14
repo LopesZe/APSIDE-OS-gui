@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: {{BG_COLOR}};
+  --navy-soft: {{BG_COLOR_SOFT}};
+  --green: {{PRIMARY_COLOR}};
+  --blue: {{ACCENT_COLOR}};
+  --ink: {{INK_COLOR}};
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-[1200px] px-5 md:px-8;
+}
+
+::selection {
+  background: {{PRIMARY_COLOR}};
+  color: {{BG_COLOR}};
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: {{BG_COLOR}};
+}
