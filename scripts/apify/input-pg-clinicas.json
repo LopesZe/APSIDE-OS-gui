@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "clínica odontológica em Ponta Grossa PR",
+    "dentista Ponta Grossa Paraná",
+    "clínica de estética Ponta Grossa"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

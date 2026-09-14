@@ -1,0 +1,6103 @@
+[
+  {
+    "title": "R. do Dentista - Periquitos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": null,
+    "address": "Periquitos, Ponta Grossa - Paraná, 84065-050, Brazil",
+    "neighborhood": "Periquitos",
+    "street": null,
+    "city": "Ponta Grossa",
+    "postalCode": "84065-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0484601,
+      "lng": -50.2681458
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSTMGS94V6JQREiZpNjXsQ0k",
+    "categories": [],
+    "fid": "0x94e815de4b063349:0x4943ec3536692612",
+    "cid": "5279322901498635794",
+    "reviewsCount": null,
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:22.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=R.%20do%20Dentista%20-%20Periquitos&query_place_id=ChIJSTMGS94V6JQREiZpNjXsQ0k",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "dentista Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/1ymt0k8hx",
+    "businessProfileId": null
+  },
+  {
+    "title": "Centro Estético Sculpt",
+    "subTitle": "Clínica de Estética Virtuosa - Ponta Grossa",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Col - R. Cel. Francisco Ribas, 240 - Centro, Ponta Grossa - PR, 84010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "Col - R. Cel. Francisco Ribas, 240",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98418-3750",
+    "phoneUnformatted": "+5542984183750",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0918985,
+      "lng": -50.1625996
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO9TvmJQb6JQRmlT8HI7eE8s",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b9498efd43b:0xcb13de8e1cfc549a",
+    "cid": "14633284316209894554",
+    "reviewsCount": 110,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 3,
+      "threeStar": 7,
+      "fourStar": 10,
+      "fiveStar": 83
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.993Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Est%C3%A9tico%20Sculpt&query_place_id=ChIJO9TvmJQb6JQRmlT8HI7eE8s",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWml6BwbCvD02Y73f8pAvYxX2NMF0rSxnpvkIrG2jA37xU3cVTDBdujFBFMMYfUHBUYBR44EQnR2lS-yKmL74YnFQD6s4XVFeV1UNaNiupF39cLsXvZIIKmblHSgw2Tc25mnQPDPLQ=w408-h544-k-no",
+    "kgmid": "/g/11j6rv0fbn",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dra Fernanda Milan | Longevidade Estética | Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Rua Quinze de Setembro, 1383 Jardim Conceição - Neves, Ponta Grossa - PR, 84020-050, Brazil",
+    "neighborhood": "Neves",
+    "street": "Rua Quinze de Setembro, 1383 Jardim Conceição",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/dra.fernandamilan",
+    "phone": "+55 42 99914-9149",
+    "phoneUnformatted": "+5542999149149",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0816859,
+      "lng": -50.1316825
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8wTd-FAb6JQRGX_BHz_QjsY",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b50f8dd04f3:0xc68ed03f1fc17f19",
+    "cid": "14307602035736936217",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 59
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.993Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra%20Fernanda%20Milan%20%7C%20Longevidade%20Est%C3%A9tica%20%7C%20Ponta%20Grossa&query_place_id=ChIJ8wTd-FAb6JQRGX_BHz_QjsY",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlG4M6Sb_qD38xusnmsunfM2GmKCnFCIPh6N8LLdJNuU0xP65n6hGMsl0vs9uYdtcI28-eQEfvZE8c0dF-rgyxh913RyH-g90kMj4K4HQxxj6Y7M1EnBCgi0WKEPTtOjNL4sUw=w408-h544-k-no",
+    "kgmid": "/g/11kq8ffffw",
+    "businessProfileId": "8494519925895552156"
+  },
+  {
+    "title": "Giselle Bortolin Estética Avançada | Clínica Estética em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. João Gualberto, 381 - Colonia Dona Luiza, Ponta Grossa - PR, 84046-070, Brazil",
+    "neighborhood": "Colonia Dona Luiza",
+    "street": "R. João Gualberto, 381",
+    "city": "Ponta Grossa",
+    "postalCode": "84046-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://gisellebortolinesteticaavancadapg.querooferta.net.br/giselle-bortolin-estetica-avancada-harmonizacao-facial-em-ponta-grossa",
+    "phone": "+55 42 99914-2820",
+    "phoneUnformatted": "+5542999142820",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1364352,
+      "lng": -50.1685742
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJWGntr0a6JQRYzl_x4bALrM",
+    "categories": [
+      "Health and beauty shop",
+      "Hair removal service",
+      "Beautician",
+      "Massage spa",
+      "Nail salon",
+      "Sauna"
+    ],
+    "fid": "0x94e81abdb6a76125:0xb32ec086c77f3963",
+    "cid": "12911468866822945123",
+    "reviewsCount": 94,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 93
+    },
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.993Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Sauna": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restaurant": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Giselle%20Bortolin%20Est%C3%A9tica%20Avan%C3%A7ada%20%7C%20Cl%C3%ADnica%20Est%C3%A9tica%20em%20Ponta%20Grossa&query_place_id=ChIJJWGntr0a6JQRYzl_x4bALrM",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWneBbBaTqG_5xSp4sSY4aVYI99TCU03nRZifdNoLwGXvSRxlxlxA-9V_iYpZHONHYcQXwBqq-KPue354F50bn2QkkpZwxaygADxxm3KxUy-I2TKnKCb42yodHXicMnMOeMfYet0lsuOKbjG=w408-h272-k-no",
+    "kgmid": "/g/11fylldcz2",
+    "businessProfileId": "7470375666026830273"
+  },
+  {
+    "title": "Emporium da Beleza Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Mal. Deodoro da Fonseca, 128 - Centro, Ponta Grossa - PR, 84010-030, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Deodoro da Fonseca, 128",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/emporiumdabeleza.pontagrossa",
+    "phone": "+55 42 99833-4545",
+    "phoneUnformatted": "+5542998334545",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.096938,
+      "lng": -50.1569217
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoS0AyGsb6JQREw_bMtCkIyI",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81b6bc8002da1:0x2223a4d032db0f13",
+    "cid": "2459991035587792659",
+    "reviewsCount": 153,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 151
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Emporium%20da%20Beleza%20Ponta%20Grossa&query_place_id=ChIJoS0AyGsb6JQREw_bMtCkIyI",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxJXLX8lQAsOhBxjKfc9jZksdfqaL-UMc9HHYSF35eTvvVFafG-hZtrV7VRRNph8k1QI0IoI1QEg54tx8WF03j6V0RwF8BfvIFHGGunwc-kleKFd-3gm6njMeZtudeZQw8xTDllA=w408-h272-k-no",
+    "kgmid": "/g/11q9n_1c9w",
+    "businessProfileId": "6101956174827221386"
+  },
+  {
+    "title": "Clínica Essense Esthetics",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Eusébio Batista Rosas, 683 - Jardim Carvalho, Ponta Grossa - PR, 84015-470, Brazil",
+    "neighborhood": "Jardim Carvalho",
+    "street": "Av. Eusébio Batista Rosas, 683",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-470",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99827-6975",
+    "phoneUnformatted": "+5542998276975",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0795568,
+      "lng": -50.1578577
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhQnfbd8b6JQR1VjTl5tJ3hM",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Doctor"
+    ],
+    "fid": "0x94e81bdf6ddf0985:0x13de499b97d358d5",
+    "cid": "1431662664166365397",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 39
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Essense%20Esthetics&query_place_id=ChIJhQnfbd8b6JQR1VjTl5tJ3hM",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1OOAYpyWdTenrq787e4hG8447Xj3kITeWQ6s89k56ysoHHsgFxnn-OzEKF9ttQS6snscJO38SU1l8SjrT7y9a1pJVL0G3MnZXmIwNigi82AGlsvTkkDcM69A-r-iEJmrHsIs4TF3v4oNu=w408-h306-k-no",
+    "kgmid": "/g/11ycz0kr73",
+    "businessProfileId": "11059453291940647187"
+  },
+  {
+    "title": "Clínica Estética MagraSS Ponta Grossa, Emagrecimento, Criolipólise, Tratamento Gordura Localizada, Estria, Celulite, Enzimas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Weight loss service",
+    "address": "R. Dr. Paula Xavier, 1203 - Centro, Ponta Grossa - PR, 84010-270, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Paula Xavier, 1203",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.unidadesmagrass.com.br/ponta-grossa",
+    "phone": "+55 42 98807-1509",
+    "phoneUnformatted": "+5542988071509",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0985201,
+      "lng": -50.1617743
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXdmzWgIb6JQRH3KxlMf7lr8",
+    "categories": [
+      "Weight loss service",
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81b025ab3d95d:0xbf96fbc794b1721f",
+    "cid": "13805498542362554911",
+    "reviewsCount": 183,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 180
+    },
+    "imagesCount": 87,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Est%C3%A9tica%20MagraSS%20Ponta%20Grossa%2C%20Emagrecimento%2C%20Criolip%C3%B3lise%2C%20Tratamento%20Gordura%20Localizada%2C%20Estria%2C%20Celulite%2C%20Enzimas&query_place_id=ChIJXdmzWgIb6JQRH3KxlMf7lr8",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlvC1zG-t4UZvBcI367CTw8m-NfzK3ygp3zyVJVCoPgOwcgUbaX23mJYE3DLlBFULmnXLRMvWvYi-uNacCbP4dVp32WLxNAGe8PqG3RzOaa8rZrx1NOm19cpVXdyiO2JelAc_zF5JpDqGya=w408-h272-k-no",
+    "kgmid": "/g/11lyjrg7vn",
+    "businessProfileId": "4315076702237146937"
+  },
+  {
+    "title": "Clínica Monnyer Slusars I Estética Facial e Corporal em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Aldo Vergani, 334 - Sl 02 - Oficinas, Ponta Grossa - PR, 84036-150, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Aldo Vergani, 334 - Sl 02",
+    "city": "Ponta Grossa",
+    "postalCode": "84036-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://monnyerslusars.com.br/",
+    "phone": "+55 42 99872-5420",
+    "phoneUnformatted": "+5542998725420",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1201892,
+      "lng": -50.1515218
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjf1RjzcZ6JQRgZY5-5V0iM4",
+    "categories": [
+      "Specialized clinic",
+      "Beautician",
+      "Esthetics service",
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e819378f51fd8d:0xce887495fb399681",
+    "cid": "14882273156159608449",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 52,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Monnyer%20Slusars%20I%20Est%C3%A9tica%20Facial%20e%20Corporal%20em%20Ponta%20Grossa&query_place_id=ChIJjf1RjzcZ6JQRgZY5-5V0iM4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKQXj-QN4A-HAhd00_JBdJ6YJjQZgUah0JJnN_DjLVgd5aUrf0Qioc2nlhN8XiO8iTfmuuxGwdHzl2sqUeGecylIJSJFRu9a91M8GUvhJzQNzdq2pg9_fLUViGgJbGipgIqb96zPTN9mP3=w408-h544-k-no",
+    "kgmid": "/g/11y1vyq21c",
+    "businessProfileId": "4772531221636488131"
+  },
+  {
+    "title": "Homenz Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Cel. Dulcídio, 167 - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 167",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://homenzpg.com.br/",
+    "phone": "+55 42 99995-7052",
+    "phoneUnformatted": "+5542999957052",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0996407,
+      "lng": -50.1608199
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzdfnYeIb6JQRq0oZfYKmmIA",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81be261e7d7cd:0x8098a6827d194aab",
+    "cid": "9266339312689564331",
+    "reviewsCount": 69,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 67
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Homenz%20Ponta%20Grossa&query_place_id=ChIJzdfnYeIb6JQRq0oZfYKmmIA",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3JEWVyvRHogFvhBE-pO4f_xACw-SnOTORFLW_Xeb2i-P7p756pa__zP1Z-kgMB2CMRXtPuBWADveAIaFnwlRuvWayn7Fc7Cq413i_dj02x4bRI13mc9-iDgbQq-o1GBvWl1A=w408-h408-k-no",
+    "kgmid": "/g/11w7mhgtpp",
+    "businessProfileId": "15572199759694890858"
+  },
+  {
+    "title": "Clínica Corpo e Arte - Medicina e Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Cel. Dulcídio, 08 - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 08",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.clinicacea.com.br/",
+    "phone": "+55 42 3223-4101",
+    "phoneUnformatted": "+554232234101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1037809,
+      "lng": -50.159328
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3WvJ-lwa6JQRAclH_cKl0jk",
+    "categories": [
+      "Health and beauty shop",
+      "Doctor"
+    ],
+    "fid": "0x94e81a5cfac96bdd:0x39d2a5c2fd47c901",
+    "cid": "4166574862162708737",
+    "reviewsCount": 287,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 283
+    },
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Recycling": [
+        {
+          "Electronics": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Corpo%20e%20Arte%20-%20Medicina%20e%20Est%C3%A9tica&query_place_id=ChIJ3WvJ-lwa6JQRAclH_cKl0jk",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmx-7nAu8dtINRusHu_rIMKhOVfSzylvyRndhC6p7N1DV0W5eNPM5BhqeUXc31PKXtKqptQqmBxn53Gbzj7o1Zvf-ecOeIBuSn636TsBHYEqAc3jmlq8zB7COBgTc7pnOqfGmk=w408-h272-k-no",
+    "kgmid": "/g/11h0p3g9b",
+    "businessProfileId": "10986167879666424075"
+  },
+  {
+    "title": "Ad Clinic - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Cel. Dulcídio, 1226 - Centro, Ponta Grossa - PR, 84010-045, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 1226",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-045",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3323-4276",
+    "phoneUnformatted": "+554233234276",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0902487,
+      "lng": -50.1618162
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK3uv10Ia6JQRDRHPWo-D6uE",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81a42d7af7b2b:0xe1ea838f5acf110d",
+    "cid": "16278968454811160845",
+    "reviewsCount": 537,
+    "reviewsDistribution": {
+      "oneStar": 35,
+      "twoStar": 11,
+      "threeStar": 25,
+      "fourStar": 26,
+      "fiveStar": 440
+    },
+    "imagesCount": 47,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ad%20Clinic%20-%20Ponta%20Grossa&query_place_id=ChIJK3uv10Ia6JQRDRHPWo-D6uE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngmxop_jPDJ9l3IaOMXgMwhSZOkFXDp8GIRgHG5JmAMdg2z3C2mIEjzuaT2TAF2WsdnSW6kjJWha6ntl5kNeIW7T_6rgrbki-aWXJ_VPqxSfRJga5pM6v2Ryn9eU5yCWi-IxOWMNFRRuo=w408-h270-k-no",
+    "kgmid": "/g/11c67s66rw",
+    "businessProfileId": "2554642450915661971"
+  },
+  {
+    "title": "La Bella Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. General Carlos Cavalcanti, 1255 - Uvaranas, Ponta Grossa - PR, 84025-000, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. General Carlos Cavalcanti, 1255",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99909-3400",
+    "phoneUnformatted": "+5542999093400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0911907,
+      "lng": -50.1399627
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSfItVD8b6JQRxfgNd_IIG3g",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b3f542df249:0x781b08f2770df8c5",
+    "cid": "8654520946395052229",
+    "reviewsCount": 34,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 31
+    },
+    "imagesCount": 54,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Bella%20Est%C3%A9tica&query_place_id=ChIJSfItVD8b6JQRxfgNd_IIG3g",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOcm2o5oDc5mlN1MibfOrwQ-kS3u5bj_aSNmye-WyFQulBpXJz1LSxN0uKMQLIOTz8jnujqRInJNYc9r34IOT8VVXxlkYL1v9gSBtciaKbqpre3zwJ6Mv7LYl6IYNWbK_7MvAwr6PYwymf=w408-h272-k-no",
+    "kgmid": "/g/11qnvn1l45",
+    "businessProfileId": "6039512305163940012"
+  },
+  {
+    "title": "Clínica Lavie - Ponta Grossa | Estética e Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Siqueira Campos, 606 - Uvaranas, Ponta Grossa - PR, 84031-030, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. Siqueira Campos, 606",
+    "city": "Ponta Grossa",
+    "postalCode": "84031-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://soulavie.com.br/",
+    "phone": "+55 42 99931-4529",
+    "phoneUnformatted": "+5542999314529",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0984157,
+      "lng": -50.1262808
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-8Ufff8b6JQRWz5E0soR4MQ",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental laboratory",
+      "Dentist",
+      "Health spa",
+      "Laser hair removal service",
+      "Massage therapist",
+      "Tattoo removal service"
+    ],
+    "fid": "0x94e81bff7d1fc5fb:0xc4e011cad2443e5b",
+    "cid": "14186358389025816155",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.994Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        },
+        {
+          "Restaurant": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Lavie%20-%20Ponta%20Grossa%20%7C%20Est%C3%A9tica%20e%20Odontologia&query_place_id=ChIJ-8Ufff8b6JQRWz5E0soR4MQ",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBkS0ou33wOKGWqVkChhoxibw-pNI5XUSVrNtxYMk-uYXtxE2vQlyFD3ybev8XhlG2kpbdEBNQ1r7_ambMlYtqP93JHHHyK115ToqyUTmGCkVo_-X4NluhchYWu-XkVAwyM4l4GUybtmg=w408-h725-k-no",
+    "kgmid": "/g/11mdxrczyw",
+    "businessProfileId": "13159520675193522546"
+  },
+  {
+    "title": "Clínica de Estética Avançada Dra Cris Assunção I Ponta Grossa Centro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Tiradentes, 377 - Centro, Ponta Grossa - PR, 84010-190, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tiradentes, 377",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99147-7035",
+    "phoneUnformatted": "+5542991477035",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0899852,
+      "lng": -50.1570891
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGZLtQ2gb6JQR6gJhw9ERj3c",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b6843ed9219:0x778f11d1c36102ea",
+    "cid": "8615124204806800106",
+    "reviewsCount": null,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Recycling": [
+        {
+          "Electronics": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "Paid parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Est%C3%A9tica%20Avan%C3%A7ada%20Dra%20Cris%20Assun%C3%A7%C3%A3o%20I%20Ponta%20Grossa%20Centro&query_place_id=ChIJGZLtQ2gb6JQR6gJhw9ERj3c",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgD7-Uv8VUjYxxuopHS-z4-YYgAU8V6clRgAs29e2lZlYyQVEX1HpkGqtN7HZ-AjGTkn3NYXAFpDDxm3axekuYXRpQC84sfJKIFDQ4SDCDAIWIZntJgeLCMHiWElF3Ui__aoMZD4igy9Cz=w408-h408-k-no",
+    "kgmid": "/g/11yrcgnmsv",
+    "businessProfileId": "5467082860572033036"
+  },
+  {
+    "title": "Clínica Biavatti Ponta Grossa - Botox, Preenchimento, Estética e Bioestimulador de Colágeno",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Balduíno Taques, 1439 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 1439",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 2702-1873",
+    "phoneUnformatted": "+554227021873",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0871924,
+      "lng": -50.1650299
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUf8RfwIb6JQR4RfEu1POWrE",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81b027f11ff51:0xb15ace53bbc417e1",
+    "cid": "12779753751645001697",
+    "reviewsCount": 95,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 88
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Biavatti%20Ponta%20Grossa%20-%20Botox%2C%20Preenchimento%2C%20Est%C3%A9tica%20e%20Bioestimulador%20de%20Col%C3%A1geno&query_place_id=ChIJUf8RfwIb6JQR4RfEu1POWrE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8QqS8zoHTO4vZyFEn8iYke0BTTntrKbIzU3ptObXZJAQ6GQ4TtxX2bEV7UnRkQD9FhveHnPbDmu2CTvahxb8QD6mK9b33nEwRYn9B0tajXLDgvWgnx2uDV-7c1k-ATJvVVrOa=w408-h272-k-no",
+    "kgmid": "/g/11pdgnjg4r",
+    "businessProfileId": "17025728210773161337"
+  },
+  {
+    "title": "Estética Essência da Pele",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. República da Argentina, 277 - Órfãs, Ponta Grossa - PR, 84015-410, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. República da Argentina, 277",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-410",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99107-3200",
+    "phoneUnformatted": "+5542991073200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0789752,
+      "lng": -50.1652095
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLVZ4W0Eb6JQR1c2OcfRuuSY",
+    "categories": [
+      "Health and beauty shop",
+      "Facial spa",
+      "Foot bath",
+      "Hair removal service",
+      "Laser hair removal service",
+      "Massage therapist",
+      "Wellness center"
+    ],
+    "fid": "0x94e81b415b78562d:0x26b96ef4718ecdd5",
+    "cid": "2790383440288992725",
+    "reviewsCount": 222,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 219
+    },
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Ess%C3%AAncia%20da%20Pele&query_place_id=ChIJLVZ4W0Eb6JQR1c2OcfRuuSY",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkb6srormSyLugyYxoucxc6Rq95zyYBP5bRziTEFocJLUmrTUU0As78u346aiUUZMN_FQnnl_D_wdEgQYKpCnPq5bZ0AY31azY-87FDZfDhhmbtdDQGf2bUEALmooFCcsty7AOy=w408-h307-k-no",
+    "kgmid": "/g/11fd4d213d",
+    "businessProfileId": "2229859050851870536"
+  },
+  {
+    "title": "Clínica Corpo e Arte - Matriz",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Occupational safety and health",
+    "address": "R. Tiradentes, 1025 - Centro, Ponta Grossa - PR, 84010-190, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tiradentes, 1025",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3027-4101",
+    "phoneUnformatted": "+554230274101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0907041,
+      "lng": -50.1636158
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM4CWJ4Ub6JQR2t2BcbTxXU8",
+    "categories": [
+      "Occupational safety and health"
+    ],
+    "fid": "0x94e81b8527968033:0x4f5df1b47181ddda",
+    "cid": "5718992859131141594",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 14
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Corpo%20e%20Arte%20-%20Matriz&query_place_id=ChIJM4CWJ4Ub6JQR2t2BcbTxXU8",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm309a9Oie-YV5RdnFI2rJthg5DcjuHFhtyOsn_UktwHzk-6WSAmxJjzLYS2EpmpKZbFTNj02yLb4mH6B_H_RpJ1bhTM0hkmjddW9ZQvHGSagrrZ3B893aqj4nPkOc38iBJZLwJ=w408-h306-k-no",
+    "kgmid": "/g/11s9vvb8d6",
+    "businessProfileId": "9788428196801795940"
+  },
+  {
+    "title": "Estética Flor da Pele",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Barão de Capanema, 886 - Órfãs, Ponta Grossa - PR, 84070-290, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Barão de Capanema, 886",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://beacons.ai/clinicaesteticaflordapele",
+    "phone": "+55 42 98434-6370",
+    "phoneUnformatted": "+5542984346370",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.07912,
+      "lng": -50.170516
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ-ClcUIb6JQRxMFRCC6Ox74",
+    "categories": [
+      "Health and beauty shop",
+      "Esthetics service",
+      "Health spa",
+      "Wellness center"
+    ],
+    "fid": "0x94e81b4271a5e027:0xbec78e2e0851c1c4",
+    "cid": "13747112715930943940",
+    "reviewsCount": 41,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 41
+    },
+    "imagesCount": 65,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restaurant": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Flor%20da%20Pele&query_place_id=ChIJJ-ClcUIb6JQRxMFRCC6Ox74",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJUvEBD7qEo8LTD1MBCtscqn91J76iG0oBcSK_oBOYqc2GncuVviLIqsykBZ1m2gVcys17RM6fZv1h-aqDtdhxdwzDJ_WQBna47f08ZZGODiQo9Vk4T-S9vL4RPq5ewgyQ5udrBg=w408-h408-k-no",
+    "kgmid": "/g/11h51218lc",
+    "businessProfileId": "17769883164245825866"
+  },
+  {
+    "title": "Lu estética facial e corporal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Santa Rita, 140 - Casa 118 - Cará-Cará, Ponta Grossa - PR, 84033-170, Brazil",
+    "neighborhood": "Cará-Cará",
+    "street": "R. Santa Rita, 140 - Casa 118",
+    "city": "Ponta Grossa",
+    "postalCode": "84033-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98433-2325",
+    "phoneUnformatted": "+5542984332325",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1223946,
+      "lng": -50.1063197
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJISXQaJMb6JQRGEQ1v_vsz6I",
+    "categories": [
+      "Specialized clinic",
+      "Beauty salon",
+      "Facial spa",
+      "Massage spa",
+      "Beautician",
+      "Hairdresser"
+    ],
+    "fid": "0x94e81b9368d02521:0xa2cfecfbbf354418",
+    "cid": "11731856120312316952",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 19
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 to 11 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lu%20est%C3%A9tica%20facial%20e%20corporal&query_place_id=ChIJISXQaJMb6JQRGEQ1v_vsz6I",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1SGyKBNmIyFdd_ar9KchvVKz20EoWT4aLDJft-4p4o3zpyCmQv_bOPCooIEOch3qIDtHLCh9DKBIqpSglkZm_3sMKAs4lY2XFQ_rGO6v3lzS4O_iFngdHs_gtrBqa4BAfPBoJvw7mcohf=w408-h543-k-no",
+    "kgmid": "/g/11z5_n5p3g",
+    "businessProfileId": "547752678998250992"
+  },
+  {
+    "title": "L'Essence Saúde Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Quinze de Setembro, 184 - Uvaranas, Ponta Grossa - PR, 84020-050, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Quinze de Setembro, 184",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99901-4835",
+    "phoneUnformatted": "+5542999014835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0884803,
+      "lng": -50.1431276
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ717GxEoa6JQR33eezP4Wc5w",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81a4ac4c65eef:0x9c7316fecc9e77df",
+    "cid": "11273379575848925151",
+    "reviewsCount": 50,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 50
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=L'Essence%20Sa%C3%BAde%20Est%C3%A9tica&query_place_id=ChIJ717GxEoa6JQR33eezP4Wc5w",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzg6jrzpo9A8iSz0XgDTqZaP84diKbhgVc3VMWuxFn-nTrZf-ZgBz0AbhH6fouHHhFvL0WZP7Bz_AqKP4arsjX_V7GyFgNds39Uckv2JcfP8RvRZESbTmDobP7KVZtsRWiUV5Y7w=w513-h240-k-no",
+    "kgmid": "/g/11b7t38trm",
+    "businessProfileId": "8047174668910413653"
+  },
+  {
+    "title": "Patty Belli | SPA | Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beauty salon",
+    "address": "R. Bahia, 123 - Nova Rússia, Ponta Grossa - PR, 84070-300, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Bahia, 123",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://pattybelli.com.br/",
+    "phone": "+55 42 3025-3749",
+    "phoneUnformatted": "+554230253749",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0857939,
+      "lng": -50.1750428
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK2M2DQUa6JQRbsYI76uCrTo",
+    "categories": [
+      "Beauty salon",
+      "Facial spa",
+      "Spa"
+    ],
+    "fid": "0x94e81a050d36632b:0x3aad82abef08c66e",
+    "cid": "4228179300132111982",
+    "reviewsCount": 89,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 82
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:32:58.995Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Patty%20Belli%20%7C%20SPA%20%7C%20Est%C3%A9tica&query_place_id=ChIJK2M2DQUa6JQRbsYI76uCrTo",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa?hl=en",
+    "searchString": "clínica de estética Ponta Grossa",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfQ6FcKElEH4PfvBQfxqkXpFfE-1qo73doxLeMoyc6SaOzc9OHE23NM3WWou_kJh-ywGRrxdqs7zvsxmVhXGt_OUJSs-0YUSBCuct02zvcxHJ2MqfZTh9NmFFJzGdZTdb334uW3Q=w426-h240-k-no",
+    "kgmid": "/g/11csqjpcrv",
+    "businessProfileId": "544608958709353343"
+  },
+  {
+    "title": "Sorria Sim Clínicas Odontológicas - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Cel. Cláudio, 276 - Centro, Ponta Grossa - PR, 84010-120, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Cláudio, 276",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://sorriasimpg.com.br/",
+    "phone": "+55 42 99166-9475",
+    "phoneUnformatted": "+5542991669475",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0940145,
+      "lng": -50.1588234
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYbsl-Vcb6JQRIoVhJXw3Mvk",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81b57f925bb61:0xf932377c25618522",
+    "cid": "17956475670622209314",
+    "reviewsCount": 112,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 105
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.794Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sorria%20Sim%20Cl%C3%ADnicas%20Odontol%C3%B3gicas%20-%20Ponta%20Grossa&query_place_id=ChIJYbsl-Vcb6JQRIoVhJXw3Mvk",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6Qb_IPhMXSVHFnkD0wL6PjuXkCzx8_HkXLPJElEPwXF1EQU1_mUYKK24s49RFcjqn9oIkEgsGOaKDL2rF066r4AEO4R-TmsgoDektAY8C1V2kRJ_HAi04lRitQmGj42pTTpM=w408-h544-k-no",
+    "kgmid": "/g/11sxwy2t9x",
+    "businessProfileId": "1513269564212347100"
+  },
+  {
+    "title": "Oral Clin - Clínica Odontológica - Implante dentário",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Dr. Penteado de Almeida, 365 - Centro, Ponta Grossa - PR, 84010-240, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Penteado de Almeida, 365",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-240",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://oralclinodontologia.com.br/",
+    "phone": "+55 42 99831-9292",
+    "phoneUnformatted": "+5542998319292",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.086561,
+      "lng": -50.162263
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE716kj0a6JQRyCcHWuvBChs",
+    "categories": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist"
+    ],
+    "fid": "0x94e81a3d927abd13:0x1b0ac1eb5a0727c8",
+    "cid": "1948583005363054536",
+    "reviewsCount": 594,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 589
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oral%20Clin%20-%20Cl%C3%ADnica%20Odontol%C3%B3gica%20-%20Implante%20dent%C3%A1rio&query_place_id=ChIJE716kj0a6JQRyCcHWuvBChs",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlI_Vxph3Gw0VCQINtbGCIl1QX6ukJIARBxSvGU-a-mGrW_dACCiz-aP1mfnzFA84dL-6Whim8o8vBjcEkWVfu3Kyw6Zahut8v7NsW3jWWPOcArVAAQCFhGQjc2ASxzfxqn7inKqm0JzLEH=w408-h306-k-no",
+    "kgmid": "/g/11dxf13vv8",
+    "businessProfileId": "5511559152642595711"
+  },
+  {
+    "title": "Spa Sorriso - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Aldo Vergani, 119 - Oficinas, Ponta Grossa - PR, 84036-150, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Aldo Vergani, 119",
+    "city": "Ponta Grossa",
+    "postalCode": "84036-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/odontologiaspasorriso",
+    "phone": "+55 42 99811-2060",
+    "phoneUnformatted": "+5542998112060",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1199293,
+      "lng": -50.1540294
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK6kq75Qb6JQR2N-vIIt114A",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94e81b94ef2aa92b:0x80d7758b20afdfd8",
+    "cid": "9284018397256867800",
+    "reviewsCount": 78,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 76
+    },
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spa%20Sorriso%20-%20Ponta%20Grossa&query_place_id=ChIJK6kq75Qb6JQR2N-vIIt114A",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkG8xPhBzJMG5H_u2fu8GXJZBeHNKjELSwZKqg_QsgUbeXc41HciklKdBpUWh6E4t8ft7wtij7HwOQ577WYCUFnjfKoBEQJP7dyP-I5nYQtY2byTo90KwUPffO9yhrPM7nXokuxkw=w408-h612-k-no",
+    "kgmid": "/g/11q1c_tq6_",
+    "businessProfileId": "7959715320598393157"
+  },
+  {
+    "title": "Coralli",
+    "subTitle": "Coralli Odontologia e Saúde | Ponta Grossa | Implantes dentários | Alinhadores invisíveis | Facetas",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Dr. Francisco Burzio, 964 - Centro - Santa Casa, Ponta Grossa - PR, 84010-200, Brazil",
+    "neighborhood": "Santa Casa",
+    "street": "R. Dr. Francisco Burzio, 964 - Centro",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/coralli_pontagrossa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0898736,
+      "lng": -50.1634928
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJx8ib0Zcb6JQRx9-egy6Tudw",
+    "categories": [
+      "Dental clinic",
+      "Health consultant"
+    ],
+    "fid": "0x94e81b97d19bc8c7:0xdcb9932e839edfc7",
+    "cid": "15904905387021623239",
+    "reviewsCount": 143,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 141
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12:30 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12:30 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12:30 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12:30 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12:30 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Coralli&query_place_id=ChIJx8ib0Zcb6JQRx9-egy6Tudw",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjPNsRHteXPUvCgYFZq4Og2y_fxuzVdH-83oI2-MlW6p75PuzSeSCW-0NFRuhGs5ZhSm6UbW4A9Q4mpNI-sYaduhCsohjFDyYZFLtVRu6ohAp3hPEAow8C86qGiJbzABRaUZOLSwjyGJcS=w408-h359-k-no",
+    "kgmid": "/g/11n47zsm1c",
+    "businessProfileId": "16836054174197949382"
+  },
+  {
+    "title": "be.O Clínica Odontológica - Dr Gustavo Salem",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Edifício Manhattan Clinical - R. Padre Ildefonso, 475 - Sl 54 - Centro, Ponta Grossa - PR, 84010-070, Brazil",
+    "neighborhood": "Centro",
+    "street": "Edifício Manhattan Clinical - R. Padre Ildefonso, 475 - Sl 54",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/be.o_clinicaodontologica/",
+    "phone": "+55 42 98873-5218",
+    "phoneUnformatted": "+5542988735218",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1000558,
+      "lng": -50.16046
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrYw0vL4b6JQRLyODUbqHc8A",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81bbebc348cad:0xc07387ba5183232f",
+    "cid": "13867576911905104687",
+    "reviewsCount": 261,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 259
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid parking garage": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=be.O%20Cl%C3%ADnica%20Odontol%C3%B3gica%20-%20Dr%20Gustavo%20Salem&query_place_id=ChIJrYw0vL4b6JQRLyODUbqHc8A",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleaJ2fnJyEd5ZwsXU1HowwOauVEuGslpMbNbCKfDiEmPcPBDvGAqjfVUkJrZoz3HSBBbOMYCfmU0_Qfv9IEsRhEJkSuS57JhaCDmztwHmhquykfoH65sicOpIzsZ_59025zvtGixov364=w408-h271-k-no",
+    "kgmid": "/g/11h0t99z27",
+    "businessProfileId": "2604362821173029741"
+  },
+  {
+    "title": "Sorriso Ideal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Santos Dumont, 1418 - Centro, Ponta Grossa - PR, 84010-360, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Santos Dumont, 1418",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://sorrisoidealpg.com.br/",
+    "phone": "+55 42 99824-6047",
+    "phoneUnformatted": "+5542998246047",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0888084,
+      "lng": -50.1582767
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy_zv9GYb6JQRedBZ9PxIsOw",
+    "categories": [
+      "Dental clinic",
+      "Oral surgeon",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Orthodontist"
+    ],
+    "fid": "0x94e81b66f4effccb:0xecb048fcf459d079",
+    "cid": "17055212040120553593",
+    "reviewsCount": 413,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 408
+    },
+    "imagesCount": 45,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        },
+        {
+          "Portuguese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sorriso%20Ideal&query_place_id=ChIJy_zv9GYb6JQRedBZ9PxIsOw",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvSDThKbwkkh9gqjmmTApzM_GW7ssvEew3Y6xqzu9u8zWSiG6hynFLStCl0RcdRjY8BitIzsoRMZez8Bez97bEk27z2PC_cgvEO0tWnBkpFxZT6eboOi4CWm5sdY6Kz9aF53U=w452-h240-k-no",
+    "kgmid": "/g/11h6ntnm4h",
+    "businessProfileId": "13710959363408072133"
+  },
+  {
+    "title": "Clínica Odontológica Gamma",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Visc. de Nacar, 242 - Centro, Ponta Grossa - PR, 84010-620, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Visc. de Nacar, 242",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-620",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99849-3334",
+    "phoneUnformatted": "+5542998493334",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0966517,
+      "lng": -50.1633226
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbecqpJcb6JQR_KggjvPgVlE",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81b97a42ae76d:0x5156e0f38e20a8fc",
+    "cid": "5861119301735459068",
+    "reviewsCount": 154,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 154
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Odontol%C3%B3gica%20Gamma&query_place_id=ChIJbecqpJcb6JQR_KggjvPgVlE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4uWTWI9BtuGBbZkKPuk2B6CKy27yKzrm62f5Wg91jqKnEuGfZvPTedWD3sVXP1nWkUzVXhz874h2OOtguh6Gnp9mspGHq7xsMRTQPaOtrF-UpK5bCEmsh2NXTKu7mVmxLIn_MnzO4ziU=w408-h544-k-no",
+    "kgmid": "/g/11x1gvzym6",
+    "businessProfileId": "11443062232088507538"
+  },
+  {
+    "title": "Odontologia CEO",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Gen. Carneiro, 177 - Centro, Ponta Grossa - PR, 84010-370, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Gen. Carneiro, 177",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-370",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://clnicadeespecialidadesodontolg.meudoutor.com/#section-specialty",
+    "phone": "+55 42 99154-7050",
+    "phoneUnformatted": "+5542991547050",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0984619,
+      "lng": -50.156294
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvYrHikQa6JQRFaU0yPOjR-M",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81a448ac78abd:0xe347a3f3c834a515",
+    "cid": "16377238837387371797",
+    "reviewsCount": 255,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 251
+    },
+    "imagesCount": 106,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Odontologia%20CEO&query_place_id=ChIJvYrHikQa6JQRFaU0yPOjR-M",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsjvqNrbrlqe092P_jvKOoSbQZWsnFGmbGn90Y_wnju3W8bJaoa5biE4twX3yR_nduoRVOcQ6ClOl_G7ufuCQbb8cC9CGbZZI1q7UP6sLbwX_kJnb5xBwWRBHbf4Q8rlj3ogLr8k_XNf4=w408-h271-k-no",
+    "kgmid": "/g/11csryft60",
+    "businessProfileId": "1439887847946224078"
+  },
+  {
+    "title": "Clínica Vess Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Oral surgeon",
+    "address": "Manhattan - R. Padre Ildefonso, 475 - Sl 12 Edifício - Centro, Ponta Grossa - PR, 84010-070, Brazil",
+    "neighborhood": "Centro",
+    "street": "Manhattan - R. Padre Ildefonso, 475 - Sl 12 Edifício",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://linktr.ee/clinicavesspg",
+    "phone": "+55 42 99108-0110",
+    "phoneUnformatted": "+5542991080110",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1000558,
+      "lng": -50.16046
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk2boNRYb6JQR6ZZWAwOF2Bk",
+    "categories": [
+      "Oral surgeon"
+    ],
+    "fid": "0x94e81b1635e86693:0x19d88503035696e9",
+    "cid": "1862384693905102569",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 96,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Vess%20Odontologia&query_place_id=ChIJk2boNRYb6JQR6ZZWAwOF2Bk",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnenzZOcQezbXZoguAJklsph-yENB_vgABKJohNcHspH06_fzkhd-Z9urgJAWmmUrF9d9Ij7vmB16p70VNZflNPFpTcHrCQGhBevyUNf1grN1oUZy1103uxJh6_ahyKKYW3ykyXSw=w408-h408-k-no",
+    "kgmid": "/g/11sy71syh2",
+    "businessProfileId": "10503273933880120944"
+  },
+  {
+    "title": "Consultório Odontológico A sua Grife do Sorriso",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Fernandes Pinheiro, 322 - Sl 02 - Centro, Ponta Grossa - PR, 84010-136, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Fernandes Pinheiro, 322 - Sl 02",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-136",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3323-3320",
+    "phoneUnformatted": "+554233233320",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0935799,
+      "lng": -50.1558772
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxyO-_EYa6JQRPXuW0qEo6Zg",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94e81a46fcbe23c7:0x98e928a1d2967b3d",
+    "cid": "11018382638826552125",
+    "reviewsCount": 89,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 85
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Consult%C3%B3rio%20Odontol%C3%B3gico%20A%20sua%20Grife%20do%20Sorriso&query_place_id=ChIJxyO-_EYa6JQRPXuW0qEo6Zg",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4SdKxUX5EkFguq6ssSe58RA6VXZf6M1HdIo0d3--k5eVPLXgdawUl-6lwJFRfSOg8Z4XMK9ZxghYAfX2lGhu8rZ74YdsRXBXXrnXyQHEskWtXHynBMrUTFrBFp8XArJouMYfj3A=w408-h612-k-no",
+    "kgmid": "/g/11bv19gdtk",
+    "businessProfileId": "16388160172348675699"
+  },
+  {
+    "title": "DentalMed PG - Dentista 24 horas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Cel. Francisco Ribas, 270 - Centro, Ponta Grossa - PR, 84010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Francisco Ribas, 270",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://dentalmedpg.com.br/",
+    "phone": "+55 42 99948-3943",
+    "phoneUnformatted": "+5542999483943",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0917556,
+      "lng": -50.1626203
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN6D3Jt8b6JQRy59Z9J45CF4",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81bdf26f7a037:0x5e08399ef4599fcb",
+    "cid": "6775728994246041547",
+    "reviewsCount": 183,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 180
+    },
+    "imagesCount": 63,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Portuguese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        },
+        {
+          "Paid parking garage": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DentalMed%20PG%20-%20Dentista%2024%20horas&query_place_id=ChIJN6D3Jt8b6JQRy59Z9J45CF4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZ3ffdpbScbsaqN_qt28J5m4qmv8lSXMkeH1IGfsmJD8VciW0oZ0w3uhTiqnt42RChZ4LXwGZZ4VrQWkwyv_R997wXtWIDUfOteI0K7wpf75pcKSzx_i9fGkgouMt337NiykMhR9Nax6c=w408-h544-k-no",
+    "kgmid": "/g/11ybxmgq1h",
+    "businessProfileId": "5247762210027615396"
+  },
+  {
+    "title": "Clínica Odontológica Vitadent Uvaranas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Av. Euzébio de Queiróz, 413 - Uvaranas, Ponta Grossa - PR, 84032-000, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. Euzébio de Queiróz, 413",
+    "city": "Ponta Grossa",
+    "postalCode": "84032-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/vitadentuvaranas/",
+    "phone": "+55 42 3225-8024",
+    "phoneUnformatted": "+554232258024",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0989824,
+      "lng": -50.1107358
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu52Y6pQb6JQRqSLZyetucFo",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81b94ea989dbb:0x5a706eebc9d922a9",
+    "cid": "6516830619787928233",
+    "reviewsCount": 254,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 245
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Odontol%C3%B3gica%20Vitadent%20Uvaranas&query_place_id=ChIJu52Y6pQb6JQRqSLZyetucFo",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkbeBwZ5pr_F-qEAfHbkpnPxhPywkrx0VeF2bYNTk_rLNjLxLit7ib4Ad2kqZ5jP--gIGPqLdQLMFjKITgx-AhdsvFhx5gz3twZjfOXhsUo2m76KZFCOW1zbPdgq77EUKzV4yh70k4DfS8=w408-h306-k-no",
+    "kgmid": "/g/11pv30mqjc",
+    "businessProfileId": "2853464825911661808"
+  },
+  {
+    "title": "Odonto WIX - Clínica Odontológica em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Quinze de Setembro, 941 - Uvaranas, Ponta Grossa - PR, 84020-050, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Quinze de Setembro, 941",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://odontowix.com/",
+    "phone": "+55 42 98868-7978",
+    "phoneUnformatted": "+5542988687978",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0845919,
+      "lng": -50.1367626
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRcor_skb6JQRRkXg3N54MBU",
+    "categories": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Dentist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Teeth whitening service"
+    ],
+    "fid": "0x94e81bc9fe2bca45:0x153078dedce04546",
+    "cid": "1526853172262356294",
+    "reviewsCount": 434,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 6,
+      "fiveStar": 422
+    },
+    "imagesCount": 63,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.795Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Odonto%20WIX%20-%20Cl%C3%ADnica%20Odontol%C3%B3gica%20em%20Ponta%20Grossa&query_place_id=ChIJRcor_skb6JQRRkXg3N54MBU",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm9ozZO7PcnvQUY1tt6VOMTqVbTA_5JQAaT8-_LI69rtMcvFkZaA8yA37X8I-il9IGOAQQpb1yH7OSfTOi-6QKg7vt4t57ivYSEonIV9iTC3sdEqaF2KNgTvO5JCGIUbP6v8q8=w534-h240-k-no",
+    "kgmid": "/g/11b76ghjhq",
+    "businessProfileId": "10520846112203049756"
+  },
+  {
+    "title": "Odonto Lavalle - Dentista 24 horas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Barão do Cerro Azul, 744 - Centro, Ponta Grossa - PR, 84010-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Barão do Cerro Azul, 744",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.odontolavalle.com.br/",
+    "phone": "+55 42 99850-1669",
+    "phoneUnformatted": "+5542998501669",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0885349,
+      "lng": -50.1620154
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMWd430Aa6JQR-Qb4eHEb96A",
+    "categories": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Oral and maxillofacial surgeon",
+      "Orthodontist"
+    ],
+    "fid": "0x94e81a40df786731:0xa0f71b7178f806f9",
+    "cid": "11598769539490776825",
+    "reviewsCount": 90,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 88
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Cosmetic dentistry": true
+        },
+        {
+          "Emergency services": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Odonto%20Lavalle%20-%20Dentista%2024%20horas&query_place_id=ChIJMWd430Aa6JQR-Qb4eHEb96A",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmgVcK2EZQhmgB-0jjMYU9oDJCDsL0RkJcVP6RTvCqUPTD1zgtLzNxIgxnAfrsM4nK6fSozztLnb6ctLQOofkwDzeUk_1stjoIL2f94C36N_QsZM-hJZk_ceaduYm64bPCFF6O=w408-h272-k-no",
+    "kgmid": "/g/1q5gn5pc2",
+    "businessProfileId": "13716568204199050385"
+  },
+  {
+    "title": "Odonto San - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Av. Bonifácio Vilela, 750 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 750",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3086-3093",
+    "phoneUnformatted": "+554230863093",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0863205,
+      "lng": -50.1598325
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGbLhVUAb6JQRldGTphCnSZE",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81b4055e1b219:0x9149a710a693d195",
+    "cid": "10469082498755449237",
+    "reviewsCount": 156,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 149
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Odonto%20San%20-%20Ponta%20Grossa&query_place_id=ChIJGbLhVUAb6JQRldGTphCnSZE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUV349BZd09rmh5kfoUp196Oxi8vgNAUWvhYdOyPDth6SRjIfkLeIw1wETgfHkndgCqsEGwxCmPZqsaRQp5U1ZKAB19jyo99WM_TGtqrL37AUubVax6Kf69uClMqtlxrNVYvXUdkuXab42=w408-h725-k-no",
+    "kgmid": "/g/11y3wj5180",
+    "businessProfileId": "10606273101202141126"
+  },
+  {
+    "title": "CN Instituto de Odontologia | Alinhadores | Aparelho Invisivel | Invisalign em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Emílio de Menezes, 914 - Oficinas, Ponta Grossa - PR, 84040-030, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Emílio de Menezes, 914",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://institutocn.com.br/",
+    "phone": "+55 42 99813-6195",
+    "phoneUnformatted": "+5542998136195",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1095637,
+      "lng": -50.160355
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8YVccPob6JQRPSOwzUpAs6M",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e81bfa705c85f1:0xa3b3404acdb0233d",
+    "cid": "11795842539036091197",
+    "reviewsCount": 45,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 45
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CN%20Instituto%20de%20Odontologia%20%7C%20Alinhadores%20%7C%20Aparelho%20Invisivel%20%7C%20Invisalign%20em%20Ponta%20Grossa&query_place_id=ChIJ8YVccPob6JQRPSOwzUpAs6M",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3QSLSdrVxS2kKlcBsNKT-UR2FAStjCtBZ-vnN3GmN7gL39IEYRdUKRCfpgc4j3FCD8q9rM7b3r_zmkF5o_ul1szGwQgP0rifoolzFeN4lQr31WwKKpUSy5SoeUuXFBfm5qn2P8hSqbldE=w408-h544-k-no",
+    "kgmid": "/g/11ynsvcf9h",
+    "businessProfileId": "11633250626370401732"
+  },
+  {
+    "title": "Mais Sorrisos Clinica Odontológica em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Ten. Hinon Silva, 333 - Centro, Ponta Grossa - PR, 84010-140, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Ten. Hinon Silva, 333",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-140",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://maissorrisospg.com.br/",
+    "phone": "+55 42 99840-8750",
+    "phoneUnformatted": "+5542998408750",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.092788,
+      "lng": -50.1546674
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpYJkTjdY3C4R9LpUPfj6Neo",
+    "categories": [
+      "Dental clinic",
+      "Dental implants provider",
+      "Dentist",
+      "Endodontist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "fid": "0x2edc58374e6482a5:0xea35faf83d54baf4",
+    "cid": "16876671122728598260",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 27
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "12–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Pediatric care": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mais%20Sorrisos%20Clinica%20Odontol%C3%B3gica%20em%20Ponta%20Grossa&query_place_id=ChIJpYJkTjdY3C4R9LpUPfj6Neo",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7hRqspeyD0d67NnM78KRm8crHuU_qJk6Kj0I80h_RmVAuEKNusPJ5qqWrfir_g4Xfhmjgimd2kE6ZD0W_deFeNiLs8HkaDkM3jmBlavA79-Yiiy7Y83wsiA9KwJZOIznHiyiAHQ=w408-h271-k-no",
+    "kgmid": "/g/11vs100nl4",
+    "businessProfileId": "298364326317232216"
+  },
+  {
+    "title": "Clínica SB Odontologia Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Estr. José Kalinoski, 39 - Contorno, Ponta Grossa - PR, 84060-160, Brazil",
+    "neighborhood": "Contorno",
+    "street": "Estr. José Kalinoski, 39",
+    "city": "Ponta Grossa",
+    "postalCode": "84060-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://clinicasbodontologia.com/",
+    "phone": "+55 42 3227-2004",
+    "phoneUnformatted": "+554232272004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1046912,
+      "lng": -50.2031752
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqZgYjb8Q6JQRUHycjsAwE0Y",
+    "categories": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental implants provider"
+    ],
+    "fid": "0x94e810bf8d1898a9:0x461330c08e9c7c50",
+    "cid": "5049433210796932176",
+    "reviewsCount": 83,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 82
+    },
+    "imagesCount": 42,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Cosmetic dentistry": true
+        },
+        {
+          "Emergency services": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20SB%20Odontologia%20Ponta%20Grossa&query_place_id=ChIJqZgYjb8Q6JQRUHycjsAwE0Y",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5Foz8GrqKqfTvaYy4Gh_IfYs5jpaQ-IVrhJw5eayQJIO7VAnEcRMhzkTWrXMHncjAghnLAP373eWIU2NTBk0bjShy0ZuA6FfKPIF-8eKZ1zLGTaLZJ0SZcb0V_p4GWy31Exc=w408-h272-k-no",
+    "kgmid": "/g/11gf0vkgc3",
+    "businessProfileId": "8068768265645297938"
+  },
+  {
+    "title": "Clínica de Estética Bucal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Visc. de Nacar, 768 - Centro, Ponta Grossa - PR, 84010-620, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Visc. de Nacar, 768",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-620",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.esteticabucalpg.com.br/",
+    "phone": "+55 42 99822-1144",
+    "phoneUnformatted": "+5542998221144",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0919015,
+      "lng": -50.1645135
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY3hIYWoa6JQRzB8Yq78zKOw",
+    "categories": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "fid": "0x94e81a6a61487863:0xec2833bfab181fcc",
+    "cid": "17016908090321674188",
+    "reviewsCount": 167,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 2,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 159
+    },
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Est%C3%A9tica%20Bucal&query_place_id=ChIJY3hIYWoa6JQRzB8Yq78zKOw",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMahidsX9RS3JMDx4GBzT-enx9vBqIJqCKsfnpn4WrnKxLlEMJ0UP9y5CDX9Qc2mdnlCakvP4tMyocF_vTqJ06l48cpdttwwnFMsQmEcP8fVTSCWW7a30gepU5WhaOyQoCWg_sFew9QQNW=w408-h544-k-no",
+    "kgmid": "/g/1ptzvvpy_",
+    "businessProfileId": "358831531292129158"
+  },
+  {
+    "title": "OdontoCompany | Dentista em Ponta Grossa | Clínica Odontológica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Nicolau Kluppel Neto, 1.503 - Santa Paula, Ponta Grossa - PR, 84061-000, Brazil",
+    "neighborhood": "Santa Paula",
+    "street": "R. Nicolau Kluppel Neto, 1.503",
+    "city": "Ponta Grossa",
+    "postalCode": "84061-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://odontocompany.com/pontagrossasantapaula",
+    "phone": "+55 42 99113-4881",
+    "phoneUnformatted": "+5542991134881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.101234,
+      "lng": -50.2016144
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAwxMBuoR6JQRkwNNVNfohFE",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94e811ea064c0c03:0x5184e8d7544d0393",
+    "cid": "5874075825527915411",
+    "reviewsCount": 225,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 218
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:33:09.796Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OdontoCompany%20%7C%20Dentista%20em%20Ponta%20Grossa%20%7C%20Cl%C3%ADnica%20Odontol%C3%B3gica&query_place_id=ChIJAwxMBuoR6JQRkwNNVNfohFE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica odontológica em Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBx1tz1W1cC6Y6Hmx-boEqIrVfcqzT5gGSFNrMfdscs8j42DrIYDAdLm-w_kLbbpRF-eEHkPgmywILcioMNtZZtz_s7qjx_DQZm8p1ZADKqHNIuM0MbNsU99LZTD1WhjESYJUkvGJkBUk9=w408-h725-k-no",
+    "kgmid": "/g/11ty7spdx5",
+    "businessProfileId": "10636703450104836017"
+  }
+]

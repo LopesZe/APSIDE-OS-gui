@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>APSIDE — Conta Gestor: Escopo do Projeto</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=DM+Sans:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1F2133;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ========== COVER ========== */
+.cover {
+  background: linear-gradient(135deg, #1F2133 0%, #2a2d45 50%, #1F2133 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,230,91,0.3);
+  border-radius: 30px;
+  color: #00E65B;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+.cover h1 {
+  color: #F5ECD7;
+  font-size: 44px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 12px;
+}
+.cover h1 span { color: #00E65B; }
+.cover .subtitle {
+  color: #8a8a8a;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.cover-meta {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+.cover-meta-item { text-align: center; }
+.cover-meta-item .value {
+  color: #F5ECD7;
+  font-size: 32px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: #666;
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #555;
+  font-size: 12px;
+}
+
+/* ========== PAGE HEADER ========== */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 28px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid rgba(255,255,255,0.08);
+}
+.page-header h2 {
+  font-size: 24px;
+  font-weight: 800;
+  color: #F5ECD7;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num { color: #555; font-size: 14px; font-weight: 600; }
+
+/* ========== CLIENT INFO (PAGE 2) ========== */
+.client-info { background: #fff; }
+.info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  flex: 1;
+}
+.info-card {
+  padding: 24px;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+}
+.info-card h3 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #052c65;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #052c65;
+  display: inline-block;
+}
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 12px;
+}
+.info-row:last-child { border-bottom: none; }
+.info-label { color: #888; font-weight: 500; }
+.info-value { color: #333; font-weight: 600; text-align: right; max-width: 60%; }
+
+/* ========== SERVICES TABLE (PAGE 3) ========== */
+.services { background: #fff; }
+.services-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+.services-table th {
+  background: #1F2133;
+  color: #00E65B;
+  padding: 10px 14px;
+  text-align: left;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.services-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 12px;
+  color: #333;
+}
+.services-table tr:hover td { background: #f8f9fa; }
+.complexity-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 9px;
+  font-weight: 600;
+}
+.cx-low { background: #d4edda; color: #155724; }
+.cx-mid { background: #fff3cd; color: #856404; }
+.cx-high { background: #f8d7da; color: #721c24; }
+
+/* ========== PRICING (PAGE 4) ========== */
+.pricing { background: #fff; }
+.pricing-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  flex: 1;
+}
+.pricing-card {
+  border-radius: 14px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #e5e7eb;
+  background: #f8f9fa;
+}
+.pricing-card.featured {
+  background: linear-gradient(135deg, #1F2133, #2a2d45);
+  border-color: #00E65B;
+  position: relative;
+}
+.pricing-card.featured::before {
+  content: 'RECOMENDADO';
+  position: absolute;
+  top: -1px;
+  right: 16px;
+  background: #00E65B;
+  color: #1F2133;
+  padding: 4px 10px;
+  border-radius: 0 0 6px 6px;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.pricing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.pricing-card.featured h3 { color: #F5ECD7; }
+.pricing-card .price {
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 14px;
+}
+.pricing-card .price span { font-size: 12px; font-weight: 500; color: #888; }
+.pricing-card.featured .price { color: #00E65B; }
+.pricing-list { list-style: none; flex: 1; }
+.pricing-list li {
+  padding: 5px 0;
+  font-size: 11px;
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  border-bottom: 1px solid rgba(0,0,0,0.04);
+}
+.pricing-card.featured .pricing-list li { color: #ccc; border-bottom-color: rgba(255,255,255,0.06); }
+.pricing-list li:last-child { border-bottom: none; }
+.pricing-check { color: #00E65B; font-weight: 700; flex-shrink: 0; }
+
+/* ========== TIMELINE (PAGE 5) ========== */
+.timeline { background: #fff; }
+.timeline-items {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+.timeline-item {
+  display: flex;
+  gap: 16px;
+  padding: 14px 18px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background: #f8f9fa;
+  align-items: flex-start;
+}
+.timeline-phase {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: #1F2133;
+  color: #00E65B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+.timeline-content { flex: 1; }
+.timeline-content h3 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1F2133;
+  margin-bottom: 4px;
+}
+.timeline-content p {
+  font-size: 11px;
+  color: #666;
+  line-height: 1.5;
+}
+.timeline-duration {
+  font-size: 10px;
+  font-weight: 600;
+  color: #00E65B;
+  background: rgba(0,230,91,0.1);
+  padding: 3px 10px;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+/* ========== NOTES (PAGE 6) ========== */
+.notes { background: #fff; }
+.notes-content {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.note-card {
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+}
+.note-card h3 {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1F2133;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.note-card p, .note-card li {
+  font-size: 11px;
+  color: #555;
+  line-height: 1.6;
+}
+.note-card ul {
+  list-style: none;
+  padding: 0;
+}
+.note-card li {
+  padding: 4px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+.note-card li:last-child { border-bottom: none; }
+
+@media print {
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================== -->
+<!-- PÁGINA 1: CAPA                 -->
+<!-- ============================== -->
+<div class="page cover">
+  <div class="cover-badge">Documento Interno</div>
+  <h1>Conta Gestor<br><span>Escopo do Projeto</span></h1>
+  <p class="subtitle">Análise de viabilidade, serviços, precificação e cronograma</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">70</div>
+      <div class="label">Score GMB</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">3</div>
+      <div class="label">Servicos</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">~2 sem</div>
+      <div class="label">Prazo Total</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <span>Setembro 2026</span>
+    <span style="color:#00E65B; font-weight:700;">apside</span>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 2: INFO DO CLIENTE      -->
+<!-- ============================== -->
+<div class="page client-info">
+  <div class="page-header">
+    <h2>Ficha do Cliente</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="info-grid">
+    <div class="info-card">
+      <h3>Dados Gerais</h3>
+      <div class="info-row">
+        <span class="info-label">Razão Social</span>
+        <span class="info-value">Conta Gestor Contabilidade Ltda</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Nome Fantasia</span>
+        <span class="info-value">Conta Gestor Contabilidade</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Proprietário</span>
+        <span class="info-value">Roque Andrade</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Endereço</span>
+        <span class="info-value">R. Cel. Theodoro Rosas, 1465 — Centro, PG/PR</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Telefone</span>
+        <span class="info-value">(42) 98880-2617</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Email</span>
+        <span class="info-value">consultoria@contagestor.com.br</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Segmento</span>
+        <span class="info-value">Contabilidade / Consultoria Financeira</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Público-alvo</span>
+        <span class="info-value">Saúde, Engenharia, Tecnologia, Marketing</span>
+      </div>
+    </div>
+    <div class="info-card">
+      <h3>Presença Digital Atual</h3>
+      <div class="info-row">
+        <span class="info-label">GMB Nota</span>
+        <span class="info-value">5.0 ⭐ (58 avaliações)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Website</span>
+        <span class="info-value">contagestor.com.br (funcional)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Instagram</span>
+        <span class="info-value">@contagestorcontabilidade (111 seg)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">YouTube</span>
+        <span class="info-value">Conta Gestor Digital (parado há 9 meses)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">WhatsApp</span>
+        <span class="info-value">Integrado ao site e GMB</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">SEO Técnico</span>
+        <span class="info-value">Sem sitemap, robots.txt vazio</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Automação</span>
+        <span class="info-value">Nenhuma</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Score GMB</span>
+        <span class="info-value">70/100</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 3: SERVIÇOS             -->
+<!-- ============================== -->
+<div class="page services">
+  <div class="page-header">
+    <h2>Serviços Propostos</h2>
+    <span class="page-num">03</span>
+  </div>
+  <table class="services-table">
+    <thead>
+      <tr>
+        <th>Serviço</th>
+        <th>Descrição</th>
+        <th>Complexidade</th>
+        <th>Dependências</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Correção SEO Técnico</strong></td>
+        <td>Criar sitemap.xml, configurar robots.txt, otimizar meta titles e descriptions</td>
+        <td><span class="complexity-badge cx-low">Baixa</span></td>
+        <td>Acesso ao painel do site (CMS ou FTP)</td>
+      </tr>
+      <tr>
+        <td><strong>Google Analytics + Pixel</strong></td>
+        <td>Verificar GA4 (já instalado), configurar Meta Pixel, criar dashboard de métricas</td>
+        <td><span class="complexity-badge cx-low">Baixa</span></td>
+        <td>Acesso ao Google Analytics e Facebook Business</td>
+      </tr>
+      <tr>
+        <td><strong>Otimização do GMB</strong></td>
+        <td>Adicionar fotos, criar posts, configurar serviços/produtos, responder avaliações</td>
+        <td><span class="complexity-badge cx-low">Baixa</span></td>
+        <td>Acesso ao Google Meu Negócio</td>
+      </tr>
+      <tr>
+        <td><strong>Estratégia Instagram</strong></td>
+        <td>Calendário de conteúdo, Reels, posts educativos, depoimentos, highlights</td>
+        <td><span class="complexity-badge cx-mid">Média</span></td>
+        <td>Acesso ao Instagram, fotos do escritório/equipe</td>
+      </tr>
+      <tr>
+        <td><strong>Chatbot WhatsApp</strong></td>
+        <td>Triagem automatizada, respostas rápidas, fluxo de qualificação de leads</td>
+        <td><span class="complexity-badge cx-mid">Média</span></td>
+        <td>API WhatsApp Business ou Evolution API</td>
+      </tr>
+      <tr>
+        <td><strong>Landing Page de Captação</strong></td>
+        <td>Página focada em conversão com formulário, depoimentos e CTA WhatsApp</td>
+        <td><span class="complexity-badge cx-mid">Média</span></td>
+        <td>Conteúdo: fotos, depoimentos, proposta de valor</td>
+      </tr>
+      <tr>
+        <td><strong>Conteúdo YouTube</strong></td>
+        <td>Reativar canal com vídeos curtos (Reels/Shorts) baseados no conteúdo existente</td>
+        <td><span class="complexity-badge cx-mid">Média</span></td>
+        <td>Acesso ao canal, roteiros, edição de vídeo</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 4: PRECIFICAÇÃO         -->
+<!-- ============================== -->
+<div class="page pricing">
+  <div class="page-header">
+    <h2>Precificação Sugerida</h2>
+    <span class="page-num">04</span>
+  </div>
+  <div class="pricing-cards">
+    <div class="pricing-card">
+      <h3>Presença no Google</h3>
+      <div class="price">R$ 497 <span>único</span></div>
+      <ul class="pricing-list">
+        <li><span class="pricing-check">✓</span> Otimização completa do GMB</li>
+        <li><span class="pricing-check">✓</span> Correção de SEO técnico</li>
+        <li><span class="pricing-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="pricing-check">✓</span> Configuração de posts mensais</li>
+        <li><span class="pricing-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="pricing-check">✓</span> Google Analytics configurado</li>
+      </ul>
+    </div>
+    <div class="pricing-card featured">
+      <h3>Google + Instagram + Chatbot</h3>
+      <div class="price">R$ 1.497 <span>único</span></div>
+      <ul class="pricing-list">
+        <li><span class="pricing-check">✓</span> Tudo do Presença no Google</li>
+        <li><span class="pricing-check">✓</span> Estratégia de Instagram (calendário + posts)</li>
+        <li><span class="pricing-check">✓</span> Chatbot WhatsApp configurado</li>
+        <li><span class="pricing-check">✓</span> Landing page de captação</li>
+        <li><span class="pricing-check">✓</span> Meta Pixel configurado</li>
+        <li><span class="pricing-check">✓</span> 12 peças de conteúdo (3 meses)</li>
+      </ul>
+    </div>
+    <div class="pricing-card">
+      <h3>Estruturação Completa</h3>
+      <div class="price">R$ 2.997 <span>único</span></div>
+      <ul class="pricing-list">
+        <li><span class="pricing-check">✓</span> Tudo do Google + Instagram + Chatbot</li>
+        <li><span class="pricing-check">✓</span> Reativação do YouTube (4 Shorts)</li>
+        <li><span class="pricing-check">✓</span> Dashboard de métricas mensal</li>
+        <li><span class="pricing-check">✓</span> Google Ads (gerência, verba à parte)</li>
+        <li><span class="pricing-check">✓</span> Conteúdo mensal (6 meses)</li>
+        <li><span class="pricing-check">✓</span> Relatórios quinzenais</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 5: CRONOGRAMA           -->
+<!-- ============================== -->
+<div class="page timeline">
+  <div class="page-header">
+    <h2>Cronograma de Execução</h2>
+    <span class="page-num">05</span>
+  </div>
+  <div class="timeline-items">
+    <div class="timeline-item">
+      <div class="timeline-phase">1</div>
+      <div class="timeline-content">
+        <h3>Auditoria e Acesso</h3>
+        <p>Coleta de acessos (GMB, Analytics, Instagram, CMS do site), auditoria completa da presença atual.</p>
+      </div>
+      <div class="timeline-duration">Dia 1–2</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">2</div>
+      <div class="timeline-content">
+        <h3>SEO Técnico + GMB</h3>
+        <p>Criar sitemap.xml, robots.txt, otimizar meta tags. Configurar GMB com fotos, posts e serviços.</p>
+      </div>
+      <div class="timeline-duration">Dia 3–5</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">3</div>
+      <div class="timeline-content">
+        <h3>Analytics + Pixel</h3>
+        <p>Verificar GA4, configurar Meta Pixel, criar dashboard de acompanhamento.</p>
+      </div>
+      <div class="timeline-duration">Dia 5–7</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">4</div>
+      <div class="timeline-content">
+        <h3>Landing Page + Chatbot</h3>
+        <p>Montar landing page de captação com formulário. Configurar chatbot WhatsApp com triagem.</p>
+      </div>
+      <div class="timeline-duration">Dia 7–10</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">5</div>
+      <div class="timeline-content">
+        <h3>Instagram + Conteúdo</h3>
+        <p>Calendário editorial, primeiras peças de conteúdo, configuração de highlights.</p>
+      </div>
+      <div class="timeline-duration">Dia 10–14</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 6: NOTAS INTERNAS       -->
+<!-- ============================== -->
+<div class="page notes">
+  <div class="page-header">
+    <h2>Notas Internas</h2>
+    <span class="page-num">06</span>
+  </div>
+  <div class="notes-content">
+    <div class="note-card">
+      <h3>Pontos de Atenção</h3>
+      <ul>
+        <li>O site já tem GA4 instalado (G-E2FHMEQ2L7) e GTM — verificar se está configurado corretamente</li>
+        <li>O canal YouTube existe mas está parado há 9 meses — há conteúdo para reaproveitar</li>
+        <li>O Instagram tem 111 seguidores — precisa de estratégia de crescimento orgânico</li>
+        <li>O GMB tem nota 5.0 com 58 reviews — excelente base, só precisa de mais atividade</li>
+        <li>Não há chatbot — leads fora do horário comercial podem ser perdidos</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h3>Argumento de Venda</h3>
+      <ul>
+        <li>"O GMB de vocês está nota 5.0 com 58 avaliações — isso é excelente. Mas sem sitemap o Google pode não estar indexando o site direito."</li>
+        <li>"O canal no YouTube tem potencial — os vídeos podem ser transformados em Shorts que atraem clientes."</li>
+        <li>"Fora do horário comercial, quem entra em contato pode não ter retorno. Um chatbot resolve isso."</li>
+        <li>"Com 111 seguidores no Instagram, há espaço para crescer com conteúdo educativo sobre contabilidade."</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h3>Materiais Necessários</h3>
+      <ul>
+        <li>Fotos do escritório (fachada, interior, equipe)</li>
+        <li>Depoimentos de clientes (prints ou texto)</li>
+        <li>Acesso ao CMS do site (WordPress ou equivalente)</li>
+        <li>Acesso ao Google Meu Negócio</li>
+        <li>Acesso ao Instagram</li>
+        <li>Acesso ao Google Analytics</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h3>Próximos Passos Internos</h3>
+      <ul>
+        <li>Enviar Raio-X do cliente (documento separado)</li>
+        <li>Agendar reunião de apresentação</li>
+        <li>Preparar proposta comercial formal</li>
+        <li>Definir pacote específico (qual dos 3 planos)</li>
+        <li>Alinhar prazo de entrega com o cliente</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

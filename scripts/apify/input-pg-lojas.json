@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "loja de roupas em Ponta Grossa PR",
+    "boutique Ponta Grossa Paraná",
+    "loja de acessórios Ponta Grossa"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

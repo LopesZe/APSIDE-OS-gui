@@ -57,6 +57,18 @@ A APSIDE não depende de vender muitas placas de R$50.
 
 Guilherme usa o MazyOS como laboratório: desenvolve a APSIDE aqui antes de operar nos clientes. Gargalo atual = falta de clientes (fase inicial). Prioridade agora = encontrar uma oferta que consiga vender presencialmente, entregar sozinho com qualidade e usar como porta de entrada para problemas maiores.
 
+## Clientes
+
+### ANG Festas (concluído)
+- **Serviço:** Google Meu Negócio + Landing Page
+- **Status:** Site finalizado e pronto para deploy
+- **Localização:** Ponta Grossa, PR
+- **Contato:** Maria, WhatsApp (42) 99990-9828
+- **Endereço:** R. Castanheira, 147 - Santa Paula
+- **Arquivos:** `clientes/ang-festas/site/`
+- **Stack:** Next.js 15, React 19, Tailwind CSS, Framer Motion
+- **Entregáveis:** Site responsivo com Hero, Sobre, Eventos, Vídeos, Fotos, Depoimentos, CTA
+
 ## Landing Pages Raio-X
 
 Sistema de landing pages personalizadas por cliente. Tema escuro premium (参照 referências: SEOtalos, Onion AI, OpenBit). Pasta em `dados/clinicas-ponta-grossa-2026-09-08/landing-pages/`. Cada prospect ganha pasta com `index.html` autocontido. Placeholder pra imagem do notebook (Gemini). Template reutilizável.

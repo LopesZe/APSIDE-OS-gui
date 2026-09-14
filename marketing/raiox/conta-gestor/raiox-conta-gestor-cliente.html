@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>Conta Gestor — Diagnóstico Digital</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0E1116;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ========== COVER ========== */
+.cover {
+  background: linear-gradient(135deg, #052c65 0%, #0a3d7a 50%, #052c65 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-logo {
+  height: 80px;
+  margin-bottom: 32px;
+  filter: brightness(0) invert(1);
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 30px;
+  color: rgba(255,255,255,0.8);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+.cover h1 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 12px;
+}
+.cover h1 span { color: #7eb8ff; }
+.cover .subtitle {
+  color: rgba(255,255,255,0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+.cover-meta {
+  display: flex;
+  gap: 48px;
+  justify-content: center;
+}
+.cover-meta-item { text-align: center; }
+.cover-meta-item .value {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: rgba(255,255,255,0.5);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(255,255,255,0.4);
+  font-size: 12px;
+}
+.cover-footer-logo {
+  height: 28px;
+  opacity: 0.5;
+}
+.footer-apside-logo {
+  height: 24px;
+  filter: brightness(0) invert(1);
+  opacity: 0.6;
+}
+
+/* ========== PAGE HEADER ========== */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #f0f0f0;
+}
+.page-header h2 {
+  font-size: 26px;
+  font-weight: 800;
+  color: #052c65;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num { color: #ccc; font-size: 14px; font-weight: 600; }
+
+/* ========== DIAGNOSTIC (PAGE 2) ========== */
+.diagnostic { background: #fff; justify-content: center; }
+.score-section { display: flex; gap: 32px; margin-bottom: 24px; align-items: flex-start; }
+.score-big {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: conic-gradient(#052c65 0deg, #052c65 252deg, #e8e8e8 252deg, #e8e8e8 360deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.score-big::before {
+  content: '';
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background: #fff;
+  position: absolute;
+}
+.score-big .score-value {
+  position: relative;
+  z-index: 1;
+  font-size: 44px;
+  font-weight: 900;
+  color: #052c65;
+}
+.score-big .score-unit {
+  position: relative;
+  z-index: 1;
+  font-size: 16px;
+  color: #888;
+  font-weight: 500;
+}
+.score-details { flex: 1; }
+.score-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #052c65;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.score-desc {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.criteria-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #f8f9fa;
+}
+.criteria-icon {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  flex-shrink: 0;
+  font-weight: 700;
+  line-height: 1;
+}
+.criteria-ok { background: #d4edda; color: #155724; }
+.criteria-warn { background: #fff3cd; color: #856404; }
+.criteria-fail { background: #f8d7da; color: #721c24; }
+.criteria-text { font-size: 11px; font-weight: 500; color: #333; }
+
+/* ========== WHATS WORKING / MISSING (PAGE 3) ========== */
+.missing { background: #fff; }
+.missing-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.missing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+  max-width: 80%;
+}
+.missing-card {
+  padding: 22px;
+  border-radius: 14px;
+  border: 1px solid #e8e8e8;
+  height: fit-content;
+}
+.missing-card-negative { background: #fff8f8; border-color: #f5e0e0; }
+.missing-card-positive { background: #f8fdf8; border-color: #d5ecd5; }
+.missing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.missing-card-negative h3 { color: #dc2626; }
+.missing-card-positive h3 { color: #16a34a; }
+.missing-list { list-style: none; }
+.missing-list li {
+  padding: 7px 0;
+  font-size: 12px;
+  color: #444;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.missing-list li:last-child { border-bottom: none; }
+.missing-list .icon { flex-shrink: 0; margin-top: 1px; font-weight: 700; }
+
+/* ========== SUMMARY TABLE (PAGE 4) ========== */
+.summary { background: #fff; justify-content: center; }
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+}
+.summary-table th {
+  background: #052c65;
+  color: #fff;
+  padding: 12px 16px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.summary-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 13px;
+  color: #333;
+}
+.summary-table tr.row-good td { background: #f0faf4; }
+.summary-table tr.row-warn td { background: #fefbf3; }
+.summary-table tr.row-bad td { background: #fef5f5; }
+.status-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 600;
+}
+.status-good { background: #d4edda; color: #155724; }
+.status-warn { background: #fff3cd; color: #856404; }
+.status-bad { background: #f8d7da; color: #721c24; }
+
+/* ========== GMB COMPARISON (PAGE 5) ========== */
+.comparison {
+  background: #052c65;
+  padding: 12mm 16mm;
+  justify-content: center;
+}
+.comparison h2 {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 14px;
+  letter-spacing: -0.5px;
+}
+.comp-cards {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: stretch;
+}
+.comp-card {
+  width: 500px;
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.comp-card-bad { border: 2px dashed #e5e7eb; }
+.comp-card-good { border: 2px solid #16a34a; }
+.comp-card-tag {
+  padding: 7px 14px;
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+.comp-card-bad .comp-card-tag { background: #fef2f2; color: #dc2626; }
+.comp-card-good .comp-card-tag { background: #f0fdf4; color: #16a34a; }
+.comp-card-body {
+  padding: 12px 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.comp-map {
+  width: 100%;
+  height: 100px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  position: relative;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.comp-map img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.comp-map.has-photo .comp-map-placeholder {
+  display: none;
+}
+.comp-map-placeholder {
+  color: #999;
+  font-size: 10px;
+  text-align: center;
+}
+.comp-name { font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 2px; }
+.comp-cat { font-size: 10px; color: #888; margin-bottom: 6px; }
+.comp-rating { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+.comp-stars { color: #f4b400; font-size: 12px; }
+.comp-rating-num { font-size: 12px; font-weight: 600; color: #333; }
+.comp-rating-count { font-size: 10px; color: #888; }
+.comp-info { font-size: 9px; color: #666; line-height: 1.6; margin-bottom: 8px; }
+.comp-info span { display: block; }
+.comp-photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 4px;
+  margin-bottom: 8px;
+}
+.comp-photos-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+.comp-photos-header span {
+  font-size: 10px;
+  font-weight: 600;
+  color: #666;
+}
+.comp-photos-pick-all {
+  font-size: 9px;
+  color: #052c65;
+  cursor: pointer;
+  font-weight: 600;
+}
+.comp-photos-pick-all input[type="file"] {
+  display: none;
+}
+.comp-photo {
+  aspect-ratio: 1;
+  border-radius: 4px;
+  overflow: hidden;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  color: #bbb;
+  position: relative;
+}
+.comp-photo img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.comp-photo.has-photo .pick-label,
+.comp-photo.has-photo > :not(img):not(.pick-btn):not(input) {
+  display: none;
+}
+.comp-photo-empty.has-photo {
+  border: none;
+}
+.comp-photo-empty {
+  background: #f3f4f6;
+  border: 1px dashed #d1d5db;
+}
+.comp-reviews { flex: 1; }
+.comp-review { display: flex; gap: 5px; margin-bottom: 3px; align-items: flex-start; }
+.comp-review-avatar {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6px;
+  color: #666;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.comp-review-name { font-size: 7px; font-weight: 600; color: #333; }
+.comp-review-stars { color: #f4b400; font-size: 6px; }
+.comp-review-text { font-size: 7px; color: #666; line-height: 1.3; }
+
+/* ========== PHOTO SLOT (interactive) ========== */
+.photo-slot {
+  position: relative;
+  cursor: pointer;
+}
+.photo-slot input[type="file"] {
+  display: none;
+}
+.photo-slot .pick-btn {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+  border-radius: inherit;
+  z-index: 3;
+}
+.photo-slot:hover .pick-btn {
+  opacity: 1;
+}
+.photo-slot.has-photo .pick-btn {
+  opacity: 0;
+}
+.photo-slot.has-photo:hover .pick-btn {
+  opacity: 1;
+}
+.pick-btn .pick-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #052c65;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+.pick-btn .pick-label {
+  color: #fff;
+  font-size: 7px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ========== NEXT STEPS (PAGE 6) ========== */
+.nextsteps { background: #fff; }
+.steps-header {
+  display: flex;
+  gap: 24px;
+  flex: 1;
+}
+.steps-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.steps-column-title {
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid;
+}
+.steps-column-title.apside { color: #052c65; border-color: #052c65; }
+.steps-column-title.client { color: #16a34a; border-color: #16a34a; }
+.step-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+.step-item:last-child { border-bottom: none; }
+.step-topic {
+  font-size: 14px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 4px;
+}
+.step-sub {
+  font-size: 12px;
+  color: #555;
+  padding-left: 14px;
+  line-height: 1.6;
+}
+.step-sub::before {
+  content: '•';
+  color: #aaa;
+  margin-right: 5px;
+}
+
+/* ========== CTA PAGE ========== */
+.cta-page {
+  background: linear-gradient(135deg, #052c65 0%, #0a3d7a 50%, #052c65 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cta-page * {
+  margin-left: auto;
+  margin-right: auto;
+}
+.cta-page h2 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 14px;
+}
+.cta-page h2 span { color: #7eb8ff; }
+.cta-page .cta-sub {
+  color: rgba(255,255,255,0.7);
+  font-size: 16px;
+  margin-bottom: 36px;
+  max-width: 520px;
+  line-height: 1.6;
+}
+.cta-contact {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 36px;
+  justify-content: center;
+}
+.cta-contact-item { text-align: center; flex: 1; }
+.cta-contact-item .icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin: 0 auto 8px;
+}
+.cta-contact-item .text {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+.cta-client-logo-section {
+  margin-bottom: 24px;
+}
+.cta-client-logo-section .client-logo {
+  height: 50px;
+  filter: brightness(0) invert(1);
+  opacity: 0.85;
+}
+.cta-footer-label {
+  color: rgba(255,255,255,0.45);
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.cta-apside-logo {
+  height: 30px;
+  filter: brightness(0) invert(1);
+  opacity: 0.65;
+}
+
+@media print {
+  .pick-btn { display: none !important; }
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- ============================== -->
+<!-- PÁGINA 1: CAPA                 -->
+<!-- ============================== -->
+<div class="page cover">
+  <img src="https://www.contagestor.com.br/template/assets/img/logo.png" alt="Conta Gestor" class="cover-logo">
+  <div class="cover-badge">Diagnóstico Digital</div>
+  <h1>Conta Gestor<br><span>Ponta Grossa PR</span></h1>
+  <p class="subtitle">Análise completa da presença digital + plano de ação</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">5.0</div>
+      <div class="label">Nota GMB</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">58</div>
+      <div class="label">Avaliações</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">70</div>
+      <div class="label">Score / 100</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <span>Setembro 2026</span>
+    <img src="file:///C:/Users/Guilherme%20Lopes/APSIDE-OS-gui/identidade/logo-apside-gradiente.svg" alt="APSIDE" class="footer-apside-logo">
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 2: DIAGNÓSTICO          -->
+<!-- ============================== -->
+<div class="page diagnostic">
+  <div class="page-header">
+    <h2>Diagnóstico do Perfil</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="score-section">
+    <div class="score-big">
+      <span class="score-value">70</span>
+      <span class="score-unit">/100</span>
+    </div>
+    <div class="score-details">
+      <div class="score-label">Classificação: Boa base, com oportunidades de melhoria</div>
+      <p class="score-desc">
+        A Conta Gestor tem uma presença digital acima da média para contabilidades em Ponta Grossa.
+        O Google Meu Negócio está bem avaliado, o site apresenta serviços e planos de forma clara,
+        e há um canal no YouTube que pode ser explorado. Há espaço para melhorar em SEO,
+        engajamento no Instagram e automação de atendimento.
+      </p>
+      <div class="criteria-grid">
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">GMB nota 5.0</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">58 avaliações reais</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">Planos e serviços claros</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">WhatsApp clicável</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Poucas postagens no GMB</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Sem fotos publicadas</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Instagram com baixa atividade</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem sitemap.xml</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">YouTube sem postagem há 9 meses</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem chatbot / atendimento automatizado</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 3: O QUE FALTA          -->
+<!-- ============================== -->
+<div class="page missing">
+  <div class="page-header">
+    <h2>O que funciona e o que pode melhorar</h2>
+    <span class="page-num">03</span>
+  </div>
+  <div class="missing-center">
+    <div class="missing-grid">
+    <div class="missing-card missing-card-positive">
+      <h3><span style="font-size:16px;">✓</span> O que já funciona bem</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Google Meu Negócio nota 5.0</strong><br>
+            58 avaliações com nota perfeita. Excelente para confiança de quem busca.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Site com serviços e planos</strong><br>
+            Layout funcional, planos de R$349 a R$589/mês bem descritos, FAQ completo.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Canal no YouTube</strong><br>
+            Canal "Conta Gestor Digital" existe e tem vídeo institucional. Pode ser usado como canal de prospecção.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Parceiros e time</strong><br>
+            16 empresas parceiras listadas e time com nomes e fotos. Gera credibilidade.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>WhatsApp integrado</strong><br>
+            Botão flutuante e links diretos no site e no GMB.
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="missing-card missing-card-negative">
+      <h3><span style="font-size:16px;">⚠</span> O que pode melhorar</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem sitemap.xml</strong><br>
+            O Google pode não estar indexando todas as páginas do site corretamente.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Instagram com 111 seguidores</strong><br>
+            28 posts no total. Para uma contabilidade, há espaço para mais visibilidade.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>YouTube sem postagem há 9 meses</strong><br>
+            O canal existe mas está parado. Vídeos podem ser transformados em conteúdo de prospecção.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem fotos no GMB</strong><br>
+            O perfil não tem fotos publicadas do escritório ou dos serviços.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem chatbot ou atendimento automatizado</strong><br>
+            Fora do horário comercial, quem entra em contato pode não ter retorno imediato.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Instagram não integrado ao site</strong><br>
+            O feed do Instagram não aparece na página inicial.
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 4: RESUMO DA PRESENÇA   -->
+<!-- ============================== -->
+<div class="page summary">
+  <div class="page-header">
+    <h2>Resumo da Presença Digital</h2>
+    <span class="page-num">04</span>
+  </div>
+  <table class="summary-table">
+    <thead>
+      <tr>
+        <th>Área</th>
+        <th>Status</th>
+        <th>Observação</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="row-good">
+        <td><strong>Google Meu Negócio</strong></td>
+        <td><span class="status-badge status-good">Bom</span></td>
+        <td>Nota 5.0, 58 avaliações, endereço e telefone corretos</td>
+      </tr>
+      <tr class="row-good">
+        <td><strong>Website</strong></td>
+        <td><span class="status-badge status-good">Bom</span></td>
+        <td>Funcional, planos claros, FAQ, WhatsApp integrado</td>
+      </tr>
+      <tr class="row-good">
+        <td><strong>WhatsApp</strong></td>
+        <td><span class="status-badge status-good">Bom</span></td>
+        <td>Integrado no site, no GMB e como botão flutuante</td>
+      </tr>
+      <tr class="row-warn">
+        <td><strong>Instagram</strong></td>
+        <td><span class="status-badge status-warn">Fraco</span></td>
+        <td>111 seguidores, 28 posts, sem estratégia de conteúdo</td>
+      </tr>
+      <tr class="row-warn">
+        <td><strong>YouTube</strong></td>
+        <td><span class="status-badge status-warn">Parado</span></td>
+        <td>Canal existe, último vídeo há 9 meses</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>SEO Técnico</strong></td>
+        <td><span class="status-badge status-bad">Crítico</span></td>
+        <td>Sem sitemap.xml, robots.txt vazio</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>Fotos no GMB</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Nenhuma foto publicada no perfil</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>Automação</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Sem chatbot, sem atendimento fora do horário</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 5: COMPARATIVO GMB      -->
+<!-- ============================== -->
+<div class="page comparison">
+  <h2>Comparativo: Como está vs. como pode ficar</h2>
+  <div class="comp-cards">
+
+    <!-- COLUNA "ANTES" -->
+    <div class="comp-card comp-card-bad">
+      <div class="comp-card-tag">Como está hoje</div>
+      <div class="comp-card-body">
+        <div class="comp-map photo-slot" onclick="this.querySelector('input').click()">
+          <input type="file" accept="image/*" onchange="pickPhoto(this)">
+          <div class="pick-btn"><div class="pick-icon">+</div><div class="pick-label">Foto</div></div>
+          <div class="comp-map-placeholder">📍 R. Cel. Theodoro Rosas, 1465 — Centro</div>
+        </div>
+        <div class="comp-name">Conta Gestor Contabilidade</div>
+        <div class="comp-cat">Contabilidade · Consultoria Financeira</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">5.0</span>
+          <span class="comp-rating-count">58 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 98880-2617</span>
+          <span>🕐 Seg-Sex 8h–17:30</span>
+          <span>🌐 www.contagestor.com.br</span>
+          <span style="color:#dc2626;">📷 Sem fotos no perfil</span>
+          <span style="color:#dc2626;">📱 @contagestorcontabilidade (111 seguidores)</span>
+        </div>
+        <div class="comp-photos-header">
+          <span>Fotos do perfil</span>
+          <label class="comp-photos-pick-all">
+            <input type="file" accept="image/*" multiple onchange="pickAllPhotos(this)">
+            + Selecionar todas
+          </label>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Fachada
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Escritório
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">A</div>
+            <div>
+              <div class="comp-review-name">Avaliação <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Exemplo de avaliação do Google</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- COLUNA "DEPOIS" -->
+    <div class="comp-card comp-card-good">
+      <div class="comp-card-tag">Como pode ficar</div>
+      <div class="comp-card-body">
+        <div class="comp-map photo-slot" onclick="this.querySelector('input').click()">
+          <input type="file" accept="image/*" onchange="pickPhoto(this)">
+          <div class="pick-btn"><div class="pick-icon">+</div><div class="pick-label">Foto</div></div>
+          <div class="comp-map-placeholder">📍 Mockup: foto profissional da fachada</div>
+        </div>
+        <div class="comp-name">Conta Gestor Contabilidade</div>
+        <div class="comp-cat">Contabilidade Digital · Consultoria · Planejamento Tributário</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">5.0</span>
+          <span class="comp-rating-count">100+ avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 98880-2617</span>
+          <span>🕐 Seg-Sex 8h–17:30</span>
+          <span style="color:#16a34a;">🌐 www.contagestor.com.br</span>
+          <span style="color:#16a34a;">📱 @contagestorcontabilidade (500+ seguidores)</span>
+        </div>
+        <div class="comp-photos-header">
+          <span>Fotos do perfil</span>
+          <label class="comp-photos-pick-all">
+            <input type="file" accept="image/*" multiple onchange="pickAllPhotos(this)">
+            + Selecionar todas
+          </label>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Fachada
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Equipe
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Escritório
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Serviço
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Produto
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Interno
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Detalhe
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Evento
+          </div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">M</div>
+            <div>
+              <div class="comp-review-name">Maria S. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Contabilidade consultiva de verdade</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">P</div>
+            <div>
+              <div class="comp-review-name">Pedro L. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">Atendimento personalizado, resolvi tudo</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 6: PLANO DE AÇÃO        -->
+<!-- ============================== -->
+<div class="page nextsteps">
+  <div class="page-header">
+    <h2>Plano de Ação</h2>
+    <span class="page-num">06</span>
+  </div>
+  <div class="steps-header">
+
+    <!-- COLUNA: DEPENDE DA APSIDE -->
+    <div class="steps-column">
+      <div class="steps-column-title apside">O que depende da APSIDE</div>
+
+      <div class="step-item">
+        <div class="step-topic">Corrigir SEO Técnico</div>
+        <div class="step-sub">Criar sitemap.xml</div>
+        <div class="step-sub">Configurar robots.txt</div>
+        <div class="step-sub">Otimizar meta titles e descriptions</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Configurar Métricas</div>
+        <div class="step-sub">Verificar GA4 (já instalado)</div>
+        <div class="step-sub">Configurar Meta Pixel</div>
+        <div class="step-sub">Criar dashboard de acompanhamento</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Otimizar Google Meu Negócio</div>
+        <div class="step-sub">Adicionar fotos do escritório e equipe</div>
+        <div class="step-sub">Criar posts semanais com serviços</div>
+        <div class="step-sub">Configurar lista de serviços completos</div>
+        <div class="step-sub">Responder avaliações pendentes</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Criar Chatbot WhatsApp</div>
+        <div class="step-sub">Configurar triagem automatizada</div>
+        <div class="step-sub">Criar respostas rápidas para dúvidas comuns</div>
+        <div class="step-sub">Montar fluxo de qualificação de leads</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Criar Landing Page</div>
+        <div class="step-sub">Página focada em conversão</div>
+        <div class="step-sub">Formulário + WhatsApp integrado</div>
+        <div class="step-sub">Depoimentos de clientes</div>
+      </div>
+    </div>
+
+    <!-- COLUNA: DEPENDE DA EMPRESA -->
+    <div class="steps-column">
+      <div class="steps-column-title client">O que depende da Conta Gestor</div>
+
+      <div class="step-item">
+        <div class="step-topic">Ativar Instagram</div>
+        <div class="step-sub">Aprovar calendário editorial</div>
+        <div class="step-sub">Fornecer fotos do escritório e equipe</div>
+        <div class="step-sub">Aprovar posts e Stories</div>
+        <div class="step-sub">Indicar clientes para depoimentos</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Reativar YouTube</div>
+        <div class="step-sub">Liberar acesso ao canal</div>
+        <div class="step-sub">Aprovar roteiros de Shorts</div>
+        <div class="step-sub">Fornecer conteúdo sobre serviços</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Fornecer Acessos</div>
+        <div class="step-sub">Google Meu Negócio</div>
+        <div class="step-sub">Instagram</div>
+        <div class="step-sub">CMS do site (WordPress ou equivalente)</div>
+        <div class="step-sub">Google Analytics</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Conteúdo e Depoimentos</div>
+        <div class="step-sub">Indicar 3 clientes para depoimentos</div>
+        <div class="step-sub">Fornecer informações sobre serviços</div>
+        <div class="step-sub">Aprovar peças de conteúdo</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============================== -->
+<!-- PÁGINA 7: CONTATO              -->
+<!-- ============================== -->
+<div class="page cta-page">
+  <h2>Pronto pra <span>crescer</span>?</h2>
+  <p class="cta-sub">
+    A Conta Gestor já tem nota 5.0 com 58 avaliações e um site funcional.
+    Falta pouca coisa pra dominar o digital em Ponta Grossa.
+  </p>
+  <div class="cta-contact">
+    <div class="cta-contact-item">
+      <div class="icon">📞</div>
+      <div class="text">(42) 98880-2617</div>
+    </div>
+    <div class="cta-contact-item">
+      <div class="icon">📍</div>
+      <div class="text">R. Cel. Theodoro Rosas, 1465 — PG</div>
+    </div>
+  </div>
+  <div class="cta-client-logo-section">
+    <img src="https://www.contagestor.com.br/template/assets/img/logo.png" alt="Conta Gestor" class="client-logo">
+  </div>
+  <div class="cta-footer-label">Diagnóstico gerado por</div>
+  <img src="file:///C:/Users/Guilherme%20Lopes/APSIDE-OS-gui/identidade/logo-apside-gradiente.svg" alt="APSIDE" class="cta-apside-logo">
+</div>
+
+<script>
+function pickPhoto(input) {
+  const files = input.files;
+  if (!files.length) return;
+  const slot = input.closest('.comp-photo') || input.closest('.comp-map');
+  const file = files[0];
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    let img = slot.querySelector('img');
+    if (!img) { img = document.createElement('img'); slot.appendChild(img); }
+    img.src = e.target.result;
+    slot.classList.add('has-photo');
+  };
+  reader.readAsDataURL(file);
+  input.value = '';
+}
+
+function pickAllPhotos(input) {
+  const files = input.files;
+  if (!files.length) return;
+  const card = input.closest('.comp-card');
+  const slots = card.querySelectorAll('.comp-photo.photo-slot:not(.has-photo)');
+  for (let i = 0; i < files.length && i < slots.length; i++) {
+    const slot = slots[i];
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      let img = slot.querySelector('img');
+      if (!img) { img = document.createElement('img'); slot.appendChild(img); }
+      img.src = e.target.result;
+      slot.classList.add('has-photo');
+    };
+    reader.readAsDataURL(files[i]);
+  }
+  input.value = '';
+}
+</script>
+</body>
+</html>

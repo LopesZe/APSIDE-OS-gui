@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "contabilidade em Ponta Grossa PR",
+    "escritório contábil Ponta Grossa",
+    "contador Ponta Grossa Paraná"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

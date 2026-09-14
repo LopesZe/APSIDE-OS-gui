@@ -1,0 +1,6934 @@
+[
+  {
+    "title": "Bienna acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Store",
+    "address": "R. Balduíno Taques, 183 - Centro, Ponta Grossa - PR, 84010-670, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 183",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-670",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/bienna.acessorios?igsh=aTM2YWI5cW1sa3U4",
+    "phone": "+55 42 99851-2693",
+    "phoneUnformatted": "+5542998512693",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0947344,
+      "lng": -50.1634503
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZXqzPQAb6JQRYbWEdb-Coiw",
+    "categories": [
+      "Store",
+      "Fashion accessories store",
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81b003db37a65:0x2ca282bf7584b561",
+    "cid": "3216276842717951329",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 28
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bienna%20acess%C3%B3rios&query_place_id=ChIJZXqzPQAb6JQRYbWEdb-Coiw",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrgH_1B7oeA4rHhn9Cjqlr2q1ALy684YslCy-DGwbI7Im4XelJny3mBvtWFOIgSnCSH8eqgUgQDE_iFlGUKCJbcv6qXNraHc14PDB9PfUtBiOFibtDjv6c3ktcR4Z2VNBBdVvmaA=w408-h725-k-no",
+    "kgmid": "/g/11y94xlf_b",
+    "businessProfileId": "8839874526629383180"
+  },
+  {
+    "title": "Bjú Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "R. Sant'Ana, 886 - Centro, Ponta Grossa - PR, 84010-320, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Sant'Ana, 886",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-320",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/bjupontagrossa",
+    "phone": "+55 42 99957-7817",
+    "phoneUnformatted": "+5542999577817",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0953466,
+      "lng": -50.1595644
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcf4dQWcb6JQR1Y9ldQc_5D0",
+    "categories": [
+      "Fashion accessories store",
+      "Handbags shop"
+    ],
+    "fid": "0x94e81b67411dfe71:0x3de43f0775658fd5",
+    "cid": "4459758832270544853",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bj%C3%BA%20Ponta%20Grossa&query_place_id=ChIJcf4dQWcb6JQR1Y9ldQc_5D0",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3rOQgrPjNuprIDvcrSxn8ima_JcmalCJ84rXW8wFEXBR4HDKeYMc1gzH27BAMme9Z68tLKfZtr0aoH8-H_VzV6C2XvYrEzYlGsZgHtuWjGcSoYmBx0TuGlFO6bYQTkl6pXh4G1w=w408-h544-k-no",
+    "kgmid": "/g/11kb3gw8gy",
+    "businessProfileId": null
+  },
+  {
+    "title": "Jo Acessórios Contemporâneos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Store",
+    "address": "Av. Bonifácio Vilela, 126 - A - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 126 - A",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://instagram.com/jo.acessorios.contemporaneos?igshid=MzRlODBiNWFlZA==",
+    "phone": "+55 42 99944-2531",
+    "phoneUnformatted": "+5542999442531",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.091783,
+      "lng": -50.1592893
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtb3KaP4b6JQR0Gd_j_TuKb8",
+    "categories": [
+      "Store"
+    ],
+    "fid": "0x94e81bfe68cabdb5:0xbf29eef48f7f67d0",
+    "cid": "13774803669436295120",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 15
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Jo%20Acess%C3%B3rios%20Contempor%C3%A2neos&query_place_id=ChIJtb3KaP4b6JQR0Gd_j_TuKb8",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm12SXvZUgMBoVj-iN5YK0yDJ8gDQM6izWniLTwNrioI3YmH5iZ_5fbAOY8YLA7K7JDnP4rFt9YTHDy4Rtp5Za-UOEm0w6Dm5NiCnhPe4JS5oeKc9x-uSMJ93uClurQEtnMGsxjjOPpyiUN=w408-h240-k-no-pi0-ya200-ro0-fo100",
+    "kgmid": "/g/11sv6yv03m",
+    "businessProfileId": "5708570887566844287"
+  },
+  {
+    "title": "EFFEÁ Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "R. Santos Dumont, 196 - Sala 2 - Centro, Ponta Grossa - PR, 84010-360, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Santos Dumont, 196 - Sala 2",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://effea.com.br/",
+    "phone": "+55 42 99924-6952",
+    "phoneUnformatted": "+5542999246952",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.099696,
+      "lng": -50.1565364
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgWI0nUAa6JQRgQmvrUmHtp8",
+    "categories": [
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81a409d346281:0x9fb68749adaf0981",
+    "cid": "11508534648308173185",
+    "reviewsCount": 42,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 38
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=EFFE%C3%81%20Acess%C3%B3rios&query_place_id=ChIJgWI0nUAa6JQRgQmvrUmHtp8",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnINR-emaO-TPIZLytqVL_zccd_39MLPn9d7JXEshxVvTKDu1PQn4VCzxSPttjyMhuBP9Vm0tbdIaBhoKW4aApc9i6ES7CDOtoZ1HK9EYzT8JOzkt9QP-90U1P4ZLXQEqzUL-xs=w408-h272-k-no",
+    "kgmid": "/g/11bx2g1q55",
+    "businessProfileId": "4771350717986913602"
+  },
+  {
+    "title": "Sfera Bijuterias",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "Paraná - Av. Dr. Vicente Machado, 80 - Centro, Ponta Grossa - PR, 84010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "Paraná - Av. Dr. Vicente Machado, 80",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.sferabijuterias.com.br/",
+    "phone": "+55 42 99995-3701",
+    "phoneUnformatted": "+5542999953701",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0944794,
+      "lng": -50.1568656
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTXCHxUYa6JQR3YnMMjoiKdY",
+    "categories": [
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81a46c587704d:0xd629223a32cc89dd",
+    "cid": "15431903231517428189",
+    "reviewsCount": 48,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 7,
+      "fiveStar": 38
+    },
+    "imagesCount": 89,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sfera%20Bijuterias&query_place_id=ChIJTXCHxUYa6JQR3YnMMjoiKdY",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8OJtJSlbgAYKyJWIb6ISd8fD1IgsoVQEpYBP-RNE8_OQx44KaCmVvcWE60wLFd2d19dlnUJTjOeNC0aQu39RDf9124L0gR2XotoAovQfG2J7YTm60NwPNE7J2-OisiaoiZhM=w408-h725-k-no",
+    "kgmid": "/g/11b7f2ppf6",
+    "businessProfileId": "3112133343331151101"
+  },
+  {
+    "title": "Deluxe Bolsas e Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Handbags shop",
+    "address": "R. Casemiro de Abreu, 309 - Uvaranas, Ponta Grossa - PR, 84020-240, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Casemiro de Abreu, 309",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-240",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.deluxeacessorios.com.br/",
+    "phone": "+55 42 99964-3541",
+    "phoneUnformatted": "+5542999643541",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0886277,
+      "lng": -50.1430727
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJexy2yHQb6JQRQy0SqG__NIM",
+    "categories": [
+      "Handbags shop",
+      "Fashion accessories store",
+      "Shoe store",
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81b74c8b61c7b:0x8334ff6fa8122d43",
+    "cid": "9454462372783729987",
+    "reviewsCount": 388,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 386
+    },
+    "imagesCount": 59,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Deluxe%20Bolsas%20e%20Acess%C3%B3rios&query_place_id=ChIJexy2yHQb6JQRQy0SqG__NIM",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncnAQ9JAh-OhRpHIwqA-h72GosNKU7XCvKjiwXVJobjREeelzPMzrUlhDT-oAFxLBMSiAcKiqILB5vRFRfTVHTGnBvvNHH8ASnrCWATtQaqwsVX3s2OJ5MIDPMsvJwVaY7oQR43UFwPaFY=w408-h544-k-no",
+    "kgmid": "/g/11h126j8wk",
+    "businessProfileId": "8529078854300955853"
+  },
+  {
+    "title": "Pri Bijoux e Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "R. Cel. Bitencourt, 177 - Centro, Ponta Grossa - PR, 84010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Bitencourt, 177",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99871-9188",
+    "phoneUnformatted": "+5542998719188",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0915948,
+      "lng": -50.1612394
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQCElD8a6JQR57z4tskt_sg",
+    "categories": [
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81a3f94840001:0xc8fe2dc9b6f8bce7",
+    "cid": "14483063796051524839",
+    "reviewsCount": 32,
+    "reviewsDistribution": {
+      "oneStar": 13,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 18
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pri%20Bijoux%20e%20Acess%C3%B3rios&query_place_id=ChIJAQCElD8a6JQR57z4tskt_sg",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdDHH9o1pMJw4elyh8Ggu_LYvTRrnbu8OIssb_HLVwzLQMZr2DMjKVfHIn0wppFi2t_Qrk1zqWTyp5W02Ltqo6J9TmafJn54aSlUned6oniyik4pDurTXVWihd9VibgPhaZjxY3g=w408-h544-k-no",
+    "kgmid": "/g/11f0wfnw4y",
+    "businessProfileId": "5704560657926116682"
+  },
+  {
+    "title": "Morana Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "R. Ermelino de Leão, 703 - Lj 54 - Olarias, Ponta Grossa - PR, 84035-000, Brazil",
+    "neighborhood": "Olarias",
+    "street": "R. Ermelino de Leão, 703 - Lj 54",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.morana.com.br/",
+    "phone": "+55 42 3225-6078",
+    "phoneUnformatted": "+554232256078",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0945178,
+      "lng": -50.1522902
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP2500UQa6JQR6AI2ljUBSdw",
+    "categories": [
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81a44d1746e3f:0xdc490135963602e8",
+    "cid": "15873219691309040360",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 7,
+      "fiveStar": 23
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Morana%20Acess%C3%B3rios&query_place_id=ChIJP2500UQa6JQR6AI2ljUBSdw",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MQETqoYk8kOS9-FXCe6lIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.90428&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f106s6y_",
+    "businessProfileId": "16395630823876646822"
+  },
+  {
+    "title": "Alternativa Comércio de Acessórios para Bijouteria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Yarn store",
+    "address": "R. Cel. Bitencourt, 51 - Centro, Ponta Grossa - PR, 84010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Bitencourt, 51",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/Alternativa-Bijuterias-166402733931832/",
+    "phone": "+55 42 3025-4020",
+    "phoneUnformatted": "+554230254020",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0927024,
+      "lng": -50.1609542
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-f__30EX6JQRIBEsSwJFopA",
+    "categories": [
+      "Yarn store"
+    ],
+    "fid": "0x94e81741dffffff9:0x90a245024b2c1120",
+    "cid": "10421968363842179360",
+    "reviewsCount": 54,
+    "reviewsDistribution": {
+      "oneStar": 9,
+      "twoStar": 5,
+      "threeStar": 3,
+      "fourStar": 7,
+      "fiveStar": 30
+    },
+    "imagesCount": 218,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alternativa%20Com%C3%A9rcio%20de%20Acess%C3%B3rios%20para%20Bijouteria&query_place_id=ChIJ-f__30EX6JQRIBEsSwJFopA",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmF7vjuL4nlkCJ1Lt5pmQO09U6QbT92-ZkwiTNhQXUc_rd7FPRkTs-v_wVTebk9xPN4ZDWzEyJwvVWWzgfFhdn4kiGzl_kWHcAU0LWC8B13_jUcr1G0haonWR2igQa8imD9co1f3AgYLVo=w408-h408-k-no",
+    "kgmid": "/g/1tqtz0kj",
+    "businessProfileId": "14207228524993901862"
+  },
+  {
+    "title": "Gebrim Bijoux e Acessórios Finos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "Rua Santos Dumont, 735 Ao lado do 731 - Centro, Ponta Grossa - PR, 84010-360, Brazil",
+    "neighborhood": "Centro",
+    "street": "Rua Santos Dumont, 735 Ao lado do 731",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/bijouxgebrim",
+    "phone": "+55 42 99994-6299",
+    "phoneUnformatted": "+5542999946299",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0951105,
+      "lng": -50.1575764
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp0e2Oy4b6JQR8kz33iZ4QiA",
+    "categories": [
+      "Fashion accessories store",
+      "Jewelry store"
+    ],
+    "fid": "0x94e81b2e3bb647a7:0x20427826def74cf2",
+    "cid": "2324552466021436658",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 77,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gebrim%20Bijoux%20e%20Acess%C3%B3rios%20Finos&query_place_id=ChIJp0e2Oy4b6JQR8kz33iZ4QiA",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMqh-F9drLVBDkomX7byDOMhJ8YcEdjs6NXbODowjBnruN-80CsaBMJVIFFHEPIHD-emSnuhbDU_4TmE9BsaUUZM4yUMGpigP_ZPWkxUCtpB2c17fssAh1o7MR9HHwadRHHjfiSoovqSY=w408-h306-k-no",
+    "kgmid": "/g/11ts_m5fg3",
+    "businessProfileId": "12271808799558347322"
+  },
+  {
+    "title": "PATTY ACESSÓRIOS JÓIAS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Body piercing shop",
+    "address": "POP Shopping - R. Ten. Hinon Silva, 29 - Lj 39 - Centro, Ponta Grossa - PR, 84010-140, Brazil",
+    "neighborhood": "Centro",
+    "street": "POP Shopping - R. Ten. Hinon Silva, 29 - Lj 39",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-140",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99862-2527",
+    "phoneUnformatted": "+5542998622527",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0921512,
+      "lng": -50.1517395
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBUYohkga6JQR97fdc1Zoldo",
+    "categories": [
+      "Body piercing shop"
+    ],
+    "fid": "0x94e81a4886284605:0xda95685673ddb7f7",
+    "cid": "15750609992318564343",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 4,
+      "fiveStar": 17
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 6 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PATTY%20ACESS%C3%93RIOS%20J%C3%93IAS&query_place_id=ChIJBUYohkga6JQR97fdc1Zoldo",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmM7fYLLtEKZofO0vH30gpSMeCSN_j-okZbVqiOMRAN3v1t2e6JmeEDVGpqxkbHqms5w6uW0ar2QeqA9Gi8khUxHq3_g-KcQdyqNdWgy41xUajDM5YPWmaQ7Sqc3jC1a3WDo5BylA=w408-h544-k-no",
+    "kgmid": "/g/11g4hpbqxc",
+    "businessProfileId": "10358964340603281464"
+  },
+  {
+    "title": "A Fabulosa Loja de Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Novelty store",
+    "address": "R. Ermelino de Leão, 703 - Olarias, Ponta Grossa - PR, 84035-903, Brazil",
+    "neighborhood": "Olarias",
+    "street": "R. Ermelino de Leão, 703",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-903",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/afabulosaquiosques?igsh=MW9nZjd1NDZsaXIyZQ%3D%3D&utm_source=qr",
+    "phone": "+55 41 98778-4863",
+    "phoneUnformatted": "+5541987784863",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0949422,
+      "lng": -50.1525544
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJre9Gm9gb6JQRQ-1ssfCimOs",
+    "categories": [
+      "Novelty store"
+    ],
+    "fid": "0x94e81bd89b46efad:0xeb98a2f0b16ced43",
+    "cid": "16976497950025641283",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20Fabulosa%20Loja%20de%20Acess%C3%B3rios&query_place_id=ChIJre9Gm9gb6JQRQ-1ssfCimOs",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNbYTeWc4Lqg_3kgOoSW2okwhgw0GaWBjP3TbzsIKrq8IVa6wDIjtpVq2os5DkGZ1w0ZtL0BJHekMvuyCyMj-8jxY5JU9pAK3UhEPZsqCWz3TDGkjzl-x0oRLbFrRLg0iA3QEa=w408-h306-k-no",
+    "kgmid": "/g/11vr7_j64v",
+    "businessProfileId": "14244507429400232040"
+  },
+  {
+    "title": "EFFEÁ Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Fashion accessories store",
+    "address": "R. Ermelino de Leão, 703 - Olarias, Ponta Grossa - PR, 84035-903, Brazil",
+    "neighborhood": "Olarias",
+    "street": "R. Ermelino de Leão, 703",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-903",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://effea.com.br/",
+    "phone": "+55 42 99820-4224",
+    "phoneUnformatted": "+5542998204224",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0944583,
+      "lng": -50.1518785
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfat50UQa6JQRBhjAj70LzTo",
+    "categories": [
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81a44d179ab7d:0x3acd0bbd8fc01806",
+    "cid": "4237055733213960198",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=EFFE%C3%81%20Acess%C3%B3rios&query_place_id=ChIJfat50UQa6JQRBhjAj70LzTo",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmGkXkd5l8b84o-dArIsYAlNAcOHZY0LugEqNEY6-bgSpGT1Ym4EXtOGHMJ0_oXpf2evE1SHQqQioYjdpRgYMqlPb1Px9ZQhkG9C6Dg1ZyWF5_XB11U5DWOO1NaFtNque-IFtUbw=w408-h408-k-no",
+    "kgmid": "/g/11f2yxx00r",
+    "businessProfileId": "13688679130886956863"
+  },
+  {
+    "title": "Multijoias Palladium - Joias e Semijoias em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Jewelry store",
+    "address": "R. Ermelino de Leão, 703 - Lj T76 - Olarias, Ponta Grossa - PR, 84035-000, Brazil",
+    "neighborhood": "Olarias",
+    "street": "R. Ermelino de Leão, 703 - Lj T76",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3027-5554",
+    "phoneUnformatted": "+554230275554",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0940009,
+      "lng": -50.1521433
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX0yLZnLk3JQR-xW_ck6t0mA",
+    "categories": [
+      "Jewelry store",
+      "Jewelry buyer",
+      "Watch store"
+    ],
+    "fid": "0x94dce472668b4c5f:0x60d2ad4e72bf15fb",
+    "cid": "6976829325194499579",
+    "reviewsCount": 109,
+    "reviewsDistribution": {
+      "oneStar": 16,
+      "twoStar": 2,
+      "threeStar": 4,
+      "fourStar": 12,
+      "fiveStar": 75
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Multijoias%20Palladium%20-%20Joias%20e%20Semijoias%20em%20Ponta%20Grossa&query_place_id=ChIJX0yLZnLk3JQR-xW_ck6t0mA",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-0itGwbw3pSaun4RhfRNJm68MptGb_L0QWzL7AsfFRqa5TOv7eJaksy5OXJoxM2rqeicFs7Nilxzfnl1s4irT_qD2Oma7ex8Y9oGre9tRJuiWvQgTo5xajqZ3X0_pVQ1S5IACZw=w408-h291-k-no",
+    "kgmid": "/g/11gzchxzs",
+    "businessProfileId": "12257665014980186148"
+  },
+  {
+    "title": "LOJA 7 PONTA GROSSA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Variety store",
+    "address": "R. Fernandes Pinheiro, 90 - Centro, Ponta Grossa - PR, 84010-135, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Fernandes Pinheiro, 90",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-135",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99955-2011",
+    "phoneUnformatted": "+5542999552011",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0930651,
+      "lng": -50.1536793
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNfRVC1Ib6JQRo66dGePqEeM",
+    "categories": [
+      "Variety store"
+    ],
+    "fid": "0x94e81b520b55f435:0xe311eae3199daea3",
+    "cid": "16362117182321962659",
+    "reviewsCount": 46,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 4,
+      "fourStar": 6,
+      "fiveStar": 35
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LOJA%207%20PONTA%20GROSSA&query_place_id=ChIJNfRVC1Ib6JQRo66dGePqEeM",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4dg7BJoIm5fz1Luy1BSvc4QAfpQ3QCyAVwQhKGKEa7KDCJ82vJ25f2uQH0l8KpQWRiJcqUxWONoys71FV57ukLMynqzaa99_W94leRRyojvZQh8e1to0KpdR0LGb5BS91h89b=w408-h306-k-no",
+    "kgmid": "/g/11jz6jp0h6",
+    "businessProfileId": "8851140883623973972"
+  },
+  {
+    "title": "Lu Acessórios e Moda Feminina",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Comendador Miró, 1096 - Centro, Ponta Grossa - PR, 84010-160, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Comendador Miró, 1096",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/_lu_acessorios_lu_",
+    "phone": "+55 42 99931-5994",
+    "phoneUnformatted": "+5542999315994",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0929101,
+      "lng": -50.1641508
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJARfUFlQb6JQRPCJ93heakDs",
+    "categories": [
+      "Women's clothing store",
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81b5416d41701:0x3b909a17de7d223c",
+    "cid": "4292099872191750716",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lu%20Acess%C3%B3rios%20e%20Moda%20Feminina&query_place_id=ChIJARfUFlQb6JQRPCJ93heakDs",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHKmi-xjz0ZKdPd2fJFSZa84CauEGVfDLdTFI5UVEA1JHGNYgCZSIKZhH5w29x6CI4nt80tKBA_lBBufrpobV0kiOdLZgTDJiTcphAGtw_EzmFV4g5HH9D2GejIXPARMZ1UbI=w408-h544-k-no",
+    "kgmid": "/g/11vsp41fy0",
+    "businessProfileId": "16389240011195817340"
+  },
+  {
+    "title": "VIP CASE | Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cell phone accessory store",
+    "address": "Av. Dr. Vicente Machado, 384C - Centro, Ponta Grossa - PR, 84010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Dr. Vicente Machado, 384C",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 44 98831-3985",
+    "phoneUnformatted": "+5544988313985",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0949106,
+      "lng": -50.1598066
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdWTrjm4b6JQR5TG4RN5pnro",
+    "categories": [
+      "Cell phone accessory store"
+    ],
+    "fid": "0x94e81b6e8eeb6475:0xba9e69de44b831e5",
+    "cid": "13447301940731458021",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.616Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=VIP%20CASE%20%7C%20Ponta%20Grossa&query_place_id=ChIJdWTrjm4b6JQR5TG4RN5pnro",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHqpTbc6imgfv2RwThy-mAqnnpbM-RXUEuP9c1QPKKEkfLSAWuNzXqOTlKpFSc53Kfz9h64W4hacilaNL_UtzcnWopUATQ5QQHip5W2kL_BZswDceV9uAqLGdyL4tXq-AN5P3NkRmK2UI=w408-h725-k-no",
+    "kgmid": "/g/11zxkcfgwd",
+    "businessProfileId": "10167936668739830078"
+  },
+  {
+    "title": "Box 02 Acessórios Automotivos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car accessories store",
+    "address": "Av. Bpo. Dom Geraldo Pellanda - Centro, Ponta Grossa - PR, 84025-007, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bpo. Dom Geraldo Pellanda",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-007",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99920-0702",
+    "phoneUnformatted": "+5542999200702",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0927514,
+      "lng": -50.1518151
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpxN8mEIb6JQRmkhgLNC1_R4",
+    "categories": [
+      "Car accessories store"
+    ],
+    "fid": "0x94e81b42987c13a7:0x1efdb5d02c60489a",
+    "cid": "2233140895947966618",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 13
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.617Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Box%2002%20Acess%C3%B3rios%20Automotivos&query_place_id=ChIJpxN8mEIb6JQRmkhgLNC1_R4",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKjq20-09e_yrAx8TQY4rnKY705uEj_FypZgH5ePRNTudP2z4nfbIgRV3POVNOjkgbxK3a62Ru5yc9kx-7GW_Sj461UrU63YNPHchAjPV77-COcreZM7rqzFylO1z1RiiioqNu=w427-h240-k-no",
+    "kgmid": "/g/11fqzfp8mk",
+    "businessProfileId": null
+  },
+  {
+    "title": "Ponta Grossa Truck Acessórios Para Caminhões",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto parts store",
+    "address": "Nova Rússia, Ponta Grossa - Paraná, 84043-590, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": null,
+    "city": "Ponta Grossa",
+    "postalCode": null,
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3086-0011",
+    "phoneUnformatted": "+554230860011",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0854797,
+      "lng": -50.1913528
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvYKnr60Q6JQRmC05HqQAhbM",
+    "categories": [
+      "Auto parts store"
+    ],
+    "fid": "0x94e810adafa782bd:0xb38500a41e392d98",
+    "cid": "12935746209573318040",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 25
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.617Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ponta%20Grossa%20Truck%20Acess%C3%B3rios%20Para%20Caminh%C3%B5es&query_place_id=ChIJvYKnr60Q6JQRmC05HqQAhbM",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWle4E7zsppEpH5r-RB0NJ3IrYYPETkdPCtQUKUQF7iIi8_faVNhNg8Ljha_7-OunZc-FgzGlAM3l7rgQ1p3IyQfXq79bLLTv4r1nLn6-JymDO_JPs-GWDZyWZQIM7jO-EGN5ffF=w408-h306-k-no",
+    "kgmid": "/g/11h93fh0qc",
+    "businessProfileId": null
+  },
+  {
+    "title": "VOCARE ACESSÓRIOS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Jewelry designer",
+    "address": "R. Balduíno Taques, 501 - Estrela, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Balduíno Taques, 501",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.vocareacessorios.com.br/",
+    "phone": "+55 42 98837-1066",
+    "phoneUnformatted": "+5542988371066",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1036477,
+      "lng": -50.1618222
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9f0jwbIb6JQRqFJmroIJLVI",
+    "categories": [
+      "Jewelry designer"
+    ],
+    "fid": "0x94e81bb2c123fdf5:0x522d0982ae6652a8",
+    "cid": "5921399541938410152",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:14.617Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=VOCARE%20ACESS%C3%93RIOS&query_place_id=ChIJ9f0jwbIb6JQRqFJmroIJLVI",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20acess%C3%B3rios%20Ponta%20Grossa?hl=en",
+    "searchString": "loja de acessórios Ponta Grossa",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm42vGUAKXY_NGY3AU6xWSSW41dq9brn3UNCbZ6OKfDlKSfxttCZ8vBQLOb4q788FLsauJcdBlm0p6lib_Jq-eg5jKDavupl-qAnZW1ocQQrj0fAuCgppM5NrnJ6F3UBlnKphA=w408-h573-k-no",
+    "kgmid": "/g/11y4lxlptz",
+    "businessProfileId": "543587415285525800"
+  },
+  {
+    "title": "BRANDS OUTLET - PONTA GROSSA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "Av. Bonifácio Vilela, 166 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 166",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://linktr.ee/brandsoutletpontagrossa",
+    "phone": "+55 42 98444-7680",
+    "phoneUnformatted": "+5542984447680",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.091401,
+      "lng": -50.1592496
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqcolAj8a6JQRoffLpS5ux0w",
+    "categories": [
+      "Clothing store",
+      "Men's clothing store",
+      "Outlet store",
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81a3f0225caa9:0x4cc76e2ea5cbf7a1",
+    "cid": "5532511813877102497",
+    "reviewsCount": 675,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 5,
+      "threeStar": 7,
+      "fourStar": 24,
+      "fiveStar": 632
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.877Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Men's clothing": true
+        },
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BRANDS%20OUTLET%20-%20PONTA%20GROSSA&query_place_id=ChIJqcolAj8a6JQRoffLpS5ux0w",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlHwte2utRxZb5uiei645T0YxbZX1XW5r88bkmRZ6Ez34m8bgPxCFXBhw_uMrMqeVx4hty6wU6p-bNywtImXbxtlPWNc08DA-zwE23W94bN_qCHN1hSzOrSBEODEw8DOMZtIKnq4_E5v7jk=w415-h240-k-no",
+    "kgmid": "/g/11gbl1bp96",
+    "businessProfileId": "18368079654803502069"
+  },
+  {
+    "title": "Feníce - Moda feminina",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Ten. Pinto Duarte, 21 - And 1 - Centro, Ponta Grossa - PR, 84010-740, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Ten. Pinto Duarte, 21 - And 1",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-740",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://instagram.com/fenicestore.br?utm_medium=copy_link",
+    "phone": "+55 42 99864-8364",
+    "phoneUnformatted": "+5542998648364",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.092958,
+      "lng": -50.1541905
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiVqM9Oob6JQR6Os4umYklho",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81beaf48c5a89:0x1a962466ba38ebe8",
+    "cid": "1915758715122281448",
+    "reviewsCount": 102,
+    "reviewsDistribution": {
+      "oneStar": 11,
+      "twoStar": 1,
+      "threeStar": 4,
+      "fourStar": 5,
+      "fiveStar": 81
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.877Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fen%C3%ADce%20-%20Moda%20feminina&query_place_id=ChIJiVqM9Oob6JQR6Os4umYklho",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlVBvAgaC_lrTWPOl5JcWWrnyYiT-DME1POpODZ489CinHIbGUkIXq6rV6gDb6RrtsH3q5TJN1GHouohuwUbqQIe7SYAoQRnziXH_CA6SCPEJWy_HpDwwKcm4Qth6NTnrmQgLbK=w408-h544-k-no",
+    "kgmid": "/g/11ll36wpwn",
+    "businessProfileId": "596852011331511788"
+  },
+  {
+    "title": "Gata Z | Loja de roupas femininas | Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Dr. Paula Xavier, 1155 - Centro, Ponta Grossa - PR, 84010-270, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Paula Xavier, 1155",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/gatazstore/",
+    "phone": "+55 42 99106-7713",
+    "phoneUnformatted": "+5542991067713",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0988885,
+      "lng": -50.1619026
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkVc_okEa6JQR651iLzDA0Ow",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81a41a23f5791:0xecd0c0302f629deb",
+    "cid": "17064350301292764651",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 29
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gata%20Z%20%7C%20Loja%20de%20roupas%20femininas%20%7C%20Ponta%20Grossa&query_place_id=ChIJkVc_okEa6JQR651iLzDA0Ow",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnHjz6mc-mhOTohM7CIfPfyKNwtkpf4YioIbRBHBJdwQ228uA9wo2zQFrWZ2ck_4wTTZyEeZk1fL5-3lbareOk8aZ5Nf7eT8qSh49V4hG1EHz2-I3BY0gsbLCoCpiUnKDb1lYkOHrUKSh9E=w408-h306-k-no",
+    "kgmid": "/g/1hc1tx86b",
+    "businessProfileId": "1148343097894971958"
+  },
+  {
+    "title": "Loja Padrão Ponta Grossa - Moda Masculina e Feminina",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Ermelino de Leão, 703 - Olarias, Ponta Grossa - PR, 84035-000, Brazil",
+    "neighborhood": "Olarias",
+    "street": "R. Ermelino de Leão, 703",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.lojapadrao.com.br/",
+    "phone": "+55 41 99167-1924",
+    "phoneUnformatted": "+5541991671924",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0945825,
+      "lng": -50.1526854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkXWL2UUa6JQR1JTk_8HqYoU",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81a45d98b7591:0x8562eac1ffe494d4",
+    "cid": "9611502673704817876",
+    "reviewsCount": 156,
+    "reviewsDistribution": {
+      "oneStar": 15,
+      "twoStar": 6,
+      "threeStar": 26,
+      "fourStar": 25,
+      "fiveStar": 84
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Loja%20Padr%C3%A3o%20Ponta%20Grossa%20-%20Moda%20Masculina%20e%20Feminina&query_place_id=ChIJkXWL2UUa6JQR1JTk_8HqYoU",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkV6GZGWrZ08ZLI100kmNV5EmT54LuP4Ex37WUVAGhlnQUXfppznXrYhvnSREG7iGdYecaUrg2o0KgDmp0VeRhyiYIxXafq_k-VgAgRChVszQT676WJdFcb-ynefFl4dAHncK84=w425-h240-k-no",
+    "kgmid": "/g/1tj4zw1r",
+    "businessProfileId": "10678347087696903813"
+  },
+  {
+    "title": "Lojão 10 mais OUTLET - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "Av. Dr. Vicente Machado, 349 - Centro, Ponta Grossa - PR, 84010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Dr. Vicente Machado, 349",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98816-5473",
+    "phoneUnformatted": "+5542988165473",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0950669,
+      "lng": -50.1593967
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv0Hmv4kb6JQRC7SP5AvX-z0",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81b89bfe641bf:0x3dfbd70be48fb40b",
+    "cid": "4466399901547213835",
+    "reviewsCount": 267,
+    "reviewsDistribution": {
+      "oneStar": 12,
+      "twoStar": 3,
+      "threeStar": 15,
+      "fourStar": 39,
+      "fiveStar": 198
+    },
+    "imagesCount": 157,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "10 AM–5:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM–5:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM–5:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM–5:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM–5:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–5:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Loj%C3%A3o%2010%20mais%20OUTLET%20-%20Ponta%20Grossa&query_place_id=ChIJv0Hmv4kb6JQRC7SP5AvX-z0",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmfmHX8zHZK23iP07pjM1eRxekPAHy3kagBI1_CY5iuuxtlCHpTOopTVRmx8d-qRGwL_CLvTb5e4j2jA4HPz1UuWY-00NlkXRoIj6i341SeM0fttg7HYUmrPg1nreTPud4vYGNE=w426-h240-k-no",
+    "kgmid": "/g/11fktt0lmd",
+    "businessProfileId": "11239245591575048986"
+  },
+  {
+    "title": "Vittoria Reggi",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Dr. Colares, 347 - Centro, Ponta Grossa - PR, 84010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Colares, 347",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/vittoria_reggi/",
+    "phone": "+55 42 99817-0279",
+    "phoneUnformatted": "+5542998170279",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0957656,
+      "lng": -50.1593338
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDVRFbEEa6JQRDwRrazCiN-0",
+    "categories": [
+      "Women's clothing store",
+      "Dress store",
+      "Fashion accessories store",
+      "Shoe store"
+    ],
+    "fid": "0x94e81a416c45540d:0xed37a2306b6b040f",
+    "cid": "17093309239552312335",
+    "reviewsCount": 84,
+    "reviewsDistribution": {
+      "oneStar": 17,
+      "twoStar": 1,
+      "threeStar": 4,
+      "fourStar": 3,
+      "fiveStar": 59
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vittoria%20Reggi&query_place_id=ChIJDVRFbEEa6JQRDwRrazCiN-0",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSRy0DhOjg6aWYNorzVNB7HjLQ8JRTz_gm0RtMMVR0EdQDrg8Xl40YFWPvgbL2J7f7ycTBXSyNK5cyZAUN1YQrIku5tzRjAJGpMW4mmQTngEGuuWC7CpS30PFtwL14KsWpeb7kbQ=w408-h306-k-no",
+    "kgmid": "/g/11dymgl4xx",
+    "businessProfileId": null
+  },
+  {
+    "title": "Atual Modas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "Praca Barão do Rio Branco, 80 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Praca Barão do Rio Branco, 80",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://useatualmodas.lojavirtualnuvem.com.br/",
+    "phone": "+55 42 99991-0769",
+    "phoneUnformatted": "+5542999910769",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0935801,
+      "lng": -50.1590391
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeyblsPgb6JQRpdCMfMVcDFo",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81bf8b0e5267b:0x5a0c5cc57c8cd0a5",
+    "cid": "6488663166401958053",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Atual%20Modas&query_place_id=ChIJeyblsPgb6JQRpdCMfMVcDFo",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKIIm5CWO5eTJyaoSNLDu_8m4o0iHQ9daoCmRiMHMI8jsF3zOTeEsNlbTwM2Q_ocy37a1h3gdPOcp21c0PDYd1wMBBv7tHj9q1OVji_UNFZ7BfdWlF-0KfK0JPnN3kuTxGFBXqcze8mGHp=w408-h725-k-no",
+    "kgmid": "/g/11sj5bmfhs",
+    "businessProfileId": "12884978670115829282"
+  },
+  {
+    "title": "Dig For Fashion Ponta Grossa - Brechó",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Used clothing store",
+    "address": "R. Balduíno Taques, 203 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 203",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.digforfashion.com/collabs",
+    "phone": "+55 42 99121-7241",
+    "phoneUnformatted": "+5542991217241",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0980884,
+      "lng": -50.1624926
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUXyIIjkb6JQRlnwSlVP_UPI",
+    "categories": [
+      "Used clothing store",
+      "Clothing store",
+      "Vintage clothing store",
+      "Youth clothing store"
+    ],
+    "fid": "0x94e81b3922887c51:0xf250ff5395127c96",
+    "cid": "17460736489763798166",
+    "reviewsCount": 680,
+    "reviewsDistribution": {
+      "oneStar": 30,
+      "twoStar": 12,
+      "threeStar": 11,
+      "fourStar": 12,
+      "fiveStar": 615
+    },
+    "imagesCount": 292,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Buys used goods": true
+        },
+        {
+          "Used goods": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Recycling": [
+        {
+          "Clothing": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dig%20For%20Fashion%20Ponta%20Grossa%20-%20Brech%C3%B3&query_place_id=ChIJUXyIIjkb6JQRlnwSlVP_UPI",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkheRLn3k70yloI9lkzpOTN0CPwAaJyXCVQnCbob6HADfZ1Fg-jXTsh8R1nT8lREB7H5Qe7AanZ97PIc8jMIcV-5QKCScZbibg4HTjkbEZJu2iYKOzxp_LPWPh4C2_ktSkQdtO2=w408-h577-k-no",
+    "kgmid": "/g/11j8k39yxr",
+    "businessProfileId": "10108327159652025294"
+  },
+  {
+    "title": "Dona de Mim | Loja de roupas em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "Av. Bonifácio Vilela, 122 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 122",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://gera.bio/donademim",
+    "phone": "+55 42 99103-8330",
+    "phoneUnformatted": "+5542991038330",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0918785,
+      "lng": -50.1592838
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM8aGtdkb6JQRl77GS1cIljw",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81bd9b586c633:0x3c9608574bc6be97",
+    "cid": "4365686059808767639",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–5 PM"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dona%20de%20Mim%20%7C%20Loja%20de%20roupas%20em%20Ponta%20Grossa&query_place_id=ChIJM8aGtdkb6JQRl77GS1cIljw",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWneKCXt_NA9ApwWqoX-8QcjoPo7IwUJ8_54_yzvySGZAuao3Cuobj9g0e4kfX28Vnjt1LtEnKECDHLZVC_Qbp-w3dMVOUzTtOZf9HEhQtaqyU3UeyKKLS-HpeOe8wbAliEY9aL35mTpdJzo=w408-h612-k-no",
+    "kgmid": "/g/11vz6mlg1h",
+    "businessProfileId": "7952063703517853601"
+  },
+  {
+    "title": "Paula Baccaro Store",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "ao lado do Chaveiro - Av. Bonifácio Vilela, 113 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "ao lado do Chaveiro - Av. Bonifácio Vilela, 113",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://paulabaccarostore.lojavirtualnuvem.com.br/",
+    "phone": "+55 44 99824-7045",
+    "phoneUnformatted": "+5544998247045",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0920296,
+      "lng": -50.1594578
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlX4Plhsb6JQRfDr9ZhqmTSM",
+    "categories": [
+      "Women's clothing store",
+      "Clothing store"
+    ],
+    "fid": "0x94e81b1b960f7e95:0x234da61a66fd3a7c",
+    "cid": "2543871996861430396",
+    "reviewsCount": 245,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 240
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Paula%20Baccaro%20Store&query_place_id=ChIJlX4Plhsb6JQRfDr9ZhqmTSM",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnuawJDXl5hR36qbZdariHvF7_FXqb61VHaLZ0d_7GqpiGWv7GzhfLidMlEOCbAe-TpkbhRX-onVrqEiygR9jeRrvRfLnX_TwFf2O1bBDIQLXWncpyNbTZBkppgotu63bOqnYTE_Q=w408-h544-k-no",
+    "kgmid": "/g/11pctm5933",
+    "businessProfileId": "16352883595065661614"
+  },
+  {
+    "title": "Iris Moda Mulher",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "Av. Bonifácio Vilela, 175 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 175",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.irismodamulher.com.br/",
+    "phone": "+55 42 99948-2000",
+    "phoneUnformatted": "+5542999482000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0913511,
+      "lng": -50.1596072
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN5Nbez8a6JQRl5nrpcgpZDE",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81a3f7b5b9337:0x316429c8a5eb9997",
+    "cid": "3559015547283413399",
+    "reviewsCount": 52,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 7,
+      "fiveStar": 41
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        },
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Iris%20Moda%20Mulher&query_place_id=ChIJN5Nbez8a6JQRl5nrpcgpZDE",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkU--ZVfqBDH7pOh-dtBWLqoGM4ZJFRwjX4JQFC2EuDayqKMbsTe2eiVIwFepwc-lo1SbCM3kghkq-B4ckcgPVB4EQ2HOumuKLlaVINOy_yNzMjFfmr2MBth2gkumPY8qXTwTM5Kw=w408-h408-k-no",
+    "kgmid": "/g/1t_tlftr",
+    "businessProfileId": "13176233633437914863"
+  },
+  {
+    "title": "Rosa Rosé Concept Moda Feminina",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Dr. Colares, 603 - Centro, Ponta Grossa - PR, 84010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Colares, 603",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99851-4863",
+    "phoneUnformatted": "+5542998514863",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.09611,
+      "lng": -50.1618122
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdShYR8Mb6JQRx-7zX5UE7UM",
+    "categories": [
+      "Women's clothing store",
+      "Fashion accessories store"
+    ],
+    "fid": "0x94e81bc347582875:0x43ed04955ff3eec7",
+    "cid": "4894573409628057287",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.878Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rosa%20Ros%C3%A9%20Concept%20Moda%20Feminina&query_place_id=ChIJdShYR8Mb6JQRx-7zX5UE7UM",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLoUdkDYRqu_e3593ZQAF8g1dcoNJ2_-2IQ35k34VEX6tSAQXhkssXyZamGKJCMPhXA5fxETkEnx5mVdr4Sorxkz3xcmEvo58njmjDc2Oy8tNGeUEYdCOJHDxQVaVIPvFZ2jjTwQ=w408-h272-k-no",
+    "kgmid": "/g/11l6xqhl64",
+    "businessProfileId": "16087092250318425620"
+  },
+  {
+    "title": "Saron Modas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Sant'Ana, 983 - Centro, Ponta Grossa - PR, 84010-320, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Sant'Ana, 983",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-320",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://saronmodas.com.br/",
+    "phone": "+55 42 99917-7121",
+    "phoneUnformatted": "+5542999177121",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0946634,
+      "lng": -50.1598834
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlbIy0Job6JQRafNWgYIh0Qk",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81b9ad032b295:0x9d121828156f369",
+    "cid": "707383460873302889",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Saron%20Modas&query_place_id=ChIJlbIy0Job6JQRafNWgYIh0Qk",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRGGRWwU8A1yNdgJs20SgIK7IxJ8iq3polKCZybKbhCnQfvQEmN-EFXBOHF5HkEuySfNY9oJS4w0SzAqzMc3bG7PqFe5FZDWv4rAgFn9eu5q07a0wUithjyRV2LkU26B89nZxM=w408-h725-k-no",
+    "kgmid": "/g/11pv34dbd8",
+    "businessProfileId": "16633223100916131418"
+  },
+  {
+    "title": "Loja Ana Rosa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Dezenove de Dezembro, 406 - Centro, Ponta Grossa - PR, 84010-390, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dezenove de Dezembro, 406",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-390",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99985-2971",
+    "phoneUnformatted": "+5542999852971",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.08993,
+      "lng": -50.1556652
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp7soegYb6JQRyVhsqacdyto",
+    "categories": [
+      "Women's clothing store",
+      "Clothing store"
+    ],
+    "fid": "0x94e81b067a28bba7:0xdaca1da7a96c58c9",
+    "cid": "15765446051503036617",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 19
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        },
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Loja%20Ana%20Rosa&query_place_id=ChIJp7soegYb6JQRyVhsqacdyto",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmizSJmsTVJZI2j8EjL3h1wm7w5ABiP4lc_qoDgrJmddtl5eFUMKSafSiNzQ002xPsAEXZ8V5PsizrHM6CjFzR_fq5syT3CiBTO3v28hec3JRIDr_dnPSHSzaPkm5sPjJYBLVjfEg=w408-h306-k-no",
+    "kgmid": "/g/11fklkbvsq",
+    "businessProfileId": "979609328853525705"
+  },
+  {
+    "title": "LORD Magazin",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Balduíno Taques, 647 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 647",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://lordmagazin.com.br/",
+    "phone": "+55 42 99977-6333",
+    "phoneUnformatted": "+5542999776333",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0942305,
+      "lng": -50.1633915
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFVqVvGoa6JQRGlzVgGtDUpw",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81a6abc955a15:0x9c52436b80d55c1a",
+    "cid": "11264139747009059866",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 13
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LORD%20Magazin&query_place_id=ChIJFVqVvGoa6JQRGlzVgGtDUpw",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5QRpvbZVzet40gv7dVzSSlOIDqQGJZsBUVR109ftcdeB_YRNMfoYjzhYdMDlV7cb9_ilNnnTqCbJRBqK0d4KQaWrvTgBVSVv7C-OaX_uVyET4C713tDEhhfUTDkWGURz7zc1h7Q8I6dBu=w408-h272-k-no",
+    "kgmid": "/g/11v9c3rznx",
+    "businessProfileId": "9353324120038463679"
+  },
+  {
+    "title": "Via Rosé",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Boutique",
+    "address": "R. Cel. Bitencourt, Número 111 - Sl 02 - Centro, Ponta Grossa - PR, 84010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Bitencourt, Número 111 - Sl 02",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/via__rose?igsh=bG5qZTQxYTg0Y3d1",
+    "phone": "+55 42 99874-2525",
+    "phoneUnformatted": "+5542998742525",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0922122,
+      "lng": -50.1611188
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY-T3Q60b6JQRPNcSH7SnknM",
+    "categories": [
+      "Boutique"
+    ],
+    "fid": "0x94e81bad43f7e463:0x7392a7b41f12d73c",
+    "cid": "8327903053018748732",
+    "reviewsCount": 126,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 120
+    },
+    "imagesCount": 73,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Recycling": [
+        {
+          "Clothing": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Via%20Ros%C3%A9&query_place_id=ChIJY-T3Q60b6JQRPNcSH7SnknM",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZXW6BhZpDZ9D_20Y1PpwfQ9Np-1o06voYf0ud5M53fQecjWMfaxg3p3OQ59kWd_gt0KShWZnhyGLHfT_T58_iiFubN959wffv3yBYsZ_E9XPIdFrnT0UDs4ozvgSso0uzYdsg=w427-h240-k-no",
+    "kgmid": "/g/11mts056zk",
+    "businessProfileId": "4185121568361493187"
+  },
+  {
+    "title": "Berth Store",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Balduíno Taques, 1445 - Órfãs, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Balduíno Taques, 1445",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/pages/Berth-Store/353420654840115",
+    "phone": "+55 42 99128-2123",
+    "phoneUnformatted": "+5542991282123",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0870722,
+      "lng": -50.1649951
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgZF7sBka6JQR6A2i5BSuKpg",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81a19b07b9181:0x982aae14e4a20de8",
+    "cid": "10964767647545298408",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 21
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 12 PM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 12 PM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 12 PM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 12 PM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 12 PM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Berth%20Store&query_place_id=ChIJgZF7sBka6JQR6A2i5BSuKpg",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5B6cxoN33UqKHA0SlnVloreNlaAPU2QXXz3vgkUgr47TCDpBGL4GWjfC8k9veNxHHXSN3LSe38XlAM8n6FB-4XmvoF5lrmVvnpc4KShaHrWKHzGC93d1MJjDU9pumM9GwBGlfxA=w611-h240-k-no",
+    "kgmid": "/g/11c3s97_lz",
+    "businessProfileId": "2730743659899138548"
+  },
+  {
+    "title": "Fabiana Fashion",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Balduíno Taques, 778 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 778",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://business.google.com/dashboard/l/10133948581376923860?hl=pt-BR",
+    "phone": "+55 42 3222-3628",
+    "phoneUnformatted": "+554232223628",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0929763,
+      "lng": -50.1634411
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX_8NTBUa6JQRrhty5kuJcXs",
+    "categories": [
+      "Clothing store",
+      "Designer clothing store",
+      "Maternity store"
+    ],
+    "fid": "0x94e81a154c0dff5f:0x7b71894be6721bae",
+    "cid": "8895041698115230638",
+    "reviewsCount": 76,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 3,
+      "threeStar": 2,
+      "fourStar": 16,
+      "fiveStar": 53
+    },
+    "imagesCount": 104,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fabiana%20Fashion&query_place_id=ChIJX_8NTBUa6JQRrhty5kuJcXs",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkS91ATXDHvyDv_PB1OzTpHu-BTBZgvaA9yYEQADTR1f0LToqMAZsXeCndGLbhK5uk37so7oQE_GifD9c6-0xKGBwzUdKA__Bi3mD-hPZwaTTxU4xVDtcpNDEIYEqNVOpNslUQvLw=w408-h306-k-no",
+    "kgmid": "/g/1vf9djbg",
+    "businessProfileId": "17527836825411677507"
+  },
+  {
+    "title": "Benício's Store | Ternos em Ponta Grossa | Moda Social e Casual Masculina",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Quinze de Novembro, 364 - Centro, Ponta Grossa - PR, 84010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quinze de Novembro, 364",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/beniciosstore",
+    "phone": "+55 42 99920-3282",
+    "phoneUnformatted": "+5542999203282",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0963751,
+      "lng": -50.1591474
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN80QzCIb6JQRp6nxZuWQYOA",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81b22cc10cd37:0xe06090e566f1a9a7",
+    "cid": "16168081977209104807",
+    "reviewsCount": 77,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 73
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ben%C3%ADcio's%20Store%20%7C%20Ternos%20em%20Ponta%20Grossa%20%7C%20Moda%20Social%20e%20Casual%20Masculina&query_place_id=ChIJN80QzCIb6JQRp6nxZuWQYOA",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm-NYvzKKdkzDh9jojLml82uY7f35-BVaFe8YlFY1lXglZTRbZ6c5_cROXc9z9pfcVHxjLTgtddqbFFisoW7nt7ANHKbW1v62d26PNtZheczwdWrYZsv0GmjlD31SXa9n3L2EEdGQksqJ4_=w426-h240-k-no",
+    "kgmid": "/g/11k47vmq8r",
+    "businessProfileId": "5529495220839627522"
+  },
+  {
+    "title": "Lidi Modas Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Fagundes Varela, 2662 - Neves, Ponta Grossa - PR, 84020-010, Brazil",
+    "neighborhood": "Neves",
+    "street": "R. Fagundes Varela, 2662",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98409-8686",
+    "phoneUnformatted": "+5542984098686",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0757288,
+      "lng": -50.1284367
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSVPlf6wb6JQRW9OVt8SXXis",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81bac7fe55349:0x2b5e97c4b795d35b",
+    "cid": "3125102062591136603",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:23.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Offerings": [
+        {
+          "Women's clothing": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lidi%20Modas%20Ponta%20Grossa&query_place_id=ChIJSVPlf6wb6JQRW9OVt8SXXis",
+    "searchPageUrl": "https://www.google.com/maps/search/loja%20de%20roupas%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "loja de roupas em Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlCCtRbFOjP6w9IYVkzJkRbNPyButCZ9hyKSupZBR0m8ban5Tgrzjr81j7qHSteHsBP2HefyWoliZQPIdBP2Spbv-1GztjuwJh8kjStYkHlnDMc1moTTzhvaG4pIt9vosnciyrRMB7-Pr8=w408-h725-k-no",
+    "kgmid": "/g/11zbswy620",
+    "businessProfileId": "14337573397476893906"
+  },
+  {
+    "title": "Brilho Rosa Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Benjamin Constant, 1 - Lj 04 - Olarias, Ponta Grossa - PR, 84010-380, Brazil",
+    "neighborhood": "Olarias",
+    "street": "R. Benjamin Constant, 1 - Lj 04",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-380",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.brilhorosa.com.br/",
+    "phone": "+55 42 99968-5708",
+    "phoneUnformatted": "+5542999685708",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1002842,
+      "lng": -50.1563302
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP854W_Qb6JQRWgkzKGM8nnk",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81bf45b78ce3f:0x799e3c632833095a",
+    "cid": "8763508321483426138",
+    "reviewsCount": 70,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 70
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brilho%20Rosa%20Boutique&query_place_id=ChIJP854W_Qb6JQRWgkzKGM8nnk",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yxm_qFTF13b7au-V1XBnmg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=167.23543&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vj54_y62",
+    "businessProfileId": "5765608674550468279"
+  },
+  {
+    "title": "Dari Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Outerwear store",
+    "address": "R. Carlos de Laet, 131 - Oficinas, Ponta Grossa - PR, 84035-440, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Carlos de Laet, 131",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-440",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://abre.ai/dariboutique",
+    "phone": "+55 42 99923-7535",
+    "phoneUnformatted": "+5542999237535",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1131348,
+      "lng": -50.1535621
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoY7lk4Ib6JQRw84Unz_sl9w",
+    "categories": [
+      "Outerwear store"
+    ],
+    "fid": "0x94e81b8293e58ea1:0xdc97ec3f9f14cec3",
+    "cid": "15895433167823490755",
+    "reviewsCount": 25,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dari%20Boutique&query_place_id=ChIJoY7lk4Ib6JQRw84Unz_sl9w",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlScFqn4tGdIVc2yXgT7YETvTLjXke0Z7yCmMrftQW5o_Ou8kJLCRS1fbPsOT-TP0xOHpj6v1EICYiTmbKXaM5_mWlcHoBVilm-Rl1TuG2bT2eRqdMUlm3dtZCZjsoH0Ld3AWrt_EBCK3g=w408-h306-k-no",
+    "kgmid": "/g/11mmlxd3f7",
+    "businessProfileId": "3164437032439515046"
+  },
+  {
+    "title": "J&B Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "galeria Oásis, Open Mall - Avenida bispo dom Geraldo Pelanda, anexo a, sala 12, Ponta Grossa - PR, 84025-007, Brazil",
+    "neighborhood": "Estrela",
+    "street": "galeria Oásis, Open Mall - Avenida bispo dom Geraldo Pelanda, anexo a, sala 12",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-007",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/boutiquejeb?igsh=ZzBhNWRlZWwwcXV6",
+    "phone": "+55 42 99962-1441",
+    "phoneUnformatted": "+5542999621441",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1032377,
+      "lng": -50.1586124
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI4lmEO4b6JQR_-2Gn4ES6H0",
+    "categories": [
+      "Women's clothing store",
+      "Men's clothing store"
+    ],
+    "fid": "0x94e81bee10668923:0x7de812819f86edff",
+    "cid": "9072521797274365439",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=J%26B%20Boutique&query_place_id=ChIJI4lmEO4b6JQR_-2Gn4ES6H0",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7uDzVUo2BStUW0LeVXRIHchu2SXTfm5VuASDdbsUMxdgd5rYumHdlztRfq2g8s1Ed0ATITuNUxBiveJQA-JpxMyhlMMBDmrAvVg5Xu6Hhn3almpEM-ypm0D8LIuLJnD4ADDeIPP6P2s0=w408-h611-k-no",
+    "kgmid": "/g/11y9qt38gs",
+    "businessProfileId": "5372289956355114020"
+  },
+  {
+    "title": "Studio Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Cel. Dulcídio, 629 - Sl 01 - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 629 - Sl 01",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/BoutiqueStudioZ/",
+    "phone": "+55 42 3224-3336",
+    "phoneUnformatted": "+554232243336",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0954886,
+      "lng": -50.1614024
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJx2LFtUEa6JQRTBLHThFp3ak",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81a41b5c562c7:0xa9dd69114ec7124c",
+    "cid": "12240054885319905868",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Studio%20Boutique&query_place_id=ChIJx2LFtUEa6JQRTBLHThFp3ak",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBP6KGgugf_fRS-R8mYaajhd5nLjKeH81s2gaWj0kiA65uCDkYXjaB3IY_7o7YFDXcNzoGrdiPrt_DEjcaDntMY29msZ8xgORxlYa5CW9Naatfnxxw6-8_YBSzWhMS27m3pI9d=w408-h240-k-no-pi-0-ya120.89844-ro0-fo100",
+    "kgmid": "/g/11gb3tcnls",
+    "businessProfileId": "15528991959029893213"
+  },
+  {
+    "title": "GioBella Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "Em anexo Condor - Av. General Carlos Cavalcanti, 707 - Lj 09 - Uvaranas, Ponta Grossa - PR, 84025-000, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Em anexo Condor - Av. General Carlos Cavalcanti, 707 - Lj 09",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99997-2548",
+    "phoneUnformatted": "+5542999972548",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0905477,
+      "lng": -50.1449081
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQT4ZNzIb6JQRNLPK6CtcUtU",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81b3237193e41:0xd5525c2be8cab334",
+    "cid": "15371449821827871540",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GioBella%20Boutique&query_place_id=ChIJQT4ZNzIb6JQRNLPK6CtcUtU",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnyXxIC_3nfDf0HEGVlOpoKCe3Ak46h16TmnJDDT32nxKXC_LbZq-wCCaxbs9lajM8O_yiW-phTF5I28BLasbm7AUZ0ZtezUbmNhRg6_gDtqljTrmzxUXQ-uC-os4w3WCP9bW44Tn5Pghrc=w408-h240-k-no-pi4.477075-ya19.723686-ro3.7537124-fo100",
+    "kgmid": "/g/11wg8h9qj6",
+    "businessProfileId": null
+  },
+  {
+    "title": "Zion Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Dr. Francisco Burzio, 901 - Centro, Ponta Grossa - PR, 84010-200, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Francisco Burzio, 901",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.zionboutique.com.br/",
+    "phone": "+55 42 99131-0404",
+    "phoneUnformatted": "+5542991310404",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0900909,
+      "lng": -50.1627988
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW8iCIkEa6JQRbDJZcus5HIo",
+    "categories": [
+      "Clothing store",
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81a412282c85b:0x8a1c39eb7259326c",
+    "cid": "9951892959980499564",
+    "reviewsCount": 59,
+    "reviewsDistribution": {
+      "oneStar": 11,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 43
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zion%20Boutique&query_place_id=ChIJW8iCIkEa6JQRbDJZcus5HIo",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2_wyJXnK2gZilsBnuhrpysXiS79hDGjRspq0MbVS6BaOsiwWWI9HV2NNbNmCprUs0ToZD4hxuFzSSVB8AC3WNVRzSaZdA-H3M67xyJG7t54jM68-y9M2FjgVFdglnRdpgliio=w408-h272-k-no",
+    "kgmid": "/g/11btxgzns7",
+    "businessProfileId": null
+  },
+  {
+    "title": "Andrea Arnaud Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Store",
+    "address": "R. Cel. Francisco Ribas, 1012 - Sl 01 - Centro, Ponta Grossa - PR, 84010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Francisco Ribas, 1012 - Sl 01",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98402-0006",
+    "phoneUnformatted": "+5542984020006",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0851022,
+      "lng": -50.1633121
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNYnldgAb6JQRqFpDFa8jkBw",
+    "categories": [
+      "Store"
+    ],
+    "fid": "0x94e81b0076e58935:0x1c9023af15435aa8",
+    "cid": "2058184264591301288",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Andrea%20Arnaud%20Boutique&query_place_id=ChIJNYnldgAb6JQRqFpDFa8jkBw",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVX7IQ4PcNxQKlNOMAAHH14RQjX7agPnLPsw-fOrj39XIZb_ZUsfAtuTYl6E1-gYr2nfZRs5rQgC9xlTKO4Ig1-vDu8xf9XHyQFh-hn085nt89aDfzm3UBP4RlXAPcK2m53z4t1A=w408-h544-k-no",
+    "kgmid": "/g/11ln2sjjsl",
+    "businessProfileId": "2465769272725219397"
+  },
+  {
+    "title": "LA GRIFFE BOUTIQUE",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Outlet store",
+    "address": "Rua Anita Garibaldi, 972 - Órfãs, Ponta Grossa - PR, 84015-050, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "Rua Anita Garibaldi, 972",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://contate.me/lagriffe",
+    "phone": "+55 42 98804-9499",
+    "phoneUnformatted": "+5542988049499",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0803413,
+      "lng": -50.1670683
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsVZzgRQb6JQRDI3BSA78hJE",
+    "categories": [
+      "Outlet store"
+    ],
+    "fid": "0x94e81b14817356b1:0x9184fc0e48c18d0c",
+    "cid": "10485782970705743116",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LA%20GRIFFE%20BOUTIQUE&query_place_id=ChIJsVZzgRQb6JQRDI3BSA78hJE",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fsco4QBWGYAq5362_Y2jIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=125.28972&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tg2wxv27",
+    "businessProfileId": "17114965275968890043"
+  },
+  {
+    "title": "Boutique Henny Araujo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Júlia Lopes, 630 - Órfãs, Ponta Grossa - PR, 84070-202, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Júlia Lopes, 630",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-202",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://facebook.com/hennyaraujofashionstore",
+    "phone": "+55 42 99986-8632",
+    "phoneUnformatted": "+5542999868632",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0818713,
+      "lng": -50.1701537
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTbjAoRsa6JQRtC4K96olK0g",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81a1ba1c0b84d:0x482b25aaf70a2eb4",
+    "cid": "5200291610948677300",
+    "reviewsCount": 42,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 40
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boutique%20Henny%20Araujo&query_place_id=ChIJTbjAoRsa6JQRtC4K96olK0g",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllsosPSbJONiX9xmloFHFVp_V1YoCMjtF1IavD6zIOjJDbCYwQLT9JD4OpLzoCXGdhdlddiPer0PP9kEWZCa0e_mDS045snumWM3IMdEmYYdyiLcYuzAs2tS_sNN33bVx4KL4hwg=w408-h544-k-no",
+    "kgmid": "/g/1hc7jv4cn",
+    "businessProfileId": null
+  },
+  {
+    "title": "Femminile Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Sete de Setembro, 715 - Centro, Ponta Grossa - PR, 84010-350, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Sete de Setembro, 715",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-350",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99814-9964",
+    "phoneUnformatted": "+5542998149964",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0959221,
+      "lng": -50.1581659
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTQzeDAAb6JQRii3l_TU3D1o",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81b000cde0c4d:0x5a0f3735fde52d8a",
+    "cid": "6489466293096623498",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Femminile%20Boutique&query_place_id=ChIJTQzeDAAb6JQRii3l_TU3D1o",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0WBD79IxuNoRXUm71QqQdw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=235.34448&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vm9gx_76",
+    "businessProfileId": null
+  },
+  {
+    "title": "OU.Z Concept Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "Edifício torres cezanne - Dr, R. Dr. Leopoldo Guimarães da Cunha, 234 - sala 212 - Centro, Ponta Grossa - PR, 84035-310, Brazil",
+    "neighborhood": "Centro",
+    "street": "Edifício torres cezanne - Dr, R. Dr. Leopoldo Guimarães da Cunha, 234 - sala 212",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://instagram.com/ou.zconcept/?hl=pt-br",
+    "phone": "+55 42 98808-8843",
+    "phoneUnformatted": "+5542988088843",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1102227,
+      "lng": -50.1574857
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtUvUWs8b6JQRHZ3fZttScAE",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81bcf5ad44bb5:0x17052db66df9d1d",
+    "cid": "103673893706767645",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OU.Z%20Concept%20Boutique&query_place_id=ChIJtUvUWs8b6JQRHZ3fZttScAE",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmP7K2u6jZbWn8DTMWvzURQgK1AZExnTYV8xFXYvrGOyATJ-Q-x8LSPCvfwpYICvH0KsKUddft1g-Yt9aadpjbvEkbkrDCKx2TPs06RNUv4SXGFZRjmiUQRSc6ombXE7o6Ghjj0Q=w408-h544-k-no",
+    "kgmid": "/g/11fp329k47",
+    "businessProfileId": "2349838477216729106"
+  },
+  {
+    "title": "BellaAna Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Júlia Wanderley, 497 - Centro, Ponta Grossa - PR, 84010-170, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Júlia Wanderley, 497",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3224-1448",
+    "phoneUnformatted": "+554232241448",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0913746,
+      "lng": -50.1576893
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoUl7VT8a6JQRkyeGCHo7o1o",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81a3f557b49a1:0x5aa33b7a08862793",
+    "cid": "6531129279932409747",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BellaAna%20Boutique&query_place_id=ChIJoUl7VT8a6JQRkyeGCHo7o1o",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnasEqjTKW-aIHm5V1Cp9KMwqRtiGZ6D-_rXbKBQPlI5yNM-ttL-7w0vJDjxq0q-nG61hlkrFYn8jksYWnf1ht70JCSEx3suIRsWCf1mfBw5HNvkJEy1jyPFqwZhGeomsCAzkfjWA=w408-h544-k-no",
+    "kgmid": "/g/1tdj5cgd",
+    "businessProfileId": "10705364917949956516"
+  },
+  {
+    "title": "Boutique Rosi Baggio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Dr. Colares, 163 - Centro, Ponta Grossa - PR, 84010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Colares, 163",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3223-7965",
+    "phoneUnformatted": "+554232237965",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0955744,
+      "lng": -50.1574486
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU8LtskYa6JQRQ0heDEuRCYo",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81a46b2edc253:0x8a09914b0c5e4843",
+    "cid": "9946641003540531267",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 3
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boutique%20Rosi%20Baggio&query_place_id=ChIJU8LtskYa6JQRQ0heDEuRCYo",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnzywpzk1BGaONehHJMuvKRqmW97MPaB3Cqy4CoSrsfIXLY3Va31rVPhKIvvnzKUYWlHAHJ5s9hcJxvNJ2p4x70eLzzKj5SCKlbTQez8TATv_T0Zkagd5fx1Uc1BfBhpFzM6TuJMgPED3Uo=w408-h544-k-no",
+    "kgmid": "/g/1tmk9n9x",
+    "businessProfileId": null
+  },
+  {
+    "title": "Exclusive Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Women's clothing store",
+    "address": "R. Cel. José Pedro de Carvalho - Nova Rússia, Ponta Grossa - PR, 84070-010, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Cel. José Pedro de Carvalho",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99131-1943",
+    "phoneUnformatted": "+5542991311943",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.08326,
+      "lng": -50.1815193
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg2580pIb6JQRpoTWrRIv_Sk",
+    "categories": [
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81b92d27c6e83:0x29fd2f12add684a6",
+    "cid": "3025626281935275174",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Exclusive%20Boutique&query_place_id=ChIJg2580pIb6JQRpoTWrRIv_Sk",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g5fM1UF7ldZg0ImveSYTlw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.503675&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rv0jl534",
+    "businessProfileId": "16574217711468579621"
+  },
+  {
+    "title": "K. Concept - Estrela",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Ricardo Lustosa Ribas, 136 - Estrela, Ponta Grossa - PR, 84040-140, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Ricardo Lustosa Ribas, 136",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-140",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/kconcept_estrela",
+    "phone": "+55 42 99904-5358",
+    "phoneUnformatted": "+5542999045358",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1038869,
+      "lng": -50.1596328
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-ceNZSob6JQRYhBVSTzDFTc",
+    "categories": [
+      "Clothing store",
+      "Boutique",
+      "Formal wear store",
+      "Women's clothing store"
+    ],
+    "fid": "0x94e81b2a658dc7f9:0x3715c33c49551062",
+    "cid": "3969293310292725858",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 16
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.958Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=K.%20Concept%20-%20Estrela&query_place_id=ChIJ-ceNZSob6JQRYhBVSTzDFTc",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaL7y67Fxb7THEwOkLdqNldaqDxEy2x_QyLgldniPwGCqDH0_XXipayfNktO3lrq7nx9h0sHqTmLkmOe4q0EIsMHgFsu3KaeGTj8fhGpL1UIcJAGhUNziH9xBwB96V60fmY_Izag=w408-h271-k-no",
+    "kgmid": "/g/11tn2z3vjd",
+    "businessProfileId": "18415395305893580704"
+  },
+  {
+    "title": "Marcia L Correia Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Formal wear store",
+    "address": "R. Mario Lima dos Santos, 544 - Estrela, Ponta Grossa - PR, 84050-290, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Mario Lima dos Santos, 544",
+    "city": "Ponta Grossa",
+    "postalCode": "84050-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://linktr.ee/marcialcorreia.boutique",
+    "phone": "+55 42 99956-1757",
+    "phoneUnformatted": "+5542999561757",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1048236,
+      "lng": -50.1727772
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-cKhImMb6JQRHtYPDT-NJy0",
+    "categories": [
+      "Formal wear store",
+      "Clothing store",
+      "Work clothes store"
+    ],
+    "fid": "0x94e81b6322a1c2f9:0x2d278d3f0d0fd61e",
+    "cid": "3253724557740070430",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 16
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.959Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marcia%20L%20Correia%20Boutique&query_place_id=ChIJ-cKhImMb6JQRHtYPDT-NJy0",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlOViyYedxBwXQgyaWAhpXAg98GmLN4pX64ojdxYBPRL33pO9cCL8afVtDhZyekYt0OqLSMo5cIM3JlKzkUd4rHvK4kIS5ma9PWnhCgfLdfw-T8sBbVi2zaRc7blLAub8BSNyd=w408-h544-k-no",
+    "kgmid": "/g/11l373c5xs",
+    "businessProfileId": "3215428562081121398"
+  },
+  {
+    "title": "Blanc Boutique",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Clothing store",
+    "address": "R. Júlia Wanderley, 865 - Centro, Ponta Grossa - PR, 84010-170, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Júlia Wanderley, 865",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/useblanc.pg/",
+    "phone": "+55 42 99127-4644",
+    "phoneUnformatted": "+5542991274644",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0919035,
+      "lng": -50.1611188
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxZBahEYb6JQRbjDyOvx6Go0",
+    "categories": [
+      "Clothing store"
+    ],
+    "fid": "0x94e81b46845a90c5:0x8d1a7afc3af2306e",
+    "cid": "10167574332481613934",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-14T17:34:28.959Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Blanc%20Boutique&query_place_id=ChIJxZBahEYb6JQRbjDyOvx6Go0",
+    "searchPageUrl": "https://www.google.com/maps/search/boutique%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
+    "searchString": "boutique Ponta Grossa Paraná",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUUTW6UTnTV8JhwZa514IB5YDeaHPVnc37RhBu69hhjfRrQajREeK-fCH0dmbiluO0cFdfd1mDi7EIcYM0JfUOICUUT8y7-Nyp-xH9RFtpYMwan2_WhNShcdtW9EDhD3EWV0CQ=w408-h306-k-no",
+    "kgmid": "/g/11kq3cvz3z",
+    "businessProfileId": "15093575035513035438"
+  }
+]
