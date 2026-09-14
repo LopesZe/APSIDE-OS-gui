@@ -4,11 +4,11 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  (preenchido pelo /salvar)
-ultima_auditoria:      2026-09-11
+ultima_sincronizacao:  2026-09-14
+ultima_auditoria:      2026-09-14
 pendencias_vencidas:   ver memoria/pendencias.md
 estado_telegram:       (preenchido pelo setup)
-github:                (preenchido pelo /salvar)
+github:                eb0d41c
 ```
 
 ## Status operacional do sistema NF
@@ -24,7 +24,7 @@ github:                (preenchido pelo /salvar)
 
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
 
-## Auditoria — 2026-09-11
+## Auditoria — 2026-09-14
 
 ### ✅ OK
 - `memoria/empresa.md` — preenchido, coerente com operação
@@ -35,11 +35,14 @@ github:                (preenchido pelo /salvar)
 - `MAPA.md` — sem donos conflitantes
 - `RULES.md` — constituição íntegra
 - `GOVERNANCE.md` — rotinas definidas
-- 7 skills disponíveis (GMB pipeline, proposta, prospecar, vender)
-- Git limpo, último commit `862d428`
+- 39 skills disponíveis (incluindo nova skill `/raiox-cliente`)
+- Git limpo, último commit `eb0d41c`
+- Playwright instalado para renderização de PDFs
+- Raio-X Conta Gestor concluído (7 páginas cliente + 6 páginas interno)
+- Prospecting: 18 prospects em Ponta Grossa (clínicas, contadores, lojas)
 
 ### ⚠️ Alertas
-- Site incompleto — faltam links, deploy, SEO, conteúdo real nos cards
+- Site institucional incompleto — faltam links, deploy, SEO, conteúdo real
 - `pendencias.md` vazio — sem fila de tarefas registradas
 
 ### ❌ Crítico
