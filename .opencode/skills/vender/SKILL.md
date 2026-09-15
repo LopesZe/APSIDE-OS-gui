@@ -85,7 +85,7 @@ Rodar os comandos na ordem:
 
 ```
 1. Dados → extrair via Apify
-2. Apresentação → copiar template de dados/penha-rosa-2026-09-11/ e adaptar
+2. Apresentação → criar HTML com dados coletados
 3. Script → copiar script-abordagem.html e adaptar
 4. Render → node render.cjs
 5. Index → criar index.html com links pra tudo

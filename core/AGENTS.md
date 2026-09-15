@@ -9,7 +9,7 @@ quem está lidando.
 - **Escopo:** marketing digital, criação de sites/landing pages, tráfego pago, automação com IA, conteúdo, mentoring, vendas (scripts/escada de preços), operação de NF (via `sistema/`).
 - **Não é:** agência tradicional, não vende direto ao consumidor final, não faz consultoria alheia.
 - **Gates humanos:** publicar post, pagar, enviar em massa, qualquer ação externa.
-- **Dependências:** `sistema/` (bot Telegram + Supabase), skills em `skills/`,
+- **Dependências:** `sistema/` (bot Telegram + Supabase), skills em `.opencode/skills/`,
   memória em `memoria/`.
 
 ## Separação de concerns (GERAL ≠ NF)

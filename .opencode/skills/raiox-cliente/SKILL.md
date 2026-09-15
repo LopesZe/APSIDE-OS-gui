@@ -201,7 +201,7 @@ Skill de diagnóstico e prospecção. Recebe os dados de um cliente → pesquisa
 ## Organização de arquivos
 
 ```
-marketing/raiox/[nome-do-cliente]/
+analise/raiox/[nome-do-cliente]/
 ├── raiox-[nome]-cliente.html          ← HTML do documento pro cliente
 ├── raiox-[nome]-cliente.pdf           ← PDF pro cliente (enviar por WhatsApp)
 ├── raiox-cliente-pagina-01.png        ← PNGs individuais (opcionais)
@@ -280,7 +280,7 @@ Quando o usuário pedir `/raiox-cliente` ou "raio-x do [NOME]", rodar na ordem:
    → Identificar cor primária do cliente (buscar no site)
 
 4. RODAR FASE 3 (documentos):
-   → Criar pasta marketing/raiox/[nome]/
+   → Criar pasta analise/raiox/[nome]/
    → Gerar HTML pro cliente (7 páginas, cores do cliente)
    → Gerar HTML interno (6 páginas, cores APSIDE)
    → Renderizar PDFs
@@ -288,8 +288,8 @@ Quando o usuário pedir `/raiox-cliente` ou "raio-x do [NOME]", rodar na ordem:
 5. ENTREGAR RESUMO:
    - Score: XX/100
    - Classificação: [texto]
-   - PDF pro cliente: marketing/raiox/[nome]/raiox-[nome]-cliente.pdf
-   - PDF interno: marketing/raiox/[nome]/escopo-[nome]-apside.pdf
+   - PDF pro cliente: analise/raiox/[nome]/raiox-[nome]-cliente.pdf
+   - PDF interno: analise/raiox/[nome]/escopo-[nome]-apside.pdf
    - Pontos fortes: [lista]
    - O que falta: [lista]
 ```
@@ -427,10 +427,10 @@ function pickAllPhotos(input) {
 ## Template de referência
 
 O documento pro cliente segue o padrão visual do projeto Conta Gestor:
-- `marketing/raiox/conta-gestor/raiox-conta-gestor-cliente.html`
+- `analise/raiox/conta-gestor/raiox-conta-gestor-cliente.html`
 
 O documento interno segue o padrão:
-- `marketing/raiox/conta-gestor/escopo-projeto-apside.html`
+- `analise/raiox/conta-gestor/escopo-projeto-apside.html`
 
 Copiar estes HTMLs como base e trocar os dados do cliente.
 
@@ -445,5 +445,5 @@ Copiar estes HTMLs como base e trocar os dados do cliente.
 2. [Rodar pesquisa completa]
 3. "Score: 45/100 — Regular. O que falta: sem sitemap, Instagram com 50 seguidores, sem fotos no GMB"
 4. [Gerar documentos]
-5. "PDF pro cliente: marketing/raiox/pizzaria-centro/raiox-pizzaria-centro-cliente.pdf"
-6. "PDF interno: marketing/raiox/pizzaria-centro/escopo-pizzaria-centro-apside.pdf"
+5. "PDF pro cliente: analise/raiox/pizzaria-centro/raiox-pizzaria-centro-cliente.pdf"
+6. "PDF interno: analise/raiox/pizzaria-centro/escopo-pizzaria-centro-apside.pdf"

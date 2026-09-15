@@ -36,3 +36,9 @@ dados/
 2. Usar a skill `/prospecar` pra gerar os dados → salvar em `dados.md`
 3. Usar a skill `/vender` pra gerar o roteiro → incluir no `apresentacao.html`
 4. Renderizar com `node render.cjs` pra gerar PNGs + PDF
+
+## O que NÃO está aqui
+
+- **Análises (raiox, diagnósticos, SEO, YouTube)** → `analise/`
+- **Conteúdo de marketing** → `marketing/`
+- **Propostas e documentos de saída** → `saidas/`
