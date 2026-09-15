@@ -4,11 +4,11 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  2026-09-14
-ultima_auditoria:      2026-09-14
+ultima_sincronizacao:  2026-09-15
+ultima_auditoria:      2026-09-15
 pendencias_vencidas:   ver memoria/pendencias.md
 estado_telegram:       (preenchido pelo setup)
-github:                eb0d41c
+github:                cb81d8e
 ```
 
 ## Status operacional do sistema NF
@@ -24,22 +24,22 @@ github:                eb0d41c
 
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
 
-## Auditoria — 2026-09-14
+## Auditoria — 2026-09-15
 
 ### ✅ OK
-- `memoria/empresa.md` — preenchido, coerente com operação
+- `memoria/empresa.md` — preenchido, coerente, 1 cliente (ANG Festas), 18 prospects
 - `memoria/preferencias.md` — tom definido, listas de evitar presentes
-- `memoria/estrategia.md` — fase de validação, prioridades claras
+- `memoria/estrategia.md` — fase dominar entrega, prioridades claras
 - `memoria/mentores.md` — base de conhecimento completa
+- `memoria/clientes-ideais.md` — mapeado no MAPA.md
 - `identidade/design-guide.md` — identidade visual completa (cores, tipografia, logo, ícone, regras)
 - `MAPA.md` — sem donos conflitantes
 - `RULES.md` — constituição íntegra
 - `GOVERNANCE.md` — rotinas definidas
-- 39 skills disponíveis (incluindo nova skill `/raiox-cliente`)
-- Git limpo, último commit `eb0d41c`
-- Playwright instalado para renderização de PDFs
+- 39 skills disponíveis
+- Git limpo, último commit `cb81d8e`
 - Raio-X Conta Gestor concluído (7 páginas cliente + 6 páginas interno)
-- Prospecting: 18 prospects em Ponta Grossa (clínicas, contadores, lojas)
+- Prospecting: 18 prospects em Ponta Grossa
 
 ### ⚠️ Alertas
 - Site institucional incompleto — faltam links, deploy, SEO, conteúdo real
