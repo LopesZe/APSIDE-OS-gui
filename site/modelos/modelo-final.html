@@ -286,10 +286,23 @@ body::after {
   color: #fff;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 8px;
-  transition: gap 0.3s;
+  width: 392px;
+  max-width: 100%;
+  height: 45px;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.25s;
+  margin-top: 12px;
+  grid-column: 1 / -1;
+  justify-self: center;
 }
-.service-link:hover { gap: 12px; }
+.service-link:hover { border-color: rgba(255,255,255,0.35); background: rgba(255,255,255,0.04); gap: 12px; }
+@media(min-width:768px){
+  .service-link { width: 860px; }
+}
 
 /* Service visual — com luz percorrendo borda (mais devagar) */
 .service-visual {
@@ -683,6 +696,138 @@ body::after {
   .cta-section { padding: 80px 24px; }
   .footer { flex-direction: column; gap: 8px; text-align: center; padding: 24px 20px; }
 }
+
+/* ===== MODAL ===== */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  z-index: 10000;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  animation: fadeIn 0.25s ease;
+}
+.modal-overlay.active { display: flex; }
+.modal {
+  width: 100%;
+  max-width: 860px;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 0;
+  position: relative;
+  animation: slideUp 0.3s ease;
+}
+.modal-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: rgba(255,255,255,0.06);
+  border-radius: 50%;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+  z-index: 2;
+}
+.modal-close:hover { background: rgba(255,255,255,0.12); }
+.modal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.modal-card {
+  background: rgba(17,17,17,0.95);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 24px;
+}
+.modal-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #00E65B;
+  margin-bottom: 12px;
+}
+.modal h3 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 12px;
+  letter-spacing: -0.02em;
+}
+.modal-card p {
+  color: rgba(255,255,255,0.55);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+.modal-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.modal-card li {
+  color: rgba(255,255,255,0.55);
+  font-size: 0.8rem;
+  padding: 4px 0;
+  padding-left: 14px;
+  position: relative;
+}
+.modal-card li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: #00E65B;
+  font-size: 0.7rem;
+}
+.modal-visual {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-cta-bar {
+  background: rgba(17,17,17,0.95);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.modal-btn {
+  display: inline-block;
+  padding: 14px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: all 0.25s;
+  border: none;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.modal-btn-primary {
+  background: #fff;
+  color: #0a0a0a;
+}
+.modal-btn-primary:hover { background: #ddd; transform: scale(1.02); }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slideUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+
 </style>
 </head>
 <body>
@@ -747,7 +892,6 @@ body::after {
       <div class="label">Google Meu Negócio</div>
       <h3>Seu perfil no Google convertendo de verdade</h3>
       <p>Fotos profissionais, avaliações estratégicas, informações corretas. Quem te procura no Google te encontra e te escolhe. Não o concorrente.</p>
-      <a href="#" class="service-link">Saiba mais →</a>
     </div>
     <div class="service-visual">
       <div class="sv-mock">
@@ -774,6 +918,7 @@ body::after {
         <div class="sv-mock-btn">Agendar Consulta</div>
       </div>
     </div>
+    <a href="#" class="service-link" data-service="Google Meu Negócio">Saiba mais →</a>
   </div>
 
   <!-- Row 2 — Sites -->
@@ -782,7 +927,6 @@ body::after {
       <div class="label">Sites e Landing Pages</div>
       <h3>Presença online que vende, não só existe</h3>
       <p>Site rápido, bonito e responsivo. Feito pra converter visitante em cliente. Cada página é pensada pro seu negócio específico.</p>
-      <a href="#" class="service-link">Saiba mais →</a>
     </div>
     <div class="service-visual">
       <div class="sv-mock">
@@ -807,6 +951,7 @@ body::after {
         </div>
       </div>
     </div>
+    <a href="#" class="service-link" data-service="Sites e Landing Pages">Saiba mais →</a>
   </div>
 
   <!-- Row 3 — Automação -->
@@ -815,7 +960,6 @@ body::after {
       <div class="label">Automação e IA</div>
       <h3>Processos que rodavam sem você precisar estar lá</h3>
       <p>WhatsApp automático, agendamento inteligente, follow-up sem esquecer. O que era manual vira automático. Você foca no cliente.</p>
-      <a href="#" class="service-link">Saiba mais →</a>
     </div>
     <div class="service-visual">
       <div class="sv-mock">
@@ -834,6 +978,7 @@ body::after {
         </div>
       </div>
     </div>
+    <a href="#" class="service-link" data-service="Automação e IA">Saiba mais →</a>
   </div>
 </section>
 
@@ -887,6 +1032,18 @@ body::after {
   <span>© 2026 APSIDE · Presença Digital para Negócios Locais</span>
   <a href="#">guilherme@apside.com.br</a>
 </footer>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" id="modalBox">
+    <button class="modal-close" id="modalClose">&times;</button>
+    <div class="modal-grid">
+      <div class="modal-card" id="modalInfo"></div>
+      <div class="modal-card" id="modalExample"></div>
+    </div>
+    <div class="modal-cta-bar" id="modalCta"></div>
+  </div>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
@@ -973,6 +1130,63 @@ gsap.from('.step',{y:20,opacity:0,duration:0.5,stagger:0.08,scrollTrigger:{trigg
 gsap.from('.cta-box h2',{y:30,opacity:0,duration:0.8,scrollTrigger:{trigger:'.cta-section',start:'top 70%'}});
 gsap.from('.cta-box p',{y:20,opacity:0,duration:0.8,delay:0.15,scrollTrigger:{trigger:'.cta-section',start:'top 70%'}});
 gsap.from('.cta-box .btn-primary',{y:15,opacity:0,duration:0.8,delay:0.3,scrollTrigger:{trigger:'.cta-section',start:'top 70%'}});
+
+/* MODAL */
+var services=[
+  {
+    label:'Google Meu Negócio',
+    title:'Seu perfil no Google convertendo de verdade',
+    desc:'<p>Fotos profissionais, avaliações estratégicas, informações corretas. Quem te procura no Google te encontra e te escolhe.</p><ul><li>Otimização completa do perfil</li><li>Fotos profissionais do seu espaço</li><li>Estratégia para gerar mais avaliações</li><li>Posts semanais com promoções</li><li>Resumo mensal de métricas</li></ul>',
+    wa:'Ol%C3%A1!%20Quero%20saber%20sobre%20Google%20Meu%20Neg%C3%B3cio'
+  },
+  {
+    label:'Sites e Landing Pages',
+    title:'Presença online que vende, não só existe',
+    desc:'<p>Site rápido, bonito e responsivo. Feito pra converter visitante em cliente.</p><ul><li>Design responsivo</li><li>Velocidade otimizada</li><li>SEO básico configurado</li><li>Formulário de contato integrado</li><li>Hospedagem e domínio inclusos</li></ul>',
+    wa:'Ol%C3%A1!%20Quero%20um%20site%20ou%20landing%20page'
+  },
+  {
+    label:'Automação e IA',
+    title:'Processos que rodavam sem você precisar estar lá',
+    desc:'<p>WhatsApp automático, agendamento inteligente, follow-up sem esquecer.</p><ul><li>Resposta automática no WhatsApp</li><li>Agendamento online inteligente</li><li>Follow-up automático</li><li>Integração com Google Calendar</li><li>Relatórios por período</li></ul>',
+    wa:'Ol%C3%A1!%20Quero%20saber%20sobre%20automa%C3%A7%C3%A3o'
+  }
+];
+var overlay=document.getElementById('modalOverlay');
+var modalInfo=document.getElementById('modalInfo');
+var modalExample=document.getElementById('modalExample');
+var modalCta=document.getElementById('modalCta');
+
+function closeModal(){
+  overlay.classList.remove('active');
+  document.body.style.overflow='';
+}
+
+function openModal(i){
+  var s=services[i];
+  modalInfo.innerHTML=
+    '<div class="modal-label">'+s.label+'</div>'+
+    '<h3>'+s.title+'</h3>'+
+    s.desc;
+  var visual=document.querySelector('[data-service="'+s.label+'"]').closest('.service-row').querySelector('.service-visual').innerHTML;
+  modalExample.innerHTML=
+    '<div class="modal-label">Exemplo</div>'+
+    '<div class="modal-visual">'+visual+'</div>';
+  modalCta.innerHTML=
+    '<a href="https://wa.me/5542999955452?text='+s.wa+'" target="_blank" class="modal-btn modal-btn-primary">Quero isso pro meu negócio</a>';
+  overlay.classList.add('active');
+  document.body.style.overflow='hidden';
+}
+
+document.querySelectorAll('.service-link').forEach(function(link,i){
+  link.addEventListener('click',function(e){
+    e.preventDefault();
+    openModal(i);
+  });
+});
+
+document.getElementById('modalClose').addEventListener('click',closeModal);
+overlay.addEventListener('click',function(e){ if(e.target===overlay) closeModal(); });
 </script>
 </body>
 </html>
