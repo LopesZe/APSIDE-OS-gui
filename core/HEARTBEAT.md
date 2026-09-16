@@ -8,7 +8,7 @@ ultima_sincronizacao:  2026-09-15
 ultima_auditoria:      2026-09-15
 pendencias_vencidas:   ver memoria/pendencias.md
 estado_telegram:       (preenchido pelo setup)
-github:                181faef
+github:                b09403c
 ```
 
 ## Status operacional do sistema NF
