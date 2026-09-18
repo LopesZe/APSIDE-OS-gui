@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>AgroTerra Contabilidade — Diagnóstico Digital</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0E1116;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ========== COVER ========== */
+.cover {
+  background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #1b5e20 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 30px;
+  color: rgba(255,255,255,0.8);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+.cover h1 {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 12px;
+}
+.cover h1 span { color: #a5d6a7; }
+.cover .subtitle {
+  color: rgba(255,255,255,0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+.cover-meta {
+  display: flex;
+  gap: 48px;
+  justify-content: center;
+}
+.cover-meta-item { text-align: center; }
+.cover-meta-item .value {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: rgba(255,255,255,0.5);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(255,255,255,0.4);
+  font-size: 12px;
+}
+.footer-apside-logo {
+  height: 24px;
+  filter: brightness(0) invert(1);
+  opacity: 0.6;
+}
+
+/* ========== PAGE HEADER ========== */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #f0f0f0;
+}
+.page-header h2 {
+  font-size: 26px;
+  font-weight: 800;
+  color: #1b5e20;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num { color: #ccc; font-size: 14px; font-weight: 600; }
+
+/* ========== DIAGNOSTIC (PAGE 2) ========== */
+.diagnostic { background: #fff; justify-content: center; }
+.score-section { display: flex; gap: 32px; margin-bottom: 24px; align-items: flex-start; }
+.score-big {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: conic-gradient(#1b5e20 0deg, #1b5e20 162deg, #e8e8e8 162deg, #e8e8e8 360deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.score-big::before {
+  content: '';
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background: #fff;
+  position: absolute;
+}
+.score-big .score-value {
+  position: relative;
+  z-index: 1;
+  font-size: 44px;
+  font-weight: 900;
+  color: #1b5e20;
+}
+.score-big .score-unit {
+  position: relative;
+  z-index: 1;
+  font-size: 16px;
+  color: #888;
+  font-weight: 500;
+}
+.score-details { flex: 1; }
+.score-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1b5e20;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.score-desc {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.criteria-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #f8f9fa;
+}
+.criteria-icon {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  flex-shrink: 0;
+  font-weight: 700;
+  line-height: 1;
+}
+.criteria-ok { background: #d4edda; color: #155724; }
+.criteria-warn { background: #fff3cd; color: #856404; }
+.criteria-fail { background: #f8d7da; color: #721c24; }
+.criteria-text { font-size: 11px; font-weight: 500; color: #333; }
+
+/* ========== WHATS WORKING / MISSING (PAGE 3) ========== */
+.missing { background: #fff; }
+.missing-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.missing-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+  max-width: 80%;
+}
+.missing-card {
+  padding: 22px;
+  border-radius: 14px;
+  border: 1px solid #e8e8e8;
+  height: fit-content;
+}
+.missing-card-negative { background: #fff8f8; border-color: #f5e0e0; }
+.missing-card-positive { background: #f8fdf8; border-color: #d5ecd5; }
+.missing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.missing-card-negative h3 { color: #dc2626; }
+.missing-card-positive h3 { color: #16a34a; }
+.missing-list { list-style: none; }
+.missing-list li {
+  padding: 7px 0;
+  font-size: 12px;
+  color: #444;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.missing-list li:last-child { border-bottom: none; }
+.missing-list .icon { flex-shrink: 0; margin-top: 1px; font-weight: 700; }
+
+/* ========== SUMMARY TABLE (PAGE 4) ========== */
+.summary { background: #fff; justify-content: center; }
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+}
+.summary-table th {
+  background: #1b5e20;
+  color: #fff;
+  padding: 12px 16px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.summary-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 13px;
+  color: #333;
+}
+.summary-table tr.row-good td { background: #f0faf4; }
+.summary-table tr.row-warn td { background: #fefbf3; }
+.summary-table tr.row-bad td { background: #fef5f5; }
+.status-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 600;
+}
+.status-good { background: #d4edda; color: #155724; }
+.status-warn { background: #fff3cd; color: #856404; }
+.status-bad { background: #f8d7da; color: #721c24; }
+
+/* ========== GMB COMPARISON (PAGE 5) ========== */
+.comparison {
+  background: #1b5e20;
+  padding: 12mm 16mm;
+  justify-content: center;
+}
+.comparison h2 {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 14px;
+  letter-spacing: -0.5px;
+}
+.comp-cards {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: stretch;
+}
+.comp-card {
+  width: 500px;
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.comp-card-bad { border: 2px dashed #e5e7eb; }
+.comp-card-good { border: 2px solid #16a34a; }
+.comp-card-tag {
+  padding: 7px 14px;
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+.comp-card-bad .comp-card-tag { background: #fef2f2; color: #dc2626; }
+.comp-card-good .comp-card-tag { background: #f0fdf4; color: #16a34a; }
+.comp-card-body {
+  padding: 12px 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.comp-map {
+  width: 100%;
+  height: 100px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  position: relative;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.comp-map img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.comp-map.has-photo .comp-map-placeholder { display: none; }
+.comp-map-placeholder { color: #999; font-size: 10px; text-align: center; }
+.comp-name { font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 2px; }
+.comp-cat { font-size: 10px; color: #888; margin-bottom: 6px; }
+.comp-rating { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+.comp-stars { color: #f4b400; font-size: 12px; }
+.comp-rating-num { font-size: 12px; font-weight: 600; color: #333; }
+.comp-rating-count { font-size: 10px; color: #888; }
+.comp-info { font-size: 9px; color: #666; line-height: 1.6; margin-bottom: 8px; }
+.comp-info span { display: block; }
+.comp-photos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 4px;
+  margin-bottom: 8px;
+}
+.comp-photos-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+.comp-photos-header span { font-size: 10px; font-weight: 600; color: #666; }
+.comp-photos-pick-all { font-size: 9px; color: #1b5e20; cursor: pointer; font-weight: 600; }
+.comp-photos-pick-all input[type="file"] { display: none; }
+.comp-photo {
+  aspect-ratio: 1;
+  border-radius: 4px;
+  overflow: hidden;
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  color: #bbb;
+  position: relative;
+}
+.comp-photo img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.comp-photo.has-photo .pick-label,
+.comp-photo.has-photo > :not(img):not(.pick-btn):not(input) { display: none; }
+.comp-photo-empty.has-photo { border: none; }
+.comp-photo-empty { background: #f3f4f6; border: 1px dashed #d1d5db; }
+.comp-reviews { flex: 1; }
+.comp-review { display: flex; gap: 5px; margin-bottom: 3px; align-items: flex-start; }
+.comp-review-avatar {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6px;
+  color: #666;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.comp-review-name { font-size: 7px; font-weight: 600; color: #333; }
+.comp-review-stars { color: #f4b400; font-size: 6px; }
+.comp-review-text { font-size: 7px; color: #666; line-height: 1.3; }
+
+/* ========== PHOTO SLOT (interactive) ========== */
+.photo-slot { position: relative; cursor: pointer; }
+.photo-slot input[type="file"] { display: none; }
+.photo-slot .pick-btn {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+  border-radius: inherit;
+  z-index: 3;
+}
+.photo-slot:hover .pick-btn { opacity: 1; }
+.photo-slot.has-photo .pick-btn { opacity: 0; }
+.photo-slot.has-photo:hover .pick-btn { opacity: 1; }
+.pick-btn .pick-icon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #1b5e20;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+.pick-btn .pick-label {
+  color: #fff;
+  font-size: 7px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ========== NEXT STEPS (PAGE 6) ========== */
+.nextsteps { background: #fff; }
+.steps-header { display: flex; gap: 24px; flex: 1; }
+.steps-column { flex: 1; display: flex; flex-direction: column; }
+.steps-column-title {
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid;
+}
+.steps-column-title.apside { color: #1b5e20; border-color: #1b5e20; }
+.steps-column-title.client { color: #16a34a; border-color: #16a34a; }
+.step-item { padding: 10px 0; border-bottom: 1px solid #f0f0f0; }
+.step-item:last-child { border-bottom: none; }
+.step-topic { font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 4px; }
+.step-sub { font-size: 12px; color: #555; padding-left: 14px; line-height: 1.6; }
+.step-sub::before { content: '•'; color: #aaa; margin-right: 5px; }
+
+/* ========== CTA PAGE ========== */
+.cta-page {
+  background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #1b5e20 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cta-page * { margin-left: auto; margin-right: auto; }
+.cta-page h2 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-bottom: 14px;
+}
+.cta-page h2 span { color: #a5d6a7; }
+.cta-page .cta-sub {
+  color: rgba(255,255,255,0.7);
+  font-size: 16px;
+  margin-bottom: 36px;
+  max-width: 520px;
+  line-height: 1.6;
+}
+.cta-contact { display: flex; gap: 40px; margin-bottom: 36px; justify-content: center; }
+.cta-contact-item { text-align: center; flex: 1; }
+.cta-contact-item .icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin: 0 auto 8px;
+}
+.cta-contact-item .text { color: #fff; font-size: 14px; font-weight: 500; }
+.cta-footer-label {
+  color: rgba(255,255,255,0.45);
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.cta-apside-logo {
+  height: 30px;
+  filter: brightness(0) invert(1);
+  opacity: 0.65;
+}
+
+@media print {
+  .pick-btn { display: none !important; }
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: CAPA -->
+<div class="page cover">
+  <img src="imagens/logo agroterra.svg" alt="AgroTerra Contabilidade" style="height: 80px; margin-bottom: 24px; filter: brightness(0) invert(1);">
+  <div class="cover-badge">Diagnóstico Digital</div>
+  <h1>AgroTerra Contabilidade<br><span>Ponta Grossa PR</span></h1>
+  <p class="subtitle">Análise completa da presença digital + plano de ação</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">5.0</div>
+      <div class="label">Nota GMB</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">13</div>
+      <div class="label">Avaliações</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">45</div>
+      <div class="label">Score / 100</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <span>Setembro 2026</span>
+    <img src="file:///C:/Users/guilo/APSIDE-OS/identidade/logo-apside-gradiente.svg" alt="APSIDE" class="footer-apside-logo">
+  </div>
+</div>
+
+<!-- PÁGINA 2: DIAGNÓSTICO -->
+<div class="page diagnostic">
+  <div class="page-header">
+    <h2>Diagnóstico do Perfil</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="score-section">
+    <div class="score-big">
+      <span class="score-value">45</span>
+      <span class="score-unit">/100</span>
+    </div>
+    <div class="score-details">
+      <div class="score-label">Classificação: Presença regular — oportunidade clara de melhoria</div>
+      <p class="score-desc">
+        A AgroTerra Contabilidade tem nota perfeita no Google e avaliações positivas de clientes reais.
+        O diferencial é a especialização no agronegócio. Porém, a empresa não possui website,
+        o Instagram tem poucos seguidores e não há nenhum canal de atendimento automatizado.
+      </p>
+      <div class="criteria-grid">
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-ok">✓</div>
+          <span class="criteria-text">GMB nota 5.0</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">13 avaliações (poucas)</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem website</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem SEO técnico</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Instagram com 180 seguidores</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-warn">⚠</div>
+          <span class="criteria-text">Poucas fotos no GMB</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem WhatsApp integrado</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem YouTube</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem blog ou conteúdo</span>
+        </div>
+        <div class="criteria-item">
+          <div class="criteria-icon criteria-fail">✗</div>
+          <span class="criteria-text">Sem automação</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PÁGINA 3: O QUE FALTA -->
+<div class="page missing">
+  <div class="page-header">
+    <h2>O que funciona e o que pode melhorar</h2>
+    <span class="page-num">03</span>
+  </div>
+  <div class="missing-center">
+    <div class="missing-grid">
+    <div class="missing-card missing-card-positive">
+      <h3><span style="font-size:16px;">✓</span> O que já funciona bem</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Google Meu Negócio nota 5.0</strong><br>
+            13 avaliações com nota perfeita. Clientes elogiam profissionalismo e atendimento personalizado.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Especialização clara no Agro</strong><br>
+            Contabilidade rural, tributário, gestão e holding. Diferencial forte em Ponta Grossa.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Presença no Instagram</strong><br>
+            Perfil @agroterracontabilidade com 180+ seguidores. Bio clara com serviços.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#16a34a;">✓</span>
+          <div>
+            <strong>Reputação de confiança</strong><br>
+            Avaliações reais de clientes de fora da cidade (Minas Gerais). Indica confiança à distância.
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="missing-card missing-card-negative">
+      <h3><span style="font-size:16px;">⚠</span> O que pode melhorar</h3>
+      <ul class="missing-list">
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem website</strong><br>
+            Quem busca "AgroTerra Contabilidade" no Google não encontra site. Perda de credibilidade.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Instagram com 180 seguidores</strong><br>
+            Pouco alcance para um escritório que atende o agronegócio em Ponta Grossa.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem WhatsApp integrado</strong><br>
+            O telefone está no GMB mas não há botão direto ou link clicável para agilizar contato.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem fotos no GMB</strong><br>
+            O perfil não mostra fotos do escritório, equipe ou atendimento. Reduz confiança visual.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem conteúdo educativo</strong><br>
+            Não há blog, FAQ ou posts sobre tributação do agro. Oportunidade de atrair clientes por SEO.
+          </div>
+        </li>
+        <li>
+          <span class="icon" style="color:#dc2626;">✗</span>
+          <div>
+            <strong>Sem YouTube</strong><br>
+            Não há canal. Vídeos sobre gestão tributária rural poderiam atrair produtores.
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </div>
+</div>
+
+<!-- PÁGINA 4: RESUMO DA PRESENÇA -->
+<div class="page summary">
+  <div class="page-header">
+    <h2>Resumo da Presença Digital</h2>
+    <span class="page-num">04</span>
+  </div>
+  <table class="summary-table">
+    <thead>
+      <tr>
+        <th>Área</th>
+        <th>Status</th>
+        <th>Observação</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="row-good">
+        <td><strong>Google Meu Negócio</strong></td>
+        <td><span class="status-badge status-good">Bom</span></td>
+        <td>Nota 5.0, 13 avaliações, endereço e telefone corretos</td>
+      </tr>
+      <tr class="row-warn">
+        <td><strong>Instagram</strong></td>
+        <td><span class="status-badge status-warn">Fraco</span></td>
+        <td>180 seguidores, bio clara, mas pouco alcance</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>Website</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Não possui site próprio</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>SEO Técnico</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Sem site = sem indexação no Google</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>WhatsApp</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Telefone no GMB mas sem link direto ou botão</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>Fotos no GMB</strong></td>
+        <td><span class="status-badge status-bad">Fraco</span></td>
+        <td>Poucas fotos publicadas no perfil</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>YouTube</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Não possui canal</td>
+      </tr>
+      <tr class="row-bad">
+        <td><strong>Automação</strong></td>
+        <td><span class="status-badge status-bad">Ausente</span></td>
+        <td>Sem chatbot, sem atendimento fora do horário</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- PÁGINA 5: COMPARATIVO GMB -->
+<div class="page comparison">
+  <h2>Comparativo: Como está vs. como pode ficar</h2>
+  <div class="comp-cards">
+
+    <!-- COLUNA "ANTES" -->
+    <div class="comp-card comp-card-bad">
+      <div class="comp-card-tag">Como está hoje</div>
+      <div class="comp-card-body">
+        <div class="comp-map photo-slot" onclick="this.querySelector('input').click()">
+          <input type="file" accept="image/*" onchange="pickPhoto(this)">
+          <div class="pick-btn"><div class="pick-icon">+</div><div class="pick-label">Foto</div></div>
+          <div class="comp-map-placeholder">📍 R. Sebastião Nascimento, 1185 — Santa Paula</div>
+        </div>
+        <div class="comp-name">AgroTerra Contabilidade</div>
+        <div class="comp-cat">Contabilidade · Agronegócio · Rural · Transporte</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">5.0</span>
+          <span class="comp-rating-count">13 avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99128-0490</span>
+          <span>🕐 Seg-Sex 8h–17:30</span>
+          <span style="color:#dc2626;">🌐 Sem website</span>
+          <span style="color:#dc2626;">📷 Poucas fotos no perfil</span>
+          <span style="color:#dc2626;">📱 @agroterracontabilidade (180 seguidores)</span>
+        </div>
+        <div class="comp-photos-header">
+          <span>Fotos do perfil</span>
+          <label class="comp-photos-pick-all">
+            <input type="file" accept="image/*" multiple onchange="pickAllPhotos(this)">
+            + Selecionar todas
+          </label>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Fachada
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Escritório
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+          <div class="comp-photo photo-slot comp-photo-empty" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            +
+          </div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">E</div>
+            <div>
+              <div class="comp-review-name">Eloisa A. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">"Serviço de alta qualidade, realizado com muito cuidado e profissionalismo."</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">O</div>
+            <div>
+              <div class="comp-review-name">Otavio R. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">"Sou de Minas Gerais e isso nunca foi um problema."</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- COLUNA "DEPOIS" -->
+    <div class="comp-card comp-card-good">
+      <div class="comp-card-tag">Como pode ficar</div>
+      <div class="comp-card-body">
+        <div class="comp-map photo-slot" onclick="this.querySelector('input').click()">
+          <input type="file" accept="image/*" onchange="pickPhoto(this)">
+          <div class="pick-btn"><div class="pick-icon">+</div><div class="pick-label">Foto</div></div>
+          <div class="comp-map-placeholder">📍 Mockup: foto profissional da fachada</div>
+        </div>
+        <div class="comp-name">AgroTerra Contabilidade</div>
+        <div class="comp-cat">Contabilidade Especializada no Agro · Rural · Transporte</div>
+        <div class="comp-rating">
+          <span class="comp-stars">★★★★★</span>
+          <span class="comp-rating-num">5.0</span>
+          <span class="comp-rating-count">50+ avaliações</span>
+        </div>
+        <div class="comp-info">
+          <span>📞 (42) 99128-0490</span>
+          <span>🕐 Seg-Sex 8h–17:30</span>
+          <span style="color:#16a34a;">🌐 www.agroterracontabilidade.com.br</span>
+          <span style="color:#16a34a;">📱 @agroterracontabilidade (500+ seguidores)</span>
+        </div>
+        <div class="comp-photos-header">
+          <span>Fotos do perfil</span>
+          <label class="comp-photos-pick-all">
+            <input type="file" accept="image/*" multiple onchange="pickAllPhotos(this)">
+            + Selecionar todas
+          </label>
+        </div>
+        <div class="comp-photos">
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Fachada
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Equipe
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Escritório
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Serviço
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Atendimento
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Interno
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Detalhe
+          </div>
+          <div class="comp-photo photo-slot" onclick="this.querySelector('input').click()">
+            <input type="file" accept="image/*" onchange="pickPhoto(this)">
+            <div class="pick-btn"><div class="pick-icon">+</div></div>
+            Evento
+          </div>
+        </div>
+        <div class="comp-reviews">
+          <div class="comp-review">
+            <div class="comp-review-avatar">E</div>
+            <div>
+              <div class="comp-review-name">Eloisa A. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">"Serviço de alta qualidade, realizado com muito cuidado."</div>
+            </div>
+          </div>
+          <div class="comp-review">
+            <div class="comp-review-avatar">S</div>
+            <div>
+              <div class="comp-review-name">Sergio O. <span class="comp-review-stars">★★★★★</span></div>
+              <div class="comp-review-text">"Excelente atendimento, muito profissional."</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PÁGINA 6: PLANO DE AÇÃO -->
+<div class="page nextsteps">
+  <div class="page-header">
+    <h2>Plano de Ação</h2>
+    <span class="page-num">06</span>
+  </div>
+  <div class="steps-header">
+
+    <!-- COLUNA: DEPENDE DA APSIDE -->
+    <div class="steps-column">
+      <div class="steps-column-title apside">O que depende da APSIDE</div>
+
+      <div class="step-item">
+        <div class="step-topic">Criar Website Institucional</div>
+        <div class="step-sub">Landing page com serviços, especialidades e CTA</div>
+        <div class="step-sub">Integrar WhatsApp clicável</div>
+        <div class="step-sub">SEO básico (sitemap, robots, meta tags)</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Otimizar Google Meu Negócio</div>
+        <div class="step-sub">Adicionar fotos profissionais (fachada, escritório, equipe)</div>
+        <div class="step-sub">Criar posts semanais com serviços do agro</div>
+        <div class="step-sub">Configurar lista de serviços completa</div>
+        <div class="step-sub">Responder todas as avaliações</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Configurar Métricas</div>
+        <div class="step-sub">Instalar Google Analytics no site</div>
+        <div class="step-sub">Configurar Meta Pixel</div>
+        <div class="step-sub">Criar dashboard de acompanhamento</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Criar Chatbot WhatsApp</div>
+        <div class="step-sub">Triagem automatizada para produtores rurais</div>
+        <div class="step-sub">Respostas rápidas sobre serviços</div>
+      </div>
+    </div>
+
+    <!-- COLUNA: DEPENDE DA EMPRESA -->
+    <div class="steps-column">
+      <div class="steps-column-title client">O que depende da AgroTerra</div>
+
+      <div class="step-item">
+        <div class="step-topic">Fornecer Acessos</div>
+        <div class="step-sub">Google Meu Negócio</div>
+        <div class="step-sub">Instagram</div>
+        <div class="step-sub">Hospedagem (ou criar nova)</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Conteúdo e Materiais</div>
+        <div class="step-sub">Fotos do escritório e equipe</div>
+        <div class="step-sub">Descrição detalhada dos serviços</div>
+        <div class="step-sub">Depoimentos de clientes (3 mínimo)</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Ativar Instagram</div>
+        <div class="step-sub">Aprovar calendário editorial</div>
+        <div class="step-sub">Aprovar posts e Stories</div>
+        <div class="step-sub">Indicar clientes para depoimentos</div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-topic">Estratégia de Conteúdo</div>
+        <div class="step-sub">Definir temas: tributário do agro, gestão rural, holding</div>
+        <div class="step-sub">Aprovar roteiros para Shorts/Reels</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- PÁGINA 7: CONTATO -->
+<div class="page cta-page">
+  <h2>Pronto pra <span>crescer</span>?</h2>
+  <p class="cta-sub">
+    A AgroTerra já tem nota 5.0 e especialização no agro.
+    Falta pouca coisa pra dominar o digital em Ponta Grossa.
+  </p>
+  <div class="cta-contact">
+    <div class="cta-contact-item">
+      <div class="icon">📞</div>
+      <div class="text">(42) 99128-0490</div>
+    </div>
+    <div class="cta-contact-item">
+      <div class="icon">📍</div>
+      <div class="text">R. Sebastião Nascimento, 1185 — PG</div>
+    </div>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <img src="imagens/logo agroterra.svg" alt="AgroTerra Contabilidade" style="height: 50px; filter: brightness(0) invert(1); opacity: 0.85;">
+  </div>
+  <div class="cta-footer-label">Diagnóstico gerado por</div>
+  <img src="file:///C:/Users/guilo/APSIDE-OS/identidade/logo-apside-gradiente.svg" alt="APSIDE" class="cta-apside-logo">
+</div>
+
+<script>
+function pickPhoto(input) {
+  const files = input.files;
+  if (!files.length) return;
+  const slot = input.closest('.comp-photo') || input.closest('.comp-map');
+  const file = files[0];
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    let img = slot.querySelector('img');
+    if (!img) { img = document.createElement('img'); slot.appendChild(img); }
+    img.src = e.target.result;
+    slot.classList.add('has-photo');
+  };
+  reader.readAsDataURL(file);
+  input.value = '';
+}
+
+function pickAllPhotos(input) {
+  const files = input.files;
+  if (!files.length) return;
+  const card = input.closest('.comp-card');
+  const slots = card.querySelectorAll('.comp-photo.photo-slot:not(.has-photo)');
+  for (let i = 0; i < files.length && i < slots.length; i++) {
+    const slot = slots[i];
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      let img = slot.querySelector('img');
+      if (!img) { img = document.createElement('img'); slot.appendChild(img); }
+      img.src = e.target.result;
+      slot.classList.add('has-photo');
+    };
+    reader.readAsDataURL(files[i]);
+  }
+  input.value = '';
+}
+</script>
+</body>
+</html>

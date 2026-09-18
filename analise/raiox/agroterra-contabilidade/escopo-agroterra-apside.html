@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1122">
+<title>APSIDE — AgroTerra Contabilidade: Escopo do Projeto</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=DM+Sans:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+@page { size: 297mm 210mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1F2133;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 297mm;
+  height: 210mm;
+  padding: 15mm 20mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ========== COVER ========== */
+.cover {
+  background: linear-gradient(135deg, #1F2133 0%, #2a2d45 50%, #1F2133 100%);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cover-badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,230,91,0.3);
+  border-radius: 30px;
+  color: #00E65B;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+.cover h1 {
+  color: #F5ECD7;
+  font-size: 44px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  line-height: 1.1;
+  margin-bottom: 12px;
+}
+.cover h1 span { color: #00E65B; }
+.cover .subtitle {
+  color: #8a8a8a;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.cover-meta {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+.cover-meta-item { text-align: center; }
+.cover-meta-item .value {
+  color: #F5ECD7;
+  font-size: 32px;
+  font-weight: 800;
+}
+.cover-meta-item .label {
+  color: #666;
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 4px;
+}
+.cover-footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #555;
+  font-size: 12px;
+}
+
+/* ========== PAGE HEADER ========== */
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 28px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid rgba(255,255,255,0.08);
+}
+.page-header h2 {
+  font-size: 24px;
+  font-weight: 800;
+  color: #F5ECD7;
+  letter-spacing: -0.5px;
+}
+.page-header .page-num { color: #555; font-size: 14px; font-weight: 600; }
+
+/* ========== CLIENT INFO (PAGE 2) ========== */
+.client-info { background: #fff; }
+.info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  flex: 1;
+}
+.info-card {
+  padding: 24px;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+}
+.info-card h3 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #052c65;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #052c65;
+  display: inline-block;
+}
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 12px;
+}
+.info-row:last-child { border-bottom: none; }
+.info-label { color: #888; font-weight: 500; }
+.info-value { color: #333; font-weight: 600; text-align: right; max-width: 60%; }
+
+/* ========== SERVICES TABLE (PAGE 3) ========== */
+.services { background: #fff; }
+.services-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+.services-table th {
+  background: #1F2133;
+  color: #00E65B;
+  padding: 10px 14px;
+  text-align: left;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.services-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 12px;
+  color: #333;
+}
+.services-table tr:hover td { background: #f8f9fa; }
+.complexity-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 9px;
+  font-weight: 600;
+}
+.cx-low { background: #d4edda; color: #155724; }
+.cx-mid { background: #fff3cd; color: #856404; }
+.cx-high { background: #f8d7da; color: #721c24; }
+
+/* ========== PRICING (PAGE 4) ========== */
+.pricing { background: #fff; }
+.pricing-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  flex: 1;
+}
+.pricing-card {
+  border-radius: 14px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #e5e7eb;
+  background: #f8f9fa;
+}
+.pricing-card.featured {
+  background: linear-gradient(135deg, #1F2133, #2a2d45);
+  border-color: #00E65B;
+  position: relative;
+}
+.pricing-card.featured::before {
+  content: 'RECOMENDADO';
+  position: absolute;
+  top: -1px;
+  right: 16px;
+  background: #00E65B;
+  color: #1F2133;
+  padding: 4px 10px;
+  border-radius: 0 0 6px 6px;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.pricing-card h3 {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.pricing-card.featured h3 { color: #F5ECD7; }
+.pricing-card .price {
+  font-size: 28px;
+  font-weight: 900;
+  margin-bottom: 14px;
+}
+.pricing-card .price span { font-size: 12px; font-weight: 500; color: #888; }
+.pricing-card.featured .price { color: #00E65B; }
+.pricing-list { list-style: none; flex: 1; }
+.pricing-list li {
+  padding: 5px 0;
+  font-size: 11px;
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  border-bottom: 1px solid rgba(0,0,0,0.04);
+}
+.pricing-card.featured .pricing-list li { color: #ccc; border-bottom-color: rgba(255,255,255,0.06); }
+.pricing-list li:last-child { border-bottom: none; }
+.pricing-check { color: #00E65B; font-weight: 700; flex-shrink: 0; }
+
+/* ========== TIMELINE (PAGE 5) ========== */
+.timeline { background: #fff; }
+.timeline-items {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+.timeline-item {
+  display: flex;
+  gap: 16px;
+  padding: 14px 18px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background: #f8f9fa;
+  align-items: flex-start;
+}
+.timeline-phase {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: #1F2133;
+  color: #00E65B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 800;
+  flex-shrink: 0;
+}
+.timeline-content { flex: 1; }
+.timeline-content h3 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1F2133;
+  margin-bottom: 4px;
+}
+.timeline-content p {
+  font-size: 11px;
+  color: #666;
+  line-height: 1.5;
+}
+.timeline-duration {
+  font-size: 10px;
+  font-weight: 600;
+  color: #00E65B;
+  background: rgba(0,230,91,0.1);
+  padding: 3px 10px;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+/* ========== NOTES (PAGE 6) ========== */
+.notes { background: #fff; }
+.notes-content {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.note-card {
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+}
+.note-card h3 {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1F2133;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.note-card p, .note-card li {
+  font-size: 11px;
+  color: #555;
+  line-height: 1.6;
+}
+.note-card ul {
+  list-style: none;
+  padding: 0;
+}
+.note-card li {
+  padding: 4px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+.note-card li:last-child { border-bottom: none; }
+
+@media print {
+  body { background: none; }
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: CAPA -->
+<div class="page cover">
+  <div class="cover-badge">Documento Interno</div>
+  <h1>AgroTerra Contabilidade<br><span>Escopo do Projeto</span></h1>
+  <p class="subtitle">Análise de viabilidade, serviços, precificação e cronograma</p>
+  <div class="cover-meta">
+    <div class="cover-meta-item">
+      <div class="value">45</div>
+      <div class="label">Score GMB</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">4</div>
+      <div class="label">Serviços</div>
+    </div>
+    <div class="cover-meta-item">
+      <div class="value">~10 dias</div>
+      <div class="label">Prazo Total</div>
+    </div>
+  </div>
+  <div class="cover-footer">
+    <span>Setembro 2026</span>
+    <span style="color:#00E65B; font-weight:700;">apside</span>
+  </div>
+</div>
+
+<!-- PÁGINA 2: INFO DO CLIENTE -->
+<div class="page client-info">
+  <div class="page-header">
+    <h2>Ficha do Cliente</h2>
+    <span class="page-num">02</span>
+  </div>
+  <div class="info-grid">
+    <div class="info-card">
+      <h3>Dados Gerais</h3>
+      <div class="info-row">
+        <span class="info-label">Razão Social</span>
+        <span class="info-value">Agroterra Contabilidade Ltda</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Nome Fantasia</span>
+        <span class="info-value">AgroTerra Contabilidade</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">CNPJ</span>
+        <span class="info-value">54.426.217/0001-97</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Endereço</span>
+        <span class="info-value">R. Sebastião Nascimento, 1185 — Santa Paula, PG/PR</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Telefone</span>
+        <span class="info-value">(42) 99128-0490</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Horário</span>
+        <span class="info-value">Seg-Sex 8h–17:30</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Segmento</span>
+        <span class="info-value">Contabilidade (Agro, Rural, Transporte)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Especialidades</span>
+        <span class="info-value">Tributário, Gestão, Holding, PF e PJ</span>
+      </div>
+    </div>
+    <div class="info-card">
+      <h3>Presença Digital Atual</h3>
+      <div class="info-row">
+        <span class="info-label">GMB Nota</span>
+        <span class="info-value">5.0 ⭐ (13 avaliações)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Website</span>
+        <span class="info-value" style="color:#dc2626;">Não possui</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Instagram</span>
+        <span class="info-value">@agroterracontabilidade (180 seg)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">YouTube</span>
+        <span class="info-value" style="color:#dc2626;">Não possui</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">WhatsApp</span>
+        <span class="info-value">No GMB, sem link direto</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">SEO Técnico</span>
+        <span class="info-value" style="color:#dc2626;">Ausente (sem site)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Automação</span>
+        <span class="info-value" style="color:#dc2626;">Nenhuma</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">Score GMB</span>
+        <span class="info-value">45/100</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PÁGINA 3: SERVIÇOS -->
+<div class="page services">
+  <div class="page-header">
+    <h2>Serviços Propostos</h2>
+    <span class="page-num">03</span>
+  </div>
+  <table class="services-table">
+    <thead>
+      <tr>
+        <th>Serviço</th>
+        <th>Descrição</th>
+        <th>Complexidade</th>
+        <th>Dependências</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Website Institucional</strong></td>
+        <td>Landing page com serviços, especialidades no agro, CTA WhatsApp, SEO básico</td>
+        <td><span class="complexity-badge cx-mid">Média</span></td>
+        <td>Conteúdo: fotos, logo, descrição dos serviços</td>
+      </tr>
+      <tr>
+        <td><strong>Otimização do GMB</strong></td>
+        <td>Adicionar fotos, criar posts, configurar serviços, responder avaliações</td>
+        <td><span class="complexity-badge cx-low">Baixa</span></td>
+        <td>Acesso ao Google Meu Negócio</td>
+      </tr>
+      <tr>
+        <td><strong>SEO Técnico</strong></td>
+        <td>Sitemap.xml, robots.txt, meta tags, Google Analytics, Meta Pixel</td>
+        <td><span class="complexity-badge cx-low">Baixa</span></td>
+        <td>Acesso ao site (após criação)</td>
+      </tr>
+      <tr>
+        <td><strong>Chatbot WhatsApp</strong></td>
+        <td>Triagem automatizada, respostas rápidas para dúvidas sobre contabilidade do agro</td>
+        <td><span class="complexity-badge cx-mid">Média</span></td>
+        <td>API WhatsApp Business ou Evolution API</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- PÁGINA 4: PRECIFICAÇÃO -->
+<div class="page pricing">
+  <div class="page-header">
+    <h2>Precificação Sugerida</h2>
+    <span class="page-num">04</span>
+  </div>
+  <div class="pricing-cards">
+    <div class="pricing-card">
+      <h3>Presença no Google</h3>
+      <div class="price">R$ 297 <span>único</span></div>
+      <ul class="pricing-list">
+        <li><span class="pricing-check">✓</span> Otimização completa do GMB</li>
+        <li><span class="pricing-check">✓</span> 8 fotos profissionais no perfil</li>
+        <li><span class="pricing-check">✓</span> Configuração de posts mensais</li>
+        <li><span class="pricing-check">✓</span> Respostas a avaliações (30 dias)</li>
+        <li><span class="pricing-check">✓</span> Link WhatsApp no perfil</li>
+      </ul>
+    </div>
+    <div class="pricing-card featured">
+      <h3>Google + Website</h3>
+      <div class="price">R$ 697 <span>único</span></div>
+      <ul class="pricing-list">
+        <li><span class="pricing-check">✓</span> Tudo do Presença no Google</li>
+        <li><span class="pricing-check">✓</span> Landing page institucional</li>
+        <li><span class="pricing-check">✓</span> SEO técnico completo</li>
+        <li><span class="pricing-check">✓</span> WhatsApp integrado</li>
+        <li><span class="pricing-check">✓</span> Google Analytics configurado</li>
+      </ul>
+    </div>
+    <div class="pricing-card">
+      <h3>Presença Completa</h3>
+      <div class="price">R$ 1.297 <span>único</span></div>
+      <ul class="pricing-list">
+        <li><span class="pricing-check">✓</span> Tudo do Google + Website</li>
+        <li><span class="pricing-check">✓</span> Chatbot WhatsApp</li>
+        <li><span class="pricing-check">✓</span> Estratégia Instagram (3 meses)</li>
+        <li><span class="pricing-check">✓</span> Meta Pixel configurado</li>
+        <li><span class="pricing-check">✓</span> Dashboard de métricas</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- PÁGINA 5: CRONOGRAMA -->
+<div class="page timeline">
+  <div class="page-header">
+    <h2>Cronograma de Execução</h2>
+    <span class="page-num">05</span>
+  </div>
+  <div class="timeline-items">
+    <div class="timeline-item">
+      <div class="timeline-phase">1</div>
+      <div class="timeline-content">
+        <h3>Auditoria e Planejamento</h3>
+        <p>Coleta de acessos (GMB, Instagram), definição de conteúdo, estrutura do site.</p>
+      </div>
+      <div class="timeline-duration">Dia 1–2</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">2</div>
+      <div class="timeline-content">
+        <h3>Criação do Website</h3>
+        <p>Landing page com serviços do agro, formulário de contato, CTA WhatsApp, SEO básico.</p>
+      </div>
+      <div class="timeline-duration">Dia 3–6</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">3</div>
+      <div class="timeline-content">
+        <h3>Otimização do GMB</h3>
+        <p>Adicionar fotos, configurar serviços, criar posts, responder avaliações.</p>
+      </div>
+      <div class="timeline-duration">Dia 6–8</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">4</div>
+      <div class="timeline-content">
+        <h3>SEO + Métricas</h3>
+        <p>Sitemap, robots.txt, Google Analytics, Meta Pixel, dashboard.</p>
+      </div>
+      <div class="timeline-duration">Dia 8–9</div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-phase">5</div>
+      <div class="timeline-content">
+        <h3>Entrega e Treinamento</h3>
+        <p>Entrega do site, acesso ao GMB, orientação sobre posts e respostas.</p>
+      </div>
+      <div class="timeline-duration">Dia 10</div>
+    </div>
+  </div>
+</div>
+
+<!-- PÁGINA 6: NOTAS INTERNAS -->
+<div class="page notes">
+  <div class="page-header">
+    <h2>Notas Internas</h2>
+    <span class="page-num">06</span>
+  </div>
+  <div class="notes-content">
+    <div class="note-card">
+      <h3>Pontos de Atenção</h3>
+      <ul>
+        <li>Não possui website — é a maior lacuna e a maior oportunidade</li>
+        <li>Nota 5.0 com 13 avaliações — base excelente, precisa de mais volume</li>
+        <li>Especialização no agro é diferencial forte em Ponta Grossa</li>
+        <li>Instagram com 180 seguidores — precisa de estratégia de crescimento</li>
+        <li>Não há WhatsApp integrado no GMB — leads podem ser perdidos</li>
+        <li>Cliente de Minas Gerais avalia — indica confiança à distância</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h3>Argumento de Venda</h3>
+      <ul>
+        <li>"A nota 5.0 com 13 avaliações é excelente. Mas sem site, quem googla vocês não encontra nada."</li>
+        <li>"Vocês atendem produtor rural de Minas — isso mostra que a reputação já viaja. Falta um site pra captar isso."</li>
+        <li>"O Instagram tem 180 seguidores. Com conteúdo sobre tributário do agro, isso cresce rápido."</li>
+        <li>"Fora do horário, quem precisa de contador rural não tem retorno. Um chatbot resolve."</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h3>Materiais Necessários</h3>
+      <ul>
+        <li>Logo da AgroTerra (vetor ou alta resolução)</li>
+        <li>Fotos do escritório (fachada, interior, equipe)</li>
+        <li>Descrição detalhada dos serviços (tributário, gestão, holding)</li>
+        <li>Depoimentos de clientes (mínimo 3)</li>
+        <li>Acesso ao Google Meu Negócio</li>
+        <li>Acesso ao Instagram</li>
+        <li>Preferência de hospedagem (ou criar nova)</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h3>Próximos Passos Internos</h3>
+      <ul>
+        <li>Enviar Raio-X do cliente (documento separado)</li>
+        <li>Agendar reunião de apresentação presencial</li>
+        <li>Preparar proposta comercial formal</li>
+        <li>Definir pacote (Presença Google, Google+Website, ou Completa)</li>
+        <li>Alinhar prazo de entrega com o cliente</li>
+        <li>Foco: porta de entrada para problemas maiores (gestão, holding)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
