@@ -114,6 +114,35 @@ Quando o usuário pedir skill nova:
 
 ---
 
+## Aprendizado com erros
+
+### Geração de imagens (ref: sessão 2026-09-16)
+
+| Erro | Correção | Regra |
+|---|---|---|
+| Usei prompts de IA genéricos ("photorealistic", "editorial style") | Usar HTML+CSS→PNG com puppeteer | Nunca gerar imagens via Midjourney/DALL-E pro GMB |
+| Não consultei o design-guide.md antes de criar prompts | Sempre ler `identidade/design-guide.md` antes de qualquer tarefa visual | Consultar paleta e tipografia antes de criar conteúdo visual |
+| Criei HTML de referência gigante em vez de imagens direto | Ir direto no que o usuário pediu | Entregar o que foi pedido, não uma referência do que foi pedido |
+| Tentei Edge headless que não funciona no Windows | Usar puppeteer (já instalado no projeto) | Nunca usar Edge headless pra screenshots |
+| Não entendi o layout que o usuário queria até ele falar | Perguntar estilo visual antes de criar | Quando o usuário pedir "imagens", perguntar o estilo preferido |
+| Mandei 11 prompts de IA complexos que foram rejeitados | Escalar devagar, mostrar 1 amostra primeiro | Testar com 1 antes de gerar tudo |
+
+### Regra de ouro: HTML+CSS→PNG
+
+Quando o usuário pedir imagens (posts, capas, thumbnails, cards):
+1. Ler `identidade/design-guide.md` pra cores e fontes
+2. Criar HTMLs com dimensões exatas do destino
+3. Gerar PNGs com `gerar-pngs.cjs` (puppeteer, deviceScaleFactor: 2)
+4. Entregar na pasta `marketing/gmb-imagens/png/`
+
+### Ferramentas que funcionam
+
+- **Puppeteer** pra HTML→PNG (já instalado, funciona perfeito)
+- **Edge headless** NÃO funciona pra screenshots no Windows
+- **Midjourney/DALL-E** NÃO funcionam pra imagens de negócio local (genérico demais)
+
+---
+
 ## Perfil do negócio
 
 O perfil completo do operador e do negócio está em `core/IDENTITY.md` (missão,

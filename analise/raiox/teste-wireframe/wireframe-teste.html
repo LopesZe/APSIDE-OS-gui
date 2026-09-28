@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Prévia do site — Conta Gestor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=DM+Sans:wght@700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blue:#1668e3;
+    --blue-dk:#0f4cab;
+    --navy:#0b2c5c;
+    --navy-2:#123f7a;
+    --ink:#0b2447;
+    --body:#5b6b82;
+    --line:#e2e9f2;
+    --bg:#f4f8fd;
+    --white:#fff;
+    --green:#12b76a;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{background:#fff;}
+  body{
+    font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+    color:var(--ink);
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ================= CANVAS ================= */
+  .canvas{width:1420px;padding:34px 36px 30px;background:#fff;display:flex;flex-direction:column;gap:22px;}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid var(--line);padding-bottom:16px;}
+  .client-badge{display:inline-block;background:var(--blue);color:#fff;font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:5px 11px;border-radius:20px;margin-bottom:9px;}
+  .top h1{font-size:22px;font-weight:800;letter-spacing:-.02em;}
+  .top p{font-size:11.5px;color:var(--body);margin-top:5px;}
+  .top-right{display:flex;align-items:center;gap:10px;}
+  .top-right img{height:30px;}
+  .top-right .stamp{font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--body);border:1px solid var(--line);border-radius:6px;padding:6px 9px;}
+
+  .columns{display:flex;gap:30px;align-items:stretch;}
+  .col{display:flex;flex-direction:column;}
+  .col.desk{width:872px;}
+  .col.mob{width:348px;}
+  .frame-label{font-size:10px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#8a97ab;margin-bottom:9px;display:flex;justify-content:space-between;align-items:center;}
+  .frame-label b{color:var(--blue);font-weight:700;letter-spacing:.04em;text-transform:none;font-size:10px;}
+
+  .browser{border:1px solid #cfd8e4;border-radius:10px;overflow:hidden;background:#fff;box-shadow:0 6px 22px rgba(11,44,92,.10);}
+  .chrome{height:30px;background:#eef2f7;border-bottom:1px solid #dbe3ee;display:flex;align-items:center;gap:6px;padding:0 11px;}
+  .dot{width:8px;height:8px;border-radius:50%;background:#c6d0dd;}
+  .urlbar{flex:1;height:15px;background:#fff;border:1px solid #dbe3ee;border-radius:8px;margin-left:9px;}
+
+  .phone{border:9px solid #101828;border-radius:30px;overflow:hidden;background:#fff;box-shadow:0 6px 22px rgba(11,44,92,.12);}
+  .notch{height:20px;background:#101828;position:relative;}
+  .notch::after{content:"";position:absolute;left:50%;top:6px;transform:translateX(-50%);width:70px;height:7px;border-radius:6px;background:#344054;}
+
+  /* ============ SITE (prévia fiel) ============ */
+  .site{background:#fff;font-size:12px;line-height:1.5;color:var(--body);}
+  .site, .site *{pointer-events:none !important;cursor:default !important;}
+  .sec{position:relative;padding:46px 34px;}
+  .sec-tag{
+    position:absolute;top:14px;left:34px;z-index:6;
+    font-size:8.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;
+    color:#98a5b8;
+  }
+  .s-dark .sec-tag,.s-foot .sec-tag{color:#7f93b3;}
+
+  .eyebrow{
+    display:inline-block;background:rgba(22,104,227,.10);color:var(--blue);
+    font-size:9.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
+    padding:5px 12px;border-radius:20px;margin-bottom:14px;
+  }
+  h2{font-size:27px;line-height:1.22;font-weight:800;color:var(--ink);letter-spacing:-.02em;margin-bottom:12px;}
+  h2 em{font-style:normal;color:var(--blue);}
+  .sub{font-size:12.5px;color:var(--body);max-width:560px;}
+  .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:7px;
+    height:40px;padding:0 20px;border-radius:9px;font-size:12.5px;font-weight:700;
+    white-space:nowrap;
+  }
+  .btn.primary{background:linear-gradient(180deg,#2a7cf0,var(--blue));color:#fff;box-shadow:0 6px 14px rgba(22,104,227,.28);}
+  .btn.ghost{background:#fff;color:var(--ink);border:1.5px solid #cfdcee;}
+  .btn.light{background:#fff;color:var(--navy);}
+  .btn.outline-light{background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.55);}
+
+  .ico{
+    width:34px;height:34px;border-radius:9px;flex:none;
+    display:flex;align-items:center;justify-content:center;
+    background:rgba(22,104,227,.10);color:var(--blue);
+  }
+  .ico svg{width:17px;height:17px;}
+
+  /* anotações */
+  .anno{
+    position:absolute;z-index:9;background:#fff;color:var(--blue);
+    border:1.5px dashed var(--blue);border-radius:7px;
+    font-size:9.5px;font-weight:800;padding:4px 9px;
+    display:flex;align-items:center;gap:5px;
+    box-shadow:0 3px 10px rgba(11,44,92,.14);
+  }
+  .anno::before{content:"◄";font-size:9px;}
+
+  /* ---------- HEADER ---------- */
+  .s-header{display:flex;align-items:center;gap:18px;padding:16px 34px 34px;border-bottom:1px solid var(--line);}
+  .s-header .sec-tag{top:auto;bottom:11px;}
+  .brand{display:flex;align-items:center;gap:8px;flex:none;}
+  .brand .mark{width:24px;height:24px;border-radius:7px;background:linear-gradient(135deg,#1668e3,#12b76a);position:relative;}
+  .brand .mark::after{content:"";position:absolute;inset:6px 6px auto 6px;height:3px;background:#fff;border-radius:2px;box-shadow:0 5px 0 rgba(255,255,255,.75);}
+  .brand span{font-size:15px;font-weight:800;color:var(--ink);letter-spacing:-.02em;}
+  .brand span b{color:var(--blue);font-weight:800;}
+  .menu{display:flex;gap:17px;flex:1;justify-content:center;}
+  .menu span{font-size:11.5px;font-weight:600;color:#5a6a80;white-space:nowrap;}
+  .menu span.on{color:var(--blue);font-weight:800;}
+  .hdr-cta{display:flex;gap:9px;}
+  .hdr-cta .btn{height:34px;font-size:11.5px;padding:0 15px;}
+  .burger{display:none;}
+
+  /* ---------- HERO ---------- */
+  .s-hero{display:flex;gap:30px;padding-top:44px;background:linear-gradient(180deg,#fff 0%,var(--bg) 100%);}
+  .hero-txt{flex:1;padding-top:8px;}
+  .hero-txt h2{font-size:33px;line-height:1.18;margin-bottom:14px;}
+  .hero-txt .sub{margin-bottom:22px;font-size:13px;}
+  .hero-btns{display:flex;gap:11px;margin-bottom:26px;}
+  .hero-feats{display:flex;gap:20px;}
+  .feat{display:flex;gap:9px;align-items:flex-start;width:130px;}
+  .feat .ico{width:30px;height:30px;border-radius:8px;background:#fff;border:1px solid var(--line);color:var(--blue);}
+  .feat p{font-size:10.5px;font-weight:600;color:var(--ink);line-height:1.35;}
+  .hero-visual{width:328px;flex:none;position:relative;}
+  .hero-visual .photo{
+    width:100%;height:264px;border-radius:22px;object-fit:cover;display:block;
+    box-shadow:0 18px 40px rgba(11,44,92,.20);
+  }
+  .float-card{
+    position:absolute;background:#fff;border-radius:11px;padding:9px 11px;
+    display:flex;gap:9px;align-items:center;box-shadow:0 10px 26px rgba(11,44,92,.18);
+    width:150px;
+  }
+  .float-card .ico{width:26px;height:26px;border-radius:7px;}
+  .float-card p{font-size:9.5px;font-weight:700;color:var(--ink);line-height:1.3;}
+  .fc1{top:34px;left:-26px;}
+  .fc2{bottom:38px;right:-20px;}
+  .fc2 .ico{background:rgba(18,183,106,.12);color:var(--green);}
+
+  /* ---------- LOGOS ---------- */
+  .s-logos{background:var(--bg);padding-top:22px;padding-bottom:22px;display:flex;align-items:center;gap:28px;border-top:1px solid var(--line);}
+  .logos-lead{width:170px;font-size:10.5px;font-weight:700;color:var(--ink);line-height:1.4;}
+  .logos-row{display:flex;gap:18px;flex:1;justify-content:space-between;align-items:center;}
+  .logo-item{font-size:11px;font-weight:800;letter-spacing:.12em;color:#9aa8bd;text-transform:uppercase;display:flex;align-items:center;gap:5px;}
+  .logo-item::before{content:"";width:12px;height:12px;border-radius:3px;background:#c3cede;}
+  .logo-img{height:30px;width:88px;object-fit:contain;filter:grayscale(1);opacity:.75;}
+
+  /* ---------- SERVIÇOS ---------- */
+  .grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;}
+  .card{
+    background:#fff;border:1px solid var(--line);border-radius:var(--radius);
+    padding:19px 17px 17px;display:flex;flex-direction:column;gap:11px;
+    box-shadow:0 3px 12px rgba(11,44,92,.05);
+  }
+  .card h4{font-size:13px;font-weight:800;color:var(--ink);line-height:1.3;letter-spacing:-.01em;}
+  .card p{font-size:10.5px;color:var(--body);line-height:1.5;flex:1;}
+  .card .go{font-size:15px;font-weight:800;color:var(--blue);line-height:1;}
+
+  /* ---------- FAIXA ESCURA ---------- */
+  .s-dark{
+    background:
+      radial-gradient(900px 300px at 85% 10%,rgba(44,120,230,.35),transparent 60%),
+      linear-gradient(120deg,var(--navy),var(--navy-2));
+    color:#c9d8ef;border:none;
+  }
+  .s-dark h2{color:#fff;}
+  .s-dark .eyebrow{background:rgba(255,255,255,.14);color:#bcd4ff;}
+  .dark-wrap{display:flex;gap:36px;align-items:center;}
+  .dark-left{flex:1;}
+  .dark-left .sub{color:#a9bfe0;margin-bottom:20px;}
+  .dark-feats{width:310px;display:grid;grid-template-columns:1fr 1fr;gap:16px 18px;}
+  .dark-feat{display:flex;gap:10px;align-items:center;}
+  .dark-feat .ico{background:rgba(255,255,255,.12);color:#8fbcff;}
+  .dark-feat p{font-size:10.5px;font-weight:700;color:#fff;line-height:1.35;}
+
+  /* ---------- EQUIPE ---------- */
+  .member{align-items:center;text-align:center;gap:12px;}
+  .member img{width:74px;height:74px;border-radius:50%;object-fit:cover;border:3px solid #fff;box-shadow:0 8px 20px rgba(11,44,92,.16);}
+  .member h4{font-size:13.5px;}
+  .member .role{font-size:10.5px;color:var(--blue);font-weight:700;}
+  .member p{font-size:10px;flex:none;}
+
+  /* ---------- PLANOS ---------- */
+  .center-head{text-align:center;max-width:560px;margin:0 auto 26px;}
+  .center-head .sub{margin:0 auto;}
+  .plan{
+    background:#fff;border:1px solid var(--line);border-radius:var(--radius);
+    padding:22px 18px 20px;display:flex;flex-direction:column;gap:12px;position:relative;
+    box-shadow:0 3px 12px rgba(11,44,92,.05);
+  }
+  .plan.hot{border:2px solid var(--blue);box-shadow:0 14px 32px rgba(22,104,227,.18);transform:translateY(-6px);}
+  .plan-flag{position:absolute;top:-11px;left:50%;transform:translateX(-50%);background:var(--blue);color:#fff;font-size:8.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:4px 11px;border-radius:12px;white-space:nowrap;}
+  .plan h4{font-size:13px;font-weight:800;color:var(--ink);}
+  .plan .price{font-size:26px;font-weight:900;color:var(--ink);letter-spacing:-.03em;line-height:1;}
+  .plan .price span{font-size:11px;font-weight:600;color:var(--body);letter-spacing:0;}
+  .plan ul{list-style:none;display:flex;flex-direction:column;gap:9px;flex:1;}
+  .plan li{font-size:10.5px;color:var(--body);display:flex;gap:7px;align-items:flex-start;line-height:1.4;}
+  .plan li::before{content:"✓";color:var(--green);font-weight:900;font-size:11px;flex:none;}
+  .plan .btn{width:100%;height:38px;font-size:12px;}
+
+  /* ---------- FAQ ---------- */
+  .faq-wrap{display:flex;gap:32px;}
+  .faq-left{width:300px;flex:none;}
+  .faq-list{flex:1;display:flex;flex-direction:column;gap:11px;}
+  .faq-row{
+    border:1px solid var(--line);border-radius:10px;background:#fff;
+    padding:15px 17px;display:flex;justify-content:space-between;align-items:center;gap:14px;
+    font-size:11.5px;font-weight:700;color:var(--ink);
+    box-shadow:0 2px 8px rgba(11,44,92,.04);
+  }
+  .faq-row .plus{width:12px;height:12px;position:relative;flex:none;}
+  .faq-row .plus::before,.faq-row .plus::after{content:"";position:absolute;background:var(--blue);border-radius:2px;}
+  .faq-row .plus::before{left:0;top:5.2px;width:12px;height:1.8px;}
+  .faq-row .plus::after{top:0;left:5.2px;height:12px;width:1.8px;}
+
+  /* ---------- CONTATO ---------- */
+  .contact-wrap{display:flex;gap:22px;}
+  .contact-info{width:210px;flex:none;display:flex;flex-direction:column;gap:15px;}
+  .contact-info .sub{font-size:11.5px;}
+  .info-item{display:flex;gap:10px;align-items:flex-start;}
+  .info-item .ico{width:30px;height:30px;border-radius:50%;}
+  .info-item b{display:block;font-size:10.5px;color:var(--ink);font-weight:800;margin-bottom:2px;}
+  .info-item span{font-size:10.5px;color:var(--body);}
+  .contact-map{
+    width:220px;flex:none;border-radius:var(--radius);min-height:250px;position:relative;overflow:hidden;
+    background:#e8eef6;border:1px solid var(--line);
+    background-image:
+      linear-gradient(90deg,rgba(255,255,255,.9) 2px,transparent 2px),
+      linear-gradient(rgba(255,255,255,.9) 2px,transparent 2px),
+      linear-gradient(90deg,rgba(255,255,255,.55) 1px,transparent 1px),
+      linear-gradient(rgba(255,255,255,.55) 1px,transparent 1px);
+    background-size:76px 76px,76px 76px,25px 25px,25px 25px;
+  }
+  .contact-map::before{
+    content:"";position:absolute;left:-10%;top:38%;width:130%;height:16px;
+    background:#cfe0f5;transform:rotate(-14deg);
+  }
+  .contact-map::after{
+    content:"";position:absolute;left:50%;top:50%;transform:translate(-50%,-90%) rotate(-45deg);
+    width:17px;height:17px;border-radius:50% 50% 50% 0;background:var(--blue);
+    box-shadow:0 6px 14px rgba(22,104,227,.45);
+  }
+  .form{flex:1;display:flex;flex-direction:column;gap:12px;}
+  .form-row{display:flex;gap:12px;}
+  .field{
+    flex:1;border:1px solid var(--line);border-radius:9px;background:#fbfcfe;
+    padding:12px 13px;font-size:11px;color:#98a5b8;font-weight:500;
+  }
+  .field.tall{min-height:74px;}
+  .form .btn{align-self:flex-start;}
+
+  /* ---------- RODAPÉ ---------- */
+  .s-foot{background:var(--navy);color:#93a9cb;padding-top:34px;padding-bottom:0;border:none;}
+  .foot-grid{display:flex;gap:32px;padding-bottom:24px;}
+  .foot-brand{width:190px;}
+  .foot-brand .brand span{color:#fff;}
+  .foot-brand p{font-size:10.5px;margin-top:11px;line-height:1.6;}
+  .foot-col h5{font-size:11px;color:#fff;font-weight:800;margin-bottom:11px;letter-spacing:.02em;}
+  .foot-col p{font-size:10.5px;line-height:1.9;}
+  .foot-social{width:160px;display:flex;gap:9px;flex-wrap:wrap;justify-content:flex-end;align-content:flex-start;}
+  .foot-social i{width:22px;height:22px;border-radius:50%;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);display:block;}
+  .foot-bottom{border-top:1px solid rgba(255,255,255,.12);padding:14px 0 0;display:flex;justify-content:space-between;font-size:9.5px;}
+  .grad-bar{height:5px;background:linear-gradient(90deg,#00E65B,#0066FF,#6E00FF);}
+
+  /* ---------- NOTAS ---------- */
+  .notes{margin-top:auto;background:#f8f9ff;border:1.5px dashed rgba(0,102,255,.45);border-radius:10px;padding:16px 18px;}
+  .notes h3{font-size:10px;font-weight:800;letter-spacing:.13em;text-transform:uppercase;color:var(--blue);margin-bottom:11px;}
+  .notes ol{list-style:none;display:flex;flex-direction:column;gap:9px;}
+  .notes li{display:flex;gap:9px;font-size:10.5px;line-height:1.45;color:#3d4a5f;}
+  .notes li b{color:var(--blue);font-weight:800;flex:none;width:14px;}
+
+  .canvas-foot{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:13px;font-size:9.5px;color:#8a97ab;}
+  .canvas-foot .legend{display:flex;gap:16px;align-items:center;}
+  .canvas-foot .lg{display:flex;gap:6px;align-items:center;}
+  .canvas-foot .sw{width:13px;height:13px;border-radius:3px;border:1px solid var(--line);background:var(--blue);}
+  .canvas-foot .sw.b{background:rgba(0,102,255,.12);border:1.5px dashed var(--blue);}
+
+  /* ================= MOBILE ================= */
+  .site.mobile{font-size:11.5px;}
+  .site.mobile .sec{padding:34px 17px;}
+  .site.mobile .sec-tag{left:17px;top:11px;}
+  .site.mobile h2{font-size:19px;}
+  .site.mobile .eyebrow{font-size:8.5px;padding:4px 10px;margin-bottom:10px;}
+  .site.mobile .sub{font-size:11px;}
+
+  .site.mobile .s-header{padding:12px 17px 26px;gap:9px;}
+  .site.mobile .menu,.site.mobile .hdr-cta .btn.ghost{display:none;}
+  .site.mobile .hdr-cta{margin-left:auto;}
+  .site.mobile .hdr-cta .btn{height:30px;font-size:10.5px;padding:0 12px;}
+  .site.mobile .burger{display:flex;flex-direction:column;gap:4px;width:20px;flex:none;}
+  .site.mobile .burger i{display:block;height:2.5px;background:var(--ink);border-radius:3px;}
+  .site.mobile .burger i:nth-child(2){width:15px;}
+  .site.mobile .brand span{font-size:13px;}
+  .site.mobile .brand img{height:26px !important;}
+  .site.mobile .foot-brand .brand img{height:34px !important;}
+
+  .site.mobile .s-hero{flex-direction:column;gap:20px;padding-top:32px;}
+  .site.mobile .hero-txt h2{font-size:22px;}
+  .site.mobile .hero-btns{flex-direction:column;}
+  .site.mobile .hero-btns .btn{width:100%;}
+  .site.mobile .hero-feats{gap:12px;flex-direction:column;}
+  .site.mobile .feat{width:100%;}
+  .site.mobile .hero-visual{width:100%;}
+  .site.mobile .hero-visual .photo{height:190px;border-radius:16px;}
+  .site.mobile .fc1{left:10px;top:18px;width:132px;}
+  .site.mobile .fc2{right:10px;bottom:18px;width:136px;}
+
+  .site.mobile .s-logos{flex-direction:column;align-items:flex-start;gap:13px;}
+  .site.mobile .s-logos .sec-tag{position:static;}
+  .site.mobile .logos-lead{width:100%;}
+  .site.mobile .logos-row{flex-wrap:wrap;gap:11px 15px;justify-content:flex-start;}
+  .site.mobile .logo-item{font-size:9.5px;}
+
+  .site.mobile .grid4{grid-template-columns:1fr 1fr;gap:11px;}
+  .site.mobile .card{padding:14px 13px;gap:8px;}
+  .site.mobile .card h4{font-size:11.5px;}
+  .site.mobile .card p{font-size:9.5px;}
+  .site.mobile .center-head{margin-bottom:20px;}
+
+  .site.mobile .dark-wrap{flex-direction:column;gap:20px;align-items:stretch;}
+  .site.mobile .dark-feats{width:100%;}
+  .site.mobile .btn{height:38px;font-size:12px;}
+
+  .site.mobile .grid4.member{grid-template-columns:1fr 1fr;}
+
+  .site.mobile .plan.hot{transform:none;}
+  .site.mobile .grid4.plans{grid-template-columns:1fr;gap:14px;}
+
+  .site.mobile .faq-wrap{flex-direction:column;gap:16px;}
+  .site.mobile .faq-left{width:100%;}
+  .site.mobile .faq-row{padding:13px 14px;font-size:11px;}
+
+  .site.mobile .contact-wrap{flex-direction:column;}
+  .site.mobile .contact-info{width:100%;}
+  .site.mobile .contact-map{width:100%;min-height:150px;}
+  .site.mobile .form-row{flex-direction:column;}
+  .site.mobile .form .btn{width:100%;}
+
+  .site.mobile .foot-grid{flex-direction:column;gap:18px;}
+  .site.mobile .foot-brand,.site.mobile .foot-social{width:100%;}
+  .site.mobile .foot-social{justify-content:flex-start;}
+  .site.mobile .foot-bottom{flex-direction:column;gap:5px;}
+</style>
+</head>
+<body>
+<div class="canvas">
+
+  <div class="top">
+    <div class="top-left">
+      <span class="client-badge">Conta Gestor</span>
+      <h1>Prévia do site proposto</h1>
+      <p>Layout fiel ao modelo — cores, imagens e conteúdo reais · navegação desativada nesta prévia</p>
+    </div>
+    <div class="top-right">
+      <span class="stamp">Prévia · não é o site final</span>
+      <img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+    </div>
+  </div>
+
+  <div class="columns">
+
+    <!-- ==================== DESKTOP ==================== -->
+    <div class="col desk">
+      <div class="frame-label"><span>Desktop — 1440px</span><b>v1 · 28/09/2026</b></div>
+      <div class="browser">
+        <div class="chrome"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="urlbar"></span></div>
+        <div class="site desktop">
+
+          <!-- 01 HEADER -->
+          <section class="sec s-header">
+            <div class="sec-tag">01 · Header</div>
+            <div class="brand"><img src="img/cg/logo-dark.png" alt="Conta Gestor" style="height:44px;display:block"></div>
+            <nav class="menu"><span class="on">Início</span><span>Serviços</span><span>Planos</span><span>Empreendedor</span><span>Blog</span><span>Downloads</span><span>Quem Somos</span></nav>
+            <div class="hdr-cta">
+              <span class="btn ghost">Área do Cliente</span>
+              <span class="btn primary">Solicitar Proposta</span>
+            </div>
+            <span class="anno" style="bottom:6px;right:34px;">2 CTAs fixos no topo</span>
+          </section>
+
+          <!-- 02 HERO -->
+          <section class="sec s-hero">
+            <div class="sec-tag">02 · Hero</div>
+            <div class="hero-txt">
+              <span class="eyebrow">Contabilidade para o seu negócio</span>
+              <h2>Contabilidade Consultiva para <em>Prestadores de Serviços</em></h2>
+              <p class="sub">Você entrega o serviço. Nós cuidamos da sua contabilidade. Mais tempo para o que importa, com segurança, organização e um time que entende do seu negócio.</p>
+              <div class="hero-btns">
+                <span class="btn primary">Solicitar Proposta</span>
+                <span class="btn ghost">Conheça nossos serviços</span>
+              </div>
+              <div class="hero-feats">
+                <div class="feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg></span><p>Atendimento especializado</p></div>
+                <div class="feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span><p>100% digital e seguro</p></div>
+                <div class="feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span><p>Suporte próximo e humanizado</p></div>
+              </div>
+            </div>
+            <div class="hero-visual">
+              <img class="photo" src="img/hero-model.png" alt="">
+
+            </div>
+            <span class="anno" style="top:214px;left:352px;">botão principal</span>
+          </section>
+
+          <!-- 03 LOGOS -->
+          <section class="sec s-logos">
+            <div class="sec-tag">03 · Prova social</div>
+            <div class="logos-lead">Já ajudamos centenas de empresas em todo o Brasil</div>
+            <div class="logos-row">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-2hMH9nYdHW.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-eqOTy0qY8g.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-FNhsO0GESc.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-GHnzfHMSDB.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-hjMcSfflqL.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-SfN0GsVLoQ.png" alt="">
+            </div>
+          </section>
+
+          <!-- 04 SERVIÇOS -->
+          <section class="sec">
+            <div class="sec-tag">04 · Serviços</div>
+            <div style="max-width:560px;margin-bottom:26px">
+              <span class="eyebrow">Nossos serviços</span>
+              <h2>Soluções completas para <em>o seu crescimento</em></h2>
+              <p class="sub">Oferecemos um portfólio completo de serviços contábeis, com foco em simplificar sua rotina e impulsionar seu negócio.</p>
+            </div>
+            <div class="grid4">
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 7-8"/><path d="M3 21h18"/></svg></span><h4>Planejamento Financeiro</h4><p>Organize seu fluxo de caixa e tome decisões mais assertivas para o futuro.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="14" rx="2"/><path d="M8 21h8M12 18v3"/></svg></span><h4>Contabilidade Digital</h4><p>Tudo online, com agilidade, segurança e praticidade para o seu dia a dia.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V7l7-4 7 4v14"/><path d="M10 12h4M10 16h4"/></svg></span><h4>Abertura de Empresas</h4><p>Do planejamento à formalização, tudo o que você precisa para começar bem.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v10M9.5 9.5h5M9.5 14.5h5"/></svg></span><h4>Assessoria Tributária</h4><p>Reduza impostos e esteja pronto com uma estratégia tributária personalizada.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 11l-3 3-2-2"/></svg></span><h4>Assessoria Trabalhista</h4><p>Mais segurança na gestão de pessoas, cumprimento de obrigações e direitos.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M9 15h6"/></svg></span><h4>Regularização de Obras</h4><p>Garanta a conformidade do seu projeto e evite problemas com órgãos competentes.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M4 8l8-5 8 5"/><path d="M4 8l-2 6a4 4 0 0 0 8 0zM20 8l-2 6a4 4 0 0 0 8 0z" transform="translate(-2)"/></svg></span><h4>Modelagem Financeira</h4><p>Planos de investimentos, análise de viabilidade e rentabilidade do seu negócio.</p><span class="go">→</span></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4.5 8-11V5l-8-3-8 3v6c0 6.5 8 11 8 11z"/><path d="M9 12l2 2 4-4"/></svg></span><h4>Avaliação de Empresas</h4><p>Saiba o valor real do seu negócio e tome decisões estratégicas com precisão.</p><span class="go">→</span></div>
+            </div>
+            <span class="anno" style="top:56px;right:34px;">grid 4 × 2 · cada card é um link</span>
+          </section>
+
+          <!-- 05 FAIXA ESCURA -->
+          <section class="sec s-dark">
+            <div class="sec-tag">05 · Faixa de autoridade</div>
+            <div class="dark-wrap">
+              <div class="dark-left">
+                <span class="eyebrow">Por que escolher a ContaGestor?</span>
+                <h2>Mais do que números,<br>parceiros no seu crescimento.</h2>
+                <p class="sub">Unimos tecnologia, atendimento próximo e conhecimento especializado para que você foque no que realmente importa: o seu negócio.</p>
+                <span class="btn light">Fale com um especialista</span>
+              </div>
+              <div class="dark-feats">
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></span><p>Experiência no seu segmento</p></div>
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l8.8 8.8 8.8-8.8a5.5 5.5 0 0 0 0-7.8z"/></svg></span><p>Atendimento humanizado</p></div>
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M9 9h6v6H9z"/></svg></span><p>Tecnologia e praticidade</p></div>
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4.5 8-11V5l-8-3-8 3v6c0 6.5 8 11 8 11z"/></svg></span><p>Segurança e conformidade</p></div>
+              </div>
+            </div>
+          </section>
+
+          <!-- 06 EQUIPE -->
+          <section class="sec">
+            <div class="sec-tag">06 · Equipe</div>
+            <div style="max-width:560px;margin-bottom:26px">
+              <span class="eyebrow">Nossa equipe</span>
+              <h2>Especialistas que <em>caminham com você</em></h2>
+              <p class="sub">Conheça o time da ContaGestor, formado por profissionais qualificados e apaixonados pelo que fazem.</p>
+            </div>
+            <div class="grid4 member">
+              <div class="card member"><img src="img/cg/2024-07-13-fu2UtzZP4U.png" alt=""><h4>Roque Andrade</h4><span class="role">Consultoria</span></div>
+              <div class="card member"><img src="img/cg/2024-07-13-eaGFO6S6Az.png" alt=""><h4>Jucemara Szeremeta</h4><span class="role">Tributário</span></div>
+              <div class="card member"><img src="img/cg/2024-07-13-ZxGgdlYkaY.png" alt=""><h4>Jessica Spak</h4><span class="role">Societário</span></div>
+              <div class="card member"><img src="img/cg/2024-07-13-GddmFzYR7Z.png" alt=""><h4>Guilherme Santana</h4><span class="role">RH</span></div>
+            </div>
+          </section>
+
+          <!-- 07 PLANOS -->
+          <section class="sec" style="background:var(--bg)">
+            <div class="sec-tag">07 · Planos</div>
+            <div class="center-head">
+              <span class="eyebrow">Nossos planos</span>
+              <h2>Escolha o plano ideal <em>para o seu negócio</em></h2>
+              <p class="sub">Planos flexíveis, com todos os serviços que você precisa para crescer com segurança.</p>
+            </div>
+            <div class="grid4 plans">
+              <div class="plan"><h4>Básico</h4><div class="price">R$ 349<span>/mês</span></div><ul><li>Contabilidade Fiscal</li><li>NFs até 10 por mês</li><li>Faturamento até R$ 10.000</li><li>Pessoal - pró-labore</li><li>Certificado Digital</li></ul><span class="btn ghost">Contratar plano</span></div>
+              <div class="plan hot"><span class="plan-flag">Mais popular</span><h4>Padrão</h4><div class="price">R$ 449<span>/mês</span></div><ul><li>Contabilidade Fiscal</li><li>NFs até 15 por mês</li><li>Faturamento até R$ 20.000</li><li>Gestão Documental</li><li>Certificado Digital</li></ul><span class="btn primary">Contratar plano</span></div>
+              <div class="plan"><h4>Pro</h4><div class="price">R$ 549<span>/mês</span></div><ul><li>Contabilidade Fiscal</li><li>NFs até 20 por mês</li><li>Até 1 empregado</li><li>Gestão Documental</li><li>Atendimento Exclusivo</li></ul><span class="btn ghost">Contratar plano</span></div>
+              <div class="plan"><h4>Premium</h4><div class="price">R$ 589<span>/mês</span></div><ul><li>Contabilidade Fiscal</li><li>Até 2 empregados</li><li>Certificado Digital</li><li>Atendimento Exclusivo</li><li>Consultoria</li></ul><span class="btn ghost">Contratar plano</span></div>
+            </div>
+            <span class="anno" style="bottom:20px;left:calc(50% + 8px);">destaque = botão preenchido</span>
+          </section>
+
+          <!-- 08 FAQ -->
+          <section class="sec">
+            <div class="sec-tag">08 · Dúvidas frequentes</div>
+            <div class="faq-wrap">
+              <div class="faq-left">
+                <span class="eyebrow">Perguntas frequentes</span>
+                <h2>Tire suas principais dúvidas</h2>
+                <p class="sub">Encontre respostas para as perguntas mais comuns sobre nossos serviços e como podemos ajudar você.</p>
+              </div>
+              <div class="faq-list">
+                <div class="faq-row"><span>O que é contabilidade?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Qual a diferença entre contabilidade financeira e gerencial?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Por que a contabilidade é importante para as empresas?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Quais são os principais relatórios financeiros?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Como a contabilidade ajuda na tomada de decisões?</span><span class="plus"></span></div>
+              </div>
+            </div>
+          </section>
+
+          <!-- 09 CONTATO -->
+          <section class="sec" style="background:var(--bg)">
+            <div class="sec-tag">09 · Contato / captação</div>
+            <div class="contact-wrap">
+              <div class="contact-info">
+                <span class="eyebrow">Fale conosco</span>
+                <h2>Estamos prontos para te atender</h2>
+                <p class="sub">Entre em contato com a nossa equipe e tire suas dúvidas. Será um prazer ajudar você.</p>
+                <div class="info-item"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span><div><b>Endereço</b><span>Rua Theodoro Rosas, 1465 - Centro, Ponta Grossa - PR</span></div></div>
+                <div class="info-item"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 7l10 6 10-6"/></svg></span><div><b>E-mail</b><span>consultoria@contagestor.com.br</span></div></div>
+                <div class="info-item"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.3-1.1a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg></span><div><b>Telefone</b><span>(42) 98880-2617</span></div></div>
+              </div>
+              <div class="contact-map"></div>
+              <div class="form">
+                <div class="form-row"><span class="field">Nome</span><span class="field">Telefone</span></div>
+                <span class="field">E-mail</span>
+                <span class="field">Assunto</span>
+                <span class="field tall">Como podemos te ajudar?</span>
+                <span class="btn primary">Enviar mensagem</span>
+              </div>
+            </div>
+            <span class="anno" style="bottom:22px;right:34px;">formulário + mapa = captação</span>
+          </section>
+
+          <!-- 10 RODAPÉ -->
+          <section class="sec s-foot">
+            <div class="sec-tag">10 · Rodapé</div>
+            <div class="foot-grid">
+              <div class="foot-brand">
+                <div class="brand"><img src="img/cg/logo.png" alt="Conta Gestor" style="height:44px;display:block;filter:brightness(0) invert(1)"></div>
+                <p>Contabilidade consultiva para prestadores de serviços. Segurança e organização para o seu negócio crescer.</p>
+              </div>
+              <div class="foot-col"><h5>Endereço</h5><p>R. Theodoro Rosas, 1465 - Centro<br>Ponta Grossa - PR, 84010-180</p></div>
+              <div class="foot-col"><h5>Contato</h5><p>(42) 98880-2617<br>consultoria@contagestor.com.br</p></div>
+              <div class="foot-social"><i></i><i></i><i></i><i></i></div>
+            </div>
+            <div class="foot-bottom"><span>© 2026 ContaGestor. Todos os direitos reservados.</span><span>Termos de Uso · Política de Privacidade · LGPD</span></div>
+          </section>
+          <div class="grad-bar"></div>
+
+        </div>
+      </div>
+
+      <div class="notes">
+        <h3>O que esta prévia já mostra</h3>
+        <ol>
+          <li><b>1.</b><span>Header com 2 CTAs — "Área do Cliente" (contorno) e "Solicitar Proposta" (preenchido).</span></li>
+          <li><b>2.</b><span>Hero com foto real, título com destaque em azul e 2 cards flutuantes sobre a imagem.</span></li>
+          <li><b>3.</b><span>Faixa de logos logo após o hero: prova social antes de pedir scroll.</span></li>
+          <li><b>4.</b><span>8 serviços em grid 4×2, cada card com ícone, descrição e seta.</span></li>
+          <li><b>5.</b><span>Faixa escura (navy) quebra o ritmo e leva o argumento de venda + CTA.</span></li>
+          <li><b>6.</b><span>Equipe com fotos reais, Planos com destaque no card do meio.</span></li>
+          <li><b>7.</b><span>FAQ tira objeção antes do bloco de contato (telefone, mapa e formulário).</span></li>
+          <li><b>8.</b><span>Rodapé navy com dados de contato + barra de gradiente APSIDE.</span></li>
+        </ol>
+      </div>
+    </div>
+
+    <!-- ==================== MOBILE ==================== -->
+    <div class="col mob">
+      <div class="frame-label"><span>Mobile — 390px</span><b>mesmas seções</b></div>
+      <div class="phone">
+        <div class="notch"></div>
+        <div class="site mobile">
+
+          <!-- HEADER -->
+          <section class="sec s-header">
+            <div class="sec-tag">01 · Header</div>
+            <div class="brand"><img src="img/cg/logo-dark.png" alt="Conta Gestor" style="height:44px;display:block"></div>
+            <div class="hdr-cta"><span class="btn primary">Proposta</span></div>
+            <span class="burger"><i></i><i></i><i></i></span>
+          </section>
+
+          <!-- HERO -->
+          <section class="sec s-hero">
+            <div class="sec-tag">02 · Hero</div>
+            <div class="hero-txt">
+              <span class="eyebrow">Contabilidade</span>
+              <h2>Contabilidade Consultiva para <em>Prestadores de Serviços</em></h2>
+              <p class="sub">Você entrega o serviço. Nós cuidamos da sua contabilidade, com segurança e organização.</p>
+              <div class="hero-btns">
+                <span class="btn primary">Solicitar Proposta</span>
+                <span class="btn ghost">Conheça nossos serviços</span>
+              </div>
+              <div class="hero-feats">
+                <div class="feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg></span><p>Atendimento especializado</p></div>
+                <div class="feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span><p>100% digital e seguro</p></div>
+                <div class="feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span><p>Suporte próximo e humanizado</p></div>
+              </div>
+            </div>
+            <div class="hero-visual">
+              <img class="photo" src="img/hero-model.png" alt="">
+
+            </div>
+          </section>
+
+          <!-- LOGOS -->
+          <section class="sec s-logos">
+            <div class="sec-tag">03 · Prova social</div>
+            <div class="logos-lead">Já ajudamos centenas de empresas em todo o Brasil</div>
+            <div class="logos-row">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-2hMH9nYdHW.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-eqOTy0qY8g.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-FNhsO0GESc.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-GHnzfHMSDB.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-hjMcSfflqL.png" alt="">
+              <img class="logo-img" src="img/cg/parc/2024-07-11-SfN0GsVLoQ.png" alt="">
+            </div>
+          </section>
+
+          <!-- SERVIÇOS -->
+          <section class="sec">
+            <div class="sec-tag">04 · Serviços</div>
+            <div style="margin-bottom:20px">
+              <span class="eyebrow">Nossos serviços</span>
+              <h2>Soluções completas para <em>o seu crescimento</em></h2>
+            </div>
+            <div class="grid4">
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M3 17l6-6 4 4 7-8"/><path d="M3 21h18"/></svg></span><h4>Planejamento Financeiro</h4><p>Organize seu fluxo de caixa e tome decisões assertivas.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><rect x="2" y="4" width="20" height="14" rx="2"/><path d="M8 21h8"/></svg></span><h4>Contabilidade Digital</h4><p>Tudo online, com agilidade e praticidade.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M3 21h18M5 21V7l7-4 7 4v14"/></svg></span><h4>Abertura de Empresas</h4><p>Do planejamento à formalização, tudo o que precisa.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v10M9.5 9.5h5"/></svg></span><h4>Assessoria Tributária</h4><p>Reduza impostos com estratégia personalizada.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg></span><h4>Assessoria Trabalhista</h4><p>Mais segurança na gestão de pessoas.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg></span><h4>Regularização de Obras</h4><p>Conformidade garantida com os órgãos.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M12 3v18M4 8l8-5 8 5"/></svg></span><h4>Modelagem Financeira</h4><p>Viabilidade e rentabilidade do seu negócio.</p></div>
+              <div class="card"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4.5 8-11V5l-8-3-8 3v6c0 6.5 8 11 8 11z"/></svg></span><h4>Avaliação de Empresas</h4><p>Saiba o valor real da sua empresa.</p></div>
+            </div>
+          </section>
+
+          <!-- FAIXA ESCURA -->
+          <section class="sec s-dark">
+            <div class="sec-tag">05 · Faixa de autoridade</div>
+            <div class="dark-wrap">
+              <div class="dark-left">
+                <span class="eyebrow">Por que escolher?</span>
+                <h2>Mais do que números, parceiros no seu crescimento.</h2>
+                <p class="sub">Unimos tecnologia, atendimento próximo e conhecimento especializado.</p>
+                <span class="btn light">Fale com um especialista</span>
+              </div>
+              <div class="dark-feats">
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></span><p>Experiência no segmento</p></div>
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l8.8 8.8 8.8-8.8a5.5 5.5 0 0 0 0-7.8z"/></svg></span><p>Atendimento humanizado</p></div>
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M9 9h6v6H9z"/></svg></span><p>Tecnologia e praticidade</p></div>
+                <div class="dark-feat"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"><path d="M12 22s8-4.5 8-11V5l-8-3-8 3v6c0 6.5 8 11 8 11z"/></svg></span><p>Segurança e conformidade</p></div>
+              </div>
+            </div>
+          </section>
+
+          <!-- EQUIPE -->
+          <section class="sec">
+            <div class="sec-tag">06 · Equipe</div>
+            <div style="margin-bottom:20px">
+              <span class="eyebrow">Nossa equipe</span>
+              <h2>Especialistas que <em>caminham com você</em></h2>
+            </div>
+            <div class="grid4 member">
+              <div class="card member"><img src="img/cg/2024-07-13-fu2UtzZP4U.png" alt=""><h4>Roque Andrade</h4><span class="role">Consultoria</span></div>
+              <div class="card member"><img src="img/cg/2024-07-13-eaGFO6S6Az.png" alt=""><h4>Jucemara Szeremeta</h4><span class="role">Tributário</span></div>
+              <div class="card member"><img src="img/cg/2024-07-13-ZxGgdlYkaY.png" alt=""><h4>Jessica Spak</h4><span class="role">Societário</span></div>
+              <div class="card member"><img src="img/cg/2024-07-13-GddmFzYR7Z.png" alt=""><h4>Guilherme Santana</h4><span class="role">RH</span></div>
+            </div>
+          </section>
+
+          <!-- PLANOS -->
+          <section class="sec" style="background:var(--bg)">
+            <div class="sec-tag">07 · Planos</div>
+            <div class="center-head">
+              <span class="eyebrow">Nossos planos</span>
+              <h2>Escolha o plano ideal <em>para o seu negócio</em></h2>
+            </div>
+            <div class="grid4 plans">
+              <div class="plan"><h4>Básico</h4><div class="price">R$ 349<span>/mês</span></div><ul><li>Contabilidade Fiscal</li><li>NFs até 10 por mês</li><li>Faturamento até R$ 10.000</li></ul><span class="btn ghost">Contratar plano</span></div>
+              <div class="plan hot"><span class="plan-flag">Mais popular</span><h4>Padrão</h4><div class="price">R$ 449<span>/mês</span></div><ul><li>Contabilidade Fiscal</li><li>NFs até 15 por mês</li><li>Gestão Documental</li></ul><span class="btn primary">Contratar plano</span></div>
+            </div>
+          </section>
+
+          <!-- FAQ -->
+          <section class="sec">
+            <div class="sec-tag">08 · Dúvidas</div>
+            <div class="faq-wrap">
+              <div class="faq-left">
+                <span class="eyebrow">Perguntas frequentes</span>
+                <h2>Tire suas principais dúvidas</h2>
+              </div>
+              <div class="faq-list">
+                <div class="faq-row"><span>O que é contabilidade?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Qual a diferença entre financeira e gerencial?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Por que a contabilidade é importante?</span><span class="plus"></span></div>
+                <div class="faq-row"><span>Quais são os principais relatórios?</span><span class="plus"></span></div>
+              </div>
+            </div>
+          </section>
+
+          <!-- CONTATO -->
+          <section class="sec" style="background:var(--bg)">
+            <div class="sec-tag">09 · Contato</div>
+            <div class="contact-wrap">
+              <div class="contact-info">
+                <span class="eyebrow">Fale conosco</span>
+                <h2>Estamos prontos para te atender</h2>
+                <div class="info-item"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"><path d="M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span><div><b>Endereço</b><span>R. Theodoro Rosas, 1465 - Centro, Ponta Grossa - PR</span></div></div>
+                <div class="info-item"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 7l10 6 10-6"/></svg></span><div><b>E-mail</b><span>consultoria@contagestor.com.br</span></div></div>
+                <div class="info-item"><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.3-1.1a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg></span><div><b>Telefone</b><span>(42) 98880-2617</span></div></div>
+              </div>
+              <div class="contact-map"></div>
+              <div class="form">
+                <div class="form-row"><span class="field">Nome</span><span class="field">Telefone</span></div>
+                <span class="field">E-mail</span>
+                <span class="field tall">Como podemos te ajudar?</span>
+                <span class="btn primary">Enviar mensagem</span>
+              </div>
+            </div>
+          </section>
+
+          <!-- RODAPÉ -->
+          <section class="sec s-foot">
+            <div class="sec-tag">10 · Rodapé</div>
+            <div class="foot-grid">
+              <div class="foot-brand">
+                <div class="brand"><img src="img/cg/logo.png" alt="Conta Gestor" style="height:44px;display:block;filter:brightness(0) invert(1)"></div>
+                <p>Contabilidade consultiva para prestadores de serviços.</p>
+              </div>
+              <div class="foot-col"><h5>Contato</h5><p>(42) 98880-2617<br>consultoria@contagestor.com.br</p></div>
+              <div class="foot-social"><i></i><i></i><i></i><i></i></div>
+            </div>
+            <div class="foot-bottom"><span>© 2026 ContaGestor.</span><span>Termos · Privacidade · LGPD</span></div>
+          </section>
+          <div class="grad-bar"></div>
+
+        </div>
+      </div>
+
+      <div class="notes" style="margin-top:18px">
+        <h3>O que muda no mobile</h3>
+        <ol>
+          <li><b>1.</b><span>Menu vira hambúrguer; só o CTA principal fica visível no topo.</span></li>
+          <li><b>2.</b><span>Serviços e equipe: grid 4 col → 2 col.</span></li>
+          <li><b>3.</b><span>Planos empilham (1 por linha) e botões ganham altura pro polegar.</span></li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <div class="canvas-foot">
+    <div class="legend">
+      <span class="lg"><span class="sw"></span> cor da marca do cliente</span>
+      <span class="lg"><span class="sw b"></span> anotação de layout</span>
+      <span class="lg">Prévia estática — nenhum link ou botão está ativo</span>
+    </div>
+    <span>APSIDE · prévia de site · gerado em 28/09/2026</span>
+  </div>
+
+</div>
+</body>
+</html>

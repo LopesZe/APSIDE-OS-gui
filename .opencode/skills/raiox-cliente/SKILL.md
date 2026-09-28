@@ -2,9 +2,11 @@
 name: raiox-cliente
 description: >
   Raio-X Digital completo para cliente. Pesquisa Google Maps, site, Instagram, YouTube,
-  gera dois documentos: PDF pro cliente (identidade visual da empresa) e PDF interno (escopo, preços, complexidade).
+  gera dois documentos: PDF pro cliente (identidade visual da empresa) e PDF interno (escopo, preços, complexidade),
+  e opcionalmente uma prévia visual high-fidelity do site proposto (PNG com desktop+mobile lado a lado)
+  entregue junto na mesma conversa.
   Use quando o usuário pedir "raio-x", "raiox", "diagnóstico digital", "analisar cliente",
-  "diagnóstico completo", ou /raiox-cliente.
+  "diagnóstico completo", "prévia do site", "wireframe", ou /raiox-cliente.
 ---
 
 # /raiox-cliente — Raio-X Digital Completo para Cliente
@@ -18,7 +20,9 @@ Skill de diagnóstico e prospecção. Recebe os dados de um cliente → pesquisa
 - **Nome do cliente + cidade** (obrigatório)
 - **Prints/screenshots** do Instagram, GMB, site (se o usuário enviar)
 - **Playwright** (já instalado localmente)
-- **Logo APSIDE:** `identidade/logo-apside-gradiente.svg`
+- **Logo APSIDE:** `identidade/logo-apside.svg` (branco, fundo escuro) ou
+  `identidade/logo-apside-claro.svg` (preto, fundo claro) — **nunca a gradiente**
+  (arquivos gradiente excluídos do repositório — se aparecerem, é pra ignorar)
 - **Logo do cliente:** baixada do site deles ou enviada pelo usuário
 
 ---
@@ -137,7 +141,7 @@ Skill de diagnóstico e prospecção. Recebe os dados de um cliente → pesquisa
 
 ### Fase 3 — Geração dos Documentos
 
-**Objetivo:** criar dois PDFs profissionais.
+**Objetivo:** criar dois PDFs profissionais (+ prévia do site opcional).
 
 #### Documento 1: PRO CLIENTE (`raiox-[nome]-cliente.pdf`)
 
@@ -156,7 +160,8 @@ Skill de diagnóstico e prospecção. Recebe os dados de um cliente → pesquisa
 **Regras visuais:**
 - Cores do cliente (buscar no site deles a cor primária)
 - Logo do cliente real (SVG/PNG do site)
-- Logo APSIDE: `identidade/logo-apside-gradiente.svg`
+- Logo APSIDE: `identidade/logo-apside.svg` (branco) / `identidade/logo-apside-claro.svg`
+  (preto) conforme o fundo — **nunca a gradiente**
 - Fonte: Inter (Google Fonts)
 - Ícones padronizados: ✓ (verde), ⚠ (amarelo), ✗ (vermelho) — NUNCA misturar
 - Sem botões CTA (é PDF)
@@ -196,6 +201,76 @@ Skill de diagnóstico e prospecção. Recebe os dados de um cliente → pesquisa
 - Logo APSIDE em todas as páginas
 - Este documento NÃO é pro cliente
 
+#### Documento 3 (OPCIONAL): PRÉVIA DO SITE — `previa-[nome].png`
+
+**Quando gerar:** quando o diagnóstico indica que o cliente precisa de site/landing page
+(critério Website = problema, ou o operador pedir). **Não entra no PDF do cliente** — é um
+entregável separado, mostrado na mesma conversa (WhatsApp ou reunião).
+
+**O que é:** o site desenhado de verdade (alta fidelidade) — cores do cliente, imagens reais,
+texto real, ícones e botões com rótulo. Nada clicável: é imagem estática de prévia. Serve pra
+mostrar o "depois" sem construir nada.
+
+**Saída:** 1 PNG com **desktop e mobile lado a lado** (HTML → playwright).
+
+**Onde buscar o conteúdo real do cliente:**
+1. **Site atual do cliente** (`curl` na home): logo, fotos do time, logos de parceiros,
+   endereço, telefone, e-mail, planos e perguntas do FAQ — tudo isso é conteúdo real, usar.
+2. **Modelo/referência** enviado pelo operador: usar como guia de layout e copy.
+3. Imagens do site do cliente baixar pra `img/` dentro da pasta do cliente.
+
+**Estrutura da prévia:**
+
+| Zona | Conteúdo |
+|------|----------|
+| Topo | Badge com nome do cliente + data + logo APSIDE |
+| Coluna esquerda (desktop) | Moldura de navegador com o site completo |
+| Coluna direita (mobile) | Mockup de celular com as mesmas seções |
+| Rodapé | Barra de gradiente APSIDE + legenda "Prévia de layout — não é o site final" |
+
+**Seções padrão (na ordem, seguindo o modelo do cliente):**
+1. **Header** — logo real + menu + 2 CTAs
+2. **Hero** — título, subtítulo, 2 botões, foto com cards flutuantes, selos
+3. **Prova social** — logos de parceiros/clientes
+4. **Serviços** — cards com ícone, título e descrição
+5. **Faixa de autoridade** — bloco escuro com argumento de venda + CTA
+6. **Equipe** — fotos e nomes reais
+7. **Planos** — preços e itens reais, card destaque com botão preenchido
+8. **FAQ** — perguntas reais
+9. **Contato** — endereço, telefone, mapa e formulário
+10. **Rodapé** — dados de contato + redes
+
+**Regras visuais:**
+- Cores primária/secundária **do cliente** (buscar no site/logo deles)
+- Fotos reais do cliente (site, Instagram, GMB) — nunca placeholder cinza
+- Texto real: título, descrição, preços, telefone, endereço — nada de "Lorem"
+- Ícones SVG inline na cor primária
+- Moldura de navegador (desktop) e mockup de celular (mobile) — as duas colunas lado a lado
+- Anotações azuis (`#0066FF`) em "sticker" tracejado marcando os pontos de conversão:
+  CTAs, botão principal, formulário, card destaque de plano
+- Fonte Inter (Google Fonts); render com `deviceScaleFactor: 2`
+- **Totalmente não clicável:** `pointer-events:none` em `.site, .site *` e nenhum `<a>`
+
+**O que NUNCA fazer:**
+- Não colocar a prévia dentro do PDF do cliente
+- Não usar foto aleatória de banco de imagem quando o cliente tem foto própria
+- Não inventar telefone, endereço, preço ou nome de cliente — usar o real
+- Não gerar se o cliente não precisa de site
+- Não entregar mais de 1 PNG por cliente (desktop + mobile juntos)
+
+**Verificação pós-render (OBRIGATÓRIA):**
+- **NÃO usar a tool `read` de imagem pra conferir o PNG** — nesse ambiente ela serve
+  imagens desatualizadas (retorna outro arquivo ou uma versão anterior do mesmo arquivo).
+  Confiar só "às vezes" custa vários ciclos perdidos.
+- Conferir por **DOM**: playwright → `document.body.innerText` (textos reais) e
+  `naturalWidth/naturalHeight` de cada `<img>` (asset carregou ou não).
+- Conferir por **pixels**: `System.Drawing` no PNG final + `getBoundingClientRect()` dos
+  elementos no playwright (×2 = deviceScaleFactor). Checagens úteis:
+  - header: wordmark do cliente escuro + nav com texto (quase zero px cinza `#dfe7f1`)
+  - fotos de equipe/logos: muitas cores distintas na região = foto renderizou
+  - rodapé: px brancos sobre navy = logo APSIDE branca visível
+- Entrega final: o operador abre o PNG e confirma visualmente.
+
 ---
 
 ## Organização de arquivos
@@ -209,6 +284,8 @@ analise/raiox/[nome-do-cliente]/
 ├── ...
 ├── escopo-[nome]-apside.html          ← HTML do documento interno
 ├── escopo-[nome]-apside.pdf           ← PDF interno
+├── previa-[nome].html              ← prévia do site (opcional, se cliente precisa de site)
+├── previa-[nome].png               ← desktop + mobile lado a lado
 ├── render-cliente.cjs                 ← Script de render do cliente
 └── render-apside.cjs                  ← Script de render interno
 ```
@@ -285,11 +362,17 @@ Quando o usuário pedir `/raiox-cliente` ou "raio-x do [NOME]", rodar na ordem:
    → Gerar HTML interno (6 páginas, cores APSIDE)
    → Renderizar PDFs
 
-5. ENTREGAR RESUMO:
+5. SE cliente precisa de site (Website = problema) OU usuário pedir:
+   → Gerar previa-[nome].html (alta fidelidade: cores, imagens e conteúdo reais do cliente)
+   → Renderizar previa-[nome].png (desktop + mobile lado a lado)
+   → Entregar JUNTO com os PDFs, como prévia visual do site proposto
+
+6. ENTREGAR RESUMO:
    - Score: XX/100
    - Classificação: [texto]
    - PDF pro cliente: analise/raiox/[nome]/raiox-[nome]-cliente.pdf
    - PDF interno: analise/raiox/[nome]/escopo-[nome]-apside.pdf
+    - Prévia do site (se gerada): analise/raiox/[nome]/previa-[nome].png
    - Pontos fortes: [lista]
    - O que falta: [lista]
 ```

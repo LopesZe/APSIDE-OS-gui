@@ -74,8 +74,7 @@ Tipo: texto "APSIDE" em DM Sans Bold, centralizado.
 |---|---|---|
 | Branca | `logo-apside.svg` | Escuro |
 | Preta | `logo-apside-claro.svg` | Claro |
-| Gradiente | `logo-apside-gradiente.svg` | Escuro |
-| Gradiente | `logo-apside-gradiente-claro.svg` | Claro |
+| ~~Gradiente~~ **PROIBIDA** | *arquivo excluído (28/09/2026)* | — |
 
 **Uso:** slide final (CTA), header de propostas, site institucional.
 **Tamanho:** 120–200px de largura.
@@ -108,6 +107,9 @@ Tipo: átomo/orbital — representa IA, tecnologia, conexão.
 - Usar as cores de borda e sombra conforme a tabela
 
 ### Nunca fazer
+- Usar a **logo em gradiente** (arquivos `logo-apside-gradiente*` excluídos em 28/09/2026)
+  — proibido. Usar o wordmark sólido: branco (`logo-apside.svg`) em fundo escuro,
+  preto (`logo-apside-claro.svg`) em fundo claro
 - Misturar paletas de marcas diferentes na mesma peça
 - Introduzir cor "do nada" no meio de um carrossel
 - Usar gradiente atrás de texto
@@ -133,8 +135,6 @@ identidade/
 ├── design-guide.md          ← este arquivo
 ├── logo-apside.svg          ← wordmark branco
 ├── logo-apside-claro.svg    ← wordmark preto
-├── logo-apside-gradiente.svg← wordmark gradiente (fundo escuro)
-├── logo-apside-gradiente-claro.svg ← wordmark gradiente (fundo claro)
 ├── icone-apside.svg         ← ícone gradiente (fundo escuro)
 ├── icone-apside-branco.svg  ← ícone branco (fundo escuro)
 ├── icone-apside-claro.svg   ← ícone gradiente (fundo claro)

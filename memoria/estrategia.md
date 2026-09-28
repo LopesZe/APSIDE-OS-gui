@@ -20,6 +20,8 @@ Prospecção fica em pausa. O foco agora é ficar bom no que importa.
    - Fotos, categorias, descrições, posts
    - Gestão de avaliações
    - SEO local
+   - ✅ Imagens PNG prontas pra upload (9 imagens, `marketing/gmb-imagens/png/`)
+   - ✅ Skill `gmb-imagens` criada pra reusar o workflow
 
 2. **Criação de site**
    - Landing pages para negócios locais

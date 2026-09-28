@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { width: 1200px; height: 900px; overflow: hidden; font-family: 'Segoe UI', Arial, sans-serif; }
+.post {
+  width: 1200px; height: 900px;
+  background: #f8f9fa; display: flex; position: relative; overflow: hidden;
+}
+.left {
+  flex: 1; display: flex; flex-direction: column; justify-content: center;
+  padding: 60px 50px 60px 70px;
+}
+.badge {
+  display: inline-block; padding: 6px 16px; border-radius: 16px;
+  background: rgba(0,102,255,0.1); font-size: 13px; font-weight: 600;
+  color: #0066FF; letter-spacing: 1px; text-transform: uppercase;
+  margin-bottom: 24px; width: fit-content;
+}
+h1 {
+  font-size: 42px; font-weight: 800; color: #202124; line-height: 1.2;
+  margin-bottom: 16px;
+}
+p {
+  font-size: 18px; color: #5f6368; line-height: 1.6; margin-bottom: 30px;
+}
+.features { display: flex; flex-direction: column; gap: 12px; }
+.feat {
+  display: flex; align-items: center; gap: 12px;
+  font-size: 15px; color: #3c4043;
+}
+.feat .check {
+  width: 28px; height: 28px; border-radius: 50%;
+  background: rgba(0,230,91,0.1); display: flex; align-items: center;
+  justify-content: center; font-size: 14px; flex-shrink: 0;
+}
+.right {
+  width: 550px; background: linear-gradient(135deg, #1F2133 0%, #0d3b66 100%);
+  display: flex; align-items: center; justify-content: center;
+  position: relative; overflow: hidden;
+}
+.right::before {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(circle at 40% 40%, rgba(0,230,91,0.12) 0%, transparent 50%),
+    radial-gradient(circle at 70% 70%, rgba(0,102,255,0.1) 0%, transparent 50%);
+}
+.mockup {
+  position: relative; z-index: 1;
+  width: 400px; height: 280px; background: #fff;
+  border-radius: 12px; overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+.mockup-bar {
+  height: 28px; background: #f1f3f4; display: flex; align-items: center;
+  padding: 0 10px; gap: 6px;
+}
+.mockup-dot { width: 8px; height: 8px; border-radius: 50%; }
+.mockup-dot.r { background: #ea4335; }
+.mockup-dot.y { background: #fbbc04; }
+.mockup-dot.g { background: #34a853; }
+.mockup-url {
+  flex: 1; margin-left: 8px; height: 16px; background: #fff;
+  border-radius: 4px; font-size: 10px; color: #5f6368;
+  display: flex; align-items: center; padding: 0 6px;
+}
+.mockup-body {
+  padding: 20px; display: flex; flex-direction: column; gap: 10px;
+}
+.mockup-line {
+  height: 10px; border-radius: 4px; background: #e8eaed;
+}
+.mockup-line.short { width: 60%; }
+.mockup-line.accent { background: linear-gradient(90deg, #00E65B, #0066FF); height: 28px; width: 120px; border-radius: 6px; }
+.mockup-hero {
+  height: 80px; background: linear-gradient(135deg, #1F2133, #0d3b66);
+  border-radius: 8px; margin-bottom: 10px;
+}
+.bar {
+  position: absolute; bottom: 0; left: 0; right: 0; height: 4px;
+  background: linear-gradient(90deg, #00E65B, #0066FF, #6E00FF);
+}
+</style></head><body>
+<div class="post">
+  <div class="left">
+    <div class="badge">Criação de Sites</div>
+    <h1>Seu negócio merece um site profissional</h1>
+    <p>Sites rápidos, responsivos e otimizados para converter visitantes em clientes.</p>
+    <div class="features">
+      <div class="feat"><div class="check">✓</div> Design moderno com a identidade da sua marca</div>
+      <div class="feat"><div class="check">✓</div> Carregamento em menos de 2 segundos</div>
+      <div class="feat"><div class="check">✓</div> Otimizado para Google (SEO)</div>
+      <div class="feat"><div class="check">✓</div> Funciona perfeitamente no celular</div>
+    </div>
+  </div>
+  <div class="right">
+    <div class="mockup">
+      <div class="mockup-bar">
+        <div class="mockup-dot r"></div>
+        <div class="mockup-dot y"></div>
+        <div class="mockup-dot g"></div>
+        <div class="mockup-url">seudonegocio.com.br</div>
+      </div>
+      <div class="mockup-body">
+        <div class="mockup-hero"></div>
+        <div class="mockup-line short"></div>
+        <div class="mockup-line"></div>
+        <div class="mockup-line"></div>
+        <div class="mockup-line accent"></div>
+      </div>
+    </div>
+  </div>
+  <div class="bar"></div>
+</div>
+</body></html>

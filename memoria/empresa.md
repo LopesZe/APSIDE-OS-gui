@@ -72,3 +72,26 @@ Guilherme usa o MazyOS como laboratório: desenvolve a APSIDE aqui antes de oper
 ## Landing Pages Raio-X
 
 Sistema de landing pages personalizadas por cliente. Tema escuro premium (参照 referências: SEOtalos, Onion AI, OpenBit). Pasta em `dados/clinicas-ponta-grossa-2026-09-08/landing-pages/`. Cada prospect ganha pasta com `index.html` autocontido. Placeholder pra imagem do notebook (Gemini). Template reutilizável.
+
+## Google Meu Negócio (GMB)
+
+- **Negócio:** APSIDE
+- **Telefone:** (42) 99995-5452
+- **WhatsApp:** https://wa.me/5542999955452
+- **Tipo:** Service Area Business (SAB) — endereço não público
+- **Categoria primária:** Marketing consultant
+- **Categorias secundárias:** Marketing agency, Internet marketing service, Web designer, Advertising agency
+- **Descrição (SEO):** "A APSIDE é uma consultoria de marketing digital em Ponta Grossa que resolve problemas concretos de presença online para negócios locais. Oferecemos otimização de Google Meu Negócio, criação de sites e landing pages, SEO local, Google Ads, Meta Ads e gestão de redes sociais. Trabalhamos com empresários que já têm um bom produto ou serviço, mas que ainda não são encontrados pelo Google. Nosso diferencial é diagnosticar o que realmente falta e implementar a solução certa — sem vender serviço desnecessário. Atendemos Ponta Grossa, Castro, Curitiba e região."
+- **Serviço listado:** Consultoria de marketing digital
+- **Referências visuais:** `marketing/gmb-referencias.html` (9 seções: perfil, antes/depois, avaliações, serviços, galeria, posts, Q&A, insights, mapa)
+- **Imagens PNG geradas:** `marketing/gmb-imagens/png/` (9 imagens prontas pra upload)
+  - 01-cover.png — capa do perfil (1080x608)
+  - 02-logo.png — logo (250x250)
+  - 03-perfil.png — foto de perfil (250x250)
+  - 04-post-oferta.png — post de diagnóstico gratuito (1200x900)
+  - 05-post-antes-depois.png — comparativo antes/depois (1200x900)
+  - 06-post-servicos.png — lista de serviços (1200x900)
+  - 07-post-avaliacao.png — destaque de avaliação (1200x900)
+  - 08-post-whatsapp.png — convite WhatsApp (1200x900)
+  - 09-post-site.png — criação de sites (1200x900)
+- **Próximo:** ajustar imagens se necessário, depois publicar no GMB

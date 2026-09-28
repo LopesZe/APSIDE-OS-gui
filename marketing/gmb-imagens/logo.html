@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { width: 250px; height: 250px; overflow: hidden; font-family: 'Segoe UI', Arial, sans-serif; }
+.logo {
+  width: 250px; height: 250px;
+  background: linear-gradient(135deg, #1F2133 0%, #0d3b66 100%);
+  display: flex; align-items: center; justify-content: center;
+  position: relative; overflow: hidden;
+}
+.logo::before {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(circle at 30% 40%, rgba(0,230,91,0.12) 0%, transparent 50%),
+    radial-gradient(circle at 70% 60%, rgba(0,102,255,0.1) 0%, transparent 50%);
+}
+.inner {
+  position: relative; z-index: 1; text-align: center;
+}
+.inner .letter {
+  font-size: 72px; font-weight: 800; color: #fff; line-height: 1;
+}
+.inner .name {
+  font-size: 14px; font-weight: 600; color: rgba(255,255,255,0.6);
+  letter-spacing: 4px; margin-top: 6px;
+}
+.accent-line {
+  width: 50px; height: 2px; margin: 10px auto 0;
+  background: linear-gradient(90deg, #00E65B, #0066FF);
+  border-radius: 1px;
+}
+</style></head><body>
+<div class="logo">
+  <div class="inner">
+    <div class="letter">A</div>
+    <div class="name">APSIDE</div>
+    <div class="accent-line"></div>
+  </div>
+</div>
+</body></html>

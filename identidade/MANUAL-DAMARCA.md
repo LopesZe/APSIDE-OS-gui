@@ -43,8 +43,7 @@ A logo é um wordmark composto pela palavra **APSIDE** em tipografia DM Sans Bol
 |---|---|---|---|
 | Branca | `logo-apside.svg` | Escuro (`#1F2133`) | Branco `#FFFFFF` |
 | Preta | `logo-apside-claro.svg` | Claro (`#FFFFFF`) | Preto `#000000` |
-| Gradiente | `logo-apside-gradiente.svg` | Escuro (`#1F2133`) | Gradiente da marca |
-| Gradiente | `logo-apside-gradiente-claro.svg` | Claro (`#FFFFFF`) | Gradiente da marca |
+| ~~Gradiente~~ **PROIBIDA** | *arquivo excluído (28/09/2026)* | — | **Nunca usar — usar Branca/Preta conforme o fundo** |
 
 ### 2.3 Espaço de respiro
 
@@ -293,8 +292,6 @@ identidade/
 │
 ├── logo-apside.svg                ← wordmark branco
 ├── logo-apside-claro.svg          ← wordmark preto
-├── logo-apside-gradiente.svg      ← wordmark gradiente (fundo escuro)
-├── logo-apside-gradiente-claro.svg← wordmark gradiente (fundo claro)
 │
 ├── icone-apside.svg               ← ícone gradiente (fundo escuro)
 ├── icone-apside-branco.svg        ← ícone branco (fundo escuro)
