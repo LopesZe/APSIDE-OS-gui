@@ -4,11 +4,11 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  2026-09-28
+ultima_sincronizacao:  2026-10-01
 ultima_auditoria:      2026-10-01
 pendencias_vencidas:   nenhuma (1 item condicional em memoria/pendencias.md)
 estado_telegram:       não configurado (.env inexistente)
-github:                ac568c7 (28/09) — working tree sujo: clientes/ang-festas
+github:                4681017 (01/10) — sync desta sessão
 ```
 
 ## Status operacional do sistema NF
@@ -24,7 +24,6 @@ github:                ac568c7 (28/09) — working tree sujo: clientes/ang-festa
 
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
 - **Bot Telegram nunca configurado** — `sistema/.env` e `bot.lock` ausentes; setup pendente
-- **Git sujo** — `clientes/ang-festas` com mudanças não commitadas (rodar `/salvar`)
 - **`diarios/` e `decisoes/` vazios** — registro diário parado desde o início
 - **MAPA incompleto** — `site/` e `reports/` sem dono na tabela
 

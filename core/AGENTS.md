@@ -20,5 +20,6 @@ Conforme `PROPAGATION.md`:
 - Eles não se confundem porque o roteamento é escrito, não intuição.
 
 ## Estado
-- Saudável. (preenchido pelo `/salvar`)
-- Próximo passo recomendado: rodar `/auditar` e preencher `identidade/design-guide.md`.
+- Saudável. Auditoria 01/10 sem críticos (`reports/audits/2026-10-01.md`); `design-guide.md` completo.
+- Git limpo — `clientes/ang-festas` commitado (site ANG com todas as seções + assets).
+- Próximo passo recomendado: site institucional (links, deploy, SEO, conteúdo) ou setup do bot Telegram.
