@@ -96,7 +96,7 @@ Criar `apresentacao-gmb.html` na pasta do projeto, **copiando o template:**
 Copiar `render-apresentacao.cjs` de uma pasta existente (ex: `eletro-lima-raio-x/`) ou criar:
 
 ```javascript
-const { chromium } = require('C:/Users/guilo/APSIDE-OS/marketing/conteudo/carrossel-presenca-2026-08-25/node_modules/playwright');
+const { chromium } = require('playwright');
 const path = require('path');
 const fs = require('fs');
 

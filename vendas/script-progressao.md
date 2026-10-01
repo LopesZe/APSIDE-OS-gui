@@ -11,7 +11,7 @@ O cliente não precisa passar por todas as etapas. Cada cliente segue o caminho 
 
 ```
 Cliente A: Google → R$497 → fim.
-Cliente B: Google + landing → R$1.497.
+Cliente B: Google + landing → R$1.697.
 Cliente C: Google + site + captação → R$2.500.
 Cliente D: Diagnóstico → CRM + automação → R$6.000.
 ```
@@ -95,7 +95,7 @@ Cada entrega gera confiança. Cada confiança abre porta pra problema maior. Nun
 
 ```
 Mês 1: Google (R$497) → cliente satisfeito
-Mês 2: "Quer uma página?" → Landing Page (R$1.200)
+Mês 2: "Quer uma página?" → Landing Page (R$997)
 Mês 3: "Tá recebendo lead mas perdendo?" → Estruturação (R$2.500)
 Mês 4: "Perde lead fora do horário?" → Chatbot WhatsApp (R$3.000-5.000)
 Mês 5: "Quer automatizar o atendimento?" → Automação (R$3.000+)

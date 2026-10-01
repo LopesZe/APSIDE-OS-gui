@@ -333,7 +333,7 @@ INDICAÇÃO (sempre)
 - 15 abordagens/semana
 - Se 20% fechar = 3 clientes/semana
 - Em 1 mês = 12 clientes
-- Receita mínima: R$ 1.491 (só Google)
+- Receita mínima: R$ 5.964 (só Google — 12 × R$497)
 - Receita ideal: R$ 10.000+ (com projetos maiores)
 
 ---

@@ -223,11 +223,12 @@ Medir resultados
 
 | Produto | Preço | O que inclui |
 |---------|-------|--------------|
-| Presença no Google | R$297-497 | Otimização GMB completa + 30 dias de gestão |
-| Landing Page | R$697-1.200 | Site 1 página, mobile, rápido, com NAP |
-| Google + Site | R$697-890 | Bundle: GMB + Landing Page |
-| Projeto completo | R$1.500-5.000 | GMB + Site + SEO + Gestão mensal |
-| Social mensal | R$197/mês | **NÃO priorizar** — relação esforço/receita ruim |
+| Presença no Google | R$497-697 | Otimização GMB completa + 30 dias de gestão |
+| Landing Page | R$997-1.500 | Site 1 página, mobile, rápido, com NAP |
+| Google + Site | R$1.697 | Combo Completo: GMB + Landing Page + 4 posts |
+| Projeto completo | R$2.500-7.500 | GMB + Site + SEO + Estruturação (1-3 semanas) |
+| Chatbot WhatsApp | R$3.000-5.000 | Item novo (recall 01/10/2026) — nunca embutir de cortesia |
+| Social mensal | R$397-597/mês | **NÃO priorizar** — preço corrigido no recall 01/10, mínimo 3 meses |
 
 ---
 

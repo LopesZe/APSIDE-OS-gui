@@ -36,7 +36,7 @@ Prospecção fica em pausa. O foco agora é ficar bom no que importa.
 
 ## Meta de curto prazo
 
-10 clientes em 60-90 dias. Ticket médio inicial: R$ 300-500.
+10 clientes em 60-90 dias. Ticket médio inicial: R$ 497-697.
 
 ## Regra de ouro agora
 
@@ -47,7 +47,7 @@ Não criar mais skills, páginas, automações e estruturas antes de dominar a e
 - **Prospecção:** Pausada até dominar entrega
 - Google Meu Negócio como primeiro produto (R$497-697)
 - Landing page como segundo produto (R$997-1.500)
-- Bundle GMB + site como "presença completa" (R$1.497-1.697)
+- Bundle GMB + site como "presença completa" (R$1.697)
 - Projetos maiores conforme a confiança cresce
 
 ## O que NÃO priorizar agora
