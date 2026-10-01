@@ -24,7 +24,7 @@ github:                8e143d1 (01/10) — sync desta sessão
 
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
 - **Bot Telegram nunca configurado** — `sistema/.env` e `bot.lock` ausentes; setup pendente
-- **`diarios/` e `decisoes/` vazios** — registro diário parado desde o início
+- **`diarios/` vazio** — registro diário parado desde o início (`decisoes/` iniciado em 01/10 com o recall de preços)
 - **MAPA incompleto** — `site/` e `reports/` sem dono na tabela
 
 ## Auditoria — 2026-10-01 (relatório: `reports/audits/2026-10-01.md`)
