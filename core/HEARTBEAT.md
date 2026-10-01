@@ -8,7 +8,7 @@ ultima_sincronizacao:  2026-10-01
 ultima_auditoria:      2026-10-01
 pendencias_vencidas:   nenhuma (1 item condicional em memoria/pendencias.md)
 estado_telegram:       não configurado (.env inexistente)
-github:                4681017 (01/10) — sync desta sessão
+github:                8e143d1 (01/10) — sync desta sessão
 ```
 
 ## Status operacional do sistema NF
