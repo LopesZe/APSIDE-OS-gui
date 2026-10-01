@@ -152,7 +152,25 @@ Para cada cliente, avaliar:
 - Estruturação: R$ 2.500–7.500 ✅
 - Chatbot WhatsApp: R$ 3.000–5.000 (item novo) ✅
 
-Reajuste a cada 6 meses.
+Reajuste a cada 6 meses (próximo: 01/04/2027).
+
+### Como rodar o recall (esse arquivo é a fonte — nada de skill à parte)
+
+1. **Gate humano:** tabela antes → depois aprovada pelo operador antes de escrever.
+2. **Repaginar esta escada** (data no cabeçalho) e **propagar os valores novos:**
+   - `vendas/*.md` — incluindo exemplos e contas (math, progressão, bundles, ticket médio)
+   - `marketing/estudo-gmb-completo.md` + `marketing/estudo-gmb.html`
+   - skills com preço: `proposta`, `diagnostico-gmb`, `apresentacao-gmb` (+ templates)
+   - `clientes/_template/` e `memoria/estrategia.md`
+   - `memoria/mentores.md`: NUNCA trocar preços dos mentores
+3. **Corrigir erros na hora:** conta que não fecha, bundle fora das faixas, ticket
+   abaixo do piso. **Retirar da venda ativa** o que foi descontinuado (caso Display
+   NFC: escada, empresa, scripts, skills, guia — históricos não tocar).
+4. **Re-render:** `node vendas/render-guia.cjs` (guia) + escopos de cliente
+   (`render-apside.cjs` — playwright, nunca Edge headless).
+5. **Varredura final:** grep por preço velho e nome de descontinuado em `*.md`/`*.html`,
+   excluindo `analise/`, `marketing/conteudo/`, `clientes/ang-festas` e `archive/`.
+6. **Registrar** em `memoria/decisoes/` e **`/salvar`**.
 
 ---
 
