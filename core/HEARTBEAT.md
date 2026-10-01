@@ -4,11 +4,11 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  2026-09-18
-ultima_auditoria:      2026-09-18
-pendencias_vencidas:   ver memoria/pendencias.md
-estado_telegram:       (preenchido pelo setup)
-github:                (ver git log)
+ultima_sincronizacao:  2026-09-28
+ultima_auditoria:      2026-10-01
+pendencias_vencidas:   nenhuma (1 item condicional em memoria/pendencias.md)
+estado_telegram:       não configurado (.env inexistente)
+github:                ac568c7 (28/09) — working tree sujo: clientes/ang-festas
 ```
 
 ## Status operacional do sistema NF
@@ -23,26 +23,32 @@ github:                (ver git log)
 ## Alertas a resolver
 
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
+- **Bot Telegram nunca configurado** — `sistema/.env` e `bot.lock` ausentes; setup pendente
+- **Git sujo** — `clientes/ang-festas` com mudanças não commitadas (rodar `/salvar`)
+- **`diarios/` e `decisoes/` vazios** — registro diário parado desde o início
+- **MAPA incompleto** — `site/` e `reports/` sem dono na tabela
 
-## Auditoria — 2026-09-18
+## Auditoria — 2026-10-01 (relatório: `reports/audits/2026-10-01.md`)
 
 ### ✅ OK
 - `memoria/empresa.md` — preenchido, coerente, 1 cliente (ANG Festas)
-- `memoria/preferencias.md` — tom definido, listas de evitar presentes
+- `memoria/preferencias.md` — tom definido + regras de logo e imagem GMB
 - `memoria/estrategia.md` — fase dominar entrega, prioridades claras
+- `memoria/pendencias.md` — 1 item, nenhum vencido
 - `memoria/mentores.md` — base de conhecimento completa
-- `identidade/design-guide.md` — identidade visual completa
-- `MAPA.md` — sem donos conflitantes
-- `RULES.md` — constituição íntegra
-- `GOVERNANCE.md` — rotinas definidas
-- 39 skills disponíveis
-- Raio-X Conta Gestor concluído (7p cliente + 6p interno)
-- **Raio-X AgroTerra Contabilidade concluído** (7p cliente + 6p interno, score 45/100)
-- Reorganização estrutural concluída (analise/, vendas/)
+- `identidade/design-guide.md` — completo, 0 placeholders
+- `MAPA.md` — sem conflitos de dono
+- `RULES.md` / `GOVERNANCE.md` — íntegros
+- 39 skills, índice `core/SKILLS.md` coerente
+- GitHub — último push 28/09 (3 dias)
 
 ### ⚠️ Alertas
 - Site institucional incompleto — faltam links, deploy, SEO, conteúdo real
-- `pendencias.md` vazio — sem fila de tarefas registradas
+- Bot Telegram sem setup (`.env` / `bot.lock` ausentes)
+- `clientes/ang-festas` não commitado
+- `diarios/` e `decisoes/` vazios
+- Auditoria de 18/09 registrada sem relatório em `reports/audits/`
+- `site/` e `reports/` sem dono no MAPA
 
 ### ❌ Crítico
 - Nenhum
