@@ -169,13 +169,13 @@ Mercado → dinheir que circula → vazamento → infraestrutura → expansão. 
 
 ## 8. Leitura aplicada à APSIDE (estado atual do projeto)
 
-**Onde estamos (memoria/estrategia.md):** fase de *dominar entrega* — GMB + criação de site; prospecção pausada; tickets R$ 497–697 (GMB), R$ 997–1.500 (LP), R$ 1.697 (bundle); meta de 10 clientes em 60–90 dias; solo; case ANG Festas fechado; regra de ouro: **não criar mais estrutura antes de dominar a entrega**.
+**Onde estamos (memoria/estrategia.md):** fase de *dominar entrega* — GMB + criação de site; prospecção pausada; tickets R$ 497–697 (GMB), R$ 997–1.500 (LP), R$ 1.697 (bundle); meta de 10 clientes em 60–90 dias; solo; ANG Festas foi **teste, não cliente** (0 clientes pagantes); regra de ouro: **não criar mais estrutura antes de dominar a entrega**.
 
 ### 8.1 Onde a tese dele CONVERGE com o que já fazemos
 1. **Diagnóstico como topo de funil** — o funil inteiro dele começa em "diagnóstico que eleva a dor". É exatamente o que `/raiox-cliente`, `/diagnostico-gmb` e o comparativo antes/depois já fazem. Não é validação de curso: é o que o mercado dele (e o nosso) responde.
 2. **Verticalização** — o ICP dele ("clínica bonita com Google abandonado") é o nosso. Ele só levaria isso ao extremo: um nicho, um problema, feito 10 vezes.
 3. **"Construa uma vez, venda para 10, 20, 50 do mesmo nicho"** (61 mil views) — é a descrição do nosso sistema de landing pages Raio-X e do template de GMB por nicho. Estamos no caminho certo, faltando o pacote.
-4. **Prova > teoria** — antes/depois do ANG publicado é o motor de venda que ele descreve.
+4. **Prova > teoria** — antes/depois com número é o motor de venda que ele descreve. A ANG (teste) prova o *processo*, mas não é case de cliente — o primeiro antes/depois de venda precisa vir do 1º cliente real.
 5. **Não brigar por preço** — já é regra da APSIDE ("sem competir por preço"). Ele dá o sustentáculo: preço vem do impacto, não da sua hora.
 
 ### 8.2 Onde DIVERGE (o que não copiar agora)
@@ -188,7 +188,7 @@ Mercado → dinheir que circula → vazamento → infraestrutura → expansão. 
 2. **Usar o diagnóstico como isca padronizada** já existente (skills de GMB/Raio-X) e transformá-lo no formulário de entrada do funil — sem criar skill nova, só o fluxo.
 3. **Escolher 1 nicho e repetir** (clínicas odonto/estética em Ponta Grossa já começaram) até o reuso chegar a 60–90% — é o que faz o ticket subir sem aumentar horas.
 4. **Ancorar preço no valor do cliente** (quanto vale um paciente novo) e sair da tabela de serviços — hoje R$ 497 é o teto; com conta de valor, vira o piso.
-5. **Publicar o case ANG** antes/depois com número (avaliações, fotos, cliques, ligações) — prova social é o argumento que ele usa em 80% dos vídeos recentes.
+5. **Conquistar o 1º cliente real e publicar o antes/depois dele** com número (avaliações, fotos, cliques, ligações) — prova social é o argumento que ele usa em 80% dos vídeos recentes; a ANG foi teste e não serve como case de venda.
 6. **Não pular a escada:** ele mesmo ensina "escada de 6 níveis, não pule etapas". Isso valida nossa regra de ouro: dominar entrega (GMB+site) > criar OS própria.
 7. **Risco de saturação:** o nicho de "quem ensina/agencia com IA" satura em 18–24 meses (o próprio Kelvin fala em janela de 2 anos). Quem fica é quem tem **case e entrega real** — outra razão pra priorizar domínio da entrega agora.
 

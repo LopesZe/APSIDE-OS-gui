@@ -21,5 +21,6 @@ Conforme `PROPAGATION.md`:
 
 ## Estado
 - Saudável. Auditoria 01/10 sem críticos (`reports/audits/2026-10-01.md`); `design-guide.md` completo.
-- Git limpo — `clientes/ang-festas` commitado (site ANG com todas as seções + assets).
+- **0 clientes pagantes** — ANG Festas reclassificada como **teste, não cliente** (01/10/2026); site ANG mantido como histórico.
+- Análise do canal Kelvin Cleto salva em `analise/youtube/kelvin-cleto/` (206 transcrições, análise, apresentação HTML).
 - Próximo passo recomendado: site institucional (links, deploy, SEO, conteúdo) ou setup do bot Telegram.

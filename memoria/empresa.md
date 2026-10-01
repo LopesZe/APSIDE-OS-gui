@@ -55,15 +55,19 @@ Guilherme usa o MazyOS como laboratório: desenvolve a APSIDE aqui antes de oper
 
 ## Clientes
 
-### ANG Festas (concluído)
-- **Serviço:** Google Meu Negócio + Landing Page
-- **Status:** Site finalizado e pronto para deploy
+**Nenhum cliente pagante ainda** (fase inicial; meta: 10 em 60-90 dias).
+
+### ANG Festas (teste — não é cliente)
+- **Status:** projeto-piloto de validação de entrega. **Não conta como cliente nem como case.**
+- **Serviço testado:** Google Meu Negócio + Landing Page
+- **Resultado:** site finalizado e pronto para deploy (uso interno como prova de processo)
 - **Localização:** Ponta Grossa, PR
 - **Contato:** Maria, WhatsApp (42) 99990-9828
 - **Endereço:** R. Castanheira, 147 - Santa Paula
 - **Arquivos:** `clientes/ang-festas/site/`
 - **Stack:** Next.js 15, React 19, Tailwind CSS, Framer Motion
 - **Entregáveis:** Site responsivo com Hero, Sobre, Eventos, Vídeos, Fotos, Depoimentos, CTA
+- **Nota (01/10/2026):** definido pelo Guilherme — era apenas um teste; documento histórico, não vitrine de venda.
 
 ## Landing Pages Raio-X
 
