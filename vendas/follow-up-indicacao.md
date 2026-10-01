@@ -130,7 +130,7 @@ Use uma planilha com essas colunas:
 
 | Nome | Negócio | Telefone | Data fechamento | Serviço | Valor | Status indicação | Próximo contato |
 |------|---------|----------|-----------------|---------|-------|------------------|-----------------|
-| João | Pet Shop X | (42) 99999-0000 | 10/09/2026 | Google | R$397 | Pendente | 17/09/2026 |
+| João | Pet Shop X | (42) 99999-0000 | 10/09/2026 | Google | R$497 | Pendente | 17/09/2026 |
 
 ### Status indicação
 - **Pendente** — ainda não pediu

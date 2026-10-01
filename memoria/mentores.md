@@ -68,6 +68,9 @@
 | Social recorrente | R$ 197/mês |
 | Mentoria (2h) | R$ 2.000 |
 
+> ⚠️ Preços originais dos mentores (conhecimento histórico). A escada da APSIDE foi
+> repaginada em 01/10/2026 — fonte única: `vendas/escada-precos.md`.
+
 ### Tickets altos (Mazzeo)
 - Site + Google Ads: R$ 5.000
 - Agente SDR: R$ 5.000 + R$ 800/mês

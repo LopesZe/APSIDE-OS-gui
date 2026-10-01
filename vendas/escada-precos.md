@@ -1,6 +1,8 @@
 # Precificação — APSIDE
 
 > Faixas de preço por tipo de problema. Referência interna, não caminho obrigatório do cliente.
+> **Recall de 01/10/2026:** faixas repaginadas após análise da proposta Conta Gestor
+> (escopo cobrava chatbot dentro de R$1.497 — subfaturado ~70%). Fonte única: este arquivo.
 
 ## PRINCÍPIO
 
@@ -15,15 +17,17 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 ## FAIXAS DE PREÇO
 
 ### Presença no Google
-**Faixa:** R$ 297–497
+**Faixa:** R$ 497–697
 
 **O que resolve:** Google incompleto, sem fotos, poucas avaliações, informação errada.
 
 **O que inclui:**
 - Perfil completo (nome, categoria, descrição, horário, WhatsApp)
+- Correção de SEO técnico (sitemap, robots.txt, meta tags)
 - 8 fotos profissionais
 - 3 serviços/produtos cadastrados
 - Respostas de avaliações (30 dias)
+- Google Analytics configurado
 - Display NFC configurado (bônus)
 
 **Prazo:** 2-5 dias
@@ -33,7 +37,7 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 ---
 
 ### Landing Page + Presença Online
-**Faixa:** R$ 697–1.200
+**Faixa:** R$ 997–1.500
 
 **O que resolve:** Sem site, precisa de presença online pra converter quem encontra a empresa.
 
@@ -50,7 +54,7 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 ---
 
 ### Projeto de Estruturação Digital
-**Faixa:** R$ 1.500–5.000
+**Faixa:** R$ 2.500–7.500
 
 **O que resolve:** Múltiplos problemas: Google + site + captação + organização.
 
@@ -82,6 +86,34 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 **Prazo:** 1-3 meses
 
 **Para quem:** Empresa com escala, precisa de sistema, tem orçamento.
+
+---
+
+### Chatbot WhatsApp (avulso)
+**Faixa:** R$ 3.000–5.000
+
+**O que resolve:** leads perdidos fora do horário comercial, atendimento manual repetitivo, qualificação de leads lenta.
+
+**O que inclui:**
+- Fluxo de qualificação de leads
+- Respostas rápidas para dúvidas comuns
+- Triagem e agendamento automatizados
+- Integração com WhatsApp Business (API ou Evolution API)
+
+**Prazo:** 1-2 semanas
+
+**Para quem:** qualquer negócio que vive de lead (contabilidade, clínica, escritório, imobiliária).
+Um lead respondido em 1 minuto às 22h vale o projeto inteiro — **nunca embutir chatbot "de cortesia" dentro de outro pacote.**
+
+---
+
+### Conteúdo e Redes (avulso)
+**Faixa:** R$ 397–597/mês (mín. 3 meses)
+
+**O que inclui:** 8 peças/mês (posts ou reels), calendário editorial, legendas.
+
+**Obs:** o social recorrente antigo (R$197/mês) tinha relação esforço/receita ruim —
+o recall de 01/10 corrige isso. Só vender se faturar a faixa completa (ver `estrategia.md`).
 
 ---
 
@@ -118,10 +150,11 @@ Para cada cliente, avaliar:
 
 ## EVOLUÇÃO DOS PREÇOS
 
-Após 3-4 cases com resultado comprovado:
-- Presença no Google → subir pra R$ 497-697
-- Landing Page → subir pra R$ 997-1.500
-- Estruturação → subir pra R$ 2.500-7.500
+~~Após 3-4 cases com resultado comprovado:~~ **Aplicado no recall de 01/10/2026:**
+- Presença no Google: R$ 497–697 ✅
+- Landing Page: R$ 997–1.500 ✅
+- Estruturação: R$ 2.500–7.500 ✅
+- Chatbot WhatsApp: R$ 3.000–5.000 (item novo) ✅
 
 Reajuste a cada 6 meses.
 

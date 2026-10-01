@@ -45,14 +45,14 @@ Não criar mais skills, páginas, automações e estruturas antes de dominar a e
 ## O que pode esperar
 
 - **Prospecção:** Pausada até dominar entrega
-- Google Meu Negócio como primeiro produto (R$297-497)
-- Landing page como segundo produto (R$697-1.200)
-- Bundle GMB + site como "presença completa" (R$697-890)
+- Google Meu Negócio como primeiro produto (R$497-697)
+- Landing page como segundo produto (R$997-1.500)
+- Bundle GMB + site como "presença completa" (R$1.497-1.697)
 - Projetos maiores conforme a confiança cresce
 
 ## O que NÃO priorizar agora
 
-- Social recorrente R$197/mês (relação esforço/receita ruim)
+- Social recorrente R$397-597/mês (recall 01/10 corrigiu o preço; ainda não priorizar)
 - Mentoria R$2.000 (precisa de cases primeiro)
 - CRM/automação/IA (usar conforme problemas aparecerem)
 - Trafego pago (não oferecer até ter Google + site prontos)

@@ -28,6 +28,7 @@ próxima ou pergunte.
 | "prospecar", "achar clientes", "encontrar negócios" | `prospecar` |
 | "proposta", "orçamento", "proposta comercial" | `proposta` |
 | "diagnóstico GMB", "analisar Google", "ver GMB" | `diagnostico-gmb` |
+| "recall de preços", "repaginar", "reajuste de preços", "subir preço" | `recall-precos` |
 | PDF de NF-e no tópico `nf` (Telegram) | `sistema/` (bot, automático) |
 
 > Se nenhuma skill bater, execute a tarefa normalmente e, se for repetível, proponha

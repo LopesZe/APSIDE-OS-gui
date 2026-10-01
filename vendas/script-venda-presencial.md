@@ -326,15 +326,15 @@ INDICAÇÃO (sempre)
 |---|---|---|---|---|
 | Só raio-x (agendamento) | 10min | R$ 0 | R$ 0 | R$ 0 |
 | Raio-x + proposta | 20min | R$ 0 | R$ 0 | R$ 0 |
-| Raio-x + fechamento Google | 30min | R$ 0 | R$ 297-497 | R$ 297-497 |
-| Raio-x + fechamento Landing | 45min | R$ 0 | R$ 697-1.200 | R$ 697-1.200 |
+| Raio-x + fechamento Google | 30min | R$ 0 | R$ 497-697 | R$ 497-697 |
+| Raio-x + fechamento Landing | 45min | R$ 0 | R$ 997-1.500 | R$ 997-1.500 |
 
 **Se você fizer 3 abordagens por dia, 5 dias por semana:**
 - 15 abordagens/semana
 - Se 20% fechar = 3 clientes/semana
 - Em 1 mês = 12 clientes
-- Receita mínima: R$ 891 (só Google)
-- Receita ideal: R$ 5.000+ (com projetos maiores)
+- Receita mínima: R$ 1.491 (só Google)
+- Receita ideal: R$ 10.000+ (com projetos maiores)
 
 ---
 

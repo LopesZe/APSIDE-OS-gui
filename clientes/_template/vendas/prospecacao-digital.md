@@ -51,7 +51,7 @@ Seu Google tem [problema específico: poucas fotos / sem avaliações /
 informação incompleta]. Isso faz com que quem te procura no Google
 acabe indo pro concorrente.
 
-Resolver isso é simples — leva 2-5 dias e custa entre R$297 e R$497.
+Resolver isso é simples — leva 2-5 dias e custa entre R$497 e R$697.
 
 Quer que eu te mostre presencialmente? Posso passar aí [dia/hora].
 ```
@@ -114,7 +114,7 @@ cliente. Posso te mostrar rapidinho?
 Olha: quando alguém busca "[nicho] em [Cidade]", olha quem aparece
 primeiro... e olha o teu. Isso é dinheiro saindo.
 
-Posso resolver isso por R$397-497, configurado em 2-5 dias.
+Posso resolver isso por R$497-697, configurado em 2-5 dias.
 Topa ver presencialmente?
 ```
 

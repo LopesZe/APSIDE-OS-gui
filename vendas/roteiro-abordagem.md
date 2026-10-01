@@ -26,7 +26,7 @@ Chega, põe o display na mesa, encosta o celular e mostra abrindo a avaliação:
 > "Olha só, funciona assim — cliente encosta e avalia. Já deixei o link do SEU Google Meu Negócio nele. Deixa eu ver teu perfil aqui rapidinho..."
 
 (Abre o GMB dele no celular, na frente dele)
-> "Viu? Teu Google tá sem foto e o nome quase não aparece quando buscam 'pet shop perto de mim'. Quem busca teu concorrente aparece, tu não. Por R$ 197 eu completo ele direto: fotos, serviços, e respondo tuas avaliações por 30 dias. Quer que eu faço?"
+> "Viu? Teu Google tá sem foto e o nome quase não aparece quando buscam 'pet shop perto de mim'. Quem busca teu concorrente aparece, tu não. Por R$ 497 eu completo ele direto: fotos, serviços, e respondo tuas avaliações por 30 dias. Quer que eu faço?"
 
 **Mostra o print do GMB bem feito vs pelado** enquanto fala. Silêncio depois do preço (Alfredo: quem fala primeiro depois do número perde).
 
@@ -34,24 +34,24 @@ Chega, põe o display na mesa, encosta o celular e mostra abrindo a avaliação:
 
 ## 3. PONTE DE UPSLL (3 opções — 60% pega o meio)
 Se ele topa o display (ou o GMB), apresenta os 3:
-- **Básico:** só GMB — R$ 197
-- **Completo:** GMB + Site de 1 página + 4 posts — R$ 690  ← recomendar
-- **Premium:** GMB + Site + Social 3 meses — R$ 1.990
+- **Básico:** só GMB — R$ 497
+- **Completo:** GMB + Site de 1 página + 4 posts — R$ 1.697  ← recomendar
+- **Premium:** GMB + Site + Social 3 meses — R$ 2.997
 
-> "Se quiser, por R$ 690 eu já deixo teu site pronto e 4 posts pro Insta. Deixa eu te mostrar um que acabei de fazer." (mostra o carrossel de exemplo)
+> "Se quiser, por R$ 1.697 eu já deixo teu site pronto e 4 posts pro Insta. Deixa eu te mostrar um que acabei de fazer." (mostra o carrossel de exemplo)
 
 ---
 
 ## 4. SEGUIMENTO (não deixa o R$ 50 morrer na mesa)
 
 ### DIA 3 — entrega do GMB (se fechou) + sobe o degrau
-> "Teu GMB tá pronto, [nome]! Já tão chegando avaliação. Agora que o Google tá certo, quer que eu faça teu site pra quem clica não ir pra concorrência? R$ 690, 4 posts inclusos. Mando o rascunho?"
+> "Teu GMB tá pronto, [nome]! Já tão chegando avaliação. Agora que o Google tá certo, quer que eu faça teu site pra quem clica não ir pra concorrência? R$ 1.697, 4 posts inclusos. Mando o rascunho?"
 
 ### DIA 7 — se não fechou nada além do display
-> "E aí, [nome]! O display tá puxando avaliação? Se quiser, por R$ 197 eu completo teu Google (fotos + serviços) pra essas avaliações caírem num perfil que vende. Topa?"
+> "E aí, [nome]! O display tá puxando avaliação? Se quiser, por R$ 497 eu completo teu Google (fotos + serviços) pra essas avaliações caírem num perfil que vende. Topa?"
 
 ### DIA 30 — oferece a recorrência (ou lembra)
-> "Faz 1 mês que teu pet shop tá no Google certo. Quer que eu poste no Insta toda semana pra você? 8 posts por mês, R$ 197. Assim tu não precisa pensar em conteúdo. Começo quando?"
+> "Faz 1 mês que teu pet shop tá no Google certo. Quer que eu poste no Insta toda semana pra você? 8 posts por mês, R$ 397. Assim tu não precisa pensar em conteúdo. Começo quando?"
 
 ---
 

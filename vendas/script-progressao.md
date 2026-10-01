@@ -10,8 +10,8 @@
 O cliente não precisa passar por todas as etapas. Cada cliente segue o caminho correspondente ao problema que possui.
 
 ```
-Cliente A: Google → R$397 → fim.
-Cliente B: Google + landing → R$997.
+Cliente A: Google → R$497 → fim.
+Cliente B: Google + landing → R$1.497.
 Cliente C: Google + site + captação → R$2.500.
 Cliente D: Diagnóstico → CRM + automação → R$6.000.
 ```
@@ -22,7 +22,7 @@ Cliente D: Diagnóstico → CRM + automação → R$6.000.
 
 ### PASSO 1 — Entregar bem o pequeno
 
-Se fechou R$297-497 (Google), entregar com qualidade:
+Se fechou R$497-697 (Google), entregar com qualidade:
 - Perfil completo
 - Fotos profissionais
 - Avaliações respondidas
@@ -95,10 +95,11 @@ Cada entrega gera confiança. Cada confiança abre porta pra problema maior. Nun
 ## EXEMPLO REAL DE PROGRESSÃO
 
 ```
-Mês 1: Google (R$397) → cliente satisfeito
-Mês 2: "Quer uma página?" → Landing Page (R$997)
-Mês 3: "Tá recebendo lead mas perdendo?" → Organização básica (R$1.500)
-Mês 4: "Quer automatizar o atendimento?" → Automação (R$3.000+)
+Mês 1: Google (R$497) → cliente satisfeito
+Mês 2: "Quer uma página?" → Landing Page (R$1.200)
+Mês 3: "Tá recebendo lead mas perdendo?" → Estruturação (R$2.500)
+Mês 4: "Perde lead fora do horário?" → Chatbot WhatsApp (R$3.000-5.000)
+Mês 5: "Quer automatizar o atendimento?" → Automação (R$3.000+)
 ```
 
 **Não acontece com todo cliente. Alguns ficam só no Google. E tá tudo bem.**

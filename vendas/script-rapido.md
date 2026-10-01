@@ -52,7 +52,7 @@ que tão fazendo você perder cliente sem saber."
 
 ### 5. FECHAR (2 min)
 ```
-"Resolvo isso por R$397 a 497. Completar o Google, fotos,
+"Resolvo isso por R$497 a 697. Completar o Google, fotos,
 avaliações, tudo configurado. Posso começar essa semana?"
 ```
 
@@ -90,9 +90,10 @@ e faço o raio-x pra ele também."
 
 | Produto | Preço | Prazo |
 |---------|-------|-------|
-| Google completo | R$297-497 | 2-5 dias |
-| Landing page | R$697-1.200 | 5-7 dias |
-| Estruturação | R$1.500-5.000 | 1-3 sem |
+| Google completo | R$497-697 | 2-5 dias |
+| Landing page | R$997-1.500 | 5-7 dias |
+| Estruturação | R$2.500-7.500 | 1-3 sem |
+| Chatbot WhatsApp | R$3.000-5.000 | 1-2 sem |
 | Automação/CRM | R$3.000-10.000+ | 1-3 meses |
 
 ---

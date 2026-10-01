@@ -30,9 +30,10 @@ Proposta baseada no problema, não no produto. O cliente compra a resolução de
 
 Não oferecer 3 opções obrigatórias. Oferecer a solução que faz sentido pro problema:
 
-- **Problema simples** (Google fraco) → Presença no Google (R$297-497)
-- **Problema médio** (Google + conversão) → Google + Landing Page (R$697-1.200)
-- **Problema grande** (múltiplos gargalos) → Projeto de Estruturação (R$1.500-5.000)
+- **Problema simples** (Google fraco) → Presença no Google (R$497-697)
+- **Problema médio** (Google + conversão) → Google + Landing Page (R$997-1.500)
+- **Problema grande** (múltiplos gargalos) → Projeto de Estruturação (R$2.500-7.500)
+- **Lead perdido fora do horário** (qualificação/atendimento) → Chatbot WhatsApp (R$3.000-5.000)
 - **Problema complexo** (processos) → Automação/CRM (R$3.000-10.000+)
 
 ### Passo 3 — Montar a proposta

@@ -37,9 +37,9 @@ Skill de vendas presenciais. Gera um PDF profissional de 6 páginas (A4 landscap
 
 | Solução | Faixa de Preço | Itens |
 |---------|----------------|-------|
-| **Presença no Google** | R$ 297–497 | 8 fotos, 3 serviços, respostas (30d), horários, WhatsApp |
-| **Google + Landing Page** | R$ 697–1.200 | Tudo do anterior + landing page + 4 carrosséis + SEO local + CTA WhatsApp |
-| **Projeto de Estruturação** | R$ 1.500–5.000 | Tudo anterior + organização de captação + configuração de follow-up |
+| **Presença no Google** | R$ 497–697 | 8 fotos, 3 serviços, respostas (30d), horários, WhatsApp |
+| **Google + Landing Page** | R$ 997–1.500 | Tudo do anterior + landing page + 4 carrosséis + SEO local + CTA WhatsApp |
+| **Projeto de Estruturação** | R$ 2.500–7.500 | Tudo anterior + organização de captação + configuração de follow-up |
 
 **Regra:** a solução é definida pelo problema identificado, não por uma tabela de preços.
 

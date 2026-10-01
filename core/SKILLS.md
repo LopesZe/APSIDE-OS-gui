@@ -38,5 +38,6 @@ O opencode descobre sozinho; este índice é para humanos e para o `RESOLVER.md`
 | `/prospecar-instagram` | Prospecção via Instagram: perfis ativos sem site/GMB → leads qualificados. |
 | `/proposta` | Gera proposta comercial com diagnóstico, soluções e preços. |
 | `/diagnostico-gmb` | Diagnóstico completo do Google Meu Negócio com score 0-100. |
+| `/recall-precos` | Recall de preços: repagina a escada e propaga valores novos por todo o repo. |
 
 > Toda skill nova segue o template em `templates/skills/skill-template.md`.

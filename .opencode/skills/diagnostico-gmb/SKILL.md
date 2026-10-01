@@ -123,21 +123,21 @@ Criar arquivo `marketing/diagnosticos/gmb-[nome]-[data].md` com:
 ### Opção 1: Presença no Google
 - [Serviço 1]
 - [Serviço 2]
-- Faixa: R$ 297–497
+- Faixa: R$ 497–697
 - Prazo: 2-5 dias
 
 ### Opção 2: Google + Landing Page
 - Tudo da Opção 1 +
 - [Serviço 3]
 - [Serviço 4]
-- Faixa: R$ 697–1.200
+- Faixa: R$ 997–1.500
 - Prazo: 5-7 dias
 
 ### Opção 3: Projeto de Estruturação
 - Tudo da Opção 2 +
 - [Serviço 5]
 - [Serviço 6]
-- Faixa: R$ 1.500–5.000
+- Faixa: R$ 2.500–7.500
 - Prazo: 1-3 semanas
 
 > A solução é definida pelo problema identificado, não por uma tabela de preços.
