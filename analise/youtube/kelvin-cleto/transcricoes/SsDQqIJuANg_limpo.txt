@@ -1,0 +1,547 @@
+Vocês viram essa notícia da meta? Os que
+a os funcionários da meta começaram a
+protestar porque a meta começou a
+monitorar o uso do computador, o o onde
+onde o funcionário clica, como ele
+digita, como ele usa o sistema ou como
+ele usa o computador no dia a dia. Por
+que que a meta tá fazendo isso? A meta
+tá coletando dados, os dados de
+utilização das máquinas pelos
+colaboradores para que ela possa treinar
+modelos para replicar aquilo que os
+funcionários fazem. Cara, isso aqui é
+absurdo. Mas eu não vou falar sobre a
+meta, mas vou falar sobre dados. Eu vou
+falar para vocês que eu venho há um
+tempo estruturando eh a memória da minha
+empresa, né? Então, o cérebro, o segundo
+cérebro. Esse vídeo vai ser sobre o
+segundo cérebro. Vai ser talvez um pouco
+mais técnico, mas tá ficando tão legal
+que eu decidi compartilhar com vocês o
+que eu tô fazendo aqui no meu negócio,
+porque eu estou fazendo isso. E para
+você também fazer aí no seu ou para você
+que tá que é empreendedor, entenda que
+isso aqui pode ser algo grandioso, algo
+que você pode construir e se tornar algo
+muito valioso, tanto para você quanto
+pros seus clientes. Então, vamos lá.
+Imagina o seguinte, diariamente
+a minha empresa gera informação. Então
+eu gero informação conversando no meu
+WhatsApp com os meus clientes. Eu gero
+informação conversando com os meus
+clientes em reuniões, em caos. os meus
+funcionários geram informações, trocando
+informações entre eles no no grupo do
+WhatsApp ou no Teams ou no Slack, que
+seja, qualquer plataforma de
+comunicação. E ali tem informações muito
+valiosas sobre o que foi negociado com
+determinado cliente, decisões que foram
+tomadas dentro da empresa. No meu caso,
+na Acelera 360, o meu grupo de alunos,
+eles aquele grupo gera informações
+riquíssimas que é difícil até de
+acompanhar e é difícil depois de
+entender até que informação eu passei
+para eles. Imagine o meu customer
+success, ele não consegue ter acesso a
+uma, ele não consegue lembrar ou
+acompanhar 100% as informações que são
+trocadas ou trocas de e-mail, bom que
+seja. A todo momento a gente tá gerando
+informação. Agora, como que a gente dá
+acesso a essa informação pro nosso
+agente de uma forma que ela seja
+organizada, que gere fatos, que gere
+datas, que que ela seja tipificada, que
+ela seja entendida, interpretada e que o
+agente de IA possa tomar decisões ou
+fazer coisas com aquelas informações? E
+para responder essa pergunta, eu comecei
+a estudar sobre como que eu poderia
+criar um segundo cérebro altamente
+eficiente. E nessa brincadeira surgiu o
+Galid. Então eu vou mostrar um pouco
+para vocês sobre a memória do meu
+negócio que tá virando uma solução que
+eu vou disponibilizar pros parceiros da
+Acelera 360. E quem sabe no futuro pode
+até virar um SAS. E deixa eu te contar,
+pô, você pode fazer isso daqui ou você
+pode ter acesso também entrando para
+Acelera, né? Então, para você que não
+conhece, Acelera, nós somos um
+ecossistema voltado para empreendedores
+e empresários com soluções ali plugin
+play para que você possa eh implementar
+IA de forma real no teu negócio. Então,
+o que que é o Galide? O Galide é um
+segundo cérebro fácil de usar. Então,
+ele nasceu aqui no GitHub, eu tava
+fazendo ele de forma interna para mim,
+né, privada e ele agora eu comecei a
+estruturar ele, transformar ele num SAS.
+E cara, é muito legal que eu construí
+isso aqui em, acho que uns quatro
+dias, né, que eu criei o front, as a
+carinha dele e tô criando a a toda a
+estrutura, né, pô. Isso, nossa, cara,
+até tanta coisa aí. Ah, é absurdo. Mas,
+gente, basicamente todo esse front eu
+desenhei aqui usando open design e ficou
+lindo, ficou lindo. Vim trazendo o
+contexto como eu queria que fizesse e
+ele foi resolvendo. Mas a questão não é
+nem como eu construo os layouts. Presta
+atenção nisso aqui. Olha que proposta
+interessante. Memória para agentes de
+inteligência artificial. Isso aqui é uma
+memória, isso aqui é um banco de dados
+de informação para que agentes de
+inteligência artificial consumam. Então,
+imagina o seguinte, tá lá, ó, você joga
+conversas no WhatsApp, áudios de
+reuniões, e-mails, documentos, arquivos,
+trocas de mensagem. O Galid ele
+processa, ele organiza isso tudo e ele
+gera fatos. Então, o seguinte, ele gera
+um fato. O que que é um fato? O preço da
+consultoria custa tanto. Certeza dessa
+informação, ele vai caribando, pô, é uma
+informação que ela é sigilosa, então não
+é todo mundo que pode acessar. Então o
+grande conceito é isso. Olha que
+interessante. Por que que o Galid
+existe? Porque toda a empresa esquece.
+Porque a informação ela tá espalhada e a
+gente não tem um lugar centralizado e
+principalmente um lugar que possa
+consumir, algo que possa consumir ou
+melhor estruturado para que uma LLM,
+para que uma IA possa consumir essa
+informação. Aí a gente não consegue
+criar praticamente nada. Aí tem que
+ficar com aqueles projetos de colocar no
+GitHub, colocar isso, colocar aquilo.
+Ah, Kelvin, mas o meu agente de A tem a
+memória. Tem o OpenCloud que tem a
+memória, tem o Hermes, que tem a
+memória. Na minha visão, gente, essa
+informação, esse banco de dados, ele não
+deve ficar pro Hermes gerenciar ou pro
+Open Cloud gerenciar ou para qualquer
+outra solução aí de eh agente pessoal
+gerenciar. A gente tem que, cada empresa
+precisa ter o seu bancão de dados
+preparado, estruturado para que qualquer
+IA possa consultar aquela informação com
+seus privilégios, com uma estrutura eh
+de acordo com a LGPD, com estruturas de
+de privacidade para determinados tipos
+de informação. Então, por exemplo,
+informações de conselho, de reuniões com
+diretoria, não podem ser acessadas por
+um funcionário, mas informações de
+discursão com cliente, de tarefas, de
+coisas que eram para fazer, de entregas,
+isso sim pode ser consultado por
+qualquer pessoa. E a partir do momento
+que ela pode ser consultada por qualquer
+pessoa ou por qualquer agente específico
+ou qualquer agente lá da da operação,
+cara, a informação ela passa a ser e
+descentralizada em vez de ser
+centralizada e a empresa ganha muito com
+isso. E aí para resolver esse problema
+aqui na minha operação, eu comecei a
+desenvolver o Galide de forma interna,
+né? Inicialmente só um modelo aqui que
+ingeria dados e agora eu tô criando o
+SAS. Eu vou mostrar aqui para vocês toda
+a arquitetura e o por que eu pensei,
+como eu fiz para que você também, ei,
+quase caí aqui da cadeira, para que você
+também possa fazer, porque parece ser
+complexo, talvez até o miolo seja, mas é
+muito factível de todo mundo ter esse
+tipo de estrutura. Aí essa estrutura, na
+minha visão, tem que ser uma estrutura
+que ela é proprietária. Esse é o tipo de
+solução ou de coisa que você pode criar
+ou usar na tua empresa, que realmente
+vai trazer grandes resultados paraa sua
+operação, pra sua implementação de IA,
+para você fazer o processo de
+transformação em First. Kelvin, como que
+eu faço para acessar o Galid? Você pode
+fazer parte da Acelera 360. Você que é
+empreendedor, você que é empresário,
+Acelera 360 é um ecossistema que reúne
+tudo que o empresário precisa para ele
+criar uma infraestrutura de A no próprio
+negócio. Então lá você vai ter acesso a
+uma comunidade ativa e exclusiva que tem
+empreendedores e empresários, onde vocês
+podem trocar informação, eh eh fazer
+parcerias, nossa, acontece muita coisa
+ali, é muito interessante. A gente
+fornece soluções criadas, soluções já
+criadas ali para serem plugin plays na
+sua operação. Então simplesmente você
+pode, ah, Kelv, quero colocar o Galid
+para rodar no meu open cloud para trazer
+toda a memória da minha empresa. Pô,
+você vai ter acesso ao galid aqui para
+que você possa usar. Quero colocar
+chatbot, quero colocar um chatbot SDR,
+quero um CRM, quero um agente de A para
+fazer meu financeiro, para fazer
+demonstrativo, não importa. Temos aqui,
+ó, diversas soluções, plugin plays que
+atuam desde inteligência de mercado até
+soluções para sua operação. Então, se
+você quiser saber mais sobre Acelera
+360, você que é empreendedor, você que é
+empresário, quer ter acesso a um
+ecossistema que realmente vai te ajudar
+a implementar IA de forma real, clica no
+link que tá aqui na descrição desse
+vídeo e se inscreva para que você
+conheça todo o processo da Acelera 360 e
+como nós vamos agregar muito aí no teu
+negócio, tá? Então, vamos falar sobre o
+Galíd. Olha que legal, gente. Eu vou eu
+vou mostrar aqui de forma rápida para
+vocês ele funcionando, porque eu criei
+uma tela visual para isso, mas você pode
+conectar ele no OpenCloud, você pode
+conectar ele no Hermes, no Cloud, não
+importa, você pode conectar ele em
+vários lugares. O grande conceito é você
+consegue jogar informações nele e ele
+vai organizar para você. Então, por
+exemplo, eu posso jogar essas
+informações de forma manual, eu posso
+anexar os arquivos, mas o mais legal é
+você plugar, então conectar o WhatsApp
+diretamente e ele vai ler as mensagens e
+ele vai indexar ou criar e conectar eh o
+Slack, conectar o o TLDR, não importa.
+Vários plugins que se conectam nele,
+você joga a informação nele, ele
+processa, ele organiza e ele estrutura.
+Então, e eu também posso fazer manual.
+Então, por exemplo, eu poderia pegar
+aqui uma cal de vendas, eu pego um
+arquivo, anexo, jogo ele aqui e ele vai
+processar esse arquivo. E depois que eu
+fizer isso, ele vai estruturar os fatos.
+Ele vai ter aqui um lugar onde eu posso
+fazer perguntas. Por exemplo, eu anexei
+aqui uma uma conversa, né, então, de
+WhatsApp, de um grupo de WhatsApp do dos
+meus alunos da Celebra, um arquivo
+gigantesco. Então, quem é Ronaldo Silva?
+Quem é o Ronaldo Silva? Aonde que esse
+Ronaldo Silva aparece? Então imagina o
+seguinte, eu tô com um funcionário, aí
+tem lá, o Ronaldo chamou, esse meu
+colaborador, ele não sabe quem que é
+porque, pô, tem mais de 300 alunos. E aí
+através desses fatos, ele fala: "Olha
+que quais são os dados que a gente tem
+que o Ronaldo Silva é um aluno da
+Acelera 360, perfil dele, ele é um
+advogado com interesse em transformação
+digital, ele tem experiência em
+tecnologia, ele testou tecnologias com
+MCP. Isso aqui ele tirou de um grupo do
+WhatsApp. Isso aqui são aprendizados que
+ele teve, que que o Galid fez com base
+nos dados que a gente enviou. Vou dar um
+outro exemplo aqui. Eh, qual a parceria
+que a Acelera tem com a Contabilizei?
+Em algum momento eu devo ter enviado
+alguma informação sobre isso lá no grupo
+do WhatsApp. Alguém perguntou: "Kelvin,
+e sobre a contabilizei?" Eu devo ter
+respondido? Então aqui ele trouxe aonde
+ele puxou a informação, né? Que não é
+uma informação relevante aqui pro
+processo, mas ele trouxe aqui, ó. Ah,
+não há informação sobre a parceria. A
+base de dados contém apenas fatos
+estruturados sobre acelera, alunos, pá,
+pá, pá, pá pá, e trechos de conversa
+sobre o grupo, mas nenhuma menção a
+contabilizei ou qualquer parceria com
+essa empresa. Lacuna, inexistência.
+Então ele não achou nada da
+contabilizate. Significa que nesse nesse
+grupo eu não mandei informação nenhuma
+sobre a contabilizate. Deixa eu pegar
+aqui outro dado. Quem quem é o Bruno
+Gangau,
+que é um aluno nosso. Gangaçu, perdão.
+Vamos ver. Pá, pá. Ele vai ler, ele vai
+buscar. Aqui tem uma LLM, só que essa
+LLM tá consultando no cérebro, no
+cérebro que processou este determinado
+arquivo. Mesma coisa, ó, com base
+contexto, Bruno Kangaçu, eh, o nome tá
+errado, beleza, ele corrigiu, ele é um
+aluno da Acelera, ele entrou no programa
+de treinamento em vendas, ele é um
+cirurgião de profissão, sócio, já falou
+o sócio dele, e ele trouxe algumas
+lacunas, ele não sabe detalhes sobre o
+negócio, ele não sabe sobre área de
+medicina, ele não sabe eh dados pessoais
+e mesmo que tivesse compartilhado algum
+dado pessoal aqui, eu coloquei uma
+proteção para substituir, para travar
+esses dados sensíveis, né? Então o Galid
+resumidamente é isso. Ele pega um monte
+de informação, recebe, organiza, ele
+aprende, ele entende e ele disponibiliza
+para que isso seja conectado em qualquer
+IA, em qualquer LLM. Ele, cara, ele é
+maravilhoso por conta disso, porque eu
+tô usando na minha operação aqui, eu tô
+em teste com ele, mas basicamente é
+jogar informação. Galera, como que eu
+estruturei ele para você aprender aqui,
+né, para você entender um pouco mais.
+Então, basicamente eu eh basicamente ele
+funciona o seguinte, ó. Ele funciona
+assim, ele ingere uma informação, ele
+entende aquela informação, aí ele lembra
+daquela informação e ele também
+envelhece a informação. Então, quando a
+informação e entra uma informação nova,
+basicamente aquela e essa informação
+nova ela substitui a antiga, então
+imagine que o preço era 2.000, aí depois
+o preço foi para 5.000. Ele vai falar:
+"Olha, o preço em determinado momento
+era R$ 2.000, depois o preço foi para R$
+5.000, então R$ 2.000 não vale mais, o
+preço agora é R$ 5.000". Olha que
+negócio maravilhoso. Então ele faz esse
+processo de temporalidade, né? Base
+temporal. Então, o conceito muito muito
+simples, ó. Foi, eu parti a partir, eu
+comecei a desenvolver a partir disso
+aqui. Um novo dado, ele é gerado em
+algum lugar dentro da empresa. Esse que
+que dado é esse, cara? Conversa no
+WhatsApp. Essa transcrição desse vídeo
+aqui é é um dado que foi gerado e ele é
+com relação a acelerar 360. Os vídeos do
+YouTube são importantes. Esse upload é
+feito. É feita uma guarda do arquivo
+original, né, no blog de dados. Esse é
+iniciado um processo de ingestão que vai
+picar esse arquivo. Ele vai ler cada
+pedaço desse arquivo e vai entender
+quais são os fatos importantes, são
+relevantes, com data e ancoragem de quem
+é e quem é o dono do fato. E depois ele
+vai deixar isso aí buscável por uma LLN
+e aí ele vai est pronto para ser
+consultado ou realizar qualquer tipo de
+pergunta, tá? E essa aqui foi a
+arquitetura que eu estruturei. Então
+como que esse dado ele é ingerido? Então
+aqui tem a camada da superfície. Quem
+que fala com o Galide? Esse front que é
+essa carinha aqui que eu coloquei nele.
+Bonitinha. Ah, ficou bonito isso aqui,
+gente. Olha que lindo. E olha que louco.
+Isso aqui foi tudo desenvolvido. Eu
+consigo criar um, eu consigo criar
+vários cérebros aqui, né? O cérebro ele
+tem um processo de onboard, então posso
+ter vários cérebros. Eu posso ter
+cérebro plurária, tudo. Eu posso criar
+acessos. Então, posso convidar uma
+pessoa, uma pessoa, um bote, qual que é
+o nome do bote que vai consumir esses
+dados ou qual pessoa que vai consumir
+essa informação. Eu posso conectar aqui.
+Essa parte não tá desenvolvida ainda,
+mas a ideia é que já esteja pronto aqui
+as skills pro cloud, as skills para
+colocar no Open Cloud, que seja tudo,
+tudo, tudo, tudoudo. Qualquer coisa eu
+conecto aqui. Aqui ele fala um pouco
+sobre a saúde, custos de LLM e tudo
+mais. Aqui eu consigo meio que
+configurar a conta, né, contexto do
+cérebro. O cérebro ele, eu trouxe um
+conceito de contexto. Para que que é
+aquele cérebro? Para que que ele serve?
+Qual que é o objetivo dele? Quem que
+costuma aparecer nos dados que são
+envolvidos? Eh, eu, a minha equipe, eu
+consigo adicionar os papéis que costumam
+aparecer. E que tipo de coisa que eu
+jogo ali naquele cérebro? Eu jogo caldo
+de venda, eu jogo dados estratégicos,
+que informação que eu estou jogando ali
+dentro? Esse contexto ajuda a estrutura
+a identificar melhor os fatos e a
+organizar melhor as informações, porque
+a ideia é que a informação ela entre e
+ele saiba o que tenha que fazer aqui.
+Então vamos olhar aqui, ó, paraa galera
+que é mais técnico, para você que não é
+técnico nem adianta, mas o que que tá
+por debaixo do caplô? Qual que é o qual
+que é o o a arquitetura por de trás?
+Então você tem lá a superfície, que é
+como que você fala com o galit, com
+front end para fazer o upload, pode ser
+webhook ou mp. A informação ela entra,
+então no primeiro momento ele engole,
+né? Ele faz a ingestão desse arquivo,
+seja ele texto, seja um arquivo
+financeiro, seja um PDF, seja qualquer
+coisa. Ele vai fazer a guarda desse
+arquivo, ele vai armazenar o arquivo
+original, ele vai criar um job, que é
+uma tarefa aqui em segundo plano, né,
+numa fila para processamento. E aí ele
+vai começar a processar. Aí ele joga
+aqui, ó, no passo dois, no tempo dois,
+que ele vai fazer a digestão daquilo. E
+aí tem um pipeline. Olha que
+interessante. Aqui que ele começa a
+criar o cérebro, ó. Então, primeiro ele
+faz uma fatia, né? Ele pega um arquivo
+grande, ele corta em vários pedaços ou
+divide em várias páginas. Aí ele começa
+a fazer um processo de captura, então
+cada pedaço vira uma página. Aí aqui ele
+faz um processo que não roda LLM, né? Um
+processo mais determinístico. Não não
+cabe a aqui explicar porque é bem
+complexo. Depois que ele faz isso, ele
+faz a limpeza, ele faz a sanitização,
+né? Ele limpa aqueles dados, ele
+organiza, ele arranca algumas
+informações, ele joga para m LM. Aqui eu
+uso, por exemplo, um modelo que é o
+Hikel, eh, que é o modelo mais barato da
+Antropic, DNOP, que basicamente que que
+eu falo aqui, tá? Com base nesse pedaço.
+O que que tem aqui de informação
+relevante? O que que você consegue
+aprender aqui? Não tem o que fazer. Aqui
+a gente não consegue fazer um algoritmo
+determinístico. Aqui a gente tem que
+usar uma LLM para fazer isso. E aí ele
+vai lá e aprende e gera mais informação.
+Aí ele indexa, ele organiza. É aqui que
+ele organiza num banco de dados. Ele
+gera um vetor, ele gera gráfico para
+facilitar a busca. Aí a gente usa aqui a
+Open AI e a void. A gente tá testando,
+tá aqui a Voidage nesse caso aqui. Ela
+tá tendo resultados melhores do que a
+Open AIR nesse caso. Depois que ele
+aprende isso, ele vai lá e armazena.
+Então ele cria os blogs, ele cria as
+páginas, ele cria os fatos. tipados,
+detalhados, cria os vetores, as arestas,
+os contextos, ele armazena tudo aqui. A
+gente tá usando post nesse caso, tá?
+Aqui, ó, o cérebro tá pronto.
+Resumidamente, ele faz o seguinte,
+ingere lá em cima, para quem aí tem
+dificuldade de entender, ele faz a
+ingestão e aqui ele armazena. E a hora
+que ele tá armazenado, ele tá pronto
+para ser consumido. Nesse momento, você
+consegue plugar qualquer modelo de IA
+aqui dentro. E o mais legal é que, ó,
+imagina assim, ó, eu pluguei a IA,
+certo? A I conforme eu vou conversando e
+vai gerando mais informação, essa
+informação ela volta aqui em cima e ela
+pode ser novamente ingerida. Essa nova
+informação, ela pode ser ingerida aqui,
+ó, novamente e ele vai trabalhando.
+Então a ideia é que ele mesmo organize.
+Cara, sinceramente, ficou muito
+Não, e o logo? Olha o logo não ficou
+bonito. Caraca, cara. Isso aqui talvez
+vir um SAS. Quem sabe? Quem sabe no
+momento em que ele fica bem robusto, eu
+libere. Hoje, que que eu tô ingerindo
+nele? Eu tô colocando conversas do
+WhatsApp, eu tô colocando transcrições
+de vídeos do YouTube, eu tô colocando
+transcrições de todas as reuniões que eu
+faço na empresa. E ele tá performando
+muito bem. Ele está diretamente
+conectado no OpenCloud. Antes eu tava
+usando o GitHub
+e o e eu usei um o do Jbrain, do do
+esqueci Gary Gary Tan, muito bom também,
+muito bom também. Só que era uma bazuca
+que o Gary Ton desenhou para ele da
+arquitetura dele, que para mim não fazia
+sentido. Eu precisava de algo diferente.
+Eu precisava de que fosse algo com
+tivesse alguns carimbos para facilitar o
+meu processo. Isso aqui que eu chamo de
+carimbo. Fato, a certeza que ele tem
+daquele fato, da onde ele veio, qual que
+foi o canal de ingestão. Esse caso aqui
+veio de Macau. Eh, é um fato que tá
+desde valendo, desde o dia 12 de junho.
+E olha o fato, o preço fechado com tal
+cliente foi de R$ 2.500 por mês,
+substitui 2.000 por mês, que foi em maio
+de junho. Olha que informação relevante.
+Que que eu quero deixar para você aqui
+de de aprendizado, de lição, de dica?
+Cara, estruture os dados do seu negócio,
+capture o máximo possível de informação,
+porque essa informação é o maior ouro.
+Você que é empreendedor, aprenda ou
+utilize alguma ferramenta opence ou cria
+a sua ou entre na acelera, não importa,
+e comece a ter uma ferramenta como essa,
+uma ferramenta, uma solução de memória
+persistente de longo prazo, duradora e
+comece a levar isso pros seus clientes,
+porque isso vai transformar o modo como
+você usa agentes de inteligência
+artificial. Isso aqui vai transformar
+operações. Só isso aqui gera um valor
+absurdo. Vocês vão ter noção o quanto de
+informação que é perdida, esquecida em
+reuniões, em conversas, em no WhatsApp,
+em conversas no na nas plataformas de
+comunicação da empresa, cara, é um
+absurdo. Isso aqui é um gap gigantesco.
+Então esse vídeo foi sobre isso, gente.
+Nossa, eu não sei nem o que falar. A IAT
+tá é um negócio de doido assim, ó. Deixo
+para você mais uma vez o convite. Venha
+conhecer aera, venha conhecer as
+soluções que nós podemos levar aí pro
+teu negócio. E para você que é
+empreendedor também, venha conhecer as
+nossas soluções ou como a gente pode
+agregar aí nessa sua jornada. Clica no
+link que tá aqui embaixo. Se você gostou
+desse vídeo, já deixa o joinha aqui
+também. E tchau vocês. Até a próxima.
+Yeah.

@@ -1,0 +1,276 @@
+eu parei para escrever cinco tópicos
+cinco itens que realmente mudaram a
+minha carreira
+e na minha trajetória de programador
+para vocês que não sabem eu fui
+programador virei arquiteto de software
+antes de empreender E aí com os meus
+quando eu tinha 22 anos eu comecei a
+empreender foi Aí sim que eu montei a
+minha empresa né mas antes disso eu tive
+uma carreira uma carreira trabalhando em
+outra empresa né e assim foram cinco
+itens que que eu selecionei que
+realmente mudaram
+a a minha trajetória que fez eu crescer
+rápido porque com meus 22 anos eu já era
+arquiteto de software então eu comecei
+também programar cedo né mas com 16 para
+17 eu comecei a estagiar e com 22 eu já
+virei
+arquiteto o que que realmente fez eu
+mudar Tá vou falar para vocês aqui então
+vamos lá item um aprender conceitos
+usando problemas reais que que eu quero
+dizer com isso toda toda vez que eu ia
+estudar isso eu aprendi com um Sênior
+[&nbsp;__&nbsp;] que ele falou cara você não
+adianta não é só você estudar o conceito
+em si você tem que aplicar ele num
+problema real então por exemplo quando
+eu peguei para estudar DDD eu tentei
+construir uma aplicação real então eu
+não lembro na época qual foi mas por
+exemplo pegar para desenvolver um
+software de pizzaria aplicando DDD por
+quê Porque assim você entende realmente
+a fundo o conceito do do DDD para que
+que ele serve entendeu Você estrutura
+organiza todo o projeto usando domain
+driven design e isso faz com que aquilo
+além de você absorver mais você tem um
+Case real você realmente consegue
+identificar Quais são os benefícios de
+aplicar um modelo de arquitetura como
+esse
+item dois eh estudar todos os dias pelo
+menos uma hora cara eu estudava muito
+mais que 1 hora porque nos meus sábados
+meus finais de semana sábado e domingo
+eu trabalhava eu estudava para [&nbsp;__&nbsp;]
+Nossa eu estudava muito isso fez uma
+grande diferença em Como evoluir porque
+querendo ou não
+eh você no primeiro mês talvez você não
+perceba essa diferença mas ali no
+segundo mês você já consegue ver uma
+diferença gritante na sua evolução as
+próprias pessoas ao seu redor começa a
+ver o quanto você tá evoluindo e to Toda
+vez que você estuda você acaba tentando
+aplicar Então você segue lá o primeiro
+conceito Você estuda e você aplica isso
+num conceito real tenta aplicar num
+conceito real então meio que você já tá
+se preparando para pro que você vai
+enfrentar no mercado de trabalho ou até
+mesmo enfrentar na empresa que você tá
+atuando né
+coloquei no mundo galera me segue aí
+hein eh já se inscreve no canal já ativa
+o Sininho porque esse canal é para isso
+esse canal é para ajudar empreendedores
+e ajudar a galera da tecnologia Eu
+particularmente tenho um um apreço muito
+grande pro programadores por eu ser eu
+gosto muito de programar e eu quero
+realmente despertar nas pessoas esse
+bichinho do empreendedorismo essa
+vontade de empreender de criar de fazer
+porque eu realmente acho que isso é o
+que muda a vida das pessoas mudou a
+minha vida e vai mudar a vida de quem se
+a esse a ir para esse caminho tá
+e número qu vamos lá
+conversar com a sua
+liderança sobre a sua evolução e pedir
+feedbacks mensais ou até mesmo
+quinzenais vocês acreditam Nossa eu era
+chato V eu ficar vi aí que que você tá
+achando Tô melhorando que que eu tô
+fazendo de errado que que eu posso
+melhorar e eu escrevia e pontuava e na
+próxima quinzena eu ia perguntar de novo
+Pô você comentou esse ponto aqui comigo
+o que que você acha tô melhor tô pior
+eh Teve uma época que eu tinha medo de
+falar com a minha liderança tipo assim
+as vezes a gente acaba colocando eles
+num pedestal saca e acha que são
+inacessíveis mas não eu acho que o
+grande segredo é você entender que cara
+é uma pessoa tá lá e eu vou chamar ela e
+eu vou conversar com ela e e vou tentar
+pegar o máximo de feedback possível
+porque eu preciso melhorar esse é
+realmente o pensamento que vai fazer Vai
+transformar a tua a tua jornada e fora
+que você vai acabar criando um
+relacionamento e vai despertar naquela
+pessoa o sentimento de que [&nbsp;__&nbsp;] esse
+moleque a sensação né esse moleque tá
+querendo crescer ele quer mais ele quer
+mais
+isso faz uma [&nbsp;__&nbsp;]
+diferença aprende a ouvir feedbacks
+negativos hein na verdade o ideal até
+você focar nos feedbacks negativos Isso
+é uma lição recente que eu aprendi um
+amigo meu ele pede feedback mas ele
+primeiro ele pede O negativo ele fala eu
+quero ouvir a parte
+negativa do meu trabalho cara brab hein
+isso aqui é brab esse aí é um um uma
+ideia [&nbsp;__&nbsp;] quinto tá é desafie todos os
+conceitos que você estudou e que você
+dominou essa aqui é
+pedrada Tente fazer abordagens
+diferentes e
+analise Nossa olha minha letra mano ol ó
+isso aqui não dá nem para entender e
+analise as se elas foram efetivas que
+que eu quis dizer com isso que que eu
+fazia por
+exemplo eu aprendia sobre
+eh arquitetura distribuída e na
+arquitetura distribuída Você tem o
+conceito de você de cada de cada de
+microsserviços né Por exemplo cada
+serviço tem o seu banco de dados e tudo
+mais e aí o que que eu fazia cara eu vou
+tentar fazer com um banco de dados só
+merda vou tentar fazer olha olha uma vez
+o que eu fiz na quando você tem
+arquiteturas eh trabalha com
+microsserviços você trabalha com
+consistência eventual significa que não
+tem como você dar HB nas tabelas cara na
+minha cabeça na época que eu tava
+estudando isso não fazia sentido eu
+falava Cara eu tenho que dar um jeito de
+dar rollback eu tenho que fazer tenho
+que criar alguma coisa que dê rollback
+Nossa velho eu estudei muito o o eh se
+não é como que era o transaction scope
+da Microsoft e eu implementei um
+transaction scope entre serviços para
+dar holback cara eu sabe o que eu fazia
+eu falava [&nbsp;__&nbsp;] eu tenho que dar holback
+eu pesquisava na internet inteira eu li
+artigos do stack overflow artigos
+americanos e ia i atrás I atrás e atrás
+o msdn porque eu sou para quem não sabe
+eu sou Microsoft ano né programa e
+csharp e e aí eu ia lá e tentava
+implementar a [&nbsp;__&nbsp;] do roback ficava na
+minha cabeça cara tem que dar tem que
+ser possível fazer roback porque ninguém
+faz roback não tem lógica tem que dar
+herback esse negócio de consistência
+eventual Não tem lógica vai ficar suja a
+tabela Olha mano nada ver né que que que
+que acontecia eu colocava à prova o
+conceito que o mercado fazia e tentava
+fazer do meu jeito eu evoluí muito
+fazendo isso tem um preço muita cagada
+muita cagada Mas você evolui
+drasticamente isso aqui muda de figura
+porque quando você faz isso você entende
+o racional que aquela pessoa chegou para
+G falar assim ó cara o negócio de
+microservice é ter consistência eventual
+ent entre os bancos de dados Entendeu
+meu é incrível é incrível façam isso
+façam isso desafiem tudo umum design
+pattern novo cara aprende faz lá o item
+um aprende o conceito coloca problema
+real faz do jeitinho que todo mundo faz
+E aí depois você desconstrói tudo
+aquilo realmente encara que aquele
+modelo tá errado e e tenta fazer do teu
+jeito porque você
+vai você vai começar a pegar as dores
+e que aquela pessoa teve quando ela
+tentou quando ela criou Aquele modelo
+cara é muito louco isso aqui é um baita
+de um conceito hein e eu vou adicionar
+um cesto para vocês
+aqui o cesto é o seguinte ó Toda vez
+você vai ser uma pessoa que quando você
+trabalha Nesse estilo aqui usando esses
+cinco
+conceitos você vai ser uma pessoa muito
+criticada por quê Porque você vai ser um
+cara provocativo você vai ser um cara às
+vezes até muito egocêntrico as pessoas
+pelo menos vão achar que você é esse
+tipo de pessoa mas não você é uma pessoa
+que quer mais você quer crescer e e eu
+lembro de situações onde falar onde
+pessoas do time que trabalhava comigo
+falava [&nbsp;__&nbsp;] cara não faz isso não vamos
+entregar agora não vão achar que a gente
+tá entregando e que a gente tem
+capacidade para entregar mais eles vão
+começar a te colocar numa posi são de um
+cara que tá afetando o time porque você
+tá querendo ir mais rápido você tá
+querendo mostrar serviço Você tá puxando
+o saco do Chefe porque você quer passar
+por cima das pessoas não caia nessa
+pilha não deixe ninguém ser responsável
+pelo teu sucesso não deixe ninguém te
+impedir Não faça isso vai acontecer
+Principalmente quando você trabalhar num
+time
+grande se você trabalhar no time grande
+Isso vai acontecer então não deixe que
+ninguém faça isso com você Não deixe
+eles entrarem na tua mente faz o que tem
+que ser feito faz o seu trabalho porque
+deixa eu te contar um segredo Você tá
+sozinho Você tá sozinho o seu sucesso só
+depende de você você não tem amigos no
+trabalho ninguém que tá aí é seu amigo
+eh e você se você não fizer cara você
+vai ficar igual a todo mundo e se você
+realmente quer crescer você tem que
+fazer diferente escuta o conselho de
+quem realmente fez belezinha o Outro
+ponto me siga se inscreva no canal Me
+segue lá no meu Instagram Me dá uma
+moral comenta nesse vídeo sobre o que
+você achou desse assunto Esse aqui foi
+um assunto
+rápido Nossa tô com uma gripe [&nbsp;__&nbsp;]
+calor em São Paulo ar condicionado dia
+inteiro nossa pulmão tá uma merda esse
+aqui foi um assunto rápido para poder
+abrir a luz para vocês que são aí Júnior
+pleno e tão querendo crescer na carreira
+tão querendo se destacar e seguir uma
+carreira
+o último item eh faça sua carreira
+crescer muito rápido e pense muito em
+empreender depois dá uma olhada aqui na
+jornada do Empreendedor na minha
+playlist porque eu acho que todo mundo
+tem que empreender e porque isso é o que
+realmente faz a gente mudar de vida e
+não pense que você empreender é Você
+montar uma empresa você pode empreender
+na empresa dos outros também tá você
+pode ser um PJ você pode trabalhar em
+duas três empresas e prestar um
+excelente serviço e ter uma qualidade de
+vida completamente diferente de tudo não
+pense que que o único caminho é você
+trabalhar numa única empresa e o único
+caminho é você para você fazer maior
+renda é você ir para fora do país
+trabalhar na gringa Não esse não é o
+único caminho e tá longe de ser o melhor
+caminho belezinha Essa é a minha
+contribuição para vocês meus amigos
+desenvolvedores um abraço e até a
+próxima

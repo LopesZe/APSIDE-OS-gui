@@ -1,0 +1,392 @@
+Eles estão empilhando features, criando
+microsas, criando chatbotes e um monte
+de ferramenta, mas o segredo não tá na
+ferramenta. O segredo tá em você dar uma
+solução real para um problema, tá? A IA
+ela mudou o jogo completamente, melhor,
+ela criou um novo jogo e nesse novo jogo
+as pequenas e médias empresas vão poder
+ter uma chance maior contra as grandes
+de crescer, de ganhar dinheiro com isso.
+E é aí que você entra, é aí que você,
+programador, empreendedor da área da
+tecnologia, entra, porque você consegue
+juntar meio que a fome e com a vontade
+de comer, sabe? Você consegue pensar em
+criar soluções verticais nichadas que
+realmente resolvem o problema de uma
+PME, resolvem aquela dor tão grande do
+sócio fundador estar preso na operação e
+não fazer, não conseguir fazer o negócio
+dele crescer, porque ele praticamente
+não tem dinheiro para contratar e para
+crescer. Ele tá preso e amarrado em
+problemas. Mas ele sabe, aquele cara já
+sabe que a Ia pode mudar a vida dele,
+porque tá todo mundo vendendo que a IA
+consegue ter eh como se ele tivesse
+criando funcionários virtuais de
+inteligência artificial para trabalhar
+para ele. Só que ele realmente consegue
+aplicar isso? Não, mas você consegue. E
+é sobre isso que a gente vai falar aqui
+nesse vídeo. A gente vai falar sobre
+essa essa nova oportunidade, né? Então,
+galera tá olhando para cá, ó, modelos
+horizontais, então tá focando em criar
+ferramenta, tá focando em criar chatbot
+de atendimento, que são genéricos, serve
+para médico, dentista, advogado,
+pizzaria, tudo isso aqui é muito
+generalista, é muito, né, generalista. E
+a gente tem que criar algo que seja
+vertical. Por quê? Porque o pequeno
+negócio tem essa dor. Antes vamos, deixa
+eu explicar aqui para vocês que dor é
+essa, tá? Então, uma empresa grande, ela
+tem aqui as áreas de apoio. Então, é
+muito importante você entender isso
+aqui. Que que é uma área de apoio? RH,
+financeiro, marketing, controladoria,
+compli jurídico, compras, área de
+tecnologia, PMO, planejamento
+estratégico, PID, pesquisa e
+desenvolvimento. E aqui o Core Business.
+Então, área de vendas, produção,
+prestação de ou prestação de serviço,
+né? Se for uma empresa física, tem
+logística, tem entrega e o
+desenvolvimento do próprio produto em
+si. Então isso aqui é o core business
+das empresas e as áreas de apoio.
+Geralmente essas empresas grandes, elas
+têm ali todo um time por trás. Então ela
+tem a galera do operacional, que são os
+colaboradores, tem a galera do tático,
+gerentes, gestores, supervisores e tudo
+mais, e a galera do estratégico, a
+liderança, os C levels, os C levels.
+Então, uma empresa grande, ela tem
+dinheiro para estruturar esse time e
+contratar e ter, cara, coordenação
+nessas áreas. Já uma empresa pequena não
+tem isso. Então, a o pequeno negócio, e
+aqui eu não tô falando de pequeno
+negócio do microempreendedor individual,
+o cara que faz 80.000 por ano, esse cara
+tá recebendo para sobreviver, né? Eu tô
+falando do cara que fatura 200, 300,
+400, 500.000 por ano. Eu não sei se você
+sabe, mas, por exemplo, para uma uma
+pequena empresa fatura, tem tem pequenas
+empresas que faturam R$ 10 milhões
+deais. A minha empresa é uma pequena
+empresa, fatura R 9.2 2 milhões, nós
+somos considerados pequeno no mercado,
+entendeu? Então tem muita margem. E e
+qual que é a dor desse cara aqui da do
+pequeno empreendedor? O empresário, ele
+tá aqui, ó. O empresário tá aqui.
+Empresário, ele quer ganhar dinheiro.
+Ele quer ganhar dinheiro para
+Ele quer crescer. Só que ele tá preso no
+operacional. Esse cara não consegue
+escalar. Ele tem dor. Quem que faz os
+recursos humanos? Ele. Quem que faz o
+financeiro? Ele contratou uma pessoinha
+para fazer o jurídico. Ele terceirizou o
+marketing não existe. Compras não
+existe. TI nem existe. Quando existe
+ainda é um qualquer um lá que tá fazendo
+para ele dando dor de cabeça.
+Planejamento estratégico não faz. PID,
+pesquisa e desenvolvimento não faz nem
+tem. Vendas e comercial é o próprio
+empresário que faz. E aí o empresário
+ele acaba focando tudo, tanto no core
+business quanto no backoffice. E aí ele
+vira escravo do próprio negócio dele.
+Ele fica, ele vira ã um eu presário. Ele
+tem até um time, e eu digo isso porque
+eu já passei por isso. E a gente tem até
+um time, mas a gente não consegue porque
+tudo tá centralizado em cima da gente. E
+aí que entra a IA, porque realmente a IA
+consegue automatizar e muito o processo
+de uma empresa. E quando a gente tá
+falando de IA e de automação, eu tenho
+dois caminhos aqui, ó. Dois caminhos. O
+primeiro caminho, super rápido, você
+pode criar um produto, um chatbot
+simples e sair vendendo, por exemplo, ou
+criar um agente específico, sabe? algo
+isolado. Isso isso é criar uma
+ferramenta ou você pode criar uma
+solução, algo mais completo, mais
+robusto para solucionar um problema de
+fim a fim. É o tal do end to
+end. Deixa a ferramenta de lado e foca
+no end to end. E quando a gente tá
+falando de focar no to end, a gente
+foca, por exemplo, em consultoria. A
+gente vai pro modelo de consultoria.
+Consultoria especializada em
+inteligência artificial. É muito mais
+vendável. É muito mais vendável. E vocês
+podem assistir vários vídeos meus
+explicando sobre isso. Isso dá tão certo
+que eu tenho um aluno que eu trouxe aqui
+até aqui para vocês, ó. Um aluno, o nome
+dele é Alan. Ele montou a consultoria
+dele dois meses atrás. Ele já tem cinco
+clientes, já faturou mais de 60.000.
+Então, que é a Zilhub. Basicamente o que
+ele faz é isso, ó. Convertemos processos
+empresariais complexos em soluções
+automatizadas com o IA, permitindo que a
+sua empresa se concentre no que
+realmente importa. É tipo assim, ó,
+cara, foca no Core Business, que a gente
+vai trazer para você vários agentes de
+IA e várias soluções integradas que vão
+solucionar o teu problema. Eu vou
+permitir com que você descanse ou com
+que você consiga ganhar mais dinheiro
+sem ter dor de cabeça com contratação,
+com marketing, com esse tipo de coisa ou
+potencializando o seu time que já faz
+isso. E aí que tá o segredo, aí que tá o
+dinheiro solucionando o problema. Então
+vamos entrar aqui, ó. Quando a gente
+olha pro segmento da empresa, a gente
+tem esse monte de coisa aqui. Mas isso
+aqui se resume em dois grupos. Ou é
+venda ou é pós-venda. Então, na venda a
+gente tem comercial e marketing e no
+pós-venda a gente tem atendimento e
+operação. Comercial para fazer a venda e
+o marketing para atrair, atendimento
+para atender os clientes e operação para
+executar. Resumindo, é isso. Na venda é
+entrada de dinheiro, crescimento
+imediato. Por que crescimento imediato?
+Vendeu, é dinheiro entrando no caixa,
+depois tem que entregar, logicamente.
+Mas isso aqui é o que realmente muda o
+ponteiro de uma empresa muito rápido,
+entendeu? Negócio pequeno que não vende,
+morre. Todo mundo sabe disso. Então aqui
+você já tem tudo. Se você focar na
+venda, na sua ferramenta, na sua
+solução, se você focar em venda,
+geralmente você tem muito mais
+resultado. E o pós-venda? Pós-venda é o
+quê? Entrega retenção e crescimento
+também. E aqui onde o dinheiro se
+multiplica. Por quê? Porque na pós-venda
+você tem a capacidade de vender mais
+alguma coisa, aumentar o seu ticket,
+fidelizar o teu cliente e receber
+indicações e por aí vai. Então eh quando
+você vende e não perde o cliente, você
+acumula. Então é aqui que você
+multiplica. Entrada de receita,
+multiplicação. Beleza?
+Então vamos lá. Simples e objetivo, tá?
+que há que você poderia implementar.
+Olha, olha o pit de venda feito para
+você, gente. Aqui você pode usar a uma
+LLM Open Seurce, um GPT opence, você
+pode usar a Open AI, você pode eh
+desenvolver uma solução SAS que tem os
+seus agentes embutidos. Você pode usar o
+Clickup e integrar ele com os agentes ou
+com cara, você pode fazer o que você
+quiser aqui, porque o segredo principal
+aqui, o segredo principal é você ter
+velocidade na no em como você embala
+essa proposta e venda. É como você
+aborda o cara. E você aborda o cara e
+esse cara vai comprar de você. Então
+aqui, ó, isso aqui é focado no PME. Ele
+vai comprar de você por quê? Primeiro,
+pequenos negócios representam
+praticamente 27% do PIB do Brasil. É
+gente para Gente para
+São são 9 milhões de microempreendedores
+e pequenos empresários do Brasil. É
+muita gente, tamanho de mercado muito
+bom, muito bom, muito bom. E todos eles
+estão tem dor, tem essa mesma dor de não
+conseguir escalar. Simples assim,
+entendeu? Então, Kelvin, qual o nicho
+que eu foco? Cara, foca em você criar
+uma consultoria especializada. atira
+para tudo quanto é lado. O primeiro que
+pescar é aquele nicho que você tem que
+focar, é a primeira dor, entendeu?
+Começa a rodar tráfego, começa a abordar
+as pessoas, eh, empresários, eh,
+consultórios, eh empresas de prestação
+de serviço, eh eh
+BPOs, cara, facilities, tem
+dezenas de segmentos de serviço que,
+cara, tem processos muito manuais e você
+pode abordar eles, sim. E com essa
+abordagem de consultoria, que é, cara,
+deixa eu mapear o teu processo, eu vou
+te mostrar onde estão os gargalos e onde
+você pode implementar IA. Inclusive eu
+implemento IA porque você sabe, você é
+da tecnologia, onde eu implemento I para
+resolver o teu problema. olha meu
+discursinho meu na chupeta, filho. Então
+vamos lá, ó. Onde que você entra com a
+IA? Você pode atrair a atenção certa,
+então, gerar conteúdo, roda e rodar
+anúncios, testar headlines, analisar,
+analisar o que converte. Aqui você usa o
+GPT para isso, treina o GPT específico
+para você atrair a atenção certa na
+venda. Então, significa que você vai
+modelar o ICP desse cara, desse seu
+cliente, vai treinar um agente para
+gerar conteúdo, para ajudar ele a gerar
+conteúdo, para atrair, para gerar mais
+leads, tá? qualificação de leídia
+automática, chatbot e agente conectado
+no CRM, que seja, para entender ali se
+tem potencial de compra ou se é só
+curioso. Olha que isso aqui é
+facinho, entendeu? Você pode usar, pô, o
+BS para se conectar no WhatsApp, você
+pode comprar um código pronto, tem um
+monte de gente vendendo código pronto
+aí, saca? Nem se preocupe em desenvolver
+isso agora. foca primeiro em você
+estruturar o teu modelo de negócio,
+embalar essa consultoria e tentar
+vender. Vendeu, aí depois você se
+preocupa com isso. Personalização de
+proposta. Então, imagina o seguinte, o
+Lead entrou lá no CRM, entrou no CRM,
+tem todos os dados dele, o cara já tem
+todas as tratativas, já tem a call que
+foi gravada, transcreve tudo aquilo,
+condensa isso, joga numa IA que essa IA
+vai guspir um texto e esse texto você
+vai gerar um PDF customizado. Cara, isso
+aqui aumenta muito a venda. Isso aqui
+aumenta muito. Isso aqui é
+personalização de cliente.
+diferencial. diferencial.
+Aceleração, fechamento. Então, eh,
+aceleração de fechamento, cara.
+Responder dúvida, tirar dúvida,
+simulação de objeção com o time, com o
+time de vendas, com SDR, cara,
+acompanhamento de negociação, ideias de,
+cara, ajudando o SDR a vender
+mais. Ó, para esse caso aqui, eu vi que
+trocou essas mensagens no WhatsApp.
+responde desse jeito que pode ser muito
+mais efetivo. Saca que você tá ajudando
+a mexer o ponteiro do cara de receita?
+Vai pode cobrar aqui que aqui, cara, vai
+ganhar dinheiro, ele vai pagar porque
+você vai ter roy roy vai ter retorno
+sobre investimento. Isso aqui é muito
+Então o resultado de tudo isso
+aqui é o quê? Mais venda, menos esforço
+humano. Isso aqui é muita facilidade,
+entendeu? E no pós-venda, mesma coisa,
+atendimento e operação. O que que você
+pode implementar aqui, cara? entrega
+mais rápida com o padrão. Você pode
+melhorar o processo do cara, colocar
+gestão em cima disso, colocar processo
+mesmo, desenhar o processo, falar: "Você
+vai trabalhar assim, assim, assim,
+assado, vamos padronizar isso, vamos
+cortar etapas que não fazem sentido,
+vamos deixar isso documentado." Isso vai
+permitir com que você, meu cliente,
+possa escalar, possa contratar, possa
+treinar gente mais rápido e você não
+ficar dependendo daquela pessoa que sabe
+tudo do teu processo. Olha a entrega de
+valor que você entrega para ele na
+consultoria. A a atender com
+inteligência. Então, implementação de um
+chatbot 24x7, perguntas frequentes,
+criação de fac, resolução de dúvidas.
+Cara, isso aqui mel na chupeta.
+Coletar feedbacks automaticamente.
+Então, entender ali o que que melhor e
+onde melhorar e onde agir, saca? Olha,
+melhoria contínua do processo. Tudo isso
+alimentando uma IA que vai voltar com
+feedbacks em sites gerenciais
+estratégicos para o dono da companhia.
+Falando: "Cara, ó, de acordo com que a
+gente coletou com seus clientes aqui,
+faz isso, faz aquilo, faz aquilo outro,
+tá aqui um plano de ação." em
+pequena empresa não tem dinheiro para
+ter time de corpo de diretoria, corpo de
+advisor, esses caras não tem. Se você
+coloca uma IA para fazer isso, o quanto
+você automatiza o processo deles. Então
+assim, o que eu quero deixar aqui para
+vocês nesse vídeo é é esse pensamento.
+Existe uma de uma oportunidade.
+Desde que você verticalize isso, desde
+que você embale igual o Alan embalou
+aqui a consultoria dele, tem espaço para
+todo mundo. Tem 9 milhões de empresas de
+CNPJ, a gente para saca? Olha,
+olha que olha que proposta. Bem
+feito. Olha aqui, olha isso aqui, cara.
+inglês e português, o website do
+cara. Inclusive, ó, indico o meu aluno,
+hein? Dá, acelera. do caramba. Se
+você não é da área de tecnologia e tá
+querendo uma consultoria especializada
+em pro teu negócio, pode procurar aqui,
+ó, Zoh Hub aqui, que os cara é
+brabo, brabo, treinado,
+né? Tá, tá, tá, tá com o pai, tá com o
+pai. Tem o carimbinho lá, ó.
+E se você não conhece aera ainda, clica
+aqui na descrição do, o link tá na
+descrição aqui desse vídeo. Então é
+isso, ó, gente. Tem é uma oportunidade
+muito boa, oportunidade muito boa. Tem
+muita gente criando empresas aí que são
+fantasmas, que vocês nem conhecem, estão
+ganhando dinheiro com isso, igual o o
+Alan. Por quê? Porque tá sabendo abordar
+o mercado com a dor fal, cara. é aquilo
+de juntar a fome com a necessidade de
+comer. E você que é da tecnologia, você
+tem que fazer isso, principalmente se
+você for programador. Se você é
+programador, desenvolvedor de software,
+aí, cara, você sabe fazer, você sabe
+criar esses produtos, cara.
+você não sabe, sabe ler
+documentação, é só implementar e fazer e
+botar para sacou? Pô, se você é
+de agência de marketing, pivota para
+isso, faz muito mais sentido.
+Consultoria estratégica especializada em
+a isso é, sabe? É, é, é, é, é
+atacar a dor.
+Beleza. Falei demais, já falei demais.
+Ó, gostou desse vídeo? Clica no like, dá
+um like aí, se inscreve no meu canal, me
+dá uma moral, comenta no meu vídeo bora.
+Vamos lá. Se você quiser saber mais,
+acelera, clica no link na descrição
+desse vídeo aí, ó. Chega. Tchau pr
+vocês. Falou, seus cachorros. Até mais.

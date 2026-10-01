@@ -1,0 +1,419 @@
+Ok, agora você vai entender por que o
+A inteligência artificial já é uma realidade.
+produto básico e este é
+acelerando drasticamente. O jogo não
+É sobre IA, o jogo é sobre o
+distribuição de inteligência
+da forma mais eficiente possível. Emprestar
+Preste muita atenção a este vídeo, porque ele é
+uma visão de mercado, ou melhor,
+uma leitura de mercado sobre o quê
+Acabei de ler para que você possa
+Entenda isso. Pessoal, tem uma startup
+chamado Prismel, com o qual a Apple
+Ele começou a trocar algumas ideias.
+Basicamente, esta empresa faz o quê
+A seguir: Comprimir um modelo de
+inteligência artificial ao ponto
+que cabe em um iPhone. Por exemplo,
+Um iPhone 17. Então, um iPhone 17.
+executando um modelo local, um modelo
+menor, um modelo mais compacto,
+Mas um modelo eficiente, cara. E
+A Apple começou a trocar ideias com
+Esta empresa. Neste vídeo, eu não quero
+Conversando sobre a Apple e trocando ideias.
+com esta empresa ou sobre esta
+movimentação de SLMs ou mais modelos
+barato. Esse não é o foco. Eu quero que você
+Você precisa entender uma coisa aqui. No
+tecnologia, ou melhor, em
+qualquer coisa relacionada ao mundo
+negócios e dinheiro em geral,
+Quem controla a distribuição controla
+todos. Fiquei me perguntando, por quê?
+A Apple quer um LLM em funcionamento.
+localmente no celular? O que é o
+lógica? Para isso, além disso
+Seja barato. E responderemos a essa pergunta agora.
+pergunta, mas primeiro vamos entender o que é.
+Este é o Prism. Nem vou dizer isso,
+Mas o que é esse movimento de fazer?
+que os modelos de IA sejam mais
+pequeno e compacto? Isso é para
+reduzir custos. Porque? Porque,
+Cara, fundos de investimento são
+Investir muito dinheiro. Até
+Naquela época, estávamos inseridos em um movimento.
+onde aquele que cria o maior modelo de
+A inteligência artificial é a força dominante.
+. Então eu criei o mais...
+Inteligente, mas sabemos que
+Custa muito caro. No entanto, com o
+a passagem do tempo e a evolução de tudo
+Esta, esta questão do modelo,
+se tornará intrínseco. O que isso significa
+que? Não faremos seleção.
+Qual é o melhor modelo? Isso é para o
+Não faz sentido para o consumidor final. Ah,
+Usarei GPT, usarei a versão 4.0, usarei o
+quatro, não sei o quê, sol, lua, vou usar
+Opus, eu usarei R. O cliente final não usará.
+Ele está interessado, só quer que seu problema seja resolvido.
+para ser resolvido da maneira mais simples.
+possível. E o movimento que é
+O que está acontecendo agora é o seguinte, meu amigo.
+. A inteligência artificial é cara, todo mundo sabe disso.
+É caro. Como podemos fazer isso?
+barato? Tornando esses modelos mais
+menor, mais leve. Então, existem
+dois processos que estão sendo usados
+bastante. Uma delas é chamada de quantização e a
+Outro método é chamado de destilação. Mas
+Resumindo, eles estão tentando compactar isso.
+Ótimo modelo LLM em uma versão menor, que
+ser mais barato, mais leve e mais
+Processamento rápido para a maioria
+tarefas diárias das pessoas. Amigo,
+Ele pode resolver isso facilmente:
+Escrever um e-mail, analisar uma planilha
+cálculo. Olha, em primeiro lugar, ninguém
+Você precisa usar uma Opus ou uma Fábula do
+vida para processar uma planilha
+do Excel; Não faz sentido nenhum, né?
+Entendeu?
+E esta questão da compressão de
+O modelo não é novo, bem, não é novo.
+Tudo é novo, não é, meu amigo? Nós somos
+Estou falando de 2 ou 3 anos, mas já vem acontecendo há algum tempo.
+ganhando força. As pessoas são
+compressão de modelos de IA para
+para torná-los cada vez mais, ou melhor,
+para manter a eficiência e que o
+Quanto mais barato o modelo, melhor, porque mais...
+Quanto mais comprimido, menor ele é, então
+Qual é a opção mais econômica? Resumindo
+o modelo gigante só é necessário
+para situações específicas, mas
+para a maioria das coisas
+As coisas do dia a dia são inúteis. O
+A maioria das pessoas lê apenas um e-mail.
+Escreva uma mensagem, diga olá.
+dias, resume um arquivo, analisa um
+Planilha do Excel; Oh,
+Qualquer modelo simples faz isso muito bem.
+bom. Mas, fica só um detalhe, né? Que
+Hoje em dia isso não é um grande problema porque,
+Cara, existe o subsídio do
+Fundos de investimento, um caminhão de
+Dinheiro foi investido em centros de dados, em
+empresas de IA, o que faz com que elas absorvam
+o verdadeiro custo da inteligência
+artificial e nos permitem usar, por
+Por exemplo, uma Opus, uma Fábula, os modelos
+no topo do mercado a um preço de
+subscrição. Então, em teoria, que
+Hoje não é um problema. Mas então
+Esse Prisma chega e começa a fazer isso.
+Eles conquistaram essa notoriedade, essa startup.
+Ganhou essa notoriedade porque a Apple
+Ele começou a conversar com eles. Ei, e
+O que eles estão fazendo? Deixe-me
+Para entender, nada está definido ainda.
+Mas a Apple começou, bem, mas por quê?
+Que foi, cara? Por que a Apple começou a
+Preste atenção nisto? Porque o
+Os loucos simplesmente conseguiram executar um
+Modelo de IA de alta qualidade em um iPhone
+localmente. É isso que eu digo a eles.
+Vocês precisam começar
+Entendendo os movimentos do mercado
+tentar prever, tentar
+ter uma visão de onde eles estão indo
+coisas. E hoje, onde reside a IA?
+Realmente? Onde fica, onde
+processos? Em centros de dados,
+homem, inteligência artificial
+Depende dos centros de dados.
+Então, quando você fizer uma pergunta para
+ChatGPT, essa questão permeia tudo.
+A internet chega ao centro de dados, ela vai...
+para o servidor e existem milhões de
+GPUs, que são pequenos chips.
+processamento, cálculo e então o
+A resposta volta para você e depois volta novamente. Agora
+Imagine um completamente
+diferente. Imagine que uma boa parte de
+Toda essa inteligência vai começar
+vivendo em seu próprio celular, dentro do
+iPhone, dentro do laptop, dentro do
+carro, dentro do meu carro aqui com um
+Inteligência, com um LLM incrível.
+Então, de repente, seu celular para de funcionar.
+em vez de ser apenas um terminal que faz consultas
+inteligência artificial e se torna
+A própria inteligência artificial. E
+É aí que surge a grande questão. Se o
+A inteligência artificial começa a ganhar vida.
+no dispositivo, quem controla o
+O dispositivo assume o controle total.
+parte ou praticamente toda a
+artificial. Você percebe como
+Mudar essa conversa? Então, se
+Isso é viável e será, independentemente de quem seja.
+Passei então a controlar a distribuição do
+A IA vence. O jogo é sobre
+Distribuição, pessoal. O jogo é
+sobre quem consegue entrar em contato com o usuário
+mais rápido, mais barato e mais
+eficiente. Entenda uma coisa, se
+Se você quer abrir um negócio, precisa entender
+como controlar a distribuição, como
+Criar canais de distribuição. IA
+É o mesmo jogo. Por que a OpenAI e
+Os antrópicos estão em uma guerra sem fim.
+por meio do capital, despejando dinheiro? Porque
+Eles querem distribuição, o melhor preço.
+Assim, para se tornar o padrão,
+tornar-se cultural. E aí, meu amigo,
+depois que isso for construído,
+Acabou. O Windows não venceu a guerra.
+Porque é o melhor sistema operacional,
+Porque o macOS é muito melhor. Porque
+A Microsoft superou a Apple? Porque
+A Microsoft fechou um acordo em sua
+era com a IBM e todos os computadores
+todo o hardware veio com o
+Maldito Windows instalado. Então,
+A Microsoft criou um canal de
+distribuição onde o negócio foi
+Vencendo desde o início. Boom. UM
+Loucura, não é? E quem tem bom
+parte dos celulares de hoje
+Em um dia? Não sei se é da Apple, né?
+Mas a Apple vive de hardware, não sei se
+Você sabe disso, mas depende de hardware.
+droga. E se eles tiverem o
+dispositivo nas mãos das pessoas,
+Entendeu? Basicamente, a Apple consegue.
+Distribua IA, sua própria IA.
+localmente, assim, de repente, bum!, de certa forma.
+significativamente mais barato, pronto! E
+então a questão se torna local e,
+quando não responde adequadamente
+Ainda utiliza a nuvem. É um híbrido. Ele
+O movimento tende a ser híbrido no
+tecnologia. Olá pessoal, não sei se vocês estão
+programador ou não. Hum, eu acho que
+O foco aqui nem sequer é ser
+É técnico, mas já estamos começando.
+discussões sobre eficiência, sobre
+criar uma mistura de modelos para
+para baratear as coisas, porque o
+A tecnologia sempre pensa assim, a
+Pessoas da área de tecnologia. E a empresa tem que
+Seja eficiente. A maioria dos
+As empresas hoje em dia não possuem esse nível de
+maturidade, nem mesmo pessoas
+técnicas atingem esse nível de
+maturidade a ponto de, como posso eu
+O que você quer dizer? Para realizar este tipo de
+implementação de inteligência
+artificial. Se a IA não for eficiente,
+Se a IA não se pagar, se não gerar
+Se não der resultados, não vale nada.
+Portanto, esse movimento já está em andamento.
+Acontece, só que agora.
+Uau, quanta movimentação, hein, amigo? Ei,
+Aproveite, está me acompanhando? Feixe
+Clique também em seguir e comente em
+Este vídeo é para você se você gosta desse tipo de coisa.
+tópicos. Diga-me também qual é o seu
+Opinião aqui, hein! E lá o
+A conversa muda de rumo. Notas
+Como isso muda completamente? Sai do
+discussão sobre quem tem o modelo
+Modelo maior e melhor, o modelo
+mais inteligente. Não é disso que se trata,
+mas para controlar a borda. E a borda
+É o dispositivo, é a última milha.
+É a última camada, entende? Quem
+controla o ponto onde milhares de
+Milhões de pessoas acessam isso.
+A inteligência, no dia a dia, domina tudo. E
+Isso me lembra muito outra coisa.
+revolução tecnológica. Naquela hora
+Pela própria internet, muitas pessoas
+Eu pensei que o verdadeiro valor do
+A internet era basicamente ter um site.
+Mais tarde descobriu-se que ele estava em
+navegadores, tanto que o Google criou
+seu próprio navegador; A Microsoft, em
+Naquela época, eu tinha internet.
+Exploradora, ela tinha o controle total. Depois
+Passou para o sistema operacional, então
+Eles se tornaram as plataformas. O
+A infraestrutura quase sempre captura
+Tem mais valor do que parece. E eu acho que
+inteligência artificial
+Provavelmente está indo nessa direção, indo
+em direção ao mesmo lugar. Agora pense nisso.
+Para mim, isso significa OpenAI e
+A Anthropic perdeu este jogo? Não
+Não tem nada a ver com isso. Não tem
+Não tem nada a ver com isso. Porque? Porque isto,
+Este, este algoritmo de compressão
+Eles também vão criar um, não vão?
+Entendeu? Isso significa que
+As coisas tendem a ficar mais
+barato. Então, o que vai acontecer é...
+A seguir: os modelos gigantes vão
+Para continuar existindo, não há nada que...
+sim, mas os modelos menores
+Eles vão começar a ganhar terreno, porque
+Eles precisam ser, hum, eles são mais eficientes,
+São mais baratos, são econômicos
+mais viável. Kelvin, mas eles não são
+Tolos, cara. Não, o algoritmo não é
+bobagem. Hum, às vezes ele não foi treinado.
+Fazer o que você quer que eu faça.
+Ei, você consegue! Hoje você vai usar um algoritmo.
+Ou melhor, um mestrado em Direito (LLM) extenso, porque
+Isso resolve praticamente tudo e
+resolver tudo, qualquer coisa que
+Sua solicitação será atendida. Agora, se você tiver
+um algoritmo especializado, ou melhor ainda, um
+LLM, um SLM especializado para resolver
+Algo assim, ele resolverá isso muito melhor.
+significativamente melhor na maioria dos casos
+às vezes um modelo grande, que é
+Muito genérico. E daí
+O que vai acontecer é que os modelos gigantes
+Eles continuarão a existir, apenas deixarão de existir.
+Para resolver tudo. O celular vai passar
+para resolver uma boa parte, o
+O computador resolverá outra parte, a
+Os LLMs locais resolverão outra parte e
+A nuvem chegará quando realmente tiver chegado.
+senso. Portanto, o futuro não é um
+LLM local, o futuro é IA híbrida
+. E vou além: o futuro é a IA.
+híbrido sem que nós precisemos ser
+escolhendo o modelo. Porque? Porque
+Cara, as pessoas não querem saber o quê
+Este modelo é melhor. O cliente final, então
+, não quer saber qual é o melhor
+modelo, quer que eles resolvam o
+problema, você entende? E se isso
+A compressão realmente funciona, a
+custo para fornecer inteligência
+artificial, bem, puf, vai...
+colapso. E quando o custo
+Se entrar em colapso, todo o mercado muda porque
+completo. As empresas param
+competir exclusivamente com base na inteligência. Eles vão embora
+competir exclusivamente com base na inteligência e
+Eles começam a competir pela distribuição,
+por hardware, por ecossistema, por
+experiência. O próximo, então, o
+próxima grande guerra, bem, grande
+A guerra é complicada, não é? Do
+inteligência artificial, não OpenAI
+contra o Antrópico. Talvez seja um
+disputa muito maior sobre quem
+controlará o lugar onde ela mora
+inteligência, porque, em última análise,
+Quem controla aquele lugar, controlará
+a próxima geração de computadores
+. Essa, para mim, é a discussão mais importante.
+Algo interessante que surgiu até agora.
+É a jogada mais louca, droga!
+Bem, talvez eu esteja realmente louco.
+Talvez eu esteja louco por dizer isso.
+E aqui está uma lição que vale a pena.
+É uma pena, na minha opinião, para qualquer empresário.
+Cada vez que uma tecnologia amadurece,
+Deixa de ser uma vantagem competitiva.
+e se torna infraestrutura. Foi assim mesmo.
+Com a internet, o mesmo aconteceu com a nuvem.
+Aconteceu o mesmo com o smartphone ou com o...
+mesmo computador, o tablet, e será
+O mesmo acontece com a inteligência artificial. É
+É exatamente por isso que eu conto tantas coisas para eles.
+que o futuro não se resume simplesmente a usar
+Inteligência artificial, isso já é alguma coisa
+Mais uma coisa que está lá. O futuro
+é construir um sistema onde o
+A inteligência circula dentro do
+empresa e não importa se ela roda na
+nuvem, na borda, no celular, em um
+Modelo pequeno ou gigante. Ei,
+Isso é um detalhe técnico. Qual
+O que importa é a arquitetura do quê
+Você está construindo e o processo que
+Use isso. Então, quem tem um hoje?
+A arquitetura inteligente poderá crescer.
+muito mais rápido do que quem
+Basta usar o chatbot ChatGPT.
+a solicitação da IA, porque isso não é mais um
+diferencial, não é mais, já era em
+Em 2023, 2024, já não é assim. Um aviso
+Rapidamente aqui para vocês que estão assistindo
+Este vídeo. Se você possui uma agência,
+gerente, consultor, especialista, não
+Isso importa. Se você deseja iniciar um negócio com
+inteligência artificial ou você prefere
+Transforme sua operação com IA.
+O programa Accelerate é para você. Tem um link aqui.
+na descrição deste vídeo.
+Então, se você quiser expandir seu
+operação ou se você quiser criar a sua própria
+Infraestrutura de crescimento impulsionada por IA
+gerar valor para um mercado
+determinado, para transformar, para
+Inove, se quiser ser esse agente.
+transformador, clique no link que
+Está aqui na descrição deste produto.
+vídeo, aplica-se para acelerar. Minha equipe
+Ele entrará em contato com você, entendemos sua situação.
+Vamos apresentar-lhe um plano, certo?
+onde nós o ajudaremos a entender onde
+Você é, qual é o seu ponto A, como?
+Você chega ao ponto B e como podemos...
+te ajudar. Basta clicar no link que
+vídeo. Agora, vamos voltar ao conteúdo.
+Você precisa entender uma coisa agora,
+Para vocês que estarão presentes no dia
+Expandir seu negócio ou desejar
+Empreender, o mais importante, a coragem.
+O foco principal é a distribuição.
+Então não perca tempo criando o
+a melhor estrutura do mundo, criando a
+A melhor ferramenta do mundo, por que não?
+Não vai adiantar nada. Porque a abordagem
+O principal é que você domine o canal.
+distribuição. Onde você está indo?
+objetivo, quem vai distribuir o seu
+produto, ou se você mesmo o fará.
+Distribuir, mas onde, o quê
+canais? Então, domine isso. ?
+Como você pode fazer isso? Você pode criar
+seu próprio canal de distribuição,
+Você pode estabelecer parcerias ou formar alianças com
+aqueles que já possuem canais de
+Distribuição formada, estruturada;
+O cliente já está lá e você só pode
+Conectar e distribuir. Tudo é
+Pessoas que estão mudando. Tudo está mudando.
+E você precisa entender isso rapidamente, caso contrário,
+Será tarde demais. Em algum lugar
+Esse momento estará tão distante que será...
+tarde demais. Entendido? Esse
+O vídeo era sobre isso. Um abraço para você.
+Siga-me aqui agora. Para vocês que são
+empreendedor e quer expandir seu negócio
+operação, clique também no
+Link, venha fazer parte da Acelera, venha
+para se tornar parte do nosso ecossistema,
+que estamos revolucionando o mercado
+Com inteligência artificial. Vamos. M.

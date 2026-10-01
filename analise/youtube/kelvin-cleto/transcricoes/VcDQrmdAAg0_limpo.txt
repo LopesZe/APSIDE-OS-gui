@@ -1,0 +1,416 @@
+hoje eu vou falar da coisa que eu mais
+gosto eu vou falar de código deixa eu
+contar uma coisa para
+vocês no code plataformas desenvolvidas
+em no code elas são boas para você
+testar uma poc para você validar uma
+prova de conceito para você subir uma
+aplicação rápida e testar mercado mas
+assim não dá para você fazer uma
+aplicação no code que seja robusta que
+seja grande por motivos que nem eu não
+vou nem comentar nesse vídeo aqui depois
+eu posso fazer um vídeo especificamente
+sobre isso mas o vídeo de hoje ele vai
+ser sobre o seguinte você também
+consegue ter uma velocidade Na minha
+opinião Acho que até superior ao
+desenvolvimento do no Coach usando o tal
+do High code escrever no código né
+esse nome High code é muito ruim velho
+escrever no código de verdade
+programando ah como que você consegue
+ter isso através de uma estratégia muito
+simples que é você desenvolvendo um
+ecossistema de desenvolvimento de
+software foi criando isso que eu
+consegui por exemplo fazer a General
+Clans que é a minha Startup a minha
+xtech ter uma alta velocidade no
+desenvolvimento de Novos Produtos
+inclusive no desenvolvimento de features
+dentro da da própria ferramenta da
+plataforma e criando módulos E por aí
+vai e eu vou mostrar hoje para vocês o
+que que é você criar um ecossistema de
+desenvolvimento software então para você
+que é Dev pleno Senor para você que é um
+software ou para você que quer trazer um
+novo conceito pra empresa que você
+trabalha isso aqui que eu vou apresentar
+para vocês é algo que eu aplico e assim
+funciona muito muito muito bem dá
+trabalho para fazer dá trabalho para
+você desenvolver essa estrutura mas a
+hora que ela tá pronta você ganha
+uma de uma
+velocidade vamos lá vou compartilhar
+minha telinha aqui com vocês então vamos
+lá o que que eu chamo o que que eu chamo
+de ecossistema de desenvolvimento de
+software Então esse daqui que eu vou a
+entar para vocês é o da minha empresa Tá
+vamos começar aqui ó que que eu que como
+que eu consigo desenvolver o software
+rápido imagina aqui que eu vou
+desenvolver uma nova aplicação aí a
+gente tem aqui o front end certo dessa
+aplicação e a gente tem aqui também o
+backend então a telinha bonita e
+realmente onde as coisas
+acontecem pessoal de fronte já vai ficar
+puto então tem aqui ó duas aplicações
+uma em front e outra em Back O que que a
+gente tem primeira coisa que a gente tem
+aqui na empresa é que a gente tem as
+linguagens todas bem
+definidas tanto PR
+frontend quanto para backend em front ou
+a gente desenvolve em
+react ou a gente desenvolve em
+angular sempre sempre sempre sempre
+sempre Ah mas e o viw a gente não usa a
+não ser que seja para testar alguma
+coisa muito específica Ah mas e tal
+coisa e o Next também não usa a não ser
+que seja para alguma coisa muito
+específica por já vou explicar para
+vocês o motivo e no
+back 80% do sistema é em CSP Tem sim
+algumas coisas em
+Node Node mas muito pouco perto do CSP
+muito pouco a gente adotou 100% CP
+beleza tá e o que que a gente faz então
+imagina assim ó surgiu aqui vamos
+desenvolver um novo sistema cara o
+backend ele não começa do zero por
+exemplo a gente não desenvolve de
+autenticação a gente não desenvolve por
+exemplo vamos supor que essa aplicação
+precisa fazer disparo de e-mail sms esse
+tipo de coisa a gente não desenvolve
+isso porque isso já tá pronto precisa
+usar por exemplo o chat GPT precisa
+integrar com alguma ia para criar algum
+chatbot a gente não desenvolve isso
+porque já tá pronto precisa lidar com
+arquivo pad de arquivo a gente não
+desenvolve porque já tá pronto Por que
+que já tá pronto porque a gente
+trabalhou em estruturar um ecossistema
+de desenvolvimento Então esse projeto
+aqui por exemplo quando ele nasce ele já
+utiliza por exemplo ó ele já vem aqui e
+usa um negócio que a gente chama devpack
+no backend por exemplo que é um pacote
+de desenvolvimento para backend cara é
+como se fosse o nosso Framework aqui a
+gente tem coisas a gente trabalha com
+todo o nosso back sempre é estruturado
+em DDD Então a gente tem lá application
+domain repositório para salvar
+informação api aqui em repositório eu
+tenho para lidar com tanto banco sequel
+quanto no squel peds por exemplo ou
+regista aqui para lidar com imagem
+preciso redimensionar uma imagem já tem
+todo esse código Já tá pronto então os
+devs Eles não precisam desenvolver isso
+porque basicamente eles vão lá no nugget
+e aponta pro devpack e Puxa esse projeto
+inteiro então o backend já vem meio que
+quase pronto o que que qual que é o
+trabalho escrever os métodos novos e
+regras de negócio e até nas regras de
+negócio a gente tem estruturas meio que
+prontas para ele para facilitar esse
+processo de desenvolvimento então o
+devpack n mais é e aqui eu vou mostrar
+para vocês um pouco de código mas não se
+limitem a isso olha o tamanho dele
+preciso ligar lidar com log eu tenho lá
+o log abstraction que tem as interfaces
+a aplicação usar isso daí tem o w
+Break que é uma ferramenta que a gente
+usa aqui para log mas se naquele caso
+não precisar uso log fornet mensageria
+tem o m Transit pronto trabalhar com a
+models e cach no mongo a gente tem a
+estrutura pronta para isso relatório
+então por exemplo precisa gerar um
+relatório em doc x ou um relatório em
+Excel ou em HTML a gente já tem tudo
+isso pronto segurança criptografar
+enxado aí 56 fazer algum tipo de
+criptografia específica a gente já tem
+isso pronto o Dev basicamente ele ele
+implementa Isso saca extensões cara a
+gente pass a gente criou uma coletânea
+de extensões é o negócio ficou tão
+robusto que eu vou dar um exemplo aqui
+para vocês para vocês entenderem o que
+que é essa são essas intenções ó Estamos
+aqui no csar certo independente da
+linguagem tá gente entendam o conceito
+deixa eu criar aqui a classe de teste ã
+vamos supor tem uma variável aqui string
+ã string x empt aí eu implemento aqui ó
+o devpack extension então por exemplo
+para string por exemplo Deixa eu ver se
+eu tenho aqui ó is CPF or empt saca ele
+vai validar se um CPF ó Fazer uma
+comparação de distância de diferença
+entre do as Strings fazer um Chun de
+string isso aqui tudo é customização ó
+converter string e de ângulo para
+decimal ã que mano tem muito e a gente
+tem uma documentação disso daqui saa
+Inclusive a gente tá treinando uma ia
+para auxiliar Dev ó split Pascal Case
+saca são milhares e milhares de ó encod
+base 64 tudo
+isso tá dentro de um dos pacotes que a
+gente chama de
+extension tá aqui embaixo ó esse cara
+aqui tá k Mas e as APS a gente imagina o
+seguinte a gente que que a gente pensou
+aqui cara toda aplicação ela sempre vai
+ter o autenticação criação de usuário
+alteração de senha vai a parte de
+perfil de acesso Então por que que a
+gente não isola Isso numa pi aí a gente
+usou o identity server nesse caso
+algumas hoje usam o al zero que é uma
+plataforma que já faz isso mas a gente
+meio que instru eh desenvolveu tudo isso
+aí o Dev quando ele quer implementar
+aqui no back ele implementa Em vez dele
+consumir essa Api para cada api a gente
+criou um SDK então para cada api do
+nosso ecossistema a gente tem uma SDK
+entendeu é uma Lib que o cara vai e
+adiciona no projeto ele já consegue por
+exemplo autenticar isso usar toda a
+estrutura de autenticação e autorização
+o mesmo para message se eu quero por
+exemplo enviar um e-mail eu uso a
+message SDK e dou um ponto 100 de e-mail
+e o e-mail vai ser enviado ah Kelvin
+como cara a gente construiu toda a
+estrutura por trás para para poder
+suportar e ter essa velocidade de
+desenvolvimento isso foi construído para
+isso saca ah Jed Jed é gestão de
+documentos então por exemplo preciso
+subir um arquivo preciso alterar esse
+arquivo é um documento mesmo tipo um
+documento físico a gente como eu
+trabalho para seguradora a gente as
+plataformas geralmente elas precisam ter
+gestão de documento receber por exemplo
+uma cópia do CPF do cara se o cara
+alterar isso eu não posso deletar antigo
+eu tenho que ter histórico o Jed serve
+para isso a pay de G location cara então
+a gente trabalhava muito com endereço
+com localização roteirização a gente
+criou uma p especificamente para isso
+pagamento então Imagine que aqui nessa
+nesse nessa nessa nova plataforma a
+gente precisa fazer uma implementação do
+meio de pagamento já tem tudo pronto a
+gente só cria os planos nos bancos de
+dados e aponta essa aplicação vai
+utilizar aí essa estrutura de de
+pagamento cria uma chave para aquela api
+e o negócio todo já funciona o Dev em si
+ele não tem que pensar em como fazer
+isso ele é treinado para usar isso daqui
+logicamente mas você entende como ele
+não tem que pensar e essas apis de
+barramento elas disparam todas elas
+disparam aqui no barramento de mensagens
+Ah por exemplo eh autenticação efetuada
+com sucesso erro na autenticação o
+arquivo da aplicação tal subiu dispara
+os eventos aqui dentro por quê Porque se
+esse cara precisar de Integração eu
+simplesmente crio uma nova
+api aqui por exemplo por exemplo uma API
+de integration para essa aplicação
+aqui no backend e eu ouço tudo que tá
+acontecendo aqui na mensageria entendeu
+olha olha olha que velocidade até para
+fazer integrações a gente consegue ter
+uma de uma velocidade de
+desenvolvimento integração com SAP
+integração com CRM porque já meio que a
+gente estruturou a nossa empresa a gente
+estruturou o modelo de desenvolvimento
+através de uma única linguagem Esse é o
+primeiro ponto positivo e a gente criou
+uma coletânia de coisas prontas pro dev
+poder utilizar entendeu entendeu a
+sacada aí o front a mesma coisa a gente
+estruturou um design System então um
+design System para front um design
+System PR PR PR app PR web e outro para
+aplicativo aqui em apps por exemplo a
+gente a gente antes usava o react Native
+para desenvolvimento de apps mas a gente
+aboliu ele e a gente usa só flutter
+agora o flutter é excepcional muito bom
+nos atende muito bem com uma fluidez
+incrível Então a gente tem vários
+pacotes de a gente tem já o o a
+estrutura pronta né o design System
+pronto que que é o design System que ó e
+padrão de cor padrão de Label padrão de
+de fonte tamanho de fonte para texto
+para header para footer para tiver no
+meil card a gente criou o
+nosso a gente fez isso tanto pro web
+quanto paraa PP Ah mas e Kelvin quando
+tem um cliente que quer mudar ele pode
+mudar a cor ele pode mudar o logo ele
+inclusive pode mudar até parte do estilo
+mas o miolo em si né que é por exemplo
+Qual que é o modelo da fonte a gente não
+não não muda dificilmente Quando muda
+cobra cara para isso por quê Porque por
+conta da velocidade de desenvolvimento e
+de entrega e inclusive de manutenção
+saca ah a gente tem um devpack para
+aplicativo e um devpack pra Fronte
+também então por exemplo tela de login
+usuário senha altera senha Isso aí é um
+alibio o cara vai lá adiciona o
+componente e já era funciona sacou a
+gente tem como se fosse um template
+admin todo estruturado para isso
+alteração de senha configuração de
+acesso perfil de usuário rostinho e tudo
+mais e o mais legal é que essa Lib ela
+conversa com esse cara aqui com sdc do
+bec então por exemplo no bec aqui
+algumas algumas chamadas de de api já
+vem pronta por quê Porque o cara já
+porque o próprio SDK já fornece por
+exemplo preciso resetar uma senha cara o
+back em vez de bater aqui no por exemplo
+o back em vez de controlar isso não ele
+passa a chamada aqui para pro barramento
+de apis para fazer alteração de senha o
+barra aqui em cima a hora que vai
+alterar a senha precisa disparar um
+e-mail ele consome ele não consome
+nenhuma que consome diretamente a api
+ele sempre consomem a SDK então a SDK
+ela sempre tá adicionada em todos os
+projetos e ela tem ali eh como quais
+chamadas podem ser feitas a gente
+facilita o processo das chamadas dos
+métodos né e com e e onde que entra Iá
+nisso né cara agora aqui onde que a
+gente ganha velocidade porque primeiro
+que já tem muita velocidade em
+desenvolver esse tipo de ecossistema
+aqui de desenvolvimento isso aqui traz
+assim uma escala absurda Principalmente
+quando a gente fazia fábrica de software
+Nossa meu Deus do céu aí aqui por
+exemplo a gente tem o copilote da
+Microsoft o no integrado no no no visual
+Studio aqui no Fronte cara agora a gente
+tem o
+cursor sacou e que que a gente tá
+construindo para cada isso aqui cara
+você tem uma de uma velocidade para
+cada P MD na verdade para cada P dessa a
+gente tá construindo um cara chamado
+llms pmd nada mais é do que um arquivo
+formatado explicando com como que usa e
+quais funções tem em cada SDK em cada
+devpack cada um desse aqui vai ter um
+desse ó por que ele vai ter pra gente
+poder ganhar velocidade implementando o
+usando o copilote ou o CoPilot Tá vou
+falar bonitinho para vocês não ficar me
+criticando no vídeo mas não vou
+falar CoPilot mesmo ou
+cursor entenderam Porque quando eles
+indexam os o os projetos eles têm esse
+arquivo de lnms para eles saber
+entenderem ali como consumir agora a
+gente tá criando um uma hag para PR
+para para colocar tudo isso lá dentro
+olha olha olha como que ganha velocidade
+então aqui eu consigo por exemplo
+construir um MVP muito rápido garantir a
+segurança daquela aplicação e ainda tem
+escala de desenvolvimento muito mas
+muito mais muito mais e e o principal
+ter controle sobre a aplicação então
+aqui por exemplo o tanto o time de back
+quanto o time de fronte nem se preocupam
+por exemplo com log por quê Porque ele
+vem aqui ó implementa o pacote de log e
+o negócio vai logar lá no air Break por
+exemplo ou vai logar no app insites da
+Microsoft a gente algumas aplicações
+usam também para ele é indiferente para
+ele é literalmente diferente porque a
+gente Abstrai tudo isso a gente Abstrai
+a complexidade e o que que sobra pro dev
+fazer sobra pro dev primeiro Dev precisa
+entender então para que você tenha
+velocidade com isso aqui o o Dev tem que
+entender todo esse ecossistema de de de
+de de ferramentas né de de
+desenvolvimento para que ele não
+replique algum código Esse é o passo um
+e o outro passo que ele precisa
+entender é que ele só vai focar
+principalmente em em construir aquilo
+que é específico daquele projeto
+reaproveitando todo o ecossistema que a
+gente tem então isso aqui cara para
+fábrica de software para você mesmo que
+desenvolve e seus projetos pense em
+criar um devpack um pacote de
+desenvolvimento na sua linguagem
+específica pense em desenvolver Ness
+nesse modo por exemplo criou uma função
+você olha para ela e fala cara isso aqui
+pode ir pro meu pacote de
+desenvolvimento porque eu sempre faço
+isso eu sempre desenvolvo isso saca E aí
+você começa a ganhar velocidade e tem um
+outro ponto que é muito legal quando
+você pensa desse jeito cara você começa
+ficar bom em criar coisas
+reaproveitáveis é muito legal isso
+porque daí sua cabeça vai ficar moldada
+para ter esse tipo de pensamento
+entendeu E às vezes os caras falam pô
+mas como que você desenvolve mais rápido
+que no code é por conta disso porque a
+gente consegue reaproveitar muita coisa
+não deixa de ser um é como se fosse um
+Drag and Drop só que tá acontecendo a
+nível de código
+entenderam É isso isso é ouro hein isso
+aí é ouro ó por isso por esse truque que
+eu expliquei aqui agora por isso aqui
+que eu mostrei vai você merece eu mereço
+o seu like e mereço você se inscrever
+aqui no canal e ativar o
+Sininho qualquer dia eu mostro isso aqui
+a fundo para vocês eu posso codar aqui
+eu tô pensando em gravar alguns vídeos
+codando aqui no no sistema para no no no
+YouTube para mostrar para vocês só em
+ser Sharp né porque eu sou apaixonado
+por ser Sharp é isso galera esse é o
+vídeo de hoje hein ó falou seus
+cachorros o

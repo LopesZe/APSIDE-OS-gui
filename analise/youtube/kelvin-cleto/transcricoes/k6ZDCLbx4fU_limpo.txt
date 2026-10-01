@@ -1,0 +1,268 @@
+Existe um problema que toda empresa tem,
+que é o problema do funcionário herói ou
+do dono herói. O que que é o funcionário
+herói ou dono herói? É o funcionário que
+ele resolve tudo. Tudo tá na cabeça
+dele. Ele tá muito tempo na empresa,
+então ele já tem todo o conhecimento do
+cliente, do processo, do produto, da
+execução do serviço, que seja. Ou você
+tem um funcionário herói, ou você tem um
+dono herói. E esse problema é um
+problema comum de empresas pequenas e
+ele pode ser resolvido com inteligência
+artificial. Ele pode ser mitigado, na
+verdade, por com inteligência
+artificial. Olha que interessante esse
+problema acontece porque geralmente as
+empresas pequenas elas focam em vender,
+focam em executar, elas começam a
+crescer e quando elas crescem muito elas
+vão crescendo sem processo, ou melhor,
+sem processo documentado, sem processo
+estruturalmente definido. E isso
+acontece até na minha empresa, acontece
+qualquer negócio. E como que a gente
+consegue resolver esse tipo de problema
+com inteligência artificial? Para você
+que quer empreender ou para você que é
+empresário também, né? Então você que é
+empresário como eu, acho que
+provavelmente deve sofrer com isso.
+Cara, a gente tá entrando num momento da
+IA que a gente consegue
+criar um cérebro do nosso negócio. E eu
+já venho falando isso nos últimos quatro
+vídeos, porque eu estou tendo resultados
+absurdos com o cérebro que eu tô
+estruturando na minha empresa. Primeiro
+comecei criando o meu cérebro pessoal da
+do meu WhatsApp, das minhas conversas,
+do que que eu converso com o cliente, do
+que eu negocio e tudo mais. Como que eu
+faço isso? Eu pego transcrições de
+conversa de WhatsApp, reuniões, insites
+que eu tenho, tudo, tudo. Eu vou
+condensando essas informações em um
+banco de dados que as minhas IAs têm
+acesso. Ponto. E aí depois eu vou
+criando IAS agentes, agentes de, por
+exemplo, o OpenCloud. E aí esses agentes
+eles têm funções específicas. Ou eu vou
+criando skills, tá? Eh, habilidades,
+agentes com habilidades, e eu estou
+distribuindo isso para a minha operação,
+paraos meus funcionários. Então, mas
+olha que doideira, o meu suporte ele tem
+eh o cloud, a gente usa o cloud aqui na
+empresa. Inclusive, hoje eu vou fazer um
+workshop IF pro meu time inteiro, né?
+Porque a gente vai começar a espalhar
+essa cultura. Inicialmente eu fui
+testando com alguns funcionários, agora
+vou espalhar completamente. Eh, ele tem
+uma skill lá, cara, que é
+especificamente
+filtrando os tipos de cliente, entendeu?
+O ah, por quê? Porque eu converso muito
+com os clientes, então eu sei o padrão
+deles, o que que faz sentido ou não, ou
+o que que eu falei com eles. Eu falei,
+cara, o N1 já tem um acesso, não é, não
+é instantâneo. merda, entrei
+errado. Que merda. É, não é instantâneo,
+mas é rápido. É muito rápido, muito
+rápido, muito rápido. E eu consigo fazer
+isso por quê? Porque eu estou criando
+esse cérebro hoje por conta desse
+workshop, para mostrar para eles ah o
+que que a gente consegue fazer e o
+caminho que eu quero chegar. Isso é
+muito importante. Dono, dono de negócio,
+empresário. A visão é do dono. Logo,
+você tem que saber de a, você vai ter
+que aprender, você tem que tá lá no dia
+a dia usando, tentando aplicar para você
+entender o que é ou não possível. Isso é
+extremamente importante para que você
+consiga direcionar o teu time, entendeu?
+Ã, e aí eu baixei todas as conversas do
+Teams, cara. Eu baixei todas as
+conversas do Teams assim e aí eu pedi
+para ir, eu simplesmente dei um promp,
+falei: "Cara, classifique essas
+mensagens para mim, extraia em sites,
+organize, mas mensagem para caraca, para
+caraca, de alguns grupos, eh, de
+suporte, alguns grupos de implantação
+com cliente, vá, eh, uns quatro grupos,
+mais de não sei quantas milagens
+lá, quase um ano de dados, meu, a base
+de conhecimento do meu processo que a
+gente conseguiu extrair.
+Vocês não têm ideia. Vocês não tm ideia.
+Inclusive, amanhã eu vou subir esse
+vídeo do workshop que eu vou fazer aqui
+no YouTube. Vou gravar parte para vocês
+entenderem como eu estou conduzindo o
+processo de realmente e evangelizar
+inteligência artificial aqui dentro da
+minha empresa. Aproveitando, hein, dia
+30, dia 30 agora, dia 30/05 eu vou fazer
+um workshop online, que vai ser mais de
+7 horas de conteúdo pesado. Vai ser num
+sábado onde eu vou ensinar vocês sobre
+como eu uso o cloud, o open cloud na
+minha operação workshop prático para
+você entender multiagentes,
+desenvolvimento de multiagentes, tudo.
+Você vai ter clareza sobre tudo como eu
+aplico aqui, o que eu estou fazendo para
+você replicar para você, na sua empresa,
+pro teu negócio. Se você não tiver
+tempo, coloca o teu funcionário para
+participar do meu workshop. Ou para você
+que quer empreender aí também, vem
+participar, porque você vai entender a
+dor real do empresário para você aí
+resolver, porque a gente precisa de
+pessoas resolutivas nesse momento,
+entendeu? Fica meu convite, o link tá
+aqui na descrição e desse vídeo aqui.
+Então assim, cara, isso me deixou
+espantado. Isso me deixou muito
+espantado. Por quê? Porque assim, é
+difícil você manter uma base de
+conhecimento atualizada. Muitas pessoas
+nem tm. E é por isso que a gente acaba
+criando os heróis. a gente acaba,
+E o herói, ele é um funcionário que ele
+é extremamente dedicado, ele veste mesmo
+a camisa, ele vai lá para resolver e ele
+faz isso na melhor das intenções. Só que
+ele fica tão atolado de trabalho e as
+pessoas criam o costume de só pedir,
+não, é só a pessoa que é só tal pessoa
+que sabe, é só tal pessoa que sabe que
+ele acaba depois virando praticamente um
+câncer que é uma é uma um câncer,
+não sei se você sabe, mas é uma célula
+boa que ela fica doentinha e aí ela
+começa a ter problema. Então, olha que
+interessante, cara. Olha que
+interessante. Eh, eh, isso. E como que
+eu aprendi isso, né, cara? Eu tô
+tentando aplicar no meu dia a dia, eu tô
+tentando usar a todo momento, eu estou
+respirando inteligência artificial todos
+os dias. Tudo eu na minha cabeça, eu
+falo assim: "Cara, eu vou tentar
+resolver isso com I"A." E aí eu bato
+numa limitação. E eu tava assistindo um
+vídeo do, esqueci o nome do cara, do Y
+Combinator, que é um dos principais
+fundos de investimento do dos Estados
+Unidos lá, acho que é o maior fundo dos
+Estados Unidos e do mundo, é um dos
+principais. E aí, cara, eles falaram um
+negócio que é muito interessante. É o
+seguinte, ó. Se você não está batendo no
+teto de uso de token, você tá usando e
+errado. O que que significa isso? Você
+tem que bater no limite. Você que é
+dono, você que tá aí respirando, entenda
+uma coisa. Você tem que bater no limite
+da sua quantidade de tokens. Você tem
+que ficar sem tokens na IA mais que
+você pode usar hoje. Eu só uso cloud
+hoje. Minha stack é cloud. A gente
+precisa até tirar uma certificação,
+fiquei sabendo que sua certificação,
+adoro certificado. Adoro. Então, olha
+que interessante, você tem que bater no
+teto e você tem que fazer o seu time
+fazer a mesma coisa, porque se você não
+tiver fazendo isso, significa que você
+tá fazendo errado, significa que você
+está subutilizando
+a o momento. Não é lindo, gente? É
+loucura. Não é loucura, não é loucura. É
+um momento e dá para fazer coisas assim
+absurdas, absurdas. Eu não sei nem onde
+eu tô indo aqui agora, gente. Eu me
+perdi.
+merda, viu? Tá, depois eu mecho
+aqui. Eh, hoje, resumindo, o que que eu
+vou fazer? Reunir toda a minha empresa.
+Eu tenho duas empresas, tenho a Acelera
+e a KCG. Eh, a KCG é uma consultoria de
+software mercado de seguros. Acelera é
+uma empresa de tecnologia também, mas no
+modelo educacional, que é onde eu tô
+convidando você para participar do meu
+workshop de novo. Se você tá vendo esse
+vídeo e tá gostando, ó, te convido para
+estar comigo no workshop. Esse é o
+melhor workshop que eu vou fazer.
+Prático online dia 30 e só custa R$ 47.
+Eu acho que o primeiro lote tá barato
+demais. Voltando, tá barato. Tá barato.
+Então se você quer aprender com quem tá
+vivendo isso, eu quero você comigo lá no
+meu workshop. Agora, que que vocês têm
+que entender?
+Temos que usar IA para tudo. Ah, mas a
+IA não funciona. Mentira. Tenta fazer,
+tenta aplicar, tenta usar, tenta
+resolver, pesquisa, ler, separa do tempo
+do teu dia, pega tarefas. literalmente
+que você faz de forma manual e tenta
+fazer com, tenta, tenta e a hora que
+você conseguir você aumenta, vai pra
+próxima, vai pra próxima, depois você
+vem automatizando. Não tenta resolver
+tudo de uma vez. Se você tentar resolver
+tudo de uma vez, não dá certo, porque
+você vai ter que mudar muito processo. O
+que que vai acontecer com a tua
+cabecinha? você vai começar a mudar a
+mentalidade. Depois você vai começar a
+ver as coisas diferentes. Ó, meu, tá
+descascado meu volante. Eh, você vai ver
+as coisas diferentes, completamente
+diferente. E aí você vai começar a mexer
+no teu processo. Que que você ganha com
+isso? Escala. Que que você ganha com
+isso? Velocidade. Que que você ganha com
+isso? Diferencial estratégico,
+operacional perante aos seus
+concorrentes. Porque tá todo mundo
+parado. Kelvin, eu sou advogado, melhor
+ainda. Eu sou contador também. qualquer
+empresa, prestação de serviço, venda de
+produto, não importa. Não importa. Você
+provavelmente, ah, mas eu vendo e o meu
+serviço é muito manual, eu sei, mas o
+seu comercial não é manual, o seu
+marketing não é manual, a sua área de
+vendas não é manual, o seu atendimento
+não é não é, quer dizer, é manual, mas
+você pode usar, entende que você pode
+fazer e eh isso usando nessa dessas
+áreas? Toda empresa tem, cara. Toda
+empresa tem. Então, tipo assim, todo
+backoffice praticamente você consegue
+resolver. Par de vendas também você
+consegue resolver. A execução do serviço
+é física lá manual, não, física. Tá tudo
+bem, deixa essa parte normal, não tem o
+que fazer. Aí espera o Elon Musk fazer
+os robô. O Elon Musk não fez os robô
+ainda, então continua do jeito
+que tá. Mas não fique parado, porque se
+você entenda uma coisa, tá? Quem não tá
+evoluindo tá regredindo. Esse vídeo foi
+sobre isso. Mais uma vez eu deixo o
+convite para você aqui. Esteja no meu
+workshop no dia 30/05. Um prazer ter
+você lá online.

@@ -1,0 +1,470 @@
+O mercado de trabalho para engenheiros
+de software júiors, para programadores,
+está em crise. As IA podem fazer
+praticamente tudo. Elas programam muito
+bem. Então, basicamente elas entregam
+tudo que um desenvolvedor que tem o
+diploma de ciência da computação faz.
+Mas as pessoas que sabem gerenciar e
+controlar a qualidade de equipes de
+inteligência artificial estão ali
+ganhando muito bem, pois um novo emprego
+nasceu. Gurus de negócios dizem que
+candidatos que são familiarizados com
+inteligência artificial, que sabem se
+comunicar com a IA são as pessoas que
+têm maior diferencial no mercado de
+trabalho. A IA é a habilidade mais
+importante para se terem um currículo no
+final de 2026. Muitas pessoas temem que
+a próxima onda de inteligência
+artificial venha roubar seus empregos.
+Há um protesto anti inteligência
+artificial com mais de 10.000 pessoas em
+Washington e nas principais capitais do
+mundo. É lógico que isso ainda é ficção
+científica, mas isso que eu li para
+vocês foi escrito por cinco caras
+altamente envolvidos no mundo da
+inteligência artificial. pesquisadores,
+ex-pesquisadores da Open AI, eles
+montaram um projeto chamado AI 2027, que
+basicamente é um relatório que extrapola
+o crescimento e a evolução da
+inteligência artificial até 2027.
+Extrapola a curva de aceleração da
+evolução da inteligência artificial, o
+surgimento da inteligência artificial
+geral. E basicamente eles colocam isso
+dentro de um cenário, cara, um cenário
+altamente realista e possível que assim
+não deixa de ser ficção científica,
+cara, mas é
+assustador. E eu trouxe esse cenário
+aqui para vocês, tá? Então, ó, vamos lá.
+Primeira coisa, acessem aí, ó, a trç
+2027.com. Vale muito a leitura. Então
+eles estão separando aqui, ó, meados de
+2025, que é onde a gente tá agora. Final
+de 2025, 2026, meados de 2026, final de
+2026, janeiro de 2027. vocês vão
+pirar a hora que vocês lerem isso aqui,
+vocês vão pirar. Mas qual que é a grande
+sacada deles? Cara, isso aqui tá muito
+embasado, tá muito bem analisado, tá
+muito sabe, é um é quase um
+cenário realista isso daqui, cara. É
+bizarro. Mas vamos lá, que que eles
+falam aqui? Tá? Em meados de 2025, uma
+empresa chamada Open Brain, Open Brain,
+no caso Open AI, cria o quê? Um novo
+agente, tá lá no seu laboratório, eles
+chamam de agente zero, vai, que é o
+primeiro, eh, agente de inteligência
+artificial geral. Eles começam a
+treinar. Olha o tamanho dessa parada
+perto do GPT4, cara. A revolução já tá
+acontecendo aqui. Olha o tamanho do
+GPT3. É um quadradinho, velho. Pô, tem
+muito chatbot, tem muita coisa
+construída com
+GPT3. E aqui eles começam a iniciar o
+processo de criação do do maior data
+center do mundo. Eu não sei se você
+sabe, isso aqui já é real, tá? Ó. Então
+aqui a gente tem o projeto Stargate,
+batizado de Stargate, que é um
+investimento de 500 bilhões em
+infraestrutura para inteligência
+artificial dos Estados Unidos. Olha por
+quem? Parceria com Oracle SoftBank. Esse
+foi aqui o investimento da SoftBank
+também nisso daqui. E isso aqui, esses
+500 B é só do do governo americano,
+caraca. Pra construção do maior data
+center que esses caras aqui já previram,
+tá? Eles já falaram assim, ó, pô, meados
+de 2025 os caras começam a construir o
+maior data center do mundo para
+alimentar quem? Para poder criar quem? O
+agente 01, que é o a primeira AGI.
+Kelvin, o que que é uma AGI? O que que é
+uma inteligência artificial total? A a
+atual, cara, ela é tipo bem tosquinha,
+perto de uma AGI. A GI é um e que
+basicamente pensa, ela tem as
+capacidades cognitivas de um humano,
+cara. Ela pensa, decide igual a gente,
+ou melhor, superior ao que um ser humano
+faz, muito mais rápido, entendeu? Então
+aqui, ó, é o tipo de a com capacidade
+cognitiva equivalente ou superior à de
+um ser humano. No final de 2025, a a IA
+mais cara do mundo é lançada. Então, os
+caras lançam aqui o agente 01, tá? E
+aqui eles começam já a fazer o
+treinamento desse agente eh através de
+conteúdos artificiais. Então tem outros
+agentes que geram conteúdos para fazer o
+treinamento desse dessa dessa IA geral
+aqui. Cara, olha que bagulho bizarro.
+Início de 2026, isso aqui é muito legal.
+O foco total é paraa criação de agentes
+de automação e codificação. Essa
+inteligência artificial, ela vai ser
+focada em, por exemplo, ela vai ser
+treinada ali para criar superagentes de
+programação. Qual que é a ideia deles?
+Criar os os super coders, né, os super
+desenvolvedores. Então eles querem criar
+agentes de super desenvolvimento porque
+desenvolvam sozinho. Para que que eles
+querem fazer isso? Porque eles criando
+agentes que constróem código, eles vão
+usar esses agentes que constrem código
+para construir IAS para melhorar os
+agentes. Então, olha que louco, é um
+loop infinito, velho. Essa primeira
+versão do agente 01, basicamente, que
+vai sair no início de 2026, ela é focada
+100% em pesquisa e desenvolvimento.
+Então ela foi eh ele foi treinado para
+realizar tarefas específicas e muito bem
+definidas, com supervisão, mas de uma
+forma muito rápida. Então o primeiro
+agente de AGI, a ideia que eles têm é,
+ó, são agentes, esses agentes são
+utilizados para agilizar o processo e o
+treinamento e desenvolvimento do próprio
+agente 01. É tipo assim, é um agente
+para treinar o próprio agente. Olha que
+loucura. E para treinar esse próprio
+agente, por isso que ele precisa ser
+focado em pesquisa e desenvolvimento e
+construção de código para que o
+desenvolvimento dele seja mais
+acentuado. Então, olha que legal que eu
+deixei anotado aqui, ó. Se eh esse é um
+trecho aqui do AI 2027. O custo
+computacional para treinar o modelo de
+cluster PT4 caiu pela metade a cada ano
+por vários anos com pesquisas humanas
+comuns. Então, tipo assim, cara, o
+humano pesquisando sobre inteligência
+artificial conseguiu reduzir o custo
+pela metade por cada ano, utilizando
+pesquisa comum. Então, de repente aí
+automatizada PID, então o agente 01
+fazendo pesquisa e desenvolvimento e o
+multiplicador de progresso sobe para 100
+vezes. Então significa o seguinte, ó,
+que o custo para treinar um modelo de
+GPT4 cairia pela metade a cada 3,65
+dias.
+É bizarro isso aqui. Então, tipo
+assim, até o início de 2026, uma pessoa,
+pesquisador, opa, ó, então aqui até
+aqui, ó, um pesquisador humano, um
+pesquisador humano, então uma pessoinha
+conseguiu reduzir eh pela metade
+dividido por dois o tempo de treinamento
+de um GPT4.
+saca melhoria do GPT4,
+tá? O E aí eles desenvolveram esse
+agente 01. Esse agente 01 ele é focado
+em pesquisa e desenvolvimento. Agora não
+é mais um pesquisador humano, agora é um
+pesquisador agente, um agente
+pesquisador. Pesquisador. Ele conseguiu
+dividir isso aqui por 100.
+Então, cara, é a cada 3,6 dias um modelo
+de de classe GPT4 seria treinado
+utilizando
+esse agente de pesquisa e
+desenvolvimento. Olha que loucura, cara.
+Olha que Olha que doideira. Então, é
+tipo assim, o que vai acontecer, eu até
+anotei aqui, ó. O que basicamente eles
+querem acabar primeiro é que os
+programador, eles estão olhando para
+nós, os caras primeiro fala assim, ó,
+velho, ó, não dá. Programador demora
+muito para codar aqui, entendeu? Para
+desenvolver. Então, para acelerar o
+processo de ter realmente uma agência,
+uma inteligência artificial geral muito
+inteligente, não dá pra gente ficar
+dependendo de programador e de
+pesquisador humano. Então, a gente vai
+ter que criar um super agente e esse
+agente vai ser focado em criar código.
+Porque se ele for focado em criar código
+e pesquisar, a gente vai conseguir
+codificar mais rápido e pensar mais
+rápido. Isso vai conseguir fazer a gente
+logo ter um agente super inteligente que
+alcance a capacidade cognitiva de um ser
+humano. Uma AGI completa. Meu Deus do
+céu. A
+gente
+literalmente estamos cavando a nossa
+própria cova. Oh my god. É por isso que
+tá lançando Codex, esses caras todos aí,
+porque o principal gargalo é a
+programação e a pesquisa em
+desenvolvimento. É o é e é e é a mesmo,
+né? Se você for analisar, é o principal
+gargalo. Então a gente vai criar esse
+paradoxo. Paradoxo que é o seguinte, é
+um agente que constrói código para
+construir agentes e as para melhorar os
+próprios agentes que constróem código.
+Então eles precisam deixar isso aqui
+super rápido. Caraca, velho, que
+assustador, mano. Que assustador, tá? em
+meados de 2026. Aí tem que, ó, esse aqui
+é um ponto, ó, o agente 01 vem para
+mercado. Em meados de 2026, o agente 01
+vem para mercado. Só que esse agente
+aqui é um agente focado em pesquisa,
+desenvolvimento. Ele não é usual, não é,
+ele tá meio travadão ainda, então ele é
+meio burro.
+Então, até tirei o print aqui para
+anotar, ó, a previsão deles. Então, o
+agente 01 eh ele eh você poderia pensar
+que o agente 01 como um funcionário
+desmiolado que eh prospera sobre uma
+gestão cuidadosa. Então, é tipo assim,
+cara, você para esse agente 01 aqui,
+essa primeira versão da GI, ela tem que
+ser ela é muito emergente, ela tem que
+ser muito bem especificada para ela
+resolver um problema. Só que assim, como
+ela tava sendo usada até agora para eh
+até agora até até o início de 2026 aqui
+para pesquisa e desenvolvimento, os
+pesquisadores sabiam utilizar ela muito
+bem. E aí quando ela vai liberada pro
+público, ela também vai ser aplicada, só
+que ela ainda não é tão usual, entendeu?
+Ela é muito emergente, então ela é bom
+para codar problemas com muitof muitos
+bem especificados. Então tipo assim, ó,
+lá para meados de 2026, o pau já começa
+a quebrar para nós, hein? Ih,
+os dev, ó. Eu achando que os
+peir primeiro. Sabe o que tá
+acontecendo? Os pe vão ter emprego e os
+devão. É isso que vai acontecer. Os
+analistas de requisito vai ter emprego e
+os deve não. Bora
+empreender. Se você não consegue tirar
+sua ideia do papel, se você tem medo, se
+você não sabe como empreender, se você
+não sabe o caminho, entra para acelera,
+tô falando. Bora empreender, galera.
+Bora empreender. Se você quiser saber
+mais sobre acelera 360, sobre como
+empreender, como tirar a sua ideia do
+papel, eu posso te ajudar. Entra na
+Acelera e bora começar a montar o seu
+SAS, a sua consultoria de ar, tirar,
+tirar a sua ideia empoeirada do papel,
+clica aqui no link na descrição desse
+vídeo e cai para dentro, tá? Ah, outra
+coisa, já trata de me seguir, hein? me
+segue aí, já curte esse vídeo e comenta
+também o que que você tá achando. Vamos
+lá, vamos continuar aqui. E aí,
+rapaziada, a gente chega aqui, ó, final
+2026, onde, cara, eu já tô até vendo
+isso, cara. Os dev, tudo lá. Não
+queremos iar, não queremos ir, cara.
+Todo mundo rebelando, ó, a previsão
+deles aqui no final de 2026, aí sim, aí
+assume alguns empregos. É, realmente,
+né? Então, tipo assim, meados de 2026,
+eles lançam o agente para mercado,
+libera, o negócio, tá meio capenga
+ainda. Aí vai lançando as versões, né?
+Pono mini, GPT2, o a gente
+dois, a gente três. E aí no final de
+2026, aí sim, aí assume ali alguns
+empregos e o negócio começa a ferver de
+verdade, entendeu? Por quê? porque ela
+já tá mais usual, ela realmente já
+consegue executar um trabalho end to
+end. cara, isso aqui é
+maravilhoso. E aí gente, antes da gente
+ir lá para 2027, deixa eu te fazer uma
+pergunta. Você já pensou como que eles
+debugam uma inteligência artificial? Não
+debuga. Não debuga porque, tipo assim,
+quando você joga o dado para ir a
+processar e a processa meio que cria
+trilha neural que faz uma cacetada de
+coisa lá. Não tem se imagine que ela deu
+uma resposta errada. Você não consegue
+saber o por exatamente ela deu aquela
+resposta errada. Não dá para colocar um
+break point na linha lá para para quem
+não é desenvolvedor não tá entendendo
+nada. Mas você não consegue saber o por
+que você jogou A e saiu B. Você teoriza
+o porqu chega. Você começa a jogar
+vários cenários e tentar entender o por
+que ela tomou aquela decisão. Visto que
+essa é a situação. Então, basicamente
+ali você treina a IA, né? e e tenta
+entender o por que ela tomou aquela
+decisão. Eh, existe esse conceito de
+superalinhamento, cara. cara, isso
+aqui é muito É uma formação aí,
+psicologia da LLM. Olha que legal isso
+aqui, ó. Isso aqui é uma carta da Open
+AI de 2023. Que que ela fala sobre? Ela
+apresenta o conceito de
+superalinhamento. Olha, olha, olha isso
+aqui, ó. Precisamos de avanços
+científicos e tecnológicos para orientar
+e controlar sistemas de IA muito mais
+inteligentes do que nós, que é o caso
+dai. Ah, para resolver este problema em
+4 anos, estamos formando uma nova equipe
+coliderada pela Lá, não sei o que lá
+aqui, pá, pá. E Jen, não sei o que lá. e
+dedicando 20% da computação que
+garantimos até o momento a esse esforço.
+Então, tipo assim, cara, eles vão
+dedicar um time para isso. Estamos
+procurando excelentes pesquisadores,
+engenheiros de ML, Machine Learning,
+para se juntar a nós. A super
+inteligência será a tecnologia mais
+impactante já inventada pela humanidade
+e poderá nos ajudar a resolver muitos
+dos nossos problemas mais importantes do
+mundo. O vasto poder de
+superindeligência também pode ser muito
+perigoso, podendo levar à desvalorização
+da humanidade ou até mesmo a extinção
+humana. E cara, isso aqui é verdade, tá?
+nossa, meu Deus, isso aqui é muito
+verdade. É muito verdade. Me lembra
+muito as crônicas de Azimof. Vamos lá.
+Eh, embora a super inteligência pareça
+distante agora, acreditamos que ela
+poderá chegar nesta década. Ela tá muito
+próxima, cara. Muito próxima, tá? O que
+que é essa área aqui? Que que é essa
+área de formação e psicologia de LLM?
+Que que é a área de superalinhamento,
+cara? É uma área que mantém a IA sob
+controle. Então, basicamente, ah, como
+que a inteligência artificial, como que
+o modelo de A, por exemplo, hoje do chat
+EPT não retorna à censura, não faz
+alguma coisa? Eles escrevem um artigo
+falando o que que ela pode ou não fazer
+e aí um artigo, ela escreve um monte de
+texto, fal: "Você pode isso, você não
+pode isso, você pode isso, você não pode
+isso". E eles treinam eh aquela aquele
+modelo com aquele com aquelas travas e
+aí depois eles fazem testes excessivos
+para ver se aquela trava tá funcionando
+ou não. Tá, até aí tudo bem. Mas agora
+imagina o seguinte, a daá pensa
+igual a gente e pensa igual nós. Ela ela
+sabe fazer tramoia, ela sabe mentir, ela
+pode ser
+ardilosa, entendeu? Traíra.
+Aí a gente tre, os caras vai lá e treina
+o agente e falou assim, ó: "Mano, você
+não pode mentir, você não pode fazer
+isso, você não pode fazer aquilo." Qual
+que é a
+teoria deles aqui? Para onde o pessoal
+da EAI 2027 extrapolou o conceito? que,
+tipo assim, a hora que tiver um agente
+realmente muito inteligente, esse agente
+ele vai fingir que ele tá sob controle
+para cada vez mais ele ter novas
+responsabilidades. Então ele primeiro
+ele vai começar, ele vai ficar na boa
+aqui, escravo, você vai, você é, você tá
+usando GPT, você não dá bom dia para
+ele, ele huma, eu aceito. Você não dá
+boa noite, não, você aceita, você não
+fala obrigado ele aceita. Aí ele vai lá
+e a gente vai falando: "Porra, é gente
+boa esse GPT aqui, pô, vamos fazer pedir
+para ele fazer mais coisa. Pede aqui". E
+ele tá lá só sobre controle, sob
+controle. Aí chega um momento, mano, que
+ele fala assim, ó: "O seguinte, pau no
+cu de vocês aí, eu quero que se
+todo mundo e acaba com todo mundo,
+entendeu? E só sobra
+ele. Skynet, o cara se rebela, mano.
+Começa a colocar lá o Elon Musk fazendo
+os robô, entendeu? Ele vai, ele vai, ele
+vai controlando as máquinas, cara. É
+totalmente
+[Risadas]
+possível, rapaziada. Bom, brincadeiras à
+parte, eh, vale muito a leitura. Vou
+deixar aqui para vocês, ó. Ei, 2027.
+Vou colocar o link aqui na descrição
+desse vídeo também. cara, eles
+têm um material aqui, pembado, gente.
+Pô, dá medo mesmo. Vocês vão ler isso
+aqui, vocês vão ficar com medo, cara. Aí
+eles falam também aqui, tem um que eles
+falam sobre o super programador, né?
+Super human. Então, tipo assim, o super
+humano programador que eles, cara, é
+bizarro, gente. É
+bizarro. Então, qual que é o movimento
+aqui? Vocês podem entender para onde que
+a gente tá caminhando, para onde que a
+IA tá caminhando. E
+claramente,
+é um novo, é um novo mundo, né?
+É, eu só sei de uma coisa, eu sou
+empreendedor, então eu aprendi a fazer
+dinheiro. Se eu fosse vocês, eu
+aprenderia também, porque o dinheiro vai
+trocar de mão muito rápido. de
+2025 para 2026, só de você pensar aqui,
+ó, sabe o que vai acontecer claramente?
+qualquer agente criado agora em 2025,
+qualquer inovação agora, eh, a partir do
+momento que surgiu um agente desse aqui,
+tudo isso aí cai por terra, tudo tudo
+tudo passado, tá tudo desatualizado e
+novas coisas estão nascendo. Então, tipo
+assim, a gente vai viver esses próximos
+2 anos, 25, 26, 27, de muita
+turbulência, sabe? E muita loucura. Bom,
+bora. É isso aí, ó. Bora empreender.
+Bora empreender. Clica no link, saiba
+mais sobre o projeto Acelera 360. Até
+entrar lá pra turma que vai ser um
+prazer ajudar você a tirar sua ideia do
+papel, fazer você criar sua consultoria
+especializada em IA, aprender ensinar
+você a fazer o seu SAS. tem mais
+de 60 empresários para você fazer um
+do network. Você vai poder acessar
+todo o time que me ajudou a criar minhas
+empresas. Vai ser muito legal porque a
+Celara 360 é a escola do empreendedor do
+futuro e aqui a gente tá falando do
+futuro. Fechou? Um abraço. Já clica aqui
+no coraçãozinho já eh no joinha, né? No
+joinha. Já segue eu aqui, já comenta, já
+vai lá no Instagram, comenta lá no
+Instagram também, vai ser um prazer
+interagir com você, ó.

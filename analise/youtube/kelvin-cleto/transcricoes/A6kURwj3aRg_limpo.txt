@@ -1,0 +1,208 @@
+3, 2, 1, estamos de volta ao ar. Olá
+Gangue de vilões, está tudo bem?
+Como vai você? Ok, dê um zoom, dê um zoom.
+Aumente o zoom, aumente o zoom, onde está o
+Zoom? O movimento está fraco hoje, precisamos ficar de olho.
+Dessa forma, eu acho. Deixe-me ver. Boom!
+Pare de comprar cursos em nome de
+do Senhor Jesus. Chega! Oh,
+irmão. Por quanto tempo isso vai continuar?
+comprar cursos na Udemy, em
+Rocketseat, em não sei o quê, na FIAP, em
+Altura ou algo assim? E eles não vão
+O que fazer? Parem com esse absurdo!
+Quer ver? Pronto, agora é real!
+Deixa eu te contar uma coisa, pessoal. Isto
+Em seguida, assista. Amigo, eles têm que
+parar. Se você é viciado em comprar cursos,
+Pare, pare. Isso causa obesidade.
+mental. Daquela [ __ ]. Você sabe por quê?
+Porque você compra esse curso e depois diz:
+"Caramba, esse cara sabe mais do que eu, não é?"
+Eu não sei de nada. Meu Deus, eu preciso
+comprar esse curso." E no meio do
+Eles te vendem um curso, e depois outro.
+Depois vem outro, e eles continuam te vendendo coisas.
+cursos; Você fica pulando de um curso para outro.
+investigando um e depois outro. E
+Quando você se der conta disso, meu amigo, já terá acontecido.
+Você comprou 300 cursos, fez os 10 ou
+20% de cada, você não terminou nenhum.
+Você estava sozinho e não aprendeu absolutamente nada.
+. Ou você não aplicou o que aprendeu.
+E deixe-me dizer uma coisa: se você não
+Você aplica e é inútil. Não funciona
+de jeito nenhum. Se você aprendeu e não
+Você se candidatou, é uma porcaria. Conhecimento
+Lixo, pura e simplesmente.
+para você. E aqui, veja, eu anotei.
+Meu caderno diz o seguinte. Cara, limpa
+Código, DDD, microsserviços, o framework
+esteja na moda, aprenda Go, aprenda o que for
+Então aprenda JavaScript, depois
+Aprenda Java, depois aprenda a dar
+Cambalhotas no ar, faça isso, faça
+Isso e não sei mais o quê. E me deixe
+Para te dizer para que serve tudo isso: para
+Um monte de besteira. É inútil. Não
+É inútil. Em outras palavras, mais ou menos
+. Eu exagerei um pouco... exagerei bastante agora.
+Exagerei um pouco, mas vamos lá. ?
+E aí, pessoal, o que está acontecendo? Ele
+O conhecimento deve ser aplicável.
+Então, quando você se inscreve em um curso,
+As pessoas geralmente só ensinam
+a parte superficial dessa linguagem,
+dessa metodologia, desse paradigma,
+desses padrões de design e tudo mais. Sim
+Você não usa isso se não fizer um.
+aplicação empresarial, se você não aceitar isso
+que você aprendeu e realmente usa em
+a resolução de um problema no dia a dia
+Na realidade, não vai adiantar nada. E o único
+a maneira de realmente aprender é
+Aprendendo dessa maneira básica.
+Em seguida, você preenche esse formulário e depois
+Você analisa. Tipo um ciclo PDCA, sabe? Apenas
+que em vez de planejar, implementar,
+Analisar e corrigir, você vai fazer isso.
+A seguir: Você vai estudar, depois você vai
+aplicar, depois você analisará o quê
+Você fez isso e depois corrigiu, entendeu?
+Mudar o planejamento para o estudo,
+Você sabe? Essa é a melhor maneira de...
+Existe. Essa é a melhor maneira de...
+Existe. Lembro que foi em 2017. Em 2017
+Eu estava desenvolvendo o software para
+a empresa da qual sou proprietário atualmente,
+Limpezas gerais. E, cara, um homem entrou.
+Cliente super importante. E na minha cabeça
+a plataforma tinha que ser uma
+Plataforma única, certo? Uma plataforma
+Este tipo de plataforma é uma plataforma multi-inquilino e
+Tinha que ser isso, cara, não faz sentido.
+copie e cole o código e desenvolva.
+para ele. E então, droga, eu fiz um
+Incrível excesso de engenharia. E eu estudei
+Muito disso, cara. E quando
+Eu estava estudando como eles funcionavam.
+aplicações multi-inquilino, e eu gosto
+Eu leio muitos artigos, eu acesso o site.
+Da Microsoft, você conhece aqueles sites que...
+Você acha que ninguém lê, sabe? Ele pegou o
+Artigos da Microsoft de lá e do
+Devorei o livro e comecei a ler para ver o que acontecia.
+Antes se chamava Microsoft.
+Arquitetura ou algo do gênero, nem mesmo
+Não sei se ainda existe, mas acho que sim.
+Esse lugar deve existir. Já faz um tempo desde
+Eu não vou entrar. E lá estava eu ​​lendo sobre
+Arquiteturas multi-inquilino. Caramba
+devorado. Droga, o que fazer?
+multitenant no banco de dados, para
+nível de aplicação, no nível de
+Infraestrutura: por onde começar?
+Mas tinha um ambiente favorável para
+tentar. Eu era o dono da empresa,
+A empresa tinha duas pessoas, eu,
+Droga, era só eu, não tinha ninguém comigo.
+a quem esclarecer dúvidas. E daí
+O que eu tinha que fazer? Faça isso. Eu costumava fazer isso.
+E então ele analisava e dizia: "Caramba,
+"Deixe-me ver se deu tudo certo." E então
+Durante três ou quatro meses eu estava vendo e
+Ele disse: "Droga, isso não acabou bem."
+Porque isso me causou outros problemas,
+Não? E qual é o grande truque nisso?
+amigo? Como eu aprendi? Eu estava aprendendo
+demais. Eu estava aprendendo demais,
+demais, demais, demais,
+demais. Aprendi muito. Olha só isso!
+aprendizado. Desenvolvemos um
+Arquitetura multi-inquilino. Ah, e a base
+O banco de dados é um banco de dados único. E
+o inquilino, as colunas, por exemplo,
+Todas as tabelas têm uma coluna.
+Ligação da empresa. Chamamos isso de empresa.
+Aqui, certo? O inquilino, que é o
+inquilino. E o que aconteceu, veja só? Esse
+Só detectei o problema há dois anos.
+depois. Quando o aplicativo
+Ele desmaiou mesmo, cara. A base é
+Voltou gigantesco, gigantesco, monstruoso.
+super pesado, e o caminho em
+Fizemos as consultas; Foi horrível. Ei,
+Eu tive um grande problema com o banco de dados.
+Aumentamos a escala do banco de dados e não funcionou.
+Resolvido. Então, veja só que loucura, é
+O que aprendi em 2017 só me trouxe benefícios.
+Problemas em 2019, entende? E eles são
+problemas dos quais aprendi o
+aula e eu disse: "Uau, eu tive isso
+problema devido à decisão que tomei
+"Há algum tempo." Então, voltando
+Aqui, eu já estava me desviando do assunto, aprendendo
+algo e aplique-o. "Ah, mas eu não trabalho,
+"Amigo." Esse é o melhor cenário possível.
+Porque você tem tempo para se candidatar. Sim
+Você trabalha, você também tem isso. Mas
+Qual é o ponto principal? Você aprende e
+Em seguida, você simula um ambiente de negócios.
+Você está simulando um aplicativo, amigo. Há
+Há tantas coisas para copiar. Por exemplo, se
+Saí para fazer alguns trabalhos de sistemas.
+distribuído, eu faria um checkout.
+distribuído com com com um sistema de tipos
+Mercado Livre, Mercado Pago, sabe?
+Eu montaria toda essa estrutura porque
+Isso seria incrível, sabe? Eu optaria por
+essa frase. Então é isso
+Eles têm que fazer isso. Então não é que não seja
+Comprar cursos significa que você deve parar de comprar.
+cursos como um idiota, consumindo apenas o
+10% e nem tente fazer um
+aplicação robusta com ele. Então
+Faça o seguinte e observe. O próximo
+curso ou leve em consideração toda essa história de
+cursos, escolha o principal que você criar.
+que possui o melhor conteúdo e
+Aprenda isso. Uau, você aprendeu alguma coisa!
+Aplique, mas aplique mesmo, não.
+use o teste, o exemplo que o
+O professor lhe entregou o formulário de inscrição. Não, amigo.
+Invente alguma coisa, finja que está trabalhando.
+no iFood e resolve um problema. Feixe
+Existe um sistema interno que faz isso. Você vai
+Faça isso e ficará incrível, não é?
+Entendeu? E você vai consolidar isso.
+problema e essa solução em sua mente.
+É como aprender a usar um
+ferramenta, você abriu a sua cabeça,
+Você pegaria a ferramenta e a colocaria nela.
+dentro da caixa de ferramentas e o
+Você vai ficar com ele, entendeu? Sua cabeça é
+uma caixa de ferramentas. Você aprendeu
+uma nova ferramenta, você vê como
+Funciona, você usa, depois pega e...
+você guarda dentro da caixa de
+ferramentas. Esse é o meu conselho para você.
+. Aprenda este método de estudo que
+Isso vai revolucionar sua carreira, seu
+crescimento. Isso não é apenas para desenvolvedores,
+Ei? Isto serve para qualquer pessoa, amigo.
+qualquer função. Obrigado, pessoal. UM
+abraço. Mais um vídeo para vocês,
+Ei? Ei, me siga, me siga
+Também no Instagram, ative o
+Toque o sino aqui, comente, compartilhe,
+Fazer tudo o que precisa ser feito.
+estou aqui para impulsionar minha presença no YouTube e
+Me ajude nas minhas redes sociais.
+Outra coisa, se você tiver alguma dúvida ou preocupação,
+Envie-os, vamos trocar ideias.
+Vai ser ótimo, vai me ajudar muito.
+bastante. Minha capacidade criativa funciona
+É melhor quando tenho pessoas por perto.
+questionando-me, ou insultando-me, ou
+me perguntando algo. Tudo certo?
+Obrigada, um abraço.

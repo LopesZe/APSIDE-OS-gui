@@ -1,0 +1,551 @@
+É assim que eu tô fazendo dinheiro com
+inteligência artificial. É assim que eu
+tô ensinando os meus alunos a fazer
+dinheiro com inteligência artificial. E
+agora eu vou ajudar você nesse vídeo
+aqui. Então a gente vai falar sobre a
+grande oportunidade que a gente tem em
+criar IAs verticalizadas, ecossistemas
+de IA verticalizados para atender as
+micro e pequenas empresas no Brasil. A
+gente tá falando de um um mar de mais de
+9 milhões de empresas. Empresas que
+faturam ali em média 100.000 por mês,
+vai de 50.000 por mês para cima que você
+já consegue atender e ganhar dinheiro e
+fazer dinheiro, tá? Mas tem um ponto
+aqui, ó. Se você tá vendendo automação e
+acha que vender automação é o que dá
+dinheiro, vender chatbot é o que dá
+dinheiro, vender ferramenta é o que dá
+dinheiro, a ideia desse vídeo é mudar a
+tua mente, porque isso não dá dinheiro
+para ninguém. Isso aí é dinheirinho de
+pinga, entendeu? Agora, se você
+realmente acha que esse é o caminho para
+você, já pode sair do meu vídeo, porque
+o meu vídeo não é para você. Meu vídeo é
+para quem quer fazer aí faturar 1 milhão
+no ano, 2 milhões no ano. Esse vídeo é
+sobre isso, é sobre esta oportunidade.
+Bora começar. Antes, muito prazer. Meu
+nome é Kelvin, eu tenho 33 anos. Eu sou
+um programador empreendedor serial.
+Fundei a General Clans, uma das
+principais insurtecs do Brasil em 2015.
+No último vídeo perguntaram que que é
+uma insurtec. É uma empresa de
+tecnologia nichada por mercados seguros.
+Insure de insurance technology. Então,
+uma empresa de tecnologia. Eh, vendi
+50.1% 1% dessa empresa em 2022. Vendi o
+restante, fiz o meu exit agora em 2025 e
+agora eu tô à frente da Acelera 360.
+Acelera 360 é uma escola de
+empreendedorismo totalmente hand zone.
+Então lá eu ajudo você a tirar sua ideia
+do papel e se você já tinha uma empresa,
+eu te ajudo a escalar o teu faturamento
+com tecnologia. Se você quiser saber
+mais da Acelera, o link tá aqui na
+descrição desse vídeo. Agora vamos falar
+sobre oportunidade porque eu vou falar
+para vocês, hein. Deu trabalho para
+fazer esse vídeo aqui, hein? Estudei,
+rapaziada, estudei. Então, a gente vai
+falar sobre essa grande oportunidade.
+Como que surgiu a ideia desse vídeo? Eu
+cons muito conteúdo na gringa e eu vi
+esse vídeo do Ben Ai e ele faz uma
+comparação entre a oportunidade de
+criar, ó, The Boring AI Niches Making
+Millionaires em 2026. Qual que que que
+ele faz? Tipo, nichos chatos, né? Tipo
+nichos de chatos que estão fazendo
+milionários em 2026. e ele analisou um
+cenário americano, mas olha como isso é
+replicado, porque é mundial, na verdade,
+né? Replicado não é mundial, porque aqui
+a gente tem esse mesmo cenário. É isso
+aqui que eu bato no meu canal há muito
+tempo sobre verticalizar infraestruturas
+de crescimento com IA para nichos
+específicos. Então, para clínicas
+odontológicas, clínicas médicas,
+clínicas de estética, óticas, eh lojas
+que vendem colchão, pet shops, eh
+clínicas veterinárias, eh cuida eh
+empresas de healthc em geral, que cuida
+de idoso, eh indústrias de pequeno
+porte, indústria têxtil, indústria
+química. Cara, assim, existe um mar de
+oportunidade porque essa galera, muitos
+ainda nem estão digitalizados, que é com
+a informação num sistema online e
+principalmente agora que a gente tá
+entrando numa área da automação, eles
+estão muito distantes. Eles precisam não
+de uma automação simples, mas de uma
+solução que digitalize o processo, que
+automatize o processo, que faça eles
+ganharem escalas. E quando a gente tá
+falando de tamanho de mercado, de
+oportunidade, ó, deixa eu explicar para
+vocês. São mais de 9 milhões de empresas
+no Brasil, 40% delas tá falando que tá
+utilizando inteligência artificial. Só
+que assim, eles estão usando o chat EPT.
+Esses caras não estão usando a IA como
+se fosse um empregado, como se fosse um
+funcionário. Por quê? Porque as LLMs
+hoje apoia eles na geração de documento,
+na geração de texto, em escrever e-mail,
+em disparar esses e-mails, em analisar
+algum contrato, só que elas não estão
+nichadas. E quando a gente tá falando de
+LLM, a LLM tá focada em ser generalista.
+Os caras lá tão, focado em criar
+uma estrutura que atenda o mundo todo.
+Então eles estão criando algo
+generalista. Agora é da sua função, se
+quiser surfar a onda da inteligência
+artificial, pegar tudo isso e nichar,
+especializar, verticalizar e atender um
+determinado público da melhor forma
+possível, fazendo essa, esse seu
+cliente, esse seu público ter mais
+faturamento, mais margem e mais escala,
+porque essa é a linguagem do empresário,
+tá? Então, olha que legal isso aqui, ó.
+No estudo panorama IA das empresas
+brasileiras, 58% dessas empresas que já
+utilizam o IA ainda estão em estágio
+inicial. O que que significa isso? Estão
+testando a IA, tão tão fazendo
+videozinho besta no VO3, tão usando o
+Hey Jane para fazer avatar e brincando,
+tão usando chattida.
+Saca, cara, isso não é nada. 34% tá num
+nível intermediário. Então essa galera
+aqui é o que realmente começou a colocar
+um chatbotzinho vagabundo ali no
+WhatsApp e 8% se considera avançado, tá?
+A pausa nesse vídeo para te convidar
+para participar comigo no dia 17 e 18 de
+novembro online na minha imersão chamada
+Desafio 30K. Lá eu vou te ensinar como
+faturar R$ 30.000 um contrato, um único
+contrato de R$ 30.000. E eu vou te dar
+um mapa claro do que você tem que fazer.
+Então o seguinte, você que tá vendendo
+N8N, chatbote a gente. Você que não
+conseguiu fechar nenhum contrato de
+30.000, lá eu vou te ensinar a como
+fazer o diagnóstico estratégico de um
+nicho, entender as dores, os principais
+gaps, a formular uma proposta, uma uma
+proposta de valor e a vender. Eu vou te
+ensinar a fazer essa venda porque eu
+quero que você entra na acelera,
+Então eu vou fazer você fazer dinheiro,
+tá bom? O link do desafio tá aqui na
+descrição desse vídeo. Agora bora
+continuar. Vamos. E olha que dado
+só 7% das empresas brasileiras conseguem
+mapear retorno sobre a inteligência
+artificial. E é esse dado aqui que tem
+que te abrir os olhos. Por quê? Todo
+mundo que vem de A, como de forma
+terceirizada, ou até mesmo times
+internos de tecnologia em grandes
+empresas que estão desenvolvendo IA,
+eles não estão focados na IA no
+business. Eles não estão focados em
+fazer a empresa faturar mais. Eles não
+estão focados em fazer a empresa ganhar
+escala. Eles não estão focados em fazer
+a empresa ter margem. A maioria tá
+focada em simplesmente falar que, ah, eu
+estou implementando inteligência
+artificial no meu processo. O nível de
+maturidade é muito baixo. O nível de,
+principalmente, de quem cria essas IAs,
+eles não têm nível de maturidade de
+negócio para olhar na IA como uma
+ferramenta de escala, de venda, de criar
+uma máquina de vendas. E se você
+assistir todos os meus vídeos, você vai
+ver a proposta que eu digo da
+infraestrutura de crescimento com
+inteligência artificial, que é
+especificamente isso, tá? Outro ponto,
+de acordo com as pesquisas recentes da
+Abrívia na Exame, que foi feita em
+novembro de 2025, muitas organizações
+digitalizaram os processos, que é aquela
+primeira fase, implementa, por exemplo,
+um click, um PipeFi ou contrata até
+mesmo um RP e coloca o processo de forma
+digitalizado. Isso já foi. Só que eles,
+ó, não têm estrutura para utilizar IA de
+forma estratégica. De novo, o que que é
+usar IA de forma estratégica? aí ia
+trazer um conceito de AI first, que é
+você olhar o processo e falar: "Cara,
+aqui esse processo a gente tem que mudar
+porque ele numa visão de inteligência
+artificial vindo no cerne da operação,
+esse processo não pode funcionar mais
+assim. O processo ele foi desenhado para
+trabalhar com gente e agora a gente tá
+falando que a gente pode substituir
+gente. Esse é o conceito principal do da
+inteligência artificial das das LMs.
+Esta é a oportunidade que nós temos,
+Kelvin. Mas até agora eu não entendi,
+cara. Como que eu consigo empreender com
+isso? Como que eu consigo fazer dinheiro
+com o IA desse jeito? É muito simples,
+cara. É só você chegar com essa visão,
+uma visão de negócio e de IA juntas e a
+mais negócio aliado a trazer resultado.
+É aquilo, é se eu vou criar, se eu vou
+implementar IA numa área de vendas, por
+exemplo, o que que eu tenho que fazer,
+cara? Eu tenho que não é só ir, não é só
+colocar o chatbot para atender, é
+colocar o processo alinhado com a
+inteligência artificial, é desenhar um
+funil de vendas mais adequado, é
+desenhar uma IA conectada no WhatsApp
+que realmente seja humanizada e que faça
+qualificação, que faça o lead scoring do
+lead, que faça conversão daquele lead
+para jogar no Macau ou para fazer a
+venda direta, que faça depois a nutrição
+daquele lead, que pegue a base de leads
+daquele cliente e converta ela, aqueça
+ela com foco em fazer uma conversão
+daquele cliente.
+Isso é uma IA desenhada para atender um
+um uma área de vendas e que dá
+resultado, entenderam? E isso tudo
+atrelado a um bom CRM para dar suporte
+para vocês. Essa é a oportunidade,
+entendeu, cara? Que clínica de estética
+que você conhece que tem um processo de
+vendas desenhado para atuar com
+inteligência artificial, que tem um
+funil de vendas decente? Cara, os caras
+só sabem colocar dinheiro e tráfego
+pago, gerar leads e, cara, pega aqueles
+lead que estão prontos para comprar e
+converte. isso tem uma
+oportunidade absurda, entenderam?
+Pesquisa aí na internet a insatisfação
+que as empresas têm com agências de
+marketing. Você vai ver, você vai ver.
+Todo mundo quer vender. Entenda uma
+coisa, toda empresa quer vender, mais
+todo empresário quer faturar mais. Todo
+empresário quer, se ele pudesse mandar
+todo mundo embora, ele mandava todo
+embora. Todo mundo embora e ficava só
+com o dinheiro. Então agora é a chance
+que você tem de fazer esta automação de
+forma vertical.
+Agora você entendeu a oportunidade que
+eu tô falando, começou a clarear um
+pouco mais sobre o que você pode fazer.
+Talvez você fala assim: "Kelv, eu não
+sei como fazer isso. Eu ainda tô no
+fluxo de N8N. Eu tô fazendo ali meus 5,
+6, R$ 10.000 por mês. Eu não consegui
+romper ainda. É por isso que no dia 17,1
+eu vou fazer o desafio 30k. Você acha
+que você, você acha que com o meu
+direcionamento você consegue fazer R$
+30.000?
+Eu não acho. Eu tenho certeza. Então, ó,
+o link tá aqui na descrição desse vídeo.
+Vou fazer um evento, ele vai ser online,
+vai ser uma imersão, vai acontecer
+segunda e terça, dois dias, onde eu vou
+te apresentar as reais oportunidades e
+literalmente um passo a passo do que
+você tem que fazer para escolher o teu
+nicho, diagnosticar os gaps desse nicho,
+desenhar uma ferramenta, uma solução que
+permita você cobrar muito mais do que
+você tá cobrando hoje aí, vendendo seus
+agentes, vendendo as suas automações,
+vendendo implantação de chatwood,
+vendendo implantação de CRM. Cara, sai
+dessa linha, ó. Se você acha que com o
+meu direcionamento você consegue romper,
+eu quero você comigo no meu desafio.
+Clica aqui, porque eu te literalmente te
+desafio a bater R$ 30.000 só se você
+realmente não quiser tá lá comigo,
+porque com o mapa que eu vou te entregar
+nesse evento, nessa imersão, não tem
+como você não ter resultado, tá? E eu
+fiz questão de colocar ele a R9,90,
+cara, se eu não me engano, deve estar
+nesse lote agora, no segundo lote. Vai
+ser semana que vem, segunda e
+terça-feira. Vai acontecer das, se eu
+não me engano, das 18 horas. 18 horas,
+produção. 19 horas. Começa às 19 horas
+da noite. E a gente vai até que horas,
+Adriano? Até as
+&gt;&gt; até às 22, 23 horas, cara, de puro
+conteúdo bruto,
+&gt;&gt; direto ao ponto, hein? Clica aqui e
+garanta seu ingresso agora pro desafio
+30k. Fechou? Então você, ah, para você
+que tá em dúvida ainda, se quer entrar
+na acelera, ah, se prender é para mim,
+vem pro meu, pra minha imersão, deixa eu
+te mostrar a real oportunidade, deixa eu
+esclarecer, eu vou direto ao ponto e vou
+fazer pá p pa pá, caminho claro para
+você só seguir. Fechou? Agora vamos
+voltar aqui na nossa grande
+oportunidade, tá, Kelvin?
+Putz, eu entendi, mas cara, como que eu
+empreendo, né? Será que faz sentido
+mesmo isso? Ó, deixa eu te mostrar aqui
+alguns outros dados, tá? Isso aqui é um
+dado que a gente pegou. Olha que
+loucura, ó. A questão do da inteligência
+artificial, ela tá tão forte que 71% de
+todo o capital de investimento dos vent
+capitals tá sendo destinado a investir e
+a ser investido em empresas que estão
+nichando as suas a sua tecnologia e a em
+criação de inteligência artificial ou
+modelos de LLM e até mesmo empresas que
+estão usando LLM, mas estão vindo
+nichadas para algo específico. Olha isso
+daqui, ó. Isso aqui é um um oinator é um
+dos principais fundos de investimento do
+mundo. E aí eles liberam lá as empresas
+que eles investiram. Se liga nessas
+empresas aqui, por exemplo, Paris AI.
+Eh, ela é uma plataforma única que os
+corretores de imóveis comerciais
+precisam para todo o fluxo de para todo
+o seu fluxo de trabalho, desde a
+prospecção de cliente até o fechamento
+de negócio e tudo. É um CRM específico
+para corretora de imóveis com
+inteligência artificial. Essa o Bento
+saúde aqui, ó, Bento Health, então ela
+tá redefinindo a experiência de CRM para
+vendas na área médica. De novo, CRM com
+inteligência artificial.
+Nichado, nichadado. Vem culpar. Eu sei o
+que eu tô falando, gente. Eu tô fazendo
+isso, entendeu? Isso é real. Tem aluno
+meu que já bateu mais de 150.000 em
+faturamento e começou esses dias a
+vender, cara, infraestrutura de ar. Não
+tem como, gente, vocês não conseguirem
+ter resultado nichando e desenhando uma
+máquina de vendas nichada com
+inteligência artificial e atacando o
+mercado. Cara, vocês não tm noção, pô.
+Pô, é só se olhar as agistas de market
+estão tudo desesperado.
+Então assim, se você entrar lá no I
+Combinator e olhar as empresas que essa
+galera tá despejando dinheiro, vocês vão
+ver que eles estão todo mundo e a
+nichada, nichada, e a nichada,
+entenderam? Tá, Kelvin, mas eh qual que
+é a dor principal, cara? Cada nicho tem
+a sua dor, mas todas elas basicamente
+trafegam dessas daqui, ó. Isso aqui eu
+fiz um mapeamento geral de dois do
+pequeno eh eh e microempreendedor em
+geral, tá? Então vamos vamos falar aqui
+o que que eles têm. Primeira coisa, todo
+empreendedor tem e toda empresa empresa
+tem falta de eficiência operacional,
+operação muito manual, problema com
+performance em equipe, processos que são
+feitos sem e ninguém sabe o porquê. Tipo
+assim, a empresa veio crescendo,
+crescendo, crescendo, o cara começou
+faturando 50.000, depois foi para
+100.000, depois foi para 200.000 por mês
+e ele nenhum momento parou para revisar
+o processo dele. Então ele tem processos
+que são muito ineficientes, tecnologias
+de defasadas. Então, tipo assim, esses
+no bom do SAS surgiam muito SAS inchado,
+só que esses SAS pararam no tempo,
+entendeu? Então são SAS que, tá
+lá digitalizando o processo, mas não tá
+ainda automatizando.
+E aí a gente tem muita oportunidade.
+Outro baixo retorno sobre investimento
+em marketing e vendas. A maioria deles
+traz cliente através de tráfego pago,
+logo eles não conseguem ver um resultado
+efetivo, tanto em campanhas de tráfego
+pago e principalmente na conversão. E às
+vezes o problema não tá nem na campanha
+e sim tá no processo de vendas. Não é só
+colocar dinheiro e tráfego pago que vai
+vender. E aqui a gente entra com uma IA
+forte, focada em vendas. E isso traz
+resultado rápido, resultado consistente.
+Tanto que se você olhar para as
+principais empresas que o I Combinator
+tá investindo, a maioria é focada na
+parte de vendas. Por quê? Porque vendas
+traz resultado rápido e e principalmente
+resultado tangível pro cliente. O
+cliente consegue tangibilizar, não é só
+um lead, é literalmente uma venda que tá
+acontecendo.
+Eles têm dependência em tomadas de
+decisão que são 100% intuitivas. Então
+assim, a informação deles não é baseada
+em dados. Então como que você consegue
+resolver isso? Cara, um BI, um
+analyticos, um banco de dados com Power
+BI, mais uma IA ali para ajudar a gerar
+relatórios, a tomar decisões, a fazer
+uma um planejamento estratégico pro
+próximo ano, pro próximo trimestre,
+análise de metas. nicho também baixa
+margem de lucro. Então, empresas de
+serviço tem a maioria tem margens
+inferiores a 25%. A média do mercado é
+de 20 a 30%, gente. É um absurdo. Isso
+não é margem, velho. Isso aí é o
+seguinte, cara. De 1 milhão que o cara
+fatura, sobra 200.000 no caixa no final
+do ano, no ano inteiro. Olha que
+loucura. extremamente baixo, um valor um
+valor irrisório, falta de diferenciação
+no mercado. Então assim, de um player
+pro outro, de um prestador pro outro, a
+diferença geralmente é preça. Eles não
+têm diferencial competitivo nenhum.
+Agora, quando você traz processo de
+vendas, quando você traz uma máquina de
+vendas com inteligência artificial, aí a
+coisa começa a mudar. baixa retenção de
+clientes. Eles não fazem, eles não têm
+braço para ficar fazendo nutrição de
+clientes que tá na base. Eles não têm
+braço para ficar mandando mensagem ou
+notificando o cliente ou mandando
+informação, informações relevantes,
+nutrindo aquele cliente com informações
+para que ajude o cliente a gerar essa
+conexão com a operação deles. Logo, os
+clientes ficam abandonados. Logo aí o
+cliente troca ali por qualquer outro que
+faça isso ou por preço, simplesmente
+isso, entendeu? baixa ou quase zero
+retrabalho na base de clientes. Os caras
+só sabem vender, mas não sabem revender.
+Não sabe fazer upscell, não sabe fazer
+crossell, não sabe fazer downell. Depois
+que vende, não tenta vender novamente
+pro cliente. Deixa eu te contar uma
+coisa, é muito mais barato você vender
+para quem já comprou de você do que você
+conquistar um lead novo e fazer a venda.
+É extremamente mais barato. E aqui, para
+ser sincero, a minha principal fonte
+hoje de receita. Toda vez que eu coloco
+um processo de vendas e faço esse
+retrabalho de base, é onde eu consigo
+cobrar os meus melhores contratos,
+porque aí eu cobro por sucess free, eu
+cobro pelo pel aquilo que eu gero de
+resultado, retrabalhando a base daquele
+cliente. E com IA você consegue fazer
+isso sem ter a necessidade de ter um
+trabalho bração. Então assim, se você
+parar para analisar dessas dores aqui,
+ó, a maioria ela tá situada aqui, ó,
+oferta, marketing vendas. Kelvin, mas e
+o pós-vendas e e o delivery? Cara, eu
+geralmente não foco minha energia aqui,
+porque o pós-venda, quando eu toda vez
+que você foca no pós-venda, você
+consegue trazer otimização de processo.
+Só que o cliente não liga muito para
+isso, sabe? Ele quer mais faturar mais,
+ele quer colocar mais dinheiro no bolso,
+mas sim, tem uma de uma
+oportunidade. E aí vai muito da
+estratégia. Olha que louco. Se você
+olhar nos pilares, você tem tanta
+oportunidade quanto na venda, quanto no
+pós-venda. Só que o pós-venda vai mais
+energia do que a venda. A venda você
+consegue padronizar, você consegue só
+com processo de venda já trazer um
+resultado muito efetivo. E aí quando
+você coloca i o negócio faz meio que
+exponencializa, faz assim, ó. Tuf, isso
+é muito bom, tá? E o que que a galera tá
+vendendo? assistente virtual, gestão de
+tráfego, ah, coloca marketing, ah, deixa
+fazer uma consultoria, entender o seu
+processo, sendo que você deveria estar
+focando em vender uma infraestrutura,
+uma infraestrutura de crescimento com
+IA. Ó, no desafio 30K, é isso aqui que a
+gente vai falar, tá? O mapa é para você
+vender a sua infraestrutura, sabe? Se
+você ficar nessa esfera aqui, conta para
+mim como que você consegue romper.
+Porque, cara, o segredo não é você ter
+um volume absurdo de cliente no começo,
+você não precisa escalar, você precisa
+se pagar, sobrar dinheiro, que ter fluxo
+de caixa para você dar o seu próximo
+salto e você consegue fazer isso
+implementando uma infraestrutura de
+crescimento com IA. Fez sentido? Eu sei
+que fez, galera. É isso, ó.
+Oportunidade de hoje, literalmente.
+Bora, gente. Vocês t que entender essa
+possibilidade. Se você quer empreender,
+tá aqui o canal. Você que é programador
+e não sabem do que fazer, tá aqui o
+canal. Ah, mas e microsas e isso, cara.
+Esquece tudo isso aí. Foca em conseguir
+os seus primeiros clientes com
+infraestrutura de crescimento, com IA,
+conseguir um ticket alto de implantação.
+Isso aqui você consegue implantar de de
+valor de implantação, você consegue
+implementação, você consegue cobrar
+30.000, 40.000. Em recorrência, você
+consegue cobrar 3.500. Com 16 clientes
+nesse ticket você consegue fazer 15
+milhão de faturamento em 2 anos. É muita
+grana. É muita grana. Dá para fazer. Dá
+para fazer porque tá validado. Eu tenho
+aluno que tá fazendo isso aí. Agora é a
+sua chance. Beleza? Espero que você
+tenha curtido meu vídeo. Ó, te espero no
+meu desafio 30k. Vamos, vamos fazer os
+seus primeiros 30.000 empreendendo com
+inteligência artificial. O link tá aqui
+na descrição desse vídeo. Se você
+gostou, comenta aqui. Já dá seu joinha,
+dá seu like. Não gostou, dá dislike
+também. Não assiste mais. Já me bloqueia
+aí, também. E tá tudo bem. Vamos
+para cima, rapaziada. Bora empreender,

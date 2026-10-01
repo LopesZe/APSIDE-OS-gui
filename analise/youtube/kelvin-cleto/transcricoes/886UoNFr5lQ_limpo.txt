@@ -1,0 +1,567 @@
+fala Dev empreendedor nessa videoaula eu
+vou te ensinar a fazer um
+chatbot integrado com chat CPT para
+fazer todo fluxo de venda por exemplo eu
+vou criar o meu chatbot aqui mostrando
+para vocês em tempo real usando o cursor
+o cloud sonet
+3.7 vou usar vou fazer ele em node e vou
+usar uma ap da Venom é uma uma Lib da
+Venom chamada Vena vocês vão conhecer eu
+vou mostrar já já Mas qual que é o
+objetivo vou criar um SDR para me ajudar
+nas vendas e na recuperação de carrinho
+lá da escola do Dev empreendedor
+inclusive o código completo vai est
+disponível para todos os alunos e mais
+hein eu vou auxiliá-los a criar chatbots
+para vender então se você quer aprender
+a fazer o seu cola com nós link tá na
+descrição Bora vamos começar e para
+fazer essa implementação eu tenho duas
+opções eu posso usar a ap oficial do
+WhatsApp então direto na meta ou plugado
+na tuí né e ou eu vou fazer do modo raiz
+aqui do no modo poc eu vou usar essa Lib
+chamada orquestral Venom que ela foi
+escrita em node e o que que ela faz
+basicamente ela cria um um rapper um
+crawler um robozinho que lê o WhatsApp
+web Olha que legal gente ó ela lê o
+WhatsApp web ela também tá integrada com
+o telegram com o discord com super chats
+Ah e ela eu consigo manipular ali as
+mensagens é bem legal então é muito
+fácil então vou escrever um prompt aqui
+crie uma aplicação a node implementando
+alib orquestral Venom para criar um
+chatbot via WhatsApp vou mandar só
+isso eu ten que pagar mano vou
+pagar aqui e já volto Pera aí tá pago
+tive que pagar não consegui usar
+sem sem pagar Que merda hein isso aí já
+é ruim vou dar um Run aqui já Ah olha
+cara que legal então vou falar assim ó
+instalei o orquestral
+Venom implemente para mim um
+chatbot para o WhatsApp a
+simples ele vai criar index gerando
+gerando vamos meu jovem era mais rápido
+eu ter dado um cont control c cont
+control V agora vamos criar o script de
+package beleza criou
+para garantir arquivo esteja no lugar
+correto então cria criou agora você pode
+iniciar o bot usando comod olha é bem
+rápido Cara isso que é legal vou rodar
+aqui só para vocês verem Tá vou pegar um
+WhatsApp de teste porque daí vocês podem
+a gente pode simular aqui vai ser bem
+legal então Ó vou entrar aqui no
+WhatsApp tá vendo ó conectar dispositivo
+e vou ler esse q code aqui ó tô fazendo
+a leitura desse QR Code Olha que legal
+então agora ele tá conectando ó vai
+conectar eu vou colocar aqui
+ven PR
+testar Vou salvar salvei o dispositivo
+aí olha que legal aqui embaixo ele já tá
+conectado tá vendo aí agora T aqui no
+meu chat no meu WhatsApp mesmo vou
+mandar um oi pro Seu Madruga aqui ele
+tem que receber essa mensagem Ele já
+respondeu Oi como eu posso Olá como eu
+posso ajudar você então ele já mandou
+automaticamente essa mensagem
+provavelmente Peg aqui dessa configura
+que foi feita ó lá como posso já você
+vou escrever aqui menu logicamente que
+tá burro né tá tudo fixo aqui mas é
+mostrar para você ó lá menu de opções já
+tem o menu de opções Tá qual que é a
+grande sacada aqui gente e já tô
+conectado com o WhatsApp custo de api
+zero consigo publicar essa aplicação
+aqui em qualquer servidorzinho xelento
+que vai rodar e é muito rápido então
+assim eu vou testar a ferramenta deixa
+eu arrumar minha câmera aqui eu vou
+testar vou montar um
+SDR e cara simples fácil e rápido que
+que eu tenho que fazer aqui agora então
+vamos lá vamos pensar se eu quero
+estruturar um SDR inteligente para quem
+não sabe o que é um SDR é um agente de
+venda é uma pessoa que vende na verdade
+ela aquece né um lead ali ela tira as
+conversas iniciais ela não fecha ela
+gera o interesse no nosso cliente ou
+tirar dúvida e tudo mais esclarece tudo
+e depois ela joga para um closer mas
+aqui eu quero criar Qual que é a minha
+ideia eu quero criar literalmente um
+chatbot no WhatsApp totalmente
+inteligente e um SDR mais venda porque
+eu quero que ele venda também então qual
+que a ideia se ele vê detectar que o
+cliente tem interesse eu já quero que
+ele responda o seguinte ó Então tá aqui
+o link clica em comprar tô aguardando
+você pagar e quem sabe eu faço até
+integração com aqui Wifi para pegar o
+pagamento será que dá eu acho que dá
+vamos vamos seguir nessa essa nossa
+Aventura aqui com vocês Tá vou jogar
+aqui a tela inicial novamente vou
+centralizar aqui então eu já vou começar
+fazendo o seguinte eu tenho que conectar
+com o chat GPT Então já vou falar assim
+ó e esse chat bot estará
+conectado direto com o chat
+GPT então
+implemente o serviço do chat GPT para a
+conexão eu vou usar o chat GPT como a
+minha llm nesse caso tá vamos lá ele vai
+fazer a instalação ó ele não lembrou que
+ele não tem permissão ele vai fazer o
+instal da Open ai vamos ver
+Ah tá não já tava com sudor que legal
+bem interessante ele criou uma env
+perfeito para eu colocar a chave ótimo
+agora ele vai ajustar a index aqui eu já
+não gostei
+vamos modificar o código do bot para
+integrar com chat ept o que eu vou falar
+para ele é o seguinte ó você v Que ele
+vai colocar tudo dentro da index vai
+ficar aquele código gigante e aqui eu
+acho que a grande diferença de um
+programador eu vou aceitar essa opção
+dele para vocês verem o que ele tá
+fazendo então ele tá implementando aqui
+OK vou aceitar Ok tudo bem aí eu vou
+falar para ele o seguinte
+ó não quero ter toda a estrutura na
+vamos organizar esse projeto pois ele
+vai ser
+grande crie uma pasta de Services é
+implemente a estrutura do GPT dentro da
+Services então aqui eu já vou
+contextualizar o que eu quero também não
+vou criar uma complexidade absurda não
+faz nem sentido ele cria ver o que ele
+fe aqui vou ajudar você a reorganizar o
+projeto com estrutura mais escalável
+vamos criar umaa de Sep as
+responsabilidades ótimo Ele criou uma
+pasta chamada config handler tá
+handler legal aí ele implementou lá
+ok aí beleza ele usou ali
+show ele vai criar uma message handler
+vamos ver legal que ele tá fazendo
+aqui Já curti
+já beleza k preciso fazer isso não não
+precis ó ele tá vendo aqu ele tá vendo o
+que ele tá fazendo aqui ó que ele já tá
+fazendo uma nojeira que que ele começou
+que que ele fez aqui ó vamos olhar aqui
+o vou mostrar o código para vocês deixa
+eu fechar todas as abas e por isso que é
+importante a gente saber programar
+porque cara não isso aqui para mim que
+ele fez não faz sentido ó até aqui tudo
+bem ele criou a Instância do Venom ótimo
+aí ele viio aqui criou a service Ele
+criou a chat PT service tá genérica
+generate response manda mensagem tá
+configurado pro 3.5 turbo tá ok OK tá aí
+ele criou uma Messa de handler aqui que
+basicamente ó eu mando a mensagem e aí
+ele vê ele vê qual que foi o comando e
+não é esse Ó handle gring tipo não é
+isso que eu quero eu não quero que ele
+que ele faça desse jeito eu quero que o
+eu quero treinar o chat
+GPT para ser esse ter um agente GPT que
+seja o meu SDR mesmo que entenda tudo
+sobre o meu produto e cara o que ele vai
+fazer aqui é uma
+entre GPT e e WhatsApp é isso que eu
+quero sacou Então vamos vamos começar a
+deixar ele mais robusto para ele fazer
+isso então vamos começar aqui a melhorar
+nosso
+chatbot vamos lá como que eu vou
+escrever isso aqui para ele
+tá a inteligência do
+SDR de vendas
+ficará no
+GPT estamos usando o veno apenas como
+uma interface entre as mensagens do GPT
+e o retorno ao
+usuário que está no
+WhatsApp então não faz sentido a messag
+handler ajuste para esse
+cenário legal introduzi aqui o que que
+eu queria gente eu tô literalmente
+programando sem colocar a mão eu sou o
+Vibe code né que eles falam Vibe code eu
+não gostei muito desse nome de vibe code
+não sabe eu acho que é mais um prompt
+code um prompt programmer alguma coisa
+do tipo saca ó deixa eu ver se ele
+entendeu o que que eu quis dizer vamos
+Vamos ler aqui devagarzinho ã Cadê onde
+falei tá aqui ó você está certo se o
+bote essencialmente um SDR de vendas
+controlado pelo GPT podemos simplificar
+a estrutura removendo os comandos
+pré-definidos e focando na interação
+Direta com o GPT vou reorganizar o
+código para este cenário Primeiro vamos
+modificar o serviço do chat jpt para
+incluir o contexto de STR de vendas
+OK aí agora vamos simplificar o arquivo
+index Focar apenas na integração
+[Música]
+OK tá bom podemos remover o arquivo
+message handler já que não vamos mais
+usá-los ok
+remova agora a estrutura está muito mais
+focada E adequada para um SDR de vendas
+será de PTI será Vamos ver que que ele
+faz chat PT beleza ele chama service
+deixa eu ver a service primeiro aqui na
+constructor ele cria beleza aí ele dá um
+System prompt você é um
+SDR experiente e profissional seu
+objetivo é tal coisa
+OK conversation Parará
+conversation History o que que esse cara
+faz ele chama aqui conversations o que
+que é
+conversations tá ele manté memória
+OK tá ele mant óli de memória p p pá Ok
+temperatura e tá legal desse jeito que
+ele fez aqui vai funcionar vocês
+acreditam se se eu só eu vou colocar a
+chave do meu GPT aqui e vou mostrar para
+vocês bota para
+rodar pam pam P
+pam p p p
+p ó rodou
+Oi olá Como eu posso ajudar você hoje
+você é o chat
+GPT gente isso é muito legal
+né ó desculpe não sou o chat GPT sou um
+SDR development representative que aqui
+para ajudar atender suas necessidades e
+como nossos produtos serviços podem
+ajudar como posso ajudar você hoje Vocês
+entenderam que ele já tá conectado com o
+chat
+PT e aqui basicamente qual que vai ser a
+minha o meu
+trabalho configurar esse cara de acordo
+com as informações do meu produto na
+verdade eu posso usar eu posso treinar
+um agente específico e conectar esse
+agente aqui que eu acho que vai ser até
+mais fácil inclusiva eu vou tentar isso
+mas olha que facilidade para criar um um
+SDR eu vou deixar ele mais
+robusto deixa eu mostrar uma coisa para
+vocês Vocês estão vendo que aqui nesse
+código que ele gerou a conversa ele ele
+tá gerenciando todo o código então
+mantém todo o histórico de conversa por
+usuário fica registrado aqui nesse
+código significa que se eu reiniciar
+essa aplicação e subir ela de novo tudo
+isso aqui se perde
+eh é uma implementação
+simples e aí a openi ela tem um serviço
+específico que se chama conversation
+state Então ela faz a gestão do contexto
+da conversa então o que que eu vou fazer
+já que ela tá sendo gravada em tempo de
+execução eu vou falar para o seguinte ó
+quero isso é muito
+fraco quero que você
+implemente o conversation state da Open
+ai vamos manter o contexto da
+conversa lá na Open ai Lembrando
+que temos a questão de cada usuário ter
+o seu fluxo de
+conversas é possível eu vou perguntar
+até para ele ó é
+possível Vamos ver eu não queria
+implementar nenhum banco de dados mas
+acho que eu vou ter que meter um
+monginho malandra aqui hein sim é
+possível vamos usar os recursos de
+assist epi da Open para gerenciar as
+conversas de forma mais robusta
+persistente isso nos permite manter o
+contexto das conversas do lado da Open
+para cada usuário perfeito ó primeiro
+Olha que legal eu tô criando vou criar
+um chatbot inteiro aqui sem colocar uma
+estrutura de banco de dados Cara isso é
+muito
+louco que que esse cara aqui Ah tá
+beleza para fazer as chamadas rest Ok
+vamos
+implementar E aí ele já vai começar a
+fazer implementação de novo gente olha
+isso aqui olha que doideira Eu não eu
+não tô escrevendo uma linha é o tal do é
+vibe code que fala né
+prático só que é muito importante você
+saber programar e saber ler o que tá
+fazendo eu poderia construir isso aqui
+sem saber programar nem nada mas isso ia
+ficar um nojo ia funcionar no final das
+contas né então assim isso aqui é muito
+inclusivo é literalmente um é bem tipo
+no code mesmo sabe só que escrevendo
+código por prompt Mas você saber
+programar permite você estruturar de uma
+forma mais inteligente esse sistema
+então assim Ah quer dizer que não prisa
+mais programar não precisa sim pelo
+contrário Você precisa aprender a
+programar Ah eu sou no code eu faria
+usando outra plataforma não tem problema
+mas eu sinto que eu tenho muita mais
+velocidade desenvolvendo o código do que
+arrastando caixinha código com o ia traz
+mais velocidade do que constução por
+caixinha isso aqui é fato ó ele já fez a
+implementação vamos ver o que ele fez
+aqui ó deixa eu deixa eu entender o que
+que ele fez vamos refaturar o serviço de
+chat para usar o
+assistant Beleza agora vamos simplificar
+o arquivo para usar o novo serviço as
+principais mudanças uso do assistente
+criamos um assistente persistente na
+Open a com o contexto de SDR o
+assistente mantém o seu próprio estado e
+contexto cada usuário tem sua própria
+thread de conversa gerenciamento de trad
+cada usuário do WhatsApp tem uma trad
+única da Open ai ó que legal então ele
+tá criando uma trad única por usuário
+então cada usuário vai ser independente
+lá dentro lá dentro a trad mantém todo o
+histórico da conversa de forma
+persistente ótimo o contexto é mantido
+pela própria não e mas não em memória
+perfeito o histórico não é mais mantido
+em memória não há limite artificial de
+mensagens o contexto é mantido ok ele
+implementou tudo aquilo que eu queria
+como que ele fez isso vamos ver aqui ó
+Open Beta assistant Create então ele
+primeiro ele consulta verifica se já se
+se esse assistant já
+existe só que como que ele sabe tá deixa
+eu só verificar o código too aí ele cria
+o assistante aqui
+assistent ID é igual esse assistant aqui
+initialize assist Create Ah entendi ó
+ele tem ele cria o assistente e aqui ele
+cria a thread por usuário Get your
+created trad vamos ver onde ele chama
+esse caraá não chama aqui embaixo a hora
+que ele gera resposta ele verifica qual
+que é oad ID pelo user ID quem que esse
+user ID é o userid do Zap do WhatsApp
+aqui ó é o from é de quem ele no caso
+aqui é o telefone entenderam cara muito
+louco muito louco muito louco e eu
+consegui fazer essa leitura porque eu
+sei programar tá vendo show de bola show
+de bola cara isso aqui abre muito a
+minha cabeça para
+construir Olha só para vocês entenderem
+ã construindo isso eu depois
+simplesmente se isso aqui funcionar
+escalar eu vou eu posso ir pra api
+oficial aí eu simplesmente substituo o
+Venom pela api oficial mas o
+processamento da mensagem ele tá aqui
+dentro dessa service ó entenderam muito
+prático e a Open ai tá fazendo tudo
+poderia colocar aqui para registrar no
+banco as mensagens eu poderia deixar
+isso aqui muito mais robusto mas não faz
+sentido para essa pzinha e você vai
+poder testar essa po mandando um número
+um oi aí ó pro Seu Madruga tá ele tá
+aqui no ele tá aqui no WhatsApp o número
+de WhatsApp tá aqui embaixo então testei
+de novo aqui o nosso SDR o Seu Madruga
+tá funcionando de boa e eu vou fazer
+mais uma alteração nele que é a seguinte
+ó eu não gosto disso aqui por exemplo eu
+não quero deixar o treinamento Cadê onde
+que tá que que tem aqui em config Open
+ai não não tem mais
+nada aqui tá aqui minimizado ó eu não
+quero deixar o script aqui então vou
+fazer o seguinte
+ó vamos fazer mais uma alteração
+eu quero criar um
+arquivo de
+markdown para configurar o aente que que
+é markd tá só para vocês
+saberem cara é quando é como se eu
+colocasse algumas marcas nesse texto
+aqui
+ajudar treinar o meu agente de uma forma
+melhor para ele entender melhor os
+contextos tá aí geralmente ela trabalha
+melhor com isso então eu quero criar um
+arquivo de de markd para configurar
+o as informações
+iniciais desse
+agente na linha que linha que é
+18 onde criamos o
+assistente quero que você leia esse
+arquivo para carregar as informações
+para a
+Api para criar o agente só isso nossa
+meus PRP são uma merda né mas olha como
+que ele entende bem vamos ver se ele vai
+ele vai Lógico que ele vai entender isso
+aqui simples simples simples simples ó
+lá ótima ideia vamos criar arquivo de
+configuração markd ó lá ó ele criou um
+arquivo agente
+config.md que lindo
+cara gente você vocês sabem o poder
+disso aqui depois eu vou converter isso
+aqui para Nuvem de Agentes Porque daí eu
+vou criar um SDR vou criar um suporte
+vou criar um atendimento E aí mandou um
+oi ele perguntar o que que você precisa
+ele vai entender a necessidade e vai
+direcionar para um agente específico Mas
+isso não vai ser para esse vídeo Vamos
+focar só no agente SDR um agente pra
+venda Ok então ó markd parce beleza ele
+implementou um parce Por que que ele fez
+isso Ah tá só para ler o arquivo Ó que
+legal beleza é
+isso
+implementou configuração externa todas
+as configurações do agente ficam aqui
+olha que lindo agora gente que que eu
+vou fazer eu tenho que treinar meu
+agente E como que eu vou treinar o meu
+agente eu vou usar o próprio chat GPT
+para treinar o meu agente porque eu tô
+com preguiça de escrever esse script
+gigante eu vou ter que ensinar ele a
+vender é isso que eu vou ter que fazer e
+é isso aí galera agora é 9 horas da
+noite fui a jantar com a minha esposa
+mas agora voltei eu dei um tapinha nele
+para deixar ele mais humano cara o
+resultado agora é bizarro Então vamos
+rodar o
+chatbot vou deixar o log aqui dele então
+ele rodou tá logado beleza tá subindo as
+instâncias t t tã carregou Ótimo vamos
+lá Opa você tá por aí eu mandei um áudio
+para ele aqui
+ó olha que legal agora ele foi lá
+converteu o áudio processou transcreveu
+aí agora ele vai me responder então eu
+integrei já no chatbot a possibilidade
+de áudio e eu adicionei não só para ele
+vender mas para ele me dar suporte
+também caso seja necessário e Ele
+identificou quem é meu contato olha que
+louco mano olha isso aqui ó fala kelv
+tudo suave T na área Sim manda real no
+que eu posso te ajudar hoje cara eu tô
+com um problema aqui para acessar a
+plataforma do Circle a plataforma da
+escola será que você pode me
+ajudar ó cara isso aqui é é bizarro
+ó já
+transcreveu
+ah Kelvin que momento que você adicionou
+a transcrição pessoal eu deu um pause
+aqui mas eu
+gravei esse conteúdo completo Isso aqui
+vai est disponível lá pros alunos da
+escola do Dev empreendedor mas ó se liga
+foi tudo usando o chat e e aqui o código
+ó todo estruturado simples fácil e vocês
+podem ter acesso isso a isso se vocês
+entrarem lá na escola do Dev
+empreendedor ou que eu já forneci aqui
+para vocês de conteúdo gratuito já tá
+bastante né Então olha isso aqui que
+legal fala tudo bom Bora resolver esse
+problema que que tá rolando exatamente
+se for senha tenta redefinir e me diz se
+deu certo se continuar dando ruim manda
+mais olha que louco gente a não eu
+resolvi aqui já cara seguinte eh Quais
+são os planos que a escola tá oferecendo
+hoje gente tá Olha eu acho que eu
+criei um Ele parece humano Parece
+gente ficou muito tudo tudo tudo
+foi feito treinamento usando toda a
+estrutura da Open ai mas o Venom o Venom
+ele tá tá emulando igual expliquei para
+vocês mas depois se eu se isso aqui
+passar pela minha validação né eu vou
+publicar agora Inclusive eu vou deixar
+esse número do chatbot aqui do seu
+Madruga SDR aí para vocês se vocês
+quiserem pode chamar el e testar vocês
+mesmo e se vocês quiserem o código fonte
+qu para dentro da escola e vamos fazer
+acontecer só o que eu fiz aqui já vale o
+preço desse curso hein ó lá hoje a gente
+tem dois planos principais acesso
+completo e o modo explorador massa né
+Curtiu algum em
+especial seguinte eu compro se você me D
+um desconto
+para fechar agora tem
+desconto se liga nisso aqui gente ó eu
+eu configurei ele até inclusive com uma
+política de desconto então ele vai
+analisar imagina as aplicabilidades que
+você pode ter com uma ferramenta dessa
+para você vender saca para você vender
+isso aqui é absurdo isso aqui é absurdo
+absurdo absurdo absurdo custo baixo dá
+para ter
+ó ol Olha isso aqui ó se é para fechar
+agora rola um Descontão sim olha 30% off
+usando o cupom 30 Madruga no plano anual
+cai de 1997 para 1397 então ó se você
+quiser fechar aí o plano ó tá aqui o
+desconto já tá na mão é só você cair
+para
+dentro isso aqui tem milhões de
+aplicabilidades para você e aí você viu
+a aplicabilidade é bizarro não é é isso
+gente você imagine o para nossa o quanto
+você consegue aplicar isso aqui no
+mercado Isso aqui é altamente vendável
+se você gravar um vídeo desse negócio
+funcionando Você viu como ele ficou
+humano Você viu como ele ficou a
+qualidade que ele ficou é absurdo é
+absurdo
+entenderam Então é isso esse é o vídeo
+de hoje Falou seus cachorros

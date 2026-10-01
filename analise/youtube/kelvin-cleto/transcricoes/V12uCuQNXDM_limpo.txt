@@ -1,0 +1,657 @@
+Se você tá querendo empreender com
+inteligência artificial ou tá pensando
+em montar alguma BU dentro do teu
+negócio para vender IA pro mercado e
+ainda não sabe nem qual nicho você pode
+utilizar, não sabe como estruturar a sua
+oferta, nem como precificar, esse vídeo
+aqui é para você. Tô num cenário
+diferente. Já estamos na casa nova, né,
+na nova acelera 360 e agora eu tô aqui
+no meu escritório. Tá tomando forma,
+galera, tá tomando forma. Mas vamos lá.
+Seguinte, nesse vídeo aqui eu vou, já
+escolhi o nicho, mas eu vou te explicar
+os motivos que eu utilizei para escolher
+esse nicho. Eu vou mostrar para vocês
+como que a gente calcula a precificação
+e depois como a gente estrutura todos os
+entregáveis para daí é só sair vendendo
+e correr pro abraço, tá? Para você que
+não me conhece, muito prazer, meu nome é
+Kelvin, eu sou um programador
+empreendedor serial, fundei a General
+Cleans em 2015, vendi ela em 2022, 50.1%
+1% dela em 2022. Fiz o meuite agora em
+2025 e agora eu fundei aera 360. Para
+você que não conhece a Celera 360, ela é
+uma escola de empreendedorismo rendão
+total. Então, se você quer tirar sua
+ideia do papel, se você quer começar a
+empreender ou se você quer escalar o teu
+negócio, a Acelera 360 é para você. Se
+você quiser saber mais da Acelera 360,
+você vai clicar no link aqui na
+descrição desse vídeo. Bora começar,
+então? Vamos lá, galera. Preparei o
+miruzinho aqui, ó. Ó,
+desenhando uma oferta de inteligência
+artificial de R$ 60.000 para a vertical
+de seguros. Primeiro passo, galera, por
+que que eu escolhi essa vertical, né?
+Por que que eu escolhi, na verdade, o
+mercado de seguros? Porque é um mercado
+que eu gosto muito, eu já conheço,
+montei a General Clance, que é uma
+Insuretec. Que que é uma Insurtec,
+Kelvin? Uma empresa de tecnologia
+voltada pro mercado de seguros. E é um
+mercado que cresce ano contra ano. É um
+mercado assim absurdamente ã um pouco
+antigo, um pouco não, muito antigo e
+ainda que cresce absurdamente. Então tem
+muito dinheiro lá. Eh, e qual o player
+que a gente vai apontar? Porque o
+mercado de seguros tem vários players, a
+gente tá tem seguradoras, tem
+reguladoras de sinistro, resseguradoras
+e por aí vai, inspetores, empresas de
+sid câncer. A gente vai olhar
+especificamente para as corretoras de
+seguro. Por que para as corretoras de
+seguro? Porque é ali que tá o dinheiro,
+que ali a a seguradora ela quer que ela
+quer vender cada vez mais seguro.
+Seguradora ela é o fabricante, ela que
+fabrica o seguro. E a corretora é a
+distribuidora do seguro, é a é a
+corretora de seguros que tem o papel de
+levar o seguro para o mercado. Então
+quem que faz maior energia de venda do
+seguro é a corretora. Então assim, isso
+já é um case pra gente implementar
+inteligência artificial, implementar uma
+infraestrutura de crescimento com IA. Eu
+vou explicar para você, se você tá me
+conhecendo agora e não sabe ainda o que
+que é uma infra de você já vai entender.
+E atacar esse mercado e criar uma oferta
+que seja altamente assim vendável, tá?
+Então quando a gente olha pro número,
+então vamos olhar assim quantas
+corretoras tem nesse mercado. Cara, a
+gente tá falando assim, ó, de corretoras
+CNPJ,
+a gente tem mais de 72.000 corretoras.
+Então olha que doideira. Se a gente
+atingir 0.01 01 desse mercado, a gente
+atende, a gente atinge 72
+corretoras. Se eu vender isso aí é um
+ticket de R$ 60.000,
+só de implantação a gente faz 43
+milhões. Então, olha que loucura, tem
+muito dinheiro na mesa. Deixa eu ver se
+é 43 milhões. Falei errado.
+Então, a gente consegue fazer criar um
+negócio que seja robusto.
+Kelvin, não sei qual nicho escolher. Tá
+aqui um nicho claro para você
+que eu vou fazer aqui hoje. Eu vou te
+dar proposta de graça de é só seguir
+aqui. A proposta de valor vai est
+montada, tá? E quais são os principais
+gaps do mercado de seguros? Por exemplo,
+eu conheço as corretoras, eu conheço já
+o processo. Agora, se você não conhece,
+como que você descobre? Fazendo um
+processo de imersão. O que que é
+imergir? entrar de cabeça no mercado,
+pesquisar para corretoras, cair nos
+funis da corretora, ligar pra corretora
+e tentar contratar um seguro. Aí você
+deixa de atender e ver se eles te
+retornam. Entrar no no YouTube e
+assistir vídeos de corretoras de seguro,
+buscar quais são os experts do mercado
+de das corretoras de seguros que estão
+falando na internet, ensinando as
+corretoras a vender mais e a crescer os
+seus negócios e copiando ali o os as
+dores que eles batem nas landes e nos e
+nos funis. E aí você vem estruturando e
+olhando, entrando em masterminds, em
+eventos de corretoras de seguro e e
+verificando no chat, por exemplo, o que
+que eles estão reclamando. Desse jeito
+você vai imergir no mercado e você vai
+começar a mapear as dores. As a
+corretora tem muita dor também no
+pós-venda, né, que é tipo no backoffice,
+nas áreas de backoffice. Mas não vamos
+olhar para isso, vamos olhar pra pro
+core business, que é a venda do seguro.
+A venda do seguro é muito importante pra
+corretora porque esse é o core business
+dela. Então, se a gente potencializar a
+venda deles, se a gente evitar que eles
+percam carteira de cliente, se a gente
+trazer mais faturamento para essa
+empresa, consequentemente,
+consequentemente nós vamos conseguir
+vender muito mais fácil a nossa oferta
+de infraestrutura de crescimento com
+inteligência artificial. Então, quando a
+gente tá falando de gaps de segura, de
+corretora, deixa eu ver se tá
+compartilhando minha tela certa, tá show
+de bola. Eh, a gente entra com falta de
+previsibilidade no agendamento de leads.
+As corretoras elas têm uma grande falta
+de previsibilidade ali na entrada de
+leads na operação e agendar uma conversa
+para apresentar o seguro. O seguro,
+geralmente, tem um outro ponto que eu
+nem coloquei aqui, que quando o lead ele
+entra em contato com a corretora é
+porque ele está querendo contratar o
+seguro naquele exato momento. Então, a a
+as corretoras, o corretor dentro da
+segur da corretora, ele não sabe vender.
+Ele não é um vendedor, ele é um bom
+técnico de seguros. Porque você vender
+para quem quer comprar é uma coisa,
+venda mesmo é quando você vende para
+quem não quer comprar. Então, tem uma
+outra dor aqui, ó. Vou até colocar essa
+aqui. É muito importante. O corretor
+não entende nada de vendas.
+Então, qualquer ajuste operacional que
+você faça na na na no fluxo de vendas
+dessa corretora, pum, receita na certa,
+faturamento na certa. Base de leads por
+indicação, a maioria das corretoras não
+atuam no digital. Elas têm a base de
+leads dela totalmente formado através de
+indicação do boca a boca. Então, ela
+elas não conseguem crescer a carteira de
+forma eficiente, tá? Falta de
+diferenciação no mercado. Já contratou?
+seguro. Ó, quem já contratou seguro tá
+aqui ver, ó, deixa eu dar um adendo
+aqui. Se você é corretor ou dono de
+corretora, tá assistindo meu vídeo e
+quer e e quiser um processo digitalizado
+por IA igual esse que eu vou apresentar
+aqui, cai para dentro da acelera. Clica
+no link aqui que eu vou lá dentro da
+acelera, eu vou te apresentar isso
+daqui, como a gente pode fazer isso para
+você, tá? Agora, se você quer
+empreender, conhece, é só copiar também,
+tá tudo bem. Falta de diferenciação no
+mercado. Corretora nenhuma tem
+diferencial. O diferencial da corretora,
+você liga, oi, eu quero contratar o
+seguro. Ela vai lá, manda uma, manda uma
+proposta para você, você aceita, paga,
+paga a seguradora e ela recebe a
+comissão dela. Quando que ela lembra do
+lead dela que é do segurado? Um ano
+depois, na verdade 11 meses depois,
+porque ela, ou melhor, 10 meses depois,
+porque 60 dias ou 30 dias antes,
+provavelmente eles vão entrar em contato
+com você para poder renovar a carteira
+deles. Então, assim, eles têm um outro
+problema. perca de carteira de clientes
+na renovação por falta de trabalho de
+base. A maioria das corretoras não sabe
+fazer um bom trabalho de base. Eles
+lembram de cobrar o segurado quando a
+seguradora, quando o sistema de
+seguradora dá um alerta para eles lá,
+eles não têm um processo de nutrição
+correta daquele segurado. Logo, o
+cliente fica abandonado. Logo qualquer
+outra corretora que pegar o contato
+desse cliente e chamar, vai tomar aquele
+cliente. Isso, isso é normal. Isso é
+muito normal no mercado de seguros. Isso
+é muito normal também no mercado de
+provedores de internet. A gente chama
+isso de rouba base. Então assim, é rouba
+monte. O pessoal vai lá, pô, começa a
+retrabalhar os leades e rouba monte.
+Geralmente quando um corretor ele é
+mandado embora de uma corretora de
+seguros, ele tem acesso à base de dados,
+ele monta a corretora dele e vai lá e
+rouba a base daquela corretora. Então
+assim, corretoras t problemas seríssimos
+aqui,
+tá? Você entendeu o problema? Você
+entendeu o nicho? Vamos falar de
+solução. Calma.
+Se eu tivesse começando agora, primeira
+coisa que eu ia calcular é precificação.
+Como que eu precifico isso, né? Então
+assim, eu entendo que eu vou criar uma
+máquina para fazer a corretora vender
+mais. Então vamos fazer uma projeção
+para entender quanto dinheiro tem na
+mesa e quanto a gente consegue trazer a
+mais para esse cliente. Aqui eu não vou
+ficar falando para vocês de automação,
+de desenvolvimento de agente, de
+desenvolvimento de microSAS para
+corretora, não. A gente tá falando de
+modelo de negócio. Então a primeira
+coisa que tem que parar de pé é o
+ticket. Será que tem dinheiro mesmo?
+Será que vale a pena eu jogar esforço
+nesse nicho? Eu, Kelvin, sei que vale
+porque eu conheço, mas você não vale.
+Você não sabe. Então eu vou te mostrar
+como uma corretora ganha dinheiro, como
+eles fazem dinheiro. A gente vai
+calcular o quanto a gente consegue
+projetar de crescimento com a nossa
+tecnologia de inteligência artificial. E
+em base do que a gente projetar de
+receita, a gente vai de faturamento, de
+mais dinheiro para dentro do nosso
+cliente, a gente vai calcular o nosso
+preço, porque é assim que você consegue
+criar um negócio estável, é assim que
+você consegue fazer dinheiro. Faça o seu
+cliente fazer mais dinheiro. Olhe pro
+problema do teu cliente com clareza.
+Resolva o problema dele. Ajude ele a
+sair daquele faturamento, ajude ele a
+sair daquele daquele platô e
+consequentemente você vai fazer dinheiro
+também, tá? Então vamos aqui, ó. Eu
+pesquisei no Google. Se você, por que
+que eu pesquisei no Google? Porque eu
+quero que você entenda que você tem o
+Google, você tem o Perplexity, ah, você
+tem o chat EPT, você tem o cloud, você
+tem diversas ferramentas que podem te
+ajudar a fazer pesquisas, então,
+inclusive de precificação. Então,
+corretora ganha por comissão. Eu
+perguntei quanto que é quanto que é a
+média de uma comissão de seguros no
+Brasil? Ó, automóvel, vamos olhar para
+automóvel. automóvel, a corretora ela
+recebe de entre 10 e 20%, tem algumas
+que de 10 a 30%
+do prêmio. Que que é o prêmio? É o valor
+do seguro. Então, a média do Brasil hoje
+aí tá entre R$ 2.500 a R$ 4.000 de
+seguro por ano. Então eles recebem de 10
+a 30% em cima desse valor. Esse é um
+outro problema. A corretora ela se
+diferencia cobrando menos comissão e
+assim que ela é briga de preço, carne
+briga de preço. Então vamos pegar aqui,
+ó, de 10 a 30% do valor do prêmio de
+seguros, vamos pegar uma corretora que
+faça R$ 100.000 por mês. Ela fatura R$
+100.000 por mês. E vamos supor que o
+cálculo médio do seguro, o preço médio
+do seguro tá R$ 3.000. E essa corretora
+ela cobra a média de 20%. R$ 600 3.000
+vem pra corretora. Então, uma uma
+corretora que tem uma carteira de que
+gera para ela R$ 100.000 dividido por R$
+600, ela tem uma carteira de 166
+clientes. Eu vou colocar aqui, ó, R6
+clientes. Ela tem que fazer 166
+vendas
+para ela fazer os seus R$ 100.000, tá?
+Opa, opa, opa. Aqui eu já fiz uma
+cálculo, uma um cálculo de besteira, ó.
+Porque é o seguinte, esses R$ 600 ele é
+por ano, então pra gente saber por mês,
+eu vou dividir ele por 12, dá 50 por
+mês. Então para uma corretora fazer
+100.000 de recorrência, vamos pegar
+aqui, ó, 100 1 2 3. Eu vou dividir ele
+por 50, vai dar 2.000 clientes. Agora
+sim, cara. Eu tava achando que eu falei,
+cara, muito baixo isso aqui. Uma
+carteira de 2.000 clientes. E aqui
+talvez você fala: "Nossa, é muita coisa,
+gente, nada. Uma corretora com uma base
+de de clientes de 2.000 clientes, ela é
+uma corretora pequena, pequena. Aí tem
+as pequenininhas. Uma corretora para ela
+ser uma corretora média, ela tem que ter
+uma base já aí vai numa média de uma
+corretora média é de uns 3 4.000
+clientes até 30.000 30 40.000 clientes.
+Aí é uma corretora média. Então assim,
+tem muitas corretoras que t esse volume
+de clientes aqui. Legal. Então, se ela
+faz 100.000 por mês, 2000 clientes.
+Vamos supor aqui
+que nós possamos fazer uma, vamos supor
+que a gente consegue com a nossa máquina
+trazer um resultado superior a 20%. A
+gente consegue trazer 20%, melhor, 15%
+de crescimento para esse cliente, tá?
+Então vamos fazer a conta de clientes.
+2000 clientes. Eu vou pegar aqui 15. A
+gente tem que trazer mais 300 clientes.
+Olha que loucura. Eu vou criar uma
+máquina de A para trazer mais 15%
+de faturamento para esse cliente. Eu
+tenho que trazer mais 300 clientes para
+dentro da base deste desta corretora com
+a nossa máquina de inteligência
+artificial. Eu posso trazer mais
+clientes, eu posso recuperar novos, mais
+novos clientes, né? Ou eu posso
+recuperar a base antiga de leads, de
+ex-clientes que a corretora tem. Eu
+posso fazer uma recuperação de base. É
+factível, na opinião de vocês, um
+crescimento de 15%.
+É totalmente factível. É totalmente
+factível. Então, se eu com se eu coloco
+aqui a base de R$ 50 por mês, eu consigo
+gerar mais para esses 15% mais R$ 15.000
+todos os meses vezes 12, eu consigo
+trazer um resultado de R$ 180.000 R$
+1.000 para esta corretora que utilizar a
+nossa ferramenta, a nossa tecnologia.
+Então, olha que doideira.
+consigo aqui, se eu se eu trouxer 15%
+de eficiência,
+isso resulta em mais 180
+por ano.
+Kelvin, mas você consegue fazer isso? É
+lógico, o cálculo é reverso. Eu tô
+primeiro entendendo se eu consigo
+trazer, se são números factíveis de
+trazer. Você acha que não se não dá para
+trazer mais 300 clientes para uma uma
+corretora que tem 2.000 clientes ativos?
+Se ela tem 2.000 clientes ativos,
+quantos inativos ela não deve ter para
+fazer um retrabalho de base? Se ela tem
+2000 clientes ativos, ela já tem
+orçamento para fazer o investimento em
+tráfego pago. Será que ela investe
+dinheiro tráfego pago? Será que ela tem
+um atendimento de qualidade? Será que
+ela tem um processo de nutrição de
+leades? Será que ela tem um bom processo
+de atendimento? Bem provável que não,
+porque isso não é padrão no mercado de
+seguros. Logo, a gente tem uma excelente
+oportunidade aqui, mais 180 por ano,
+quanto que eu vou precificar a minha
+infraestrutura de implantação? De 10 a
+20%. Então, se eu gero 180.000 a mais
+por ano, eu posso cobrar desse cliente
+36.000 de implantação.
+36K de implantação para fazer essa
+máquina.
+e uma recorrência. Mesma coisa. Eu
+divido isso aqui por 12, 3.000 por mês.
+Eu posso cobrar 3.000 por mês de
+implantação. Então aqui, ó, eu trago 36K
+mais 3.000 por mês de implantação, mais
+3.000 por mês de recorrência.
+Vou colocar aqui mais 3K por mês de
+recorrência.
+Só aqui eu já tenho uma proposta. de R$
+Eu já tenho um uma oferta de R$ 72.000
+ano com um único cliente. É factível
+totalmente.
+Tá muito alto, tá complexo demais trazer
+15%? Não, não tá. Visto as dores que
+este mercado tem, tá longe, tá longe
+disso aqui. Tá complexo de fazer. Tá
+bom, Kelvin. E agora eu entendi. Você
+primeiro calculou, você calculou quanto
+que você consegue gerar de eficiência
+mínima, coloquei 15%, em cima de um
+determinado resultado, no caso 100.000.
+E agora, qual que é o produto? Eu vou
+resolver este produto, eu vou desenhar
+esse produto
+para trazer estes 15%. Agora sim, a
+gente entra aqui na infra para
+aplicação. Qual que seria a
+infraestrutura de crescimento com
+inteligência artificial para trazer mais
+15% de faturamento para uma corretora de
+seguros? Vocês viram que eu tô vendo de
+cima para baixo? É isso que vocês tm que
+fazer. É o que vocês fazem de baixo para
+cima. Começa lá no produto, começa lá na
+estruturação da ferramenta sem antes nem
+entender se faz sentido colocar energia
+nisso. Entenderam? Então, que que é uma
+infra de crescimento com IA? para você
+que está me assistindo agora pela
+primeira vez, nada mais é do que um
+conjunto de ferramentas, soluções, mais
+inteligência artificial ali acoplado
+para agilizar o processo, mais eh eh
+processo, desenho de processos
+específicos para vendas, para comercial,
+para tráfego pago, processos que
+funcionam tudo junto, aglutinado, focado
+em trazer resultado para uma área de
+vendas. Então é uma, a da minha, por
+exemplo, chama growth AI. A minha
+infraestrutura chama growth AI. Então
+pro mercado de seguros, para corretoras,
+como que seria essa essa ferramenta?
+Um CRM sendo o coração do negócio. Que
+que esse CRM vai ter? CRM vai ter toda a
+base de clientes e a base de leads. Ele
+é o principal. jornadas específicas ali
+de recálculo para de base próximas do
+vencimento. Então, imagine que o seguro
+das pessoas estão vencendo há 90 dias.
+Ah, falta 90 dias para vencer ou falta
+60 dias para vencer. Neste momento a
+gente já começa a fazer disparos de
+jornadas de e-mail para nutrir aquelas
+pessoas, para aquelas pessoas lembrarem
+de quem é o corretor de seguros dela. Um
+front específico para fazer gestão e
+acompanhamento. Esse front aqui pode ser
+um front feito em lovable, apontando
+para uma base de dados do próprio CRM.
+Pode ser um Power BI para acompanhamento
+da carteira e funil de vendas. Pode ser,
+é um Excel, não, não funcionaria, mas
+pode ser, por exemplo, o Lookado
+para desenhar também um um parte mais
+analítica do processo. O CRM ele vai
+concentrar todos os dados e o máximo que
+a gente puder fazer de automação no CRM,
+a gente faz. Qual CRM que você indica?
+Que óv o GH. Eu gosto muito do GHm.
+Poderia ser o Clint, poderia ser o Como,
+poderia ser qualquer outro CRM. Poderia.
+Poderia ser CRMs que já vem plataformas
+de corretoras. Não, não poderia. Porque
+esses CRMs são muito travados, eles não
+são CRMs. As plataformas de corretoras
+foram desenhadas para fazer
+multicálculo, para calcular o preço em
+várias seguradoras e achar o melhor
+preço, a melhor condição para o cliente,
+entendeu? CRM é CRM, multicálculo é
+multicálculo. Dentro de CRM tá conectado
+o quê? um motor de atendimento que tá lá
+conectado diretamente com o WhatsApp,
+diretamente com o Instagram daquela
+corretora para fazer tanto o atendimento
+de clientes quanto ex-clientes, quanto
+novos leads, frios e quentes, no novos
+leads, ajudando o lead a entender um
+pouco mais do seguro, a entender quais
+são as coberturas de uma forma mais
+simples, não aquele segurez pesado.
+exlientes fazendo jornadas de
+reaquecimento, recebendo, percebendo
+quais daqueles ex clientes estão
+respondendo para que a gente entenda se
+ele teve resposta, opa, a gente pode
+reaquecer ele. E os leads, leads que vem
+através de tráfego pago, leads que vem
+através de um determinado funil de
+campanhas, esses leads vão entrar e eles
+vão ser atendidos ali em tempo real. O
+lead quer saber o melhor preço, esse
+sempre é o foco. Qual que é o melhor
+preço? Eu faço uma cotação para mim. No
+motor de atendimento já tá plugado um
+motor de cálculo integrado com os três
+os principais ali multicálculos. Com a
+Tex, por exemplo, com a Ager ou com um
+cálculo, um pring ali, um pricing médio
+de seguros. Olha, o seu seguro vai ficar
+na média para esse carro de 2 a R$
+5.000. Deseja prosseguir? E aí, se ele
+desejar prosseguir, ele pode cair para
+um atendente. Por quê? Porque aqui em
+cima a gente pode enfrentar dificuldades
+para fazer integração com essas
+ferramentas. são ferramentas paradas no
+tempo, então a gente pode ter aqui
+dificuldade de integração,
+mas aí dá para fazer integração de outro
+jeito, dá para fazer RPA, mas a ideia
+não é ser complexo, então isso aqui pode
+gerar dificuldade de integração. Pode
+ter alguma outra aqui também, tem várias
+motor de cálculo. Eu optaria por usar um
+motor de cálculo que tem API sempre,
+sempre, sempre, sempre, sempre. Esse é o
+melhor caminho.
+Legal. Esse motor de atendimento, ele
+tem um uma um fallback, então não tô
+conseguindo dar avanço com o cliente,
+joga pra mesa. E aqui na mesa, a mesa
+pode estar lá implementada com um
+chatwot, por exemplo, para fazer para
+para fazer o atendimento no WhatsApp
+diretamente. Olha que legal, o motor de
+atendimento já tem ali um treinamento,
+uma HAG específica para controle de
+objeção, para nutrição, para treinamento
+ali de melhor treinamento dos melhores
+SDRs para que isso aqui realmente
+funcione. Junto com a infraestrutura a
+gente vai oferecer ali procedimentos
+operacionais. A gente chama isso de SOPS
+comerciais. a gente vai ensinar os
+corretores a vender realmente. Então,
+playbook de vendas, processos
+implementados CRM, todos os pipelines do
+CRM desenhados para aquela vertical,
+para aquela estrutura específica. Isso
+aqui coloca a gente numa grande vantagem
+perante ao mercado. Isso aqui é o que
+vai fazer a gente se diferenciar.
+Enquanto a galera tá vendendo esses
+pedaços isolados, você parte para vender
+uma estrutura dessa daqui. Kelvin, mas é
+muito grande, é muito complexo. Não, não
+é, não é complexo. E por mais que fosse,
+vamos, vamos colocar que seja um pouco
+complexo fazer as integrações, por
+exemplo, simplesmente você tem você no
+primeiro cliente você pode até tomar
+prejuízo, no segundo você pode até tomar
+prejuízo, mas no terceiro não. o seu
+terceiro cliente já vai est dando
+resultado, já vai, já vai est sobrando
+margem ali pro teu negócio, entendeu?
+Você vai em quarto, quinto, sexto,
+sétimo, oitavo, você consegue fazer uma
+projeção de aproximadamente uns 17
+clientes desse com essa precificação
+aqui para que você possa bater 1.600 de
+faturamento. Vou abrir o Excel aqui para
+vocês verem isso, ó.
+Ah, deixa eu te falar, se você quer
+empreender com inteligência artificial,
+se você quer ajuda para tirar sua ideia
+do papel, para você poder criar algo,
+uma empresa que pare realmente de pé, se
+você quer começar do jeito certo, clica
+no link na descrição desse vídeo, vem
+para acelera, se inscreve que a gente
+vai analisar o teu caso e vê se a gente
+pode te ajudar nisso. Vem, bora. Clica
+aí, ó. Isso aqui é uma uma eh a gente
+chama de da planilha do milhão da
+Acelera. Aqui é uma projeção financeira.
+Você tem que ter isto aqui. Se você quer
+empreender, ó, se você quer empreender,
+se você tá querendo montar uma unidade
+de negócio, você tem que ter noção do
+quanto você vai faturar naquela unidade
+de negócio e qual que é a margem que
+você consegue ter. Tá aqui, ó. Para você
+bater 1.6 milhões de faturamento, basta
+você ter um cliente, captar um cliente
+todos os meses, mês contra mês, de
+25.000 de implantação e 3.500 de
+recorrência. É só isso daqui. A receita
+do milhão é muito simples, entendeu? É
+tão rápido quanto vendem para você? Não,
+porque o que vendem é a mentira. Agora,
+se você quer montar um negócio sério, é
+isso daqui. Isso aqui depois pode virar
+um de um SAS. Se você validar, se
+você, se tiver grande aderência no
+mercado, isso aqui pode virar um de
+um SAS. E aí, qual que é o grande
+segredo? Porque aqui agora eu te
+expliquei o o que você pode fazer, mas
+como por onde você começa, cara?
+contrato CRM, cria o primeiro agente de
+A pluga, já estrutura uma proposta
+comercial para uma venda, para um modelo
+de venda consultiva, já cria sua oferta
+no digital e vai atacar, vai vender,
+porque se você for vender, você vai
+conseguir o seu primeiro cliente e esse
+cliente vai acabar financiando o
+desenvolvimento desse negócio. Aí você
+continua metendo pressão nas vendas,
+contrata pessoas para desenvolverem para
+você, viace mesmo. Presta atenção, não
+fique travada, porque, ah, você não
+consegue, eu não sei desenvolver, ah, eu
+não sei o suficiente de automação, ah,
+eu não sei isso. Para com isso,
+Bora empreender que é possível. Segue a
+fórmula. Validação é Pqus na conta. O
+segredo é você primeiro cria a oferta,
+começa a oferta, no meio do processo
+você sai vendendo e aí você constrói
+assim que você vender e validou com Pix
+na conta. Tchau, abraço. Parabéns. Você
+vai ter começado a sua nova empresa.
+Fechou? Esse é o vídeo de hoje,
+rapaziada. Espero que vocês tenham
+gostado. Se você curtiu, você já dá um
+like aqui, já dá um joinha, já comenta
+no meu vídeo também, já compartilha com
+quem você quiser, com quem quer
+empreender, com quem tem empresa do
+mercado seguros aí, com quem tem
+corretora. E vamos para cima que é
+possível. Bora, Amen.

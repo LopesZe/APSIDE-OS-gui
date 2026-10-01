@@ -1,0 +1,977 @@
+O que você vai ver agora é um estudo de
+caso real de como nós pegamos uma rede
+de clínicas odontológicas que trabalhava
+no modelo tradicional e nós
+transformamos ela basicamente numa
+máquina de vendas através da nossa
+infraestrutura de inteligência
+artificial, tá? Sem aumentar tráfego
+pago, sem aumentar time de vendas, com o
+ROI extremamente absurdo. A gente tá
+falando de uma clínica que pulou de
+900.000 de faturamento por mês para R330
+eh R 1.330.000
+por mês de faturamento. É isso aí, Víor
+Boso. Exatamente.
+&gt;&gt; E o quê? Dois meses
+&gt;&gt; tr meses
+&gt;&gt; implementação. Três meses de
+implementação. Galera,
+&gt;&gt; trouxe aqui comigo Víor Bos. Ele faz
+parte da do ecossistema da Acelera 360.
+Ele é um dos construtores da nossa
+infraestrutura de ar. E esse cara aqui
+ele é especializado em dois nichos, tá?
+imobiliários, real estate e também eh em
+clínicas de bem-estar e clínicas
+odontológicas. Vitão, com você comp tá
+compartilhando a tela com nós. Bora lá,
+&gt;&gt; bora lá. Bora lá.
+&gt;&gt; Então, rapaziada, o Víor vai mostrar
+para vocês. A gente, na verdade, a gente
+vai mostrar aqui em conjunto essa
+aplicação que nós fizemos de uma
+infraestrutura de a vertical voltada
+para o nicho odontológico, tá? Para o
+segmento de de clínicas de odontologia.
+E a gente vai mostrar como que a gente
+trouxe esse ganho absurdo de no criando
+uma máquina de vendas do digital e
+atendimento automatizado com o IA.
+Vitão, só vou te pedir uma coisa, tá?
+Não mostra parte das ofertas
+irresistíveis que nós criamos para essa
+clínica, porque isso faz parte da
+estratégia deles. Fechou?
+&gt;&gt; Justo. Bora lá.
+&gt;&gt; Bora, papai.
+&gt;&gt; Bora. Bom, interessante. Ô, Kelvin, até
+antes da gente entrar falando
+especificamente do fluxo, né? Acho que
+até um ponto que você traz com bastante
+força. O nosso foco central antes de
+aplicar eh e entender o caso de uso de
+de cada cliente, a gente sempre olha
+para uma ponta de vendas paraa geração
+de receita e uma ponta de pós-vendas,
+que é paraa eficiência operacional. E eu
+acho que esse caso aqui foi um um caso
+eh primeiro, né, um resultado
+astronômico, né? Então a gente saiu de
+930 para 1.300 mês em basicamente 3
+meses.
+&gt;&gt; E a gente conseguiu atender exatamente
+essas duas grandes pontas, né? tanto na
+geração de nova receita e quanto
+eficiência operacional, que acho que é
+um pouco do que a gente vai mostrar
+aqui, que gerou um resultado assim eh eh
+muito interessante, né? Até explicando,
+né? Antes de entrar especificamente no
+no processo que a gente desenhou em
+conjunto às clínicas, vale ressaltar um
+ponto que é o seguinte: antes de começar
+a a desenhar e mapear o processo, a
+gente faz esse diagnóstico 360 dentro
+das dos nossos clientes. Então, o que
+que é de forma breve, né? Nós analisamos
+quais são os processos atuais que esse
+cliente tem internamente, justamente
+para criar uma prontidão cultural, né,
+entender qual que é o nível de
+conhecimento, como que essa equipe tá
+organizada, quais são os sistemas
+utilizados, né? Isso que é muito
+importante, porque a nossa porta de
+entrada em relação a à SDRs, um exemplo,
+a gente precisa fazer integração com
+CRMs, enfim, fluxos eh eh sistemas que
+as clínicas já utilizam no dia a dia,
+entender qual que é o fluxo de trabalho,
+né, o modos operante que essas clínicas
+eh atuam diariamente, onde estão as
+fontes de dados, os pontos de fricção e
+o principal é onde que estão os gargalos
+operacionais. Diante desse cenário, aí
+sim nós vamos para um segundo passo, que
+é justamente entender o core business,
+né, do dentro do negócio do nosso
+cliente. Então, inicialmente, né, que é
+deixa só acrescentar aqui, ô Víor.
+Gente, isso que eu falo para vocês não é
+sair jogando IA e de qualquer jeito,
+não. A IA ela tem que ser aplicada e ela
+tem que gerar ROI pro cliente que você
+tá vendendo. E por isso que você tem que
+sempre fazer um diagnóstico estratégico.
+Por isso que eu sempre falo para você,
+cara, entra no negócio, entende a
+operação do cliente, depois você vem
+aplicando a inteligência artificial. O
+que a gente fez aqui foi ter um bloco de
+infraestrutura de a, né, que é são
+várias coisas, é a mais processo. E aí a
+gente vem catando esses blocos, esses
+pedaços e juntando como se fosse um Lego
+pra gente trazer maior eficiência
+operacional.
+&gt;&gt; Exatamente. Exatamente. Então, o nosso
+foco é sempre fazer isso a quatro mãos,
+porque o que nós buscamos é os quick
+wins, né? onde está a a maior geração de
+valor com o menor eh esforço operacional
+de implementação. E é exatamente onde a
+gente busca isso e criar a a quatro
+mãos. Eh, diante desse cenário, né, nós
+desenhamos aqui um o core business de
+vendas, no caso, né, aqui de uma clínica
+odontológica, onde a gente começa a a
+operação desde a geração de lead, ou
+seja, o topo do funil com esses clientes
+até o momento de fechamento e o início
+do tratamento, tá? Perfeito.
+&gt;&gt; Aqui acho que até tem um um case bem
+interessante, né, que tu puxou em
+relação à a à geração de demanda, né, do
+topo do funil. Se quiser compartilhar
+também fica bem interessante.
+&gt;&gt; É, rapaziada, nesse ponto do topo do
+funil, o que que nós fizemos aqui? Nós
+trouxemos toda uma estratégia de funil
+de vendas do digital e uma IA que eles
+geram
+imagens para fazer postagens no
+Instagram. Aí tem um agente que sobe
+essas imagens que foram geradas e roda
+campanhas, fazem teste AB. Esses agentes
+são os agentes gestores de tráfico. Eh,
+e aí ele, esse agente é tão inteligente
+que ele ativa e desativa as campanhas
+conforme vai analisando a eficiência.
+Qual que é a ideia? Gerar lead. E a
+gente tem um agente que monta também as
+ofertas, né? Então, que é o agente de
+script para geração da LP. cara, gera
+campanha no Meta no Metaads ou no Google
+Ads, clica no link, ele é direcionado
+para LP, clica no link na LP, ele cai
+dentro do WhatsApp para fazer a
+conversão. E aí a hora que ele cai no
+WhatsApp é o momento que ele gera ali o
+lead.
+&gt;&gt; Exatamente. E vale ressaltar que esse
+aqui é um dos pontos que é eh treinado
+junto com os nossos implantadores, né,
+dessa inferi, porque cada clínica tem o
+seu posicionamento, tem o seu modos
+operante estratégico para atrair
+clientes, né? Então esse esses criativos
+eles adotam e emergem muito da cultura
+que a clínica cria e o posicionamento
+que ela tem diante da cidade. Por
+exemplo, tem clínicas odontológicas que
+atendem desde o baixa renda que o foco é
+um público eh CD e assim como nós temos
+clínicas que t um um posicionamento
+totalmente diferente colhando para um
+público ultra high, né, um público a
+Então essa geração de conteúdos, ela é
+de certa forma eh taor madeito criação
+de estratégia, né? Perfeito.
+&gt;&gt; E aí entra os nossos implantadores.
+Então, seguindo, até como o Kelvin eh
+comentou aqui, qual que é o processo?
+Esse aqui é um processo simplificado, é
+do que nós montamos, mas dá para
+entender de de ponta a ponta onde que
+estão as alavancas e como nós aplicamos.
+Então, como o Kv mencionou, nós temos os
+agentes de A, cria as campanhas, os
+conteúdos, olhando sempre as três pontas
+de topo de funil, no caso aqui,
+Facebook, Meta, né? Meta e Google Ads.
+Na sequência, nós, assim que é gerado
+esse lead, esse lead ele entra em
+contato. Esse é um caso específico da
+clínica que a gente aplicou. Como que
+esse lead entra em contato? Ele tem duas
+fontes de canais, ou via WhatsApp ou via
+ligação. Como que funcionava nessa
+clínica, tá? Vale ressaltar. Nós
+tínhamos a a clínica tinha basicamente
+duas pessoas eh duas atendentes no call
+center que uma ficava responsável de
+receber a ligação, né, e fazer os
+agendamentos da sequência. e uma outra
+eh atendente do call center ficava
+responsável por gerar essa demanda
+respondendo via mensagem de WhatsApp.
+Qual que era o o número, né, em relação
+por trás, antes de nós aplicarmos e essa
+alavanca aqui que a gente já vai entrar
+e mostrar um pouco mais. A as duas
+atendentes elas conseguiam gerar de
+demanda, né, a conversão em agendamento,
+né, o lead para agendamento, eh, 320
+leads por mês, as duas em conjunto, tá?
+uma média de 110 a 150 L cada uma fazia
+e a remuneração que cada uma delas
+recebiam era R$ 3.500, um fixo mais
+variado, tá? E aqui obviamente a gente
+tem uma alavanca, por quê? A gente tá,
+quando você tá lidando com o fator
+humano, a gente tem algumas dores aqui
+em relação a isso. Por quê? uma que ela
+tá eh trabalhando 8 horas por dia, 5
+dias na semana. Então, no período
+noturno, ela não conseguia eh atender a
+demanda do pessoal que queria realizar
+agendamento e nos finais de semana,
+então aqui a gente já tem uma um ganho
+eh e uma eficiência operacional só pelo
+fato de ter um um agente trabalhando
+24x7. E aqui, sem sombra de dúvidas, foi
+um dos grandes responsáveis de
+conseguirmos colocar esse resultado de
+930 para 1.300, porque a gente abriu
+basicamente a boca do jacaré, né? Então,
+a entrada de novos leades aqui,
+obviamente teve um fator significativo
+para essa geração de receita, mas não
+foi o único exclusiva eh fator para que
+a gente conseguisse chegar nesse nesse
+resultado.
+&gt;&gt; Total. Olha aí, pessoal, quando a gente
+fala do agente de fala, eu falo para
+vocês, ah, putz, é só um agentezinho.
+Esse agente pega só esse pedacinho do
+processo,
+&gt;&gt; só que você tem toda uma outra parte.
+Não adianta nada você aumentar, abrir a
+boca do jacaré, entrar um monte de lead,
+se você não conseguir trazer eh eh
+escoar esses leads pela sua operação.
+Por isso que a gente tem as alavancas e
+uma alavanca é vinculada à outra. Então,
+eh, aumentamos o volume de lead aqui,
+como que a gente traçar
+o processo de agendamento de cal? Como
+que a gente melhora depois a cal que o
+que o especialista odontológico vai
+fazer para fazer o fechamento? tem todo
+um desenho que foi feito de mapeamento.
+E é por isso que esse tipo de projeto é
+um projeto de alto valor agregado para o
+cliente e consecutivamente ele tem um
+valor diferenciado também na nossa
+cobrança para fazer esse tipo de
+implantação com IA.
+&gt;&gt; Exatamente. Exatamente. Então, até
+demonstrando aqui um pouco do do caso
+real, né, desse agente trabalhando, né,
+em real time. Então aqui basicamente é a
+o nosso agente trabalhando 24x7. Então
+ele recebe a mensagem, eh, obviamente a
+gente faz todo um treinamento para que
+esse agente ele consiga produzir o mesmo
+tom de comunicação que a clínica atua e
+trabalha. Então esse processo de treinar
+o agente, a gente tem todo um processo
+anterior de recuperação de arquivos, eh
+tom que a clínica quer se comportar.
+Então nesse caso específico, o agente
+ela se chama D. Esma, né, da clínica
+odontomil. Sempre tanto para cuidar do
+seu sorriso, como posso te ajudar? E
+aqui começa todo um fluxo. Então aqui
+vale ressaltar, não é um agente do de um
+bote como antigamente tinha lá clique um
+para ser atendido, clique dois. Não,
+aqui de fato tem que transparecer e tem
+que dar a sensação que de fato é um ano
+que tá sendo esse tá realizando esse
+atendimento. Então a gente se preocupa
+muito em humanizar isso porque
+basicamente a gente tá trabalhando com
+saúde, são pessoas. Então aqui
+basicamente o cliente, né, ele perguntou
+que queria saber quanto que custa mais
+ou menos o implante. Eh, ele obviamente
+depende de caso para caso. Então aqui o
+agente conseguiu se comportar falando
+que tem preços flexíveis e toda hora o
+call to action, né, de forma
+inteligente, né, não toda hora, mas
+então ó, se você puder vir até a clínica
+para uma avaliação gratuita, conseguimos
+definir o plano exato e te passar um
+orçamento detalhado. Aí novamente, né, o
+cliente vai lá, começa a forçar, né,
+falando se precisa de entrada, como que
+funciona. E aí, obviamente, o o agente
+ele vai se comportando, porque qual que
+é a intenção desse agente? Ele precisa
+pegar os dados básicos do paciente, né,
+do possível paciente. Na sequência, ele
+precisa entender qual que é a
+localização que esse paciente mora,
+porque no caso do que a gente aplicou,
+essa rede possui oito unidades. Então,
+&gt;&gt; é legal que ele já identificou. Olha a
+inteligência que a gente construiu. Ele
+já identificou que ela mora no Floresta
+e ele já calculou a rota ali para
+procurar a unidade mais próxima para que
+ela pudesse ir até o local.
+&gt;&gt; Exatamente. Exatamente. E é então o o
+nosso objetivo por trás desse agente é
+justamente pegar os dados básicos. Ao
+mesmo tempo, esse agente já está
+conectado no CRM da clínica para
+identificar aonde estão os slots vagos
+para que possa fazer um agendamento. E
+detalhe, além disso, o agente ele foi
+treinado para que ele conseguisse eh
+criar os encaixes, né? Então é uma das
+coisas que os próprios consultor, a as
+atendentes do call center já fazia de
+modo cômodo, mas a gente também treinou
+o agente para que ele pudesse fazer
+encaixe nas agendas de forma óbvia,
+inteligente, né? vendo de acordo com o
+tratamento, de acordo com a com a
+disposição que o dentista tá naquele
+momento. Então aqui é um prático. Eh,
+processo, nesse caso que o Víor acabou
+de falar, processo, processo AI first.
+Segundo passo, agente altamente treinado
+e inteligente, integração com CRM e
+agenda. Quatro pontos só nessa etapa.
+Por isso que eu falo para vocês, não é
+só vocês se contratarem no chatbot e
+colocar no WhatsApp. Isso não dá
+retorno.
+&gt;&gt; Exatamente. E aqui novamente, né? Então,
+olha só, vocês atendem sábado à tarde?
+Claro que atendemos a sábado à tarde,
+tranquilo, tá bem? Geralmente temos
+horário até às 16. Posso ver alguma vaga
+por volta das 14 ou 15. Aqui o agente
+ele já fez a consulta lá no no CRM para
+identificar onde que estavam os horários
+vagos, né? E aí, obviamente, o paciente
+tá aqui tentando, ó, se eu tiver com o
+nome negativado, né? Temos opção de
+parcelar no boleto no seu nome, bem como
+outras formas de pagamento flexíveis.
+Temos diversas formas, né? Podemos
+combinar tudo certinho no melhor dia da
+avaliação. Então, a todo momento, né, o
+agente ele tá puxando para marcar. Essa
+é a função. Esse é o objetivo da agente,
+é realizar o agendamento. Ponto.
+&gt;&gt; Esse é o agente de agendamento, galera.
+Só que esse agente de agendamento, ele
+fica numa nuvem de agentes. A gente tem
+agente de no show, agente de repescagem
+e tem um agente que orquestra para saber
+qual agente que vai interagir no
+WhatsApp. Pra pessoa que tá conversando,
+parece que ela tá conversando com uma
+pessoa normal. No nosso, na nossa infra
+tem lá uma carambada de agentes e um
+agente orquestrador que vai escolhendo
+qual que vai entrar ou não.
+&gt;&gt; Exatamente. Exatamente.
+&gt;&gt; Aí agendou, Víor, a gente vai para onde
+no processo? Olha que legal.
+&gt;&gt; Nós vamos lá. Então, uma vez feito esse
+agendamento, é feito o pré-cadastro via
+doctor help, que no caso é o CRM que a
+clínica tava utilizando. É, ele verifica
+a disponibilidade, enfim, as regras de
+negócio do agente. Uma vez que ele é
+realizado o agendamento, esse mesmo
+agente é responsável por fazer os
+followups. Então, ele vai confirmar,
+mandar mensagem confirmando um dia antes
+da da avaliação e uma hora antes dessa
+avaliação. E aí, novamente,
+&gt;&gt; comentei da nuvem, essa é o da parte da
+nuvem de agentes. Olha que legal, tudo
+mapado.
+&gt;&gt; Exatamente. E aí, óbvio, entra nas
+regras, paciente não compareceu, ele
+volta no mesmo fluxo, volta para fazer
+um reagendamento e repescar esse cara.
+Uma vez, né, que o paciente comparece a
+clínica, ele aqui não temos ainda
+alavancas porque é um processo ainda
+humano, depende da recepção, as
+boas-vindas e aqui entra um detalhe
+muito importante, né? Eh, a IA ela vem
+para potencializar o trabalho das
+pessoas, né? né? Então aqui tem um
+trabalho também da recepcionista de
+fazer eh eh uma boa recepção do cliente,
+mostrar os valores da clínica. Uma vez
+que ele é atendido na recepção, aí de
+fato começa a consulta. Como que
+funciona uma consulta dentro do do da
+clínica odontológica? muito das vezes é
+o próprio dentista avaliador. Só que
+qual que aí que entra um grande ponto
+que a gente viu e eu acho que esse aqui,
+sem de dúvida, né, Kelvin, foi o
+&gt;&gt; maravilhoso,
+&gt;&gt; onde a gente viu maior valor agregado
+que isso aqui e acho que foi assim
+disruptivo para todo mundo aqui, né, no
+negócio que foi o seguinte, o dentista
+avaliador ele, a formação dele é em
+odontologia. Ponto. Só que
+consequentemente alguns dentistas eles
+acabam adquirindo as skills de venda. E
+esse dentista que tem essa skill de
+venda, né, essa habilidade de venda, ele
+é responsável de falar eh ofertar o
+tratamento, fazer o planejamento
+odontológico dessa pessoa, mas ainda
+depende dessa skill de de vendas desse
+dentista. E qual que foi o problema que
+a gente identificou? Essa rede possuía
+oito unidades, logo, cada unidade tem um
+dentista avaliador. E qual que era o
+problema dessa clínica? Eles não,
+primeiro não conseguiam acompanhar eh
+qual que era a qualidade de vendas de
+cada um desses dentistas avaliadores.
+Segundo ponto, a gestora comercial que
+tava acompanhando, ela basicamente
+perdia lá quase o fim de semana olhando,
+assistindo a as as reuniões de venda
+para poder fazer uma,
+&gt;&gt; né, one com esses dentistas avaliadores.
+E aqui foi um ponto de atenção que a
+gente falou: "Putz, aqui a gente tem que
+focar para fazer um treinamento contínuo
+com esses dentistas". Então, o que que
+nós realizamos aqui internamente? Uma
+uma das metodologias que a gente aborda
+aqui internamente é utilizar o
+spincelling para venda, certo? Uma vez
+que eh a gente montou esse treinamento
+de spincelling de vendas para os
+dentistas, nós desenvolvemos, né, uma
+ferramenta específica onde pudesse dar
+escalabilidade para essa gestora e ao
+mesmo tempo, fazer um treinamento
+contínuo com os dentistas avaliadores,
+sem a necessidade dessa gestora ficar de
+forma semanal criando um treinamento,
+porque esse treinamento muit das vezes
+era de forma genérica. Então assim, um
+dentista avaliador muitas, um acaba não
+conseguindo quebrar a objeção, outro
+acabava não conseguindo transmitir
+confiança, outro não conseguia entender
+de fato o problema ou gerar uma
+necessidade de problema. Então, diante
+desse cenário, nós desenvolvemos uma
+ferramenta específica para eh aprimorar
+as habilidades de vendas desse dentista,
+&gt;&gt; pessoal? Olha o que olha o que que nós
+fizemos. A gente tá transformando o
+médico, o médico, o dentista em um
+vendedor, porque é ele que faz a venda,
+uma venda consultiva.
+E para não honerar aquela clínica, nós
+criamos uma ferramenta. Essa ferramenta
+avalia esses áudios, vídeos, trocas de
+mensagem no WhatsApp. ela entende e ela
+verifica se aquele dentista fez seguir o
+playbook de vendas ou não. Então, a
+gente tem uma IA que constrói o playbook
+de vendas para fazer é como uma é uma
+sales AI. Então, tipo assim, essa parte
+da nossa infraestrutura de A é como se
+fosse um líder de time de vendas, um
+vendedor, um closer, um SDR, tudo junto,
+mais as metodologias de vendas. E aí
+isso é colocado no processo do cliente,
+no caso dessa clínica odontológica, e a
+gente faz o ajuste do processo para que
+a ferramenta seja usada e traga os
+resultados que precisam, que é fazer os
+os dentistas venderem mais, entendeu?
+Então o Víor vai até mostrar, olha,
+vocês não t noção que a gente
+desenvolveu aqui, uma de uma
+ferramenta de vendas. E aí a gente
+incorporou essa ferramenta de vendas no
+nosso core, na nossa infraestrutura
+core. Então ela faz parte hoje da
+máquina de vendas de inteligência
+artificial que a gente tem.
+&gt;&gt; Exatamente. Aqui a gente conseguiu ao
+mesmo tempo dar um treinamento
+individualizado para cada dentista
+avaliador e liberar tempo do da gestora,
+basicamente. Então, como que funciona,
+tá? Aqui é a visão do dentista, tá? Esse
+painel do dentista. Então, o que que tá
+sendo feito, né? a quantidade de
+avaliações que esses dentistas fizeram,
+um score médio dele de como que tá em
+relação ao Spincell, né, o treinamento
+dele e como que essas gravações elas vêm
+para dentro da plataforma. A gente tem
+alguns canais de entrada, tá? Primeiro
+canal de entrada é a gravação que é
+feita eh em um momento dentro da
+clínica, né? Não tá sendo utilizado o
+meio digital, é basicamente presencial.
+Então, como que a gente fez? Ou a gente
+grava pelo próprio computador, né?
+Então, se a gente clicar aqui em gravar
+consulta, já começa a a gravação da
+consulta naquele momento. Ou o dentista
+pode gravar via celular e fazer o upload
+de arquivo. Ou quando é via meio
+digital, basicamente nós temos um plugin
+que linka diretamente já na plataforma
+eh para justamente gravar essa reunião,
+porque o nosso input é exatamente essa
+gravação.
+&gt;&gt; Olha que doideira, rapaziada. O dentista
+tá com o notebook dele aberto aqui, ó.
+Ele clica em gravar já é como se fosse
+um pláudio ali na hora gravando as duas
+partes, ó. E inclusive a evolução disso
+aí que vai analisar em tempo real,
+inclusive, né, Víor, para saber se o
+dentista tá eh a ajudando o dentista a
+contornar as objeções, né?
+&gt;&gt; É um coach de vendas em tempo real, né?
+Então o que que acontece entrando
+entrando aqui num num formato, a gente
+consegue identificar que é
+individualizado do dentista, né? Então,
+como que tá a performance dele mês a
+mês, né, em relação ao score. Então,
+aqui a gente já consegue ver, olha só,
+esse caso aqui desse dentista, no caso,
+ele saiu de 2.5, já foi para 2.9 de
+melhoria.
+&gt;&gt; Iss é propção, galera. Isso aí ele tá
+mostrando um ambiente produtivo para
+vocês, hein?
+&gt;&gt; Exatamente. É caso real, que é caso
+real. Mostra aqui basicamente onde que
+estão a a performance do dentista.
+Então, ou seja, aqui, ó, para
+identificar os problemas do paciente,
+ele vai bem. E de fato o dentista tem
+essa habilidade eh natural. Eh, mas a
+parte de implicação, de entender a
+situação, ele precisa um aprimoramento.
+Então, como que funciona? Quando a gente
+vem aqui, ó, em minhas avaliações, a
+gente vai ter aqui a lista de todas as
+avaliações que esse dentista fez. Então,
+a o tempo de gravação, quando que foi
+feita essa gravação, a nota geral
+daquela avaliação específica e olhando
+para o spincelling, onde que ele precisa
+melhorar. Então, olha só, olha como que
+aqui tá muito claro, ó, para identificar
+o problema, ó, ele tá indo bem, tá indo,
+ó, quatro quatro, mas olha a implicação
+aqui. Ele não conseguiu identificar,
+fazer a parte de implicação. Dois, então
+aqui tá muito nítido que para esse
+dentista em específico, ele precisa uma
+atenção específica para a implicação.
+Então, eu vou pegar até esse esse caso
+aqui em específico, vou clicar aqui em
+ver, tá? Quando eu clico em ver, o que
+que acontece aqui, né? A gente tá
+fazendo uma análise completa da
+consulta. eh, basicamente dessa
+paciente. E aí vem falando, olha, de uma
+de um score de cinco, ela esse essa
+avaliação ele tirou dois. E quais foram,
+né, os problemas que ele teve? Então, em
+relação à situação, né, a pergunta sobre
+o contexto atual, ele não explorou tanto
+essa parte de entender o contexto do
+paciente, uma implicação, o que que ele
+poderia ter explicado, eh, explorado a
+as consequências. Tipo um exemplo, eh, o
+paciente ele vai na clínica, fala:
+"Olha, tô com um um um e dor nos dentes,
+tô com uma possível, talvez
+possivelmente precise fazer um canal,
+mas tá, mas o quanto que isso tá te
+implicando na hora de dormir, o quanto
+que isso te atrapalha na hora de
+dormir?" Então, isso aqui é uma das
+pontas que ele tem que explorar a
+consequência para dar eh o entendimento
+pro paciente a importância daquela
+avaliação que ele tá fazendo e faz parte
+do processo de vendas.
+&gt;&gt; Total. é transformar literalmente um
+dentista em um vendedor aplicando o
+método total do spincelling. Ex.
+&gt;&gt; Olha, quando eu falo para vocês de
+infraestrutura de ar, é isso aqui, ó.
+Aqui a gente já entrou numa solução que
+faz uma análise minuciosa das gravações.
+a gente entra com o processo do desenho
+do dentista utilizar isso, mas já
+começou lá na entrada, na geração de
+lead com as agentes de campanha, depois
+caiu para os agentes de atendimento e
+marcar o agendamento para fazer a pessoa
+chegar presencial na clínica e aí gravar
+e entrar para ter esse tipo de
+resultado. E se o dentista não gravar,
+aí a gestora ou o dono proprietário
+recebe os alertas e e vai cobrar esse
+caro.
+&gt;&gt; Exatamente. Esse é o principal ponto. A
+gestora, ela sai de um uma posição
+reativa e se transforma numa posição
+proativa, né?
+&gt;&gt; Uhum. Então, seguindo aqui, eh, a
+gravação, o dentista ele pode reescutar
+essa gravação, consegue ver todo o
+transcript que tá aqui. Deixa eu só
+adicionar mais um ponto, Vitor. Se você
+tem interesse em conhecer a nossa
+infraestrutura de ar, você vai clicar no
+link que tá aqui na descrição desse
+vídeo, vai se cadastrar lá na Acelera
+que a gente vai apresentar um pouco para
+você. Se você tem clínica odontológica,
+clínica médica, se você é um empresário
+e tá querendo fazer uma transformação no
+teu negócio, implementando a nossa
+link aqui na descrição desse vídeo. Se
+você quer empreender com inteligência
+artificial, se inscreve também que a
+gente tem um programa específico para
+ajudar você a entrar no mercado de
+inteligência artificial com qualidade.
+&gt;&gt; Boa, já fiz, já fiz meu pit, Vittor.
+Bora. aqui. Então, voltando, né, a gente
+faz toda a transcrição sincronizada em
+relação ao áudio. E o que é mais
+interessante aqui, quando você clica
+especificamente, né, do que o dentista
+diz, ele já faz uma comparação falando o
+que que ele falou, o que que ele poderia
+ter falado. Então, essa parte de
+realizar a a avaliação, né, específica
+desse dentista, é onde nós trazemos aqui
+um insight de eficiência operacional.
+Por quê? Nós trazemos aqui referente a
+essa avaliação, quais foram os pontos
+positivos desse dentista. Então, um
+exemplo, né, o dentista tentou criar um
+ambiente confortável para o paciente
+para pedir para ele se sentar e
+conversar. Houve uma tentativa de
+inicial de entender a situação do
+paciente. Aí vamos lá, pontos a
+melhorar, né? Então, o que que o
+dentista na nessa avaliação, tá? É
+extremamente individualizado. Essa é a
+intenção, individualizar cada avaliação
+para falar onde estão as melhorias e
+recomendações e assim por diante. Então,
+pontos a melhorar. Por exemplo, faltou
+ele explorar eh o histórico odontológico
+completo do paciente. Ele ele fez uma
+investigação muito branda sobre as
+motivações e as prioridades pessoais
+daquele paciente. Eh, flags críticas,
+né? Um ponto aqui, olha só, que é de
+sistema atenção. Ele ficou, ó,
+interrupção frequente do paciente, o que
+pode causar desconforto e falta de
+confiança. Outra Fag crítica, falta de
+clareza e organização da comunicação,
+levando uma experiência confusa pro
+paciente. Mas outras coisas aqui que a
+gente eh no no processo viu que acontece
+muito é o dentista falaros técnicos. E
+aqui vem como flag crítica, porque
+muitas vezes o paciente não entende o
+que que é um protocolo, o que que é um
+canal, o que que é um implante. Ele
+precisa de um entendimento. Ser uma
+forma mais básica de explicar real.
+Real. Então aqui na na recomendações,
+né, ó, realizar uma investigação mais
+profunda sobre o histórico odontológico,
+explorar de forma mais detalhada as
+dores e frustrações. Então é aquilo, é o
+spincelling. Poxa, mas esse teu eh esse
+teu dente aqui, o quanto que vai te
+ajudar na melhoria com teu marido, no no
+teu bem-estar, na tua autoestima, sabe?
+É explorar cada vez mais isso. E
+obviamente é tudo é treinamento, né?
+Então, vindo aqui para baixo, as
+comparações direto, o que ele falou e o
+que que ele poderia ter falado, né?
+Então aqui a gente entrou numa análise
+específica de melhorar a frase, melhorar
+as abordagens para para quê? Para
+melhorar a conversão desse dentista.
+Então o que que ele falou, ó, o que você
+viu tudo, o que que tá acontecendo? Como
+que ele poderia ter falado? Pode me
+contar um pouco mais sobre o que tá te
+incomodando e como que isso tem afetado
+seu dia a dia? Então aí já vem qual que
+é o impacto dessa melhoria, né? Isso
+iria ajudar o dentista a entender melhor
+a situação do paciente e criar um
+raport, criar uma conexão mais empática
+com ele. É detalhe, mas é exatamente nos
+detalhes que separam os homens dos
+meninos, né? No final do
+&gt;&gt; É verdade. É, é, é detalhe, mas é o
+detalhe que faz o cara pular de 900.000
+de faturamento para 1.300, 3 meses.
+&gt;&gt; É detalhe.
+&gt;&gt; Exatamente isso. Aí, novamente, outro
+outro ponto aqui, né? As oportunidades
+perdidas, né? pontos que o dentista
+acabou esquecendo. Então aqui é o que
+que ele poderia explorar mais novamente
+para aumentar a conversão. Então no
+momento da conversa, ó, quando o
+paciente mencionou que não tinha
+condições de pagar pelo tratamento
+anterior, o que que ele deveria ter
+falado? Explorar opções de pagamento,
+falar sobre planos de tratamento, como
+que ajustaria ao orçamento do paciente.
+Então aqui, ó, né, o que que isso, por
+que que isso é importante, né? vai
+ajudar a superar essas objeções
+financeiras que o paciente acabou
+criando no meio da avaliação e facilita
+a venda. Ponto. É conversão, conversão
+da veia, né?
+&gt;&gt; Ô, ô ô, Víor, mostra aquela parte lá da
+da a visão estratégica. Então, assim,
+essa é uma visão do médico e a visão
+estratégica do do gestor, como que ela
+&gt;&gt; Bacana. Essa é a visão, exatamente, é do
+dentista. Já pro gestor aqui,
+basicamente ele já vem um uma
+sumarização de como que tá a clínica por
+um todo, né? Então, a quantidade de
+avaliações, a quantidade de dentistas,
+qual que é a média da equipe, porque a
+intenção do gestor é primeiro olhar de
+uma forma global de como que a operação
+das da rede toda tá indo e ao mesmo
+tempo ele tem que ter a noção e entender
+como que tá de forma individualizado.
+Então esse dashboard aqui ele dá um
+panorama geral, a quantidade de
+avaliações, como que foi o score. Olha
+aqui o score, né, de 2.6
+e indo lá para para 2.9, né, de modo
+geral. Aqui embaixo, ó, alertas e
+notificações, né? Então, poxa, ó, Dr.
+Bruno teve um score médio de 2.7 nas
+últimas avaliações. Opa, preciso ver que
+que o que que tá acontecendo com o
+Bruno, né?
+&gt;&gt; Falando
+&gt;&gt; exatamente, ó, Dr. Ran, já teve o score
+médio de 2.3. Então, aqui, ó, cara, é
+alerta alto, tem que ver para ontem isso
+aqui. E aí, como que a gestora se
+comporta no final do dia? Ela vai clicar
+aqui, ó, em equipe e basicamente começa
+a ver todos os dentistas. Então vou
+abrir aqui o no caso, né, do Rayan, que
+que a gestora tá vendo aqui, ó, agora tá
+olhando de forma individualizada.
+Primeiro ponto, como que o o Dr. Ryan tá
+se desempenhando, uma performance dele
+mensal. Olha só, em julho ele tava com
+2.5, em agosto ele já foi para 2.9,
+entende? Parece pouco, mas esses três
+pontos aí percentuais faz muita
+diferença.
+&gt;&gt; Faz muita diferenços percentuais. Aí é
+mais X tantas vendas que são feitas e
+fazem a empresa bater o faturamento
+esperado.
+&gt;&gt; Exatamente. Exatamente. E aí começa, né,
+breakdown desses scores. Então, poxa, ó,
+o Rayan ele vai novamente é é intrínseco
+do dentista saber identificar o
+problema. Então, tá óbvio, nítido, 3.3,
+mas aí você consegue veronde que estão
+os os problemas menores. Aí o insite
+para pro gestor, o que que foi
+identificado de pontos fortes em cima do
+Ran. Putz, ó, ele é acolhedor,
+estabeleceu um bom rapor. Ó, olha como
+que conecta com aquela avaliação que a
+gente viu dele antes. Fato, ele gera um
+bom rapor. Ele identificou claramente eh
+as as cares, explicou o tratamento
+necessário. Aí começa aqui, ó,
+oportunidades de melhoria, né? O que que
+ele pode melhorar? A urgência do
+tratamento não foi suficiente destacada,
+que é o ponto de implicação do Spincell
+que que ele tá com uma nota baixa.
+Então, ó, falta de exploração do
+histórico odontológico, novamente, pouca
+ênfase nas implicações futuras do
+problema não tratado. Ou seja, ele não
+tá dando um senso de urgência pro pro
+paciente entender que aquele problema da
+saúde bocal pode gerar uma consequência
+maior se ele não realizar o tratamento
+naquele momento. Então aqui o o gestor
+ele consegue ter uma visão, né,
+individualizada e o histórico,
+principalmente de tudo que esse dentista
+fez. Então, olha aqui que interessante.
+Ele tava aqui, ó, 2.5 foi para 3, 2.3.
+Aqui são todas as avaliações, tá? Que
+ele foi que ele foi realizando. Então,
+ele começou com 2.5, score geral, 2.3
+2.5. Olha a nota dele aumentando, 3.3.3.
+Então, ele tá realizando esse
+acompanhamento e ele mesmo tá
+conseguindo identificar os pontos que
+ele tem que melhorar. E quando o gestor
+ele clica aqui, ó, em ver detalhes, ele
+já consegue entender novamente tudo que
+daquela avaliação específica que ele fez
+bem, o que que ele faltou, porque a
+intenção é o quê? É pegar a gestora,
+identificar onde que estão os pontos de
+melhorias e fazer um um treinamento
+oneone individual com aquele com aquele
+dentista. Então essa é a visão do da
+gestora e obviamente, né, tem outras
+métricas aqui que a gente analisa, né?
+Então, voltando para de modo geral, né?
+Olha só quais foram os principais
+problemas identificados, né, da clínica
+por um todo. Então, olha aqui como que
+tá sendo crítico. Oito vezes, oito
+ocorrências aconteceu do quê? Falta de
+exploração do histórico eh odontológico
+completo do paciente. Então, assim, aqui
+tá sendo de forma aberta, tá vendo? De
+forma aberta. Então, opa, pera aí. Eu
+tenho que fazer um treinamento
+específico. Então eu vou fazer pegar 30
+minutos, 40 minutos com o time todo,
+fazer um treinamento só para falar,
+gente, ó, vamos explorar mais o
+histórico odontológico do paciente, como
+que ele, como que é o tratamento dele,
+qual que é a os hábitos que ele possui
+diariamente, entender mais o contexto e
+faz um treinamento específico disso.
+Então, eh, e isso é um ponto muito
+importante. Aí depois a gente tem aqui,
+né, a performance individual. Então,
+olha aqui, Ran teve 9.5, Olha o Bruno,
+de melhoria. Isso aqui é é bizarro. E e
+vale e vale ressaltar, Víor, eu vou
+puxar a tela aqui para nós dois, pra
+gente não se alongar mais, que é o
+seguinte,
+o quanto ainda essa empresa, essa rede
+tem margem de crescimento, aonde
+melhorando
+o ajuste na venda, porque os médicos, os
+médicos, não, os dentistas ali estão na
+média de 3.3, se eles chegarem a 4, 4.1,
+4.2 dois de cinco no screen selling,
+cara. Eh, a cada cinco vendas é três, a
+cada cinco reuniões é três fechamentos
+tranquilamente para mais, entendeu? E aí
+quando esse lado tiver bem afiado,
+a gente aumenta o
+a geração de lead do outro lado, porque
+a gente já automatizou todo o processo.
+Então, entendam, olha o como uma
+artificial, ela permeia todo o processo
+de um negócio. Isso é você implementar o
+tal do AI first. Isso é você trazer a
+inteligência artificial para dentro de
+um negócio para que traga ROI, para que
+venda. E aí eu te pergunto, qual que é o
+valor que isso tem? Qual que é o valor
+que vale uma ferramenta? Uma ferramenta
+não, uma solução de a que faz o teu
+negócio ter 30% de crescimento de
+faturamento em 3 meses, sem você
+aumentar o teu time? Se você não
+aumentou o teu time, aumentou teu
+faturamento, logo tua margem foi lá para
+cima. Então, olha que coisa maravilhosa.
+E é isso que eu falo, Víor. Eu falo aqui
+pra galera, você sabe que eu falo isso
+na acelera sem parar. É, cara, empresas
+que não aplicarem a inteligência
+artificial em seus processos daqui paraa
+frente é caixão. Tão fadadas a sofrerem
+uma extição por obsolescência
+competitiva. Não tem o que fazer, cara.
+É, é, é, é. A partir de agora é isso, ó.
+Se você tem interesse em conhecer a
+nossa a nossa infraestrutura de, você
+vai clicar no link aqui na descrição
+desse vídeo. Se você também quiser e
+tentar eh eh empreender com o IA, se
+você quer empreender também nesse nessa
+área, você também vai clicar e vai
+conhecer aqui a Acelera, porque lá nós
+temos também um programa de aceleração
+para ajudar você a tirar o seu negócio
+do papel. Acho que a Acho que Víor,
+mostramos para eles aqui um caso real de
+sucesso de uma aplicação de uma IA, né?
+Só, só a gente só de só a gente só deu a
+o a pontinha, né? Aqui tem ainda todo o
+restante da infraestrutura aí que é é
+que é absurdo. Que é absurdo. Bom, mas
+já dá para bom, deixa eu explicar para
+você que tá empreendendo com IA, é isso
+aqui que eu falo quando esquece o
+agentezinho, esquece o N8N, esquece
+aquela soluçãozinha isolada, resolve o
+problema. resolve o problema como um
+todo, dê uma solução real que o cliente,
+o empresário, ele vai pagar o quanto
+vale. Sai desse jogo de ficar vendendo a
+gente, de ficar vendendo, sabe, partinha
+pequena. Resolve o problema como um todo
+com uma infraestrutura de inteligência
+artificial e boa, que é sucesso. É isso,
+vamos encerrar.
+&gt;&gt; Bora.
+&gt;&gt; Fechou, galera? Tá bom? Se você curtiu
+esse vídeo, dá o joinha, já comenta aqui
+também, já compartilha esse vídeo e boa
+para nós. Um abraço. Tchau. Tchau.

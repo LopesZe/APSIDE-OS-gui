@@ -1,0 +1,444 @@
+Você assistindo esse vídeo aqui, você
+tem dois caminhos. O primeiro vai ser
+acreditar no que eu tô falando aqui
+e se reposicionar. O segundo é achar que
+eu tô louco. Beleza? A gente vai falar
+sobre o colapso do SAS ou do modelo de
+SAS. Foi feito um Twitter recentemente.
+Twitter não, que o Twitter já é antigo,
+né? Esse cara aqui, ó, Chamat postou lá
+no X. Isso aqui eu li do de um artigo de
+de uma de uma da postagem que eu vi lá
+na Forbes que 300 bilhões literalmente
+eles evaporaram e marcaram o início do
+colapso do SAS. Então a galera tirou, tá
+apostando os investidores de grandes
+empresas como Seos Force, Intwit,
+Service Sinal, dos grandes SAS
+corporativos, eles estão apostando
+contra o modelo tradicional do SAS.
+Então, olha que doido. Esse cara veio
+lá, foi lá no no X e falou assim, ó: "O
+grande colapso do Saso começou e não há
+mais volta. O novo fluxo de trabalho
+orientado por IA está chegando. O grande
+colapso do SAS começou. Esse vídeo vai
+ser sobre isso, vai ser sobre AI first,
+porque um fluxo de trabalho orientado
+por inteligência artificial nada mais é
+do que repensar um modelo de negócio
+para trabalhar no modelo AI first. A
+gente passou por um processo
+com o SAS tradicional que foi de
+digitalização, que é pegar processos que
+eram executados de forma manual e
+digitalizar ele no mercado, no no
+online, né? Então você pega Seus Force,
+para quem não conhece, Seus Force é um
+dos principais CRMs corporativos do
+mundo. Essa galera fez o quê? colocou o
+processo de vendas digital em um
+pipeline, em um CRM online gigantesco,
+monstruoso, hoje, se não me engano, é um
+dos principais players do mercado. E,
+cara, eles fizeram muita grana e fizeram
+muita diferença. Mas, mas a gente tá no
+momento de reescrever como os processos
+funcionam para que eles sejam executados
+por inteligência artificial e o humano
+seja envolvido nessas etapas. Mas o
+principal é a IA, é o tal do AI first,
+um processo com IA, e o human in the
+loop, o humano atuando no processo. Isso
+é loucura, né? Mas isso é tão real que
+empresas, ou melhor, empresas não, né?
+investidores estão já apostando contra
+essa transformação. Então, nesse vídeo
+aqui, eu quero falar para vocês sobre
+uma nova arquitetura, uma arquitetura de
+valor, onde a inteligência artificial,
+especialmente agentes de inteligência
+artificial, seja que atuem em front
+ends, front office, né, na parte de
+vendas, ou em backoffice para aprimorar
+o processo, para otimizar o processo,
+eles afetam o resultado de um negócio.
+Eles afetam uma empresa tornando uma
+empresa de serviço escalável. Então ela
+podendo escalar, porque sei, não sei se
+você sabe, mas uma empresa de serviço
+geralmente ela precisa de muita gente
+para executar o serviço. E com o IA eu
+não preciso mais de tantas pessoas
+assim. Com uma estrutura AI first eu
+consigo tornar uma empresa de serviço
+que antes não era escalável escalável. E
+esse é o início de uma nova arquitetura
+de valor, porque antes as empresas
+buscavam o quê? ferramentas para
+digitalizar o seu processo. Ninguém quer
+mais ferramenta.
+Sabe o que que o empresário quer?
+Resultado.
+Resultado. Essa é a nova arquitetura de
+valor. Estamos na era do resultado.
+Então, para você que quer empreender com
+inteligência artificial, você tem que
+entender que você tem que criar soluções
+que gerem resultado. E resultado para
+empresário é mais faturamento, mais
+margem e mais escala. Para você que não
+me conhece, muito prazer. Meu nome é
+Kelvin. Eu sou um programador que um dia
+decidiu empreender e virei empreendedor.
+Montei a minha primeira empresa aos 22
+anos. Vendi 50.1% dessa empresa em 2022
+e fiz o meu exitem em 2025. Em 2025 eu
+fundei a Acelera 360. Acelera 360 ela é
+um ecossistema para empreendedores de
+tecnologia. Lá eu ajudo você a
+empreender com inteligência artificial
+ou a pivotar o teu negócio para que você
+surfa essa onda AI first. Se você quiser
+saber mais sobre 360, clica no link que
+tá aqui na descrição desse vídeo. E
+antes de eu entrar mostrando para vocês
+esse framework de arquitetura de valor,
+eu quero fazer um convite para você tá
+comigo no dia 21/02 agora no Growth AI
+System, que vai ser um workshop que eu
+vou fazer online. Que que nós vamos
+falar lá? A gente vai falar sobre
+seleção de mercado, então como que você
+vai escolher aí um nicho, análise de gap
+desse nicho, como que você estrutura uma
+arquitetura de um mecanismo AI first,
+como você define uma oferta, como você
+estrutura um passo a passo de go to
+marketing, como você faz a venda e a
+monetização disso, e depois como você
+escala este negócio e faz um acúmulo de
+dados. Então, para você que quer
+empreender com IA ou para você que quer
+pivotar o teu negócio e e com força
+fazer algo real com inteligência
+artificial, eu espero você no workshop
+que eu vou fazer no dia 21/02 agora.
+Clica no link que tá aqui na descrição
+desse vídeo e se inscreve porque vai ser
+incrível, tá? Vamos lá. Esse daqui é o
+índice S&amp;P de software e empresas de
+serviço ali no SAS tradicional. Ele tá
+acumulando uma queda de 19.49% 49%
+em um período de 12 meses. O que que
+significa isso? Significa que os
+investidores estão apostando contra o
+software tradicional. Não tem nada a ver
+com crise macroeconômica. Não é o fim da
+tecnologia, é o fim de um reinado, de um
+modelo de negócio que foi amplamente
+utilizado, que é o modelo de SAS, como a
+gente conhece. Mas é o início de um novo
+modelo. É o início de um modelo onde a
+inteligência artificial ela entra como
+tecnologia para gerar resultados em
+empresas. E você tem que aproveitar
+muito disso daqui. Esse aqui é o exato
+momento. Já já eu vou mostrar para você
+aqui como a gente constrói uma
+arquitetura de valor. Eu trouxe aqui um
+framework que eu desenhei, mas eu quero
+que você entenda os quatro pontos mais
+importantes que eu fiz de leitura deste
+cenário aqui, de onde 300 bilhões de
+dólares evaporaram desse mercado,
+marcando este colapso, colapso do setor
+de software. Você tem que entender que a
+crise desse valuation, porque essas
+empresas diminuíram o valuation, ela não
+é por causa do desempenho ruim das
+empresas, não é porque a Seos Force
+diminuiu o 30% do valuation dela, que
+ela é uma empresa ruim, não. Ela só é um
+modelo ultrapassado e a seus force é um
+transatlântico. O que que significa
+isso? que empresas pequenas, empresas
+que estão nascendo oxigenadas e pensando
+em aplicar inteligência artificial,
+criar soluções que gerem resultado para
+os seus clientes, elas vão ser muito
+mais efetivas que a Seos Force, por
+exemplo. Então, não é mais uma questão
+da SEOS Force ter grandes contratos, eh,
+e ser uma das gigantes do mercado, ter
+os principais programadores, arquitetos
+de software, que vai proteger ela de
+perder o contrato para uma empresa
+pequena. E é isso que eles estão
+apostando. Alguém como eu posso montar
+uma startup que não vai ser uma empresa
+de bilhão e eu posso tomar um contrato
+da Sales Force. Isso coloca a Sales
+Force numa posição de risco. Isso pro
+investidor é ruim. E é nisso que eles
+estão apostando. Segundo ponto aqui, ó,
+é que a IA ela como é que ela matou o
+software tradicional? Ela tá matando,
+ela tá redefinindo
+como o valor é capturado.
+Significa que antes o valor era
+capturado com a ferramenta, vendendo a
+ferramenta. Mas ninguém mais quer
+ferramenta. Ninguém mais quer
+ferramenta. Ninguém quer mais método.
+Que que querem? Que que o empresário
+quer? Resultado. Solução. E a IA permite
+isso. Então, se você trouxer o conceito
+de solução que gere resultado,
+acabou. você vai ter sucesso. Três,
+modelo de estas tradicional tem desafios
+de adaptação frente a e à nativa. Se os
+force, essas grandes empresas, elas vão
+sofrer, elas são transatlânticos, elas
+vão ter dificuldades de manobrar e
+implementar IA que gere resultado. Por
+quê? porque ele já t um um castelo
+construído, então tudo que eles
+colocarem de Ali vai ser puxadinho. E os
+investidores já estão realocando o
+capital em AI agents e plataformas mais
+integrativas. Logo, isso mostra que o
+mercado tá aberto pra gente. Vou mostrar
+um case para vocês aqui dessa
+arquitetura de valor. Isso aqui é o
+nicho que eu atuo, que é o nicho de
+corretora de seguro. Primeiro passo que
+eu falo para todo mundo que quer
+empreender com IA é definir o mercado
+nicha. Você não precisa começar criando
+algo escalável demais, mas você tem que
+nichar. Eu, por exemplo, niche para
+vertical de seguros e nesse cenário,
+eu peguei um cliente que entrou tem uns
+dois meses, é um cliente médio, ele tem
+uma base de 120.000 leads e clientes
+antigos que ele não tá reaproveitando,
+tá lá parada dentro do CRM dele, tá lá
+estocada lá dentro.
+E eu trouxe para ele uma solução de
+infraestrutura de ar para aumentar o
+faturamento desse cara sem investir em
+tráfego pago, como retrabalhando a base
+de leitades. Ele não tem volume de
+pessoas, não tem braço suficiente hoje
+para retrabalhar aquela base de leads.
+Ele tem um comercial grande, mas ele não
+pode pegar 100.000 leads e despejar
+nesse comercial, que senão ele vai
+afogar esse time comercial e não vai ter
+o resultado dele. Logo, qual que é a
+solução? Qual que é o resultado com o
+IA? O resultado é o seguinte, vamos
+pegar essa base de leads, a gente vai
+jogar nessa máquina e essa máquina vai
+nutrir, vai engajar e conforme vai sendo
+engajado esses leads, quem for
+respondendo, quem for baixando, lendo os
+e-mails, quem for respondendo no
+WhatsApp, a gente vai fazendo no lead
+scoring. E conforme a gente atue um
+determinado número de lead, esse, ou
+melhor, esse lead a eh seja tem uma
+determinada pontuação,
+a gente joga esse lead pra mesa, pra
+pessoa, pro vendedor na ponta. Então, a
+máquina de A, ela funciona sem pessoas,
+não tem sem ninguém, só os agentes de A,
+nutrindo, engajando, gerando conteúdo de
+forma automática, chamando via e-mail,
+gerando campanha, chamando via WhatsApp
+e conforme a pessoa responde,
+ela cai pra mesa. Conforme ela demonstra
+que ela tem a intenção da compra, ela
+cai pra mesa. Nessa brincadeira a gente
+conseguiu reativar 6%
+dessa base de leads.
+Esse número, para você que não conhece,
+talvez pareça baixo, mas é um número
+astronomicamente alto. É um dinheiro que
+estava perdido, é um dinheiro que ele
+não tava contando e ele não tinha braço
+necessário para atuar. E com
+inteligência artificial eu consegui
+gerar esse resultado. O CAC, que é o
+custo de aquisição de cliente, ele tá
+cada vez mais caro. O custo de aquisição
+de lead está cada vez mais caro. Então,
+clientes que têm essa base parada é uma
+mina de ouro, porque ele não tem braço
+de ativação. E com o IA você consegue
+reativar essa base e puxar esse número
+4%, 5% igual a a aqui a minha atingir 6%
+igual o que eu fiz. Como aplicando IA de
+forma estratégica. Isso é solucionar.
+Então, nessa arquitetura nova de valor,
+primeiro passo para você que quer
+empreender com IA, primeiro passo para
+você que tem aí você dono de agência,
+você gestor de tráfego, você dono de
+fábrica de software, defina o mercado,
+escolha um nicho. Olha aqui o meu
+mercado, tipo de negócio local ou
+híbrido, online, offline, no caso
+vertical de seguros. Subnicho
+específico, corretoras com base de leads
+ativas ou inativas, superior a 15.000
+1000 clientes e foco histórico no seguro
+alto. Foi foi o nicho que eu encontrei e
+que eu tô me dando muito bem e não tenho
+nenhum problema em falar isso para você,
+porque assim, existem mais de 70.000
+corretoras, dá para eu atender, dá para
+você atender, dá para todo mundo
+atender. Então, olha que doido aqui,
+cara. A gente tem o crescimento num
+mercado que tá crescendo 8% ao ano. Tem
+mais de 40.000 1000 empresas ativas que
+tem esse segmento que eu que eu atuei,
+um LTV médio de 1200 a 2500 por
+segurado, uma receita média de 600 a
+2500 ano, prêmio anual médio de 2.000 a
+3.500 ano, receita anual por segurado de
+300 a 525 por ano. Só você fazer a
+continha aí 100.000, faz a conta aí de
+6% de reativação de base, coloca uma
+taxa de conversão de 30%, você vai ver o
+tanto de dinheiro que eu gerei para esse
+cliente aqui. E aqui, ó, eu mapei o gap
+do mercado, ó. Lembrando, dia 21/02, eu
+vou te ajudar a fazer essa seleção de
+mercado igual eu fiz, tá? Essa análise
+de gap. Olha aqui, análise de gap,
+cenário de falha, renovação acontece.
+Que que é renovação? O cara comprou
+seguro um ano e no ano que vem ele
+renova. Você tem seguro? Já trocou de
+corretora? Então eles ganham na
+renovação, só que a renovação ela não é
+gerenciada. Existe uma base, mas ela é
+economicamente morta. Então assim, eles
+não trabalham nessa base. Leads entram,
+mas eles não avançam. Vendas dependem de
+esforço humano, não de sistema. O dono
+vira o gargalo invisível da operação.
+Quantos nichos você conhece que tem esse
+mesmo problema? uma base inativa
+gigantesca para ser retrabalhado. Deixa
+eu te contar uma coisa, isso é uma mina
+de ouro. Isso é uma mina de ouro. E aí
+entra o grande pulo do gato.
+Não adianta você colocar um sarço para
+fazer gestão de leads,
+sendo que quem vai, a força motriz
+é humana.
+Eles não têm braço para isso. E é onde
+entra a IA. Aí a Ia entra de forma
+estratégica. agente no WhatsApp, agente
+no front office, no nas vendas, agente
+de ligação, agente estratégico para
+gerar conteúdo que vai fazer aquele lead
+engajar.
+Você tá entendendo?
+Esse é o novo mercado, esse é o novo
+valor, essa é a nova arquitetura de
+valor que você tem que atuar. Aí aqui eu
+montei um antes e um depois, ó. Isso
+aqui é real, tá? Então o mercado hoje,
+qualquer corretora, a renovação é
+tratada como evento administrativo
+e com a nossa implementação, a
+renovação, ela vira processo contínuo
+automatizado feito por MIA. A base de
+dados, ela existe, mas ela mas funciona
+como arquivo morto. Tá ali só registrado
+guardando
+e pós com implementação de a base ela
+virativa financeiro.
+A venda depende de esforço 100% humano.
+A venda ela é orquestrada por um
+sistema. Tem humano, tem, mas pode
+acontecer num fluxo automatizado. A
+renovação pode acontecer no fluxo
+automatizado. Na verdade, nós puxamos a
+nutrição através de um fluxo 100%
+automatizado. O dono é o sistema,
+geralmente de uma corretora. Aqui o
+sistema ele vira o centro da operação.
+Isso aqui é a transformação, é o antes e
+o depois. Tá vendo como é um olhar
+diferente? E isso aqui tudo depois é
+empacotado. Isso vira um IAAS, por
+exemplo. Vou dar um nome aqui, ia, mas
+esse é um compensamento EI first. E aí
+vem o mecanismo que a gente estrutura,
+todo um mecanismo de criação, uma
+unificação, tudo isso dentro de uma
+infraestrutura, captação via base
+existente, qualificação inteligente por
+inteligência artificial, conversão
+assistida por sistema, followup
+automático 24x7, renovação e retenção
+automatizada, campanha de 60, 30, 15
+dias para renovação, comunicação
+contínua com a base, redução de turn e
+aumento de LTV. E aí aqui a gente vai
+num mar, num mar, num mar de
+possibilidades. E tudo isso aqui é
+produtizado. Então para você que quer
+empreender com IA, para você que tá
+querendo aplicar IA, entenda uma coisa,
+ó. Não foca na ferramenta, não foca em
+você ficar criando só agentes em vender
+automações, não foca em vender o serviço
+ou a ferramenta, foca em vender o
+resultado gerado, foca em em em gerar
+transformação, porque o mercado todo tá
+apontando para isso. Os sinais mostram
+que esse é o novo jogo. E se você
+entender as regras desse novo jogo
+agora, antes do que todo mundo tá
+entendendo, você vai sair na frente e
+você tem a possibilidade de criar uma
+empresa. Talvez você crie o próximo
+unicórnio brasileiro. Quem sabe, quem
+sabe? E um dia, se você que tá
+assistindo criar o próximo unicórnio
+brasileiro e teve esse insite a partir
+desse vídeo, eu quero um vídeo seu
+falando o seguinte lá no futuro. Falando
+assim: "Cara, eu assisti um vídeo de um
+cara, de um tal de Kelvin no YouTube e
+ele que me deu esse insight
+e melhor ainda assim isso acontecer
+dentro da Acelera 360". Pessoal, esse
+vídeo foi sobre isso. Deixa eu deixar
+mais um convite para você. Eu quero você
+comigo no dia 21/02 agora no workshop
+que vai acontecer ao vivo, onde a gente
+vai falar sobre essa arquitetura de
+valor, sobre como você estrutura um
+modelo AI first que faça sentido. Esteja
+comigo lá no Growth AI, tá bom? Clica
+aqui no link que tá na descrição desse
+vídeo e garanta já o seu ingresso aí, o
+seu o seu acesso a esse workshop. Foi um
+prazer estar fazendo esse vídeo para
+você. Se você curtiu, deixa seu joinha,
+comenta aqui nesse vídeo também falando
+o que que você acha. é o fim do
+SAS, é a morte, é o colapso. O que que
+você acha? Qual que é a sua opinião?
+Comenta aqui se você gostou também da
+minha análise e se fez sentido para
+você. Tchau para vocês e até a próxima.
+Fui.

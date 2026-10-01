@@ -1,0 +1,355 @@
+Esse vídeo aqui ia ser sobre o meu teste
+do Fable 5. Essa semana eu ia passar uma
+perspectiva para vocês, mas eu acabei de
+receber uma notícia que foi que o
+governo dos Estados Unidos pediu
+Pantropic remover o Fable 5, suspender
+totalmente para qualquer cidadão
+estrangeiro. E Antropic removeu
+completamente. Antropic tá achando que o
+governo talvez tenha descoberto alguma
+forma de burlar a as travas que eles
+colocaram ali nesse Fable 5, no nesse
+nessa LLM deles. E por isso que eles
+decidiram tirar tudo. Mas olha que
+loucura, gente. Por que que eu ia fazer
+esse vídeo aqui exclusivamente? Eu ia
+falar sobre a capacidade de julgamento
+do Fable 5, porque ele me assustou
+também. Eu é a primeira vez que eu vi
+uma inteligência artificial eh com uma
+capacidade de julgar absurda. Teve um
+momento que eu tava usando o o Fable
+aqui essa semana e eu comecei a
+perceber, eu falei: "Cara, eu tava eu
+tava pedindo para ela resolver um
+problema sem falar como resolver, sem
+especificar nada". Eu simplesmente
+estava falando: "Olha, eu tenho um
+problema assim, eu tenho um problema
+assado, resolva para mim". E ela ia lá e
+resolvia. E e isso me deixou assim
+abismado. Eu falei: "Caraca, que
+loucura!" Porque pensa assim, eu acho
+que foi a primeira vez que eu tive uma
+visão completa do quanto a IA vai ser
+devastadora, cara. E e eu entendo as
+limitações e entendo tudo. Talvez a
+galera que seja técnica fala: "Não, é só
+mais uma LLM e é e 20% melhor do que o
+Opus." Não, não, não é, não é só uma LLM
+20% melhor que o Opus. É uma é uma IA
+com um modelo diferente que não sei que
+parada que é, uma arquitetura diferente
+que ela tem uma capacidade de julgar
+absurdamente incrível. Isso, cara, abre
+precedente para criar literalmente os
+funcionários de IA. É doideira. Quer
+ver? Ó, vamos lá. Eu vou explicar para
+vocês aqui. Vou continuar com esse vídeo
+como eu usei o Fable e vou explicar para
+vocês o conceito aqui, ó. Vamos lá.
+Então, o seguinte, onde eu usei o Fable
+essa semana? Deixar até uma frasezinha
+de para-choque de caminhão. Tava
+gravando, gente, tava gravando. Decidi
+agora mudar completamente o vídeo.
+Então, vamos lá. O que separa uma
+inteligência artificial útil de uma IA
+impressionante não é a velocidade, é o
+julgamento. Vamos separar em três blocos
+aqui, ó. o bloco do conhecimento,
+o bloco da inteligência e o bloco do
+julgamento. O bloco do conhecimento é o
+seguinte: "Olha, eu sei eh eu sei o que
+que é objeções. Eu sei escrever código.
+Ela sabe alguma coisa, ela conhece, ela
+sabe. A inteligência, além de eu saber,
+eu sei aplicar aqui, eu sei escrever um
+um uma uma um script de objeções para
+você. Escreva um script de objeções para
+mim." Ela vai lá e escreve, ó, com base
+nessa técnica, ela escreve um script de
+objeção. Agora, o julgamento é o
+seguinte, ó. de acordo com o seu
+cenário, de acordo com o tamanho da sua
+empresa, 10 funcionários, faturamento de
+tanto, margem de tanto, de acordo com o
+que você falou para mim que você usa o
+CRM e tal, aqui o Wi-Fi para receber e
+tá tá tá esse negócio. A estratégia para
+eu analisar o seu funil será essa. Eu
+vou aplicar essa e essa e essa
+metodologia porque elas são mais
+adequadas pro seu porte de empresa. Isso
+é julgamento. Ela julgou, ela analisou e
+ela tomou a decisão. Foi isso que eu vi
+que me assustou. Isso aqui eu, isso aqui
+eu falei, cara, que loucura. Sabe o que
+que tá acontecendo, gente? Ah, eu tô há
+um ano e meio eh, transformando a minha
+operação com IA. Eu uso IA diariamente,
+para você que não me conhece, contexto
+rápido. Meu nome é Kelvin, eu tenho 34
+anos, eu sou um empresário, eu tenho uma
+empresa chamada KCG Grupo, que é uma
+consultoria de software, e uma outra
+chamada Acelera 360, que é essa aqui que
+eu tô gravando vídeo para vocês. Acelera
+é um ecossistema voltado para
+empreendedores e empresários. A gente
+cria soluções para ajudar na processo de
+transformação digital, que, ou melhor,
+transformação EI first. Se você quiser
+entender mais sobre IA, como a IA pode
+impactar sua empresa, seu negócio, clica
+no link, tá aqui embaixo que eu faço um
+diagnóstico estratégico na tua operação
+e mostro para você como você, a gente
+pode alavancar a tua operação, como
+melhor você pode alavancar a sua
+operação com inteligência artificial e
+como a gente pode te ajudar, tá? Para
+você que é empreendedor, a mesma coisa.
+O link tá aqui na descrição desse vídeo.
+Agora, vamos lá. Eh, se eu tô usando e a
+one eu já tô numa determinada distância.
+Quem ainda não tá usando, tá ficando
+para trás. E essa lacuna, ela tá ficando
+cada vez maior. E aí vai chegar num
+ponto que em quem tá em eh que as
+pessoas que tiverem aqui no começo, elas
+não vão conseguir acompanhar mais. E já
+era. E já era. Gente, é bizarro. É
+bizarro. Então volta aqui, ó. Deixa eu
+explicar para vocês onde eu usei o
+Fable, né? Hoje que eu comecei a usar na
+terça de noite, acho que foi terça que
+liberou, não lembro. Eu fiz um vídeo
+aqui, eu tenho essa consultoria de
+software e aqui na consultoria, o que
+que eu usei? Eu fiz um processo de
+migração de code base para você que não
+é técnico. E a ideia não é que esse
+vídeo seja técnico, é um vídeo de forma
+geral. É pegar um sistema que foi
+escrito num código X e levar ele para
+uma nova tecnologia. É isso aqui, ó. Ele
+fez isso aqui para mim completo. E aí
+isso ele fez isso numa noite, eu gravei
+o vídeo de manhã eu peguei dois
+colaboradores, peguei o arquiteto e
+peguei o dev, um dev app, né, de
+Flutter, e falei para ele, falei: "Cara,
+vamos colocar aí, ó, coloca no cloud
+code aí o Fable e implementem isso
+daqui." Moral da história, hoje é
+sexta-feira, basicamente a gente já fez
+todo o processo de migração dessa
+plataforma. Isso aqui já, pum, me
+assustou. Por que me assustou? Porque
+ela analisou tudo, ela montou um plano e
+ela montou um time para executar o plano
+e ela executou o plano muito, muito,
+muito bem. O nível de detalhe que ela
+teve foi absurdo. Foi, ó, absurdo. E é
+aqui que tá o ponto, porque basicamente
+eu não falei para ela, eu quero que você
+faça X, Y e Z. Travou aqui, não consigo
+escrever Y. Eita, eu não quero que você
+faça X, Y, Z. Eu quero que você resolva
+um problema. Imagina o vendedor, você
+não contrata o vendedor para falar: "Ó,
+usa o CRM, faz isso, faz aquilo, faz
+aquilo, você não faz isso. Você contrata
+o vendedor pra empresa e você fala
+assim: "Ó, minha empresa funciona assim,
+a gente vende isso, a gente vende
+aquilo, esses aqui são os nossos
+clientes, a gente precisa vender mais".
+Aí o vendedor praticamente fala assim,
+ó: "Thakupai, eu vou resolver". E ele
+toma as decisões. Foi o que eu percebi
+aqui com Fable. Foi o que eu percebi
+aqui. E aqui eu, isso aqui era um outro
+vídeo que eu ia fazer mais técnico, mas
+nem vou entrar muito nesse detalhe. Ele
+é caro, tá gente? É caro, mas consome
+para Mas aqui tá o nível que ele
+foi fazendo, ó. Ele foi cruzando, ele
+foi lá estruturando, organizando. Deixa
+eu ver se eu acho aqui o print aqui.
+Aqui, ó. Ele ele montou o time dele. Ele
+montou todo o time dele. O time ele fez
+a especificação, ele ele criou essa
+questão dele ser um árbitro. Ele criou o
+árbitro, ele definiu os territórios, ele
+ele ele criou três pessoas, três três
+agentes, um para julgar o a decisão do
+outro e ele arbitrar. Cara, a hora que
+ele fez isso aqui, eu falei: "Velho, que
+loucura que é essa?" E ele tomou essa
+decisão sozinho. E basicamente o que eu
+falei para ele, falei: "Cara, tudo que
+eu ensinei para você até agora, tudo que
+eu tava usando meu chatt agora, não
+faça. Eu quero que você tome as
+decisões, as melhores decisões." E ele
+tomou as melhores decisões. E aí o que
+que eu percebi? Que ele é caro. Ele é
+caro. Porém, a o julgamento dele é
+absurdo. E aí o que me leva a questão do
+seguinte, olha que doideira. Ele é uma
+IA nerfada, é uma Ih,
+que o cara, a antropóic podou, ela
+colocou limitações. Imagina a sem
+limitação, que é o mitos, cara. Nós
+estamos vivendo uma transformação
+absurdamente rápida, gente. 2025 a gente
+estava falando de agente, de automação
+no WhatsApp. Em 2026 a gente já tá vendo
+algo como Fable sendo lançado, entendeu?
+Então assim, ó, foi a primeira vez que
+eu senti que eu estava conversando com o
+chatbot e mais delegando o trabalho. Ó,
+para você que é empreendedor e
+empresário, o link do nosso diagnóstico,
+ele é gratuito, tá aqui na descrição
+desse vídeo, clica lá e se inscreve que
+o nosso time vai entrar em contato com
+você e vai fazer um diagnóstico aí na
+tua operação, no teu momento, para
+entender como nós podemos te ajudar aí
+no processo de transformação de uma
+operação AI first. Não perca essa
+oportunidade. Agora vamos lá. Está aqui
+é o seguinte, ó. A gente chegou pro
+Fable e falou assim: "Olha, a gente
+precisa entender nosso funil. Esses
+dados são fictícios, tá gente? Eh, a
+gente precisa entender nosso funil de
+vendas. A gente quer entender se a gente
+tá com algum gargalo operacional. Ele
+foi fazendo algumas perguntas, pô, que
+como que você recebe, como que funciona,
+qual CRM que você usa? Pá, famos
+passando as informações para ele. De
+repente ele botou, ele estruturou, ele
+tomou a decisão e ele estruturou,
+aplicou uma metodologia e ele construiu
+toda uma plataforma pra gente poder ter
+visibilidade da nossa do nosso funil
+completo de vendas, desde da atração até
+a conversão. Então, olha que loucura que
+ele montou aqui. Toda a parte de pace da
+meta. Olha que estratégia interessante.
+receita na janela, quanto que a gente
+faturou e perante a nossa meta, qual que
+era o líquido e daí vendo, evolução
+diária, receita acumulado versus a meta,
+venda, quanto falta para meta, projeção,
+fechamento, lead, até até aí tudo bem.
+Aí a parte do fúil, quanto, quantos
+leads entram, quantos agendados, quantas
+calizadas, eh, quant quantas
+negociações, quantas vendas. Por que que
+ele fez isso aqui? Porque a a minha
+empresa é uma empresa semocentric. Eh, o
+foco centro da da empresa é vendas, é um
+time de vendas. Então, cara, isso aqui
+tem que est na veia. Olha essa análise
+de pré-venda que ele montou. Ele
+analisou o fluo inteiro. Então ele vem
+lá, quantos leads no mês? Pá p p pá, vem
+desenhando, tá? Qual que é o desempenho
+do SDR? Ele integrou com a Tilho, que é
+uma ferramenta que a gente usa de VOIP.
+Ele já buscou em quanto, em quanto
+tempo, de quanto tempo que o Lead entra
+até o momento em que o nosso SDR pega o
+telefone e liga para ele. Taxa de
+resposta, reuniões no mês, taxa de
+agendamento, quantos nos shows, quantas
+ligações, números de WhatsApp, e-mails
+que foram disparados. Ele trouxe uma
+visão completa. E isso aqui é o que eu
+tô te mostrando. Fora o Oneepage, o OPR.
+Olha o OPR da semana um que ele trouxe.
+Gente, isso aqui é bizarro, entendeu?
+Isso aqui é é assustador. O nível de
+detalhe, quais execução da semana, quais
+eram as entregas, o que que a gente
+tinha que fazer. Fala que seja sincero,
+o Opus faz isso, o Codex faz isso, não
+faz. Ele não faz. Eh, é diferente você
+pedir para ir a resolver um determinado
+problema sem dar muito entendimento para
+ela e você pedir para ela executar uma
+tarefa. Então, assim, durante décadas,
+as empresas elas cresceram empilhando
+pessoas e sistemas. Então, talvez a
+próxima geração, talvez não, com
+certeza, talvez não, a próxima geração
+cresça empilhando pessoas e funcionários
+digitais. A pergunta que eu quero te
+deixar aqui para você é o seguinte, ó.
+Quem que é melhor? Uma empresa que tem
+aqui um monte de pessoas e mais pessoas
+e sistemas apoiadas por sistemas ou uma
+empresa que tenha, vou colocar três
+pessoas e cada pessoa potencializada por
+uma squad de IA. O que que é uma squad,
+Kelvin? Não sei o que que é uma squad.
+Mas Squad é uma equipe com vários
+agentes de A, ou melhor, um o Cloud.
+Pode ser só com o Cloud, gente, pode ser
+só com o Cloud. É incrível isso. Qual
+que é mais rápido? Qual que é mais
+performática? Qual que tá mais à frente?
+Essa daqui, ó, tá preparada pra mudança.
+Essa daqui tá ficando no tempo. Porque o
+que que acontece? Em algum momento a
+gente tava aqui, ó. Essa aqui é a linha
+2022, 2000, 2027.
+Vem aqui, vem aqui, vem aqui, vem aqui,
+vem aqui. Aí o cara parou aqui, ó. com a
+nesse momento tem gente que já tá aqui,
+ó, abrindo esse espaço. Isso aqui é o
+nível de implementação. É o nível de
+implementação de A na operação.
+Esse cara que está aqui, vai chegar um
+momento que ele não vai conseguir mais
+acompanhar esse nível que está aqui, ó.
+Por quê? Porque esse mercado tende a
+consolidar. Então, as empresas que
+implementam e a dessa forma tendem a
+consolidar
+o mercado.
+Essa é a minha visão. Ou a região, né?
+Ou a região. Tem tem empresa que é
+regional. Por quê? Porque ela é tão mais
+ela vai conseguir ser tão mais
+eficiente. Lógico, aqui depende ainda de
+um fator muito grande que é isso aqui,
+ó. Processos estruturados
+e dados organizados.
+Organizados.
+Agora se tiver isso e isso, acabou. O
+jogo tá finalizado. Pessoal, esse vídeo
+é sobre isso. Eu quero deixar mais uma
+vez aqui meu convite para você que é
+empreendedor, para você que é
+empresário, quiser conhecer Acelera 360.
+Ou melhor, quer que a gente entenda sua
+operação, clica aqui, se inscreve no
+nosso diagnóstico. A gente vai chamar
+você, vai entender a tua operação, vai
+apresentar como que a gente pode te
+ajudar, vai apresentar os gargalos e vai
+ser um prazer a gente virar aí seu
+parceiro para te apoiar nesse processo
+de transição com o IA. Fechou? Vamos
+para cima. Não tirem o olho da IA.
+Comecem a usar diariamente, não deixem
+de usar porque está mudando muito
+rápido. Beleza?

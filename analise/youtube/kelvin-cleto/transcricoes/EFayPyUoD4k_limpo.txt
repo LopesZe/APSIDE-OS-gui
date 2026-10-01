@@ -1,0 +1,767 @@
+Se você quer fazer dinheiro com
+inteligência artificial, se você quer
+empreender, aprender a fechar contratos,
+aprender a fazer grana com OpenCloud e
+Paper Clip, Cloud Code, não importa,
+esse vídeo aqui é para você. Bora lá,
+galera. Vou esse vídeo aqui, eu vou
+liberar agora os principais pontos que
+você que quer montar uma empresa tem que
+entender sobre mercado, sobre momento
+atual de mercado, sobre criação de
+oferta, sobre business, sobre nicho,
+sobre vendas. Então esse vídeo aqui é o
+seguinte, eu não vou falar para você que
+o open cloud é melhor, que o Cloud Code
+é melhor, que o Sora não sei o que lá é
+melhor, que não sei. Eu tô cagando para
+aí. Eu tô cagando para as LLMs, as
+ferramentas e tudo mais. Agora, o que
+você tem que entender o que você pode
+fazer com isso, qual que é a dor real de
+mercado, onde isso encaixa, onde isso
+gera contrato, onde isso gera dinheiro.
+Bora falar sobre isso porque eu tenho
+certeza que se você prestar atenção em
+tudo que eu falar aqui nesse vídeo, não
+tem como você aplicar e não conseguir
+fechar 1, 2, três contratos em menos de
+ou em até 3 meses. Em menos não, em até
+uns 3 meses, tranquilamente.
+Escuta o que eu tô te falando. Agora é a
+hora. Vamos lá, então. O seguinte, ó.
+Vou est aqui nessa luzinha aqui. Tô aqui
+na Acelera, tá? Agora é
+quase 10 horas da noite, praticamente.
+Vamos, deixa eu posicionar aqui o meu
+tripé e eu vou aqui na lousa com vocês,
+ó. Vou pegar bem perto.
+Pronto. Ah, tem um saco de box aqui.
+Adoro ali. Não, saco de box não. Ali é
+um uma peririnha. Saco de box ali pros
+meninos. Aqui é a copa lá em cima é
+operação. Depois eu até aproveito para
+levar vocês lá para ver, tá? Mas presta
+atenção nisso aqui. Eu quero que vocês
+entendam uma coisa e a informação que eu
+tô trazendo aqui para vocês não é
+informação de pô tô achando, será que é
+isso? Mas não, cara, diariamente aqui no
+meu canal do YouTube, do meu Instagram,
+eu tenho
+tranquilamente aqui uns 60, 70 leads por
+dia, ó. Então, a informação que eu vou
+passar para vocês vem de dados de 60 a
+70 leads todos os dias que querem entrar
+na Acelera 360 ou querem contratar o
+Kelvin ou contratar uma das minhas
+empresas para implementar IA no negócio
+deles ou para fazer alguma consultoria.
+Isso é o que acontece hoje. Disso daqui,
+é empresários. Então são pequenas e
+médias empresas que assistem os meus
+vídeos, os donos assistem. Então aqui a
+gente tem donos de distribuidoras de
+produtos, importadores de produtos,
+donos de consultoria de software,
+fábrica de software, médicos, eh
+contadores,
+eh donos de contadores, não,
+contabilidades.
+Eh, cara, tem de tudo, velho. Tem de
+tudo. Os cara que, vende plano de
+saúde, vende e eh caixão. É loucura.
+Esses caras aqui, eles entram aqui e
+falam o seguinte: "Olha, eh, como que eu
+faço isso que você fala aqui no meu no
+no seu canal na minha empresa?" Então, o
+que eu vou falar aqui para vocês
+vem desta informação aqui, desses dados,
+certo? De pequenas e médias empresas que
+faturam entre 1 milhão até uns 70
+milhões, tá? Vem dessa dessa fatia de
+mercado. O que eu vou falar para vocês
+aqui é baseado em cima de almoços,
+encontros, networking que eu tenho no
+mundo empresarial. Aí eu já tô falando
+de empresas corporate.
+Então tô falando do que eu vejo em
+grandes seguradoras.
+seguradoras aqui como, não vou
+ficar falando o nome aqui, grandes
+corretoras,
+que eu tô falando de empresa que faz um
+biano, tá?
+Um biano de faturamento gigante,
+gigante. E eu vou trazer essa informação
+aqui para você também de investidores
+que falam para mim, v, a gente
+vai trocando ideia e chega na mesma
+conclusão, tá legal?
+Então é dado real
+o momento atual, esse momento que nós
+estamos vivendo, você tem algumas
+ferramentas open source, open source,
+né, tipo código aberto que você pode
+usar e lls
+permitem que você possa modificar esses
+open sources para criar produtos ou
+criar soluções, tá? Então vamos falar
+aqui, ó. Vamos separar aqui de
+estruturas, modelos de de IAS, LLMs
+assim. Falando de coisa
+mesmo. Não vou ficar falando das open
+sources aqui também não. Por quê? Porque
+dá muito trabalho. Vamos pagar. Vamos
+pagar para resolver. Top um,
+o cloud, cara. O cloud da Antropic. Só
+ele se você usa e entende sobre skills,
+você é multia aqui.
+Multients
+sobre entender sobre por como conduzir
+ele para não estourar a janela de
+contexto. Então vou colocar aqui também
+que é um conceito muito importante.
+que você entende isso aqui com o cloud,
+você consegue, agora vamos falar sobre
+dinheiro, tá? Sobre o que você pode
+fazer com o cloud da Antropic, com a
+LLM. Olha que loucura. Você pode ser um
+consultor
+estratégico
+de negócios.
+Só com isso aqui você pode ser, será que
+tá filmando corretamente? Deixa eu ver
+aqui. Aí tá encaixado. Só com isso aqui
+você consegue ser um consultor
+estratégico de negócios.
+Cara, o que que é um consultor
+estratégico de negócio? é uma pessoa,
+você sozinho,
+você vai fechar um contrato com uma
+empresa. Então você vai fechar um
+contrato aqui com uma empresa
+e o teu foco vai ser olhar para esta
+empresa aqui e olhar para os processos
+dessa empresa
+e falar assim: "Cara, estes processos
+podem ser melhorados
+assim de tal jeito, com e a
+E aí você também pode fazer o seg".
+Seguinte, você pode dar treinamento
+para os funcionários, para as pessoinhas
+desta empresa aqui. Este consultor
+estratégico para esta empresa consegue
+cobrar tranquilamente.
+Você que tá aí assistindo, que nunca fez
+isso, você consegue cobrar um valor
+baixo para você entender o momento em
+que a gente tá vivendo. 600
+a hora.
+Ô Margente,
+chega aqui. O Margente era meu aluno,
+virou meu sócio, tá aqui na operação.
+Vou vou lá levar ele. Fica aí que eu vou
+levar você que eu já vou mostrar pro
+pessoal. Presta atenção. Ó, o margente
+tá lá em cima e o margente ele toca hoje
+o braço de consultoria
+aqui da Aelera. Então o margente ele
+logicamente aplica os nossos métodos e
+tudo mais. Ó, aqui forjamos os
+fundadores que vão mover o Brasil. Ó, se
+você quer empreender, se você quer
+empreender com inteligência artificial,
+se você quer montar um business, quer
+tirar sua ideia do papel, você tem que
+vir para Acelera 360, clica no link que
+tá aqui na descrição desse vídeo para
+você conhecer o nosso programa de
+aceleração, onde nós vamos ajudar você a
+empreender. Seja você de tecnologia,
+seja você programador, seja de
+tecnologia programador, né? Seja você
+qualquer coisa, não importa, não precisa
+ser técnico mais, você só tem que querer
+fazer, tá?
+Margente. Ó o margente aqui, gente.
+Aqui, ó. Aqui é a nossa sala que é o QG
+da inteligência.
+Aqui fica mais gente. Aqui fica os
+consultores, né, dele. O time dele aqui,
+ele tem uma, qual que é o tamanho da sua
+squad? Umas três, quatro pessoas. Tem
+quatro pessoas aqui na squad dele.
+&gt;&gt; Quatro pessoas.
+&gt;&gt; Quanto é, não fala o nome do cliente,
+mas quanto é aquele contrato que você
+fechou de consultoria estratégica com
+uma empresa que faz aí quanto que quanto
+que eles faturam? 20 milhões
+&gt;&gt; foi 64.000.
+&gt;&gt; 64.000. Quanto tempo?
+&gt;&gt; 4 meses.
+&gt;&gt; 4 meses. Eu sei que o entregável do
+Margente. Margente veio da conta azul,
+era trabalhava na conta azul, segurança
+da informação, time de segurança da
+informação. E ele saiu da conta azul e
+começou a empreender. Isso foi em,
+eu tô com microfone, velho.
+Quanto que é o contrato?
+&gt;&gt; 2025.
+&gt;&gt; Ó, gente, ol sexy.
+&gt;&gt; 2025. [risadas]
+&gt;&gt; Ele saiu da conta azul. Ele saiu da
+conta azul e aí ele fez o seguinte,
+começou a empreender. Eh, não, ah, não
+sei, nicho, não sei o nicho, Kelvin, ele
+chegava mexer no saco, não sei achar meu
+nicho. Ai, eu não consigo, isso é
+besteira. Eu falei, filha da
+escolher nicho, vai ficar mais fácil. Aí
+a gente achou um nicho de franquia para
+ele. Aí foi lá e fechou o primeiro
+contrato. Depois acabou virando
+consultor e realmente não tem nicho. Ó
+que desgraça. [risadas]
+Errado não tá, mas errado não tava. Mas
+não era mais fácil com o nicho?
+&gt;&gt; Muito mais fácil.
+&gt;&gt; Tá vendo? Aí beleza, começou aí pegou o
+feeling de mapeamento de processo.
+Pegou o feeling de mapeamento de
+processo, fez alguns cursos de
+metodologia ágil, fez alguns cursos de
+como que é aquele negócio lá? IT COBIT,
+é de entendimento para entender. Beleza?
+E aí pegou toda a visão de IA, porque
+ele tá imerso na IA e começou a prestar
+consultoria estratégica para empresas.
+Agora
+&gt;&gt; ele é Ah, ele se forma. Você foi já
+forou
+&gt;&gt; agora em junho.
+&gt;&gt; Por qual?
+&gt;&gt; Por qual faculdade?
+&gt;&gt; FIAP.
+&gt;&gt; Nós é FIAP, papai. Est formada da
+computação. Uh, FIAP, melhor faculdade
+paga do Brasil. [roncando]
+&gt;&gt; É boa, boa. Fiap, patrocina nós.
+[risadas]
+&gt;&gt; Vem, Fiap.
+&gt;&gt; Vem, Fiap. Vai da moral da história,
+consultoria estratégica. Hoje o melhor
+caminho para alguém que, não
+consegue escolher um nicho, criar um
+produto, o cara fazer dinheiro rápido.
+Consultoria funciona ou não funciona?
+Consultoria
+&gt;&gt; Consultoria funciona, gente. Consultoria
+funciona. Por que que consultoria tá
+filmando eu? Tá. Por que que consultoria
+funciona? Porque consultoria tem uma
+particularidade muito interessante. Vou
+deixar até uma gente falar. Qual que é
+a entrega da consultoria? Ela não é
+produto. A entrega ela é o quê?
+&gt;&gt; São horas.
+&gt;&gt; Horas. Então é é intelecto. É o seu
+intelectual que é entrega. Então você é
+o produto. Então se você faz igual
+margente, estuda e se você tá focado em
+entender processo de empresa, se você
+quer montar uma consultoria, você começa
+com a sua operação. É escalável? Não é
+escalável, mas eu garanto para você que
+ele tá fazendo muito dinheiro.
+&gt;&gt; Quatro. Qual que é a base salarial dos
+dos meninos aqui?
+&gt;&gt; Aqui 5 se e 7.
+&gt;&gt; Ó, quanto que é?
+5 se e 7 aqui
+&gt;&gt; escadinha 5 6 e 7000 ele paga pros
+meninos aqui que são os analistas de
+requisitos vai entendo nos processo
+Então assim ele já tá com uma
+operação estruturada. Então consultoria
+[limpando a garganta]
+legal. E por que que as pessoas vão te
+pagar a consultoria? Simples, elas vão
+te pagar a consultoria porque o
+empresário não tá conseguindo acompanhar
+todo o processo de inteligência
+artificial. O empresário tá preocupado
+com o negócio dele, tá sofrendo com o
+negócio dele, entendeu? Então, tipo, ele
+vai te pagar a consultoria por causa
+disso. Agora vamos olhar aqui. Vamos lá.
+Volta para cá.
+Isso aqui é um caminho só com o cloud,
+tá? Ó, só cloud. Beleza.
+Agora vamos olhar aqui, vamos abrir um
+pouco mais. Que que mais você consegue
+fazer com o cloud aqui? Com o cloud,
+principalmente com, deixa eu ver se tá
+filmando direito, tá? Você consegue
+aqui
+programar.
+Ah, mas é cheio de bug. Ah, mas não tem
+segurança da informação. Cala a boca.
+Esquece essa Isso aí é loucura.
+Só só você estudar. Até hoje nenhum
+programador tava preocupado com
+segurança da informação. Aí agora que
+eles estão quase perdendo emprego, tá
+todo mundo preocupado. Então se não for
+uma empresa gigante, esquece essa
+parada. Ai Kelvin e a LGPD e não sei o
+que lá e parará e parará, não sei o que
+lá e pi po pó. Deixa eu te contar uma
+coisa aqui, tá? Ó,
+pro seu primeiro contrato,
+se você ficar preocupado com isso, você
+vai continuar na CLT.
+Pronto, falei.
+fecha o contrato e contrata um cara bom
+de cyber para te ajudar. Simples assim.
+Fecha o contrato, entrega, faz dinheiro,
+foca no dinheiro. Se você ficar caindo
+no conto do vigário das pessoas, você
+nunca vai empreender.
+Programar, você pode entregar aqui
+landing pages, você pode vender
+microSAS.
+Ai, só Deus. Microsas é Mas pode
+vender Microsas, você pode vender
+software.
+Software, você pode fazer isso aqui,
+você vai ter que estudar, vai. Mas aqui
+você pode vender software por 5K,
+6K o projeto, 12K. Se você vender muito
+alto o código, você não vai conseguir
+porque aqui não tem diferencial nenhum,
+saca? Você não tem diferencial mais.
+Isso aqui é commodity. Mas imagina o
+seguinte, 5000, 10 projetos, 50 pau.
+Garanto que você não faz isso aí hoje.
+Ou se fizer, parabéns. É isso aí. Então
+isso aqui não serve para você. Aqui é
+outro ponto. Agora vamos. Isso aqui é de
+LLM. Ah, mas dá para fazer isso com o
+Open AI, cara. Dá para fazer isso com
+tudo hoje em dia. É que o cloud é bom
+mesmo, entendeu? Você pode estruturar
+isso aqui. Você pode vender as suas
+skills e configurar skills para empresa.
+Você pode vender só as skills, cara.
+Isso aqui é vendável, ó. Você pode
+vender as skills, você pode treinar os
+funcionários das empresas a usar o cloud
+code para ser mais efetivo. Vixe, isso
+aqui, ó, isso aqui é um mar de
+oportunidade. Isso aqui é um mar de
+oportunidade, tá? Gente, aproveitando,
+dia 25, 26, eu vou fazer um evento, vai
+ser um workshop online de dois dias
+chamado a Nova Economia da Inteligência
+Artificial. Vai ser um workshop que
+custa R9,90. Clica aqui, garanta já sua
+vaga. Lá eu vou falar muito para vocês
+sobre a nova economia da IA. Vou
+explicar para vocês como criar
+funcionários de inteligência artificial,
+como você vai implementar lá o paper
+clip, por exemplo, na sua operação. Já
+vamos falar dele aqui para você entender
+como você usa o Open Cloud e
+principalmente, tá? Eu não vou ficar
+muito na ferramenta, mas ali eu vou
+mostrar, mas eu vou mostrar como você
+faz dinheiro com isso aqui. Como você
+faz dinheiro com isso aqui. Se você é
+empresário, eu quero você lá comigo. Por
+quê? Porque você vai aprender também a
+usar isso aqui a seu favor para você
+escalar o teu negócio, que no final das
+contas é fazer dinheiro com I também.
+25, 26, acho que é 25 e 26 agora de
+abril. O link tá aqui na descrição desse
+vídeo também. É só você clicar e vir
+participar. Então vamos lá. Aqui você
+entendeu, certo? Agora vamos falar
+dessas duas ferramentas aqui, ó. Isso
+aqui são LLMs. Agora vamos falar de open
+source.
+Open sources, então que são códigos
+abertos que você consegue muito na onde?
+No GitHub.
+dependendo do tipo da licença e você tem
+que prestar atenção no tipo da licença,
+você pode comercializar esses negócios
+aqui. Legal. Para os open sources que
+você pode comercializar, por exemplo,
+Paper Clip é um deles.
+Paper Clip.
+E vou dar um outro exemplo. O próprio
+Open Cloud,
+que são o quê? Orquestradores,
+coordenadores. Esse cara aqui, na
+verdade, ele dá um poder de superagente
+para uma LLM. Isso aqui é muito legal. E
+ele também coordena, tá? Ele também
+coordena, porque ele hoje é
+multiagentes. Então significa que
+[roncando]
+um open cloud, uma único servidor disso
+aqui, você consegue ter 5, 10, 20
+agentes de IA.
+E o Paper Clip, o papel dele é ser um
+orquestrador, um coordenador.
+Você consegue então coordenar várias IA
+para trabalhar em conjunto. Imagina o
+seguinte, ó. Esses dois você consegue
+fazer o seguinte, você consegue aqui, ó,
+criar um router aqui, uma IA coração.
+Isso aqui é uma IA. E você consegue
+criar várias iazinhas. Você consegue
+criar as iazinhas e váriasinhas aqui
+assim numa estrutura mais complexa.
+E aqui em cima com a memória,
+com a memória, com a inteligência de
+negócio. De negócio. Nossa, vocês estão
+entendendo? Minha letra não, não tem
+problema. Estão acompanhando o conceito.
+Aí a fica aqui. Inteligência de negócio
+tem esse monte de azinho aqui, tá? Isso
+aqui serve para quê? Para nada. Se você
+não souber para que que serve, não serve
+para nada. Agora, levando pra visão de
+negócio, para que que serve isso daqui?
+Como que você faz dinheiro com isso? Se
+você é um cara que me assiste, se você
+quer empreender, se você tem uma empresa
+e quer fazer dinheiro com isso, calar o
+teu negócio, você já entendeu? que um
+uma empresa, um CNPJ,
+ele não é uma ONG, apesar que tem CNPJs
+que são ONGs, mas um CNPJ privado a
+ideia que ele não seja uma organização
+sem fins lucrativos. Então significa que
+ele é uma máquina de fazer dinheiro.
+Logo, o papel de todo empresário é fazer
+muito dinheiro. Ele tá olhando para
+fazer dinheiro. Então tem um negócio que
+chama o seguinte, ó. Toda vez que entra
+dinheiro, o acumulado do dinheiro de um
+negócio se chama faturamento. Então,
+cara, quanto você faturou? É quanto de
+dinheiro entrou na conta da empresa?
+Quanto você faturou no mês, no
+trimestre, no ano? Quanto de dinheiro
+entrou dentro do caixa da empresa?
+Qual foi a sua margem
+líquida, por exemplo, que isso aqui é o
+que interessa.
+Que que é margem líquida? É o seguinte,
+desse tanto de dinheiro que entrou aqui,
+menos o percentual do seu sócio, que é o
+governo, menos o imposto, menos custos
+fixos, menos custos operacionais, de
+qualquer forma, de pagamento de
+funcionário, despesa fixa, despesas
+variáveis e o apenas toda essa
+merda aqui. Quanto que sobrou no caixa?
+Aí, isso aqui é a sua margem, o
+percentual disso é a sua margem.
+O que que interessa pro empresário?
+Quanto que ele fatura? Isso aqui
+interessa. E isso aqui interessa. Por
+quê? Porque
+alto faturamento,
+muito faturamento não significa muito
+dinheiro no bolso. Então tem que ser
+proporcional. O empresário tá ligando
+para isso. E tem uma terceira variável
+aqui que é a capacidade de escalar.
+Que que é que que é a capacidade de
+escalar? Muito simples. A capacidade de
+escalar é com duas pessoas eu faço, com
+uma pessoa eu faço 100.000.
+Com a mesma pessoa eu também faço
+Para fazer 300.000 eu preciso de mais
+uma pessoa.
+Isso aqui é um negócio que é escalável.
+Então, o escalável significa o seguinte,
+que o quantidade de faturamento que você
+faz não está diretamente proporcional à
+quantidade de pessoas que você precisa
+na operação. Empresas que prestam
+serviço
+precisam de muitas pessoas para entregar
+X faturamento.
+Entenderam? Logo, isso não é uma
+operação escalável. E aí que entra isso
+daqui, ó. Isso daqui entra aqui. Por
+quê? Porque com
+agentes de inteligência artificial
+coordenados para resolver determinados
+problemas,
+o que antes era escalado com pessoas,
+hoje pode ser assim, ó. Antes era só
+assim, ó. Funcionários.
+Agora pode ser assim, ó. Funcionários.
+Isso aqui é IA.
+Aí essa parte que não tem intersecção
+são IAS Autopilot pilotadas no
+automático.
+E essa parte com intersecção aqui, vou
+trocar de cor aqui, ó. Essa parte aqui
+são IAS
+assistidas.
+Assistidas.
+Que que é uma IA assistida? Ela não
+executa sem, ela apoia os funcionários,
+o humano. Então esse cenário aqui é
+possível você construir com o quê? Com
+essas duas ferramentas aqui, ó,
+OpenCloud e Paper Clip. E aí, qual que é
+o grande truque aqui? Que o OpenCloud e
+o Paper Clip são só duas ferramentas,
+são só dois pedaços de código que
+coordenam agentes. O que que você
+precisa ter? Aquilo que eu sempre falo,
+você precisa ter aqui, ó, isso aqui é a
+ferramenta. Então, isso aqui, ó, tem a
+IA, que é a Llm lá. Aí você tem aqui, ó,
+a ferramenta.
+Ferramenta que é isso aqui, o Paper
+Clip. E aí você tem que precisa de um
+outro pedaço que é o processo.
+É esse pedaço aqui, ó, que interessa. É
+isso aqui que interessa, porque é isso
+aqui que tá o dinheiro.
+Conseguiu entender? Conseguiu pegar a
+visão? É sobre isso aqui, ó. O você
+montar uma empresa, você montar um
+negócio em tecnologia, é sobre você
+gerar resultado. E com IA, se você
+montar uma empresa de IA, é você gerar
+resultado usando IA, ferramenta e
+processo. Esse miolinho aqui é o que eu
+chamo de infra
+de IA. E o que que dá para você fazer
+com isso aqui? Você pode vender a
+implementação de agentes de A, de
+funcionários de A. Esse é o primeiro
+passo. Você pode vender o treinamento
+disso daqui também. Ou você pode ser
+mais inteligente e vender a
+infraestrutura.
+E o que que é você vender a
+infraestrutura? Você vai pegar um lixo.
+Um nicho. Aí você vai lá, vou pegar aqui
+um CRM. A infraestrutura de crescimento
+para um nicho. Nicho odontologia odonto.
+Que que é uma infraestrutura de
+crescimento?
+Toda empresa tem um fundo de venda.
+Infraestrutura de crescimento é você
+aumentar a entrada de leads e aumentar a
+vazão de clientes
+e fazer o negócio não quebrar com isso
+aqui. Você faz o negócio crescer,
+crescer,
+crescer. Não dá nem para fazer o sabor
+energético aqui. Então, para fazer isso
+aqui, você precisa ter um CRM, que é um
+sistema que coordena vendas, coordena,
+ele simplesmente mantém o histórico dos
+leads e aquele teus pipelines.
+Aí aqui você coloca o quê? o seu enxame
+de aplugado nesse seu CRM aqui. Você
+coloca um head comercial, você coloca
+aqui um SDR, você coloca aqui um
+analisador de dados, você coloca aqui um
+um cara que um um agente que atualiza o
+CRM automático. Você coloca aqui um cara
+que acompanha o follow, que faz follow e
+você vai tem vários agentes e aí você
+tem esse red comercial que coordena
+esses agentes aqui. E esses agentes eles
+fazem as coisas de nessa ordem aqui, ó.
+Alguns desses agentes vão ser
+assistidos, não vão ser vão estar num
+piloto, não, não estão no piloto
+automático, estão no piloto assistido e
+outros vão ser autônomos para tomarem as
+próprias decisões. E aí se você entender
+como fazer isso daqui, você consegue
+fazer o quê? Trazer escala para uma
+empresa que presta
+serviço,
+tá? Mas se aquela empresa que presta
+serviço for uma empresa que opera eh de
+uma forma regional, física, por exemplo,
+uma clínica odontológica
+e o serviço for um serviço físico, aí
+você não consegue ter uma escala maior,
+mas você consegue escalonar até que
+aquilo atinja o ápice da sua eficiência
+e sim vai ter um teto, mas até lá você
+já ficou rico com isso. E aí, o ponto é
+para você que tá começando, vamos agora,
+vamos abrir mais isso aqui agora. Vamos
+lá pro cenário aqui, ó, pro cenário.
+Para você que é pequena e média empresa
+e assistiu o que eu falei aqui agora até
+o final, o que que você tem que fazer?
+Você, primeira coisa, você tem que estar
+comigo no dia 25 e 26 no a nova economia
+da IA, que vai ser meu workshop. Você
+vai clicar no link e vai adquirir aí o
+ingresso que custa R$9,90. Então compra
+essa logo para que lá você vai
+aprender isso daqui. Mas o que você já
+aprendeu aqui hoje, você tem que usar
+isso aqui para você re
+estruturar, reestruturar
+[limpando a garganta] seu negócio.
+Por qu? Senão você vai morrer. Simples
+assim. Se você não reestruturar, você
+vai morrer
+para você. Deixa eu ver se tá gravando.
+Tá gravando para você que não é
+empresário ainda. Então isso aqui é
+pequenas e médias empresas, ó,
+tradicionais, economia real.
+Para você que é empreendedor e tá aqui,
+você que é empreendedor e e acabou de
+ver esse vídeo aqui, empreendedor.
+Então, quem quem que é esse empreendedor
+aqui? Pô, você tem um SAS, você tem um
+um uma agência de marketing, uma agência
+de marketing, uma agência de a, uma
+agência de A aqui. Você é gestor de
+tráfego, não importa. Você que já é o
+empreendedor dessa economia, dessa nova
+economia, economia, um cara de tec,
+[roncando] que que você tem que fazer?
+[limpando a garganta] Entrar na Acelera.
+Isso é o primeiro passo. Se você quer
+crescer rápido, você tem que entrar na
+Acelera e fazer parte do maior
+ecossistema.
+para empreendedores tec do Brasil. O
+link tá aqui na descrição desse vídeo
+também. Ah, não conhece Acelerara essa a
+primeira vez que você vê esse vídeo.
+Então você também tem que tá no
+workshop, compra um workshop lá. Legal.
+Agora, o que você pode fazer vindo,
+visto o que eu te mostrei aqui
+hoje? Você consegue
+não depender de briga de preço para
+fechar um cliente?
+Ah, não, Kelvin, não consigo. Então você
+tá num mercado comoditizado,
+então você também é commodity, você tá
+com a massa. Isso aqui é um risco e você
+tem que resolver isso.
+Hoje você consegue escalar tua operação
+sem depender de gente? Não. Então você
+está vendendo
+horas
+e você precisa repensar o teu modelo de
+negócio. O problema não é o cliente, o
+problema não é o produto, o problema é o
+modelo de negócio e como você envelopa
+ele. Tem um problema aqui no seu modelo
+de negócio. Simples assim, entendeu,
+Kelvin? Mas o meu negócio é um SAS, ele
+é escalável, mas eu não consigo vender
+ou meu turn é alto, eu não tô
+conseguindo resolver isso aqui. Aí você
+tem um problema de como você está
+posicionando a sua oferta. Ou se você
+está vendendo muito e está tendo chur,
+você tem um problema de entrega o teu
+serviço, o teu produto, não resolve
+problema nenhum. Então assim, ó, joga
+essa fora e aproveita e repagina
+tudo que a gente tá no melhor momento
+possível para isso. A gente tá com uma
+janela de 8 a 16 meses. Depois disso
+aqui, tchau e bça.
+Tchau e bça. Ou você faz dinheiro agora
+ou você vai se Para você que tá
+aqui, que é CLT,
+CLT, PJ, freelancer, [roncando]
+importa. Você tem alguns caminhos.
+Primeiro, dá para usar esse para fazer
+renda extra? Não. Não.
+Qual que é seu caminho? Tomar coragem,
+vergonha na cara e fazer o que tem que
+ser feito de verdade. Ou você entra para
+acelera,
+ou você vem pro meu workshop no dia 25,
+26 e entende como funciona.
+CLTPJ.
+Para você que é CLTPJ e quer empreender,
+mas provavelmente você tá com algumas
+dores, você não sabe vender,
+ou você não sabe a parte técnica,
+ou você não sabe negociar.
+Deixa eu te contar uma coisa. Tudo isso
+aqui é desculpa. Tudo isso aqui é
+desculpa. Não sabe vender, pesquisa no
+YouTube, não sabe a parte técnica,
+pesquisa no YouTube. Não sabe negociar,
+pesquisa no YouTube. Então, ou você
+gasta horas de investimento aqui para
+resolver essa se você quiser sair
+daqui, ou você continua aqui pro resto
+da sua vida e tá tudo bem, mas trilha
+uma jornada decente aqui para você
+crescer seu salário.
+Ou você compra
+a experiência de alguém
+para te falar o caminho e acelerar o teu
+processo. E aí você tem que entrar para
+entendeu?
+É simples. Agora ficar parado igual uma
+marmota não vai resolver de nada. Ficar
+chorando aí, ai eu não consigo, não sei,
+eu não consigo. Ou ficar escutando os
+outros, ah, é difícil, não dá. Ah, não é
+para qualquer um, ó.
+Dá sim, tá? Tem nego pousando foguete.
+Então, gente, esse vídeo é sobre isso.
+Vocês t que entender uma coisa. A gente
+tá [limpando a garganta] no melhor
+momento possível para empreender. Eh, o
+mercado tá implorando por isso. O
+mercado está altamente eh com medo de
+ficar obsoleto. Não dá para acompanhar a
+velocidade com que a IA está evoluindo e
+com que estão lançando informações.
+E isso é bom para nós que quer
+empreender, para nós que queremos
+empreender, entendeu? Então esse é o
+momento para você empreender. Esse é o
+momento, ó, para você transformar
+Brasil. A gente tá no momento para você
+transformar Brasil ou simplesmente fazer
+dinheiro também. Aí depende de você.
+Fechou? Então esse vídeo é sobre isso.
+Vamos com tudo. Já aproveita para você
+me seguir aqui. Já aproveita para você
+vir fazer parte da Acelera 360. Se você
+for de São Paulo, já aproveita para você
+vir aqui no escritório me conhecer
+pessoalmente. E vamos com tudo. Estamos
+no melhor momento. Bora para cima. Não
+fica dormindo não, que senão o camião
+vai passar e você vai ficar para trás.
+Tchau.

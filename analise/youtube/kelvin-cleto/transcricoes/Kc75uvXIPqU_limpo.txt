@@ -1,0 +1,465 @@
+Eu já falei para você várias vezes
+começar a empreender com algo sensato. E
+você sabe o que que é sensato? Você já
+sabe. É o quê? Consultoria especializada
+em inteligência artificial. É juntar a
+narrativa atual de inteligência
+artificial vertical, o novo mercado e
+não sei o que lá mais. e todo mundo com
+medo de quebrar, com a sua capacidade
+técnica de analisar uma IA, analisar a
+dor do mercado, analisar o processo de
+uma empresa e casar, falar: "Porra, essa
+IA implementada desse jeito resolve esse
+problema e tem ganho, tem benefício pro
+cliente". Tá? Mas qual que deve ser o
+seu problema? Deixa eu adivinhar. Venda
+não é como conseguir os primeiros leads?
+Ah, eu não sei vender. Ah, eu não
+consigo conseguir meus primeiros
+leitads. Calma, eu que tô fazendo esse
+vídeo para você que tá com essa dor de
+venda. Nesse vídeo aqui eu vou mostrar
+para você como implementar um funil
+chamado funil de diagnóstico. Não sei se
+você sabe, mas a primeira etapa de uma
+consultoria estratégica, melhor, a
+primeira etapa de qualquer consultoria é
+saber a etapa atual, a situação atual do
+teu cliente. E o nome disso, a gente só
+sabe disso, através de diagnóstico,
+através de entrevista. Então, a gente
+vai juntar é esse conceito de
+diagnóstico e vamos encaixar no conceito
+de funil de venda e a gente vai criar o
+funil de diagnóstico. Esse funil é
+poderoso demais, cara. Sabe por quê?
+Porque o teu cliente, no momento em que
+ele começa a preencher, o teu cliente,
+não, teu futuro cliente, o teu lead ali,
+ele é teu lead, no momento que ele
+começa a preencher este funil, no
+momento que ele começa a preencher este
+diagnóstico, você começa a elevar a dor
+dele, a elevar a consciência dele, ele
+vai falar: "Puta, eu não tenho um CRM,
+eu não tenho um ERP, putz, eu não
+implemento essa coisa, eu nem sei o que
+que é isso." E aí no final do funil,
+sabe o que ele vai fazer? Vai marcar uma
+calu com você. Ele vai querer falar com
+você para chegar na cal com você e falar
+o seguinte: "Cara, me ajuda." Ele já vai
+chegar pedindo a sua ajuda. Antes da
+gente começar, deixa eu me apresentar
+para você. Meu nome é Kelvin, tenho 33
+anos, sou pai de quatro filhos, sou
+casado, empresário, já vendi uma
+empresa, tem outras empresas. E para
+você que já me conhece, talvez você
+esteja perguntando: "Kelvin, que que
+aconteceu? Você faz vídeo de regata? Eu
+só vejo você malacafendento, mal
+arrumado, parecendo um mendigo da Sé".
+Seguinte, meu amigo, hoje eu tô
+preparado pra guerra. Eu vim atrás de
+dinheiro, de money, de dólar, então eu
+tive que vestir o quê? A vestimenta do
+samurai, papai. Ó,
+hoje é só contrato de 100 doll para cima
+e eu tô aqui no meu escritório Alfavil,
+galera. Provavelmente eu vou começar a
+trabalhar presencial, fazer essa galera
+aqui trabalhar, fazer a acelera crescer,
+montar time de venda, contratar e o
+Então eu tenho que vir
+presencial e por isso que eu estou
+assim, porque eu vim fazer alguns
+algumas reuniões. Ã, vamos começar. Bora
+então. Vamos lá, então. Seguinte, ah,
+esses daqui são os quatro principais
+entregáveis de qualquer consultoria.
+qualquer consultoria, não é só
+consultoria estratégica de A que tem
+este tipo de entregável aqui. Primeiro
+entregável, diagnóstico da situação
+atual, saber aonde o seu cliente está,
+aonde o seu lead está. Segunda etapa,
+mapear as oportunidades tecnológicas. No
+caso aqui, mapear oportunidades, se for
+uma consultoria de gestão de processo,
+tipo de coisa. Como a nossa consultoria
+é voltada pra tecnologia,
+a gente vai mapear o quê? Oportunidade
+tecnológica. E nesse mapeamento a gente
+vai identificar quais são as alavancas.
+O que que é uma alavanca, Kelvin? É
+aquilo que alavanca, que te joga pra
+frente, que vai jogar o teu cliente pra
+frente. Por exemplo, implementar um SDR
+e automático, utilizando o chat GPT na
+operação. É uma alavanca que pode trazer
+uma eficiência operacional de até 30% e
+aumentar X leads, que pode gerar um
+resultado de X.000. a por mês a mais no
+no faturamento daquele cliente. Isso é
+uma alavanca, uma alavanca muito bem
+definida. E depois que você mapeia as
+oportunidades e no mapeamento define as
+alavancas, você parte pro plano de ação
+com prioridade. Então imagina o
+seguinte, todo processo tem que
+melhorar.
+Então a gente define várias alavancas a
+gente, a hora que a gente analisa o
+processo. Vamos começar por qual? Essa
+etapa serve para isso. Começa por esse,
+porque esse é o mais rápido e o mais
+barato e o que tem principalmente maior
+retorno. Porque é o seguinte, não
+adianta nada ser uma alavanca que é
+rápida de fazer, mas sabe, o payback, o
+retorno que ela vai dar é muito baixo,
+então isso aí não serve para nada. Então
+a gente foca nas alavancas que tem um
+menor tempo de implementação e tem um
+maior retorno. A gente acha a proporção
+disso e define. A gente monta o quê? um
+planejamento de entrega, de entregáveis,
+de execução, entendeu? Um roadmap. E o
+quarto, a quarta etapa que é a execução
+desse plano ou acompanhamento, porque
+você como consultoria, você pode ser
+contratado só para eh acompanhar o
+processo de execução ou você também ter
+o braço de execução. Você pode ter aí os
+seus meninos de desenvolvimento de
+software, aquela galera, o timtec, os
+meninos da TI que vai fazer a coisa
+acontecer. Entenderam?
+Mas a gente não vai falar nada sobre
+isso. A gente vai falar dessa etapa
+aqui, ó, diagnóstico da situação atual
+voltado para venda. Então, é funil de
+venda. Então, aqui que eu fiz, eu mapei
+alguns players de mercado que também
+vendem, que também implementam esse
+modelo de funil de diagnóstico para
+trazer uma lucidez em cima desse
+processo para você. Você pode
+implementar isso no Instagram, no funil
+de Instagram, no eh no no Google Ads, no
+no LinkedIn, é indiferente. Isso daí são
+canais de entrega. O que interessa pra
+gente é o conceito. E qual que é o
+conceito? Você tem uma arte, uma vai um
+criativo. Esse criativo ele tem uma
+chamada, então ele pode ser via vídeo,
+via imagem, ele tem uma headline forte,
+por exemplo, do Marcos Marques.
+Descubra, descubra em até 45 minutos
+como melhorar a gestão da sua empresa.
+Por quê? Porque a empresa dele é focada
+100% em quê? Em eh gestão operacional,
+implementação de gestão e cultura.
+operacional, cultura de uma empresa,
+saca? Ele traz resultado através da
+gestão. Nós, nós, eu e você, trazemos
+resultados através da tecnologia. Então,
+no nosso caso, poderia ser o seguinte:
+descubra em até 10 minutos como melhorar
+o a tecnologia da tua empresa, ou
+melhor, descobre até 10 minutos como a
+inteligência artificial pode otimizar o
+seu processo de vendas. Descubra em até
+10 minutos como aumentar o faturamento
+da sua empresa em até 20% com
+inteligência artificial. Descubra em até
+10 minutos como cortar em até 30% os
+seus custos operacionais com a
+implementação de inteligência
+artificial. E esse daí pode ir até o
+finito. Qual que é a ideia? Chamar a
+atenção. Então você vai chamar a atenção
+daquele seu futuro cliente, do seu lead
+com essa chamada. Para que que a gente
+vai chamar a atenção dele? Para ele
+sentir que ele fala: "Caraca, eu quero
+saber isso".
+Clique para agendar seu diagnóstico. Ele
+vai clicar. A hora que ele clicar,
+ele vai cair aqui, ó, num forms, um
+forms inteligente, né? Qual que é o
+objetivo desse Forms? Primeiro,
+qualificar. Então, ele vai qualificar o
+teu lead. Segundo, fazer um processo de
+elevação da dor daquele seu futuro
+cliente. O cara tem que terminar esse
+diagnóstico pensando, caraca, eu sou um
+merda. Minha empresa é uma merda. Minha
+empresa tá parada no tempo. Meu Deus do
+céu, nem eu, eu tenho tudo no Excel, eu
+não controlo nada. Já tem inteligência
+artificial, já tem foguete subindo pra
+lua e pousando de volta. Tem robô
+andando na rua e eu ainda tô usando
+Excel para fazer gestão. Eu ainda não tô
+usando o chat EPT. Eu tô usando o chat
+EPT só para tirar dúvida. Eu não tenho
+mais nenhuma implementação de
+inteligência artificial. Esse é o
+objetivo. Porque se você, se o cara
+chegar, se o seu futuro cliente chegar
+no final desse diagnóstico com esse
+sentimento, ele vai clicar em saber os
+próximos passos. E o próximo passo é
+agendar uma cal estratégica com você ou
+com alguém do teu time para fechar uma
+venda, para fechar um contratinho.
+Delícia de 50, R$ 100.000. Esse é o
+segredo. Beleza? Então vamos lá, Kelvin.
+E como que nós criamos
+esse diagnóstico estratégico? É muito
+simples. Tem um conceito de perguntas
+que você tem que colocar. Quer ver? Ó,
+eu até criei um aqui de exemplo para
+você entender.
+Vamos lá. Vou abrir aqui.
+Então, que ele fez a arte, descubra onde
+a IA pode destravar o crescimento da tua
+empresa. Começar. E aqui o cara vem
+preenchendo. Qual que é teu nome? Nome,
+e-mail e telefone. Isso aqui é para
+contato.
+Depois disso, qualquer empresa que você
+trabalha, tal empresa. Qual que é teu
+cargo? Por que que qual que é o teu
+cargo? Porque aqui a gente já filtra
+caroço. Você não, você quer vender para
+caroço? Não. Tem que vender para quem
+paga, Entendeu? Então tem que
+vender para quem decide. Você não vai
+atender o analista, não faz sentido.
+Você vai falar com o diretor, com o CEO,
+founder aqui, com o gerente,
+coordenador, talvez, saca? Então, esse
+aqui serve para isso,
+Kelvin. E o restante dos líderes que
+entrar que é analista, cara. Esses caras
+você só followup, Vmail. Só follow up,
+Vmail. Foco principal é falar com o
+decisor aqui, tá? Qual que é o
+faturamento anual da empresa? Vamos
+supor até 500.000, de 500 a 2 milhões,
+você vai falar com o cara que fatura até
+500.000. Isso aqui serve para isso. Esse
+cara não tem a dor que você resolve. O
+cara de 500.000 tá sobrevivendo. E
+quando você tá sobrevivendo, você tem o
+mínimo possível para a sua
+sobrevivência.
+Agora, quem que não tá mais
+sobrevivendo? Quem tá na zona de
+estouro?
+Quem que tá na zona de estouro? Esses
+caras de dois a R$ 10 milhões de reais.
+Kelvin, como que eu sei se as empresas
+que são consideradas nessa zona de
+estouro, a zona de estouro é a zona de
+crescimento. O cara tá crescendo, tá
+crescendo, tá crescendo. Tem alguns
+indicadores que mostram que ele tá
+crescendo, mas por algum motivo ele não
+consegue sair do platô de faturamento
+que ele tá. E aí que entra, porque nesse
+nessa etapa ele tá com falta de gestão,
+ele tá com dor operacional, ele tá com
+dor de contratação, ele tá com dor de
+vendas, ele tem um monte de dor e você
+vai entrar para resolver essas dores.
+Kelvin, como que eu posso identificar se
+o cliente, se aquele lead está nessa
+zona? Para isso, você vai clicar no link
+aqui na descrição desse vídeo e vai cair
+para dentro do nosso grupo no WhatsApp,
+porque lá eu vou dar uma aula secreta na
+quarta, aula secreta secreta não,
+secreta na quarta-feira, explicando para
+você como pessoas da área da tecnologia
+estão criando negócios e faturando,
+criando consultorias e faturando até R$
+100.000 R$ 1.000 por mês com isso daqui
+que eu tô mostrando. E lá eu vou
+explicar detalhadamente sobre como fazer
+um diagnóstico, como fazer um
+mapeamento, quais são os entregáveis que
+você tem cada etapa para que você possa
+estruturar sua consultoria. Então, se
+você tiver interessado, clica aí. Vamos
+voltar aqui. Então, aqui essa pergunta
+serve para isso, para você saber se ele
+tá na zona de estouro, quantos
+colaboradores ele tem? Por que que essa
+pergunta ela é válida? Porque o cara
+pode ter mentido no faturamento. Se ele
+mentiu no faturamento, falou que fatura
+de 2 a 10 e ele vem aqui e coloca algo
+que não é proporcional à aquele
+faturamento do número de colaboradores,
+você já sabe que ele tá mentindo no
+faturamento, entendeu? Qual o RP que ele
+utiliza? Por que que essa pergunta ela é
+estratégica? Porque essa pergunta
+determina se ele tem algum tipo de
+processo, se ele tem algum tipo de
+tecnologia, se ele já investiu em alguma
+coisa para melhorar a operação dele, se
+ele já tem consciência de que
+implementar um RP é algo que vai ajudar
+ele no dia a dia, entendeu? Se será que
+ele tem consciência tecnológica? Então,
+imagina o seguinte, um cliente que não
+tem RP, que não tem sistema, que não tem
+CRM, nem sabe o que que é e não analisa
+dados, é um cara que ele tem zero
+conhecimento tecnológico. Esse cara é
+muito complicado de vender, você vai ter
+que evangelizar ele. O cara não tem RP,
+o cara não tem CRM, o cara não tem nada,
+como que você vai vender para ele? Não
+faz sentido. Você vai deixar de atender
+ele? Não, não vai. Só que a hora que ele
+cair na cal com você, ele não vai. Você
+não vai vender IA para ele. Você vai
+vender primeiro implementação de
+processos básicos, como implementação de
+um CRM de vendas, implementação de um
+RP, de um de um sistema de gestão
+financeira, esse tipo de coisa. Você não
+vai perder dinheiro, você é uma
+consultoria, entendeu? Entendeu a
+sacada?
+É isso que eu lá na Aelera. Vamos lá.
+Quais áreas da empresa enfrentam mais
+gargalos hoje? Por que que isso é
+importante? Porque para entender aonde
+que ele acha que tá dor, sabe onde ele
+vai achar? vendas. Todos acham que tá
+vendas e na real não é em vendas. Às
+vezes é em operação, é em gestão, é no
+financeiro, é no monte de área, mas
+geralmente eles acham que é em vendas. E
+aqui existe algum processo que consome
+tempo demais da equipe? Qual? Campo
+texto para ele falar. Tem que deixar ele
+falar. Tá vendo aqui como que a gente já
+tá, cara? Que que na sua opinião, onde
+que tá consumindo dor? Aqui aqui ele vai
+chorar. Meu Deus, é o time de venda, é o
+RH, o pessoal não trabalha. Tô, virei
+escravo da operação, só eu que faço tudo
+nessa Eu, Onde você
+sente que está perdendo mais dinheiro e
+oportunidade? Então, tá vendo que são
+perguntas estratégicas para extrair o
+máximo possível de informação para você
+analisar, você conseguir montar um
+diagnóstico estratégico e também fazer
+com que ele queira marcar uma reunião
+com você. Então, por exemplo, marque,
+clique aqui, coletamos todas as
+informações, nosso time vai analisar,
+clique aqui para agendar a sua reunião
+estratégica para apresentação do
+resultado final desse processo. Ele vai
+querer fazer e a hora que ele cair na
+cal com você, esse é o momento em que
+você tem que estar com o teu pit de
+vendas muito bem treinado. Como que você
+faz isso? Não acelera, eu te ensino.
+Então vamos lá, recapitulando. Quais são
+os quatro pilares de uma consultoria
+estratégica em inteligência artificial?
+Primeiro, diagnóstico da situação atual.
+Aqui você vai entender onde seu cliente
+tá. Segundo, mapa de oportunidades
+tecnológicas. Então aqui basicamente
+você vai sair com as alavancas. O que
+você enxerga que se você implementar
+naquele teu cliente, ele vai ter
+resultados operacionais muito
+satisfatórios.
+para que ele possa implementar isso.
+Terceiro passo, terceiro pilar, plano de
+ação com prioridade. Você vai definir de
+tudo aquilo que você levantou, por onde
+ele vai começar. Vai começar por aqui,
+sempre visando o quê? Tempo e
+investimento. Sempre menor tempo, um
+balanço vai entre tempo de implementação
+e total do valor investido para cada
+alavanca. E a quarta etapa é a execução
+ou acompanhamento
+desse plano de ação, tá bom? Agora,
+falando de geração de lead, para você
+que começou a empreender agora, para
+você que tá querendo seus primeiros
+clientes, estrutura muito bem o teu
+funil
+de eh diagnóstico estratégico. Esse
+funil aqui vai te gerar vários leads e
+não é qualquer lead que ele gera. Então
+esse funil com as perguntas
+afiadas, com as perguntas certas, vai
+fazer duas coisas. Primeira coisa, vai
+fazer o seu prospect, o seu lead, eh, se
+aflorar na dor. Então, vai ajudar o cara
+a falar: "Puta, eu tô realmente
+atrasado. Eu realmente preciso do que
+essa consultoria tá me oferecendo,
+porque nossa, é muita coisa de errado,
+eu tô muito para trás". E aí no final
+ele vai clicar aqui em quero saber os
+agendar uma cal estratégica com você. E
+logo após esse agendamento, qual que é a
+segunda coisa que ele gera? Gera um mapa
+do teu cliente, um mapa do teu lead para
+você entender todas as dores dele. Na
+verdade, isso aqui já monta até a
+proposta de valor que você vai entregar
+para ele na ca estratégica, na reunião
+estratégica. Sabe qual que é o valor que
+você vai cobrar? Qual que é a sua
+proposta de valor? Então, olha o quanto
+essa etapa ela é importante, entendeu?
+Foca nisso aqui. Se você quiser saber
+mais sobre consultoria, deixa eu abrir o
+a câmera inteira aqui para falar com
+você agora.
+Se você quer saber mais sobre
+consultoria estratégica e inteligência
+artificial, não perca. Na quarta-feira a
+gente vai fazer uma aula secreta, onde
+eu vou passar detalhadamente por esses
+quatro pilares e mostrar para você quais
+são os entregáveis necessários para cada
+pilar desse, para que você possa
+construir a tua consultoria, para que
+você possa tirar essa tua consultoria do
+papel. Ó, deixa eu aproveitar e e pedir
+o seguinte. Se você gostou desse vídeo,
+se você tá gostando do meu canal e do
+meu conteúdo, já curte, já dá o seu like
+aqui, já comenta, participa desse canal
+comigo, já manda para alguém que tá
+querendo empreender, porque eu tô
+fazendo isso aqui realmente para ajudar,
+ajudar quem quer empreender, ajudar quem
+quer montar o teu primeiro negócio,
+ajudar quem que tá querendo fazer
+acontecer. Igual eu de 10 anos atrás,
+quando eu queria fazer acontecer também,
+quando eu queria começar a empreender e
+não sabia um caminho. Entenderam? Espero
+que vocês tenham gostado. Um abraço e
+até o próximo vídeo. Falou. Yeah.

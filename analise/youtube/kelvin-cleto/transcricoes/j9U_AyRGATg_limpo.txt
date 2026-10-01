@@ -1,0 +1,975 @@
+Isso daqui é o que você vai ter que
+construir para que você chegue no final
+de 2026 faturando no mínimo seis dígitos
+todos os meses. 2026 chegou, galera.
+Voltei por aqui, ó. E a palavra desse
+ano é o quê? Ai first. Mas antes de eu
+falar sobre AI First, primeiramente,
+feliz ano novo, muita saúde, muita
+energia para você, porque é só disso que
+você precisa. O resto é você tem que
+correr atrás. Então é igual eu. Vamos
+pedir para Deus só saúde e energia, o
+resto nós toca o pau. Galera, seguinte,
+hein, mais um ano e esse ano a palavra é
+AI first.
+indústrias, empresas, as 23 mil, os 23
+milhões de CNPJ que a gente tem aqui no
+Brasil terão que modificar todo o seu
+processo, terão que modificar, não,
+terão que adaptar e implementar
+inteligência artificial no cerne da
+empresa. Isso é bom para quem? Para nós.
+É bom para nós que queremos empreender.
+É bom para você. Então aqui hoje nesse
+vídeo eu vou falar para vocês sobre o
+roadmap completo passo a passo do passo
+um até o passo seis para que você se
+posicione desse jeito em 2026. Para quem
+para você que tá chegando agora, muito
+prazer, meu nome é Kelvin Clet. Eu sou
+um programador que decidiu empreender
+aos 22 anos de idade, montou a primeira
+empresa que deu certo, né, a General
+Cleans. Eu fiz a venda dessa empresa
+50.1% 1% 2022 agora 20 ano passado e
+2025 eu fiz o meu exit completo e fundei
+também a acelera 360 e também estou
+nessa jornada de empreender, assim como
+vocês, tá? Talvez num nível um pouco a
+mais, talvez de algumas pessoas um pouco
+a menos, mas estamos aí no jogo buscando
+o unicórnio.
+Vamos falar sobre empreendedorismos,
+vamos falar sobre Ya. Então, bora. Deixa
+eu compartilhar minha tela aqui com
+vocês, ó. Esse aqui é o framework, ó,
+pra gente começar 2026 com tudo. O
+melhor negócio de inteligência
+artificial para começar em 2026. Isso
+aqui vai ser o roadmap completo, ó, pra
+gente sair do ponto um até aqui, ó, até
+o ponto seis
+etapas completas,
+ó, aqui. Fica comigo até o final que
+você vai ficar louco. Vamos começar o
+seguinte. Vamos entender qual que é a
+transição global para AI first. Que por
+que AI first em 2026? Que loucura é
+essa? Bora começar em 2023. Então, 2023
+o mundo conheceu literalmente o chat
+GPT. Empresas começaram a usar
+inteligência artificial como ferramenta.
+Cara, aqui eu não sei se foi 2023 ou
+2022, eu criei, por exemplo, a Neuralet
+da General Clans. Que que é a Neuralet?
+Eu peguei o chat EPT e implementei ele.
+Deixa eu ver se tem alguma notícia sobre
+aqui, ó. Neuronet, nós unimos o chat GPT
+e com o Cognitive Service para
+descomplicar a regulação de sinistro.
+Março de 2023. Isso mesmo, 2023.
+Inclusive, isso aqui alavancou o valo do
+meu negócio porque a gente deu, ó, uma
+explodida, tá? Então, as empresas
+começaram a usar isso daqui tudo 2024
+não em janeiro 2024, mas julho mais ou
+menos, aquela explosão de agentes de
+inteligência artificial, fluxos
+automatizados, a galera cria a gente
+aqui, coloca no WhatsApp, principalmente
+no WhatsApp, coloca o chatbot no
+WhatsApp, coloca isso, coloca aquilo,
+porém todo isolado, 100% isolado, nada
+processo por si só.
+Agora, ano passado, meu amigo, ano
+passado surgiram algumas empresas que me
+assustaram.
+Começaram a surgir as empresas AI first
+como resultado real extivo. O que que é
+empresa AI first? Eu não sei nem o que
+que é o AI first. Deixa eu mostrar para
+vocês o conceito, ó. O que é AI first. E
+aí depois eu vou explicar o que que
+realmente é. AI first significa o
+seguinte, é uma filosofia empresarial
+que coloca inteligência artificial no
+centro de tudo, estratégia, decisões,
+produto, operação, integrando a desde a
+concepção de um projeto em vez, ah,
+beleza, aqui é a explicação. E a no
+centro da empresa, mas vamos pegar aqui,
+ó, uma empresa
+nada mais é do que um grupo de pessoas.
+Deixa eu até fazer uma transição aqui
+pra outra tela para vocês entenderem.
+Uma empresa nada mais é do que um grupo
+de pessoa. Um monte de gente se une e
+fala assim, ó, vamos resolver um
+problema, vamos fazer, vamos executar
+esse serviço aqui, bora. Beleza. As
+pessoas vão lá, se juntam para resolver
+um problema. E esse processo dela
+resolver um problema, elas se juntam e
+trabalham em conjunto através de um
+processo. E um processo nada mais é do
+que uma sequência de etapas de
+atividades juntas sequencialmente,
+logicamente, passo a passo para sair do
+ponto A e fazer você chegar do ponto B.
+Logo, todo o processo de empresas são
+feitos para funcionar com pessoas.
+E a inteligência artificial hoje permite
+com que a gente possa tirar as pessoas e
+apropriar, resolver, desde que ele seja
+bem, ela seja bem desenvolvida e
+estruturada,
+mas ainda a gente não consegue resolver
+todos os processos do mundo. Mas a gente
+tá caminhando para isso. Então, qual que
+é a lógica do EIF? nada mais é do que
+você colocar, redesenhar todo o processo
+da empresa para primeiro ser trabalhado
+com inteligência artificial e o ser
+humano apoiando. Então o ser humano não
+é mais peça central da empresa do do
+processo e sim é a chegar, tem coisa que
+não tem o que fazer, mas aí tá tudo bem.
+Mas esse tipo de pensamento permite com
+que você literalmente destrave as tua
+operação. Então o AI first permite que
+empresas de serviço, empresas que t
+muitas pessoas possam ser empresas
+escaláveis. Por quê? Porque ela acaba
+não dependendo mais de pessoa. Você
+consegue entender? Isso é uma loucura.
+Uma empresa de serviço, ela não é
+escalável. Não sei se você sabe disso.
+Ela não é escalável por quê? Porque
+conforme aumenta o faturamento,
+aumenta o volume de recursos humanos
+para entregar de head counts, de
+pessoas.
+Se ela mudar pro modelo AI first, o
+faturamento vai aumentar de forma
+desproporcional com que as pessoas
+aumentam. Então ela começa a se tornar
+uma empresa escalável. Quanto mais
+faturamento, não precisa ter a mesma
+quantidade de pessoas, a margem começa a
+subir. Meu Deus, isso é disruptivo. Isso
+é disruptivo. E é esse o ponto que eu
+quero falar para vocês. Então, assim, a
+gente tá vendo empresas surgirem já no
+modelo AI first, elas têm resultados
+reais e de forma disruptiva. Deixa eu
+ver se eu tô gravando a tela. Tô
+gravando.
+Então, em 2026, a palavra é AI first. E
+você, empreendedor, programador,
+cara que tá prestando serviço e quer
+empreender ou tá empreendendo e quer se
+posicionar, se posicione como isso.
+Domine isso aqui, seja o agente
+fundamental para transformação das
+empresas desse país. A gente tá falando
+são mais de, a gente tá falando de mais
+de 100, de 21 milhões de CNPJ que vão
+precisar se adaptar para um modelo AI
+first. Logo, inteligência artificial,
+ela vai virar infraestrutura padrão do
+crescimento operacional. E você, num
+mundo onde as empresas estão querendo
+ser escaláveis, empresas de serviços
+querem ser escaláveis, você continuar
+como prestador de serviço cobrando por
+hora ou por escopo fechado, não faz
+nenhum sentido. Não tem lógica. Você tem
+que esquecer isso. Por quê? Porque o
+modelo de você, se você ficar como
+prestador de serviço, este modelo é o
+modelo que ele se torna incoerente.
+Ah, Kelvin, mas eu já tô vendendo e a tô
+vendendo a por projeto, tô vendendo
+automação, tô vendendo tecnologia, tô
+fazendo isso, cara. Eh, você só tá
+usando tecnologia num modelo antiquadro,
+num modelo que não permite você se
+alavancar. Não tem lógica, é muita
+energia para levar para pouco resultado.
+Eu reavaliaria, reavaliaria isso, tá?
+só vai vencer quem virar um sistema.
+Então assim, esse é o momento. Vocês têm
+que entender que vocês têm que
+transformar o conhecimento de vocês, a
+estrutura de vocês, a prestação de
+serviço de vocês em um sistema com IA,
+entendeu? Então você vai precisar virar
+o agente de transformação que vai
+impulsionar o EIFT no Brasil. Esse é o
+movimento. É isso aqui que você tem que
+fazer, ó. Seja este agente de
+transformação. Você vai ter milhões de
+clientes para atingir um mercado
+desejando por você. O mercado ainda nem
+tá conhecendo isso aqui. Só que a partir
+do momento que começar a aparecer as
+primeiras empresas nacionais fazendo
+essa esse movimento, se tornando um AI
+first, meu amigo, isso aqui vai ser a de
+arrebentar com o mercado. Então você tem
+que aproveitar isso,
+tá? Acabei de lembrar. Acabei de
+lembrar. Eu saio falando e quem é você
+para falar isso? Para você que tá vindo
+meu vídeo agora, muito prazer. Meu nome
+é Kelvin, eu tenho 33 anos. Eu sou um
+programador que um dia decidiu
+empreender aos 22 anos de idade, montou
+uma empresa, a primeira que deu, que
+teve sucesso. No em 2022, eu vendi 50.1%
+1% dessa empresa em 2025, no ano
+passado, eu fiz o exit dessa empresa,
+que era uma empresa de tecnologia, uma
+insurtec chamada General Cleans, e
+decidi montar a Celera 360. Acelera 360
+nada mais é do que uma escola de
+empreendedorismo totalmente hand zone.
+Na acelera 360, eu ajudo você a
+empreender, a tirar sua ideia do papel,
+a pivotar o teu negócio. Melhor, eu
+ajudo você a entrar no mundo da
+tecnologia, aproveitar a inteligência
+artificial e potencializar aí o teu
+negócio, principalmente sair desse
+modelo de prestação de serviço ir para
+um modelo que permita você crescer mais,
+você alavancar. Se você quiser saber
+mais da Celera 360, o link tá aqui na
+descrição desse vídeo, tá? Deixa eu
+continuar que esse vídeo aqui vai ficar
+bem grande. Então vamos lá.
+Como que eu faço isso, Kelvin? Quero
+entrar. Entendi. Putz, cara, faz total
+sentido. Pesquisa mais sobre isso, lê
+sobre artigo, sobre first, vocês vão
+entender mais. Você vai precisar
+entender o que é ser um agente
+transformador. Para você ser um agente
+transformador, você precisa entender o
+que que ele é. Que que é esse agente
+transformador?
+Ele não é alguém que vende horas. Ele
+não é alguém que entrega serviços
+pontuais ou alguém que depende do
+cliente mandar briefing falando que
+precisa. Ah, fulano, manda para mim aí o
+que que você precisa para ver se eu
+posso te ajudar. Tá aqui o meu
+portfólio, o que que você tá precisando
+aí? Não, um agente transformador não é
+esse cara. Esse cara aí é um Severino.
+Se você é esse severino hoje, parabéns,
+você já não é um agente transformador,
+você é um severino. Você tá no modelo aí
+de prestar serviço como qualquer outro.
+Agora, o que que ele é um agente
+Ele é quem entende do negócio de um
+nicho específico. Ele entende
+literalmente um nicho, entende todas as
+nuances. Ele ataca os gargalos daquele
+nicho com inteligência artificial mais
+processos que entregam crescimento e
+traduz crescimento para mais
+faturamento, mais margem e mais escala.
+Significa que um agente transformador,
+ele pega um negócio, ele pega um negócio
+tradicional, uma empresa tradicional e
+ele entende toda aquela empresa, todos
+os componentes, fala assim: "Cara, todos
+os gargalos eu entendo, eu vou ajustar
+aqui, eu vou ajustar aqui, eu vou
+ajustar aqui" de um único nicho. Ele
+entende muito, ele domina aquele nicho.
+Então, se você, por exemplo,
+é uma agência de marketing, cara, você
+já deve ter um nicho. Se você não tem,
+você precisa ter. Você pode se tornar um
+agente transformador, mas aí você vai
+ter que parar de vender tráfego pago e
+ser um cara literalmente que implementa
+Ia de forma estratégica para fazer esse
+movimento de AI first nas empresas. Se
+você é um consultor, cara, se você é um
+consultor, você faz na data de braçada,
+consultor estratégico, consultor
+financeiro, consultor de tecnologia,
+consultor empresarial, consultor de
+processo em geral, cara, você tem tudo
+para fazer isso. Se você se você ou se
+você conhece essa pessoa que é o quê? É,
+pô, é o cara que foi diretor, tá lá
+paraos seus 50 e poucos anos, tá
+aposentado, só que tá cansado, tá
+até pensando em comprar uma Saveirinho
+para fazer entrega do Mercado Livre,
+mas, pô, já foi um diretor de empresa, é
+um cara que entende muito de um
+determinado nicho, eu tô com muitos
+alunos assim, você pode se tornar um
+agente transformador, porque eu tenho
+certeza que você entende muito de um
+nicho e você só precisa entender agora o
+outro lado, como você encaixa a
+inteligência artificial. Porque os gaps
+do nicho, eu tenho certeza que você
+conhece. Você pode se tornar um agente
+transformador desde que você não foque
+em ficar vendendo as. Então, basicamente
+o papel do agente transformador é
+transformar uma empresa tradicional numa
+empresa com modelo AI first. Fazer uma
+empresa que é de serviço, que não
+escala, se tornar uma empresa escalável.
+Isso é ser um agente transformador, tá?
+Qual que é o primeiro passo para que
+você seja um agente transformador? Você
+tem que escolher um nicho, um nicho
+ideal para você fazer a transformação.
+Ah, mas eu vou fazer transformação em
+todas as empresas, vai dar errado. Nem
+começa, não existe isso. Não dá para
+você transformar, não dá para você ser o
+cara que entende muito. Você tem que se
+aprofundar muito num nicho. Você não
+pode atender e entender de todos os
+nichos, não tem lógica. Então, o
+primeiro passo é você escolher um nicho.
+E aqui eu tenho, por exemplo, essa etapa
+onde eu mostro como escolher um bom
+nicho. Ó, isso aqui que você precisa, ó,
+o nicho dourado. Qual que é o seu nicho
+dourado? Acha ele. Que que é o nicho
+dourado? De milhões de mercados, de
+milhões de nicho, qual que você tem que
+entrar naquele primeiro que tem dinheiro
+para te pagar? Então, vamos lá. Você tem
+que pegar, por exemplo, um mercado, um
+nicho que tem repetição de processo, o
+nicho que tem tarefas repetitivas ou
+elas são padronizadas ou até mesmo com
+alto volume de execução. Ela tem um
+padrão, ela é uma tarefa que ela é
+repetitiva, acontece várias vezes, ela
+tem um volume altíssimo, por exemplo,
+atendimento ao cliente, followup
+comercial, coleta de dados.
+Também tem que ter o quê? potencial de
+crescimento econômico tem que ser um
+nicho, um mercado que esteja crescendo,
+nichos que estão em crescimento ou em
+demanda recorrente no mercado. Então
+assim, ó, tendência de expansão, muitas
+empresas nascendo ou tá tendo injeção de
+capital pelo governo, por exemplo,
+incentivo, saúde, educação, construção,
+energia e por aí vai. Então, ó, isso
+daqui são é o que vai definir, então,
+junção de repetição de processo,
+um nicho que tem potencial econômico,
+que tem gargalo visível. Então, o
+mercado vive um problema claro que trava
+o crescimento.
+Perco o tempo com atendimento, não
+consigo escalar com vendas, dependo de
+pessoas demais. Pô, cara, isso aqui é
+ótimo. E capacidade de pagamento
+significa que você não é para você pegar
+um mercado ou um nicho que, os
+caras não tão tão tão ganhando no almoço
+para pagar a janta. Não é assim que
+funciona. Então é serviço com ticket
+médio alto, profissionais liberais,
+geralmente de forma premium ali, é muito
+bom. ou B2B ou empresas que vendem alto
+valor agregado, venda dividet para B2B
+ou tem alto valor agregado. Então são
+nichos onde os donos têm margem boa e
+urgência em crescer. O cara quer crescer
+e tem margem boa. Resumidamente são
+esses quatro pilares aqui. Se você
+encontrar um nicho, pum, juntou, tem
+essas quatro principais dores, esse é o
+nicho dourado, entendeu? Então esse é o
+nicho onde você vai construir uma
+infraestrutura i first que vai ser
+percebida como mágica. Literalmente a
+pessoa tem que olhar igual a pessoa que
+viu o iPhone pela primeira vez. Meu
+Deus, que coisa incrível. Isso aqui é
+mágica. Olha essa tela. É touch. Cadê os
+botões? Maravilhoso, cara. Como fizeram
+isso? É esse o sentimento que você tem
+que causar. Esse é o sentimento. Putz,
+Kelv. E agora? Como que eu encontro esse
+nicho? Eu entendi como que eu encontro.
+Mastigadinho para você, ó. Tá aqui
+algumas ferramentas de pesquisas de
+nicho para te apoiar, para te ajudar a
+encontrar esse nicho. Vamos começar
+entendendo qual que é o volume e a
+dimensão do nicho, qual que é o tamanho.
+Você pode usar o IBGE, raiz Brasil.
+Kelvin, o que que é raiz Brasil?
+Aqui, ó, dados da raiz, base de dados em
+geral, relação anual de informações
+sociais. Você pode baixar um monte de
+dados aqui. É coisa, isso aqui é coisa
+maravilhosa, cara. Isso aqui tem de
+tudo, tudo, tudo, tudo, tudo, tudo. Você
+consegue, ó, pô, pesquisa de clima
+organizacional, cara, é doideira. Isso
+aqui é doideira. Você consegue pegar
+muita informação aqui dentro.
+Estatística, cara, isso aqui é um site
+maravilhoso, onde eles fazem análise de
+tendência. Você consegue criar sua conta
+de forma análise mais global, né? Então
+não é, não tem do Brasil, mas você pode
+pegar as informações de lá e fazer uma
+análise e trazer essa projetar essa
+visão para cá que vai dar certo,
+entendeu? Estatística tem muita análise
+de tendências de inteligência
+artificial, eles têm pesquisas sobre
+isso. Você pode juntar tudo isso, olhar
+e você consegue criar uma conta de forma
+gratuita. Sebrai Data, dados de empresa
+também você consegue pegar por lá.
+LinkedIn Sales Navigator aqui já é pago,
+mas você também pode pegar número de
+empresa, cargo, setor, fazer uma
+pesquisa profunda. Apollo.io.io. Você
+consegue fazer uma pesquisa por
+segmento, mas a parte boa deles são é
+paga. Google Trends, você consegue
+entender ali tendências que estão
+crescendo de um determinado de tema, de
+um determinado nicho para você poder
+olhar com clareza, tá? E depois você
+parte para identificar processos
+repetitivos e gargalas. como que você
+consegue, né, parte do do processo é
+você entender aqui quais são os gaps e
+como que você faz isso.
+Reddit, o submundo da internet. Reddit.
+Entra lá e vê o pessoal reclamando. As
+dores, grupo de Facebook, de WhatsApp,
+Telegram, um determinado nicho, cora, no
+próprio YouTube faz uma busca pelo
+problema ou pelo nicho, olhando o
+comentário das pessoas no YouTube,
+olhando eh eh experts daquele nicho que
+você tá querendo entrar, que você acha
+que é um nicho bom. Entra no YouTube,
+pesquisa no Instagram do expert, olha os
+comentários, Kelvin, mas dá muito
+trabalho, meu amigo. A vida, vida é
+assim, é aquilo, eh, você tem que ter
+que ter constância
+e tem que dar trabalho, tem que fazer,
+tem que executar. Não adianta, não tem
+nada fácil na vida. Se você quiser criar
+um negócio de verdade, não tem nada
+fácil, não. Isso aqui é verdade, cara. É
+desse jeito aqui. Achou o quê? Achou que
+era só criar aí um SAS, um microS
+lovable e fazer dinheiro. Isso não
+existe. Isso aí é conto da carochinha,
+entendeu? Que que os trouxos acredita
+aí, mas a realidade ela é outra. Vamos
+lá. fez isso, achou o seu nicho e agora,
+ó, passo dois, diagnóstico dos do dos
+gargalos do nicho, gap análises.
+Uma coisa é você olhar pro nicho e
+entender as dores de forma geral. Outra
+coisa, depois que você escolheu o nicho,
+você fazer o diagnóstico. O diagnóstico
+ele é um gap, é uma análise de gap de
+forma profunda, aprofundada. Para que
+que serve isso aqui? Isso aqui vai te
+dar clareza das dores reais que aquele
+nicho tem para criar uma oferta com uma
+proposta clara de AI first. Você vai
+bater forte nisso. Então, basicamente
+aqui você vai juntar, ó, onde as
+empresas atuais estão sangrando e e como
+você pode estancar isso com a
+inteligência artificial. Quais são os
+gargalos operacionais mais críticos
+desse nicho? Aqueles que consomem tempo
+humano e pedem escala, causam frustração
+ou travam o faturamento. Presta atenção
+no que eu tô falando aqui. Não tô
+falando para você criar um agente GPT no
+WhatsApp. Não se trata disso. Isso aí já
+foi. Quem ganhou dinheiro com isso,
+ganhou. Quem fez dinheiro com isso, fez.
+Não funciona assim. Você tem que fazer
+algo real. Então,
+eu não tô falando de transformar a
+indústria as empresas.
+Transformação tem que gerar resultado.
+Logo, você tem que entender aonde que
+ela tá sangrando, quais são os problemas
+que ela está tendo para que você possa
+pensar em soluções num modelo AI para
+que depois você possa vender, mas não
+fazer primeiro, vender, porque você a
+hora que você entende esses gaps,
+você vai lá e vende. Por exemplo, vou
+dar um exemplo para você, ó. Eu sei que
+geralmente quem tem dor na vesícula,
+problema na pedra na vesícula, eu sei
+disso porque eu tô com pedra na
+vesícula. Tem dor aqui, dor forte, aguda
+no lado direito do corpo e nas costas,
+certo? Então, se eu digitar no Google
+dor do lado direito das costas, isso é
+isso é a dor que eu tô sentindo, certo?
+Aí aparece um um uma uma oferta.
+Eh, se você estiver sentindo dores
+agudas, você pode morrer. Clica aqui e
+saiba a solução. Olha, olha. Você, você
+entende o que que é uma oferta clara
+para uma dor específica? Serve para
+isso, porque a pessoa que está sentindo
+aquela dor, ela vai buscar. Mesma coisa
+pro empresário, ele vai buscar. Ele tá
+no Google, ele vai buscar e ele vai te
+achar. Então, eu quero que você ache
+oferta perfeita,
+a estrutura de oferta perfeita. E pra
+gente chegar nessa oferta perfeita,
+antes, você tem que ter clareza das
+dores reais para você entender como você
+resolve elas. Então aqui, como que você
+vai fazer isso? Como que você vai
+entender os gargalos operacionais
+críticos de um nicho? Você vai usar o
+YouTube também para fazer pesquisa.
+Plataformas G2, Capterra, Fórs, Reviews,
+grupos de donos de negócio no WhatsApp,
+no Instagram. Reclame aqui, Trust Pilot,
+vídeos do expert de um determinado
+nicho, comunidade do nicho, você vai
+fazer uma pesquisa profunda.
+Se tiver um nicho com barreira de
+entrada e regulação, isso é ótimo,
+entendeu? Porque isso aqui
+acaba dificultando a entrada no nicho,
+porém se você conseguir fazer essa
+entrada, isso aqui se torna uma arma
+para você, porque do mesmo jeito que
+essa dificuldade existe, no começo para
+você foi uma barreira, depois ela ela
+passa a se tornar uma proteção contra os
+concorrentes. Um exemplo de barreira de
+entrada é e regulação. Mercado médico, é
+mercado seguro. Mercado médico você tem
+de estética você tem a Anvisa, o de
+seguro, por exemplo, você tem a SUSEP.
+Então não é qualquer um que entra, por
+exemplo, nesse mercado, entendeu?
+E aí você vem batendo os gaps desse
+nicho eh nesse estudo mais profundo, né?
+Então, os três tipos de gap que viram
+dinheiro com inteligência artificial,
+gap de oferta, gap de resultado e gap de
+experiência. que que tá todo mundo
+vendendo para esse nicho hoje para
+resolver essas dores que ainda tá tendo.
+É muito importante você entender isso,
+entendeu? Por quê? Porque aí você viu
+que tá todo mundo vendendo no mesmo
+pacote, aí você vem criando a sua
+solução. Ó, a minha aqui, ó, vou mostrar
+para vocês entenderem. O que eu quero é
+que vocês cheguem já com o seu AI first
+OS, entendeu? Com o seu próprio sistema
+operacional AI first, para esse nicho
+que você escolheu aqui. Essa, esse é o
+canal, tá? Hum. Agora que eu lembrei,
+deixa eu aproveitar e fazer um um um
+advertisement aqui. Dia 31 de janeiro
+agora, nós vamos fazer um evento
+presencial aqui em Alfaville, Barueri,
+São Paulo, chamado Vertical AI
+Experience. Então, se você é de São
+Paulo, região, ou se você tem interesse
+em estar aqui, será um evento altamente
+exclusivo para 100 pessoas. Tem 100
+pessoas lá. Vou trazer o Juliano Dutra,
+grande amigo meu e meu mentor. O Juliano
+Dutra, para quem não conhece,
+ele fundou um do, ele foi citou do fund,
+um dos fundadores, fundou a gringo. O
+cara foi do zero ao bilhão duas vezes.
+Duas vezes, duas vezes ele fez 1 bilhão,
+uma empresa de 1 bilhão, né? Vendeu por
+1 bilhão. Ele vai est lá para falar
+disso, para falar um pouco da carreira
+dele, falar dessa oportunidade. Aí a
+First Rodrigo Lopes, fundador da Docket.
+A Docket, para quem não conhece, hoje eu
+acho que é um dos um cartório digitais,
+uma das principais empresas hoje do
+Brasil que funcionam como um cartório
+digital, mas tá lá também para falar
+sobre a inteligência artificial. Então é
+um evento fechado para 100 pessoas.
+Então, se você quer crescer na tua
+carreira, se você quer crescer a tua
+empresa, esse é o melhor momento. Eu,
+Juliano Rodrigo, vamos estar lá em
+painéis exclusivos discutindo sobre
+inteligência artificial, sobre modelos
+de negócio e, principalmente sobre essa
+oportunidade a IF, como você se tornar
+um agente transformador do mercado. Dia
+31 de janeiro, o link também tá aqui na
+descrição do vídeo, tá? Só clicar e
+garantir seu ingresso porque são poucas
+vagas. Vai ser um prazer ter você lá
+comigo. Eh, vamos continuar aqui, então.
+Vamos lá. ferramentas e e validação
+rápida desses gaps que você pode fazer,
+espionar concorrente, validar a demanda,
+montar um mapa visual, claro, para você
+entender dores mais comuns, promessas
+atuais dos concorrentes, onde o cliente
+tá frustrado e onde ele não tá, qual IAL
+automação pode resolver isso de forma
+melhor, mapeamento de jornada do cliente
+do nicho, onde o negócio interage com o
+cliente e onde ele perde eficiência.
+Nossa, isso aqui é ouro. Isso aqui é
+ouro. Toda vez que você olha pra
+eficiência e dor é é maravilhoso, porque
+onde tá perdendo eficiência onde você
+tem que resolver. Exemplo prático aqui
+para você entender o que que é isso.
+Clínica particular, descoberta.
+Geralmente o pessoal resolve com
+marketing e anúncio. Agendamento,
+WhatsApp e telefone, atendimento na
+recepção. É aqui que a galera tá
+perdendo eficiência, tá? É o ganho e a
+perda também. Pós-consulta na cobrança e
+no followup. Retenção de cliente.
+Lembrei de feedback. Então, ó, retenção
+é onde deveria ter crescimento, mas
+ganha eficiência. Eles estão gastando
+com o quê? E perdendo eficiência por por
+falta de lembrete e por falta de
+feedback. Na descoberta, a mesma coisa.
+Ou gastando muito dinheiro com marketing
+anúncio ou não colocando dinheiro em
+marketing anúncio. A e no agendamento ou
+não tem nada automatizado no WhatsApp,
+no telefone ou tem no serve. Então,
+geralmente é isso aqui que tem problema.
+Então, onde há espera, fricção ou tarefa
+manual, tem alto potencial paraa
+inteligência artificial, tá?
+Passo dois concluído, fez o diagnóstico,
+agora você vem, estrutura a sua oferta
+de AI first OS. O que que é esse OS ou
+sistema
+operacional?
+Que loucura. Que loucura. Kelv do céu,
+você quer que eu faça? um Windows, um
+Mac OS, um um Linux, mais ou menos isso.
+Deixa de lado toda a parte de
+programação técnica, arquitetural e tudo
+mais. Esquece isso. Para isso a gente
+contrata um monte de peão programador
+para desenvolver para nós.
+Pensa no conceito.
+Um aplicativo,
+tudo que você opera hoje, essa câmera
+para eu tá gravando, o computador, o
+Miro, tá tudo rodando em cima de um
+sistema operacional.
+O sistema operacional, ele é a
+infraestrutura
+dos aplicativos, do do da tecnologia, do
+software, o sistema operacional e
+infraestrutura. Poderia descer mais
+abaixo o nível e falar que é o código,
+byte, bif, poderia, mas se ninguém
+entender. Sistema operacional,
+infraestrutura.
+Logo, o que que você tem que criar? Você
+tem que criar a sua AI Force, ela tem
+que ser um sistema operacional.
+de crescimento das empresas daquele
+nicho que você atua.
+merda, entendeu?
+Você tem que se tornar parte
+insubstituível. Não dá para eu ter um
+aplicativo do WhatsApp no meu celular
+sem eu ter o Apple S no meu celular.
+Aqui não dá. Então você tem que ser
+parte obrigatória
+do crescimento daquele seu nicho com a
+sua inteligência artificial, entende?
+Eu não não faz nem sentido em 2026 eu
+ficar falando de de N8N automação.
+Esquece tudo isso. O que eu tô falando
+para vocês aqui é conceitual. O que eu
+tô falando para vocês aqui é estrutural.
+Vocês têm que criar algo estrutural. A
+empresa de vocês tem que ser uma empresa
+de infraestrutura. Vocês têm que ser
+fornecedores de infraestrutura. Do mesmo
+jeito que não dá para ter tecnologia sem
+energia, sem energia, vocês têm que não
+dar para ter crescimento daquele nicho
+sem ter o sistema de vocês. Então vocês
+têm que ser a base estrutural das
+empresas e vocês podem se posicionar
+assim em 2026. Vocês vocês podem não,
+vocês devem. E aí é isso aqui, ó. Vocês
+têm que criar um AI first OS, por
+exemplo, no centro. Não vou nem falar do
+centro, vou começar pelas bordas. Eh,
+vamos pegar aqui, ó. Eh, atração de
+lead, geração e automação de lead,
+prospect discovery, enriquecimento de
+dados, segmentação inteligente, funis de
+venda, oferta light para aquele nicho,
+CRM automático, tem que tá aqui
+integrado. Aí, conversão automática,
+sequência de nutrição por e-mail,
+WhatsApp, agendamento automático com
+préframe de objeções respondidas com IA
+treinada proposta com cálculo de R
+embutido, script de vendas vivo e
+atualizando, sei os copilot e remoto. É
+aqui na parte do onboard, formulário,
+checklist de setup gamificado, pá, pá,
+pá, não sei o que lá, integrações e
+acessos automatizados, onboard envia
+vídeo, mais de dúvidas. Esse Kelvin,
+você tá falando de um monte de agente,
+você tá falando de automação, que você
+falou agora, que que isso não é um
+sistema operacional, isso automação.
+Isso aqui
+nichado pro nicho que você escolheu,
+resolvendo a dor que você escolheu com o
+processo é ouro puro. Ouro puro. Isso
+aqui literalmente é um sistema. Tudo
+isso aqui tá junto, ó. Tá unificado num
+único sistema operacional. E no centro
+do teu sistema operacional vai ter a
+inteligência operacional e os dados.
+Significa que você vai vai ter a
+informação que que o Marc Zuckenberg
+pagaria milhões para ter, que é o quê?
+que é o dado específico de um nicho, de
+como aqueles clientes daquele nicho
+cooperam, como eles conversam, como eles
+vendem base de produto. Imagina você com
+20 clientes de um nicho qualquer, todos
+trafegando informação pelo seu sistema
+operacional, pela sua estrutura de A e
+você montando dashboards e montando
+análise e montando dados previsíveis,
+tudo dentro da sua ferramenta, é ouro. É
+ouro. os seus clientes vão se beneficiar
+demais disso. Isso é um AI for. Aí você
+estrutura isso aqui, ó. estrutura, essa
+oferta e vai vender, irmão. Monta um
+funil de aquisição de leads validado de
+mercado mesmo em cima dessa própria
+oferta aqui. Aí, aqui eu tenho até
+alguns não aqui que eu posso
+disponibilizar para vocês.
+Instagram, aquisição de lead, funil de
+diagnóstico, captação de dados, funil
+simples. Captou, aí você entra o quê?
+Roda. Olha, olha o que eu falei aqui
+agora, ó. Você fez lá o nicho, montou o
+diagnóstico, montou a seu o seu AI4
+shows, estruturou a sua oferta. Agora
+você vai fazer o quê? Montou um
+funilzinho de venda para você. Nada
+muito complexo,
+vai validar, vai vender, vai cair para
+dentro, entendeu? Vai pegar, imagina o
+seguinte, validou, foi lá, botou para
+rodar o funil, caiu o lead lá dentro.
+Deixa eu ver se eu tô compartilhando a
+tela certa, toma. Você vai montar um
+modelo de executar um pit consultivo com
+um roteiro validado para você fazer a
+sua primeira venda. Estrutura de pit,
+seis etapas. Que que é pit, Kelv? Pit é
+venda. Basico, que que são essas seis
+etapas? Primeira etapa, abertura com
+quebra padrão de posicionamento e
+posicionamento.
+Parte dois, um diagnóstico do lead. E
+aqui você pode mudar, usar um usar um
+modelo de spin selling. Parte três,
+apresentação do AI first OS. Parte
+quatro. Etapa 4, encaixe personalizado
+do AI first por aquilo que você
+diagnosticou. Parte cinco, proposta
+clara e lógica, mostrando pro seu
+cliente o valor do resultado gerado que
+você consegue dar para ele. Parte seis,
+CTA com segurança, chamando ele para ser
+o seu parceiro, ele para ser
+transformado por você, dando segurança
+para ele, tirando todas as objeções,
+entendeu? Aqui vocês podem usar o head
+comercial
+para fazer uma estruturação de pit, uma
+IAD red comercial para fazer uma
+estruturação de pit completa. Aqui na
+gente fornece para vocês, pros nossos
+alunos. Isso é o foco total dessa cal
+aqui é em conduzir a venda da sua
+infraestrutura de IA. Basicamente isso.
+Você vai vender o AI first sem pressão,
+com autoridade e foco no problema real.
+Não é empurrar, não é forçar a venda
+emocional, é foco, é venda consciente,
+entendeu? Essa primeira venda aqui não é
+para você lucrar, isso aqui é para você
+financiar o seu projeto. Kelvin, não
+acredito. Você quer que eu venda
+primeiro para eu financiar o projeto?
+Isso. Eu quero que você faça igual
+qualquer construtora de casa, de
+apartamento, construtora de residencial.
+Eu quero que você tenha, monte uma
+maquete,
+saia vendendo as casas, saia vendendo os
+apartamentos, levanta o dinheiro com as
+primeiras vendas que você fez para você
+poder construir aquele baita de daquele
+empreendimento maravilhoso da melhor
+forma possível. Sim, é possível fazer
+isso. Sim, dá para fazer isso de forma
+tranquila, desde que você saiba fazer.
+Então, vamos pegar aqui, ó, qual que é a
+lógica do AI first. Isso aqui é o que eu
+falo para vocês, ó, que eu vou mostrar
+para vocês entender o que que é um
+modelo de negócio alavancado.
+Entenda agora o que que é o modelo de
+negócio alavancado. Ó, esse aqui é a
+curva. A vermelha, essa essa linha
+vermelha aqui é sua margem de lucro e o
+verde, a linha verde é o tempo
+necessário paraa implantação.
+Olha aqui, ó.
+O primeiro cliente aqui na linha aqui,
+ó, no eixo X, a gente tem o volume de
+clientes, um cliente, dois cliente, três
+clientes, quatro cliente, n clientes.
+Então vamos pegar aqui, ó. Primeiro
+cliente não dá lucro, negativo, zero,
+mas ele paga quase toda a conta.
+Significa que o dinheiro que entrar de
+implantação mais recorrência, e aqui eu
+tô falando de 20, 30, 40.000 de
+implantação e recorrências de 4, 5.000
+vão servir para você custear a sua
+operação. E o tempo de implantação, ó,
+pau, lá no talo, 45 a 60 dias. Aí você
+vai e fechou o segundo cliente. Opa,
+você já não começou a construir aqui. No
+segundo cliente
+você tem um prazo menor de 50 dias para
+fazer de execução, porém você já teve
+margem. Por quê? Porque aqui você ainda
+tá no processo de execução. No terceiro
+cliente, 25 dias. Olha como caiu
+drasticamente. 25 dias para implantação
+e 20% de margem. Do quarto cliente para
+cima, ó, 40% até você atingir 60% de
+margem e o tempo vem reduzindo para você
+fazer uma implantação de 15 dias. Por
+isso que é um sistema operacional.
+Talvez você seja muito novo, não saiba
+como que antigamente era vendido o
+Windows. E agora eu já tô velho
+suficiente para poder falar isso. Hoje
+eu estou com 33 anos, eu passei pela
+época de CD, disket, peguei mais ou
+menos o disquet CD e tudo mais, mas o
+Windows ele vinha num negócio chamado
+É um disquinho assim que você comprava
+ele. Era esse o modelo de distribuição.
+Você pegava aquele e você instalava
+sozinho. Plugin play. Next, next, next,
+finish.
+A sua infraestrutura, o seu sistema
+operacional tem que ter o mesmo
+conceito. Os primeiros, como você tá
+entrando no nicho, eles são mais
+customizáveis. Você tá entendendo?
+Depois disso, cara, entrou, aplicou,
+executou, resultado veio, vai pro
+próximo. Por quê? Porque você vai
+dominar o nicho, você sa vai saber o que
+tá fazendo, você vai ter clareza de tudo
+que tá sendo feito, do por tá sendo
+feito, do que tem que ser, do que tem
+que ser executado e aplicado. O teu
+cliente vai te ouvir porque você é
+referência. E desse jeito você consegue
+fazer o quê? Ter setups altos e você ter
+uma recorrência adequada.
+Tranquilamente, você vai conseguir
+montar um negócio aí de 100, 200, R$
+300.000 por mês de recorrência. Isso
+significa o quê? 4 milhões 5 milhões ano
+de faturamento com um timinho enxuto,
+margens boas, entendeu? Kelvin e SAS.
+SAS não é para esse vídeo.
+Uh, conseguiram entender? Começamos 2026
+com tudo, hein? Ó, mais um convite para
+você. Dia 31, agora de janeiro, vamos
+fazer o vertical aí. A Expiro, eu quero
+você lá comigo. Não todo mundo, só quem
+quer realmente mudar esse Brasil. que
+tem que tá lá, quer ser o agente
+transformador, vai clicar no link que tá
+aqui na descrição desse vídeo, vai se
+inscrever pro nosso evento, são apenas
+100 vagas, presencial, não vai ter
+online até o momento, talvez a gente
+decida depois, a gente não sabe ainda,
+mas o presencial é um tesão. Vai tá lá
+convidados especiais, Juliano Dutra,
+Rodrigo Lopes da Doct, vai tá lá, clica
+aqui garantos. E se você quiser fazer aí
+ser parceiro da Acelera, ou melhor, quer
+que a Celera seja parceira sua e do seu
+negócio, como ser sua parceira, te
+ajudar a empreender ou a impulsionar tua
+empresa com inteligência artificial, o
+teu negócio, com mudar o teu modelo de
+negócio, você vai clicar no link que
+também tá aqui na descrição desse vídeo
+e vai se inscrever para acelera.
+Vamos lá que agora deu a largada,
+galera. Começão
+2026. É isso. Um abraço para vocês,
+fiquem com Deus e até a próxima.

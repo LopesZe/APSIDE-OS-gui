@@ -1,0 +1,418 @@
+Eu acho que a gente tá vivendo o fim dos
+infoprodutos, pelo menos do jeito que
+eles são feito hoje, tá? Então, nesse
+vídeo eu vou te explicar como a
+inteligência artificial está
+transformando também esse mercado. Eu
+acho que os experts vão ter que parar de
+vender informação. Não faz mais sentido,
+que é o que o infopruto faz. Ele vende
+informação e os experts vão ter que
+começar a vender sistemas que v que tem
+a informação e aí a gente entra numa IA,
+sacou? Entendeu?
+É isso mesmo. Quem se adaptar a esse
+novo modelo de negócio vai novamente
+viver as eras douradas dos infoprodutos.
+E pro expert conseguir fazer isso, ele
+vai precisar de tecnologia. E aí que a
+gente entra, né, papai? Aí que a gente
+entra, porque esse canal é sobre isso, é
+sobre para quem quer empreender no mundo
+da tecnologia, para quem quer montar uma
+consultoria especializada em
+inteligência artificial, para quem quer
+montar uma empresa de SAS, para quem
+quer montar uma uma empresa de
+tecnologia, esse canal é sobre
+isso. Então vamos começar. Vamos lá.
+Bora. Eu vou explicar para vocês. Então,
+nesse vídeo eu vou discorrer sobre esta
+ideia do fim dos infoprodutos, pelo
+menos como eles são feitos hoje. E os
+experts precisam estar atualizados sobre
+isso, tá bom? Bom, se você não me
+conhece, para você que não muito
+conhece, muito prazer. Meu nome é
+Kelvin, eu sou empresário do setor de
+tecnologia, já fiz uma insurtec, vendi,
+tenho outras duas startups. Meu negócio
+é empreender no mundo da tecnologia. E o
+meu último projeto se chama Acelera 360,
+que é uma escola para empreendedores do
+futuro. Depois se você quiser saber mais
+sobre ela, olha aí na descrição desse
+vídeo. Mas vamos começar o nosso vídeo
+sobre o fim dos infoprodutos. Então para
+quem tá assistindo esse vídeo e não sabe
+o que que é um infopruto, então
+basicamente esse, na verdade isso aqui
+são infoprutos onde tem a o papel do
+expert, né, que é o especialista. Então,
+basicamente, o especialista, ele pega o
+conhecimento dele e cria conteúdos como
+PDFs, cursos em vídeo, eh, monta a
+escola, igual, por exemplo, eu fiz com
+Acelera 360, ou ele condensa todo o
+material dele em ferramentas, no Notion
+ou próprias plataformas e faz a venda
+desse produto. Isso é um infopruto. O
+infopruto, por si só, ele tem três
+principais problemas, tá? Então,
+primeira coisa é o seguinte, ó. O
+cliente geralmente ele não tem
+resultado, não é em suma maioria, mas
+cara é muita gente. Quantas pessoas você
+conhece que comprou um produto que ela
+não tem resultado? E por que que ela não
+tem resultado? Porque a ela tem uma
+existe uma baixa taxa de consumo de
+infoprodutos. A pessoa compra e ela não
+consome, ela não assiste, né? Tem tem
+uma baixa taxa de execução também. Então
+além dela não consumir, não assistir o
+vídeo completo, o curso completo,
+geralmente ela não aplica. E aí existe
+um de um problema, né? um problema
+absurdo. Aí também tem a questão da
+sobrecarga de informação, né, que a
+gente chama tal a tal da paralisia. É
+aquela pessoa que ela ficou viciada em
+comprar curso, ela compra, compra,
+compra curso e não consegue aplicar
+nenhum. Terceiro ponto é a recorrência.
+Então o infopruto não tem recorrência.
+Então todo mês é uma nova venda. E você
+todo no modelo de negócio onde todo mês
+é uma nova venda, todo mês você tem uma
+de uma energia para bater a meta. E
+isso é um problema. Isso não é é um
+modelo de negócio que ele não é tão
+saudável, né? Não é um modelo que a
+gente busca, pelo menos eu
+particularmente não busco um modelo que
+não tenha recorrência. Então isso é um
+ponto, isso é um problema do
+infopruto. E aí para resolver esse
+problema, vem aqui o primeiro pulo do
+gato, que foi que aconteceu ali mais ou
+menos, vai, na verdade, acho que se
+consolidou mais em 2023, tá? de 20 a 23,
+que é o seguinte, é a união do curso
+mais a ferramenta de acompanhamento,
+criando o
+info então de um lado, você tem o expert
+gerando curso, o conteúdo dele, o
+conteúdo pro aluno, explicando. Então,
+por exemplo, no caso da Acelera 360, eu
+detalhando pros meus alunos como
+empreender modelos de gestão, como abrir
+CNPJ, como vender, como tirar uma ideia
+do papel, como montar uma DRE,
+acompanhamento, modelos de negócios
+escaláveis. Então, detalhando tudo isso
+e em conjunto criar uma ferramenta SAS.
+E essa ferramenta SAS, ela vai servir
+para o meu
+aluno preencher o sistema. Então, por
+exemplo, se eu ensino lá aplicar um link
+canvas, que é um modelo basicamente ali
+para resumir um plano de um um plano de
+negócio. Aí na ferramenta ele vai
+imputar os dados e a ferramenta vai
+ajudar ele a montar o Link Canvas. A
+ferramenta vai gerar um planejamento
+estratégico. A ferramenta vai fazer o
+acompan vai solicitar o mapeamento das
+despesas dele, das receitas, a vai fazer
+uma projeção de faturamento e vai falar
+para ele o seguinte: "Olha, você ele
+vai, sabe, ele vai ter o, em vez dele
+preencher no Excel ou preencher ou nem
+preencher em nada ou ele mesmo fazer, a
+o SAS vem
+reforçando reforçando o meu conceito de
+empreendedorismo, Bootstrap, que é faça
+você mesmo seu negócio sem sem dinheiro
+dos outros. sem levantar dinheiro,
+entendeu a ideia? Então é tipo assim,
+eh, eu como infoprodutor, eu produzo
+conteúdo e eu desenvolvo um SAS que
+basicamente aplica aquele conteúdo e
+esses dois é o info sas, entendeu? Então
+esse foi o primeiro pulo do gato. Você
+tem o Leandro Ladeira, por exemplo, é
+isso que ele faz, Leandro Ladeira, para
+quem não conhece, o cara que ensina copy
+e ele tem a metodologia dele chamada
+Light Cop. Então, no começo, ele vendia
+só o curso de Lightop dele, o curso dele
+de Light Cop mais o
+SAS que ajuda o seu cliente, o cliente
+que compra o curso dele a aplicar a
+COP. Logo, o que que ele começou a
+fazer?
+Então, além de ensinar, ele começou a
+acompanhar e ele cobra uma mensalidade
+por essa ferramenta de acompanhamento.
+Então, ele tem uma mensalidade inicial
+do curso mais uma mensalidade por mês,
+mas ele tem um valor fixo do curso mais
+uma mensalidade em cima em cima do SAS.
+E para você que empreende, deixa eu te
+falar uma coisa, poucos infoprodutores
+fizeram esse, poucos experts, né, e
+criadores de de expert de infroprodutos,
+né, fizeram este movimento aqui de criar
+o seu SAS. Então, para você que
+empreende, isso aqui já é um de uma
+possibilidade você trazer um um produto
+desse pros experts, para colocar o
+conhecimento dele dentro de um software
+para que ele faça o acompanhamento dos
+alunos dele. Ó, aqui já existe a
+primeira oportunidade, mas não é sobre
+isso, porque isso aqui foi de 2023, a
+gente tá em 2025. E o que que a gente
+tem hoje, né? Aí aqui o que a gente tem
+hoje, que é o que eu quero explorar
+nesse vídeo aqui com você e inclusive
+mostrar para você que eh esse é o
+verdadeiro pulo do tigre, não é nem pulo
+do gato. Esse aqui é o tal do futuro que
+eu falei lá no começo. O que que é esse
+futuro? É juntar essa questão do
+infopruto mais o SAS, do infoas mais a
+inteligência
+artificial. que pariu, isso aqui é
+Isso aqui é Então é info
+produto mais s mais IAS. Criando o quê?
+Info. Não sei o nome disso aqui. Mas o
+conceito é o seguinte. O Kelvin, por
+exemplo, igual eu, o Kelvin da Acelera,
+ele vai lá e ele criou Acelera 360.
+Então o Kelvin, o Kelvin foi lá e criou
+aera 360. Até aí tudo bem. Até aí vocês
+estão comigo aqui. A Celara 360 é a
+escola dos empreendedores do futuro. E
+aí eu vou lá e forneço as minhas
+videoaulas e meus conteúdos sobre
+empreendedorismo. Show de bola. Aí eu
+tenho o meu SAS. Legal, onde o meu o meu
+o meu eh aluno ele já tá acompanhando e
+e eu tô fazendo um acompanhamento dele.
+Aí eu adiciono a
+IA ao meu
+negócio. A IA vai ser o meu segundo
+cérebro. Eu vou treinar aquela IA com
+todo o conteúdo, com todo o conteúdo que
+eu já gravei, eu vou fazer uma, aquela
+IA vai ser a cópia do do expert, ela vai
+ser a minha cópia. aquela IA vai est
+acoplada ao meu SAS e ao meu ponto de
+atendimento dos meus usuários, dos meus
+clientes. Então, imagina o seguinte,
+além do meu cliente estar no SAS, o meu
+cliente vai poder a qualquer momento
+tirar dúvidas com a Kelvin e a e a
+Kelvin A vai ter toda a base de
+conhecimento do Kelvin e tudo sobre o
+curso do Kelvin, mais o conteúdo do
+Kelvin, mais o jeito que o Kelvin fala,
+ela foi treinada para isso. E esse é o
+de um pulo do gato, porque não é
+mais só vender informação por
+informação. a gente tá vendendo um
+sistema que que deten a informação e é
+capaz de ajudar, uma LLM que vai ser o
+segundo cérebro do expert e vai agregar
+muito valor naquela consultoria. Então,
+imagina o seguinte, eu tô com o meu
+aluno, ele acabou de entrar e ele tá com
+dúvidas sobre como eh funciona uma DRE.
+Aí ele vai entrar, ele provavelmente é
+um aluno low ticket, então um aluno de
+ticket baixo, mas ele entrou na minha
+plataforma e vai perguntar assim: "Eu
+quero entender um pouco mais sobre eh
+sobre DRE". Aí a Ia vai falou, vai como
+se fosse eu, vai ajudar ele. Inclusive
+ela vai falar o seguinte, ó, no vídeo
+tal, nos minutos dois e três, o Kelvin
+fala e explica detalhadamente sobre
+isso. Assiste lá e daqui a pouco você
+volta aqui e tira dúvida comigo. Então,
+olha que louco, a IA, ela entrou como
+braço vertical para auxiliar o
+expert com todo o conteúdo dele já
+treinado junto com o SAS. Olha que
+bagulho louco. Isso sim é disruptivo.
+Isso sim é um novo infoproduto. Porque
+aí você elimina a barreira de consumo.
+Então o que que é a barreira de consumo?
+o cara consumir todo o curso,
+assistir todos os vídeos e desistir no
+meio do caminho. Por quê? Porque ele vai
+direto naquilo que interessa ele. Você
+elimina a barreira de execução. Por quê?
+O SAS vai est lá para ajudar ele a
+aplicar. Inclusive a IA vai est lá para
+tirar dúvida. O cara só não aplica agora
+se ele for um bosta. falar assim, cara,
+eu não, o cara comprou por comprar,
+entendeu? O cara tá, não tá nem aí. E
+você elimina a falta de recorrência. Por
+quê? Porque você vai cobrar aqui o
+mínimo por conta da SUIA, mas o seu SAS,
+mais o seu SAS. Então aqui você gera
+recorrência e o cara vai pagar feliz.
+Por que ele vai pagar feliz? Porque está
+gerando resultado para ele, entendeu?
+Tá, Kelvin? E quais são as
+possibilidades que a gente tem aqui?
+Então, vamos lá para você. que é desse
+mundo que de gerar conteúdo igual eu
+entrei agora. Se você é um expert, deixa
+eu te falar, cara, já atualiza o teu
+modelo de negócio para isso. Vai atrás
+de gente que desenvolva isso aqui para
+você, porque quanto mais rápido você
+atualizar o teu modelo de negócio, mais
+à frente você vai tá. E você vai entrar
+novamente na golden
+era, nas eras douradas, novamente nas
+eras de ouro, por conta dessa parada
+aqui, por conta disso aqui. Isso aqui
+realmente vai trazer, vai reaviver toda
+a parada do infoproduto, porque não é só
+um vídeo por gravar aqui. Aqui é
+realmente você quer que o seu aluno
+tenha resultado, tá? Se você é do setor
+de tecnologia, quer empreender igual eu,
+igual os meus alunos, igual os 60 alunos
+que tem na Acelera, que que você tem que
+fazer aqui, cara? Estrutura o teu modelo
+de negócio, a tua consultoria
+especializada em IA para que? para você
+olhar para esse nicho de infoprodutores,
+para você olhar para esse nicho de
+experts e oferecer já isso para eles.
+Você, isso pode começar como uma como
+uma consultoria estruturada e depois
+você ou você pode evoluir até para você
+já ter os seus produtos prontinhos ali,
+white labels para fornecer para esses
+caras já mastigadinho, entendeu? cobrar
+um valor de entrada para de setup mais
+uma mensalidade baseada na comissão por
+aluno
+vendido, eles já estão acostumados com
+esse modelo de negócio. Então, o cara do
+tráfego cobra um percentual, a venda
+cobra um percentual, só você cobrar um
+percentual 3 4% por aluno que usa,
+sacou? Pela da base de alunos. Isso é
+muito, muito, muito bom. Muito muito
+bom. Muito bom mesmo, assim,
+absurdamente. Então, existem n
+possibilidades aqui para você poder
+explorar isso daqui. Isso aqui que eu
+apresentei para vocês é pensar fora da
+caixa. Isso aqui é pensar fora da caixa.
+Isso aqui não é você sair do
+tradicional, é você olhar as suas
+ferramentas, as ferramentas que o
+mercado estão, é, fornecendo como
+inteligência artificial e pensar fora da
+caixa e falar: "Cara, como que eu uso
+isso? Isso aqui é um mercado, ele é um
+mercado de infraprodução para vocês. Oli
+é um mercado de curso, de curso digital.
+Olha que incrível. E já surgiu essa
+oportunidade. E esse tipo de pensamento
+é o que a gente ensina lá na Celera 360.
+Para você que não conhece a Celera 360,
+ela é a minha escola, é a minha
+instituição de ensino. Então ela nasceu,
+ela nasceu agora em março, nasceu de
+março para abril, onde a minha proposta
+é ela, eu vou ensinar desenvolvedores a
+empreender, porque foi esse o caminho
+que eu fiz. Eu era desenvolvedor. Depois
+se você quiser saber mais sobre isso,
+tem alguns vídeos meu aqui no YouTube
+explicando. Eu era desenvolvedor e
+empreendi, deu super certo. Vendi
+uma empresa, tem outras duas startups e
+tá dando super certo, saca? E eu fui
+querer ajudar pessoas nesse nível. E aí
+eu vim implementando e mostrando algumas
+ideias aqui sobre como montar uma
+consultoria especializada em A, porque
+não foca em a gente de A, para de olhar
+para micro eh microssa. Isso aí não,
+isso aí é, isso aí é para vendedorzinho
+de curso, ganhar dinheiro, que isso aí
+não dá dinheiro. E aí o negócio começou
+a evoluir e hoje a Celera 360, na
+verdade, ela virou uma escola para
+empreendedores do futuro. Então, se você
+quer tirar sua ideia do papel, se você
+já tirou sua ideia do papel, mas não
+sabe como crescer com ela, se você
+fatura aí até R$ 100.000 de faturamento
+ou não conseguiu chegar nos seus R$
+100.000 de faturamento por mês, acelera
+360 para você, porque lá eu vou te
+ajudar. Primeiro, se você quer tirar a
+ideia do papel, eu vou te ajudar a
+tirar. Vou te ensinar como que valida um
+MVP rápido em uma semana. Saiu, vendeu.
+Vai estruturar uma máquina de vendas,
+ensinar você a vender isso, a estruturar
+o teu negócio, a fazer gestão dele, a a
+fazer a a fazer o financeiro, a montar
+um planejamento estratégico, a executar
+esse planejamento estratégico, como você
+escala o teu negócio, como você
+contrata. Então, toda a jornada do
+empreendedorismo, e eu chamo de
+empreendedorismo bootstrap. Por que que
+é o empreendedorismo Brotrap? É pessoas
+iguais a mim que tirou a ideia do nada
+do papel com o próprio recurso, sem
+precisar de ventory capital, sem
+precisar de investimento, esse tipo de
+coisa na raça. Então, se você esse
+perfil, clica no link aqui na descrição
+e venha conhecer um pouco a Celara 360.
+Eu, pessoalmente, vou te ajudar, eu na
+verdade, toda a comunidade, né, que a
+gente já tá com mais de 60 alunos a
+executar essa sua ideia, a fazer a sua
+empresa crescer de verdade. Você não vai
+se arrepender. Então é isso, galera.
+Esse é o vídeo de hoje. Gostaram da
+análise? Faz sentido? Faz, não faz? Meu
+a faz o seguinte, deixa deixa eu contar
+comentar uma coisa com vocês. Saia da
+casa, sai da casinha, olha pr olha pro
+mercado com olhar de
+oportunidade, sacou? Olha com olhar de
+oportunidade. dá para eu fazer
+isso aqui, dá para fazer isso daquilo
+ali, pá. dá para entrar para cá,
+dá para ganhar dinheiro aqui. o
+mercado tá mudando assim. E agora a IA,
+como que a IA afeta esse essa estrutura
+e como que eu posso ajudar as pessoas
+que estão lá a usar a IA? Vai com esse
+pensamento fora da caixa, saca? Que você
+vai conseguir romper tudo e tudo que
+você fizer vai dar certo. É isso. Se
+você gostou desse vídeo, já se inscreve
+no canal, já ativa o sininho, já me
+segue, já me procura lá no Instagram. Se
+eu quiser bater um papo comigo, eu tô lá
+pra gente bater um papinho. E é isso aí,
+ó. Falou, seus cachorros. M.

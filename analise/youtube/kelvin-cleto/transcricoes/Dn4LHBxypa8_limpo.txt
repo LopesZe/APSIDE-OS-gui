@@ -1,0 +1,589 @@
+Pessoal, o mundo está mudando.
+Você já sabe disso. E agora, neste
+Neste vídeo, quero mostrar a vocês o seguinte:
+A evolução de um CRM. O CRM
+O tradicional já não se encaixa neste novo cenário.
+mundo. Vou te mostrar aqui neste
+vídeo uma infraestrutura de
+Crescimento impulsionado por IA. Eu trouxe todos os
+arquitetura que somos agora
+transformando em uma solução para que
+entender o que é um mecanismo
+Receita total e por que CRM
+O tradicional já não funciona, já não se adequa.
+Não é que eles não precisem de um CRM, é que
+Basicamente, o CRM responde a isso:
+Eu já liderei o Juan, deixe-me colocá-lo em ação.
+tela cheia. E o líder Juan é
+Aguardando uma proposta. Ver. Mas em
+o mundo em que vivemos, sabendo que
+Juan está à espera de uma proposta que não vai funcionar.
+nada. Quero saber de onde Juan veio.
+Qual foi todo o seu fluxo até então?
+Como você recebeu essa proposta?
+Juan, isso é tudo que posso fazer. E para fazer isso, já
+Eles não precisam de um CRM simples, ou melhor ainda,
+Dito isso, um CRM simples não resolverá o problema.
+Eles precisam criar uma arquitetura de
+renda e necessidade de um
+infraestrutura de crescimento que
+que a arquitetura suporta. Então isto
+Este vídeo tem como objetivo ajudar você a entender o que é um
+Infraestrutura de crescimento impulsionada por IA
+agora estruturado em uma solução.
+Essa solução que eu te mostrei aqui é
+Expandir a IA. É uma ferramenta Acelera.
+360 que disponibilizamos para
+nossos alunos e parceiros, e contém
+nossa metodologia. Mas acima de tudo,
+Quero que eles absorvam o conhecimento e
+Entenda como funciona uma venda em camadas.
+por camada. Vamos analisar tudo.
+camadas, e se eu fosse você, eu pegaria
+Dois valores deste vídeo, ok? Ele
+O primeiro valor que eu obteria seria:
+Como funciona uma máquina?
+aquisição?" O segundo valor é: ¿
+Não deveria ter clicado?
+o link para a descrição deste
+vídeo e tendo se juntado à Acelera para
+Expandir minha operação e iniciar um negócio.
+uma vez? Será que eles pensaram que não haveria um
+tom no início? É impossível. Para
+Para quem não me conhece, prazer em conhecê-lo(a). Meu
+O nome dele é Kelvin Cleton. Eu sou um
+Empreendedor no setor de tecnologia.
+Fundei minha primeira empresa quando tinha
+22 anos de idade. Eu o vendi em 2025, um
+insurtech chamada General Cleans. E hoje
+Sou responsável pela Acelera 360. Nós somos
+um ecossistema focado em acelerar
+empreendedores e empresários,
+ajudando você a entrar na era de
+inteligência artificial, vendendo o seu
+negócios ou operações de expansão com seu
+conhecimento e operacionalização com IA
+. Então, se você quer abrir um negócio, se
+Você quer dar vida a uma ideia,
+Se você é proprietário de uma agência, gerente ou
+consultor, não importa, você tem um
+conhecimento aprofundado sobre um nicho e
+Se você quiser ampliar a escala com IA, clique em
+vídeo, inscreva-se na Acelera e venha para
+Conheça nossa infraestrutura e
+nosso ecossistema. Vamos começar.
+com este vídeo. Muito bem, pessoal, para
+Entendendo isso, o primeiro passo é
+Você entende o que é um CRM, certo? Qual
+As pessoas pensam que é um CRM. Primeiro,
+As pessoas acreditam que CRM é um
+máquina de vendas, e CRM não é uma
+Máquina de venda automática. Basicamente, o
+O CRM foi criado para organizar o fluxo.
+do cliente, o dia do relacionamento,
+relações com o cliente. Então,
+Em um fluxo de vendas linear,
+Basicamente, você saberá qual é o lead.
+está em um determinado estágio. Kelvin
+Ele entrou no funil e agora está
+Aguardando uma proposta. Mas, meu amigo,
+O fluxo de vendas não é linear.
+O cliente não clica, ele agenda o
+reunião e compra. Isso, isso aqui,
+Isso não existe aqui. Isso é um
+Utopia. O cliente vê o seu anúncio;
+Em seguida, clique em "Agendar a reunião".
+Então não, então cancele, assista a um webinar.
+Você vê outro anúncio, clica e entra no
+página de destino, sai da página de destino,
+Voltar à página inicial.
+preencha o formulário, cancele, vá e
+Ele chega, faz isto, aquilo e mais alguma coisa.
+agenda, tem uma reunião, pa, pa, pa,
+estrondo, bum, até que em algum momento,
+Quando chegar a hora de comprar, ele
+fechar. E qual é o grande valor? Ele
+O valor de um processo de vendas é
+para acompanhar e compreender tudo isso, tudo o
+dia. Porque? Porque isto
+Aquele dia fará toda a diferença.
+para que você entenda o comportamento de
+Seu lead, do seu cliente, do seu ICP.
+Resumindo, com o CRM
+Você consegue descobrir o que aquele cliente comprou?
+Em que estágio do funil ele se encontra, mas não
+Você pode responder, por exemplo, qual
+Aquele era o dia inteiro daquele cliente.
+dentro do seu processo de vendas? Não
+Você pode explicar como isso aconteceu?
+essa venda. E agora, com inteligência
+artificial, isso está começando a se tornar um grande
+problema. Porque? Porque se isso
+máquina aqui, que é o centro de
+sua operação de vendas; mas
+Você entende como sua empresa cresce, se não...
+Você entende o que o comportamento de
+seu cliente, se você não entender o quê
+Clique no que é saudável e no que não é.
+e o que não funciona, o que dá certo e o que não dá certo, se
+Você não consegue ter uma visão clara disso,
+Nem você poderá ajudar a si mesmo.
+Empresa em crescimento. Então, isto é
+todo o conceito de que eles sempre
+Eu falei sobre a infraestrutura de
+crescimento com inteligência artificial
+O que é? Como unificar isso?
+os processos? Como você unifica o
+Metodologia de vendas? Metodologia,
+Ali você unifica todo o processo.
+rastreamento, dados e o
+inteligência artificial em um
+infraestrutura para melhorar a
+resultados de negócios. Então,
+Como se faz isso? E eu sempre tive
+predicado o seguinte: "Ei, você tem
+construir infraestrutura de
+Para o crescimento da IA, você precisa definir.
+Para se especializar no seu nicho, você precisa entender tudo isso."
+. E agora, neste vídeo, eu quero
+Mostrarei o projeto de como seria.
+Essa máquina de crescimento, né?
+Então vou abri-lo agora mesmo.
+aqui para que você possa entender o
+arquitetura, mesmo que você possa
+Faça o teste se quiser e entenda isso.
+conceito. Isto aqui é um
+metodologia. Então, aqui está
+Você vai entender o dia, veja só. Eu vou para
+Para lhe dar um exemplo de um dia. Esse
+Isso é um dia de trabalho real. Olha só isso!
+interessante. É este tipo de
+Informações que precisamos ter.
+Então veja aqui. Exemplo do
+dia. Kelvin, vamos lá, ele viu, ou
+Ou melhor, o líder entrou em um
+funil, ele viu um vídeo sobre como criar um
+empresa nativa, no topo da
+funil, origem do YouTube, vídeo desse tipo.
+Então ele se inscreveu em um webinar.
+que é "perene", completando o
+forma. Então ele se juntou a um grupo.
+do WhatsApp, no grupo 021. Ele recebeu
+a mensagem do dia menos um dos
+webinar. Em seguida, ele participou de
+esse webinar. Basicamente, ele
+Permaneceu lá 75% do tempo, 54
+minutos. Em seguida, ele clicou no CTA de
+A oferta, eles fizeram uma ligação, mas não se concretizou.
+Olha, ele perdeu, ele desperdiçou o tempo dele aqui.
+Em seguida, ele assistiu a outro vídeo do YouTube.
+Ela preencheu um formulário, um
+Segunda chamada e aqui, bem, aqui
+Está fechado, entende? Então, foi ali que foi marcado.
+No fim das contas, são como gado, entende? Isso é
+comportamento típico; para isto
+Chamamos isso de rastreamento, mas aqui eu falo
+de um acompanhamento completo e de
+funil orgânico. Entendendo isso,
+Eu consigo entender o que o
+comportamento de compra do meu cliente
+potencial. Eu consigo entender se for
+quente, se estiver morno, ou se estiver
+frio. Posso estruturar um inteiro
+Máquina de venda automática. Mas, meu amigo,
+Imagine como é criar tudo isso.
+Adicione CRM, adicione BI, coloque o
+Rastreamento de metadados, criação de páginas,
+criar isto, criar aquilo, adicionar
+estratégia e tudo o mais. Mas, para
+No fim das contas, é isso que faz a diferença.
+Uma empresa cresce. Agora pense:
+Você acha que uma clínica de estética, uma
+clínica odontológica, um consultório de
+advogados, um escritório de contabilidade ou um
+As indústrias têm esse tipo de
+estrutura? Você acha que Pipefy,
+Pipedrive ou GHL podem construir isso
+Que tipo de arquitetura? Não. É lá que
+Você tem a oportunidade de criar uma.
+Infraestrutura de crescimento impulsionada por IA.
+Estamos falando de uma oportunidade.
+Para iniciar um negócio com IA e expandir o seu negócio.
+operação. Então entenda isto:
+Vou te mostrar como uma arquitetura para
+siga um manual que gere resultados
+real. E que tipo de resultado é esse?
+que? Quando você se concentra na estruturação
+uma arquitetura para gerar
+resultados reais, você alcança esse tipo de
+contratos com pessoas que nem sequer
+Eles são desenvolvedores, fechando negócios.
+de 42, 35, 30, 72, 8.000, 22, não sei
+quanto, 10 e muitos outros que têm
+Resultados obtidos. Então, em
+Em que nicho você pode fazer isso, amigo?
+Seguros, energia, clínicas, indústria
+contabilidade, distribuidores, vendas,
+blá blá blá, blá blá blá. E mais de 40
+nichos já validados com calma
+aqui pela Celera. Você tem a capacidade
+para criar essa máquina geradora de receita,
+Essa máquina de crescimento, essa
+infraestrutura de crescimento com
+Inteligência artificial para o seu futuro
+cliente ou para você mesmo. E se você quiser
+Para agilizar o processo, clique no link.
+que está na descrição disto
+vídeo. Agora vamos lá, deixe-os ir.
+Mostre aqui o que somos.
+estruturação. Isto é Grove
+Ah, é mesmo? Este é o nosso
+plataforma. Portanto, faz sentido que
+Existe uma transação CBAN que
+Está aqui, não é? Então,
+Temos os canais de venda aqui.
+dentro da plataforma. Isto aqui
+Está tudo bem? Agora vejamos aqui.
+É isto que você precisa entender.
+agora. O canal de vendas, o
+automação, não é isso que
+irá gerar o resultado. Me deixe em paz
+Mostraremos aqui como estamos criando
+Isto, certo? Isso dá cinco.
+camadas, pessoas. É isto que
+Nós a chamamos de máquina de gerar receita.
+Primeira camada: atração. Segunda camada,
+bacia hidrográfica. Primeiro você atrai. Terceiro
+camada, relacionamento. Quarta camada,
+conversão. E a quinta camada, a
+medição para fechar a leitura
+completo. Então, veja só, é isso.
+o fluxo deste YouTube. Olha só o que
+interessante. Eu criei uma máquina aqui.
+Chamada do YouTube, sessão estratégica
+chamado, então aqui está, eu tenho o
+Primeira ação, YouTube, conteúdo
+orgânico. Então, é para lá que eu vou.
+Para gravar conteúdo. Então, cada um
+um dos meus vídeos do YouTube tem
+link com um URL. Então, eles podem
+Veja, estou gravando o vídeo, está em
+YouTube. Aqui na descrição de
+Este vídeo contém um link para uma página.
+de pouso que irei apresentar a vocês, que
+fará a captura. Possui o ID de
+seguir. Então o vídeo tem o
+ID do vídeo do YouTube. O
+A página contém o link de rastreamento.
+Assim eu sei qual vídeo é.
+Ao lerem a página, se clicarem
+Nele, você verá que existe um formulário.
+Capturado, ok? Olha só,
+aplicativo. Então, o que é o
+formulário que está configurado para
+esse? Formulário vinculado, entendeu?
+O link está aqui. Tudo certo?
+Ele preencheu o formulário, se ele tiver o
+condição, abre a agenda. Se você abrir o
+Agende, marque a consulta e então
+Você tem a opção de ir para o grupo de
+WhatsApp. Você consegue ver? Mas quem não gosta?
+Ele agendou a reunião, ele agendou a reunião, o que é o mesmo que não.
+Veja, se a resposta for não, ela se enquadra em um
+Dia de aquecimento. Que
+É um dia de aquecimento?
+Ao clicar aqui nesta ação,
+Isso demonstra aqui que um
+dia do e-mail. Isso é
+o recurso que está sendo utilizado.
+É usado para reaquecer
+que ainda não agendou com foco em
+O quê, amigo? O cara voltou à ativa. O
+A ideia é enviar para o grupo do WhatsApp.
+Agende a chamada e coloque-a na agenda.
+Grupo do WhatsApp. Uma vez dentro do grupo
+Do WhatsApp, passamos para a conversão.
+É aqui que você agenda a chamada, veja,
+para conversão. Então, se isso
+tipo de agenda, imagine que o líder
+Agendado aqui, ele pula automaticamente.
+Por aqui. Bum!, ele saltou para cá,
+Qual é a abordagem? Concretize a venda.
+Portanto, deve haver um problema de
+contrato ou link de pagamento que seja
+pago. E, finalmente, o rastreamento termina.
+Isto aqui é arquitetura. Esse
+É o que chamamos de arquitetura de
+renda aplicada na prática. Olhar
+Que visual deslumbrante! Atração, captura
+, relacionar, converter e medir. Em meu
+Visão: este é o futuro do CRM.
+Portanto, não é mais apenas um sistema que
+gerencia o status do líder, mas um
+um sistema que te diz tudo
+trajetória de vendas, onde entrou
+E principalmente, bem, estou com um resfriado.
+. E especialmente se as suas máquinas
+As receitas estão funcionando. E como?
+Seria isso? Por exemplo, vou criar
+Tem uma máquina nova aqui, olha só. Você entende?
+Aqui no bloco de atrações? Pode
+Para adicionar um elemento, vou criar isto.
+máquina e eu vou chamar isso de campanha de
+aquisição por meio de tráfego pago. Então
+Tenho meus blocos aqui, veja, de
+atrair. Vou colocar este aqui.
+campanha de aquisição. No
+campanha de aquisição, eu posso
+Selecione quais campanhas do Google você deseja.
+Anúncios, ou melhor, não anúncios do Google, da Meta
+Neste caso, campanhas publicitárias, ou
+Campanhas de e-mail que eu quero vincular.
+Então, como faço para atrair? Certo, posso ir?
+Independentemente de atrair atenção por meio de anúncios ou não, eu vou
+Como atrair atenção através do marketing por e-mail? Nesta
+Vou atrair pessoas através de anúncios. Bang!
+Eu coloquei lá, eu coloquei o link aqui. Então eu tenho
+Para posicionar os blocos de captura.
+Então, o cara recebeu anúncios, certo?
+Como vou capturar isso? Será que vai receber um
+página de destino, um formulário ou
+Vou te encaminhar diretamente para uma conversa em
+WhatsApp? Então eu envio para o
+conversa diretamente no WhatsApp
+E eu ligo esses pontos, veja só. ?
+Então, quando é que isso vai avançar? E aqui está.
+onde eu coloco a condição. É assim que eu vou.
+Construindo a máquina de vendas. ?
+OK? Ele iniciou uma conversa aqui. ?
+Como vou me relacionar com ele? Isto
+Eu consegui gravar, ele está falando. Agora,
+Como devo estruturar o relacionamento? Depois
+Como faço para movê-lo para o fundo do funil?
+Para que possa ser convertido? E onde fica?
+Estou encerrando o rastreamento de medições.
+Então, este aqui é o
+aplicação de nossa estrutura, de
+nosso material aqui na Acelera 360.
+Estamos criando uma infraestrutura que
+Chamamos isso de growi, que contém este tipo
+da solução interna. Porque
+Isso é importante? Vou explicar o
+porque. Porque, no fundo, é
+É necessário criar um modelo de volante,
+O que é isso? O cliente não compra com
+O primeiro conteúdo, compre mais tarde
+múltiplos fluxos interagindo com você.
+Então você precisa ter tudo
+centralizado. Então aqui está, para
+Por exemplo, em nossa solução, temos
+memória, que é aprendizado em
+a cada momento do dia. Lá vou eu
+estabelecer conexões para que eles possam ver,
+Olhar. Temos o WhatsApp, isto é,
+Números do WhatsApp conectados.
+Temos a opção de conectar o
+WhatsApp não oficial e WhatsApp
+oficial. Porque? Porque no não
+Conectamos todos os funcionários
+fechadores. Todos os fechadores têm seus
+Mensagens do WhatsApp conectadas aqui.
+Instagram conectado, Facebook conectado
+LinkedIn Conectado, Anúncios, Meta
+Anúncios conectados, o Google Ads não está
+Estou conectado porque não trabalho com anúncios do Google.
+Conexão entre e-mail e telefonia
+conectado. Eu uso o Twilio para telefonia.
+. Então, em todos os momentos, nosso
+A estrutura está gerando dados. Ele
+A equipe está trabalhando aqui.
+Olhe, preste atenção. Temos tudo
+processo de atendimento ao cliente, o
+dias, as conversas. A quem
+pipeline que temos os pipelines de vendas
+. Aqui na automação temos o
+configuração de automação,
+os horários de todos os funcionários de fechamento dentro
+da nossa plataforma. E é aí que
+Tudo está acontecendo aqui.
+Agora, como faço para conectar as estratégias?
+Olha só essa loucura. Preste muita atenção.
+Preste atenção aqui. Como faço para conectar todos eles?
+estratégias de recrutamento e
+atração até a conversão em algo
+Exclusivo? Por que? Porque basta fazer um
+Foto de marketing do WhatsApp, de
+Envie um e-mail, crie uma LP ou grave um vídeo.
+Para o YouTube, isso não trará o resultado esperado.
+real. O resultado real é apenas
+Eficaz, só existe quando você tem um.
+estratégia de aquisição clara, de
+estratégia clara de entrada no mercado, uma
+mecanismo de captura claro, um
+estrutura que conecta todos os pontos
+e, principalmente, que você acompanhe, que
+Você armazena essas informações de forma clara em
+cada ponto de contato, sabe, em
+cada ponto onde esse fio se conecta
+com você, para que você possa fazer o
+seguir. Agora, deixe-me explicar.
+Eis como ele foi projetado.
+, VERDADEIRO? Que tipo de arquitetura é essa?
+Como é esse design? Como conseguimos isso?
+Para ter esse dia de verdade. O primeiro passo
+O que eles precisam entender é o seguinte:
+aqui. Fonte de aquisição. Em
+Que fonte de aquisição é possível?
+Configurar esse rastreamento? Então, eu tenho
+Fontes de aquisição de Meta Ads,
+Ei, deixa eu pegar o lápis aqui.
+Meta Ads, Google Ads, YouTube,
+Instagram, SEO, site, e-mail
+eletrônico, WhatsApp e tudo mais
+outros. Então, na estratégia de
+O YouTube, o canal de aquisição, é o
+O próprio YouTube, está tudo bem? E aqui
+Basicamente, eu tenho os recursos.
+Esses são os recursos que temos.
+aqui dentro da estrutura. Sino
+, anúncios, criativos, página de
+página inicial, formulários, WhatsApp, blá blá blá,
+blá, blá, etc., etc. Esse
+Não acho que haja muito o que fazer aqui.
+Explique isso para eles, certo? Quero te mostrar
+Isso é para que você entenda o que é
+modelo de dados para poder construir
+Isto, e principalmente, o que é isto?
+fluxo de eventos. Então, veja só isso.
+daqui. Primeiro, entre em contato. ?
+Quem é o protagonista? Quem é o
+pessoa? O contato está sempre disponível.
+relacionado a um dia. O que é o
+dia em que esse contato foi feito até
+Quais foram os passos para chegar até aqui?
+eventos que desencadearam, que esse contato
+naquele dia específico ele atirou
+Aqui dentro? Que recursos?
+De onde veio? Isso veio da campanha?
+Veio pelo correio? De onde veio?
+veio? Veja isto aqui. Estratégia,
+Qual é a estratégia? Por exemplo,
+a estratégia do canal de aquisição
+do YouTube. Então, estruturado a partir de
+Por aqui, meu amigo, é assim
+incrível. Então, veja só essa loucura.
+Veja como seria o fluxo de eventos.
+O usuário, número de impressões,
+então clicou anonimamente,
+então visitou a página de uma certa maneira
+anonimamente, e depois preencheu o formulário.
+Olha, ele se identificou. Quando isso acontecer
+Clique aqui, temos algo parecido com um pixel.
+nosso, um biscoito, uma ferramenta
+Ele grava tudo. Então,
+Significa que é anônimo, anônimo.
+Olha, ela preencheu o formulário. Oh,
+Agora eu sei quem você é. Agora não é mais
+Anônimo, agora identificado.
+Então, quando entro no WhatsApp, eu já
+é identificado. Ao assistir ao seminário
+Na web, já está identificado. Quando isso acontecer
+Clique, e ele será identificado. Quando ele entra
+Ele é identificado quando é chamado. Ele
+No dia em que foi criado, foi identificado. Então
+que ao longo dessa parte da jornada, ele
+é identificado. Mas é só isso.
+Foi anônimo. Mas quando
+Consigo identificar isso e dar-lhe visibilidade.
+parte onde era anônimo e
+Estou começando a entender o comportamento dele.
+Forma completa. E veja que interessante!
+isto aqui. Você vê aqui que eu tenho um
+Qual é o nome do bloco? Economia
+. Olha só, economia, olha só. Que
+Isso significa o quê? Significa que tudo
+O envio deve ser feito dentro do nosso
+solução. E nós fazemos o
+dar seguimento a isso. Então, porque
+Por exemplo, a ideia é que possamos saber
+Quanto foi realmente vendido, qual é o valor?
+Qual é o custo direto e o resultado?
+E qual é a cobertura? Ter
+visibilidade total da situação econômica
+desta estrutura aqui. Então,
+Por exemplo, me dê mais um.
+máquina aqui. Isto é uma ação
+Estratégico aqui, veja. Aula
+abertura. Vamos analisar este aqui.
+Abra no construtor. Olha só isso!
+interessante. A aula inaugural, por
+Por exemplo, também começa no YouTube.
+organicamente. E daqui em diante
+O YouTube diminui a qualidade de um LP, um LP de qualidade.
+específico. Cada página de destino tem o
+ID de rastreamento, que é parecido com isso
+um pixel dentro. Então, o
+o usuário chega a uma forma de
+Captura, recebe um e-mail, vai até lá,
+confirma a reunião e depois desce as escadas e
+pagar. Veja só que interessante,
+É assim que podemos descobrir. E
+Aqui posso medir os resultados.
+Então, por exemplo, o que é o
+Resultado por unidade? Resultado por
+visualizações no YouTube. Oh
+Estou com gripe, me sinto muito mal. Vistas em
+YouTube, LPs, quantos? Imaginar
+Isto: tivemos 15.000 visualizações no YouTube.
+5.000 visualizações na página inicial.
+Então, posso saber isso com base no
+funil completo por visualização e
+devido ao custo. Se eu tivesse um carregamento de
+WhatsApp aqui, talvez eu saiba, porque
+O envio ocorre dentro do nosso
+ferramenta que chamamos de, ?
+Onde está o marketing? Campanhas.
+Chamamos isso de campanhas.
+Então, nossos especialistas aqui,
+Eles criam a jornada aqui dentro, veja.
+. Em outras palavras, vamos enviar um carregamento de
+WhatsApp, após X dias envie um
+e-mail, depois envie outro e-mail,
+Em seguida, envie outra mensagem pelo WhatsApp. Então
+Ele faz a configuração aqui.
+dentro. Então, o que devemos fazer?
+então? Vinculamos esta viagem a uma
+máquina de vendas e foi assim que conseguimos
+Obtenha o rastreamento completo. Então,
+Nosso próximo passo agora é colocar
+Inteligência artificial para tomar decisões.
+Porque? Porque já temos IA
+Aprendendo o comportamento. Todos
+Isso está no cérebro. Próximo passo
+, trazendo a inteligência artificial para
+a execução. Você entendeu o porquê?
+Porque a base é muito boa.
+estruturado. E veja bem, se você quiser ter
+acesso a esse tipo de solução, isso
+tipo de ferramenta, clique no
+O link que está aqui no
+Descrição deste vídeo, venha para
+Saiba mais sobre o Acelera 360, porque isso pode
+literalmente mudar sua trajetória
+empreender com inteligência
+artificial e, principalmente, mudança
+sua trajetória dimensionando sua operação
+Com IA. Se você possui uma agência,
+consultor, se você for um estrategista, se você for
+Desenvolvedor, isto é para você. Nosso
+O principal objetivo é transformar você em
+Fundador com foco em "IA em primeiro lugar". Então,
+Ainda há tempo para terminar isto.
+ano com pelo menos cinquenta mil
+faturado. Negócio? Nós somos
+junto. Até a próxima. Espero que
+tenham entendido e, acima de tudo,
+entendemos o movimento em que estamos
+O que estamos fazendo aqui na Acelera 360 e o quê?
+É uma infraestrutura de crescimento.
+real. Estamos juntos. Adeus a todos.

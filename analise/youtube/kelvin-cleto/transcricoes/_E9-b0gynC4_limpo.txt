@@ -1,0 +1,514 @@
+o dia que eu mais temia chegou eu
+gostaria que vocês me julgassem só por
+quem eu realmente sou mas agora eu acho
+que vocês vão me julgar pelo código que
+eu escrevo porque hoje eu vou programar
+nessa
+[&nbsp;__&nbsp;] eu jurei que eu não ia programar
+mas não tem como não tem como [&nbsp;__&nbsp;]
+vou explicar para vocês como fazer uma
+nuvem de
+Agentes pra gente chegar ao ponto de
+desenvolver a a Benedita da Inteligência
+Artificial vertical eu vou dar para você
+hoje uma perspectiva a minha visão de
+como você pode usar o próprio chat GPT
+para potencializar a tua plataforma para
+potencializar o teu SAS ou para você
+criar e as verticais que realmente
+entregam muito valor e deixa eu te falar
+você não vai conseguir fugir do código
+vocês sabem que eu sou programador
+csharp então eu vou programar em dotnet
+csharp da microsof soft usando semantic
+kernal que é uma um Framework vai uma
+Lib da Microsoft focada especificamente
+para você criar agentes de Inteligência
+Artificial multiagentes que interagem
+com o código do sistema cara isso dá uma
+amplitude gigantesca para você que não é
+técnico e tá nesse vídeo eu vou tentar
+explicar o mais calmo possível mais
+simples possível eu tenho certeza que
+você vai entender quando você vê os
+códigos
+Abstrai tenta entender na moral tenta
+entender eu vou deixar o link aqui
+embaixo de referência do semantic Kern
+Kelvin eu não Programe C Sharp não tem
+problema absorve todo o conceito vai em
+node vai ter também você vai conseguir
+fazer em Python porque isso é um
+conceito esse semantic kon da Microsoft
+ele nada mais é do que um facilitador
+para quem programa em Microsoft em
+csharp em dnet Se eu fosse você eu já
+aprenderia porque C Sharp é a melhor
+linguagem do mundo vai Microsoft
+patrocina nós [&nbsp;__&nbsp;] ó o zero kelv aqui
+uh vamos lá vamos começar esse vídeo
+porque vai ser longo primeiro eu vou
+começar com uma introdução com vocês que
+é o seguinte que que é uma nuvem de
+Agentes tá então gente uma nuvem de
+Agentes nada mais é do que um monte de
+agente de a um monte de prompts que
+conversam entre eles para trabalhar para
+um resultado então o usuário e vai lá e
+imputa um prompt de comando para um
+agente Inicial esse cara aqui ele chama
+outros agentes e vai trocando mensagem
+então é como se eles estivessem numa
+conversa então você consegue criar
+agentes especialistas para cada coisa de
+para cada parte do assunto para que eles
+componham uma informação e o último
+agente é o agente verificador que que é
+esse agente verificador ele vai
+verificar é o revisor né O cara que vai
+revisar e vai verificar não tá certo
+aqui o resultado E ele vai lá e retorna
+pro usuário Kelvin Não entendi muito bem
+vou te explicar imagine o seguinte eh
+Imagine que eu sou um cara de de
+marketing digital eu tô criando aqui uma
+uma uma ferramenta de meu prompt é cara
+me deu uma ideia aí eu vou ter o agente
+um que é o cara que dá a
+ideia aí eu tenho o agente dois que ele
+é o cara que faz a cop aí eu tenho o
+agente verificador aqui é o
+revisor ele vai ver se aquela cop com
+tem por exemplo um gancho Poderoso Ele
+vai ver se a cop tá no modelo de
+storytelling ele vai ver se a cop tá is
+se não tiver ele vai ficar reiterando
+sempre entre esses agentes aqui até que
+o resultado seja satisfatório ou que a
+quantidade de iterações tenha sido
+alcançada que Óbvio O que que é uma
+iteração uma iteração é a quantidade de
+troca de mensagem ciclos de mensagens
+entre entre os agentes por exemplo esse
+ag gente mandou uma mensagem para esse
+que mandou para esse que voltou para
+esse uma interação duas interações três
+interações quatro até o negócio ficar
+satisfatório isso pode entrar no loop
+infinito então por isso que a gente tem
+a quantidade de iterações Tá bom então
+nada mais uma nuvem de Agentes nada mais
+é do que você potencializar a qualidade
+do retorno do seu resultado trabalhando
+com múltiplos agentes esse daqui pode
+ser todos podem ser por exemplo usando o
+chat ept e mas esse aqui o mais legal é
+esse aqui seu chat ept esse aqui seu
+Cloud sonet
+esse aqui seu Deep
+seic E aí você usufrui 10 20 llms numa
+numa coisa só isso é muito legal gente
+isso aqui é muito louco tá bom e o que
+que é a tal da ia vertical que é óbvio
+que você acabou de falar no começo gente
+a ia vertical nada mais é do que uma
+inteligência artificial nichada com
+capacidade de substituir ou quase
+substituir ali 100% do trabalho manual
+de uma pessoa então é um movimento que o
+pessoal tá fazendo agora de e
+verticalizar as ias eles nicham a ia e
+fazem ela resolver um problema Inclusive
+eu gravei um vídeo sobre a onda que essa
+é uma das maiores ondas que a gente tá
+vivendo uma baita oportunidade para todo
+mundo acessa aí na descrição do vídeo
+que vai tá ou vai tá no cantinho aí ou
+entra no meu canal e Pesquisa lá que vai
+tá lá tá bom já me segue hein já me
+segue me ajuda a crescer aqui se
+inscreve no canal ativa o Sininho e
+vamos embora então assim já resumi para
+vocês tudo né Vamos pro código que eu
+vou mostrar isso I para vocês vamos
+criar uma uma não vai quer dizer vai ser
+uma ia vertical porque Qual que é o
+grande ponto para eu conseguir
+substituir uma pessoa Cara eu tenho que
+fazer eu tenho que por exemplo Vamos
+pegar uma atendente ela tem que receber
+o pedido ela tem que anotar aquele
+pedido ela tem que imprimir ela vai ter
+que enviar um e-mail ela vai ter que
+fazer várias coisas manuais né que todo
+mundo sabe que o prompt hoje de comandos
+não faz o prompt de comandos hoje de uma
+ia de uma por exemplo do chat ept ele
+recebe o comando ele te dá o resultado
+ele Analisa e te dá o resultado E ele
+até consegue fazer algumas ações mas ele
+não tem uma interação profunda com o
+mundo atual de tecnologia e esse é o
+grande diferencial que a gente consegue
+fazer aqui não é que ele não consiga
+fazer também né se você entrar no chat
+ept você vê que você tem algumas alguns
+gatilhos que você pode fazer mas isso
+aqui vai além isso aqui você consegue o
+que eu vou propor aqui hoje é você pegar
+essa inteligência do PR de comandos e
+acoplar em um código nativo de um
+sistema E aí você potencializa aquele
+sistema já existente com uma
+inteligência artificial que realmente
+faça sentido para aquele negócio e aí
+talvez alcançando esse ponto aqui de
+quase substituir uma pessoa é doideira
+que eu vou mostrar aqui para vocês tá ã
+eu vou tentar ser o mais simples
+possível porque eu tenho algumas pessoas
+que não são técnicas tem a galera do no
+code aqui né seus no coders vocês tem
+que tomar vergonha na cara hein mano
+vamos aprender a programar hein Hoje eu
+vou dar um motivo para vocês aprenderem
+a programar vocês vão ver Quer ver então
+vamos lá tô aqui com a minha
+interface gente você quer você vai
+explicar linha a linha do código Não não
+vou eu vou explicar o conceito então
+aqui eu tô no visual Studio Eu usei o
+semantic Kel aqui para fazer isso tá
+deixa eu até mostrar ele aqui para
+vocês quer ver deixa eu abrir aqui o
+Google
+Então vamos lá que que é Kelvin esse
+semantic Kernel então o semantic Kernel
+nada mais é do que um um uma monte de
+uma biblioteca vai então tem aqui um
+development kit da Microsoft para você
+interagir com prompts de comandos
+inclusive você consegue treinar ele com
+com agentes de né você até consegue
+treinar ele ou treinar ele não você
+consegue customizar para apontar ele
+para um uma llm específica sua então por
+exemplo você pode baixar o código do
+liama treinar ela com os seus dados e
+usar o o semantic Kel dentro do C Sharp
+para que você possa chamar essa llm e o
+que eu vou mostrar é fazer ela interagir
+com o teu código que esse que é o grande
+valor do negócio tá Tá qual que é o o
+que você fez aqui que ó vou rodar
+primeiro a minha poc o meu olá mundo o
+meu olá mundo é muito legal então que
+que qual foi a minha ideia como que eu
+testo isso eu criei um assistente
+nutricional ele vai perguntar qual que é
+o meu nome vai descobrir quem eu sou
+buscar na base de dados o qual que é a
+minha e refeição o que que eu tenho que
+comer que o meu nutricionista ou meu
+nutrólogo passou e aí eu vou ele vai
+perguntar o que que você comeu hoje aí
+eu vou falar para ele o que que que eu
+comi ele vai ver se tá de acordo com o
+que foi passado pelo nutricionista E aí
+qual que é a grande Secada ele além dele
+fazer isso
+ele vai analisar se eu t dentro ou fora
+dos parâmetros e se eu tiver fora na
+verdade ele vai jogar pro meu código
+para que eu tome a decisão de acordo com
+o retorno que ele deu aqui dentro Olha
+que doideira Porque a partir do meu
+código eu faço o que eu quiser eu
+explodo o mundo se eu quiser aqui dentro
+Então essa que é grande segredo deixei
+inteligência de analisar para o agente
+os agentes no caso e aí eu
+toma a decisão corretor do que eles me
+derem dentro do código Olha que da hora
+isso aqui ó então aqui ele pergunta meu
+nome meu nome é k tá bom aí ele me achou
+no sistema lá quer onde tá essa base de
+dados irmão irmão tá aqui fixa fixa não
+tá conectado com o banco Mas se você
+quiser conectar também é fa aí ele
+pergunta que que eu comi aqui que é a
+parte mais da hora só comi
+porcaria sacou falei PR ele assim ó cara
+eu só fiz merda nesse momento as llm já
+estão mensagem aqui dentro e conversando
+ela conversou aí uma uma um dos agentes
+que eu criei retornou para mim olha o
+que esse agente retornou um
+Jon Por que que ele retornou um Jon
+porque eu programei eu programei ele
+para
+isso então ele falou ó o termo porcaria
+indica ingestão de alimentos de baixo
+valor nutricional que não estão
+alinhados com a dieta prescrita estô
+fora da dieta já calculou a idade e o
+impacto entendeu que eu tenho o que que
+eu comprometi e ele já me deu as
+recomendações Nossa que exemplo besta
+aqui [&nbsp;__&nbsp;] então faz o melhor [&nbsp;__&nbsp;]
+grava o vídeo aí no YouTube e já
+era é para todo mundo entender para todo
+mundo entender aí vamos lá ó aí aqui ele
+já converteu para mim num objeto do meu
+código no caso do C Sharp deixa eu
+mostrar aqui para vocês então por
+exemplo eu já tenho aqui ó falando
+seguinte alimento o que que eu o que que
+eu violei alimento restrito alimento ele
+ele ele trouxe todas as minhas violações
+alimento restrito termo porcaria que que
+eu Qual que é a lógica que eu criei aqui
+né ó por exemplo uma lógica simples ele
+vai mostrar o resultado no Fronte Beleza
+se eu violei então ele vai fazer um
+disparo de e-mail pro meu nutricionista
+[&nbsp;__&nbsp;] imagina o seguinte vamos
+extrapolar esse rolê eu fui lá no Nutri
+aí o Nutri foi lá e conversou
+comigo meu nutricionista ele tem uma uma
+assistente e ele assistente dele Manda
+uma mensagem para mim toda semana
+perguntando se eu tô seguindo a dieta aí
+imagina o seguinte eu faço um sistema
+que tá conectado com a plataforma lá que
+o meu n que o meu nutrólogo usa e essa
+parada aqui tá conectada com o
+WhatsApp e aí o robô vai me vai me
+mandar uma mensagem né no caso não é aí
+não é a por isso que que precisa do
+código aí não é o o chat GPT o código da
+api que eu construí vai ter uma rotina
+que todo dia de manhã vai me mandar um
+WhatsApp falando assim Kelvin hoje você
+tem que comer bem seu filha da [&nbsp;__&nbsp;] não
+se esqueça aí depois no final do dia
+manda uma outra mensagem falando assim K
+você comeu comi que que você comeu aí eu
+falei
+pá ele vai analisar jogar aqui na llm a
+regra vai tá aqui a llm vai entender
+aqui que eu falei vai interpretar vai
+trocar aí mensagem com os agentes aqui
+vai entender e aí vai retornar pro
+código falando o seguinte ó o k fez
+merda se o k fez merda ele já volta uma
+mensagem no WhatsApp falando o seguinte
+[&nbsp;__&nbsp;] cara [&nbsp;__&nbsp;] você quer emagrecer
+já manda até um vídeo motivacional do
+cariane [&nbsp;__&nbsp;] você tem que emagrecer
+Nossa essa ideia é [&nbsp;__&nbsp;] hein Acabei de
+ter com vocês aqui muito legal
+interagindo no WhatsApp sem precisar de
+quem daquela assistente e já manda um
+WhatsApp pro meu nutricionista falando o
+seguinte cara deu merda o Kelvin não tá
+seguindo e vai falar que ele quer
+emagrecer 20 kg Aquele filha da [&nbsp;__&nbsp;] tá
+comendo o McDonald's
+entenderam acabamos de criar uma e a
+vertical para nutricionista a gente
+matou o assistente nós é devorador de
+emprego Caral entenderam sacou sacou o
+rolê E como que eu fiz isso como que eu
+fiz isso de novo eu não vou entrar no
+detalhe do simant k do semantic Kel aqui
+para vocês mas aqui ó eu vim aqui e
+criei dois dois agentes Ah não três
+agentes a não esse agente aqui eu não tô
+usando mais dois o que analisa a dieta e
+nutricionista então por exemplo eu
+escrevi eu dei um nome para ele né E aí
+eu vim aqui e escrevi o prompt de
+comandos que ele faz sentido avaliar
+para mim e por exemplo o meu agente de
+dieta eu poderia pegar esse prompt e
+jogar no no chat APT que vai funcionar
+igualzinho tá e a única diferença é que
+ele tá no código e que eu tô manipulando
+ele e aqui no agente ó de dieta
+analyser Qual que é o qual que é o
+trabalho desse agente ó o que eu escrevi
+aqui para ele você é um assistente
+nutricional especializado em analisar
+refeições e compará-las com a dieta
+prescrita sua função é analisar
+pá informações da dieta do paciente
+alimento [&nbsp;__&nbsp;] regra regras de análise
+eu escrevi algumas regras bestas né Fest
+fast food é sempre violação alta termos
+como porcaria besteira indicam violação
+alimentos restritos são violações prá
+prá você deve olha que eu falei para ele
+aqui ó você deve retornar um Jon no
+seguinte formato eu estipulei para ele
+Qual que é o formato que a minha
+aplicação interpreta por quê Porque eu
+vou pegar o retorno desse cara esse cara
+aqui é o meu último agente que é o
+agente que analisa o retorno entenderam
+E aí esse agente vai me retornar
+um Jon e esse Jon eu vou processar no
+código entenderam E aí eu
+extrapolei o uso da ia para interagir
+com o meu código
+fonte com o meu codad entenderam
+entenderam que loucura significa que eu
+posso criar uma nuvem de Agentes
+especializadas criar uma API na frente
+plugar que interage e essa api eu posso
+vender pras pessoas ou eu posso usar
+isso na minha empresa para criar regras
+de negócios dinâmicas Olha que doideira
+gente é isso que eu falo para vocês que
+é uma [&nbsp;__&nbsp;] oportunidade vocês T que
+olhar isso com outros olhos já é para
+vocês estarem debulhando esse assunto
+aqui e aqui por exemplo na minha chat
+service o que que eu falo eu falo os
+dois os dois agentes que estão rodando
+eu só vou lá e e falar assim ó cara eu
+vou rodar esses dois agentes E aí aqui
+por trás tem o código para processar se
+não tem não tem aqui não tem muito
+segredo tá o último ag gente retorna um
+aove e esse aove é o que faz ele
+interromper aqui o loop infinito e e
+analisar K eu quero que você me mostre
+linha a linha de código cara não dá
+tempo meus vídeos não são técnicos e não
+é essa a minha ideia aqui mas eu vou
+mostrar aqui para vocês ó que o santic
+kon é muito detalhado é muito
+explicativo você pode vocês tem que
+aprender ler
+documentação vocês podem aqui entrar
+aqui em prompt entender como que
+funciona ó prompt engineer with santic
+carel entendeu semantic santic não
+santic é o nome da da empresa e plugins
+tá vendo ó como se eu conecto com com
+Open api como que eu chamo função vai tá
+aqui dentro como que eu ó o agente
+Framework tá vendo ó chat Competition
+agente vai tá aqui dentro inclusive ele
+tem até os exemplos aqui ó de como você
+usar ó k. builder sh completion agente
+Como que você cria Como que você cria
+mais de um agente tá vendo ó bem
+detalhado bem devagarzinho k não sei
+falar inglês clica direito aqui ó traduz
+você vai conseguir aprender em português
+sem problema nenhum sacou esse vídeo
+aqui eu quero mostrar mais do da
+potência que isso pode ter legal
+kelv curti Onde que eu posso aplicar
+isso deixa eu mostrar para vocês vamos
+voltar pro
+nosso iPad
+você ter com ISO tanto você que quer
+empreender como você que quer intra
+empreender é para vocês dois é Dev que
+quer trabalhar é Dev que quer empreender
+é empreendedor é pro empresário aprender
+é para todo mundo o meu conteúdo aqui tá
+sendo Acho super didático para vocês
+deci GES gente dá para vocês construir
+toda a regra de de negócio dinâmica de
+um projeto usando isso aqui a regra de
+negócio vai ser uma regra mano inclusive
+dá para criar uma regra que ela seja
+literalmente dinâmica que o cara pode
+alterar o prompt de comandos no Fronte
+aí a regra se já já o o chat já muda E
+já começa a processar de um jeito
+diferente mano Isso aqui é [&nbsp;__&nbsp;] bem
+legal análise de exames e triagens
+hospitalares monitoramento de paciência
+do mesmo jeito que eu fiz ionista pode
+ser para médico Então imagina só o
+médico prescreve o medicamento prescreve
+o que o paciente tem que fazer e aí cara
+ele prescreveu Ele clicou no Play tá a
+ferramenta dele tá conectada com a sua
+api que você vai desenvolver que vai
+fazer essa parada automática que vai
+ficar monitorando o paciente pedindo
+informação coletando E analisando ou
+para fazer ou para analisar exame
+triagem hospitalar você chegou no
+hospital faz tudo lá ah tô com febre tô
+com dor do corpo ai se que lá lá a
+menina tá só escrevendo meu Deus Vai
+contando Vai contando P digitou tudo aí
+a [&nbsp;__&nbsp;] do negócio já Analisa e já tria
+você já imprime o papelzinho Ó você é
+verde tá tudo bem Você tá querendo só
+atestado dá para vender pras prefeituras
+o cara vai lá e manda um WhatsApp pra
+prefeitura minha filha tá morrendo tá
+acontecendo isso Socorro pega essa [&nbsp;__&nbsp;]
+joga num monte de ag gente para fazer a
+triagem para fazer análise para
+verificar se é um caso de urgência ou
+não pra prefeitura dá para fazer muita
+coisa muita coisa análise financeira
+detecção de fraude [&nbsp;__&nbsp;] você pega
+maçaroca de informação treina os agentes
+um agente especializado para cada coisa
+esse agente aqui só Analisa se e a
+fraude financeira esse aqui só Analisa
+fiscal esse aqui só Analisa balancete
+esse aqui só Analisa trocas de e-mail
+esse aqui só Analisa isso E aí eles vão
+se conversando e puf chega no resultado
+final educação
+testes personalizados avaliação de
+desempenho nossa mano imagina um agente
+treinado para cada área para cada
+segmento [&nbsp;__&nbsp;] esse agente aqui mano pra
+cultura da empresa RH análise de
+currículo Fit cultural e e que que eu
+escrevi aqui agendar entrevista mano
+agendar entrevista mano você sabe que
+tem uma pessoa que faz isso velho cara
+vou cortar metade vamos se vingar Vamos
+mandar metade do H embora hein essa é a
+nossa missão cara que Sacanagem mas
+Vocês entenderam a potência que isso
+aqui tem quando você Alia o llm com o
+código você quer crescer na sua carreira
+É só isso que você quer aprende essa
+[&nbsp;__&nbsp;] quer quer empreender aprende essa
+[&nbsp;__&nbsp;] prestou concurso para você eu não
+tenho o que falar lá para
+você me entristece o coração me
+entristece galera 21 minutos de vídeo
+chega gostaram do vídeo de hoje se você
+gostou Já se inscreve no canal já ativa
+o Sininho eu vou gravar um vídeo sobre
+hag já também eu quero gravar sobre hag
+para explicar um pouco para vocês como
+fazer isso eu não vou entrar na base
+técnica porque não faz sentido a não ser
+que eu não sei se eu mudo de opinião ou
+não sobre isso eu é muito chato para mim
+ficar fazendo esses vídeos técnicos para
+mim não não é legal cara não não me
+sinto bem posso mostrar como fazer
+gambiarra eu sou bom em fazer gambiarra
+vídeos técnicos em gambiarra se vocês
+quiserem aprender o gambia reace o é um
+design pattern hein orientado a
+gambiarra comenta aqui no meu vídeo
+Valeu galerinha um abraço Falou seus
+cachor

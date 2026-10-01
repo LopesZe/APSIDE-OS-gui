@@ -1,0 +1,852 @@
+Nesse vídeo aqui, eu vou mostrar para
+você como eu vou implementar
+inteligência artificial aqui na minha
+empresa num modelo aí, aí first vai, a
+gente vai disseminar a IA por todas as
+operações, ou melhor, todas as para
+todas as pessoas e você pode entender o
+meu raciocínio para você aplicar aí na
+sua empresa também, tá? Então, se você é
+empresário, entenda uma coisa, você pode
+ficar pensando
+em custo de token
+e ficar travado, ah, vai ser muito caro,
+não vale a pena. Ou você pode ficar aí
+dormindo,
+ou você pode tomar uma atitude e entrar
+na nova economia, melhor, levar a sua
+empresa paraa nova economia, pra
+economia da inteligência artificial.
+Bora começar esse vídeo, então vamos
+então. Um,
+7 da noite e nós aqui gravando vídeo
+para você. Então, presta atenção.
+Entenda o que eu vou fazer. Eu vou
+mostrar, tô com o meu time aqui, ó.
+Estratégia processos pra gente discutir
+agora a disseminação da nossa estratégia
+de inteligência artificial. Então, fácil
+replicar. Então, vamos embora. Vamos
+explicar meu meu negócio então hoje.
+Esse negócio que vos fala aqui agora se
+chama Acelera 360. Acelera 360 ela
+nasceu para ser uma escola para ajudar
+pessoas a empreender. Então a gente
+começou ajudando empreendedores,
+eita, nossa, que letra maravilhosa, a
+tirar as suas ideias do papel.
+Suas ideias do papel.
+Sabe aquela galera que não não faz, quer
+empreender, mas não sabe como tirar?
+Então, ajuda, ajudava essas pessoas,
+ajudo ainda, né, essas pessoas aqui como
+com metodologia, explicando um modelo de
+negócio que eu chamo de infraestrutura
+de crescimento com IA, ensinando como
+que elas vendem pro B2B, como que elas
+vendem isso daqui pros empresários.
+Então, se você que tá, você que é
+empresário, tá aqui nesse vídeo, a
+galera que entra aqui entra para vender
+para você, tá? Então a gente começou
+fazendo isso e esse negócio, como todos
+os outros, vem amadurecendo. Em
+determinado momento, eu comecei a fazer
+consultorias
+B2B, então para outras empresas
+para poder eu fazer o quê? Gravar.
+Gravar
+e gerar materiais para os meus alunos.
+Comecei a gravar e gerar materiais.
+Então isso foi, quando foi que a gente
+começou a fazer essa consultoria ano
+passado, julho, agosto, mais ou menos,
+né? A gente começou a fazer de julho a
+agosto até setembro, mais ou menos,
+várias consultorias com várias empresas
+B2B, várias empresas para vários
+empresários, empresas de grandes grande
+porte, médio porte, algumas de pequeno
+porte, mostrando a aplicação de a no
+negócio sempre focada ao quê? A
+resultado.
+Resultado, gente. Então, olha aqui que
+que significa consultoria de A. Que que
+que que que que que a gente fazia ali?
+Basicamente, a gente pegava uma empresa,
+entendia os processos dessa empresa,
+mapeava o processo, tá? a gente olhava
+falar, cara, se colocar e aqui um
+chatbot aqui, consegue dar resultado. Se
+resolver esta parte do processo, isso
+aqui gera X% a mais de faturamento. Se
+resolver outra parte, isso gera Y% de
+produtividade. E depois a gente vinha
+organizando por volume, ou melhor, por
+investimento, quantidade de investimento
+e complexidade e depois dessa
+organização a gente aplicava. Isso aqui
+gerou muito material para os nossos
+alunos. Só que este ano, no caso 2026,
+agora aqui em 2026,
+o cloud Danropic, acho que você tá
+acompanhando, está fazendo um movimento
+muito claro de criar um sistema
+operacional. O cloud basicamente hoje é
+um sistema operacional com a questão das
+skills, hooks. Com toda a infraestrutura
+que a cloud está montando, deixa eu
+jogar isso aqui no lixo. Com toda a
+infraestrutura que a cloud está
+montando,
+basicamente o cloud vai se tornar
+o sistema operacional
+das empresas. Talvez não das grandes,
+tá? Tá tudo bem, mas das pequenas ele
+vai, ele vai tranquilamente. Hoje
+qualquer empresa de prestação de serviço
+no Brasil consegue fazer um planejamento
+para se transformar num modelo AI first.
+e estruturar ou centralizar
+mais de 60% da operação só no cloud.
+Tranquilo, Kelvin? Que loucura. É real.
+Inclusive, é isso que eu vou mostrar
+aqui, ó. Acelera ainda é uma empresa de
+pequeno porte. Vamos falar de
+faturamento. A gente bateu 2.7 milhões
+no ano passado, que foi o nosso primeiro
+ano de fundação. 1.2 milhões advendos de
+educacional treinamento, 1.7
+ô, perdão, 1.5
+milhões que vieram de consultorias,
+projetos e por aí vai.
+Números bem interessantes para uma
+empresa que começou, que tem 1 ano e 2
+meses de vida hoje. Hoje acelera tem
+1.2, 1 ano e 2 meses de vida.
+Só que o nosso objetivo é crescer ainda
+mais. A gente tá com uma operação bem
+chuta.
+Através deste cenário aqui,
+o que que nós vamos fazer? Inclusive, já
+deixo um convite para você. Se você é
+empresário, se você quer implementar IA
+na tua operação, se você quer criar o
+seu próprio sistema operacional, colocar
+toda a tua empresa, todas as áreas
+usando a sua própria automatizando o teu
+processo, trazendo velocidade pro teu
+negócio, aumentando a tua margem,
+consecutivamente vendendo mais, convido
+você a clicar no link que tá aqui na
+descrição desse vídeo e se inscrever
+para Acelera 360, porque nós vamos
+apresentar para você como nós vamos te
+ajudar com isso, beleza? Então vamos lá.
+Que que a gente vai fazer agora?
+Aqui existe um campo de oportunidade,
+então nós vamos escalar, nós vamos
+crescer.
+Decidimos
+focar, concentrar a a nossa energia em
+empresários, em empresas e ajudá-las
+nesse processo de transformação EIF. E
+para essa escala, a gente vai expandir o
+uso de IA até aqui mesmo dentro da
+Acelera. Porque se eu vou começar a
+vender transformação de IA para as
+empresas, eu eu gosto muito de um
+conceito que a gente chama de dog food,
+comida de cachorro. Então eu tenho que
+consumir o próprio produto que eu estou
+vendendo ou o próprio serviço que eu
+estou vendendo para fora. Então tenho
+que espalhar isso. A IA aqui para mim
+ela estava concentrada em pequenas
+partes do meu processo, mas agora a
+gente chegou a um nível de maturidade
+que faz sentido ela estar na mão de
+todos os meu os meus colaboradores. E
+para este processo novo, ou melhor, para
+essa estratégia nova, eu vou mostrar
+para vocês aqui como eu vou fazer para
+você entender como você também pode
+fazer aí, tá bom? Então vamos começar
+aqui, ó. O que que a gente já tem
+implementado de A aqui? A gente já tem
+aqui,
+eu não sei fazer um cérebro, mas isso
+aqui é um cérebro, ó. Isso aqui é um
+cérebro. Vou deixar num banco de dados
+para ficar mais simples, ó. Nós temos
+aqui o que a gente chama de
+cérebro do negócio, nosso brain.
+Todas as reuniões que eu faço
+já vem para cá, ó. Todas as reuniões.
+Hoje nós usamos aqui o Google Meet e
+aqui reuniões.
+As transcrições.
+[roncando] Vou desenhar isso aqui de
+forma mais bonitinha para vocês
+entenderem, ó. As transcrições
+elas passam por um motor, vou desenhar
+aqui o
+que é basicamente um tratamento dos
+dados, onde a gente entende quais foram
+as lições aprendidas, decisões tomadas,
+quais são as issos, quais são os pontos
+de atenção. Ele passa nesse motor aí
+aqui estrutura em dois arquivos, um
+Markdow,
+que é um arquivo texto, o ponto MD, e o
+outro que é um Jzon. E nós jogamos lá
+pro cérebro, reuniões, conversas no
+WhatsApp
+[roncando]
+corporativo,
+fazem a mesma coisa, vão pro motor e vão
+para lá. Conversas no Teams,
+mesma coisa. Vai pro nosso motor hoje.
+Aulas com alunos.
+&gt;&gt; [roncando]
+&gt;&gt; A gente extrai a transcrição
+e joga pro cérebro.
+Aula, reuniões, WhatsApp, Teams. Tem
+alguma outra coisa? Ah, tá. Reuniões
+estratégicas.
+Essas são tratadas diferente. Reuniões
+estratégicas
+com as pessoas que fazem sentido estar
+também passam por esse motor aqui de
+decisão, de estruturação e é tudo
+armazenado aqui neste cérebro. Esse
+cérebro nosso aqui, os arquivos eles
+ficam armazenados no GitHub.
+Que que é GitHub, Kelvin? É um
+repositório. É como se fosse uma
+biblioteca. Tá tudo lá guardadinho,
+vários livrinhos lá. organizados. Esse
+motor organiza, joga aqui pro Brain,
+isso vai pro GitHub. Só que em paralelo
+isso daqui também vai. E a gente tem um
+outro banco de dados aqui
+que a gente chama de banco de dados
+vetorial. A gente usa aqui, por exemplo,
+o Supase.
+A gente tem um outro motor que atua aqui
+ou uma engine que atua aqui, que
+basicamente o que que ele faz? Ele
+vetoriza para que a IA se conecte aqui
+para dúvidas e tudo mais. E aqui nesse
+brain do GitHub tem esse cérebro, a
+gente tem também no GitHub, então vou
+deixar aqui nessa linha do GitHub, ó,
+nessa esfera aqui do GitHub, a gente tem
+também
+um banco de dados aqui
+de skills, que são as habilidades do
+cloud. O cloud é a principal ferramenta
+que a minha empresa usa. Então aqui, ó,
+nesse conceito AI first, vamos
+estabelecer aqui o cloud. Hoje é o nosso
+coração. Vou pegar aqui, vou deixar aqui
+para vocês entenderem o cloud. Então
+essa aqui é a nossa IA principal, a
+nossa LLM escolhido. Não é uma LLM, mas
+beleza. O Opus é uma LLM, mas o cloud
+aqui com o cloud code, o cloud cowork é
+literalmente o nosso, o nosso cérebro, o
+nosso o nosso os nossos funcionários,
+tá? Aqui [limpando a garganta] cloud
+Kelvin, você usa o open cloud? Eu uso
+também o open, eu uso eu uso que mais?
+Eu tenho agentes desenvolvidos usando
+Google, mas eu não vou entrar na esfera
+técnica para vocês. Isso daqui aqui não
+tem nada técnico. Isso aqui é simples de
+vocês entenderem. Provavelmente você que
+tá pesquisando por A já sabe de GitHub,
+já sabe do Supase. Isso aqui é uma
+arquitetura organizacional dos dados da
+empresa. Então aqui estão os meus dados.
+Kelvin, o CRM não vai para cá não. Não
+vai para cá. Por quê? Porque aqui o que
+que está indo para cá? transcrições,
+gravações, eh conversas do dia a dia,
+coisas humanas, coisas que a gente faz
+no dia a dia com outras pessoas,
+interagindo com outras pessoas. O CRM, o
+dado ele já é mais estruturado, não
+preciso jogar aqui dentro, posso fazer
+um BI, eu posso fazer qualquer outra
+coisa que não precisa de IA para tomar
+essas decisões. Tem uma outra coisa que
+vai começar aí para esse cérebro também,
+o canal aqui do YouTube. Então, as
+transcrições dos vídeos do YouTube mais
+as métricas também vem para cá. ou
+perdão, métricas, não, transcrições,
+mais comentários de vocês. Transcrições.
+Isso aqui foi o primeiro movimento que
+nós fizemos. Tem o quê? uns dois meses
+que a gente tá com isso aqui rodando, é
+dois, três meses. Então, olha isso aqui.
+primeira fase do nosso movimento, AI
+first, na fase um, primeira fase,
+nós erramos, entendemos muito e
+aprendemos muito como armazenar esses
+dados
+para que eles fossem eficientes,
+armazenar os dados
+e, principalmente,
+utilizar
+os dados.
+emites, estruturas que que a gente
+pudesse utilizar esses dados. Então,
+essa aqui foi a primeira fase. Nessa
+primeira fase aqui, quem quem são as
+pessoas chaves que t acesso a esses
+dados para consultar, para mexer, para
+trabalhar? Eu então o Kelvin vou vou
+colocar aqui em níveis vai vou a nível
+organizacional
+se levam
+diretoria, as pessoas que estão à frente
+da estratégia da companhia, basicamente.
+Por quê? Porque o a primeira etapa é a
+gente entender e poder usar isso no
+nosso dia a dia. Não fazia sentido eu
+colocar isso na mão do CS, porque ele
+vai fazer o que com isso aqui? Ele vai,
+na verdade, ele vai sujar. Porque aqui a
+gente começou a aprender muito sobre o
+que fazia ou não sentido estar aqui
+dentro, ó. estar aqui dentro. Beleza?
+Agora [limpando a garganta] nós estamos
+na segunda fase, onde nós vamos
+segunda fase onde nós vamos expandir,
+ou melhor difundir a utilização,
+a utilização disso aqui.
+Como até agora a IA atuou para mim de
+forma estratégica, roteirização, eh
+definição do produto, me ajudando com
+insights. A gente agora vai expandir
+isso para colocar na mão do customer
+success, na mão dos vendedores, na mão
+do gestor de tráfego, na mão dessa
+galera. Eles usam e hoje no dia a dia
+usam, só que usam de forma eh
+dissipada. Cada um usa de um jeito, cada
+um tá com a sua própria licença, cada um
+tem as suas próprias skills e,
+principalmente, a gente não tem uma
+retroalimentação do cérebro com as
+principais decisões, com tudo aquilo que
+foi tratado, usado, por aí vai.
+Então vamos desenhar aqui o organograma
+da nossa empresa, ó, da nossa da nossa
+empresa. Hoje aqui hoje eu assumo a a
+cadeira de CEO, o tal de CEO de de PME.
+A gente tem aqui, vou colocar aqui,
+eu tenho as minhas responsabilidades.
+A gente tem aqui
+um estrategista,
+todos ainda estão abaixo de mim. Gestor
+de tráfego,
+gestor. Aí tem aqui um comercial
+que tem um head aqui. Então aqui tem o
+red comercial. Aí tem aqui o vendedor
+dois e três. Vendedor dois, vendedor 3.
+SDR.
+SDR. Vedo 1 2 3 STR. Isso aí aqui nessa
+parte aqui do estrategista gestor, na
+verdade
+a gente tem aqui também vai a galera do
+marketing estratista gestor, tem o
+social mídia aqui que entra aqui também
+tem a pessoa que faz vídeo
+e o COP hoje a gente não tem ninguém
+especializado em COP. Então
+resumidamente acho que fica aqui. Tem
+aqui o administrativo também. Tem aqui o
+administrativo
+que também é só uma pessoa que faz. Ela
+faz administrativo e financeiro. Ah, tá.
+E tem o o a CS.
+Tem tem a CS aqui, faz isso, tá? Beleza.
+Isso aqui é a parte que cuida do meu
+digital, ó. Aqui, aqui é a parte que faz
+as vendas, administrativo, CS e
+tecnologia. Time de tecralizado
+numa outra empresa que eu tenho chamada
+KCG. Aqui a gente tem alguns devs só, só
+que são devs mais júrio, tá? Então
+assim, ó, é uma empresaalizada, ela não
+precisa ter hierarquia. Por quê? Porque
+a gente é pequeno, oito, nove
+funcionários. Era pequena. Era pequena.
+Só que até agora o uso de ia estava
+aqui, ó, centralizado aqui, ó, somente
+nessas pessoas, ou melhor, nem no
+comercial. Ah, não. Comercial usa bem.
+Comercial usa bem. Agora a gente vai
+difundir isso para cada etapa. Que que
+nós começamos a fazer?
+CS, qual que é o processo
+de customer success?
+Quais são os processos
+administrativos?
+Vou dar um exemplo para vocês. Quais são
+os processos comerciais? Processo deetor
+de tráfego, processo estrategista,
+processo aqui da da social mídia,
+processo aqui do não sei o que que eu
+escrevi aqui agora. Que que tá escrito
+aqui? Escrevi, não sei o que que é.
+Processo de tecnologia. Tecnologia aqui.
+Deixa isolado. Esses aqui já tá bem à
+frente. Deixa isolado. Então, quais são,
+quais são esses processos? Vou dar um
+exemplo para vocês. O CS, o CS ele
+atende
+alunos no WhatsApp,
+que é um um canal de comunicação que nós
+usamos. O CS faz o onboard
+de novos integrantes.
+O CS faz as liberações de acesso.
+O CS faz o acompanhamento da agenda dos
+alunos, o acompanhamento da evolução,
+acompanhamento
+da evolução
+e mais um monte de outras coisas. O
+administrativo, o administrativo e barra
+financeira, que é a mesma coisa. Faz o
+contas a pagar. contas a receber,
+emite nota fiscal, cadastra tudo lá no
+Conto Azul, que é a ferramenta que a
+gente usa aqui de de gestão financeira,
+envia informações pro contador, pra
+contabilidade.
+O administrativo aqui também faz a
+liberação
+dos ou bloqueio dos acessos
+internos para funcionários,
+colaboradores,
+faz o pagamento do salário da folha, né?
+Qu pagar el receber por aí vai. Entre
+osso.
+Processo comercial, que que o Red faz?
+Que que os vendedores fazem? Que que o
+SDR faz? Gestor de tráfego, que que ele
+faz? Estrategista, que que ele faz?
+Tudo, tudo, tudo. Começamos a mapear
+isso daqui. Ele escolheu uma coisa. Qual
+das dos processos que são feitos hoje,
+que seria o processo que traria maior
+liberação de tempo do dia a dia do
+customer success? De longe, de
+[limpando a garganta] longe,
+atendimento ao aluno no WhatsApp. Por
+WhatsApp não é um canal oficial aqui,
+mas ele é o canal central de comunicação
+e o canal mais próximo com o nosso aluno
+que é nosso cliente. Segundo,
+acompanhamento da evolução que acaba
+andando junto. Primeiro, responde no
+WhatsApp tirando dúvidas e o
+acompanhamento da evolução. E olha que
+louco, o atendimento no WhatsApp do CS
+requer muita energia
+do Kelvin apoiando
+a CS. falando: "Cara, ó, tem aula tal,
+tem isso, putz, eu já falei isso para
+alguém, eu já criei esse material, eu já
+criei isso, eu já criei aquilo." Então,
+olha que doideira, além de ter que
+atender o aluno, além de ter que treinar
+CS para fazer isso e tudo mais, ela
+quando ela trava e não consegue
+responder, ela chama e chama aqui
+diretamente aqui para tirar dúvidas.
+dúvidas de aulas, dúvidas de conteúdo,
+dúvidas eh sobre estratégias que eu já
+falei, sobre como fechar um primeiro
+cliente, várias dúvidas, várias, vári
+qual o melhor nicho, qual análise de
+usar, como fazer uma análise SWAT, como
+fazer pesquisa de mercado, como fazer e
+como fazer o entendimento se aquele
+nicho é bom ou se é ruim. Cara, que a CS
+ela não vai conseguir ter o mesmo
+conhecimento que eu tenho, vai demorar
+tempo para ela fazer isso. Então, olha
+que loucura. Primeira coisa que nós
+fizemos aqui,
+ordenamos, essa é a primeira e essa aqui
+é a segunda. Tem as demais, tem backlog.
+Você sabe o que que é backlog? vai ficar
+numa filinha separada em algum momento a
+gente vai atender. De novo, você que é
+empresário, tá assistindo esse vídeo,
+clica no link que tá aqui na descrição,
+se você quiser transformar a sua
+operação para um modelo AI first, porque
+nós da Acelera vamos dedicar esse
+próximo semestre inteiro para resolver
+essa dor. A gente vai apoiar você no
+processo de transformação e first da tua
+operação. Então, clica aqui, se inscreve
+no acelera, porque a gente vai
+apresentar para você como nós vamos
+ajudar o teu negócio a escalar. Você
+você tá entendendo o porque talvez você
+não consiga gerar resultado com a IA no
+teu processo? O problema principal é que
+talvez você esteja tentando resolver
+tudo de uma vez só. Travou aqui. Talvez
+você esteja tentando resolver tudo de
+uma vez só e você tá pulando etapa.
+Porque olha aqui agora como eu me
+preocupei em entender
+como que eu organizo os dados que
+acontecem no dia a dia aqui na minha
+operação primeiro e plugar ele aqui e eu
+comecei a usar primeiramente eu sei
+quais skills funcionam, quais não
+funcionam. Eu já sei os problemas que eu
+tenho aqui. Eu já sei praticamente não
+resolver todos os problemas, mas como
+resolver grande parte dos problemas aqui
+em cima. Eu vou descobrir o restante dos
+problemas. Não tem a hora que o problema
+apareceu, eu vou resolver ele. Aí agora
+que eu vim organizando aqui, eu olhei
+pra CS, ela tava me consumindo muito
+tempo, já começou por aí, porque ela
+tava comendo muito meu tempo e ela
+também tava perdendo muito tempo. Aqui
+eu falei, vou resolver esse problema
+aqui. E aí, como que a gente resolve
+esse problema? Olha agora entrando na
+ferramenta aqui. Olha agora entrando na
+ferramenta.
+Cara, preciso colocar um uma CS no
+WhatsApp. Putz, vou perder a
+proximidade. Então eu vou dar celeridade
+paraa CS. Primeiro, primeiro passo, vou
+dar celeridade para CS responder aí
+aqui.
+Resolução. Como eu resolvo esse problema
+da forma mais rápida possível? Eu vou
+criar
+um helper, [roncando]
+um auxiliar paraa CS.
+A CS vai chamar o helper
+e tirar as dúvidas.
+O helper já está plugado
+aonde? Aqui, ó, CS Helper é o nome dele.
+No cérebro aqui em cima. CS Helper tá
+plugado no cérebro. Logo, tudo que está
+acontecendo aqui em cima no dia a dia,
+durante a noite é processado,
+organizado, estruturado, sanitizado,
+vem para este cérebro no git e vem para
+esse banco aqui. Aí, aí, ah, pluguei ela
+errada. Ah, não, tá certo, tá certo. O
+helper usa uma skill que se conecta no
+banco,
+tá? E aonde vai ficar esse helper? Vai
+ser um programa, vai estar no WhatsApp.
+Pensamento, qual é a coisa mais rápida
+que eu tenho disponível na minha mão que
+me permita fazer isso?
+OpenCloud
+ou Ernest, que é a mesma merda. OpenC ou
+Erm.
+Aonde? Qual que é o canal de
+comunicação?
+Telegram.
+Qual é a métrica que eu vou usar para
+garantir, ou melhor, para validar que o
+CS Helper realmente é uma IA útil para
+mim para eu ir pra próxima fase?
+[limpando a garganta]
+Qualidade
+das respostas, ou melhor, qualidade do
+atendimento da CS.
+A outra métrica,
+qualidade
+das respostas
+do helper, qualidade das respostas do
+helper. Só essas duas. Qualidade do
+atendimento acesso, qualidade das
+respostas do help. Ponto. Desse jeito
+aqui
+eu montei o quê? Eu abri para desenhar o
+quê? Qual que é o plano
+de implementação
+e quanto tempo
+de supervisão?
+De quanto tempo eu vou ficar olhando
+para verificar, para garantir que isso
+aqui tá tá funcionando direito. A gente
+tá rodando há quanto tempo com esse a
+gente aqui? Umas quatro semanas.
+&gt;&gt; Acho que faz um
+&gt;&gt; foi um mês. Um mês. A gente começou a
+rodar isso aqui três, quatro semanas. a
+gente tá analisando a resposta e a
+qualidade, cara. Tá lindo, tá lindo.
+Logo, o que que nós vamos fazer? Vamos
+transformar este CS helper, ou melhor,
+vamos criar um novo canal de comunicação
+para tirar as dúvidas aqui dos nossos
+alunos. A gente vai colocar isso no
+Discord, no Slack, estamos definindo
+ainda. E vamos mudar a cultura do aluno
+de ficar chamando a CS toda hora para
+tirar dúvida besta, para ele abrir o
+ticket de solicitação e receber a
+resposta lá rapidamente ou vamos colocar
+no próprio WhatsApp lá e fazer um
+chatbot. Estamos definindo ainda, mas
+não tá na minha prioridade. Por quê?
+Porque eu já resolvi isso aqui, ó. Isso
+aqui já não acontece mais.
+Acontece quando é uma situação muito
+complexa. E o próprio agente fala:
+"Olha, nesse nível de criticidade, eu
+não posso te responder, chamo Kelvin."
+Aí ela me chama. Entenderam? Olha que
+maravilhoso. Já resolvemos. Só nessa
+brincadeira aqui, ó. Eu livrei na minha
+semana, se ela me chamasse, ã, quatro
+vezes a 20 minutos cada tempo para para
+dar um retorno para ela ou para
+analisar. 2 4 6 8 minutos. Se fosse 10
+minutos, 10 20 30 40 minutos por, ou
+melhor, 10 minutos por por dia. 10 20 30
+4 50 minutos na semana, 1 hora. No
+mínimo. Ela me livrou aqui 4 horas por
+mês, mas livrou muito mais do que isso
+aqui. Muito. Isso aqui é um exemplo só
+para vocês entenderem o que que faz ou
+não sentido. Tá aí o onboard em Kelvin
+ainda tá manual e a liberação de acesso
+ainda tá manual. Por quê? Porque o
+onboard mais liberação de acesso do
+aluno a gente vai fazer num bloco só. E
+o acompanhamento automatizamos também.
+Segundo item, matamos esse primeiro ou
+entramos pro segundo. Que que a gente
+fez no acompanhamento? Mesma coisa. Só
+que em vez de usar o open cloud, perdão,
+mesma coisa entre aspas, em vez de usar
+o open cloud aqui, ah, não, nós usamos o
+open cloud, sim, a gente colocou um open
+cloud para ficar monitorando. Esse daqui
+tá conectado direto no canal dela e ele
+está lembrando e tá fazendo o processo
+de chamada. Olha que simples. Que
+poderia ter sido resolvido mais simples.
+Não, não poderia, cara. Não poderia
+porque eu subi lá um servidor da
+Hostinger, eu coloquei as minhas skills,
+eu coloquei o modelo de memória do
+OpenCall, coloquei tudo estruturadinho e
+tá lá rodando liso, lindo, maravilhoso.
+Se parar de funcionar, eu vou lá
+resolver. Se ficar muito bom e escalar
+ou ele gargalar em algum momento, porque
+escalou, eu vou resolver de outro jeito.
+Mas o processo foi feito. Legal. E agora
+que que a gente vai fazer? Olha que
+loucura agora. Agora a gente contratou
+uma licença do cloud
+para essa CS aqui. Por quê? Porque a
+gente vai dar acesso.
+Vou só segregar aqui, tá? Tem esse
+repositório de skills que ele é nosso,
+mas vai ter um outro nosso mais
+estratégico e a gente vai criar um outro
+que é compartilhado com os colaboradores
+e a gente vai provavelmente criar alguma
+segmentação aqui. Não definimo ainda,
+mas inicialmente vai ter acesso a tudo.
+A gente vai plugar essas skills aqui, ó,
+para ela aqui, ó.
+Tum, vai usar as skills. E essas skills
+elas fazem o quê? Elas vão ter alguma
+rotina. Não sei como eu vou fazer isso
+ainda, mas a ideia é que alimente também
+o cérebro.
+O cérebro. Um lindo, maravilhoso. Ah,
+faltou falar nessa implementação do Open
+Cloud, o que que nós fizemos? Opling
+cloud tem uma funcionalidade chamada
+dreaming, sonhando. Dream, sonhar. Ele
+sonha, ele sonha não, ele é uma rotina
+que processa tudo que ele aprendeu
+durante o dia e cria uma atualização
+numa memória, num banco para ele lá.
+Daqui do dreaming, a gente faz o que
+também, ó. Ó, joga no motor o que ele
+aprendeu que retroalimenta o cérebro.
+Meu, isso é incrível. Isso é incrível.
+Custos. Custos. K. Isso é muito caro.
+Isso é loucura, meu Deus. Do céu. Só que
+tá num cave M4 porque a gente tem
+algumas instâncias. Um servidor da
+Hostinger,
+da Hostinger, que custa acho que R$ 200,
+nem sei.
+&gt;&gt; Dependi
+&gt;&gt; é barato. O Supasano
+pago dele, dá $, se eu não me engano.
+A minha licença do OpenCloud ou do
+cloud, minha que tu, a minha é a 20x.
+estrategista aqui também tem 20x 1200
+2700 não passa de 3.000 Vai ficar em 3K
+de cloud aqui. 3K de cloud. 3K de cloud.
+Pretendo subir isso aqui, provavelmente
+até seis
+6k [roncando] por mês. Resumo da ópera.
+Qual que é o objetivo aqui? Fazer o uma
+pessoa desempenhar a função, ou melhor,
+desempenhar a energia de 10 pessoas.
+Entende? Essa é a lógica.
+Financeiramente se paga muito, Kelvin.
+Mas você cria uma dependência do cloud?
+Não, eu não crio uma dependência do
+cloud. Por quê? Porque realmente o cloud
+é muito bom. Mas existe um negócio
+chamado OpenCloud. Existem outras saídas
+para eu usar. Eu posso criar o meu
+próprio CDK de subaggência, eu posso
+criar LLMs, eu posso fazer várias
+coisas. A questão é que eu não estou
+preocupado com isso, porque assim, a
+cloud não vai subir o preço
+astronomicamente. Vocês se esquecem que
+a gente vive numa economia capitalista.
+Se ela subir muito preço fora daquilo
+que é o correto, que vale, vai surgir
+outra que vai fazer igual. Poderia usar
+o codex aqui também, sem problema
+nenhum. Por quê? Porque os dados é a
+coisa mais importante. Quer qual que é a
+coisa mais importante de tudo isso aqui
+que você tá fazendo? Isso aqui, ó. Ah, o
+primordial. Isso aqui, isso aqui, ó, o
+cérebro. Por quê? Porque eu posso pr
+lugar qualquer outra LLM aqui dentro.
+qualquer outra para consumir isso daqui,
+essas skills, a organização disso daqui,
+isso aqui é o ouro, isso aqui é o que
+faz sentido. E aí eu vou conseguir
+escalar com esse mesmo time que eu tenho
+hoje para um faturamento astronômico.
+Astronômico não, mas a gente vai bater
+10 milhões esse ano. A gente vai crescer
+aí 2 4 6 8 10 quatro vezes. 4x. Esse ano
+a gente vai crescer 4x.
+Entendem o que é um planejamento? Então
+assim, AI first nem sempre é sobre você
+desenvolver a sua ferramenta. Vê se eu
+tô preocupado em desenvolver o meu CRM
+aqui. Se eu tô preocupado em substituir
+o o a conta azul. A conta azul. Caraca,
+não, velho. A conta azul me custa 330
+por mês. 330 por mês, entendeu? Meu CRM,
+CRM pouco caro, porque eu uso DH HL
+aqui, mas para outros fins. Mas CR, CRM
+me custaria aqui uns 400 por mês. É uma
+economia burra, entendeu? 330, 3600 no
+ano mais 4 800 no ano, 4 5 6 7 8 que
+seja 10.000 no ano, 10k ano,
+cara, tá no meu preço, tá no meu preço.
+Vou substituir o Google Workspace, vou
+criar meu e-mail, vou criar meu Google
+Meet. Não. Por quê? Porque se eu colocar
+energia para criar estas soluções aqui,
+criar estes SAS aqui, ó, sabe o que vai
+acontecer? Eu tiro energia de pegar esse
+movimento, de pegar o movimento de
+implementação do cloud, porque tá todo
+mundo dormindo no ponto e de fazer
+dinheiro. Entenda uma coisa, ó. Um CNPJ,
+CNPJ
+é uma máquina, vamos traduzir o que que
+é uma um CNPJ. CNPJ é igual a máquina de
+dinheiro.
+Significa que você coloca desse lado R$
+1 e desse lado aqui tem que sair R$ 3.
+Um exemplo. CNPJ é uma máquina de
+dinheiro e se você não pensar desse
+jeito, você vai ficar travado. Existem
+algumas algumas limitações técnicas.
+Existem. Tudo bem, tá tudo bem. pro meu
+momento, tá perfeito. Eu sou uma pequena
+empresa ainda. Eu garanto para você o
+seguinte, em vez de eu ficar parado nas
+limitações técnicas,
+o meu olho tá nos 10 milhões. Porque eu
+garanto para você que se eu chegar nesse
+faturamento, eu contrato um arquiteto,
+eu contrato um engenheiro de IA, eu
+contrato um CTO, eu contrato gente,
+porque eu tenho o quê? Tenho caixa,
+tenho caixa. Então, a minha preocupação
+tem que ser em aumentar o meu
+faturamento,
+aumentar as minhas margens e ainda
+garantir ter a possibilidade de escalar
+o meu negócio. Então, para você que tá
+assistindo esse vídeo, presta atenção
+uma coisa. Você tem que focar em
+transformar a sua operação para um
+modelo AI first. E para este modelo AI
+first, a primeira pessoa que tem que
+pensar em AI first é o dono.
+É o dono do negócio. Você tem que
+implementar, não, mas você tem que usar,
+você tem que saber, você tem que
+conhecer, você tem que saber porque
+senão você não vai conseguir cobrar. E
+principalmente a gente tá numa esfera
+onde as pessoas estão negacionistas. A
+gente tá numa esfera onde as pessoas são
+céticas contra o que está acontecendo.
+Você, você como empresário, você como eh
+eh fundador, como dono da firma, você
+tem que pensar desse jeito. Não pensar
+no Open Cloud em configurar, não, mas
+você tem que usar o cloud, cara. Você
+tem que, se você não usar no seu dia a
+dia para resolver os seus problemas que
+você faz de forma manual, você não vai
+conseguir entender a capacidade que isso
+tem. Então assim, assuma o conceito do
+dog fooding. Assuma o conceito do dog
+food. Ixi, que que eu fiz aqui, velho?
+travou tudo. Assuma esse essa premissa
+pra tua vida e comece a fazer tudo que
+você puder usando as fronteiras, entenda
+as limitações e não deixe ninguém
+ninguém falar para você o que não dá
+para fazer. Não deixa ninguém falar para
+você que não é possível, porque tá todo
+mundo cético. eles vão para
+cima que é tudo nosso. Ó, mais uma vez
+eu te convido para conhecer Acelerar
+360. Venha fazer parte dessa nova
+próxima fase ou nova dessa próxima fase
+da nossa empresa. Vai ser um prazer te
+auxiliar a fazer isso aqui, ó. É você
+que tem que bater o bum para isso aqui
+acontecer. Não adianta ficar esperando
+de funcionário, não adianta ficar
+esperando de dev, não adianta
+terceirizar a responsabilidade. A
+responsabilidade ela é toda sua. Fechou?
+Esse vídeo é sobre

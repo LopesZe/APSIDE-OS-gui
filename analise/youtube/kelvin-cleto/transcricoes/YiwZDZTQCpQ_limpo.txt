@@ -1,0 +1,378 @@
+eu vim te dar uma boa notícia gafanhoto
+a ya não vai tomar o seu emprego e pode
+ficar calmo de verdade sabe por quê
+Porque eu estou essa semana inteira
+utilizando o cloud code utilizando o
+clud o 3.7 sonet usando o
+cursor para resolver problemas reais
+daqui da minha empresa e o que que eu
+notei Tá sim ela ajuda muito Não tem
+como negar mas cara não dá ela não vai
+vai dizimar os desenvolvedores o que vai
+acontecer é uma
+redução no número de desenvolvedores que
+uma operação precisa que um time de uma
+Squad que um time de tecnologia precisa
+e com isso sim você tem que se preocupar
+porque o cenário é um time de de 10
+pessoas vai virar um time de quatro
+pessoas Então assim uma redução bem
+agressiva provavelmente aí de uns 60%
+Mas vai demorar um pouco mais para isso
+acontecer
+ã talvez não em 2025 talvez não em
+2026 mas em 2027 sim mas isso é só se
+você olhar pro copo vazio e hoje eu
+quero dar uma perspectiva para você
+olhar pro copo cheio sabe quando você
+pega um copo aquela aquela metáfora o
+copo tá o copo tá com meio com água pela
+metade você olha e fala assim esse copo
+vazio ou ele ele copo tá vazio esse copo
+tá cheio alguns olham e falam assim não
+esse copo tá vazio e outros vão olhar e
+falar esse copo tá quase cheio
+entenderam Então vamos treinar hoje uma
+visão que é a visão otimista da história
+você dominando aá você é um programador
+você se esqueceu que você sabe programar
+que você sabe ler uma documentação
+técnica Por que que você não treina a
+sua própria llm pega lá o modelo do da
+do Lhama E treina a sua llm explicando
+para ela como programar para que você
+possa usar ela cria uma hag com um
+projeto para você aprender a a
+a para você jogar mais informação PR llm
+para ela ficar mais inteligente começa a
+dominar esse assunto começa a estudar
+sobre isso não se trata de você
+desenvolver um algorit ritmo de
+Inteligência Artificial se trata de você
+aprender a utilizar a inteligência
+artificial ao seu favor eu tava
+conversando com um meu canal Instagram
+agora tá bombando de mensagem né e
+muitos me falaram que estavam
+preocupados com a ia cara meu deus do
+céu a ia vai tomar meu emprego eu falei
+cara ela vai tomar o seu emprego Se você
+deixar ela tomar se você for burro
+porque eh no final das contas ela é só
+mais uma ferramenta como o aws como o
+mongo como
+o framework.net com como um RM ela
+facilita o processo ela agiliza o
+processo mas a parte pensante por detrás
+ainda Precisa e eu digo isso com tanta
+clareza porque eu estou usando sem parar
+e inclusive estamos treinando uma aqui
+especificamente onde eu vejo grande
+aplicação de inteligência artificial
+para desenvolvimento de software eh para
+codar projetos novos ajuda muito mas não
+codar o projeto inteiro e sim ajudar no
+processo de codificação alguns bugs sim
+só que quando a sua aplicação ela é
+muito grande uma aplicação mais antiga
+cheia de gambiarra cheia de gente que já
+meteu a mão e já fez de vários jeitos
+ela sofre muito agora se você tem uma
+aplicação que ela é bem estruturada bem
+codificada bem padronizada bem comentada
+meu amigo ela agiliza muito nesse caso
+mas agora me conta quantas aplicações
+assim Você já trabalhou na sua vida
+pouquíssimas porque as aplicações elas
+nascem bem estruturadas mas o time em si
+ele vai mudando tanto ou a qualidade
+técnica em si do time vai mudando tanto
+o negócio muda tanto que o negócio vira
+um grande puxadão não é nem puxadinha
+puxadão Então ela acaba perdendo a sua
+grande efetividade Agora se a gente
+tiver falando de desenvolvimento de um
+MVP de uma prova de conceito de uma
+estrutura base ela de um de um devpack
+de um de um SDK Sim ela vai ajudar
+demais e isso é bom pra gente de um
+crude é bom para porque é chato
+fazer crud saca agora ela vai ajudar
+nisso vai acelerar o nosso trabalho
+entendeu
+eh olha eu sempre disse isso mas eu não
+gravava vídeo Antigamente como é bom
+você ser um programador especialista um
+cara que domina a fundo a programação e
+agora cada vez mais isso é verdade é
+muito bom você saber o os fundamentos os
+os fundamentos de um padrão de dos
+padrões de projeto os fundamentos da
+linguagem que você trabalha os conceitos
+primordiais que permitem com que você
+seja um excelente programador porque a
+hora que você pega uma ferramenta dessa
+você olha e fala Vai facilitar demais em
+vez de ficar com medo outro grande
+benefício da Inteligência Artificial e
+eu acho que quem tem que usar muito isso
+são os Juniors é mesmo Isso mesmo você
+Júnior você estagiário utilize aia
+utiliza esses modelos para te ajudar a
+se aprimorar a ficar bom abrace essa
+tecnologia para que ela te melhore cada
+vez mais como Kelvin escrevendo prompts
+Por exemplo pedindo pra
+iat vamos supor quero aprender sobre
+sistema distribuído Pede para ela usando
+o cursor implementar uma aplicação de
+sistema distribuído que você vai ver
+como ela vai aplicar e você vai começar
+a entender e você vai questionando
+perguntando sobre design pattern também
+e desse jeito você vai conseguir evoluir
+muito mais rápido você vai conseguir
+escalar o seu trabalho saca e você
+programador Sênior você cara tem que
+começar a entender que você tem que ir
+além do código você tem que ir além do
+código você Eu por exemplo prego aqui
+nesse canal sempre o empreendedorismo
+todo mundo tem a capacidade de
+empreender mas o programador em si você
+tem mais capacidade de empreender você
+sabe por quê Porque você é um criador
+você tira as coisas do zero pro um você
+faz acontecer você tem a capacidade de
+produzir um software uma nova tecnologia
+implementar você tem capacidade de pegar
+apis coisas prontas e criar uma outra
+para resolver um determinado problema
+então assim Abra o teu olho para o
+empreendedorismo Abra o teu olho para
+entender mais sobre o negócio porque
+isso sim vai fazer você ser um
+desenvolvedor diferenciado um
+desenvolvedor além do o código além de
+escrever duas três quatro linhas de
+código meia dúzia de código além de ser
+um produtor de código entendeu E não é
+porque você aprende sobre o
+empreendedorismo cria o seu negócio que
+você necessariamente vai ser um
+empresário não às vezes não às vezes
+você só cria uma fonte de renda Mas você
+quer ser um carreirista e tá tudo bem
+Mas aprenda sobre isso porque isso vai
+mudar o jeito como que você trabalha
+como você vê as coisas como você trata
+um problema isso vai fazer você pensar
+duas três vezes o tipo de implementação
+que você vai fazer na sua empresa porque
+você vai pensar mais no negócio no
+resultado em que que a empresa vai ter
+com o seu código e é isso que vocês TM
+que entender essa é a mensagem que eu
+quero deixar aqui nesse vídeo para vocês
+vamos expandir a nossa cabeça e deixa eu
+deixar um ponto de atenção aqui que na
+semana que vem eu vou soltar esse vídeo
+das ap ações que dos bugs do das
+implementações que eu comecei a fazer
+utilizando Inteligência Artificial dos
+pontos positivos dos pontos negativos o
+que ela acertou o que que ela não
+acertou aonde que ela falha e aonde que
+ela vai muito bem Tá mas já de antemão
+eu te adianto que a parte de estruturar
+um novo projeto de você testar uma ideia
+é fenômeno mano O negócio é fenômeno
+principalmente o cloud code o preço é
+muito é não é barato ele é caro em
+Vícios do perto do do do do preço do
+cursor que a ide perto do chat PT perto
+dessas outras ferramentas Mas ele é
+muito mais útil ele é muito mais safo
+ele consegue entender literalmente o
+contexto do seu projeto não todo né não
+todo mas ele agiliza demais então uma
+dica que eu te dou também se você não
+conhece o CL coach por favor faz um
+favor agora entra lá no site da antropic
+E baixa esse negócio instala faz lá paga
+os ó lá acho que é ó Coloca um
+dinheirinho lá e vê esse negócio
+funcionando porque você vai ficar
+abismado com a capacidade dessa
+ferramenta e olha o copo meio cheio Olha
+o copo cheio porque você vai Olha aquilo
+como uma ferramenta mais uma ferramenta
+que você vai ter que dominar e vai falar
+cara eu sei para que que eu tenho que
+usar isso aqui eu sei como isso aqui
+pode melhorar o meu trabalho pode
+melhorar a empresa que eu tô trabalhando
+pode melhorar meu time eu sei como isso
+aqui pode facilitar todo o processo tá
+Ah Kelvin Mas e esse mundo que tão
+cantando para mim sobre inteligência
+artificial sobre tudo que tá acontecendo
+e tudo mais a gente tá vivendo uma
+tendência a gente tá vivendo uma bolha
+agora na verdade uma bolha não uma onda
+você tem a oportunidade de aproveitar
+essa onda para empreender como eu já
+falei nos vídeos anteriores inclusive tá
+aqui ó um o para vocês entenderem um
+pouco sobre o modelo de negócio tá aqui
+ou não tá aqui não acho que vai tá na na
+descrição aqui desse vídeo para você
+entender como que você pode usar isso eh
+para empreender com inteligência
+artificial artificiais verticais que são
+inteligências artificiais
+nichados é um de um novo nicho é um
+tá todo mundo olhando para isso e ainda
+aproveitar esse Hype dessa tendência que
+tá todo mundo falando de a e usar isso a
+teu favor nem que não seja para você eh
+não precisa você sair tudo eh parar tudo
+que você tá fazendo largar teu emprego
+para fazer algo assim mas hoje você pode
+montar uma ia dessa e botar para vender
+e já faturar e já ganhar dinheiro montar
+uma renda extra cara dá para fazer você
+só tem que querer você só tem que
+despertar isso em você e esse é um dos
+objetivos aqui deste canal despertar
+você pra possibilidade de você entra
+empreender de você empreender com o seu
+próprio negócio no caso Entra empreender
+você empreender dentro da empresa que
+você trabalha o empreendedorismo é uma
+habilidade que você desenvolve é algo é
+é você aprender a olhar com olho de dono
+pras coisas entendeu então assim você
+pode sim entra empreender não isso não é
+papo de palavra de coach isso não é
+história para fazer você trabalhar mais
+pelo contrário Isso é o que vai fazer
+realmente a tua vida mudar é você se
+tornar um profissional extremamente
+diferente
+E extremamente requisitado em todo o
+mercado você pode ter certeza disso
+deixa eu abrir uma aspas aspas aqui para
+vocês para contar uma novidade no vídeo
+de ontem que eu gravei eu fiz um anúncio
+que que acontece meu canal tá crescendo
+graças a Deus sinal que vocês estão
+gostando no meu conteúdo e eu tô
+entregando um conteúdo de valor é o meu
+objetivo aqui com esse canal entregar um
+conteúdo de valor para vocês e ontem
+ontem eu soltei a a possibilidade de
+montar uma escola de Dev para devs
+empreendedores Qual que é a minha ideia
+eu quero trazer todo mundo que quer
+empreender então você que tá aí que quer
+empreender que quer criar sua empresa e
+não sabe como essa escola vai ser para
+você A ideia é criar uma metodologia
+para te ajudar não só te ensinar mas te
+acompanhar nesse processo de você tirar
+a sua ideia do Papel até faturar
+Inclusive inclusive uma das coisas que
+eu prego em todos os vídeos vocês podem
+acender assistir é que a gente tem que
+começar pela ideia e partir pra
+validação a validação dessa ideia para
+mim era conseguir pelo menos um número
+mínimo de pessoas interessadas em
+participar cara o meu LinkedIn bombou de
+mensagem o meu Instagram bombou de
+mensagem eu fiquei super feliz e para
+mim isso já é um go ahead é siga em
+frente e faça isso porque realmente tem
+outras pessoas Kelvin igual a você e aí
+hoje eu parei e falei cara qual que vai
+ser a minha missão qual que por que que
+eu vou fazer isso por que que eu vou
+entrar nessa nessa biromba nova né irmão
+eu vou entrar porque eu quero até
+2026 levantar mais de 2.000 deves
+empreendedores é por isso que eu vou
+fazer essa parada dar certo e eu vou me
+dedicar para isso vai servir
+Tanto para você quer montar o teu
+negócio como para você que vai querer
+ser um Dev diferenciado um
+intraempreendedor porque quando você tem
+uma visão de empreendedor e trabalha
+numa empresa Você tem o olhar de dono
+você aprende a olhar pro negócio e é
+isso que vocês têm que aprender a fazer
+é isso que vai transformar a carreira de
+vocês de verdade começar a não falar não
+esse código não é meu não isso aqui
+precisa de dois meses para desenvolver
+não esse projeto tá ruim joga fora
+reescreve isso aí é visão de Dev comum e
+vocês têm que mudar essa visão então Eh
+se você tá interessado se você falou
+cara que ovv cara eu quero
+participar da turma fundadora Me ajuda
+aí comenta aqui porque esse é o meu
+principal validador para sabe ganhar
+essa energia de partir pra próxima etapa
+agora que é rascunhar colocar no papel e
+executar que é a parte que
+Particularmente eu mais gosto galera
+Essa é a parte que eu sou apaixonado e
+eu vou fazer essa acontecer eu Vou
+liderar Eu Vou liderar o movimento dos
+devs o maior movimento de deves
+empreendedores desse país vocês vão
+acordar vocês vão aprender vocês vão
+desenvolver a habilidade do
+empreendedorismo eu tenho certeza Nisso
+porque é isso que eu acredito é isso que
+eu acredito de verdade belezinha bom
+fechar aspas vamos voltar pro assunto
+daí então galera aprendam a usar essa
+ferramenta ao seu favor ao a a sua
+evolução Tragam um a ia pro seu dia a
+dia ah mas a minha empresa não usa faz
+em casa começa a aprender a usar
+inclusive aplique tentem resolver
+problemas reais usando a ia vejam até
+qual que é o Limiar desse negócio e aí
+vocês começam a tomar as suas próprias
+conclusões não sejam impactados pelo
+movimento de tendência que é esse Hype
+absurdo entendeu quem ganha muito com
+isso é vendedor de curso saca mas não
+sejam Impact sejam pessoas analíticas
+analis em real beleza essa é a minha
+mensagem para vocês deixa eu falar meu
+canal tá crescendo me ajudem a crescer
+cada vez mais compartilhem meus vídeos
+se vocês curtiram de verdade se vocês
+estão curtindo meus vídeos estão me
+seguindo eh estão me acompanhando já se
+inscreve no canal ativa o Sininho para
+você receber a notificação de quando os
+meus vídeos forem lançados comenta aqui
+me ajuda a crescer vamos bora porque a
+gente vai criar essa desse
+movimento nós vai fazer acontecer e eu
+vou eu só consigo fazer um movimento se
+eu tiver pessoas eu tenho certeza que
+você que tá aí do desse desse lado aí ó
+você que eu não sei nem Teu nome vai me
+ajudar a fazer esse movimento belezinha
+Vamos criar o movimento vamos liderar e
+criar o movimento de deves
+empreendedores Esse é o futuro e eu
+acredito fielmente nisso beleza
+galerinha Valeu seus cachorros até mais

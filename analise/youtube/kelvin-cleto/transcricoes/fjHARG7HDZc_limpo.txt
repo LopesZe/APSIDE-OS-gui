@@ -1,0 +1,588 @@
+Eu já previ que nos próximos dois anos
+muitas empresas tradicionais estarão
+extintas por conta desse movimento de
+inteligência artificial. E nesse vídeo
+aqui eu vou te ensinar a como encontrar,
+como localizar esses gaps operacionais
+nesses nichos, nesses mercados, para que
+você crie a sua solução, a melhor
+solução, venda ela ainda em 2025. Então,
+a pergunta que eu vou te ajudar a
+responder nesse vídeo aqui é: Como
+encontrar a melhor solução cuá para
+vender em 2025? Uma boa pergunta para se
+responder, né? Para você que não me
+conhece, muito prazer. Meu nome é
+Kelvin, eu tenho 33 anos, eu sou um
+programador empreendedor serial, adoro
+tirar ideias do papel. Fundei a General
+Clans 2015, fiz a venda dela, uma das
+principais inurtechs do Brasil. Fundei
+aí o Inspect e acelera 360, que é o meu
+programa de aceleração, onde eu ajudo
+você a tirar a sua ideia do papel, você
+que é da tecnologia a empreender. Se
+você quiser saber mais sobre a Celara
+360, o link tá aqui na descrição desse
+vídeo. Bora começar? Agora vou
+compartilhar minha tela aqui com vocês.
+E antes da gente começar esse vídeo,
+deixa eu explicar para vocês que estamos
+vivendo uma crise silenciosa. Está
+acontecendo agora nesse exato momento. E
+você, você que é da tecnologia já sabe
+disso. Você que é um amante de
+inteligência artificial já começou a
+perceber isso. Empresas que não adotarem
+inteligência artificial nos próximos 2
+anos estão suscetíveis à extinção,
+literalmente. Sabe por quê? Elas vão
+quebrar porque elas não serão tão
+competitivas quanto as empresas que
+estão nascendo agora já com seus
+processos desenhados para atuar com
+inteligência artificial. Então, essas
+empresas tradicionais que nascerem com
+processos manuais, já era, elas vão
+sofrer uma extinção, ó, que eu chamei de
+obsolescência competitiva. Elas não irão
+conseguir competir com essas novas
+empresas que estão vindo com tudo, com
+tudo mesmo, tá? Por quê? Por causa
+desses três principais pontos. Primeiro
+deles, gargalo de crescimento, empresa
+que só consegue crescer contratando
+gente com mão de obra, entendeu?
+Processos manuais. que limitam a
+escalabilidade do seu negócio. Então, o
+volume aumenta, o tamanho da operação
+aumenta ou vira um caos. Esse tipo de
+empresa vai quebrar, vai sumir. Empresas
+que não usufruem da sua base de clientes
+ou de vendas anteriores. Se você é
+empresário e tá me assistindo e tiver
+qualquer dor dessa daqui, pode me
+chamar, ó. Você vai clicar no link na
+descrição desse vídeo também e vai falar
+assim, ó, eu não quero ser extinto, vai
+se inscrever lá na Acelera e vai falar
+que não quer ser extinto, que eu vou
+ajudar o teu negócio implementando
+infraestrutura de ã, então vamos voltar
+aqui. Eh, empresas que não tem que tem a
+base mal aproveitada, já vendeu para
+muitas empresas, muit já vendeu para
+muitos clientes, mas tá sempre atrás de
+L de novo e não tá vendendo para aquela
+base. Pô, o cara tem 3, 4, 5, 10.000
+1000 vendas já feitas e uma base de
+compradores ativas de 1000, de 800, de
+600 clientes. Por incrível que pareça,
+isso existe e muito. Só essa semana
+várias empresas, principalmente
+fábricas, fábricas de cosméticos,
+indústria, industriais e tudo mais.
+Galera pesada. Gargalos operacionais e
+comerciais. Dificuldade para
+qualificação de lead. qualificação de
+lead de forma manual e processos de
+vendas manuais e ineficientes. Então
+assim, ó, esses são os três principais
+monstros que vai causar o a extinção
+dessas empresas tradicionais. Isso já te
+dá um de um alerta para você que
+quer empreender. Eu nunca tive tão certo
+quando eu me posicionei com relação à
+consultoria estratégica de IA, falando
+para você montar sua consultoria
+estratégica de inteligência artificial
+para ajudar as empresas a passarem por
+esse vale da sombra da morte. Eu
+acredito tanto nisso que eu posicionei o
+meu negócio, a KCG para criar uma
+infraestrutura de inteligência
+artificial para atender esse mercado com
+as necessidades, automatizando os
+processos. Inclusive, você pode assistir
+meu outro vídeo onde eu detalho sobre
+isso, porque o mercado é muito manual.
+Você não tem noção quantos empresários,
+quantas empresas, quantas indústrias me
+procuraram semana passada e essa semana
+estão me chamando, fazendo cal atrás de
+call, explicando o modelo de negócio. Já
+fechamos sete contratos de
+infraestrutura de A por conta disso. E
+deixa eu te contar, o mercado é grande,
+você pode fazer isso aqui também. E
+nesse vídeo eu quero te ajudar a
+entender esses gargalos que as empresas
+têm de forma operacional para que você
+resolva eles também. Eu não vou
+conseguir resolver tudo sozinho. O
+mercado é muito grande, cara. A gente tá
+falando de um mercado de pequenas e
+médias empresas aí, mais de 27 milhões
+de empresários. É muita coisa. Se você é
+empresário e viu que a minha
+artificial pode ajudar o seu negócio, a
+sua empresa a crescer, você vai clicar
+no link aqui na descrição desse vídeo,
+vai colocar os dados que eu vou marcar
+uma cal e vou te apresentar todo esse
+negócio aqui. Você vai entender o
+potencial que isso aqui pode ter dentro
+da tua empresa, tá? Agora, se você quer
+empreender, se você quer tirar a sua
+ideia do papel, o meu programa de
+aceleração também é para você. Aí você
+vai clicar também no link aqui na
+descrição desse vídeo e vai se inscrever
+e vai falar assim, ó, eu quero
+empreender. Eu quero aprender a fazer
+isso aqui que você tá fazendo, Kelv, eu
+quero aprender a criar minha consultoria
+estratégica em A, quero aprender a criar
+meu SAS, porque a acelera pode te ajudar
+demais. Belezinha, bora continuar o
+vídeo agora. Kelv, quero montar uma
+consultoria estratégica em A ou quero
+montar uma infraestrutura de A. Para
+onde que eu aponto primeiro?
+Primeiro você tem que entender como
+funciona uma empresa grande e uma
+empresa pequena. Então vamos lá.
+Primeira coisa, o que que tem uma
+empresa grande? Vamos segmentar uma
+empresa grande duas áreas, tá? A gente
+tem o core business da empresa, que é
+responsável por entregar o produto
+principal ou o serviço principal daqu
+que aquela empresa eh eh oferece. Então,
+por exemplo, numa fábrica de cosméticos,
+o Core Business é a fábrica, entendeu?
+da produção do cosmético, área de
+química tá aqui na tá aqui como core
+business, venda sempre vai ser core
+business, entendeu? E a gente tem a área
+de apoio que todas as empresas têm, RH,
+financeiro, marketing, controladoria,
+compliance jurídico, área de compras,
+área de vendas, tecnologia, PMO, PID,
+pesquisa e desenvolvimento. Então isso
+aqui é uma empresa de forma macro, com
+as suas áreas de apoio e suas áreas
+core. Então, entrega logística para
+negócio físico, desenvolvimento de
+produto, fica aqui dentro. Eh, vendas e
+comercial, produto ou ou serviço ou a
+prestação de serviço sem entregue. Isso
+aqui é core business, isso aqui é o
+coração do negócio, tá? Numa empresa de
+tecnologia, o core Business é ATI. Na
+maioria das empresas, o Core Business
+não é TI. E a ITI é custo, é área de
+apoio. Ti é custo aqui, ó, para essa
+galera. Área de apoio até agora caiada,
+tá? E geralmente nessas empresas
+grandes, que que nós temos aqui?
+Primeiro, nós temos processos que são
+gigantescos, antigos e ineficientes em
+todas essas áreas aqui, mas
+principalmente a gente tem uma cadeia de
+execução. A gente tem toda a cadeia do
+operacional, quem faz a operação, o
+tático, coordenador, gerente e o
+estratégico, a diretoria, quem toma as
+decisões principais do negócio.
+Geralmente para cada área dessa aqui
+numa empresa grande, você tem diretor,
+você tem superintendente, você tem
+coordenador. Às vezes um um
+superintendente cuida de uma ou mais
+áreas, mas assim, tem toda uma estrutura
+hierárquica de pessoas aqui dentro, de
+processos de uma cadeia produtiva
+gigantesca. Isso numa empresa grande.
+Pausa rápida no vídeo só para te falar
+que se você tá gostando, já clica aqui
+no joinha, já clica em gostei, já
+comenta aqui também e me segue, hein? Já
+clica em me seguir. Pode continuar
+agora. E numa empresa pequena acontece a
+mesma coisa. Tem todas essas áreas. A
+diferença é que algumas são
+terceirizadas, geralmente jurídico,
+geralmente fiscal, é tudo terceirizado e
+marketing terceirizado. E outras são
+internas e quem faz as internas ou é o
+dono, ou é o filho do dono, ou é a
+mulher do dono, ou é uma loucura,
+entendeu? E aqui é o momento onde o dono
+do negócio ele acaba virando escravo.
+Para cada área dessa aqui você tem um
+mar de oportunidades e algumas áreas faz
+sentido você olhar e outras não. Por
+exemplo, RH. Cara, faz sentido você
+criar automações de RH para uma fábrica
+de cosmético? Não faz. Agora, faz
+sentido você criar automações de RH para
+uma empresa de outsourcing que tem uma
+alta taxa de contratação? Faz. Então,
+olha que legal, essas áreas elas variam
+de acordo com o nicho de atuação e de
+acordo com a necessidade daquele
+cliente, de qual de onde ele tá
+posicionado. Em algumas áreas o RH vai
+ser uma área primordial,
+muito valorosa, em outras não vai. E é
+isso que é importante você identificar.
+Um outro ponto muito importante que você
+precisa entender é o seguinte: grandes
+empresas exigem contratos grandes, com
+maior valor, mas também com maior
+responsabilidade. Logo, o tempo de
+fechamento, o tempo de negociação é
+longo e por por conta das exigências,
+nem sempre você terá a capacidade de
+fechar um contrato com uma empresa
+grande. Então, evite, cara, nem perca
+tempo tentando fechar contratos com
+grandes empresas. Não faz sentido. Olha
+pro pequeno e pro médio. Por que que pro
+pequeno e pro médio, cara? Primeiro,
+esses caras correspondem 27% do PIB do
+Brasil, ó. E nem o médio aqui, ó. Só
+aqui é só micro e pequenas empresas. São
+cerca de 9 milhões de micro e pequenas
+empresas. Deve ter umas 4 milhões de
+pequenas empresas. Essas pequenas
+empresas, você tem que olhar o o pequeno
+negócio vai de 500.000 de faturamento
+até 4.8 milhões de faturamento, se eu
+não me engano. Você não vai olhar pro
+cara de 500.000, de 1 milhão. Você olha
+pro cara que tá faturando, ó, até 1
+milhão, vai acima de 1 milhão, até 5
+milhões. Olha para esse, para esse
+target de empresas. Por quê? Porque
+esses caras tranquilamente rasgam mais
+de R$ 20.000
+todos os meses com ineficiência.
+operacional, contratações erradas, má
+implementação de software e processos
+obsoletos e cara devaneios dos chefes e
+por aí vai. Esses caras aqui, eles estão
+querendo crescer, eles querem crescer,
+mas eles estão estagnados
+e não, eles estão afogados na operação.
+Deixa eu colocar aqui para vocês
+entenderem aqui, ó. Então, qual que é o
+primeiro sinal aqui e de estagnação? Se
+aquela empresa tem mais de 5 anos e
+ainda não ultrapassou
+os 4 milhões de faturamento, ela tá
+estagnada. 5 milhões de faturamento, ela
+tá estagnada. Esse cara tá sofrendo para
+crescer. Já era para ter ultrapassado há
+muito tempo esse valor aqui. Então esse
+cara aqui ele tem um problema de ter
+processos obsoletos, ele deve ter um
+problema comercial absurdo e tudo mais.
+Se essa empresa tem menos de 5 anos
+e já vem crescendo, aí você faz as
+perguntas, pô, o cara vem, tá com uma
+margem apertada, mas tá faturando, tá
+crescendo ano contra ano, acima de 30%.
+Esse cara tá crescendo, mas ele começou
+a se enforcar por conta do processo dele
+não estar automatizado e não conseguir
+acompanhar o próximo estágio que ele tem
+de evolução. E aí que você começa a
+gerar as suas oportunidades,
+entendeu? Olhando para empresas que têm
+essa faixa, porque empresas com essa
+faixa você consegue mexer o ponteiro de
+receita delas de uma forma muito rápida.
+Ahã. Além disso, é muito importante você
+olhar para duas divisões, tá? Então,
+toda empresa pequena e grande tem isso
+aqui, ó. Você tem a área de vendas,
+então vendas tá é composto por comercial
+e marketing. E o pós-venda, que é
+atendimento e operação. A generals era
+posicionada aqui, a minha insurtec que
+eu vendi em operação. O empresário, o
+empresário ele tende a dar mais valor
+pra área de vendas do que pós-vendas.
+Por quê? Porque vendas é entrada de
+dinheiro rápido. Aqui é crescimento
+imediato. Aqui é injeção de adrenalina
+na veia do negócio. É contrato fechando,
+é dinheiro entrando, entendeu? Negócio
+que não vende morre. Você tem que ter
+clareza disso. Então, onde que você tem
+que concentrar as suas soluções? Seja
+você que vai estar posicionado aqui como
+consultoria estratégica inteligência
+artificial, seja você que está
+posicionada aqui como infraestrutura de
+crescimento em vendas. Em vendas, por
+exemplo, a primeira coisa que eu criei
+foi a minha máquina de vendas para
+colocar isso aí nas empresas. Então, o
+que que eu faço? estrutura canais de
+comunicação, implanto, CRM, processo
+CRM, desenho, funil de venda, forma de
+leads para fazer filtragem, eh uso
+inteligências artificiais aqui para
+geração de criativo, implementação de
+landing paes aqui na nessa camada chama
+é uma camada vertical, né? Eu tenho
+agentes de COP, promptes de pesquisa,
+agente de estratégia, hag do negócio ou
+do expert para trazer a inteligência
+desse expert, desse negócio para dentro
+do IA para me ajudar a escalar o meu
+negócio.
+E aí eu tenho os agentes de IA atuando
+no processo de vendas, porque não
+adianta nada você ter um processo de
+vendas, funiz de vendas e meter dinheiro
+tráfego pago e gerar lead e você não ter
+um processo, um time de vendas que vai
+comportar aquele volume de lead ou
+aquele volume de curiosos. Então, olha
+que louco, eu já desenhei aqui todos os
+agentes desenhados para venda, inclusive
+fazer fechamento imediato no caso de
+e-commerce, como fazer eh agendamento de
+call pensando nisso, entendeu? E aqui em
+cima eu tenho o meu desenho de aquisição
+de clientes com tráfego pago e
+conversão, ó, qualificação de lead com
+os percentuais e aquecimento para de
+lead frio, para lead morno, para le
+quente até a conversão. Ô, pausa rápida
+no vídeo só para te falar que se você tá
+gostando, já clica aqui no joinha, já
+clica em gostei, já comenta aqui também
+e me segue, hein? Já clica em me seguir.
+Pode continuar agora. Por que que eu
+tenho tudo isso aqui desenhado? Porque
+eu estou bolando, estruturando uma
+infraestrutura. Então eu vou deixar tudo
+pronto para fazer o quê? Entende o seu
+entende o negócio implanta, roi na veia,
+dá retorno e cara, todo mundo feliz,
+empresário feliz e overlist também,
+sacou? Você como empreendedor, o que
+você tem que entender, principalmente se
+você é um empreendedor de tecnologia, é
+desenha um modelo de negócio e atua e
+escolhe uma área para você atuar aqui um
+segmento, na verdade, né? E aqui, por
+exemplo, eu focaria a minha energia 100%
+em vendas. Criar também um um agentes de
+inteligência artificial e processos que
+implementem a venda, porque na venda o
+empresário vê resultado rápido. E onde
+entra IA? Na venda, por exemplo, na
+venda entra em atração de lead, entra em
+qualificação de lead automática, entra
+em personalização de proposta. Pô, já
+precisa você ter propostas
+personalizadas de forma automática para
+cada cliente? Isso aqui, pô, tá um
+approach entendeu? Eh,
+aceleração de fechamento. Então, um
+processo que tira dúvida, processo que
+fica cobrando, que controla as objeções,
+que acompanha a negociação. Um agente
+fazendo isso, conectado no CRM, fazendo
+isso de forma automática, olha que ganho
+operacional, entendeu? O resultado disso
+aqui é o quê? Mais venda e menos esforço
+humano. Então é mais venda via.
+Entendeu? Mais venda é via ou se não
+reverter em venda, isso aqui reverte em
+qualificação de lead, reverte em
+automação de processo, reverte em
+diminuição do tamanho do processo
+operacional de um time de vendas,
+reverte em ter uma máquina de vendas
+mais eficiente que consecutivamente
+reverte em lucro, entendeu? Em ou
+perdão, em aumento de faturamento e
+aumento da margem também, porque diminui
+os custos operacionais para fechamento
+de novos contratos. Então, se você tem
+que olhar para cá, saca? E isso aqui é
+composto, por, por exemplo, esse
+agrupamento de vendas, ele é composto
+tanto por comercial quanto por
+marketing. Então aqui você tem o time de
+vendas e aqui você tem os funis de
+vendas, porque tem que aparecer, tem que
+gerar lead, o lead tem que cair no
+funil. Então quando eu falo de você
+estruturar uma infra, é isso. Por isso
+que o agente de IA, o chatbot não tem
+tanto valor, porque ele não resolve um
+problema de fim a fim. Agora você criar
+uma solução que ajuda aquele empresário,
+aquela empresa a vender mais e ainda
+você entra na sua linha de montar antes
+um diagnóstico para vender realmente o
+que ele realmente precisa,
+explodiu. Golaço, entendeu? Golaço. Você
+fez um golaço e esse é o ponto, tá,
+Kelvin? Mas quais são os nichos que eu
+posso entrar? Eu vou mostrar para vocês
+aqui, ó. Então vamos lá. Alguns nichos
+que eu separei que me procuraram essa
+semana, cara, me procurou demais.
+Negócios locais, uns dois ou três
+negócios logais, lojas físicas de loja
+de departamento pessoal, eh, vende ou
+departamento pessoal, loja que vende
+peça de carro, loja de roupa, cara. Cara
+que queria se digitalizar. Muita loja
+ainda que não tem nem operação digital
+em e-commerce, cara. Do céu, bizarro. Os
+cara vem de pelo WhatsApp e pelo
+Instagram assim de forma absurda,
+frenética, que precisa muito do Maá. E
+um chatbotzinho só não atende. Zaia,
+esses plataforma não atende, velho. Não
+atende. Esquece. Isso aí é balela, tá?
+Agências de marketing. que pariu.
+Esse daqui com uma implementação
+maravilhosa. A gente fechou duas
+agências. A gente fechou duas agências.
+Contratinhos aí de 60.000.
+filezinho. Filezinho, porque a
+gente já tem a estrutura pronta para
+substituir gestor de tráfego, COP,
+processo de vendas, máquina completinha
+e ainda um modelo white label que as
+agências vão revender isso aí pros
+clientes deles e a gente vai ganhar um
+royalty em cima, um percentualzinho lá.
+Olha aqui, ó. Brinco, brinco.
+Pode mirar. Sabe quem tá mirando em
+agência de marketing? essa galera que
+fazia lançamento, agências digitais de
+marketing. Você que tem capacidade
+técnica consegue fazer isso. Ah, se você
+tem uma agência de marketing, me chama
+aqui, porque eu posso tornar sua agência
+aí tranquilamente 60% mais eficiente do
+que ela é hoje. Imobiliárias, cara,
+que dor que eles têm, velho. Que
+dor. Principalmente
+para fazer um negócio chamado captação
+de imóveis. merda, cara.
+Pega aí qualquer, entra no Viva Real,
+chama qualquer imobiliário agora e tenta
+fazer uma cotação de imóvel, saber mais
+informações. Você vai, você vai ver o
+que eu estou te falando. Clínicas de
+saúde e bem-estar. Aqui, ó, abre
+parênteses.
+Abre parênteses
+pra galera que cuida do dente.
+Dente, estética. Estética, harmonização
+facial e tudo mais. Ortodontia, né?
+Ortodontia.
+Fechei um dos meus clientes, tem uma
+clínica também que deixa e faz
+branqueamento nos dentes e tudo mais. A
+gente vai começar o processo de
+implantação deles. E aqui, qual que é o
+grande X da questão? Os caras derramam
+dinheiro em tráfego pago,
+gera lead, só que E aí faz o que com
+aquele lead? Não converte. Não converte.
+Que que adianta tráfego pago? não
+adianta de nada rasgar dinheiro e aqui
+com a nossa IA sales, infrastruture
+resolve esse problema. Então você pode
+fazer a mesma coisa. E aqui tem um bônus
+que nós estamos numa onda dessa dessa
+área aqui que é, pô, a galera quer ter
+dente branco, a galera quer ter quer
+fazer harmonização facial, colocar
+botox, então tá tendo uma onda pelo
+cuidado e bem-estar, principalmente o
+homem. Principalmente o homem, só que
+qual estrutura que eles não têm? uma
+estrutura de marketing de uma agência de
+marketing eficiente que faça isso aqui
+para eles, ó. Monte uma máquina de
+vendas que tenha conversão.
+Tem que ter conversão. Se não tiver
+conversão, não vale a pena, hein? Se não
+tiver conversão, não vale a pena.Onde eu
+tava aqui. Energia solar. merda,
+você não tem no Gente, pesquisem esse
+mercado. Eu não vou abrir um pouco desse
+mercado aqui, porque aqui é muito bom.
+Se você entrar na Acelera, eu vou te dar
+um detalhamento desse mercado aqui,
+ó. Energia solar, você vai ver muito, já
+tá bem maduro, o mercado estável e com
+cara só tende a crescer e eles têm uma
+dor absurda, principalmente na
+distribuição, tá? E venda.
+E-commerces, cara, muita loja tem
+e-commerce próprio, não consegue ter
+tração nas vendas porque não tem time de
+vendas qualificado para tirar dúvida.
+Cara, coisa besta. Coisa besta. E esse
+daqui, ó, esse daqui é muito Esse
+daqui eu também descobri agora que eu
+gostei muito, que é o seguinte, ó.
+Indústrias e fabricantes white labels.
+Então, por exemplo, aquelas fábricas que
+fabricam e encapsulado, que fabrica
+cosmético, que fabrica as coisas, eles
+têm eles têm eh fábrica de roupa, de
+tecido, eles fabricam e não conseguem
+escoar o material. Uma do aqui. Uma
+do mador. De novo, todos,
+principalmente na área de vendas. Quando
+que a gente mexe em pós-venda? Quando o
+cliente é muito grande, igual fechamos
+uma indústria lá, os cara fatura 100
+milhão ano. Esses cara aí sim, esses
+caras aí a gente mexe no pós-venda
+porque o processo tá muito grande.
+Qualquer mexidinha operacional que você
+dá, você consegue ali puxar ali uma
+margem maior, deixar o processo mais
+azeitado, mais rápido, mais leve, saca?
+O modelo de vendas é mais complexo
+dessas empresas grandes, não tem que
+mexer muito. Então assim, aí sim a gente
+olha pro pós-venda, senão empresa
+pequenininha, dinheiro na veia, mexe na
+área de vendas, comercial e marketing,
+que tem um estouro de dinheiro. Então
+assim, ó, eu, nossa, agora que eu vi que
+tava na posição errada, que pariu,
+viu? Tomara que tenha gravado para
+vocês. Se não gravou, é isso que tem,
+rapaziada. Ó, espero que vocês tenham
+gostado. Se você quer empreender, se
+você quer tirar sua ideia do papel, você
+vai clicar no link aqui na descrição
+desse vídeo e vai cair para dentro da
+acelera. Se você empresário, viu alguma
+das coisas que eu mostrei aqui, falou:
+"Cara, isso aqui pro meu negócio é
+maravilhoso". Clica também, se inscreve
+que eu vou te apresentar o que que é a
+infraestrutura de ar e o poder que isso
+pode ter no teu negócio. Fechou? Um
+abraço para vocês e até a próxima. M.

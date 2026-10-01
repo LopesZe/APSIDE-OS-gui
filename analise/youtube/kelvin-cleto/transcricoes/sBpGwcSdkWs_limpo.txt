@@ -1,0 +1,414 @@
+2025 mudou tudo para as startups de
+tecnologia, principalmente quando a
+gente compara elas com grandes
+corporações.
+2026 vai ser algo incrível para quem
+entender a grande oportunidade que a
+gente tem com a inteligência artificial.
+Nesse vídeo aqui eu vou explicar um
+pouco para vocês sobre o por que as
+startups literalmente agora estão
+conseguindo ameaçar as grandes
+corporações. Tô falando de startups de
+tecnologia e vou falar para você também
+da oportunidade que nós temos para
+empreender com inteligência artificial.
+Inclusive até o vibe coding tá sendo
+deixado para trás por essas startups de
+tecnologia lá no Vale do Silício. Vamos
+começar esse vídeo então. Bora,
+rapaziada.
+Seguinte, hein. Por que 2025 mudou tudo
+para as startups e negócios com
+inteligência artificial? É o seguinte,
+gente,
+as startups sempre tiveram o
+ah, esse glamor de serem ágeis, são
+rápidas de desenvolver e corporações são
+lentas. Hoje a gente tá num cenário onde
+as startups com agentes de inteligência
+artificial, elas não são só mais ágeis,
+elas são extremamente ágeis e
+disruptiva. elas têm a capacidade de
+montar um time de três, quatro, cinco
+pessoas e que antes eh e desenvolveram
+alguma coisa que antes necessá eh
+necessitava de pelo menos 100 pessoas
+para fazer, por exemplo. E as grandes
+corporações, empresas que já estão
+pré-estabelecidas
+no mercado, elas continuam sendo lentas
+e, principalmente, incapazes de adotar
+agentes de inteligência artificial,
+adotar a IA para o desenvolvimento e
+evolução do seu nicho, do seu segmento,
+do seu mercado. Então, o que vai
+acontecer é que elas literalmente agora
+as startups tm capacidade de bater de
+frente. Eu não tô falando nem de
+startups que tem que vão vão levantar
+fundo, levantar grana nem nada. você aí,
+se você for um desenvolvedor, souber
+entender sobre inteligência artificial
+de forma vertical, sobre eh alterar o a
+estrutura de uma empresa de mercado e
+atacar isso com IA, você consegue montar
+um batalhão de agentes e desenvolver
+soluções extremamente mais rápidas do
+que qualquer outra empresa que já está
+no mercado. Isso é tão real que olha,
+deixa eu mostrar uma coisa para vocês
+aqui, ó.
+para programador não gosta muito de vibe
+code, né? Então eles estão falando que o
+vibe coding vai morrer. Quando eu tô
+falando de agente, eu não tô falando de
+você desenvolver com o IA usando, por
+exemplo, lovable nem nada do tipo. Eu tô
+falando disso aqui, ó. Spec, spec driven
+development with AI. Basicamente, spec
+driven é um conceito onde você constrói
+toda a documentação, todo o mapeamento,
+toda a estrutura da arquitetura do
+software, dos contextos de do do
+de como vai ser a estrutura de dados,
+arquitetura e eh libs, front, back,
+banco. E os agentes de a agentes
+desenvolvedores, agentes de frontend,
+agentes de backend, agentes de
+arquitetura, agentes de banco de dados,
+agentes de performance, eles codam e vão
+construindo e o dev ainda participa do
+processo de codificação. Você acha que
+isso é loucura? Dá uma lida neste artigo
+aqui, ó, que tá no gitub. Pesquisa aí,
+ó, spec driven development with an AI.
+Pesquisa, pesquisa esse conceito, esse
+paradigma de spec driven para você ter
+ideia. Lá no Vale do Sil, sabe o que que
+eles falam? Vibe coding é coisa de
+criança. Aqui a gente faz usando spack
+driven. É bizarro. É bizarro. Então o
+que que isso aqui gera? Antes
+produtividade
+era igual a pessoas, muitas horas de
+trabalho e código. Agora, a
+produtividade é agentes de inteligência
+artificial trabalhando em paralelo,
+sendo monitorados e orquestrados por
+alguém que saiba fazer isso. E um time
+de três pessoas hoje produz o que um
+time de 50 a 200 pessoas produzir em
+2025. Vocês têm noção desta eficiência
+aqui? É bizarro, né? Isso aqui é
+realmente possível. Então essa virada de
+chave aqui, ela é excepcional pro solo
+founders, pro pessoal do APB, que é
+OnePerson Business, empreendedores
+startupiros, quem vai quem vai criar um
+software, um SAS para levantar eh eh vai
+para levantar capital, quem quer
+empreender, quer quem quer construir,
+infraar, isso aqui é maravilhoso. Por
+quê? Porque você não é mais limitado
+pelo seu tempo. Todo mundo, o jogo tava
+igual, 24 horas para todo mundo,
+entendeu? Fora a hora de dormir, hora de
+descansar, hora de fazer as necessidades
+de comer, você tinha as horas dedicadas
+ao trabalho, entendeu? Agora não. Agora
+enquanto você consegue ainda sair, você
+tem alguma coisa acodando para você.
+Você hoje vai ser limitado pela sua
+capacidade de especificar, revisar e
+orquestrar agentes. Sabe o que que isso
+aqui faz me faz pensar?
+Cara, eu muitas vezes eu falei que
+provavelmente era o fim dos PO, que os
+product owners iam morrer, usar na lista
+de requisitos. Eles agora se aprenderem
+a programar e aprenderem a entender um
+pouco sobre spec Divid e eles têm a
+maior chance, sabe, outras pessoas que
+têm muita, muita chance agora de criar
+empresas de tecnologia, consultores
+estratégicos, consultores e
+empresariais, gestores que são
+específicos em um de um especificados de
+um determinado nicho. Esses caras sabem
+muito sobre processo, sobre ampamento de
+processo, sobre dores. O que que eles
+não têm? Eles não têm visão de negócio.
+Eles não sabem o que que é possível
+fazer. Eles não sabem como criar
+inteligências artificiais, inteligências
+artificiais de forma verticalizada.
+E não é só eles, ó, donos de agência não
+sabem isso, consultores, muitos
+programadores também não sabem ter essa
+visão de mercado. É por isso que no dia
+19/12 eu vou fazer um evento presencial,
+o primeiro evento presencial da Acelera
+360. Então, se você quer empreender com
+inteligência artificial vertical, se
+você quer começar 2026 com tudo e
+botando para quebrar, eu quero você lá
+comigo no dia 19/12. Vai ser o dia
+inteiro, um evento extremamente
+exclusivo. Nós temos apenas 100 vagas.
+Vai acontecer aqui em Alpaville, na casa
+do storytelling. Vai ter um depois do
+evento vai ter um coquetelzinho, ó, pra
+gente curtir à noite e fazer muito
+network. Nós vamos falar sobre escolha
+de nicho, sobre oportunidades no
+mercado, sobre como vender, como se
+posicionar, como criar uma startup, uma
+empresa, uma infraestrutura de IA para
+abocanhar um determinado nicho. Vai ser
+incrível. Se você tá interessado em
+estar comigo presencial, clica no link
+que tá aqui na descrição desse vídeo,
+tá? O primeiro evento presencial da
+Salera 360. Vai ser um prazer te
+encontrar lá e trocar muito, mas muito
+conhecimento. Eu tenho certeza que serão
+as os melhores, não, o melhor dia seu
+investido em um evento da tua vida,
+porque vai ser disruptivo. Beleza? Te
+aguardo lá, tá? E esse cenário atual não
+é bom para quem? Não é bom pras
+corporações, para as empresas que já
+estão grandes, pesadas, porque são
+lentas, empresas já são taxadas até como
+eh eh grandes navios e startups.
+Geralmente o pessoal assemelha a jet
+ski, tá? Agora startup são jet skis que
+são altamente eficientes, tão com turbo,
+tão nito, tão, pilotando para
+E essas grandes corporações
+ainda são lentas e estão com mais peso.
+Por quê? Porque geralmente elas têm um
+time de tecnologia que não conseguem
+acompanhar e ter esta visão de negócio,
+esta visão de mercado e principalmente
+em como trazer mais velocidade. Sabe por
+quê? Porque geralmente essa galera de
+time, de tecnologia, de grandes
+corporações, é tudo uns preguiçosos que
+tá só interessado no salário deles.
+Então vamos lá. Elas são lentas, são
+cheias de processo, não conseguem
+refaturar operações para a agents, elas
+não conseguem colocar agentes na
+operação. Aí fica aquela historinha
+usando chat EPT, reclamando de vibe
+coding, ah, não sei que lá não dá para
+fazer aqui, é muito complexo, tem que
+desenvolver isso, aquilo, aquilo lá.
+Menos
+o BV. BV, Banco Votorantin, BV
+financeira. É Banco Votorantin, né,
+gente? Eu não sei se a sigla é essa, mas
+o BV hoje é um dos principais bancos do
+Brasil. que tem cases de referência de
+aplicação de inteligência artificial de
+forma verticalizada em suas operações.
+Quem lidera o time de lá, o time de
+agentes que estão sendo criados é meu
+grande amigo Zac Mariano. Chega a ser
+bizarro o que eles estão fazendo lá.
+Eles estão sendo altamente disruptivos.
+Parabéns aí pra galera, pro time de
+tecnologia do BV, hein? Eh, startups,
+eh, são AI native e adaptam tudo em
+semanas, não em anos. Essas empresas
+estão assim, ó, travadas, travadas. Isso
+é muito bom. Deixa eu contar para vocês
+uma coisa, ó. Toda a indústria, todo o
+comércio, todas as empresas de serviço,
+job functions, eh toda a dor operacional
+vai virar um agente, vai ter um agente
+para isso, para resolver. Não importa se
+esse agente hoje ele não consegue
+automatizar 100% da operação, mas o
+conjunto de agentes orquestrados e
+organizados
+terão uma eficiência
+absurdamente alta. Ou você entra na água
+agora ou, meu amigo, você tá na vala.
+Assim como esse pessoal aí, esses
+analistas, antigamente a diretoria tinha
+muito analista que ajudava eles a, tipo,
+a diretoria desenhava a estratégia e
+jogava pro analista refinar e fazer a
+pesquisa. Ess esses caras sumiram tudo.
+Sumiram tudo. Por quê? Porque só o GPT
+já sumiu com eles, entendeu? Agora o
+negócio tá tá ficando mais embaixo. Vai
+ser até o time de dev, hein? Tomem
+cuidado. Então vamos lá. fundadores.
+Hoje, hoje, se você quer um ser um
+fundador
+de uma empresa de tecnologia disruptiva,
+aproveitar. Independente se você vai ser
+um fundador de uma empresa que pode ou
+não se tornar um unicórnio, até um
+fundador de uma infraestrutura de
+crescimento com IA, se você quer começar
+a empreender com tecnologia, antigamente
+você tinha que ter habilidades técnicas,
+habilidades altamente técnicas, você
+tinha que habilidade de juntar pessoas,
+tinha que ter muito recurso, dinheiro e
+tudo mais. Hoje em dia, sabe qual que é
+a sua principalidade? Escrever
+especificações claras, orquestrar
+agentes, entender processos reais das
+empresas. Então você tem que entender do
+processo, da dor, do nicho, mapeamento
+do gap. Você tem que saber vender esta
+transformação. Olha aqui, ó. saber
+vender a transformação, que eu falo
+muito para vocês, tem que saber vender,
+porque o que ninguém te conta é que a
+distribuição ainda manda. Quem manda é
+quem sabe distribuir. Eu hoje, se eu
+montar um microas de merda, que eu
+consigo vender, por quê? Porque eu tenho
+canais de distribuição e time de venda.
+Essa é a grande diferença. Então, para
+você que quer solo foundoer, para você
+que quer empreender, deixa eu contar uma
+coisa para você, tem que evoluir em
+vendas. Você tem que aprender criar
+canais de distribuição da sua
+tecnologia, do teu produto, do teu
+serviço. Isso é o que vai fazer a grande
+diferença. E se você entender sobre como
+se é uma empresa de tecnologia que tem
+que desenvolver alguma coisa, você tem
+que entender esses conceitos de
+orquestração de agentes. Isso é
+extremamente importante e algo muito
+fresco. Você vai encontrar isso em
+conteúdos muito na gringa. você vai
+encontrar isso eh eh esse conceito em
+alguns livros técnicos, mas essa visão
+de negócio você não tem muito. Quer
+dizer, você tem comigo aqui, porque eu
+só falo de modelo de negócio e trago
+essas coisas mais frescas para você, tá?
+E você pode aproveitar isso comigo lá no
+dia 19/12 presencial no Vertical AI
+Experience. Já já comprou teu ingresso?
+Já já clicou aí tando interessada ainda
+não? Clica aí então, pô. Bora. Não tá,
+não tá claro o suficiente para você a
+oportunidade que a gente tá vivendo,
+tá vacilando, hein? Então, vamos
+lá, gente. A distribuição ainda manda.
+Construir a gente não basta. Sem
+audiência, sem narrativa e sem
+distribuição, você vai morrer afogado no
+mar de startups. Esse aqui é a maior dor
+de qualquer startupiro, de qualquer
+empresa e das empresas de serviço
+também. Venda e distribuição de seus
+produtos. Se você não saber como você
+faz isso, já era, tá? Vai tá fracassado.
+Pode ter a melhor ideia do mundo. Se
+ninguém comprar, ela não vale nada.
+Então, por isso que se você criar
+comunidades, eventos, conteúdo e
+autoridade hoje já é obrigatório este
+movimento de criação, de posicionamento,
+de estruturação, de personal branding,
+principalmente para você que quer criar
+uma startup de sucesso, assim como eu, é
+obrigatório. Você tem que estruturar o
+seu canal de comunicação e desenvolver o
+seu personal branding. Você tem que
+contar a sua história. É por isso que em
+cada vídeo que eu entro aqui eu falo:
+"Porra, eu já trilei a jornada, já
+montei a General Cleans, a minha
+primeira insurtec que deu certo, minha
+empres.
+2022, tô à frente da Acelera, também tem
+uma empresa de SAS chamado Inspect". E o
+que que é Acelera? Acelera é uma escola
+de empreendedorismo totalmente redzone.
+Lá eu ajudo pessoas a empreender, a
+tirar as ideias do papel, a focar
+naquilo que importa de verdade, que é o
+quê? validar a ideia, faturar rápido e
+fazer o negócio crescer e depois dar o
+salto para estruturar, entendeu? O caos
+vem primeiro que a ordem. Saca como isso
+é importante? Essa narrativa é
+importante, Kelvin, não sei falar, não
+sei me posicionar, tenho vergonha na
+câmera e tudo mais. Sabe o que você tá
+fazendo? Procrastinando seu sucesso. É
+isso que você tá fazendo. Toma vergonha
+na tua cara, levanta dessa, tira essa
+bunda aí do sofá aí do da cadeira, se
+mexe, Bora para cima, vamos fazer
+acontecer. Então, ó, 2026, 2026 tá aí.
+Quanto tempo a gente tem para 2026 aí,
+produção? Qu uns 30 dias, 31 dias. 30
+dias para 2026, entendeu? E 2026 não é
+sobre montar uma agência de A, não é
+sobre você montar um chatbotezinho
+vagabundo, xchelento, usando NN, não é
+sobre você fazer automação, não é nada
+sobre isso. É sobre você construir uma
+infraestrutura de crescimento baseada em
+agentes. É sobre você construir a sua
+startup e atacar as pequenas e médias
+empresas, indústrias e serviços que
+nunca tiveram tecnologia. é sobre você
+se posicionar como um solucionador, um
+cara que está levando as boas novas, um
+evangelizador da IA aplicada de forma
+estratégica para as empresas e construir
+também aqui do teu lado o teu time de
+agentes que vai potencializar a entrega
+do teu negócio, o crescimento do teu
+negócio para que você faça uma empresa
+de 1 2 3 milhões de faturamento mês e
+tem um time altamente inxuto e eficiente
+no teu backoffice, segurando o rojão com
+você, entendeu? Essa é literalmente para
+você que quer empreender a maior
+oportunidade da sua vida e você tem que
+se posicionar agora sendo o cara da
+inteligência artificial, sendo o cara
+que literalmente vai fazer acontecer.
+Então esse vídeo é sobre isso, é sobre
+falar para você que estamos no melhor
+momento, é possível empreender, você
+consegue fazer e se você tá com medo, se
+você não sabe como, se você tá travado,
+eu e a Acelera 360 podemos te ajudar.
+Esse é o objetivo da minha escola,
+ajudar pessoas como você a empreender,
+ajudar eh donos de agência de marketing
+a montar um time de tecnologia e
+empreender com IA. Ajudar empresas que
+estão travadas a escalar as suas
+negócios com inteligência artificial.
+Novamente, dia 19/12
+vai rolar um evento chamado Vertical A
+Experience. E eu quero você lá comigo.
+Eu quero tá lá para eu explodir a tua
+cabeça. Eu quero que você esteja lá, na
+verdade, para eu explodir a tua cabeça.
+E vai ser uma parada altamente prática.
+Fechou? Conto com vocês. Espero que
+vocês tenham gostado do vídeo. Já deixa
+seu joinha aqui, já comenta também, já
+me segue. Tchau, um abraço e até a
+próxima. Ah, me segue no Instagram.
+Falou. M.

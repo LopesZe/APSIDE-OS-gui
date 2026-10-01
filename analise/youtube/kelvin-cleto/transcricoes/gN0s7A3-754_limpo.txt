@@ -1,0 +1,422 @@
+tá gravando tá gravando tá gravando
+estamo no ar fala galerinha
+beleza por que tem deves que ganha uma
+fortuna e deves que são simplesmente
+descartáveis hoje se você é um Dev
+descartável em nome do Senhor Jesus nós
+vamos te
+curar vou contar para vocês algumas
+habilidades o que que esses caras
+desenvolvem para se tornarem pessoas que
+são realmente
+desejadas que os empresários e
+empreendedores que os times têm tesão
+que tem tesão em contratar hoje você vai
+aprender isso vamos lá galera para quem
+não me conhece meu nome é Kelvin Tô
+começando aqui no YouTube Sou empresário
+setor de tecnologia tenho algumas
+empresas por aí mas sou deve me minha
+paixão é por codar e eu Codo em dnet tá
+pessoal falou lá no meu Instagram lá que
+eu Codo em Java eu odeio Java apesar que
+eu não sou muito selecionar Tech mas o
+Java eu tenho repulsa por conta da [&nbsp;__&nbsp;]
+da faculdade eu fui obrigado a aprender
+Java e sofria muito instalando net Beans
+lá era uma desgraça Nossa meu Deus do
+céu quanto plugin que eu tinha que
+instalar mas vamos lá deixa eu falar
+para vocês aqui ó por qu por por quais
+são essas habilidades que que difere
+tanto um cara que é [&nbsp;__&nbsp;] que o cara tá
+fazendo 15 20 pau inclusive o cara tá
+para fora do país e outros ficam ali
+estagnados [&nbsp;__&nbsp;] conheço vários deves
+que ficam ali 5 6.000 8.000 cara 8.000
+por mês não que seja Eita [&nbsp;__&nbsp;] quase
+quebraram aqui em casa aqui o8 conto dá
+um foco aqui ó deixa eu te mostrar deixa
+eu ver se dá foco essa câmera comprei
+uma câmera gente muito top quer ver ó é
+porá ó cer ó foca aqui dá um close dá um
+close eu vou te ajudar se você é um Dev
+que está que é descartável eu vou te
+ajudar chega sai o Close agora é out T ó
+separei aqui para vocês
+ó que que acontece gente
+eh o Dev que ele se destaca é o cara
+[&nbsp;__&nbsp;] além da parte técnica né que tem
+que ter tem que ter você deve você tem
+que ser bom na parte técnica né mas ele
+tem algumas ele tem na verdade são três
+principais habilidades que fazem ele
+assim explodir a primeira delas ó ele
+sabe explicar ideias o Dev tem que saber
+explicar [&nbsp;__&nbsp;] da ideia dele é cara
+Quantas vezes eu já passei por pessoas
+que não sabem explicar Putz vai fazer
+uma implementação Quer fazer alguma
+coisa assim o cara não sabe explicar nem
+o por ele não consegue vender aquela
+ideia pro time não consegue vender
+aquela ideia pro pro Tech Leader dele
+ele não consegue cara ele não consegue
+ele não sabe aí o que acontece ele fica
+refendo das ideias dos outros então é um
+cara que ele só vai ser um Executor ele
+vai ficar esperando de alguém falar para
+ele o que tem que fazer ele não sabe
+chegar e falar [&nbsp;__&nbsp;] Cara não faz isso
+aqui não vamos colocar o o o o o redis
+aqui não vamos colocar uma Vamos matar
+essa bosta desse banco do nocio aqui que
+não tá fazendo sentido saca ele não
+consegue fazer isso e ele também tem um
+ponto aí não é só que ele não sabe
+explicar ideias ele tem medo de colocar
+a ideia dele dar errado e aí a hora que
+D errado ele ser o culpado esse é um
+grande problema do do mundo né do ser
+humano em si o cara tem medo o cara tem
+medo de assumir o risco não pode pô não
+pode não pode cara você tem que aprender
+a explicar a ideia a a defender as suas
+ideias defender elas de verdade você
+pode ela pode até não se aceita mas você
+tem que defender ela fal [&nbsp;__&nbsp;] não cara
+isso aqui para mim faz sentido a sua
+também faz sentido mas a minha linha de
+raciocínio também faz saca isso é muito
+necessário e ele tem que se colocar em
+risco você tem que assumir riscos ó ó de
+novo dá o Close aqui assuma riscos
+simples assim cara cara não tenha medo
+errar sai do zoom é outro nível
+hum assuma riscos tipo assim ó nossa
+quantas vezes eu assumi risco os caras
+no no começo lá o pessoal geralmente
+odeia banco nosco falava cara não essa
+aqui esse aqui eu vou usar o mongo
+[&nbsp;__&nbsp;] Ah vai ninguém sabe como essa
+[&nbsp;__&nbsp;] performa com com volumetria não
+ligo vou usar Deu Merda deu mas eu fiz
+entendeu vou fazer vou vou implementar
+um microsserviço aqui nossa
+Que cagada mas defendi montei apresentei
+a ideia defendi a ideia vendi a ideia
+fizemos o microsserviço Deu Merda deu
+mas eu fiz e eu sei hoje o quanto faz
+sentido Por exemplo fazer um monolito ou
+microsserviços o que faz sentido ou não
+ter uma fila de mensageria ou não por
+exemplo o que faz sentido colocar um um
+um risel Reds a [&nbsp;__&nbsp;] não sei como que
+fala ou ou não ou fazer no próprio mongo
+fazer um cash no mongo por exemplo saca
+tipo assim eu tenho ou fazer um Cash em
+memória saca Olha que loucura Eh mas
+você só vai saber disso se você fizer
+esse é o ponto Então você tem que saber
+explicar ideias e defender as ideias e
+se colocar em risco com as suas ideias
+simples assim Outro ponto negociar
+soluções isso aqui é extremamente
+importante então assim esses caras que
+são extremamente qualificados tá
+gravando tá esses caras que são [&nbsp;__&nbsp;]
+Hum Qual que é o grande diferencial do
+cara então tipo assim ele não é o cara
+ele não é aquele Fan boy eu muito tempo
+fui muito Fan Boy da Microsoft adoro
+negócio sou C Sharp fho adoro Microsoft
+todas as minhas aplicações eu desenvolvo
+e Minha empresa trabalha 100% em cima da
+azure eu pipeline tudo no devops da
+azure adoro adoro adoro mas eu entendi
+eh a stack ela não te leva lugar nenhum
+então assim você tem que aprender a
+entender Qual que é a necessidade
+daquela solução Qual que é a necessidade
+da empresa Qual que é a dor n que você
+vai resolver e você negociar A melhor
+solução pra sua empresa para aquele
+negócio para aquela para aquela para
+aquela dor específica é extremamente
+necessário tem que desenvolver essa
+habilidade de negociação deve se você
+cara assim ó você tem uma opção você
+pode ficar achar que o que eu tô falando
+aqui é babuera [&nbsp;__&nbsp;] também ou você
+pode me escutar se você me escutar
+salário tem já estourar para cima Nossa
+você não tem noção você não tem noção
+hoje aí tem cara deve tranquilamente tá
+ganhando 15 16 18 mês saca se você tá
+ganhando abaixo disso tem algum problema
+aí tem algum problema aí não faz sentido
+eh liderar discussões técnicas meu
+Deus de novo olha casado com o Saber
+explicar suas ideias cara vocês tem que
+aprender a liderar discussão
+técnica quantas vezes eu fiz isso sendo
+pleno pleno chegava no cen e falava Cara
+isso que você tá fazendo é uma merda não
+tem lógica por conta disso disso Disso
+disso implementar uma solução assim Cadê
+zoom cai para dentro chama o pleno pro
+pau f o sor pro pau chama esses caras
+para quebrar o pau Ah mas se eu tiver
+errado [&nbsp;__&nbsp;] você vai aprender Deixa
+eu tirar o
+zoom Cara isso aqui é muito legal
+[&nbsp;__&nbsp;] você vai aprender entendeu então
+isso é muito importante liderar
+discussão técnica cara eu coloco a meu
+ponto de vista sempre em tudo em tudo e
+isso eu aprendi já na verdade isso eu já
+fazia né Eu tive um um cara chamado
+Rafael tolot cara Rafael tolot se você
+estiver assistindo aí sou seu eu sou o
+gafanhoto dele cara literalmente pupilo
+esse cara era arquiteto de software num
+empresa que eu trabalhava e ele que me
+ensinou ele que me ensinou tudo de
+arquitetura de software tudo de
+desenvolvimento de software de o código
+tá bonito tá lindo e e tá performático
+[&nbsp;__&nbsp;] foi esse cara ele que ele que
+plantou essa semente na minha cabeça
+aqui e eu fiz ela germinar eu fiz ela
+germinar e eu sou apaixonado por isso
+até hoje mas vamos lá você tem que
+liderar discussões técnicas tem que
+assumir que você é um protagonista você
+é um Dev empoderado Ah mas eu não sei de
+tudo não tem problema não tem problema
+nenhum você tem que entender que ninguém
+sabe de tudo ninguém sabe de tudo mas
+você tem que desenvolver a sua
+autoconfiança para você conseguir
+liderar e para você ficar não adianta Só
+liderar por liderar né e ficar pontuando
+idiotas você tem que entender que você
+vai ter que saber muito daquela
+linguagem de programação daquela solução
+daquela da dor daquela empresa e como
+resolver ela e também
+entender Quais são os possíveis
+problemas que você pode ter
+implementando a sua ideia tem que tá
+mapeado isso saca por exemplo vou
+implementar uma mensageria aqui tá cara
+qual que é o possível problema da
+mensageria mensagem se perdendo Esse é o
+maior deu Crash lá e e tá dando erro e
+não tem tratativa para quando PR exceção
+Cara isso tem que tá mapeado entendeu
+isso tem que tá tá claro na tua cabeça
+por quê Porque isso é como se fosse um
+débito técnico e e também é como se
+fosse uma pólice de risco que você tem
+porque se você implementa a solução você
+já vai ter clareza falando cara pode dar
+merda aqui entendeu e então e discussões
+também liderar discussões estratégicas
+para onde esse produto vai faz sentido a
+gente impl faz sentido a gente
+assumir esse débito técnico pra gente
+conseguir chegar lá mais rápido faz Olha
+que legal saca é esse tipo de coisa que
+você tem que fazer Ah falar de DDD falar
+de design Pat falar de monte de cois é
+legal é mas cara não chega nem perto
+disso aqui nem perto DDD Cadê o Liv ó o
+cara compra esse livro aqui Eita [&nbsp;__&nbsp;]
+aí ele decora do Eric Evans ele decora
+essa merda aqui entendeu E ele vai ficar
+[&nbsp;__&nbsp;] e DDD e e padrões de projeto o cara
+decora isso aí hoje o chat PT te fala
+todos e você consegue ficar bom nisso
+você decora rapidinho agora você
+desenvolver essas habilidades meu irmão
+vai na minha hein vai na minha me escuta
+então ó aqui ó e o Dev ruim cara por que
+que então aqui são os pontos que eu
+falei do Dev bom né n e o que que o
+Devid ruim faz cara o Devid ruim ele
+foge ele foge do ele foge da da
+responsabilidade então ele espera alguém
+tomar decisão por ele
+ai vou não vou falar porque essa empresa
+funciona assim funciona assado Ninguém
+escuta minha ideia aquele chororô todo
+então esse aí é o Dev ruim ele a
+comunicação dele é muito fraca péssima
+péssima péssima é o cara que olha olha
+só é o cara que não tem coragem de Abrir
+a câmera para aparecer por exemplo numa
+reunião não tem coragem de levantar a
+mãozinha lá nem até com a câmera fechada
+e falar não você tá errado não tá
+fazendo sentido Esso é Dev ruim Esso é
+Dev ruim que não tem coragem de olhar
+pra [&nbsp;__&nbsp;] do pior e falar assim pi você
+não tá fazendo seu trabalho Esse é o Dev
+ruim isso aí é [&nbsp;__&nbsp;] então ele tem falta
+de iniciativa o cara não o cara não
+assume o risco quem ó o problema de
+pessoas com falta de iniciativa São
+pessoas que TM medo de assumir o risco
+então assim ó se você quer ter
+iniciativa temha coragem de assumir
+riscos simples assim você vai conseguir
+evoluir nisso
+e foco apenas na técnica aprender com
+qualquer Framework vai resolver o
+problema
+esquece não tem a ver com técnica não
+tem a ver com quão bem Você programa não
+tem nada a ver com isso entendeu isso aí
+é isso aí é obrigação é sua obrigação
+como desenvolvedor ser um bom
+codificador entenda entenda isso é a sua
+obrigação é a sua obrigação pegar um
+problema escreve o código e compila sem
+erro ou com um milhão de erros e corrije
+1 milhão de erros mas isso aí é é a tua
+função [&nbsp;__&nbsp;] você não é desenvolvedor é
+teu trabalho isso aí é não tem nem o que
+falar entendeu então e para você virar
+um Dev bom deixa eu ver quanto tempo 12
+minutos meu Deus eu falo muito eu queria
+fazer um vídeo de 8 minutos e não
+consegui por mais seja pro YouTube eu
+não gosto de vídeo longo tenho preguiça
+de assistir E acho que os outros também
+tem então vamos lá
+hum tomar água aqui para hidratar que eu
+tô querendo emagrecer e eu preciso tomar
+água porque maioria dos meu peso é
+inchaço eu não tô gordo Porque eu como
+muito eu tô gordo Porque eu não tomo
+água
+ã vamos lá domine fundamentos técnicos é
+a tua obrigação de saber design patterns
+é a tua obrigação saber isso é tua
+obrigação saber sobre Clean code é tua
+obrigação saber sobre
+dnet no caso meu C Sharp né então é
+sobre o dnet 4 5 6 7 8 10 20 50 e quais
+tiverem é minha obrigação saber isso
+então estude muito esse é o primeiro
+ponto nada de E essas bosta aí não vai
+ler artigo vai lá na medium vai no
+stackover stackoverflow é muito bom
+adoro hoje te o chat é pt Mas ainda
+gosto muito do stack overflow eh porque
+eu gosto de ler as discussões e o github
+também é muito bom principalmente para
+você ler lá as as threads Lá é muito
+legal entenda o impacto Então vamos lá ó
+domine ó Dom domine os fundamentos
+técnicos estuda para [&nbsp;__&nbsp;] [&nbsp;__&nbsp;] mano
+gasta aí se meses da tua vida aí
+estudando para você ficar [&nbsp;__&nbsp;] ah mas eu
+não eu eu eu eu estudo e não fico [&nbsp;__&nbsp;] é
+porque você só estuda e não aplica
+inventa aí de criar um sistema qualquer
+e sai codando assim e aí você vai ver
+como vai vai ficar bom bota para rodar
+entendeu gasta a sua energia com isso
+mano Ah mas eu trabalho estudo velho
+mesma vida que eu tive trabalhava
+estudava igualzinho Então faz na sua
+empresa estuda a melhor coisa que tem é
+você estudar e aplicar na empresa Nossa
+é muito louco você faz a merda lá e
+corrige também e aprende os outros
+critica é bem legal entenda o impacto do
+seu trabalho cara você tem que entender
+Qual que é o impacto do teu trabalho na
+tua empresa no teu time tem que ter
+Claro Ah não consigo ver isso tenta
+enxergar Pergunta pras outras pessoas em
+volta Pergunta pro seu Líder chama o seu
+não sei o líder técnico ou o po ou o
+gerente te fala cara qual que é o
+impacto que você enxerga do meu trabalho
+nessa companhia [&nbsp;__&nbsp;] que pariu Olha que
+pergunta se ele não souber responder
+você vai para cima dele ou você fala
+assim ó então eu gostaria que você
+pensasse sobre isso e me retornasse eu
+quer um feedback seu sobre isso
+is é outro nível é outro nível dá o
+Close Ó cadê o Close Tem que olhar pra
+câmera pera
+aí [&nbsp;__&nbsp;] não dá aí ó Isso é outro
+nível pessoa que faz isso aí é outro
+nível a gente tá falando de pessoas que
+são comunicativas entende pessoa quer
+melhorar Então ela já pede feedback não
+espera os outros trer o feedback Fala aí
+para mim qual que é o impacto do meu
+trabalho sai do Close sai do Close a
+vamos láo Enda Impacto seu trabalho já
+falei melhore suas soft Skills cara foi
+o tempo foi o tempo do cara que falava
+assim não eu só quero codar eu só quero
+desenvolver eu só quero fazer isso meu
+trabalho é só programar e já era acabou
+velho a gente não tá mais nesse tempo a
+gente tá no tempo de evoluir entendeu a
+gente se você só Coda deixa eu te contar
+uma coisa aí ó logo logo você vai ficar
+sem emprego você é dispensável porque o
+chat ept já tá aí já é a prova disso eu
+montei um gerador de código aqui
+incrível com o chat ept vocês não temm
+ideia ele monta eu treinei Ele para Ele
+gerar no padrão de projeto que eu gosto
+que eu trabalho na minha nas minhas
+empresas aqui o meu time vai lá escreve
+pro ele gera as classes e pau no gato
+mano O negócio é doido então assim você
+tem que melhorar as suas habilidades de
+comunicação você tem que falar você tem
+que aprender criar habilidades de
+negociação de persuasão você tem que ser
+bom nisso você tem que perder o medo
+você tem que encarar você tem que
+assumir risco
+cara você tem que pedir aumento você tem
+que chegar e falar assim velho eu tô
+valendo tanto eu tô entregando tanto pra
+empresa eu quero um meu salário em tanto
+vocês não tem nem que esperar aumento
+tem que trucar o chefe de vocês aí e
+pedir aumento é assim que funciona ah
+mas a empresa não dá sai vai para outro
+lugar vai para um lugar se você tá
+valendo muito se você sabe que tá
+entregando muito a empresa não tá Te
+valorizando sai dessa [&nbsp;__&nbsp;] vai para
+outro lugar entendeu vai
+crescer 16
+minutos é isso então galera esse aqui é
+meu vídeo explicando PR vocês porque que
+tem devs que valem muito e outros que
+são descartáveis se vocês desenvolverem
+esses pontos que eu falei para vocês
+aqui cara vocês vão explodir entendeu
+então ó ó deixa aqui ó escrev essa frase
+aqui ó o mercado ele não precisa mais de
+devs que só codam entendam isso o
+mercado não precisa mais de Dev que só
+escreve código ele precisa de
+solucionadores de problema é isso que
+eles precisam pessoas que saibam lidar
+com aqueles problemas e resolver pelos
+fechou Valeu galera foi um prazer tê-los
+aqui até a próxima hein

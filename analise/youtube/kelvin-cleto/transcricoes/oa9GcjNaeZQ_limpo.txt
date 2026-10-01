@@ -1,0 +1,373 @@
+estamos no ar Fala galera beleza como
+que vocês estão Espero que esteja todo
+mundo bem é isso aí 2025 chegou mais um
+ano começo do ano hoje é 12 de Janeiro e
+você que tá começando na área de
+programação ou você que tá querendo
+trocar de
+stack tá se perguntando qual linguagem
+que eu começo qual linguagem que eu devo
+aprender qual o Framework que eu devo
+aprender eu tô só uma
+Aspas eu tô assistindo um canal de um
+cara chamado mano deivin mano ele fala o
+seguinte ó a minha linguagem é a do é a
+o pix script é a linguagem que paga
+conta é a linguagem que deposita o
+salário e e ele tem Total razão então
+aqui nesse vídeo eu vou explicar um
+pouco para vocês a minha opinião
+vou vou vou ponderar ela aqui para vocês
+de qual linguagem que você deve aprender
+em 2025 de qual Framework que você deve
+estudar e eu sou um cara purista sou
+full stch mas minha especialidade é
+backend adoro C Sharp e eu vou falar de
+tudo aqui hoje sou de frontend e backend
+e vou comentar para vocês a minha
+humilde opinião para que você consiga
+ter uma carreira de sucesso que é o
+principal para que você consiga colocar
+o dinheirinho na tua conta para você
+melhorar tua vida e para você crescer
+com essa parada entendeu para você ir
+longe não você aprendeu uma hoje e daqui
+um mês dois meses aprender outra esses
+negócios de Hype Não não eu já tô até
+adiantando o assunto já meu Deus deixa
+eu colocar aqui na tela ó vamos lá eu
+vou segmentar vamos segmentar isso aqui
+o seguinte ó em
+frontend chup que riscou
+eente para você que tá iniciando agora
+mas já D até pesquisado pelo menos um
+pouco né para você tá aqui nesse canal
+assistindo nesse vídeo frontend a
+telinha é o que o usuário final V é a
+parte visual do sistema e ela e ele pode
+ser disponibilizado como vamos lá
+através de aplicativos web então o
+famoso site
+aplicativos mobile ou mobile
+mobile e
+desktop computadorzinho aqui ó desktop
+Beleza deixa eu ver tá gravando os dois
+tá beleza mundo não tá tudo certo só dar
+uma conferida né youtuber Júnior gente
+youtuber
+Júnior e o backend é o é o que
+geralmente roda por trás né é o que tá
+lá no servidor é o que tá na nuvem na
+nuvem na Cloud é a estrutura por trás
+aplicações tem aplicações que só tem o
+backend também né rotinas de execução e
+tudo mais processamento só backend Então
+vamos lá front e back
+Beleza então vamos começar aqui pelo
+frontend tá ó eu
+Kelvin minha carreira toda foi como me
+especializando em
+backend e e como é a vida a gente acaba
+aprendendo tudo né então eu desenvolvo
+em aplicativo desktop web e faço a parte
+do backend também mas eu sou apaixonado
+por desenvolvimento em backend adoro
+adoro é o que eu curto de verdade mas
+vamos lá você deixa eu voltar aqui volta
+aqui então vamos lá se você tiver
+começando aí você pode escolher front
+backend o front ele é tem é fácil é um
+pouco mais fácil na verdade né tem as
+suas complicações mas é mais fácil de
+você iniciar na área e o backend eu
+diria que é um pouquinho mais difícil
+mas não é tanto não tá se você se
+dedicar a estudar você vai conseguir aí
+vai dar do que você gosta do que você
+gosta você tem pesquise um pouco sobre o
+o principalmente aqui na parte do front
+end você tem a parte de design pessoas
+que são mais especializadas em design
+pessoas que são mais especializadas
+escrever o o o o o a a estrutura do site
+né como ele vai funcionar no caso aqui
+utilizando os frameworks E por aí vai
+aplicativo mesma coisa e tudo mais mas
+vamos lá no
+site se você tá começando o básico o
+básico você tem que saber que é o
+HTML CSS e o
+JavaScript Nossa meu Deus do céu Dá nem
+para
+entender se você tiver começando faça o
+seguinte esquece qualquer Framework que
+vão te falá e aprenda
+JavaScript puro
+puro por qu você vai aprender os
+fundamentos de qualquer Framework a
+estrutura que os frameworks são
+construídos e JavaScript não é linguagem
+de programação é linguagem de
+interpretação mas isso aí vai para outra
+conversa mas vamos lá JavaScript a da
+JavaScript puro é muito bom cara Dá para
+você fazer muita gambiarra o negócio é
+uma delícia eu adoro JavaScript puro é é
+é mais difícil é um pouquinho mais
+difícil mas não é tudo isso gente é tipo
+assim esse negócio de dificuldade é só
+tempo um pouquinho de tempo a mais que
+você vai precisar ali para você ficar
+melhor mas depois que você aprendeu o
+básico do frontend que é o HTML o CSS e
+o JavaScript vamos falar de
+frameworks construídos em cima de
+JavaScript eu vou colocar só três
+esquece todo o resto deleta o resto é
+Hype modinha ou já morreu ó
+vijs react ou
+angular não tem outro ah mas tem
+o xjs Foca nesses três um desses
+três escolhe Só um só um Se fosse eu eu
+eu gosto muito do angular cara só que o
+angular me deixou um pouco Decepcionado
+nas últimas versões tá ficando muito
+complexo então eu gosto muito do View
+também eu escolheria View tem muito
+projeto tem Nossa cara viu é fera e é
+fácil de aprender e facilmente você fica
+você fica bom rápido entendeu
+uns se meses aqui você já tá feira mais
+ou menos isso ah Vale ressaltar o
+seguinte Tá eu vou focar aqui em coisas
+enterprise coisas empresariais ó eu vou
+colocar em vermelho entendam isso aqui ó
+tô falando de
+enter Prise dá nem para entender coisa
+que paga as contas que ganha dinheiro
+que as empresas usam que consultorias
+utilizam que startups utilizam
+entendeu então ó foquem nisso foquem
+angler
+sacou mobile
+mobile mobile
+flutter
+react
+Native react react Native é a mesma
+sintaxe do Framework do react só que com
+podendo usar componentes do interativo
+celular e o flutter ele foi construído
+um Framework que utiliza a linguagem
+Dart do
+Google flutter react Native muito bom E
+aqui por ISO ó se eu tivesse começando
+hoje deixa eu até colocar na câmera
+inteira que eu tenho que ficar fazendo
+transições que meu ainda é muito manual
+se eu tivesse começando hoje eu focaria
+hoje do zero é eu gosto muito de backend
+gente nossa eu sou apaixonado eu não
+tenho paciência para ficar construindo
+telinha eh dá muito trabalho meu negócio
+é construir código estrutura arquitetura
+eu eu gosto disso mas vamos lá Se eu
+tivesse começando hoje eu acho que eu
+começaria por aplicativo sabe eu i ficar
+muito e mobile pensa só quem que hoje
+não tem um celular na mão entendeu dá
+para construir aplicações em Web Apps dá
+mas aplicativos web para carregar no
+celular dá mas cara é não é igual não é
+igual a tendência é todo mundo ter uma
+um um
+app então assim muita vaga muita área e
+aqui tem um deficit de profissional
+absurdo hein um déficit de profissional
+absurdo aqui na parte de aplicativos tá
+10 top
+esquece está morto não existe mais
+ninguém usa essa
+então nem foca nisso ah mas tem
+tem mas é muito pouco não faz sentido
+focar uma carreira nisso aqui para
+começar começar é isso aqui falando de
+backend você tem lá várias linguagens
+vou colocar só algumas aqui tá
+pyon acho Escrevi certo pyon Python
+node que JS que é JavaScript para
+backend você tem o
+rub Você tem o
+PHP aqui é o PHP e mais algumas outras
+aqui tá eu não vou falar dessas daqui
+não tá eu vou falar do seguinte
+ó duas opções só duas esquece esse resto
+todo aqui e eu já falo o motivo
+go esquece tudo essa esque isso
+aqui ó ó para construir uma carreira
+sólida
+hoje
+Java ou
+csharp linguagens de alto
+nível entendeu linguagens robustas
+linguagens com mercado
+vagas infinitas
+eu sou do C Sharp Por quê não sei
+explicar gosto gosto muito aprendi sou
+traumatizado um pouco com Java eu sofri
+muito com Java porque Java Antigamente
+eu não sei hoje eu tô muito tempo sem
+programar em Java mas eu já peguei
+vários projetos assim Java mas
+parto com instala ide instala plugin
+configura ide configura ambiente aí
+instala jar não sei o que lá aí instala
+o javas Java não sei o que lá Java C aí
+instala que pariu é era muito
+sofrido muito muito muito muito então aí
+eu e o csharp não csharp você ia lá
+instalar visual Studio ele já
+configurava tudo para você então sempre
+gostei muito da da da do do ecossistema
+Microsoft então eu gosto de Java de
+csharp o csharp é muito muito bom o
+Java também é bom não vou falar que
+é porque eu não
+gosto também é bom então qualquer uma
+dessas duas linguagens que você aprender
+e focar nela e você aprender primeiro os
+fundamentos básicos da linguagem
+fundamentos aí depois você aprende o quê
+a orientação objeto itação
+objeto cara acabou depois aprende uns
+design
+patterns acabou irmão só focar nisso
+aqui pode ir sem medo Esquece o resto
+Python Python tá sendo muito usado
+negócio da inteligência Inteligência
+Artificial análise de dados tratamento
+de dados transformação de dados Python
+Python superou os projetos no github de
+JavaScript ele ele é a linguagem mais
+utilizada hoje mas por quê Porque ia tá
+no Hype irmão go cara esquece Gol velho
+Sai fora dessa aí tô falando de
+construir uma uma carreira uma aprend
+uma linguagem sólida que faça sentido
+aprenda a da linguagem de vez Ah
+mas C Sharp Java é mais difícil r
+é mais fácil aprender um rails é mais
+fácil é mais fácil e também tem vaga
+também tem vaga esse que é o ponto rub
+tá entre as 10 linguagens mais
+utilizadas node também tá entre as 10
+linguagens mais utilizadas mas do mesmo
+jeito que é fácil para você é fácil para
+todo mundo eu sou raiz negócio é C Sharp
+ou Java backend C Sharp Java ou Java
+acabou não tem não tem o que ficar
+escolhendo negócio é muito bom tem muita
+vaga ó vou dar um exemplo aqui para
+vocês quer ver ó 2000
+2012 o csharp eu já trabalhava com
+csharp tava estourado de vaca Mercado
+Super aquecido 2015 igual 2020 igual 205
+igual igual idêntico então assim não
+inventa moda faz o básico bem feito
+depois você aprende outra arruma um
+trabalho se ingressa na área fica
+ganha uma grana fica aí depois você
+inventa de de querer aprender depois que
+você entende como a linguagem funciona é
+fácil você ir para um Python aprender um
+Python da vida se for preciso é fácil
+você aprender um node é se for preciso é
+fácil você aprender um um rub é não é
+não é um bicho sete de cabeça então vai
+para uma linguagem de alto nível bem
+estruturada famosa com uma boa
+comunidade com vários Apesar que todas
+tenham aqui boa a comunidade em si ela
+ela é boa né mas é uma linguagem que tem
+ela tem
+ela tem estrutura de mercado para você
+poder trabalhar para você trocar de
+empresa para você entrar em empresa para
+você sair em empresa para você aprender
+tem conteúdo para tem curso para
+tem Nossa velho sabe sai da moda
+sai do Hype saia ó o conceito Opa isso
+aqui não o conceito é você
+sair do Hype isso
+aqui não é para quem tá começando
+não é não é então vamos lá recapitulando
+recapitulando Ah quero quero começar com
+frontend gosto mais de criar as telinhas
+de criar estrutura
+vijs react ou angular escolha uma das
+três e e se debruça de cabeça quero
+fazer aplicativo flutter ou react Native
+Lembrando que flutter react Nate View
+react ang é tudo Framework tá quero
+fazer código mesmo backend Java ou C
+Sharp não tem outra escolha entendeu e
+tem um ponto a se ressaltar que é o
+seguinte ó Quem
+geralmente tá aqui no front se
+mais o fron se mais por quê muito
+simples o front ele muda muito rápido
+então por exemplo 2016 2016 a gente
+começou a desenvolver em angular JS
+aí em 2020 a gente parou de usar o
+angular JS e Mudou pro angular e cara o
+angular já já é outros 500 angular e
+angular JS assim é um uma avenida de
+diferença é totalmente diferente por que
+que a gente mudou porque ninguém tava
+mais usando angular JS e poucas pessoas
+tinham experiência com angular JS tava
+difícil tava difícil aí a gente mudou
+pro pro angular em
+20204 a gente implementou View vijs Ah
+não desculpa angular se não me engan
+angular 15 não nem sei angular 15 16 17
+20 e View também angular de View a gente
+nunca trabalhou com react aqui saca na
+na empresa aqui a gente não usa react a
+gente usa react Native a gente tem uma
+aplicação em react Native mobile e outra
+em flutter que a gente colocou uma das
+as duas para ver ali para testar cara e
+vou falar para você o flutter é fera
+Apesar que falaram que a última versão
+do react Nate tá brabíssima e Desk top
+Esquece isso aqui não existe mais isso
+aqui é passado passado passado passado
+passado Ah mas se eu aprender flutter eu
+consigo criar
+websites a parte da application web com
+flutter consegue também uma boa mas o
+mercado não faz isso esse que é o ponto
+a questão é o que o mercado faz e o pix
+tá aqui o pix tá aqui o pix mais fácil
+tá aqui nessas linguagens aqui ó ah tem
+PHP PHP também PHP é outra linguagem
+aqui que você também pode gastar energia
+e aprender ela só Qual que é o ponto do
+PHP por mais que seja a linguagem mais
+utilizada é mais fácil você aprender que
+o PHP é meio que um misto né você coloca
+ele no meio aqui não vou nem falar do
+PHP nem não vou nem comentar do PHP para
+não falar besteira porque eu
+particularmente não uma que eu não gosto
+e outra que eu não manjo muito então nem
+vou nem nem vou comentar para não
+cometer uma um Sacrilégio do PHP é isso
+galera Espero que você tenha curtido
+esse vídeo segue meu canal aí comenta aí
+se inscreve coloca no Sininho mas eu
+gostaria que você comentasse adiciona
+comentário deixa alguma dúvida se você
+quiser que eu explique um pouco mais vai
+dá essa força aí beleza valeu obrigado
+pela audiência

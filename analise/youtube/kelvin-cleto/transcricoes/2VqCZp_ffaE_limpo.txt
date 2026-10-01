@@ -1,0 +1,397 @@
+Hoje a internet veio abaixo, tá todo
+mundo falando do Cláudio. Cláudio Bote
+para cá, Cláudio Bote para lá. É a
+revolução. Chegou ADI, é o personal EI
+assistant. Meu Deus do céu. O que a o
+que a Apple tentou fazer durante 10
+anos, o Cláudio fez em o austríaco lá
+que desenvolveu o Cloud Bot fez em 8
+dias. show de bola. Mas vamos
+falar do seguinte.
+Como que nós faz dinheiro com esse
+negócio? É bom, não é? Esse review é
+sobre isso. Esse review é pra gente, vou
+mostrar para vocês. Testei o Cloud Bot,
+vou dar minha opinião sincera sobre ele,
+como podemos utilizá-lo e se podemos, na
+verdade, utilizá-lo para fazer dinheiro.
+E realmente, o que que ele é? É um
+marco, não é um marco. É literalmente o
+final dos tempos, não é o final dos
+tempos?
+Vamos falar sobre isso aqui. Bora
+começar esse vídeo então. Bora,
+rapaziada. Rapaziada, ó, 10:34
+da noite.
+Eu tô o dia inteiro fazendo reunião. Eu
+fiquei o dia inteiro testando essa
+parada. Baixei o Git, olhei o código e
+assim, tem algumas coisas que são
+realmente tá? E a gente vai falar
+sobre isso agora. Bora. Vamos lá, então.
+Tô compartilhando minha tela com vocês.
+Ó, gente,
+não vou falar sobre como instalar, não
+vou falar sobre como instalar, não vou
+falar sobre setup do cloud, do Cloud
+Bot. Vou só resumir, ó. Vocês acessem aí
+o Cloud Bot aqui, ó, no GitHub. Vocês
+podem acessar aqui GitHub.
+Não vai pelo link porque fiquei sabendo
+que vazou um link aí, tá? Então eu
+sugiro vocês irem direto aqui no
+agora o nome dele mudou, né? Para M.
+Parece que o pessoal da Antrop ficou
+puto, falou assim, ó, não vai poder usar
+o nome não, hein? Tá muito parecido com
+o nosso. Troca essa parada aí. Eles
+tiveram que trocar. É um projeto
+extremamente novo e eles basicamente
+falam o seguinte: Cloud Bot ou no caso
+agora Mbot, o seu assistente pessoal,
+pessoal de inteligência artificial, o
+seu Jarvis literalmente, sabe? O Jarves
+do Homem de Ferro é isso aqui que esse
+cara aqui promete ser. Então,
+basicamente você instala ele no teu
+computador. Aqui, ó, acessando o GitHub
+Mbot, você consegue ver o tutorial. É
+extremamente simples. É só sair
+executando o programa. Não se executar o
+programa, baixa o instalável que deve tá
+aqui em algum lugar. Em algum lugar aqui
+eles devem disponibilizar o instalável.
+Ó, cadê uma pastinha aqui? Não tem uma
+pastinha de dis aqui. Não sei. Pesquisa,
+pesquisa aqui que vocês vão achar. Vai
+ter o instalável aqui. Vocês vão
+instalar no seu computador, no Mac, por
+exemplo, e vai botar para rodar. E ele
+promete ser o seu assistente pessoal.
+Então, ele é um manus, sabe? O manusia.
+Só que no seu computador. E isso é muito
+bacana porque ele tem, eu vou abrir o
+site aqui do, eu tirei até alguns
+prints, ó. Ele tem aqui
+work with everything, trabalha com todo
+mundo, ó. Então, basicamente ele roda na
+sua máquina, n chat apps, né? Então,
+tipo assim, ele conversa com qualquer
+chat. Então, tá conversando, você pode
+mandar mensagem para ele pelo Telegram.
+Eu, por exemplo, tava conversando, eu
+integrei ele com o meu Telegram, porque
+é muito fácil, com Telegram bot. Você
+pode conectar ele no teu WhatsApp, ele
+pode responder o teu WhatsApp, ele
+manipula o teu computador, ele organiza
+a tua pasta, ele responde teu e-mail,
+ele ajusta sua agenda, ele pode
+responder os teus e-mails, já falei,
+responder sua agenda, pode fazer um
+monte de coisinha bem interessante. Ele
+tem memória persistente, significa que
+ele lembra daquilo que foi falado. Ele
+controla browser, o browser aqui
+controla control é full system access e
+skills and plugins. Esse aqui é o
+potencial dele. Na minha opinião, tem
+potencial, galera. Isso aqui tem
+potencial. É tudo isso que estão
+falando, é esse barulho todo aí? Não,
+mas é um marco. E eu vou explicar para
+vocês. Dá para ficar, dá para baixar
+aqui agora e usar isso como a sua
+infraestrutura. Dá para fazer alguma
+parada, fazer um dinheiro, não sei o que
+Hum. Eu não acho que não muito não. Não
+muito não. Não dá não. Ainda não tem que
+desenvolver. E aí eu até tava olhando os
+plugins dele, o que que dá para fazer.
+Isso me chamou atenção. Então vamos
+fazer, vamos falar para ele, vamos falar
+aqui de uma forma fria, tá?
+Tô com ele rodando aqui e tudo mais.
+Achei super bacana as extensões, piriri
+pororó. Eu falei para ele o seguinte,
+falei: "Cara, ó, eu quero que você quer
+ver a última mensagem que eu mandei para
+ele que eu aqui foi via Telegram que eu
+falei com ele, tava multimodal".
+Ah, isso aqui foi bem legal, ó. Falei
+assim, ó.
+Eh, browser relay ativado. Faça como
+achar melhor aqui, ó. Acesse o meu
+Instagram pelo browser, né, pelo meu
+navegador e eu quero que você veja os
+últimos 10 seguidores e envie uma DM
+para eles, entendeu? De "Olá". E aí eu
+mandei pelo Telegram aqui, beleza? E aí
+ele falou o seguinte, ó, eh,
+vamos aí. Ele perguntou assim, ó, pô,
+preciso estar conectado no browser.
+Então, eu até conectei ele aqui no meu
+browser, abri o meu Instagram, ó. Tá
+vendo aqui, ó? Chat chat, eh,
+Cloudbot Browser Relay ativado.
+Então, ele está integrado com o meu
+Instagram aqui agora. E aí eu pedi para
+ele, falei: "Cara, pega os últimos
+seguidores". ele pegou os 10 os últimos
+10 seguidores. Aí ele ele escreveu uma
+mensagem aqui, eu vou falar agora aqui
+para desce o pau, cara, sai mandando
+mensagem. E aí é muito legal porque ele
+vai entrar aqui,
+ele vai abrir as pessoas e vai mandar
+mensagem para elas. Vamos até vou até
+deixar aqui enquanto eu vou conversando
+com vocês aqui. Vamos embora.
+Isso aqui é muito interessante. Por quê?
+Porque basicamente ele consegue fazer um
+processo de social selling. Ele consegue
+fazer isso, tá? Perfeito. Ainda não tá,
+mas isso pode ser desenvolvido. Isso
+pode ser uma skill que é desenvolvida
+para ele, um plugin. Dá para desenvolver
+plugins e skills. Que que são plugins e
+skills? Habilidades e plugins,
+extensões. A gente consegue customizar o
+código do cloud. Então, tava, eu tava
+olhando aqui, por exemplo, vou até tirar
+esse aqui para fora. Isso daqui, por
+exemplo, é a pasta que eu encontrei aqui
+de skills que foram desenvolvidas, né?
+Falei: "Cara, quero entender um pouco
+mais sobre como desenvolver uma skill,
+como adicionar uma habilidade nele." E
+aqui eu entrei em skills, ó. Só que, ó,
+que louco, ele até agora não foi. Até
+agora ele não mandou mensagem. Vamos
+olhar aqui o que ele fala. "Você tem
+razão. Ficou ruim, ficou genérico?"
+"Não, ele não entendeu." Falei:
+"Desce o pau". Não, você não
+entendeu. Ó lá, ele começou, ó. Agora
+ele começou. Vocês viram que ele começou
+a navegar aqui pelo meu Instagram? Isso
+é muito porque o Instagram tem uma
+de uma política contra bote. Se
+você coloca bote aqui, ele derruba
+conta. Só falta agora identificar que o
+Cal de bote é um bote e derrubar minha
+conta do mesmo jeito. Aí não significa
+de nada. Aí não adianta de nada. Só que
+eu acho que não, cara. Eu acho que ele
+vai fazer certinho. Olha ele entrando na
+DM, ó. Ó lá, ó. Vamos ver o que que vai
+fazer.
+Ó, o o meu funileiro tá puto comigo que
+eu não respondo ele
+e ele vai mandando mensagem. Então
+assim, ele funciona para isso. Não vou
+nem compartilhar mais a tela aqui. Vamos
+lá. Vamos falar de dinheiro. Tem
+possibilidades da gente usar o cloud
+code para criar um negócio ou incorporar
+essa ferramenta não só para ser um
+agendador de e-mail, um organizador de
+pasta, esse tipo de coisa. tem, mas não
+é uma ferramenta customer ready, tipo,
+não tá pronta pro cliente final ainda.
+Precisa ter alguém técnico, um
+programador para criar as skills e criar
+os plugins para deixar ele mais
+inteligente. Mas te deixa eu te explicar
+uma coisa. Quando a gente tá falando de
+grandes empresas
+ou empresas com sistemas legados, a
+gente tem sistemas e processos que são
+executados lá dentro que dificilmente
+vão mudar rápido. E uma ferramenta como
+o Cloud Code num Mac Mini instalado num
+computador, numa VM bem organizado de
+forma segura para não vazar token, não
+vazar informação da empresa, não ter
+problemas de prompt injético, ele é uma
+mão na roda. Ele é uma extremamente mão
+na roda. Por eu vou explicar. Eu
+trabalhei numa empresa uma vez que era
+uma distribuidora de produto. Tinha umas
+três, quatro pessoas lá só para ficar
+recebendo nota fiscal por e-mail,
+baixando o arquivo e colocando numa
+pasta. Por que que tinha a pasta?
+Porque o dono queria que tivesse a
+pasta. Tá tudo bem, ele que paga a
+conta, ele que manda. Então ele é do
+jeito dele. E ele, aquele procedimento
+existia.
+Existem sistemas legados onde uma visão,
+uma um modelo de visualização do ecrã
+aqui mais uma inteligência artificial,
+entendendo ali os componentes, a gente
+consegue manipular e preencher as
+informações com o IA. E o Cloud Code ele
+possibilita, já que ele é o um um modelo
+de a full access, né, no computador que
+tem acesso total ao computador ali, aos
+componentes, aos programas, ele vai
+possibilitar fazer isso. Isso é novo?
+Não, não é, não é novo. Se você for
+analisar o Manos, Manus já tem muita
+coisa que o Cloud Code faz ou que o
+Cloud Bot faz. Qual que é a grande
+diferença? O negócio é opence, o negócio
+é de instalar no computador. Agora vamos
+falar real aqui, vamos tirar toda essa
+balela de lado e de lado e vamos falar:
+"Puta, não é o o cloud Bot, gente. Não é
+sobre Telegram, WhatsApp, MacBook mini,
+seu assistente pessoal". Isso aí é
+futilidade. Isso não serve para nada. E
+também ele não é extremamente novo.
+Humanos já fazia isso. Agora o que você
+tem que prestar atenção
+é que
+no caso do Cloud Bot, a inteligência
+artificial ela acaba virando um operador
+e não só um assistente. Você pede e ela
+executa. Por mais que seja executar um
+disparo de e-mail, por mais que seja
+executar uma coisinha besta inicialmente
+ou executar algo complexo,
+cara, isso abre um precedente muito
+louco, né? Talvez você não seja
+programador. Ah, até esqueci. Para você
+que não me conhece, muito prazer, seja
+bem-vindo ao meu canal. Meu nome é
+Kelvin Clet. Eu sou um programador que
+decidiu empreender, tenho 33 anos e sou
+fundador da Acelera 360. Acelera 360.
+Para você que não conhece, ela é um
+ecossistema de empreendedorismo de
+tecnologia. Então lá eu ajudo você a
+empreender realmente com inteligência
+artificial. Então vou ajudar você a
+tirar a sua ideia do papel ou vou ajudar
+a sua empresa a escalar com tecnologia e
+inteligência artificial. Se você quiser
+conhecer mais da Celara 360, você clica
+no link que tá aqui na descrição desse
+vídeo e se inscreve. preenche o
+formulário e se inscreve que meu time
+vai te chamar e vai te apresentar a 360
+e explicar como nós podemos ajudar você,
+a sua empresa ou seu projeto. Agora,
+voltando aqui pro tema, cara, isso abre
+um precedente absurdo. A gente tá
+falando de algo, a gente tá falando de
+tarefas simples inicialmente, né?
+prospectar, enriquecer, mas pensa num
+modelo de enriquecimento de dados, ou
+melhor, pensa num modelo onde a gente tá
+integrando o cloud code, o cloud bot,
+por exemplo, para executar tarefas
+complexas e longas do dia a dia entre
+entrar num e-mail, ler uma caixa de
+e-mail, receber um e-mail, baixar um
+arquivo, pegar os dados daquele arquivo,
+conferir, anexar num outro sistema e
+fazer isso, aquilo, aquilo, outro. Cara,
+isso é literalmente algo brabo. Isso aí
+é literalmente brabo. E ele pode fazer
+isso porque estruturalmente ele foi
+desenhado para fazer isso. Então ele foi
+estruturalmente desenhado para fazer
+isso. Então, e o Cloud Bot, assim como o
+Manos, o Manus nem tanto, mas o Cloud
+Bot sim, porque o Manus é privado,
+rodava numa num roda num ambiente
+específico, você não consegue customizar
+ele e tudo mais, mas o Cloud Bot você
+consegue, você literalmente consegue
+com certo determinado custo, mas isso é
+questão de tempo, customizar e
+transformar, em vez dele ser um personal
+AI assistant, ele ser literalmente um
+personal AI employ. Um, ou melhor
+personal, não, um AI employee, um
+empregado por IA que literalmente opera,
+operacionaliza as coisas. Vai ter
+algumas limitações, vai. Tem sistemas
+que são legados. Imagina assim, será que
+ele consegue mexer num sistema
+coboltelona preta? eu acho que
+dependeram de como você desenvolveu o
+plugin. Sim, eu lembro que uma vez a
+gente fez uma integração com um sistema,
+a gente se comunicava, comunicava ali,
+via um protocolo, não lembro qual que
+era o nome do protocolo, mas pô, fazia
+uma uma como se fosse uma um request, um
+web socket e mandava informação lá
+dentro, saca? Era muito louco. E teve
+uma situação, uma vez que a gente
+integrou com o sistema que a gente
+simulava o teclado, velho. A gente dava
+shift tab preenchia informação e
+simulava e via onde que tava posicionado
+o cursor. Era uma loucura. Resumindo,
+para não alongar no assunto,
+Cloud Bot é hype, parcialmente falso,
+realmente é algo assim
+a se olhar muito de perto,
+principalmente por essa questão de ser
+um operador, uma IA operando. Muito
+importante.
+É novo, não é novo. Concentualmente ele
+não é novo. Ocionalmente sim. E ainda
+mais por ser self hosted, né? instalar
+você, você mesmo instalar no computador,
+opence, você poder modificar, ver o
+código. Isso é muito interessante. Ele é
+perigoso. Ele é perigoso. Totalmente
+verdade isso. Extremamente perigoso. Por
+quê? Porque você está dando acesso a uma
+IA, ao seu computador. Então, isole ele,
+use um Docker, use uma V, uma AVM, se
+proteja. Eu instalei aqui no pelo, mas
+eu tenho total ciência do risco e
+consigo controlar. Agora você que talvez
+não seja um cara técnico, não consegue.
+Não é ele não não é não tá customer
+ready, né? Não tá pronto pro consumidor
+final. Então muita atenção. Se você não
+for técnico, preste muita atenção. Eh,
+estamos num ponto de inflexão
+claramente. Por quê? Porque, cara, a Iá
+tá caminhando para um caminho doido.
+Então, a gente tá primeiro no melhor
+momento para você poder empreender.
+Aproveite esta oportunidade, seja o
+primeiro, porque para você tá no meu
+vídeo, você tá pesquisando sobre
+inteligência artificial. E se você não
+sabe como fazer, não sabe como escalar,
+coi não sabe como criar o teu negócio,
+você tem que estar na Acelera comigo.
+Você tem que conhecer Acelera. E eu já
+te falei que o link tá aqui na descrição
+desse vídeo. Então esse vídeo foi sobre
+isso. Se você gostou do meu vídeo, já dá
+um joinha, já comenta aqui também e
+aproveita e entra nos meus outros vídeos
+para você entender mais o que eu falo
+sobre infraestrutura de ar, sobre como
+empreender com inteligência artificial e
+como criar um negócio realmente que
+possibilite alavancagem e que seja um
+negócio sério. Sim, é possível
+empreender. Sim, é possível você
+empreender com tecnologia, mesmo você
+não sendo de tecnologia. E na Acelera,
+nós temos o ecossistema ideal para te
+apoiar. Clica no link aqui na descrição
+desse vídeo. Tchau para vocês e até
+mais.

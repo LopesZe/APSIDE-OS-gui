@@ -1,0 +1,715 @@
+Nesse vídeo aqui eu vou mostrar para
+vocês uma infraestrutura de A voltada
+100% para growth. A growth.
+Você vai entender como a gente consegue
+aplicar a inteligência artificial da
+forma correta para gerar resultados
+reais para empresas. Então, para você
+que é empresário, entenda uma coisa,
+você tem que usar a inteligência
+artificial para te gerar resultado. E
+resultado é: você tem que faturar mais.
+Se você ainda é um pequeno empresário,
+não dominou um canal de aquisição, vamos
+melhorar, usear para criar canais de
+aquisição e trazer leads. Não fiquem
+dependendo de indicação. Se você se você
+tá com uma operação topada, tá lotado de
+trabalho e meu Deus, eu não consigo
+pegar mais cliente porque eu tô cheio de
+trabalho, que que você tem que fazer?
+Você tem que usar IA para aumentar a
+produtividade do teu time, para que você
+diminua a pressão interna para depois
+você abrir a torneira da aquisição. E
+para você que tá empreendendo, cara,
+você tem que usar IA e vender. Primeiro
+consome a IA, né? E depois você vende a
+IA. ensina os empresários a usarem IA,
+implanta IA na empresa deles, mas
+inteligência artificial que gera
+resultado. Então, vou mostrar aqui para
+vocês uma aplicação de a que nasceu no
+cloud como como skill e agora a gente tá
+estruturando uma solução interna
+logicamente aqui da da nossa empresa da
+Acelera 360, mas você vai entender um
+pouco como a inteligência artificial
+pode gerar grandes resultados. Fechou?
+Ah, nesse vídeo aqui eu vou fazer um
+convite para você, para você participar
+do meu workshop que vai acontecer no dia
+30. Isso mesmo, daqui duas semanas, a
+nova economia da inteligência
+artificial. Nesse workshop eu vou
+mostrar para vocês toda a nossa stack
+cloud, como a gente usa o cloud, como a
+gente desenvolve integrações com
+sistemas financeiros, como a OM, como a
+conta azul, como a gente usa o Hermes, o
+OpenCloud. Eu uso mais o OpenCloud do
+que o Hermes, Paper Clip para orquestrar
+como você cria funcionários digitais,
+né, funcionários de IA real e
+principalmente também como você faz um
+desenvolvimento de multiagentes sem ser
+técnico. Você não precisa ser técnico
+para isso. Você precisa ter boas skills
+e ter consciência do que pedir. Mas você
+consegue sim criar as suas próprias
+ferramentas com a própria IA de forma eh
+autônoma. você mesmo fazer isso sem
+depender do time de tecnologia para você
+usar internamente na sua operação. Se
+você é empresário, logicamente tá me
+assistindo, tá? Bora começar esse vídeo.
+Bora lá. Para você que não me conhece,
+muito prazer. Meu nome é Kelvin. Eu sou
+um programador que um dia decidiu
+empreender. Montei a minha primeira
+empresa aos meus 22 anos de idade, a
+General Cleans. Fiz a venda de 51% dessa
+empresa pro grupo IS, que é uma das
+principais empresas do mercado seguros
+do Brasil. Eh, isso foi em 2022. Fiz o
+meu exit em 2025, saí da empresa e hoje
+eu tô à frente da Celera 360, que é uma
+empresa, é um ecossistema para
+empreendedores e empresários que querem
+empreender com inteligência artificial,
+usar IA de forma real, tá? Então vamos
+lá. Essa aqui são as stacks principais,
+né? Eu uso muito isso daqui. Eu uso o
+cloud praticamente no meu dia inteiro. É
+a minha ferramenta principal hoje. Eu
+não uso chatt. Eh, quando eu crio
+integrações com softwares, tipo conta
+azul, eu automatizei todo o financeiro
+aqui da minha empresa e a gente usa o
+conta azul. Toda a parte de integração
+foi codificada. Eu usei o próprio cloud
+para fazer isso. Nem perdi muito tempo
+aqui desenvolvendo. Depois até mostro
+para vocês aqui. O Hermes, eu tô
+começando a usar, ele ainda tá em teste.
+Opencloud eu uso bastante também,
+principalmente na parte de atendimento
+ao cliente, eh, auxiliando o a área de
+customer success, contratação, uso
+bastante. Paper clip para orquestrar
+muitos agentes aqui que a gente vai
+criando como se fossem funcionários
+digitais, ajuda demais. E eu faço um
+desenvolvimento de software no modelo
+multiagente.
+Isso aqui, por incrível que pareça, você
+pode pensar: "Mas eu não sou técnico, eu
+não sou programador, não tem problema.
+Você consegue fazer o mesmo que eu. É só
+você copiar o meu modelo aqui e eu vou
+mostrar para você". Então, olha que
+interessante. Eh, eu fiz um vídeo que o
+pessoal falou assim: "Nossa, Kelvin,
+cara, como você fez isso daí? Como que
+você chega num cliente, por exemplo, e
+estrutura uma operação dele inteira?" Eu
+comecei usando o Cloud Code. Isso aqui é
+um um uma ideia, né? Um software chamado
+Visual Studio Code. Basicamente é tem
+aqui do lado aqui as pastas do meu
+computador e aqui eu uso o cloud. Eu
+gosto de usar pelo terminal. Então
+gente, eu estruturo skills, tá vendo? Eu
+estruturo skills, ó. Eh, LP builder para
+criar landing pages, estratégia de go to
+market ou arquiteto de go to market, né,
+que é que é estratégia de para mercado,
+um revisor de design, eh, cópia
+específica, cliente radar, mapear nicho,
+preparação para reunião, nicho explorer.
+Então, através dessas skills aqui, eu
+consigo, por exemplo, criar toda uma
+estrutura de growth. Eu consigo criar eh
+estratégias para eh campanhas para usar
+o tráfego pago, criar as os assets, né?
+Criar a landing page, que é a página
+web, criar os criativos,
+subir essas campanhas e eu faço tudo
+isso automático. O que um time inteiro
+de marketing precisaria ter, eu consigo
+fazer isso orquestrando
+ferramentas, não precisa desenvolver,
+tá? Isso evoluiu tanto que eu criei um
+software específico para isso.
+Inclusive, essa aqui é a carinha dele.
+Eu vou mostrar para vocês o que que é
+uma estrutura de growth. Esse software
+também foi desenvolvido com IA. Eu não
+desenvolvi no loveable. Eu não gosto do
+Lovable. Eu eu me sinto muito limitado
+ali, não faz sentido. Cloud consegue me
+entregar muita coisa no meu computador
+aqui. E eu desenvolvi várias skills que
+me ajudam a desenvolver rapidamente.
+Inclusive, deixa eu até mostrar aqui
+para vocês rapidinho, para vocês
+entenderem, ó. Ah, ele até me pediu, ó.
+Vou eu vou meio que eu documento aqui,
+ó, as referências, né? Então, introdução
+ao projeto, como funciona, como que eu
+vou usar o cloud, qual que é o glossário
+aqui desse projeto. Eu escrevo isso e eu
+trabalho no modelo, ó, de spec. Eu vou
+especificando o que tem que desenvolver.
+Então, por exemplo, cada eh esse M1, M2,
+M3 aqui, M5 são milestones, que é são
+tipo como se fossem blocos grandes de
+funcionalidades. E dentro de cada um, ó,
+por exemplo, M3, eu tenho aqui, ó, eh,
+web, o admin shell, web, agente, página
+de agentes, web, página de autenticação,
+web, faz isso. E cada um aqui dentro eu
+tenho as especificações, né, o briefing
+do que é para desenvolver. E aí eu
+estruturo tudo isso e depois eu coloco
+os multiagentes para desenvolver. Por
+exemplo, aqui ele parou, ó. Eu falo
+assim para ele começar o M4 aqui, ó,
+Supase. Integrar com superabase. Aí ele
+vai coordenar, distribuir. Eh, eu não,
+eu meio que criei aqui um, uma, tá
+vendo, ó? Um time de agentes fica aqui,
+ele distribui e abre quatro, cinco
+agentes, cada um coda em branches, em em
+código separado, depois tem um outro que
+junta tudo. Bom, para você que não é
+técnico, né, nem se preocupa com isso,
+depois eu explico mais. Mas olha que
+legal, imagina o seguinte, qual que é o
+meu ponto aqui? A minha empresa, minha
+empresa começou sendo uma empresa para
+ajudar empreendedores. Qual que é a dor
+do empreendedor? ele não sabe o nicho
+que ele quer atuar ou ele já sabe o
+nicho e não sabe como especificar.
+Então, olha aqui, por exemplo, eu tô na
+conta do Rafael. Aí o Rafael vai entrar
+aqui e falar assim: "Ó, cara, você eh
+vou te acompanhar na construção do seu
+negócio. A gente vai construir uma
+empresa aqui, uma empresa. E uma empresa
+vai começar pelo quê? Entendendo o
+mercado, entendendo o nicho, entendendo
+a dor, pra gente poder construir uma
+oferta, estruturar o nome, o logo da
+empresa, o CNPJ, a marca pra gente poder
+lançar essa empresa. Aí ele vai falar
+assim, ó: "Cara, já tem um nicho, cara.
+Que nicho que você atua?
+Clínicas de estética
+masculinas masculina para homens
+50 mais que querem parecer
+parecer mais novos. Pum. A hora que eu
+dei esse prompt aqui, o que que essa
+tela, o que que esse software faz? Esse
+software ele é como se fosse o cloud ou
+cloud code, ele começa a disparar os
+agentes e mapear o mercado, tá beleza?
+Certo? É clínica de estética masculina
+para homens. Deixa eu entender como
+funciona o mercado. Deixa eu mapear essa
+vertical. Então, ele já trouxe aqui, ó,
+e fez a primeira validação de nicho. O
+que que é essa validação de nicho? É um
+mercado que tem tamanho de mercado, que
+tem ticket alto, que tem dores claras de
+crescimento e que os meus, no caso,
+alunos, podem fazer. Imagina o seguinte,
+antes eu precisava, e eu Kelvin,
+precisava fazer tudo isso daqui para
+ele, para esse meu aluno, criar o site
+dele, eu quis ensinar ele a fazer e ele
+travava nisso ou eu tinha que ter uma CS
+para fazer isso. Que que eu fiz? Eu
+comecei criando skills, eu como
+empresário comecei criando habilidades
+no cloud e liberando pros meus alunos. E
+agora eu criei uma criei uma plataforma
+específica para isso. Para quê? Para
+liberar tempo operacional meu e do meu
+time, para que eu possa ir pro próximo
+nível. De novo, ó, deixa eu falar uma
+coisa para você. Para você que é
+empresário, tá assistindo esse vídeo, ou
+melhor, para você, ó, dia 30/05,
+das 13 às 20 horas, eu vou fazer um
+workshop chamado a Nova Economia da
+Inteligência Artificial. Eu vou ensinar
+você a usar o cloud do jeito que eu uso,
+como eu crio as integrações, como eu uso
+ARMUS, como eu uso OpenCloud, como eu
+uso Paperclip, como eu uso o
+desenvolvimento multiagêntico para você
+poder criar a sua própria
+infraestrutura. Então esse workshop
+aqui, gente, ele é com foco 100% em
+ensinar você que está me assistindo a
+criar a sua infraestrutura de
+crescimento com IA, o seu próprio
+sistema operacional. Então você vai
+aprender a criar o cérebro da sua
+empresa. Esse aqui é o coração, todo o
+conteúdo da tua empresa centralizado no
+único lugar. Você vai aprender a criar
+funcionários digitais que geram
+resultados reais. Não tô falando de
+chatbot, de questions answers no no
+Whats, não, nada disso. Tô falando de
+cara, funcionário que vai lá, abre o
+conta azul e emite uma nota fiscal, por
+exemplo. Você vai aprender a criar seu
+próprio software de forma segura, usando
+a IA do jeito que ela tem que ser usada.
+Você não precisa ser desenvolvedor para
+isso. Você não precisa ser desenvolvedor
+para fazer isso. E você vai aprender a
+estruturar o seu harness. O que que é o
+harness? é a inteligência que você vai
+jogar na sua IA para que ela consiga
+entregar resultados que você realmente
+precisa. Foco desse workshop, foco em
+faturar mais, foco em aumentar a margem
+do teu negócio, foco em escalar
+empresas, tá? Seguinte, primeiro lote,
+tá? R$ 47 pros 100 primeiros, vocês vão
+ganhar um curso de OpenCloud na prática.
+Vou gravar esse curso, vou mostrar para
+vocês como eu configurei meu OpenCloud,
+como eu estruturo a estrutura de memória
+dele, a alma, como eu coloco ali o
+cérebro conectado nele e como eu penso
+em usar o OpenCloud no dia a dia para
+colocar ele lá na operação, tá? Tanto
+integrando com Slack ou com o Telegram.
+E eu também vou liberar as minhas skills
+de cloud exclusivas para pesquisa de
+mercado, nicho, estratégia de negócio. E
+provavelmente eu vou vou deixar vocês
+usarem essa soluçãozinha aqui. Eu tô
+pensando nisso ainda, mas vamos lá. Olha
+aqui, que legal. Então, ele já, primeira
+coisa, mapear o nicho. Qual que é o
+nicho? Deixa eu entender, esse nicho.
+Ele logicamente foi treinado para isso.
+Ele mapeou um nicho de 242 bilhões,
+mercado beleza Brasil em 2026, dados
+reais, né? Então a gente estrutura
+pontos aqui, é como se fosse uma
+Maquence, uma Deloit, pesquisando o
+mercado mesmo. E aqui ele já começa a
+capturar a informação e ir criando o
+harness dessa empresa do Rafael aqui.
+Legal. Vou para esse nicho. Olha agora o
+que que ele vai fazer. Ele vai decompor
+esse nicho inteiro. Vai abrir aqui uns
+seis agentes. A gente usa aqui, se eu
+não me engano, o Diminai. É o Diminai
+para fazer as pesquisas. E a gente usa,
+ai, como que é o nome?
+Não é grafo. Grapo, não lembro o nome.
+Grip. Grip não, não é grip. Grip é outra
+coisa. A gente usa, bom, não importa. A
+gente faz várias pesquisas. É como se a
+gente disparasse várias pesquisas para
+pegar, fazer buscas na internet e a
+gente coletar informação. Então, olha o
+que ele mostrou aqui para mim já. Ele
+falou assim: "Cara, fiz uma pesquisa
+profunda de cinco fontes, cinco triggers
+paradas. Eu tenho três ângulos
+diferentes para você atacar esse mercado
+aqui." Então, assim, ó, escolha o que
+faz mais sentido para você. Primeiro,
+ele já traz aqui para mim, ó, as
+informações desse mercado. Tamanho do
+mercado, beleza? O crescimento anual
+9.8% 8% ano eh eh crescimento anual do
+mercado, ticket médio 2000 por sessão
+mais e é um mercado regulamentado. Olha
+que interessante, Anvis CFM. Aí ele
+trouxe aqui, ó, onde focar para crescer,
+na oferta, na atração, no fechamento, na
+entrega, na cobrança, na fidelização ou
+na defesa. Olha aqui os pontos que ele
+colocou, ó. Primeiro oferta, depois na
+entrega, porque você oferece, vende esse
+esse tipo de clínica oferece, ela vende,
+ela tem que entregar de uma forma com
+qualidade e depois ela tem que
+fidelizar. São os três principais
+pilares, entendeu? Eu vou trabalhar no
+fechamento, não muito. Nesse setor, não
+faz sentido. Olha que inteligente isso
+daqui. Aí ele colocou aqui três
+estratégias que ele identificou como
+estratégias boas. A primeira é o
+seguinte, ó. Aparência de liderança para
+executivo 50 mais, cara. Isso aqui,
+esse negócio aqui é bom demais, velho.
+Aparência para liderança. Ele ti 50
+mais. Já gostei disso aqui. Protocolo.
+Ele deu outra, né? Protocolo invisível
+ou assinatura de longevidade. Aí agora o
+que que ele vai fazer? Olha como que ele
+vem afunilando. Isso. Isso daqui é o
+harness. Isso aqui é o harnessa. Olha a
+qualidade dessa informação. E como que
+ele consegue fazer isso aqui? É simples.
+A gente treinou por muito tempo. Então,
+olha que loucura, gente. Eu não comecei
+criando esse SAS aqui, esse soft. Eu
+comecei operacionalizando de forma
+manual. E agora que eu já entendi
+mercado, já prestei várias consultorias
+para empresas, inclusive já postei
+várias aqui no canal hoje da nossa
+operação. A operação agora sim ela vai
+para um modelo que ela vai conseguir
+escalar. Agora ela vai para onde, olha,
+eu operei manual, gente. Eu tô há um ano
+dando aulas e ajudando pessoas a
+empreender, ajudando empresários,
+implementando IA nas empresas,
+metrificando isso, entendendo o que
+funciona, o que não funciona, entendendo
+qual que é o churn, entendendo qual é o
+resultado real gerado para agora eu
+conseguir fazer esse, ó, esse salto, tá?
+Então, olha aqui, ó. Escolheu a dor
+central, baixa conversão de leitades,
+dificuldade de comunicar resultado,
+pauta na recorrência em protocolos.
+Cara, olha que louco, ele classificou
+inclusive as dores. Então, a maior dor é
+a baixa conversão de leads premium. Essa
+é a principal dor que eu posso a atuar.
+Eu poderia atuar, por exemplo, também na
+falta de recorrência. Eu vou atuar nessa
+daqui. E aqui ele colocou algumas
+objeções principais. Como que ele pega
+isso? Porque, ó, a gente escolheu
+diversas fontes de dados e a gente
+também tem muita informação de clientes
+que a gente já atendeu. Olha como a
+informação, olha como o dado ele é
+importante para uma. A gente só
+conseguiu chegar neste resultado porque
+nós operacionalizamos
+manual, medimos e entendemos. Pô, isso
+faz sentido. Olha que legal. Aqui, ó,
+tem uma um CFM. Vai, a gente vai lá e
+busca, pega informação lá, a gente
+consegue acessar que informação ouro, o
+site de estatística, comparando o
+mercado, pô, o mercado americano é
+parecido com o mercado brasileiro nesse
+setor. É, então traz a informação
+também. Olha que interessante. Ah, para
+você que quer participar do workshop da
+nova economia,
+está o link, o link está aqui na
+descrição desse vídeo, é só você clicar,
+clica lá e compra e garanta já o teu
+ingresso. Esse vai ser o maior e mais
+potente workshop que eu vou fazer
+online. Vai ser online. Online você pode
+perder. O mundo tá mudando. Agora é a
+hora. Kelvin, eu não tenho tempo para
+implementar. Coloca seu funcionário,
+paga para ele tá lá comigo, porque isso
+vai mudar a tua empresa, Kelvin. Mas
+cara, eu ainda não tenho empresa, eu
+quero empreender. Então, esteja você lá,
+absorva o meu conhecimento, absorva o
+que eu vou entregar e esteja lá, não
+falta. E aproveita,
+já indica esse vídeo aqui para alguém
+também, né, pô, faz esse vídeo explodir,
+porque esse vai ser o maior workshop que
+eu vou fazer, o maior. Então, vamos lá.
+Aí, olha que legal. Ele já me deu três
+direções de proposta de valor aqui, ó.
+Cada uma combina um mecanismo pricing,
+garantia diferente. Então ele trouxe
+aqui automação de follow-up consultivo.
+Aqui como ele tá apontando pros meus eh
+eh pro meu perfil de aluno, o que que
+ele tá fazendo? Ele está guiando o meu
+aluno para ter resultado. E o meu aluno,
+no caso da acelera lá, ele vem de
+infraestrutura de A, assim como eu.
+Então eu mostro para ele o seguinte, ó.
+Você, se você apontar para cá, você
+consegue precificar desse jeito. Esse é
+seu alvo e essa é a sua garantia. E aqui
+ele vem e escolhe. Então, por exemplo,
+vou dar gestão completa de autoridade
+mais conversão premium. P o cara
+consegue cobrar 9K ali, mais 4,5 de
+mensalidade, clínicas de luxo, high end,
+pá, pá, pá, não sei o que lá, estruturou
+tudo. Risco, inclusive deu o risco aqui.
+Olha que interessante. Ciclo de venda
+mais longo devido à exigência do
+público. O grande conceito é o seguinte.
+Olha aqui, ó. Eh, tô mostrando aqui.
+Olha, olha aqui. Começou no nicho,
+depois contexto de mercado, problema,
+proposta de valor, vem paraa oferta,
+depois ele vai estruturar o nome da
+empresa, depois o brand, depois o
+conteúdo, depois o plano de execução.
+Finalizou aqui, ele já fala o seguinte:
+"Agora você abre o CNPJ, essa aqui é sua
+landing page, esse aqui são seus
+criativos, já roda a sua campanha, linca
+com meta, esse essa tapa não tem ainda,
+mas eu vou fazer. Linca com meta aqui
+que a gente vai rodar a sua campanha.
+Vamos programar o seu webinário para
+semana que vem. Sim,
+isso é IA. Aqui é IA. Isso aqui é IA.
+Isso aqui sim é uma aplicação de IA
+altamente de growth, entendeu? Não
+é CRM, não tô falando CRM aqui. Vai tá
+integrada com o CRM, vai. Mas CRM é
+outra coisa. CRM deixa ele lá fazendo o
+papel dele, gerenciando leads, contatos,
+clientes. É isso que ele faz. Deixa ele
+fazer lá.
+Aí ele me deu três opções aqui. Desenhei
+três direções, ó. Deu uma falha aqui.
+Ele falhou, mas ele já voltou. Pegou
+aqui, ó. Autority os para clínicas de
+estética premium mais aumenta. Aumentar
+em 40% a conversão de leads prêmium em
+60 dias. Olha, ele deu o name, o
+mecanismo. Show de bola. Aí ele colocou
+assim, ó. Implementação 21 dias,
+recorrência, quo já estruturou o
+produto. Eu posso logicamente ir
+conversando com ele aqui, modificando
+isso daqui. Benefícios. Então, vamos lá.
+Gente de A com tom de voz executivo. Já
+vai já vai entregar isso pronto aqui.
+Playbook e followups consultivos. Isso
+aqui é maravilhoso. Playbook. Playbook é
+o harness. Harness é uma palavra bonita,
+né, gente? Harness. Harness. Harness
+daí, ó. Então a dos arquivos lá e
+já é o método, a metodologia. Pronto.
+Quem não compra, pá, pá, pá, não sei o
+que lá, pô, tá aprovado. Para mim, tá
+aprovado. Cliquei em aprovar. Agora ele
+veio pro namee. Ele vai estruturar o
+nome, ó. Olha que interessante, checando
+colisões públicas e prox de domínio. Que
+que ele tá fazendo aqui? Esse nome tá
+livre, tá liberado lá no NPI, tá tudo
+certinho? Tá liberado no no registro BR?
+Sim ou não? E ele já traz aqui alguns
+nomes, por exemplo, Cory Crown,
+Valérios, Auto Partners e eu posso
+inventar o meu, entendeu? E aqui ele
+defende o porquê desse nome. Selecionar
+isso daqui. Olha aqui, fluído. Que que
+eu quero dizer? Para que que serve isso
+aqui, gente? Só para vocês entenderem,
+ó, entenda uma coisa. E isso é muito é
+muito interessante. Eh, se você
+provavelmente tá usando o cloud, tá
+usando o open design para fazer design,
+tá usando skills e mais skills e mais
+skills e mais skills, sabe do open
+cloud, sabe disso, sabe daquilo, sabe de
+um monte de coisas, tá? Aonde que isso
+vai colocar dinheiro no teu bolso?
+Aonde isso gera resultado paraa tua
+empresa? Aonde isso você consegue gerar
+mais produtividade paraa tua empresa?
+Aonde você consegue aplicar isso que
+você aprendeu do curso, do livro, do
+vídeo que dá resultado? Se não der
+resultado, é balela. Se não gerar
+dinheiro,
+seja economizando, seja aumentando o
+faturamento, dinheiro entrando dentro de
+casa, é balela. É balela. Ia é balela.
+Entenderam? Só que IA não é balela. Que
+que está faltando? você ligar as peças
+em um processo, você ter uma estratégia
+pro teu negócio, você ter uma estratégia
+pro teu negócio, você entender o que que
+é o resultado para você, porque ou pro
+seu cliente, porque resultado é
+relativo. O resultado para uma empresa
+de 60, 70, 80 milhões não é vender mais,
+é geralmente aumentar a margem, melhorar
+a produtividade operacional, diminuir
+risco jurídico, eh garantir que o
+compliance esteja seguindo. Já o
+resultado para uma empresa de 1, 2, 3
+milhões é faturar mais, é vender mais, é
+a empresa não depender do dono. Vocês
+entendem que resultado é relativo? Ele é
+relativo para cada pessoa. Então, qual
+que é o resultado da IA para você? O que
+que você precisa mexer? o que que você
+precisa, onde você vai usar esse
+negócio? É isso que vocês têm que
+entender. E é por isso que eu vou deixar
+aqui de novo o meu convite para você tá
+no maior workshop do mundo, que vai ter
+o o a nova economia da inteligência
+artificial para você entender como você
+vai você vai entender olhando o que eu
+tô fazendo aqui, entenderam? Eu vou
+continuar aqui mostrando para terminar.
+Ã, quadradinho. Então, vamos lá. Gerou o
+logo aqui. Esse logo aqui ficou uma
+merda. Isso aqui tá ruim ainda. Só que
+olha que incrível, ele já montou a
+paleta de cor, ele já tá montando
+branding book. Por que ele tá montando o
+sistema da marca? Porque depois daqui
+ele vai para onde?
+&gt;&gt; Geração de assets, geração de criativos,
+vídeos, não sei o que lá. Pa pa pá.
+Por quê? Porque aqui em cima ele já sabe
+quais são os melhores canais de
+aquisição para esse perfil aqui. E aqui
+eu posso conversar com a gente e falar:
+"Cara, não ficou bom, ajusta isso,
+ajusta aquilo". Só que, cara, de praxa
+aqui, ele já tá ficando praticamente
+tudo pronto. E aí ele montou aqui o
+conteúdo. Olha que interessante. Agora
+ele montou um calendário, o calendário
+do primeiro mês de publicação. E aonde
+ele vai fazer as publicações. Semana um,
+qual que vai ser o contexto? Seu lead
+premmium ignora o seu followup. Semana
+dois, o protocolo de atendimento
+invisível. Semana três, a sua clínica
+não precisa de mais leads. Semana
+quatro, aparência de liderança é um
+ativo. Isso aqui é o seguinte, ó. A
+gente tem o que que a gente fez? A gente
+contratou bons copywritters, a gente
+contratou bons gestores de tráfego para
+entender como ele faz. Isso é um
+conceito muito dog food. Por quê? Porque
+eu estou usando, eu tô isso, isso é o
+que eu faço na minha operação. Isso aqui
+que tá agora numa tela é o que eu já
+executo no cloud. É o que eu já exec é o
+que eu já ensino, é o que a gente já
+aplicou em empresas. Isso é maravilhoso.
+Por quê? Ah, se você não sabe que é o
+conceito gosto do Dog food, só para você
+entender de forma rápida, é o seguinte,
+é um conceito onde é a comida de
+cachorro. Então você consumir aquilo que
+você vende, porque se você, se o negócio
+é bom, você usa. Se o negócio é bom,
+você usa. Você tem que usar, entendeu? E
+que que eu vim fazendo? Eu por muito
+tempo, eu não tinha um SDR no meu
+WhatsApp. Por quê? Porque não era ele
+que me dava resultado. Pelo contrário, o
+que dá resultado é pegar o telefone e
+ligar, por incrível que pareça, pros
+leades que caem no meu funil, entendem?
+Eu não ia fazer sentido fazer isso, só
+que eu tenho agente de CS. Por quê?
+Porque o agente de CS
+não depende de mim. A, ou melhor, tira a
+dependência de mim.
+Entenderam? Então, aí ela tem que ser
+aplicada onde dá resultado, não
+aplicaron onde as pessoas querem que
+você implemente. o que quer.
+Opa. Prometi que não ia falar mais
+palavrão. E entrou aqui, ó, o protocolo
+de conversão para paciente 50 mais de
+alto nível. Olha que loucura, ele já
+montou todo o roteiro. Pá, pá, pá, pá,
+pá, pá, pá, pá. Aprovar calendário
+seguir. Aí aqui ele entra agora
+estruturando o plano de execução. Como
+que nós vamos executar isso? Olha que
+interessante aqui. Ele escolheu LinkedIn
+Substeck. Por que ele escolheu isso?
+Porque é bem provável que ele vê muitas
+postagens deste tipo de perfil de
+cliente lá.
+Isso é maravilhoso. Redit, Substack,
+LinkedIn são fontes que a gente busca
+informação. YouTube, Instagram também e
+são fontes que a gente busca informação.
+E aqui ele já montou, ó, o quê? O plano
+de execução, 30, 60, 90. Plano de 30
+dias, 60 dias e 90 dias. Primeiro mês,
+segundo mês, terceiro mês. Por quê?
+Porque não adianta você começar a
+aplicar uma coisa e achar que na
+primeira semana você já vai ter
+resultado. E não adianta você fazer uma
+coisa que é para você fazer no último
+mês, você fazer no primeiro mês ou na
+primeira semana. Por quê? Porque existe
+uma ordem de aplicação. Geralmente a
+gente chama isso de execução tática ou
+perdão, de de plano tático, que é o quê?
+É você pegar o estratégico,
+que é o que aquilo que você falou, quero
+alcançar tal coisa. P p p p pá pá. E
+você joga isso para um plano tático. O
+que que você vai executar taticamente,
+semana a semana na sua operação para
+você atingir aquele resultado
+estratégico que foi desenhado. Isso é
+normal. Isso grandes empresas sempre
+usam. Quando eu vendi a minha empresa
+lá, o cara e a gente entrou eh entramos
+num grupo gigantesco. Era assim comum.
+Para mim, na época, eu achava um
+absurdo. Depois eu entendi o quanto
+aquilo era realmente relevante. A gente
+veio pulando de 2 milhões para 4 milhões
+de faturamento, depois 5 6 9 eh 9.7 foi
+conta que atingiu de MRR mês ano,
+perdão, ano. Então, graças ao quê? A um
+plano estratégico que depois era descido
+ao nível tático, depois descia para
+operação executar de forma diária. Isso
+traz cadência, isso traz acompanhamento,
+isso traz controle. E esse é um dos bons
+usos que a gente pode fazer da
+inteligência artificial. Agora, para
+você que tá me assistindo aí, entenda
+uma coisa, a IA, ela tem que executar
+operações do dia a dia, não só gerar
+texto, porque se ela ficar só gerando
+texto não serve para nada. Fechou? Esse
+vídeo foi sobre isso, foi para dar um
+breve, uma breve apresentação para
+vocês. E de novo, aqui o meu
+convite. Esteja lá comigo na Nova
+Economia da Inteligência Artificial. Vai
+ser um workshop ao vivo online de vai
+ser das 1 da tarde até às 20 da noite.
+Vai ser absurdo. Então assim, ó,
+aguinha, coquinha, balinha, barrinha de
+cereal, caderninho do lado e pau. Vamos
+embora. É nós. Tchau para vocês.

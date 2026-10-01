@@ -1,0 +1,371 @@
+dei o play cara agora não paro mais Fala
+galera beleza meu nome é Kelvin Sou
+empresário do setor de tecnologia adoro
+codar já foi arquiteto software como
+função né E tô aqui agora no YouTube
+para falar para vocês o papel do
+desenvolvedor no futuro das empresas o
+papel do desenvolvedor daqui PR frente
+como que vai ser Vamos lá gente o que eu
+mais vejo é Dev feo deve que só sabe só
+quer saber de cudar escrever código o
+cara só quer saber de escrever linha de
+código eu adoro escrever código mas
+assim só escrever por escrever vai ter
+tem milhões já que fazem então o Dev
+gente ele não pode ser só um cara que
+escreve código e a já tá escrevendo
+código sozinho você pega o chat pt lá
+Gere aí para mim uma classe que faça
+isso aquilo aquilo outro já vai fazer o
+Dev ele tem que ser um Dev impactante
+ele tem que ser um Dev que queira
+entender do negócio um Dev que esteja
+preocupado eh no que o código dele vai
+entregar entendeu pera aí deixa eu ver
+se tá gravando gravando gravando Beleza
+tô com a minha colinha aqui vou falar
+três tópicos para vocês hoje sobre isso
+tá então o futuro do Dev nas empresas e
+o que eu realmente acho que tem que
+acontecer com a mentalidade desses deves
+vamos lá primeira coisa que eu notei
+aqui ó desenvolvedor não é não é apenas
+quem escreve código ele é quem entrega
+Impacto gente vocês deves vocês devem
+vocês T que entender o seguinte
+o código de vocês impacta a companhia
+impacta a empresa impacta o mercado
+impacta pessoas Então assim o código que
+tá sendo desenvolvido a plataforma que
+tá sendo desenvolvida ela tem que ser
+uma plataforma de valor agregado
+significa que cara cada feature que você
+desenvolve ela tem uma entrega de valor
+e isso precisa ser mensurado você
+precisa ter noção disso imagina só cara
+um Dev que só escreve lá as funções ou
+ele escreve só aquela tese ele só
+desenvolve aquela tese que foi pedida
+para ele não quer nem saber para que que
+aquilo serve Qual que é a lógica disso
+não tem lógica nenhuma cara tem lógica
+nenhuma entendeu isso aí tem um monte de
+gente que faz tem um monte de gente que
+faz tem que mudar você que quer melhorar
+você que quer crescer profissionalmente
+você que quer cara ser um cara [&nbsp;__&nbsp;] e
+ganhar muita grana você tem que mudar
+essa sua mentalidade Não tem lógica você
+só ficar escrevendo o código por
+escrever entendeu tenta entender do
+negócio por que que precisa dessa função
+Por que que o usuário me solicitou isso
+como que a minha empresa ganha dinheiro
+Como que essa minha empresa funciona
+como que funciona o mercado dessa minha
+empresa Quem são os concorrentes da
+minha empresa o que que eles estão
+fazendo o que que o mercado tá fazendo
+como o mercado funciona essa é a lógica
+Esse é o mindset Esse é o pensamento de
+um Dev que realmente entrega valor no
+seu código e não só Coda por codar um
+outro ponto que eu anotei aqui ó
+eh deves devem sair da posição de
+tarefeiros E assumir o papel de
+solucionadores de problemas estratégicos
+e é isso que tem que acontecer pô [&nbsp;__&nbsp;]
+cara não é só você pegar aí e sair
+desenvolvendo você tem que ser um cara
+estratégico pra companhia entendeu
+porque se você for um Dev só operacional
+só o cara que escreve você tá [&nbsp;__&nbsp;] tá
+[&nbsp;__&nbsp;] tá [&nbsp;__&nbsp;] tá [&nbsp;__&nbsp;] vai ser
+substituído por ia vai ser substituído
+por e no code low code essas baboseiras
+que inventam para aí agora o Dev que
+entende do negócio o Dev que pesquisa o
+mercado o Dev que se preocupa com aquilo
+que está sendo entregue pros
+se o usuário vai ter relev se o usuário
+vai se usuário não né se a empresa em si
+vai ter um ganho de eficiência
+operacional com aquilo que ele tá
+criando se aquela plataforma ela tem um
+alto valor agregado e aquela
+funcionalidade específica vai trazer
+mais valor ainda [&nbsp;__&nbsp;] merda gente esse é
+o sonho de qualquer empresa Esse é o
+sonho de qualquer empresa você ser um
+você contratar pessoas que sejam
+adores de problema esse é o suprassumo
+então assim eu sei que é importante eu
+adoro design pattern código bonito linc
+esse tipo de coisa só que assim é muito
+mais importante hoje na minha visão né O
+que que eu enxergo eu empreendendo e
+tudo mais e sofrendo também com times de
+desenvolvimento o que que eu enxergo
+vale muito mais um Dev que queira
+entender do seu negócio e do seu produto
+a fundo do que um Dev que escreve código
+maravilhosos do que implementa os vi
+Design patterns da vida que faz chover
+com o código muito mais eu contrata um
+cara que seja um um umum mau programador
+codificador mas que seja safo para
+entender o código ou para entender o
+mercado para entender do negócio um cara
+que seja perguntador um cara que seja
+curioso do que um cara qualquer não eu a
+minha o meu modelo de contratação o que
+que eu aprendi e cara faz muito mais
+sentido você pegar alguém que já tem
+essa mentalidade do que você pegar um
+Dev qualquer um um bom codificador eu já
+contratei muitos caras formados na USP
+na PUC
+na nessas universidades federais caras
+que são teóricos eh que nossa by the
+book sabe que entende tudo do conceito
+do que tá no livro e assim eles são
+excelentes programadores Mas eles são
+péssimos solucionadores de problema e na
+minha visão o Dev ele tem que ser
+solucionador de problema o futuro do Dev
+é ele é que é É que ele se transforme
+ele se faça essa essa metamorfose para
+ele ser um solucionador de problema por
+exemplo ã se a gente for desenvolver uma
+plataforma nova hoje né vou criar Vamos
+criar um software aqui a a minha cabeça
+no passado quando eu fiz a transição de
+Dev para empresário eu queria
+desenvolver a minha plataforma do jeito
+mais bonito possível Nossa implementar
+vários design patterns ela precisa ser
+distribuída ela precisa ser escalável Ah
+mas Mas e se eu tiver 1000 usuários e se
+eu tiver 2000 usuários Nossa mas e se
+acontecer isso aquilo aquilo outro aí eu
+criava puts um negócio monstruoso
+monstruoso assim e só que olha o que
+aconteceu eu comecei a como no começo da
+empresa eu tava sozinho eu comecei a
+perceber o seguinte cara eu tô me autom
+matando eu tô me autos sufocando eu tô
+criando uma over engineer aqui em cima
+dessa dessa ferramenta que não faz
+sentido nenhum e isso tá matando meu
+tempo de entrega e para uma empresa o
+que que é importante uma entrega rápida
+uma entrega de qualidade entendeu uma
+entrega uma entrega que seja resolutiva
+Ah mas eu não consigo entregar o o
+famoso o bom e barato né o o excelente e
+o rápido não não não estão na mesma não
+não estão na mesma frase realmente eu
+concordo com você mas é uma decisão que
+um deve do Futuro que um deve com
+experiência e que tem essa visão de
+queira ter essa visão de negócio ele tem
+que ter eh ele saber quais são os
+débitos
+débitos técnicos que faz sentido
+eh ele deixar no código e quais não
+fazem entendeu E e ele só consegue tomar
+essa decisão o Dev ele só consegue ter
+essa visão quando ele passa a entender
+do negócio quando ele passa a entender o
+mecanismo da empresa Então esse é um
+assim é uma Skill valiosíssima
+valiosíssima valiosíssima
+valiosíssima deixa eu colocar um outro
+ponto aqui para vocês ó eh P pá deve ter
+que sair da posição tarefeiro
+hã quebrar o mito do código perfeito
+deves desenvolvedores se você que tá me
+ouvindo ó você que está me ouvindo é
+desenvolvedor você tem que entender o
+seguinte código bonito não paga a conta
+código Bonito não é o que o cliente da
+ponta v o cliente ele visualiza coisas
+que sejam funcionais
+tem que funcionar pro negócio tem que
+funcionar para quem vai usar aquela
+plataforma Esse é o importante esse tem
+que ser o foco principalmente startups
+se a gente tá falando de empresas muito
+grandes e tudo mais você vai ter um
+pouco mais de dificuldade Mas com esse
+mindset você até consegue melhorar isso
+e implementar esse tipo de cultura eu
+chamo isso de Business value development
+que é você olhar o valor do teu código
+desenvolvimento para valor é focado em
+valor de negócio focado na entrega
+focado no resultado que aquilo vai gerar
+Então essa é uma é uma é um paradigma
+que eu passo para todos os meus toddo
+time que eu tenho todo time que eu
+coordeno hoje eu já não tô mais na
+operação né e na na ali no com com as
+squats mas eh no modelo da nossa
+contratação é isso que eu prezo E é isso
+que eu prego Isso faz parte da cultura
+da das minhas empresas Então o meu time
+de desenvolvimento tem que ser um time
+focado em entrega focado em resultado
+focado no valor do negócio senão não faz
+sentido ter o time entendeu Então isso
+que eu tô passando para vocês é uma
+visão de empresário então e outra é uma
+visão ainda de um Dev de um exd de um
+cara que já foi quer dizer não existe
+exd né desenvolvedor é sempre
+desenvolvedora sempre às vezes eu abro
+meu visual Studio aqui e cara começa a
+codar Então faço muita poque ainda por
+exemplo eu gosto muito de de testar E me
+manter ativo nos desenvolvimentos
+inclusive nesse canal aqui em qualquer
+momento eu vou começar vou fazer um
+vídeo codando e mostrando boas práticas
+de desenvolvimento ali que eu acho que
+fazem sentido para vocês mas o
+importante é o código perfeito não paga
+conta Coloca na tua cabeça Coloca na tua
+cabeça entendeu E olha que loucura que o
+mercado inteiro Isso é isso é é é até
+estranho né O mercado inteiro te avalia
+Por quê na contratação Ah você sabe DDD
+você sabe três camadas você sabe o
+padrão facade ah como que você
+implementa um padrão desse ah como que
+você faz um sistema distribuído como
+você implementou mensageria fila Você já
+fez alguma coisa desse tipo sabe
+eh até o modelo de contratação tá errado
+saca e o modelo de contratação na que é
+o que funciona para mim né e o que eu
+acho que faz sentido é cara eu tenho
+esse problema aqui problema x apresenta
+o problema resolve Como que você
+resolveria ele cara isso é incrível isso
+é o stor isso é o stor da Boiada isso aí
+é fera por quê Porque ali você vê a
+capacidade de raciocínio daquela pessoa
+então se eu se você eu tô falando com
+você Dev que tá assistindo esse vídeo
+aqui agora imagina o seguinte eu sento
+com você e falo cara eu tenho esse
+problema aqui com o que você conhece eu
+tenho esse prazo eu tenho essa
+necessidade em quanto tempo você me
+entrega e qual que é a solução que você
+daria visto que a necessidade de entrega
+minha é urgente por exemplo ó já perdi
+até o eu falei em quanto tempo você me
+entrega não em quanto tempo você
+consegue entregar a melhor solução com
+relação às necessidades que eu te passei
+entendeu porque daí eu vou testar a sua
+capacidade de entrega e eu acho que o
+caminho tá sendo
+esse assim ele não
+é não vou generalizar né Principalmente
+o eu diria que os das startups em
+empresas que estão focadas em entregas
+de valor ali em velocidade no seu time
+de desenvolvimento e entrega realmente
+tem um time ágil tem esse mindset tem
+esse pensamento então se você quer ser
+um Dev que seja um Dev impactante um
+cara que não sofra aí querendo procurar
+emprego e escalar o seu salário assim as
+alturas de forma rápida começa ter essa
+mentalidade que se você desenvolver essa
+mentalidade está feito cara está feito
+você não perde mais emprego você não
+fica desempregado escuta o que eu tô te
+falando não fica desempregado um outro
+ponto que eu anotei aqui para vocês ó ã
+deixa eu pegar aqui p p pá
+olha que louco ó aqui ó como que as suas
+decisões ou como aquilo que você está
+decidindo ou desenvolvendo afeta o Roy
+da sua empresa o Dev vai falar o
+seguinte Roy que que é isso é o retorno
+sobre o investimento então em cima
+daquilo você tem um custo você deve ter
+um custo pra empresa
+Olha que pensamento interessante Olha
+que mentalidade que você que na minha
+opinião você deve tá me assistindo você
+que quer escalar a tua carreira você
+quer crescer você tem que ter cara isso
+aqui que eu tô fazendo qual que é o
+retorno que a empresa vai ter a hora que
+eu entregar isso aqui hora que eu subir
+isso aqui em produção a hora que eu
+fizer aqui um um PR foi aprovado e subir
+PR produção Olha que doideira olha que
+pensamento diferente você tá saindo da
+posição de Dev técnico e você tá subindo
+uma posição de solucionador de problemas
+você tá subindo uma posição você tá se
+assumindo falando assim cara eu tô aqui
+para resolver essa treta eu vou resolver
+ela da melhor forma possível e vou fazer
+a minha empresa ganhar com isso seja em
+eficiência operacional seja em mone
+entendeu aumento de faturamento ah ah
+mas cara como deixa eu pausar essa
+câmera aqui que ela tá gravando muito
+mas como que eu consigo desenvolver essa
+mentalidade Ah mas eu não tenho espaço
+para ter isso cara esse a mais já é algo
+que você tem que tirar do teu
+vocabulário é tipo assim ó cara como que
+eu pego essa informação quem que eu
+tenho que acessar para ter essa
+informação e você tem que correr atrás
+dela você corre uma corre duas corre
+três corre quatro corre C corre se corre
+10 corre 1000 em algum momento você vai
+conseguir acessar essa informação e vão
+imagina só o pessoal questionando [&nbsp;__&nbsp;]
+mas para que que isso te interessa
+E aí a hora que você vai entrar com o
+teu raciocínio novo que é eu tô aqui
+para resolver o problema e entregar
+valor para minha empresa paraa empresa
+que eu trabalho eu não tô aqui só para
+codar eu não quero ser só um um um um
+desenvolvedor que só escreve linha de
+código Olha que visão Então é isso gente
+nesse vídeo é isso Ó eu vou começar a
+fazer vídeos
+eh com esse tipo de conteúdo para ajudar
+vocês desenvolvedores e pessoas e e
+profissionais da área de Tecnologia a
+mudar a mentalidade de vocês para esse
+tipo de mentalidade que é um
+profissional que seja um resolvedor de
+problemas um profissional que seja
+realmente efetivo naquilo que ele faz
+seja Dev seja po seja e pmo bom serve
+para qualquer um é a mentalidade de
+resolver problemas e quando a gente tá
+falando de resolver problemas a gente
+fala de pessoas que resolvem problemas é
+isso galera Ó me segue aqui no YouTube
+se você curtiu Me segue lá no meu
+Instagram também @us Kelvin Cleto para
+você acessar mais rápido os meus
+conteúdos tá e me dá uma moral também né
+se você gostou desse conteúdo deixa um
+comentário aí deixa suas observações
+também vai ser bem interessante trocar
+esse esse essa esse papo com você valeu

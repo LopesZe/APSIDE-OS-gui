@@ -1,0 +1,608 @@
+Como ganhar dinheiro com inteligência
+artificial? Assim como você, eu também
+sou bombardeado por um monte de anúncio.
+É o dia inteiro, cara. Anúncio de N8N,
+2000 fluxos por tantos reais. Automatize
+a sua empresa, make, crie agentes,
+agentes é o futuro. Faça isso, faça
+aquilo, implemente chatbote e tudo mais.
+Chega a ser absurdo, sabe? Eh, mas se
+você parar para pensar, vamos lá,
+friamente, se a gente sentar aqui agora,
+falar, cara, provavelmente você já
+comprou algum curso de inteligência
+artificial, você já comprou, já entrou
+em comunidades de automação, de no code,
+por aí vai.
+Pergunta quantas pessoas dessa
+comunidade que realmente estão tendo
+sucesso. Sucesso de verdade, já
+faturaram, ó, não precisa ser tanto
+sucesso, já faturaram mais de 1 milhão
+no ano, sabe? tão fazendo ali
+faturamentos, vai de acima de 300,
+400.000 por mês. Quantas delas que estão
+fazendo automações com or, com make, com
+agentes, realmente estão fazendo isso?
+Eu zero. Eu entrei em algumas e vejo
+assim, falo: "Cara, ninguém aqui tá
+ganhando dinheiro". Tá todo mundo ali
+focado realmente em, caraca, olha como
+que é legal automatizar essa planilha,
+olha como é legal fazer isso, fazer
+aquilo. E talvez até você se pergunte
+falando: "Cara, será que não dá para
+ganhar dinheiro com a inteligência
+artificial? Será que é um hype? Não dá
+para fazer, não dá para criar algo
+sustentável aqui que mude a minha vida
+desse jeito que a galera tá ensinando?"
+Não, isso aí é sonho. Agora, dá sim para
+ganhar muita grana. Esse aqui é o Bruno
+Bergo, ó, aluno, um dos meus alunos, um
+dos primeiros que entrou na na Acelera.
+40 pau em dois meses. Ele faturou
+40.000. Isso aqui foi um contrato com
+infraestrutura de inteligência
+artificial. Então ele vendeu para um, ó,
+quer ver, ó? Tá até aqui, ó. Fábrica de
+confecção e uma rede de quatro
+supermercados, tá? Ele fechou, ele
+fechou. Esse contrato aqui foi da
+fábrica. olha que legal, 40 pau.
+Então, dá para ganhar dinheiro com
+inteligência artificial? Dá.
+Mas mesmo assim, mesmo eu te mostrando
+isso, você pode pensar, cara, será que
+não é um hype? Porque até para quem é
+super experiente, para quem já é da área
+da tecnologia, assim como eu, tá difícil
+de você distinguir o que que é hype ou
+não. E eu me fiz várias perguntas quando
+nesse ano, esse ano aqui, por você que
+deixa eu até me apresentar um pouquinho
+antes, para você que não me conhece, tá
+me assistindo pela primeira vez, meu
+nome é Kelvin, eu sou um ex-programador
+empreendedor. Eu programo já tem,
+tem mais de 16 anos. Montei a minha
+primeira startup lá, ó, dos 20 anos de
+idade tava querendo empreender. Montei o
+RP Brasil. 2023 eu montei o Copia e
+Cola, tudo né? Então tudo quebrado. Mas
+eu montei a minha primeira eh startup de
+sucesso em 2015. O nome dela era General
+Cleans. Ela se tornou uma das principais
+insurtexs do Brasil. Em 2022 eu fiz a
+venda de 50.1% da General Clên pro Grupo
+IS. que eu tinha 30 anos de idade e
+agora em 2025 eu falei, fiz o meu exit
+total, saí da empresa e falei: "Cara,
+preciso começar alguma coisa nova e
+alguma coisa nova que tem a ver com o
+digital e tem a ver com inteligência
+artificial". E aí eu montei a acelera
+360. Quando eu montei aera 360, ela
+nasceu em março desse ano. O meu foco
+foi começar a ensinar programadores a
+empreender. E aí, quando eu comecei a
+ensinar programadores a empreender, eu
+falei: "Cara, o melhor caminho é
+empreender com o IA." E aí a gente
+começou a trabalhar com consultorias
+estratégicas inteligência artificial.
+Mas eu não queria que esses meus que
+esses meus alunos começassem a fazer voo
+de galinha, cara. Vender, tipo,
+implementar N8N. Isso aí não, isso aí
+não é sustentável. Isso aí entra nesse
+ciclo que eu falei aqui para vocês, ó.
+Quantos, quanto dessas galera, dessa
+galera aqui realmente ganha dinheiro,
+faz grana com isso? Não faz. Então
+assim, não fazia sentido. E aí eu
+coloquei algumas perguntas, né? Vamos
+responder elas juntas, inclusive aqui.
+Como que a gente pode ganhar dinheiro
+com o IA? Eh, como que a gente consegue
+também criar algum sólido? Então, é
+ganhar dinheiro e criar algo sólido. E
+como no processo a gente não quebra,
+porque tá mudando muito rápido. Então,
+como que a gente não fica obsoleto nesse
+processo de criar um negócio com
+inteligência artificial? E aí
+perguntando aquilo, eu falei: "Cara,
+quem realmente tá ganhando hoje dinheiro
+com IA, né? Quem que são as pessoas que
+tm mais chance de fazer dinheiro com IA?
+Quem quer ficar rico rápido. Então a
+galera que quer ganhar dinheiro de em 6
+meses, se meses fazer 1 milhão, 2
+milhões, 3 milhões, 10 milhões, que é
+meio aquele sonho do do marketing
+digital de lançamento e tudo mais, ou
+pessoas experientes com no e um
+determinado nicho. Então vamos entender
+qual que é a real oportunidade da IA.
+Deixa eu dar um zoom aqui, ó. A maioria
+das pessoas elas estão pensando que é
+automação com N8N, com make, integração
+com chatbot, pá pá pá. Elas acham que é
+implementar IA, chatbot de IA, usar o 11
+Labs, usar o Tulho, chat base e
+evolution API para integrar isso no
+WhatsApp.
+Isso, isso, isso não é a real
+oportunidade com inteligência
+artificial. Isso aí é commodity. Isso aí
+você acha pessoas, deixa eu me
+posicionar de uma forma melhor aqui,
+porque eu tô com a caneta. Eu quero,
+deixa eu encaixar isso aí. Você acha
+hoje pessoas que, cadê? Aqui, aqui
+assim. isso aí, cara, você vê
+ali, o mercado tá lotado disso. É,
+compre X000 fluxos de N8N por R$ 100.
+Entre na minha comunidade, faça 10.000
+por mês, vendendo meus fluxos de
+automação e não sei o que lá. Crie
+chatbots inteligentes e pá pá, rag, tudo
+por R9,90. Você acha que isso vai te
+deixar ric? Não, isso aí comode. Tá todo
+mundo fazendo isso aí, entendeu? Então é
+só você olhar para todos os grupos de
+comunidade, então, grupos e comunidade
+sobre isso. Entra lá dentro, olha assim,
+se pergunta quem é que realmente tá
+fazendo 1 milhão, quem é que fez, quem é
+que já montou um negócio que bateu 9
+milhões por ano com inteligência
+artificial ou mais de 9 milhões? Quem é
+que tá montando uma startup que seja
+sólida com relação a isso? E aí olha
+também pros fabricantes de inteligência
+artificial, né? Olha para Open AI, para
+Eleven Labs, para essa galera que cria a
+a a IA Prompt, o valor deles está no
+equity, tá no volume, então tá na alta
+venda. Tanto que o preço deles é
+centavos, por mês, 15 por mês, centavos
+por token, porque eles vendem no volume,
+então eles vendem na escala. E isso é
+commodity. pensar nisso me fez pensar o
+seguinte: se o nosso objetivo aqui é
+ganhar dinheiro com inteligência
+artificial e ferramentas não valem nada,
+então o valor tá onde? O valor tá nas
+pessoas, nas pessoas que têm ali os
+melhores insightes, as melhores ideias
+de aplicação com inteligência
+artificial, que tem pessoas que t o
+melhor conhecimento sobre como as
+ferramentas, como N8N, como Make, como
+chatbot, como chatbase, como Open como a
+Cloud, como todas essa cacetada de
+ferramenta pode trazer ali o máximo de
+valor para uma pessoa certa, para um
+mercado certo, para um nicho específico,
+para resolver uma dor específica.
+Logo, então,
+quem que ganha mais, quem que vai ganhar
+mais dinheiro nesse mundo da
+inteligência artificial? Quem já é
+especialista em algo, não só
+especialista em algo, mas também é
+visionário. É visionário e já está
+entrando no mundo da inteligência
+artificial.
+E quem que vai ganhar pouco dinheiro?
+Quem que for novato nessa área, quem
+tiver pelo hype, quem tiver focando em
+ganhar dinheiro rápido, isso não existe.
+Ganhar dinheiro rápido não existe, tá?
+Não funciona, não é sustentável, não se
+paga, tá bom? E sempre tem os
+desconfiados. Então, vou até trouxe
+alguns casos aqui para eu responder, né?
+Pensou, penso muito assim, é a nova onda
+que os vendedores de curso estão
+surfando agora. Se eu se eu não
+conhecesse o que eu conheço, talvez eu
+pensaria igual a ele. Por quê? Porque eu
+tô sendo inundado de anúncios e as
+pessoas tentando vender. Fique rico,
+faça 10.000 por mês, 15.000 por mês
+automatizando. P p p pa p p pá. Isso.
+Isso. Assim, você consegue ganhar
+dinheiro com isso, mas você não consegue
+criar algo sólido e nem escalável. Você
+fica refém do negócio todo, né? E não
+faz muito sentido. O pessoal, ele aqui
+até comentou, verdade, todo mundo
+vendendo consultoria. Basicamente a nova
+forma de pirâmide. Quem chegar primeiro
+se dá bem, o resto vai se ferrar.
+Entendo uma coisa, eh, quando eu falo,
+quando, eh, eu falo de infraestrutura de
+a aqui para vocês no YouTube, talvez
+vocês pensem que é só esse o caminho,
+mas são dois, são dois e passos, né, two
+steps. Então, primeiro passo, deixa eu
+dar um zoom aqui maior para eu conseguir
+riscar, ó.
+Primeiro passo é você escolher um nicho.
+Você escolhe um nicho,
+você estuda esse nicho,
+você
+absorve todas as dores desse nicho, você
+vira especialista desse nicho ou traz um
+especialista desse nicho,
+entendeu? Aí você tem um tem todo um
+método para você fazer isso daqui e aí
+você envelopa isso aqui dentro de uma
+infra,
+uma infra
+de crescimento
+usando IA para resolver as dores desse
+nicho aqui. Ganha dinheiro com isso,
+fecha clientes, entende? Vai aprimorando
+e vai melhorando. Vai pegando clientes
+aqui. E aí você vê o passo dois. Qual
+que é o passo dois?
+transforma tudo isso numa solução
+robusta. Aí aqui você pensa em criar um
+SAS.
+Aí aqui você pensa em criar a o seu
+próprio ecossistema,
+entendeu?
+Eh, não dá para você ficar milionário em
+um mês, nem dois meses, nem 3 meses.
+Isso é uma construção. No caso da
+General Cleans, por exemplo, me levou
+quase 10 anos para que eu saísse desde a
+fundação da empresa até a venda total.
+Vendi agora em 2025. Vendi 7 anos para
+fazer a venda dos primeiros 50.1%,
+7 anos para eu conseguir fazer o meu
+primeiro milhão. Hum.
+Isso se tornou muito mais rápido com a
+acelera, por exemplo, eu fiz isso em 7
+meses, muito mais rápido, muito mais
+rápido, você vai aprendendo, entendeu?
+Então é o mesmo aqui com a
+infraestrutura de ar, escolhe um nicho,
+estuda o nicho, vira especialista ou
+traga um especialista e aí você cria a
+infra de crescimento e depois transforma
+isso numa solução. As pessoas acham que
+em 10 minutos elas acabam julgando toda
+uma estrutura. É uma besteira. E outro
+aqui, falou, falou, falou e não entregou
+nada. Mais um vendedor de sonhos, mas
+nesse vídeo eu vou entregar e vocês vão
+ver isso rodando, tá? Para quem não
+acredita, fica mandando aquelas
+mensagens, não funciona, é isso, aquilo,
+aquilo, outro. E tem os que acreditam,
+tem os que botam a fé e entram, por
+exemplo, esses daqui são meus alunos,
+entraram no começo da Acelera quando eu
+tava ensinando eles a fazer e a testar
+os nichos com inteligência artificial.
+Olha isso aqui, ó. Ah, dica docana
+matador, fechei dois contratinhos esse
+mês, 30.000. Hein? 30.000 entrando.
+Nunca imaginei que ia conseguir isso tão
+rápido.
+É nós. Vamos embora. Olha esse outro
+aqui. Deixa eu ver se eu apaguei o
+número aqui, gente. Ó, minha primeira
+venda desse mês. 20k. Solução proposta
+foi integração Figo. Olha isso aqui.
+Isso aqui tá no ramo médico, tá? Figo é
+um ERP médico. Ele colocou o chatwot, o
+go high level, o IA. Então aqui ele
+criou a solução dele, ó. ali ele criou a
+infra de A dele e aí depois que essa
+infra de A tá OK para aquela para
+aqueles primeiros clientes, ele só sai
+replicando,
+entendeu? Aí é 20, 30, 40 e por aí vai.
+Olha esse outro aqui, pessoal. Agora um
+relato. Agora, essa semana eu fiz
+16.500. Pô, isso é um absurdo.
+Olha isso. Isso aqui não tem dinheiro
+que pague, ó. Conseguindo trazer muito
+mais qualidade de vida para o meu
+filhinho e para a minha família.
+Pessoal, é sobre isso. Empreender, é
+sobre isso. E com a infraestrutura de
+ars conseguem fazer isso. Esse aqui, ó,
+é uma entrevista que eu fiz com o Alan e
+com o Motinha. Olha lá na conta deles,
+ó. Os moleques estão voando, hein? Esses
+moleques aqui fecharam contrato esses
+dias de 16.000 €.
+Ah, o Mota e o Alan já tem carreira
+internacional, foram arquiteto de
+software, então, tipo assim, eles têm,
+primeiro que falam muito bem, então não
+tem uma barreira de língua e entendem
+muito bem do processo e aí viraram
+experts agora e tão tão voando, tão do
+Então assim, não é sorte, tá?
+Isso é tudo tudo é uma estratégia. Tudo
+tem estratégia. Então, o que eu já falo
+para vocês é o seguinte, ó. Não vendam
+ferramentas, não vendam, não foquem e
+criar um negócio com IA, vendendo
+commodity, vendendo pecinha, porque isso
+aí vai fazer vocês serem uns falidos,
+uns fodidos, frustrado, é o jogo errado,
+entendeu? Trouxe até uma mensagem aqui,
+irmão, já pensou em gravar algumas aulas
+dessas automações no YouTube? É muito
+diferente do que a maioria ensina. É,
+eh, não faz sentido eu ensinar vocês a
+fazer automação, porque não é nisso que
+tá o dinheiro. O dinheiro tá em você
+estruturar todo esse conhecimento de um
+nicho dentro de uma infraestrutura de
+inteligência artificial. Kelvin, o que
+que é uma infra? Acabei de chegar nesse
+vídeo aqui, eu não sei nem do que você
+tá falando. Então, deixa eu te falar, ó.
+Você que é novo, já clica em me seguir
+aqui, já dá um joinha, já comenta e
+depois maratona meu canal,
+principalmente pega os últimos vídeos,
+não vem da gente, né? Não venda
+ferramenta, venda agentes de ar, não
+lembro qual que é o termo. Outro é como
+que eu infraestrutura de varejo.
+Inclusive vou até mostrar aqui para
+vocês, para vocês entenderem, para você
+entender um pouco mais sobre isso que eu
+tô falando, sobre essa proposta, tá? Mas
+resumindo, que que é uma infraestrutura?
+Infraestrutura inteligência artificial é
+o seguinte, ó. É IA. E aqui a gente tá
+falando, ó, aqui sim entra lá o chatbot,
+chatbot. Aqui entra a criação de
+agentes.
+Aqui entra um monte de coisa. Aqui
+processo. Então o desenho de um processo
+de vendas,
+playbooks de vendas, por exemplo,
+treinamento,
+mas pessoas as pessoas daquela empresa
+que estão comprando, que elas serão
+potencializadas porque precisa no final
+das contas sempre ter pessoas. As
+pessoas elas têm que ser multiplicadas,
+tipo assim, uma pessoa tem que valer por
+10 com a infraestrutura de a tudo isso
+aqui focado em trazer crescimento.
+Crescimento para quem? Para quem
+comprou, pro B2B. Que que é crescimento
+pro B2B? Dinheiro, aumento de
+faturamento ou de margem,
+entendeu? Tangível, nada de historinha.
+quando você cria sua infraestrutura, e
+por isso que é importante você entender,
+se você é um especialista, cara, é
+incrível, porque você conhece as dores e
+isso aqui você consegue fazer, você
+consegue entender quais são as dores e
+pensar nas ias e nos processos e nas
+pessoas usando e o foco no crescimento e
+o crescimento vindo. Cara, que incrível.
+Ó, se você, eu postei esse vídeo aqui,
+cara. Nossa, meu aluno fechou, safado.
+Nós montamos essa estrutura de A aqui.
+Ele fechou 79K.
+79K. Dava para fechar mais, mas ele
+negociou bem aqui. Mais 3K de
+mensalidade, mais 2,5%
+sobre vendas novas. Ele isso aqui para
+ele vai dar uns 9k mês, gente. 9K mês é
+100k, é sem pau ano, só de um cliente.
+Aí isso aqui que ele fez para um, ele
+replica para todos os outros do varejo.
+Assiste lá, ó. Esse vídeo vale muito a
+pena. O futuro do varejo com IA vertical
+em 2025. Muito, muito bom. Mas deixa eu
+terminar esse vídeo aqui, tá? O pessoal
+até pergunta às vezes, né, Kelvin, mas
+cara, porque eu fiz esse vídeo e aqui a
+gente tá falando de a processo,
+atendimento, CRM, CRM configurado, aí
+vídeo sobre como vender para um nicho
+específico. Aí alguns falam assim: "Tá,
+cara, mas a minha dúvida principal é o
+quão escalável é esse serviço de alta
+complexidade com IA vertical. Hoje você
+padroniza o processo ou é totalmente
+personalizado?" E aí que entra o
+principal segredo. Você tem também
+steps, fases. Na fase um, ele é mais
+personalizado,
+por são os principais clientes. É aqui
+que você vai entender a dor. Aí você vem
+e produtiza isso
+na fase dois. Aí na fase três, você cria
+o quê? Um ecossistema. em cima disso.
+Então você consegue ganhar nesse passo
+aqui, ó, você consegue escalar.
+Então você consegue ter, por exemplo,
+uma uma infra totalmente escalável. E
+isso a gente já tem hoje, por exemplo,
+para clínicas odontológicas. Eu tenho
+alunos específicos que fazem para
+clínicas odontológicas, clínicas
+médicas, hospitalares,
+ah, tem um monte que agências de
+marketing, tem de tudo, cada um com seu
+nicho ou subnicho, entendeu? E esse é o
+grande X da questão. O Vittor me falou
+algo interessante aqui também, ó. Ele
+falou assim, ó. Na moral, se tivesse
+dando dinheiro, o Kelvin estaria somente
+vendendo isso e não o curso. Ah, mas
+quem disse que eu não vendo essa
+estratégia? Ele falou aqui porque eu
+falo, geralmente fala que eu aplico, né?
+E aplico mesmo. Essa estrutura é linda,
+realmente é o futuro do mercado, mas
+para deixar isto redondo, ainda mais em
+uma média empresa, vai muito, mas muito
+trabalho, no mínimo um ano, pá, pá, pá,
+é fora os custos e tudo mais. Então,
+tudo meio ilusório, mas genial ser
+aplicado. Legal, Víor. Ó,
+ô fazendo esse vídeo, porque eu vou
+mostrar isso na prática, rodando para
+você. Inclusive, Víor, eu quero que você
+esteja lá, tá? Ã, no dia 30 desse mês,
+eu vou fazer um workshop e convido todos
+vocês a participar. O valor é simbólico,
+acho que vai tá R$ 30, R$ 40. Eu quero
+que vocês cliquem aqui e garantam o
+ingresso, porque aqui no dia 30, o link
+tá aqui na descrição desse vídeo, eu vou
+mostrar toda essa infraestrutura de
+inteligência artificial, eu chamo de
+growth AI, rodando. Então aqui tem uma
+promessa, né? como transformar seus
+serviços em sistemas de IA que realmente
+geram R$ 100 R$ 100.000 todos os meses.
+Então, o link do meu workshop, esse é o
+meu primeiro workshop, onde eu vou
+demonstrar a infraestrutura de
+inteligência artificial rodando de fim a
+fim. Vocês vão poder utilizar. Eu vou
+mostrar, gente. Manda, liga para esse
+número. Vocês vão ligar, vocês vão ver
+aí a rodando com casos reais. Rodando.
+Olha que loucura, hein? No dia 30. Não
+perca. Qual que é a ideia? Vocês podem
+pegar isso e aplicar. É igual, é
+idêntico, saca? E beleza, esse aqui é o
+primeiro ponto de então tudo meio
+ilusório. Não, não é ilusório, porque eu
+vou apresentar para vocês todos os
+custos também nesse workshop para vocês
+entenderem como que funciona, como que a
+conta fecha, tá?
+H, aí ele comentou aqui o seguinte: se
+você tivesse dinheiro, eh, se estivesse
+dando dinheiro mesmo, você não estaria
+vendendo o curso. Tenta uma coisa, Víor,
+eh, o negócio ele precisa ser grande.
+Então, a infra de A, ela tem que ter
+nichos, ela tem que ser nichada.
+E é por isso que eu criei o movimento da
+Acelera 360, porque os meus alunos
+viraram meus parceiros de negócio.
+Eles são praticamente meu sócio. Então
+você que quer, o meu foco é que eu quero
+que você venha, você que é um
+especialista, venha pr pra acelera,
+venha utilizar a infraestrutura de a,
+porque você conhece um nicho, você
+conhece uma dor específica e aí a gente
+pode explorar este mercado em conjunto.
+E é isso que faz com que a gente possa
+escalar, criar algo grande. Não dá para
+dominar, criar algo grande sozinho. Não
+dá para criar algo grande sozinho,
+Vittor. O negócio ele precisa ser feito
+para ser robusto. Saca a história do
+gigante com pé de barro não faz sentido.
+Tem que criar algo sólido. E algo sólido
+você cria com um grupo de pessoas, com
+duas ou mais pessoas, todas focadas no
+mesmo objetivo. Então, quando a gente
+fala, quando eu falo que a IA ela tem
+que ser nichada, é porque
+eh imagina assim, ó. Você talvez deve
+conhecer, você que tá assistindo esse
+vídeo, não sei se você é de tecnologia
+ou não, mas imagina assim, ó, você
+conhece dores específicas do seu nicho,
+então é mais fácil você pegar essa infra
+pronta e adaptar ela pro teu nicho e
+vender a infra de crescimento de pro teu
+nicho e a gente ganhar junto do que eu
+tentar vender pro teu nicho. Entendeu?
+Essa que é a lógica, é dividir para
+conquistar. Fechou? Espero que eu tenha
+te respondido bem, Vittor. Você tenha
+entendido tudo. Então, galera, eu deixo
+esse convite aqui para vocês. E para
+quem que é esse workshop?
+Quem que deve tá lá?
+Se você tá assistindo e você tem uma
+agência ou é um consultor, um gestor de
+tráfego, um consultor empresarial,
+migrou, tá querendo migrar pra
+inteligência artificial porque já não tá
+conseguindo mais crescer no teu mercado,
+no teu ramo, porque ou já é um mar
+vermelho, ou o hype já passou, ou você
+tá sofrendo por alguma obsolescência
+competitiva,
+esse workshop é para você, vai te dar
+uma visão incrível sobre a
+artificial. Você vai poder ver isso na
+prática. Você que é freelancer, já tá
+vendendo aí os seus, as suas primeiras
+IAS, já tá fazendo acontecer, ou é uma
+urgência de IA, ou é um programador que
+tá querendo empreender, sabe que a IA
+tem potencial, mas ainda não sabe como o
+workshop para você. Então você também
+pode já ter validado ou tá tendo, você
+que validou, tá tendo dificuldade de
+cobrar bem, tá não tá conseguindo, sabe,
+engatar o preço coerente. Talvez você
+até escute meus preços aí, os que os
+meus alunos estão fazendo e falam assim:
+"Você é louco, não é mentira isso, não
+tem como workshop para você, hein? Se
+você tá lutando também com a falta de
+leads, esse workshop é para você, porque
+o próprio conceito do funil que eu vou
+explicar lá, você pode aplicar e ter
+resultado. Se você é um expert, expert
+mesmo do mundo aí do digital, tá
+querendo, tá, tem o seu, tá, tem a sua
+própria mentoria, porque se você tem a
+sua própria mentoria, você já, você já
+sabe que o seu mercado tem uma dor, quer
+embalar isso numa infra de A, cara, o
+workshop é para você. Se você tem muita
+experiência num mercado, esse workshop é
+para você. Se você quer empacotar o teu
+conhecimento numa infraestrutura de a
+cara, esse workshop é para você, tá?
+Então, médicos, advogados, consultores,
+contador, dentista, etc. Fica aqui o meu
+convite. Se você quer ver o Maiá rodando
+na prática, a coisa toda acontecendo de
+forma real e testar, sabe? Olhar e
+falar: "Cara, realmente o mundo vai
+mudar, esse workshop para você". Você
+vai clicar no link que tá aqui na
+descrição desse vídeo, vai cair para
+dentro. Fechou? Chegou a hora de revelar
+para você realmente o que que é uma
+artificial de verdade. Se você gostou
+desse vídeo, se você entendeu, eu quero
+que você curta, eu quero que você já me
+siga, que você compartilhe, já vai lá no
+meu Instagram, já me segue por lá e um
+abraço e até a próxima. Te vejo dia 30,
+hein? Você vai ficar abismado com que eu
+vou mostrar lá. Um abraço. Tchau. Tchau.

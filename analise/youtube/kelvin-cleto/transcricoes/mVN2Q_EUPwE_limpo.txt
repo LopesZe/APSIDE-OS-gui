@@ -1,0 +1,477 @@
+Hoje eu vou te mostrar como estou
+operando no meu dia a dia com
+inteligência artificial. Aqui eu tenho
+um cloud code rodando, aqui eu tenho
+cloud code rodando. Cara, eu só uso
+cloud code, eu uso o cloud code e o a
+Open AI, mas Open AI é só para fazer
+pergunta besta. Esse daqui, ó, por
+exemplo, é o Tenacity OS. Basicamente
+ele é um cambanzinho, mission control,
+que eles falam, né? Que é uma
+plataforma, é uma solução para controlar
+os agentes do OpenCloud. E aí eu tô
+testando OpenCloud, que eu vou tá aqui,
+eu tô testando OpenCloud aqui para
+caramba. E eu tô usando o Mission
+Control. para controlar vários agentes
+de inteligência artificial de forma
+coordenada para que eles trabalhem em
+conjunto para resolver uma missão.
+Beleza? Então, serve para isso. E aí, o
+que que eu tô fazendo aqui, por exemplo,
+com o cloud Code, por exemplo, eu estou
+mudando a cara do sistema. Por quê? que
+eu gosto, estou colocando nas cores da
+minha empresa, colocando meu logo,
+literalmente eu tô fazendo isso com o
+cloud, só que é com o cloud qualquer, é
+de qualquer jeito que eu faço isso. Não,
+olha como que eu modifico um software.
+Eu uso essa Líbia aqui ou essa essa
+skill que ela se chama Gets, Get it don.
+Cara, isso aqui é o seguinte, deixa eu
+explicar para vocês aqui, ó. Calma aí,
+Lucão. Deixa aberto aí. Deixa eu
+explicar para vocês. Tem vocês entender
+como que funciona. Então, eu vou falar
+sobre Kelvin, mas nesse vídeo você não
+vai falar sobre dinheiro, sobre
+business. Eu sempre falo sobre business.
+A minha vida é sobre business. Se você
+ainda não percebeu que o meu rolê é é te
+uma te ensinar a fazer dinheiro, duas,
+te convencer a entrar na acelera, porque
+acelera o melhor caminho para você
+empreender, você ainda não entendeu
+nada. Então vamos lá,
+[limpando a garganta] deixa eu deixar
+posicionado aqui, ó. Vamos lá. Eu gravei
+um vídeo, já vou gravar outro na
+sequência.
+[roncando] Deixar bem aqui assim, ó.
+Beleza. Deixa eu, eu tô sem caneta, mas
+vai isso aqui mesmo. Então, o que que é
+o é salibe, por exemplo, né? Quem é?
+&gt;&gt; [roncando]
+&gt;&gt; Ô Margente, pega a caneta para mim ali
+da a outra caneta. Essa fininha tá lá no
+meu escritório. Essa essa skill get,
+ela foi desenvolvida por um dev, mano.
+Lógico, né? Os dev é os dev é brabo,
+pai. Tá, agora que eu vi que ela tá no
+05 aqui, ó. Deixa eu deixar aqui no 01
+para vocês, para facilitar.
+&gt;&gt; Vibe Dev.
+&gt;&gt; Boa. Vibe Dev. Então, o Dev desenvolveu
+isso aqui. Por quê? Porque, cara, a
+gente tem um problema sério com estouro
+de janela de contexto de LLMs e tudo
+mais. Mas principalmente é muito difícil
+você trabalhar com grandes
+[limpando a garganta] projetos,
+grandes projetos
+de desenvolvimento sem ter uma estrutura
+lógica de especificação. Por quê? Porque
+a IA se perde. Quando você faz uma coisa
+em outra é fácil, funciona. Você pode
+fazer de qualquer jeito. Agora, se você
+quer ter resultado tangível sem ficar
+tendo retrabalho, você precisa ter uma
+metodologia. E esse cara que fez, eu não
+lembro o nome dele, que criou a dona
+aqui, que é uma skill para você usar no
+cloud.
+Qual que foi a sacada dele? Ele pegou
+uma metodologia que se chama eh SDD.
+Que que é isso aqui? Spec
+driven
+development.
+Ele deu uma enxugada nisso daqui, mas
+ele condensou isso daqui dentro da skill
+do cloud code. E aqui que é a vantagem
+que, cara, eu não vou entrar no detalhe,
+depois vocês lê o artigo lá, mas o que
+que significa isso aqui? tá? Numo de
+você desenvolver um software, você tem
+vários vários papéis de pessoas que que
+atuam no no na estruturação do software,
+mas o software não começa pelo código.
+Então assim, ó, gente, o software não
+começa por aqui, tá? Ó, para você que
+acha que os programadores saem
+desenvolvendo lá, na verdade é até
+errado o programador começar pelo
+código, um software come isso aqui é
+errado. O software ele começa pela
+especificação,
+você começa especificando o software. E
+para você escrever numa especificação de
+software, você tem que fazer o quê? Você
+imagina o seguinte, você detecta o
+problema da empresa, então aqui temos
+uma empresa pá p pa pá. Aí essa empresa
+tem um problema, porque ela precisa de
+um software. A operação fala assim: "Ah,
+eu precisava de um programa para fazer
+tal coisa". O programa é tipo assim, é o
+final. A gente tem que entender o por
+que aquela pessoa tá querendo aquilo.
+Então você entende o problema
+como? entrevistando a pessoa,
+entrevistando e aí você mapeia o
+processo, mapeando e depois você entra
+especificando,
+que é você convertendo isso aqui, isso
+aqui em uma solução, em um produto,
+especificando um produto,
+entendeu? Então essa LIB basicamente faz
+isso. Você instalar ela. Esse esse
+conceito aqui é o seguinte, você vem põ
+ele, você vai escrevendo a especificação
+do software e aí depois essa
+especificação é convertida em
+especificação técnica, funcional,
+desenho, desenho técnico, pá, pá, que
+vai estruturar como um software tem que
+ser desenvolvido. Aí ele escreve lá as
+camadas do software, o front end, que é
+a telinha bonita, o back end, que é o
+código do por trás da telinha bonita e o
+banco de dados aqui, entenderam? E aí
+essa biblioteca aqui, para que que ela
+serve? Ela serve para mapear projetos
+existentes.
+Ela especifica, ela faz o reverse, né?
+Então ela cria especificação desse
+projeto existente. Ela cria
+especificação de front, de back, de
+banco, de segurança e tudo mais. E aí
+ela te ajuda a você criar novas
+especificações, novas specs, porque ela
+vai te entrevistando e aí ela vai
+gerando a especificação do software para
+você. Aí depois que ela gera a
+especificação do software, você fala
+assim: "Ah, agora desenvolve para mim".
+E ela vai lá e desenvolve, entenderam?
+Então essa especificação serve para
+isso. Ó, para você que não me conhece,
+os vídeos eu gravo daqui, ó. Isso aqui é
+o meu escritório. Aqui é minha sala.
+Aqui tem uma frigorobarzinha ali. Deixa
+eu ver. Vamos ver se tem bebida aqui.
+Será que tem cachaça aqui dentro? Será?
+Chama babai energético. Câmera. Eu uso
+uma EV10 para gravar. Ó aqui nossos
+equipamentos estruturando. Então assim,
+cara, no meu dia a dia, vou mostrar aqui
+para vocês, ó. Eu estou usando o cloud
+para tudo. E, cara, tudo que eu faço
+para mim, entendo uma coisa, eu sei
+fazer, né? Eu sou, eu uso diariamente,
+eu sei fazer, mas entendo uma coisa que
+você pode usar isso daqui que eu faço
+para mim, para você aí e fazer dinheiro
+com isso, porque eu peguei esse código
+aqui, ó, do GitHub, entendeu? E eu estou
+customizando ele com a o com a RGSD.
+Você pode fazer a mesma coisa e você
+pode instalar isso aqui e colocar com a
+cara das pessoas. Você pode mexer no
+OpenCloud, você pode modificar ele, você
+pode desenhar os agentes de A, você pode
+desenvolver, você pode aprender
+desenvolver o emchain, você pode
+desenvolver no que você quiser se você
+aprender sobre especificações de
+projeto. E aí, gente, ó, é Google, então
+se liga, spec driven development, tá
+vendo aqui, ó? Git, gitzão. Você lê isso
+aqui, ó, você vai entender o conceito. A
+biblioteca gets
+essa aqui, ó, é esses caras aqui, tá
+vendo? É maravilhoso isso aqui no Cloud
+Code. É maravilhoso. Isso aqui substitui
+tranquilamente o LB. Vocês não estão
+entendendo o que dá para fazer com esse
+negócio aqui, cara. Isso aqui é muito
+muito muito pancada. Entendendo? E ó,
+quando vocês entendem como usei a, olha
+isso aqui, olha a qualidade dessa tum
+que eu tô gerando pro vídeo.
+Tudo bem, não parece eu aqui, né? Mas é
+só mexer aqui. Eu não tô nem aí, eu vou
+e posso assim mesmo. Tenho uma preguiça
+aqui, eu morro de ficar editando isso
+aqui muito. Mas entende que isso aqui
+tem um valor absurdo. Eu acho que esse é
+o grande X da questão. Para você que tá
+e querendo empreender,
+é mais fácil do que você imagina. Deixa
+eu te explicar uma coisa. Quando a gente
+tá falando de gerar resultado para uma
+empresa, não necessariamente você
+precisa criar um software gigantesco ou
+a solução. O empresário, cara, o
+empresário tá na merda. O empresário tá
+igual eu, igual eu aqui na Acelera. Eu
+tô na operação o dia inteiro, é que eu
+trabalho com isso, eu tenho
+próeficiência em programar, em
+desenvolver, eu sei muito disso. Então
+eu consigo me sair muito bem rápido, eu
+consigo saber o que funciona, o que não
+funciona. Eu sou o melhor programador.
+Não, jamais. Eu há muito tempo não sou e
+eu fui pra área de negócio e e mesmo se
+eu fosse, eu ia contratar alguém para
+fazer para mim. Então eu hoje tô focado
+na minha operação em fazer a empresa
+crescer, trazer mais dinheiro e por aí
+vai. Entenda uma coisa, uma pessoa como
+eu, ou não, qualquer empresário como eu,
+ele tá muito atolado com a operação
+dele. Então, ele compra geralmente um
+modelo que a gente chama de eh D e DFW,
+né, ou DFY, que é done for you, que é eu
+faço por você. Você contrata a pessoa, a
+pessoa vai lá e faz. Então você pode ser
+essa pessoa que vende o don't for you,
+você pode ser a pessoa que vende o Don
+with you, você pode ser a pessoa que
+vende o do it yourself, entendeu, cara?
+E esse do it yourself, quer ver, ó? Hum.
+Quando você aprende a pensar mais sobre
+business, sobre negócio, você começa a
+olhar as coisas de um prisma diferente.
+E isso é muito importante, saca? Pessoal
+às vezes me xinga, fala assim: "Ah,
+cara, mas por que que você sempre
+fala a mesma coisa? Porque você sempre e
+por que que você não não mostra mais a
+sua infra?" Porque, cara, para mim não
+faz sentido mostrar, porque eu não sei
+se você sabe, mas este canal aqui, além
+de ser um canal educacional que eu
+ensino para você, eu monetizo, eu ganho
+dinheiro, não canal, mas ele tem um
+canal de distribuição do meu produto.
+Qual que é o meu produto? Ou melhor,
+qual que é a minha empresa, a Acelera
+360. Inclusive, no dia 25 e 26, eu vou
+fazer um workshop de dois dias que vai
+se chamar a Nova economia da
+inteligência artificial. O link tá aqui
+na descrição desse vídeo, mas a A360 ela
+é um ecossistema feito por um
+empreendedor para ajudar pessoas que
+querem empreender, para você que quer
+empreender, para você que é empresário
+com inteligência artificial. Então eu
+ajudo pessoas a tirar a ideia do papel,
+então o primeiro empreendedor a fazer do
+zero pro
+falando a verdade para esse cara e eu
+ajudo o empresário a escalar o negócio
+dele, entenderam? Isso aqui é, isso aqui
+é a minha empresa e o meu canal de
+aquisição aqui é o YouTube. O meu canal
+de aquisição aqui é o Instagram. O meu
+canal de aquisição aqui é o Tráfego
+Pago. No Google, por exemplo,
+o meu canal de aquisição aqui é em
+eventos, networking, indicação e por aí
+vai. Então são canais de aquisição para
+minha empresa. Então assim, se você
+começar a entender pelo prisma do
+empresário, você vai começar a enxergar
+as oportunidades de negócio que você tem
+para fazer. É simples assim, entendeu?
+Então, cara, igual tô usando ali,
+imagina o seguinte, você ganhar 20.000
+por mês
+por mês e você é deve ou qualquer coisa
+do tipo, não sei, cara. 20 trabalhos de
+1000,
+você faz os mesmos 20.000, entendeu? 10
+trabalhos de 2000 que você cobre, você
+faz os mesmos 20.000, você mesmo,
+entendeu? Então, olha que louco, você
+consegue vender alguma coisa para alguém
+a 10 pessoas, a R$ 2000.
+você pode estruturar sua cadeia
+de produtos para fazer isso. Você pode
+vender mentoria, você pode vender
+prestação de serviço, você pode vender
+for produto, vender curso, você pode
+vender treinamento, você pode vender
+instalação de OpenCloud, você pode fazer
+várias coisas. Você pode vender em
+tráfego pago, você pode vender na
+Shopee, não importa. Você, tipo assim,
+você sempre vai ter que vender alguma
+coisa. Você tem um produto ou um serviço
+que você vai oferecer para alguém,
+oferecer para alguém e alguém vai te dar
+dinheiro por isso aqui que você tá
+vendendo. Isso aqui é empreender, pô.
+Isso aqui é empreender, entendeu,
+Kelvin? Mas eu não sei que produto ou
+serviço fazer. Eu não sei se é SAS, eu
+não sei se é consultoria. Eu fico, se
+você ficar pensando muito em como fazer
+aqui, no que fazer para achar melhor
+forma possível, você vai ficar num
+estado que eu chamo de estado inerte ou
+o estado da marmota. Que que é o estado
+da marmota? [risadas] É o estado que
+você fica f assim, ai, será que é SAR?
+Será que é Microsoft? Será que é
+consultoria? Será que é IA? Será que é?
+Cara, Pega o OpenCloud e sai
+vendendo. Sai oferecendo instalação de
+OpenCloud. [roncando] Sai vendendo paper
+clip. Sai vendendo curso. Sai vendendo
+consultoria estratégica, sai fazendo.
+Cara, saia da inércia.
+Ah, eu não sei meu nicho, Kev. Mas você
+sempre escolheu um, você fala para
+escolher um nicho. Se você até agora não
+assistiu todos os meus vídeos, não
+entendeu que como pesquisar
+mercado e tudo mais, escolhe alguma
+coisa e vai vender. Por isso que eu
+falo, ó, deixa eu te mostrar seis
+alavancas. Quer ver? Aqui, ó, presta,
+presta atenção nisso aqui que essa
+consultoria aqui vai ser de graça para
+você. Marketing vendas.
+Isso aqui é o que faz qualquer negócio
+crescer, tá? O onboarding,
+a entrega,
+o feedback.
+Feedback
+e volta pra oferta de novo. Isso aqui é
+um ciclo, são seis alavancas de
+crescimento. Oferta, marketing, vendas,
+onboard, entrega, feedback. Qual que é o
+grande ponto? Geralmente as pessoas elas
+querem começar aqui, ó, na entrega. Ah,
+eu tenho que ter o serviço pronto, eu
+tenho que ter o produto pronto, eu tenho
+que ter toda a estrutura para que eu
+possa vender. Só que, cara, você não
+sabe se as pessoas pagariam por isso.
+Então, olha que louco. Não faz sentido
+você começar por aqui. Você tem que
+começar aqui, ó, primeiro descobrindo
+o que oferecer. Por isso que eu falo
+para você escolher o nicho. Por isso que
+eu falo para você escolher mercados que
+estão em alta crescente. Por isso que eu
+falo que você, para você, se você vai
+empreender com Iá, você tem que escolher
+um nicho que tenha muitos players, então
+mais de 20.000 players é o ideal. E você
+escolher um nicho que tenha muito
+retrabalho, muito processo repetitivo,
+uma empresa de prestação de serviço, por
+exemplo, entendeu? Muita dor de vendas.
+E aí você estrutura o quê? Resolver
+estes problemas com o IA. Ah, eu não sei
+fazer isso, cara. Então, escolha um
+nicho e ensine esse nicho sobre o
+OpenCloud.
+Pronto, sobre o Paper Clip, ou melhor,
+sobre o próprio Cloud Code. Ninguém sabe
+o que que é a do Cloud Code aí. E
+cobre por isso e crie a oferta. Ofereça,
+fale. Olha, clique aqui, faça isso. Aí,
+depois que você tiver essa oferta, você
+vem e estrutura o seu marketing. Que que
+é o marketing? É gritar para todo mundo.
+Gente, eu tô vendendo isso. Quem quer
+comprar?
+Aqui no marketing você tem duas formas
+de você atrair essas pessoas saberem de
+você, né, de forma orgânica.
+Então você organicamente as pessoas vão
+vir atrás de você sem você jogar energia
+ou de forma paga.
+Você compra mídia, você compra view,
+você compra as coisas para as pessoas
+verem o que você está oferecendo. A
+partir do momento que a pessoa vem aqui,
+ela vem e fala assim: "Agora eu quero
+comprar fulano". E aqui você entra na
+venda. Que que é a venda? A venda é o
+ato de você negociar, de você vender, de
+você apresentar a sua oferta, o seu
+produto, dar um preço e essa pessoa fala
+assim, ó: "Eu pago". E se ela falar que
+não paga, que acha caro o trabalho, seu
+trabalho é convencer ela que não é caro.
+Então você tem que gerar e mostrar valor
+para essa pessoa. Por isso que aqui na
+oferta eu falo para você escolher um
+nicho com a dor absurda. Por quê? Porque
+a hora que você for vender, essa pessoa
+vai falar assim: "Putz, vale muito".
+Porque gera muito resultado. Então, a
+ancoragem do preço fica em cima do quê?
+Do resultado
+gerado. E aqui é o gol, porque contra
+resultado não existem argumentos.
+[roncando]
+Entendeu? Venda depois que você vende,
+aí sim você faz onboard de entrega.
+Kelvin, mas você falou para eu vender
+sem eu ter isso. Porque se você validou
+isso, olha que loucura. Olha
+[limpando a garganta]
+a lógica. Se você fez a oferta, que é a
+parte mais complexa, se você venceu a
+etapa de atrair as pessoas, se você
+venceu a etapa de vender, só falta você
+entregar, só falta você fazer. Ah, K,
+mas eu não sei fazer. Contrata alguém
+para fazer. Aprende a fazer, não
+importa. Você já venceu, você dominou a
+máquina de aquisição. Isso aqui é a
+máquina. Isso aqui a gente chama de quê?
+De máquina de aquisição.
+Nossa. É isso, gente, ó. É isso aqui, ó.
+Por isso que você tem que entrar pra
+salera, para você aprender a fazer isso
+mais rápido, para você aprender a fazer
+isso mais rápido, para você tirar toda
+essa casca de ser e eh marmota inerte e
+partir para empreender de verdade,
+entendeu? E para você que é empresário e
+tá assistindo isso aqui, tá fazendo
+sentido para você, chama aí nós na
+celera para implementar em você aí um
+uma infraestrutura de crescimento com
+IA. Tá claro o processo? Não tem
+segredo. Entenderam? Então, gente, eh, a
+gente tá num momento onde você pode
+vender qualquer coisa. Na verdade, esse
+momento sempre existiu, só que você
+sempre pode vender qualquer coisa, só
+que agora você pode vender qualquer
+coisa que gere resultado real, assim,
+por conta da I. E por mais que você acha
+que as pessoas sai sabem todo dia e tudo
+mais, é porque você tá numa bolha, elas
+não sabem todo dia entenderam? Ó, se
+você quiser acelerar, você tem que estar
+comigo na Acelera. O link tá aqui na
+descrição desse vídeo, vem conhecer. Se
+você quiser conhecer mais sobre o evento
+que vai rolar no dia 2526 da Nova
+Economia da O também tá aqui na
+descrição desse vídeo. Já aproveita e me
+segue aí para mais vídeos como esse.
+Comenta também. Um abraço. Vamos com
+tudo.

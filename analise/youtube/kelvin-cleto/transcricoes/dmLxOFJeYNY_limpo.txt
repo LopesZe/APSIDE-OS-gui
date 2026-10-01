@@ -1,0 +1,1137 @@
+Aqui tem todo o desenho do que a gente
+vai passar aqui nessa aula, tá? Duas
+coisas mudaram o jogo completamente nos
+últimos 12 meses. A primeira, você já
+sabe que são os modelos de inteligência
+artificial que vem evoluindo
+drasticamente. A segunda é que chegamos
+no momento que a gente tá conseguindo
+escalar serviço com infraestrutura de
+inteligência artificial. Eu quero que
+você presta muita atenção nesse vídeo
+aqui, porque o meu aluno, um dos alunos
+lá da Acelera, fechou um contrato de R$
+80.000 R$ 1000 de implantação para uma
+infraestrutura de inteligência
+artificial voltada para varejo e
+mensalidades de mais de R$ 4.000. Você
+quer saber o mais insano? que nós
+desenhamos esse modelo juntos em aula e
+ele pegou, aplicou e vendeu. Então
+assim, nesse vídeo eu vou te mostrar
+como que ele fez isso, qual que é o
+contrato, como que você estrutura também
+a sua IA de Grove voltada pro varejo e o
+funil de vendas que você tem que vender.
+É simples assim, ó. Não é sobre nada
+técnico, não vou explicar sobre Crew AI,
+Long Chain, N8N, Python, nada disso.
+Aqui a gente vai falar sobre como você
+ganha dinheiro com IA. Eu vou explicar
+todo o modelo, todo o funil, toda a
+estrutura, toda a explicação de contrato
+bem detalhada, bem detalhado. Esse vídeo
+aqui vai dar provavelmente mais que 40
+minutos. E se você acompanhar tudo que
+eu vou falar aqui, se você aplicar o que
+eu vou falar aqui, você também vai
+fechar contratos assim, porque o mercado
+tá precisando disso. Belezinha, vamos
+começar. Antes de começar, deixa eu me
+apresentar, muito prazer. Meu nome é
+Kelvin. Eu sou um programador
+empreendedor serial. Fundei a General
+Clans em 2015, a minha primeira startup,
+uma das principais insuretexs do Brasil.
+Vim a vender ela em 2022, 50.1% 1% pro
+grupo IS e vendi o restante agora em
+2025. Também fundei a KCG, que é uma
+consultoria de software e aí um Inspect.
+E agora eu tô num projeto que é Acelera
+360. Se você quiser conhecer mais sobre
+Acelera 360, o link tá aqui na descrição
+desse vídeo. Bora meter pressão. Bora lá
+então. Vamos. Aqui tem todo o desenho do
+que a gente vai passar aqui nessa aula,
+tá? uma infraestrutura de growth com
+inteligência artificial voltada pro
+varejo. Kelvin, o que que é o varejo?
+Varejo são essas empresas que vendem
+produtos ou serviços para o consumidor
+final diretamente pro CPF,
+supermercado, loja física, eh eh
+óticas,
+especialistas de algum determinado
+produto que vem direto pro CPF, outlet,
+por aí vai, lojinha. Beleza?
+E aqui, ó, esse é o contrato que foi
+assinado, uma implantação de
+infraestrutura de IA.
+O valor foi negociado ali de 98 para
+78.900,
+30% de entrada mais seis vezes no
+boleto, nesse caso aqui, uma mensalidade
+fixa de R$ 3.875
+fixo por mês, mais um variável de 2,5%
+de comissão para vendas novas mais
+recuperação. O que que quer dizer isso
+daqui? Que essa mensalidade ela varia
+ali de 3800 e ela tem um um plus de
+performance que é o quê? Essa
+infraestrutura de a ela é voltada para
+crescimento da empresa, para fazer a
+empresa ganhar mais dinheiro. E eu vou
+mostrar isso para vocês, para vocês
+entenderem como foi estruturada essa
+promessa. E nesse dinheiro novo que vai
+entrar, que o aquele proprietário não tá
+contando ainda, o nosso cliente não tá
+contando, a gente vai ganhar 2,5% de
+comissão. Kelv, poderia ser mais?
+Poderia, mas como as margens desse
+cliente são muito apertadas, a gente
+optou por deixar em 2,5 de comissão, tá?
+Se você fechar um contrato desse por
+mês, no final de 2026, vocês terão
+faturado praticamente R 1 milhão deais.
+Entenderam? Entenderam? Mas poderia ser
+5%, poderia ser 7%, depende do negócio.
+Eh, esse preço aqui, ele foi todo
+calculado com base na energia necessária
+para desenvolver e aplicar essa
+infraestrutura mais o que é a energia
+necessária para manter. Até porque se
+você não sabe o que que é uma
+infraestrutura de a, deixa eu te
+explicar, não é só a IA, é a
+inteligência artificial, mas processo de
+vendas, mais ferramentas como CRMs
+voltadas em dar, em trazer resultado
+para aquele CNPJ, para aquela empresa
+que tá contratando. Deixa eu te contar
+uma coisa, o jeito mais rápido para você
+ficar rico, para você ganhar dinheiro, é
+fazer outras pessoas ganharem dinheiro
+no processo. Então, todo o conceito de
+artificial que eu que eu apresento aqui
+para vocês, é todo, inclusive não só IA,
+mas todo modelo de negócio é sempre em
+criar algo sólido, criar algo que faça o
+nosso cliente ter retorno, porque a
+partir do momento que o cliente tem
+retorno, você vai ter facilidade em
+vender, você vai ter cases de sucesso e
+consecutivamente você vai conseguir
+crescer, você vai conseguir criar uma
+empresa sólida e grande. Aqui não se
+trata de criar negócios rápidos, tá?
+E vamos lá. Aí eu coloquei aqui, ó,
+customização, mas desenvolvimento, que é
+fora o que tá desenhado no escopo. Se
+tiver alguma alteração futura, aí é
+cobrado por hora, R$ 220 a hora, tá? E
+quem que é esse cliente desse contrato
+aqui? Então, o qual que é o cenário? É
+um cliente que ele fatura ali 380.000
+por mês de faturamento. É isso aqui que
+ele fatura de média, só que ele já teve
+picos de 700.000 por mês de faturamento
+com o mesmo time. Então assim, olha o
+poder de escala que ele tem. As margens
+líquidas que esse cliente tem hoje, a
+margem líquida dele é de 14%.
+Tá tá baixo. Tem tem empresas nesse
+mercado aqui no mesmo segmento que ele,
+que tem uns 20%, então tem muito espaço
+para crescer aqui. Não tá muito baixo,
+mas tá baixo. Dá para aumentar em muito.
+Ele tem o e-commerce, só que só 18%
+dessas vendas vão realmente pro digital
+com venda direta. O restante ele tem
+rede social, cai ali 82% dessas vendas
+via fluxo de WhatsApp. Então a pessoa
+ela ainda interage com uma pessoa para
+vender. Significa que 300, dos R$
+380.000,
+R 311.000 é gerado via WhatsApp. O resto
+que vai pelo e-commerce. Olha que taxa
+baixa. Então claramente aqui a o
+e-commerce não fez diferença nenhuma na
+vida dele, né? Tá? Ã, então vamos lá.
+Desses 380.000 que ele gera de dinheiro,
+sobra 53.000 por mês no caixa da
+empresa. É uma empresa que tá saudável,
+entendeu? Deixa eu fazer essa conta
+certa aqui para ver se tá batendo mesmo.
+Pera aí, vamos abrir a calculadora aqui.
+R$ 53.200
+todos os meses que sobram. Hum.
+É uma empresa que tá saudável, tá
+gerando caixa, gera dividendo e tudo
+mais.
+Qual que é a minha estratégia de venda,
+né, que eu auxiliei esse meu aluno aqui,
+no caso, para implementar nesse cliente,
+ter que dar ROI. Que que é da ROY? Dar
+retorno sobre investimento. Então assim,
+essa esse cliente vai pagar 78.900, no
+caso antes era 98.000, mas ele tem que
+ter retorno, ele tem que ter, ele tem
+que pagar e ele tem que receber. Então,
+para ele receber aquele dinheiro que ele
+investiu, a gente tem que aumentar, por
+exemplo, ou o faturamento dele ou
+aumentar a margem dele por conta dele tá
+implementando em A, ou os dois. Então,
+esse mecanismo de infraestrutura de A
+que a gente tá fazendo aqui tem que dar
+dinheiro. Então, qual que é a nossa
+estratégia de ROI que foi desenhada? A
+gente vai aumentar em 10% as vendas.
+Então, depois de implementado essa esse
+mecanismo de IA aqui e a gente vai
+passar detalhadamente por ele, vocês vão
+entender cada etapa, mas antes de
+entender a etapa, eu quero que vocês
+entendam a estratégia de precificação.
+Então vamos lá. Ele vai, depois dele
+implementar, eh, vamos aumentar em 10%
+as vendas novas. Então, assim, ó, ele
+vende 380.000, ele vai passar a vender
+mais 38.000 1000 por mês. Então vai ser
+380 + 38. Ele vai para 418.000 de média
+de faturamento por mês. E vamos aumentar
+a margem em mais dois pontos
+percentuais. Então a margem líquida vai
+sair de 14%
+e vai pro e vai pular para 16%.
+O que vai gerar em vez de hoje ele gera
+53.000 1000 por mês de média caindo no
+sobrando no caixa líquido, tudo pago,
+tudo pago e ele vai pular para 66. Então
+é mais R$ 13.000
+no bolso deste cliente. Então aqui, se
+você pegar esse valor assim, eu não sei
+se você achou alto, se você achou esse
+valor aqui de implantação alta, falando
+assim, Kelvin, cara, como fechar um
+contrato desse? Entenda uma coisa, este
+preço ele foi calculado e no modelo de
+apresentação pro cliente nós vamos
+mostrar o que vai ser feito, que é o que
+eu vou ensinar vocês a fazer, mas nem se
+atrelem tanto ao que vai ser feito, e
+sim ao resultado que vai ser gerado,
+porque o dinheiro tá nisso. Isso aqui é
+a língua do empresário. Ele quer, ele
+não quer saber quanto ele vai gastar,
+ele quer saber o seguinte, ó. Quanto que
+ele dá de entrada, cabe no bolso dele as
+parcelas. E principalmente é quanto que
+isso aqui vai voltar pro meu bolso.
+Então a gente tá mostrando para ele,
+cara, no mínimo mais R$ 13.000, porque
+assim, tem um gargalo al gigantesco no
+atendimento, rede social, 82% do seu
+dinheiro é gerado por aqui. O seu
+atendente não tá conseguindo dar vazão à
+quantidade de leads, a um atendimento
+rápido, não tá tendo conversão, não tá
+tendo nutrição, sua base de atendimento,
+ela é pequena. Então assim, esse valor
+aqui está subdimensionado, a gente
+consegue aumentar muito mais do que
+esses 10% aqui, do que esses 2%.
+E se você pegar esses 78.900 e dividir
+por 13, você vai chegar ali em torno de
+seis. Significa que são 6 meses para ele
+se pagar. O payback calculado é de se a
+8 meses, porque nos cálculos a gente
+acha que a gente vai conseguir aumentar
+esses números aqui para mais de 15% e
+isso aqui para mais ou menos uns 3% de
+margem, pulando para 17% e não 16%. Tá
+bom? Então vamos lá.
+Primeira lição que eu dou para vocês,
+conversa, conversa a língua do
+empresário. O empresário quer saber do
+resultado no bolso dele. Mostra para ele
+que você tem qualidade técnica e também
+tem a qualidade de negócio de falar
+assim: "Cara, eu quero ser teu parceiro
+nesse negócio e fazer você ganhar mais
+dinheiro, por isso que eu vou
+implementar". Pode ver que até o meu
+parcelamento tá atrelado, tá atrelado ao
+meu payback, ao meu tempo de ROY. Por
+quê? porque eu quero que ele pague o meu
+o o valor da mensalidade utilizando o
+próprio dinheiro que a gente vai gerar
+mais para ele. Conseguiu entender? Eu
+estou diminuindo aqui praticamente todo
+o risco. O único ponto que talvez ele
+fique desconfortável é esse variável de
+2,5%. Mas aí como que eu negocio isso?
+Eu posso aumentar muito o valor da minha
+mensalidade, negociar, começar
+negociando ali em R$ 6.000 e aí a gente
+vem descontando esse valor e coloca o
+skin the game aqui, ó. Cara, eu vou
+entrar com você, eu vou abaixar o meu
+preço, minha mensalidade, o meu fixo
+mensal, mas eu quero 2,5% em cima das
+novas vendas e também do recuperado.
+Conseguiram entender? Show de bola. Tá,
+Kelvin, e como que é essa infra de
+growth com AI? Eu vou te mostrar, ela
+foi determinada, ela foi e destrinchada
+aqui, ó, em três etapas principais, tá?
+Então, qual que é a primeira etapa?
+Primeiro que esse cliente aqui é um
+cliente que nós analisamos a a dor de
+mercado, falou: "Cara, varejo tem dor".
+Foi foi feito um processo de codec,
+prospecção ativa, então entrar em
+contato com as pessoas. E aí a hora que
+a gente identificou o cliente, esse meu,
+no caso, meu aluno, identificou o
+cliente, ele trouxe, a gente estruturou
+essa infraestrutura para que ela fosse
+vendida, tá? E como que ela foi
+estruturada? Primeira coisa, eh, é feito
+um diagnóstico inicial para entender
+qual que é o cenário daquele cliente.
+Então, no caso, pra gente ter aqueles
+números ali, entender como precificar,
+como calcular e como cobrar. Agora,
+entendeu aquele cenário? O que que a
+gente vai entregar? Vamos lá. Qual que é
+a etapa um? Qual que é o cenário do
+varejo atual no Brasil? Então, cara,
+varejo é um um mercado, um nicho de que
+tá nos últimos anos ali, tá vindo com
+crescimento acelerado, só que 2025 ele
+tá tendo uma a previsão para 2025 é
+retrair eh nesse ano, né, e pro ano que
+vem é ainda ficar um pouquinho menor,
+ele vai desacelerar, retrair não,
+desacelerar. Então, por exemplo,
+crescimento de 0,56 no ano que vem e o
+modelo de consumo, ele tá mudando.
+Então, assim, é um mercado que tá sendo
+alterado, tá tá tá mudando
+constantemente, principalmente por conta
+das redes sociais. Só que qual que é o X
+da questão?
+Todo mundo vendeu pra galera do varejo
+que para eles irem pro mundo digital era
+só colocar criar um e-commerce. E aí
+eles aumentaram custos com ferramenta,
+mas não teve retorno nenhum. Então eles
+têm uma dor muito grande com e-commerce
+e com tráfego pago. Por quê? Porque
+joga-se muito dinheiro em tráfego pago
+para jogar para dentro do e-commerce e
+as conversões são baixas, literalmente
+baixas. Os caras sofrem muito, muito,
+muito com e-commerce. Fora isso, tem uma
+falta gigantesca de inteligência de
+dados dos clientes e de vendas. Qual que
+é o perfil do meu cliente? Qual que é o
+ICP do meu cliente? Que produto que ele
+compra, quando que ele compra, qual que
+é a sazonalidade? Ninguém analisa isso.
+Não tô falando dos grandes, tá? Tô
+falando desse tipo de cliente aqui, ó.
+Esse tipo de cliente aqui, faturamento
+de 4 milhões e meio ano, 5 milhões no
+máximo, ele é pequeno ainda, entendeu?
+Então não é gigantesco. Então eles têm
+essa dor. Uma baixa personalização no
+atendimento. Atendimento é ridículo, só
+você tentar comprar que você vai ver.
+Deixa eu ver se tá gravando certinho
+aqui.
+Deixa eu abrir um parênteses aqui para
+você. Entenda uma coisa, ó. Aqui a gente
+tá falando de você criar um business que
+seja robusto, que você tenha preço
+competitivo, ou melhor competitivo não,
+um preço diferenciado para que você
+entregue valor pro teu cliente, para que
+você cobre um valor correto, até para
+você ter margem no teu negócio, para
+você poder crescer, para que você, para
+que esse seu negócio te sustente, faça
+você realmente não ser um empreendedor
+frustrado, igual tantos outros por aí.
+Então, se você quiser aprender a criar
+um negócio de verdade, você vai entrar
+na Acelera 360. Acelera 360 é para você.
+Você vai clicar no link aqui na
+descrição desse vídeo, porque lá eu te
+ajudo a fazer isso. Inclusive, eu tô
+montando a minha para fornecer isso aqui
+pros meus alunos, tá? Para eles poderem
+revender no mercado, porque isso aqui é
+o futuro. O mercado está mudando, o
+modelo AI first tá vindo para quebrar
+tudo. As empresas têm que se adequar,
+quem não se adequar vai morrer. Então
+essa é a hora de você aproveitar e botar
+para quebrar. Aproveita para entrar
+agora no mercado enquanto isso aqui não
+tá explodido, porque a hora que explodir
+vai ser tarde demais para você. Não
+perca. Isso aqui é literalmente uma
+revolução. Bora voltar. Estoques mal
+otimizados, mal gerenciados, só que
+assim, não vamos mexer em estoque, dá
+trabalho. Nosso foco dessa IAD growth é
+venda, não é estoque, não é pós-venda,
+não é a entrega, entendeu? Então assim,
+ela é uma IA, essa essa estrutura aqui,
+IA não, essa infraestrutura que é a IA
+mais o processo, elas estão sendo
+desenhadas para aumentar as vendas. É
+isso que ela resolve, tá?
+Dependências de promoções genéricas para
+vendas. Outra coisa, o pessoal depende
+muito de promoção genérica. Ah, qualquer
+coisa tá entrando com 10% de desconto,
+15% de desconto, o estoque fica atolado
+lá, fica velho e, cara, tem que desovar,
+então toma ele desconto. Não tem
+estratégia nenhuma, né? E uma uma equipe
+operacional muito sobrecarregada, com
+tarefas repetitivas e principalmente um
+time de vendas no varejo é péssimo.
+Pessoal de teleendimento péssimo, não
+sabem vender. Então, o objetivo dessa
+infraestrutura é o quê? aumentar o
+ticket média, a frequência de compra,
+reduzir perdas e estoques encalhados. Só
+que, ó, esse ponto aqui foi
+despriorizado.
+Esse ponto aqui foi despriorizado. Vou
+colocar em vermelho. Gerar campanhas
+automatizadas e personalizadas com base
+comportamento. Automatizar atendimento e
+conversão e gerar dashboards de decisão
+com base de dados reais em tempo real
+sendo analisada. Então, um cara tem
+inteligência de dados, tá? Então, esse
+aqui é a primeira etapa.
+Depois do diagnóstico, como que entrou?
+etapa dois. Aí aqui a gente vem e
+estrutura
+o a infraestrutura. Então vamos lá.
+Primeira coisa, qual que é o nome dessa
+solução? Essa aqui, por exemplo, Retail
+Scaler AI. Nossa, esse nome ficou
+gigante. Qual que é o pilar um? Pilar um
+ea para aumento, eh, para atendimento de
+vendas. Esse aqui é o principal pilar,
+galera. Eu vou entrar aqui, ó,
+principalmente ness nesse vídeo, eu não
+vou entrar na parte técnica, mas eu vou
+falar para vocês as ferramentas que
+vocês podem utilizar. Isso aqui já vai
+dar um adianto gigantesco. Por exemplo,
+nessa estrutura aqui, a gente decidiu
+utilizar o CRM, o GHL, não sei se vocês
+já ouviram falar, chama-se Go High
+Level. Muito bom. Por conta das
+otimizações que a gente conseguia criar
+dentro desse desse CRM. a gente pegou um
+modelo lá de $98, se eu não me engano.
+Eh, ele é um CRM que ele tem um modelo
+mais white label, só que a gente nem
+pegou por causa do white label, a gente
+pegou por conta da estrutura de planner
+que tem dentro dele. No final das
+contas, a gente ia acabar economizando,
+eh, usando o GHL, tá? Nesse caso. Então,
+vamos lá. Pilar, poderia ser outro CRM,
+poderia, poderia ser qualquer outro. O
+GHL foi estruturalmente pensado para
+isso e também esse meu aluno já tem a
+licença do GH. Então, serve
+perfeitamente.
+Qual que é o pilar um? Iá para
+atendimento. Por que que i para
+atendimento? 82% das vendas segue fluxo
+via WhatsApp.
+Então, como que é saiar para
+atendimento? Então o foco é em aqui, ó,
+objetivo: capturar mais vendas e
+eliminar perdas de oportunidade no ponto
+de contato com o cliente. Mecanismo: Iar
+de voz para WhatsApp e telefone. Pessoa
+não tá respondendo, liga com uma I de
+voz, literalmente assim, ó. Ligou
+usando, por exemplo, Sync Flow mais o
+Twil, nesse caso aqui. Integração.
+Atendeu, atualiza o CRM. CRM nesse caso
+é a base de verdade, é o coração desse
+processo de venda.
+CRM aqui é o GHL chatbot com
+personalizada plugada no WhatsApp e
+também no Instagram. No Instagram a
+gente usou, vai usar o Mini Chat nesse
+caso aqui. E aqui usa o Assistable mais
+um um um GPT customizado. E esse chatbot
+vai est no site, no WhatsApp e no
+Instagram. Reativação automática de
+leads antigos usando o CRMs workflows,
+que é o workflow do CRM, mais o GPT 4
+para 4 aqui nesse caso e sempre
+atualizando o CRM. Qual que é o foco
+aqui? Reativação de automática de leads
+antigos. É, cara, temos uma base
+gigantesca de lead, cara. Vamos disparar
+para todo mundo a jornada inteira. Aí
+aqui tem uma outra ferramenta que a
+gente colocou aqui que não tá,
+que é o brevo, o brevo para fazer
+disparo aqui de de e-mail usando e-mail
+transacional, que é para o e-mail não
+cair na na na blacklist, na Espanha, por
+aí vai. Ou usando aqui também a mail,
+que também é muito boa para isso, para
+fazer as campanhas. Mas qual que é a
+ideia? Reativar esses leads e nutrir. É
+fazer o processo de nutrição e ficar
+mantendo esses caras aqui também.
+Nesse caso aqui ele não entrou, mas ele
+poderia ter entrado, tá? Que é a
+nutrição via grupo de WhatsApp. Então é
+uma estratégia aqui no Brasil funciona
+muito e para esse tamanho de varejo
+também funciona muito, que é manter um
+grupo do WhatsApp ali com novidades.
+Poderia ter colocado um grupo aqui, tá?
+Então, basicamente
+nessa etapa um, IA para atendimento e
+venda seria esse essa etapa aqui. Junto
+com isso, você tem que entender o
+seguinte, ó, que aqui não entra só a IA,
+entra a o mecanismo, né, as ferramentas,
+mas um ponto muito importante de
+detalhar para vocês é o fluxo. Todo o
+processo de funil de vendas aqui, ele tá
+desenhado já para atender, tá? Isso aqui
+é composição da infraestrutura. Então,
+entrou essa IA, olha que loucura, entrou
+a IA aqui, ó, entrou o processo e entrou
+a ferramenta, ferramenta de mercado, no
+caso aqui é o GHL, o Go High Level,
+esses três aqui pra gente trazer o
+resultado absurdo, aquele resultado
+inteiro aqui, ó, porque provavelmente a
+gente vai puxar a grande parte só dessa
+área de atendimento, só desse módulo
+aqui. Qual que é o outro ponto? Pilar
+dois e a para campanhas e ofertas
+inteligentes.
+Por exemplo, esses caras aqui, eles
+gastam ali em média R$ 3.000 por mês de
+agência de marketing, fora o tráfego
+pago, que praticamente já é a
+mensalidade aquilo que o meu aluno vai
+cobrar. Então, qual que é a ideia, cara?
+Vamos cortar a agência de marketing
+nesse caso, e a gente vai ensinar essa
+própria pessoa, essa uma pessoa de
+dentro da empresa a cuidar da agência de
+marketing, então ou a cuidar do
+marketing no caso, né? Então a gente vai
+estruturar aqui uma geração automática
+de ofertas semanais com IA. A gente vai
+deixar as IAs prontas, a gente vai usar
+para isso o prompt GPT, mais uma tabela,
+uma planilha no Google Sheets, né, no no
+Excel do Google mais o CRM. Eh, a gente
+vai utilizar aqui o N8 Make para fazer
+este processo. Então, olha que legal,
+com essa planilha aqui a gente já vai
+meter uma geração de de ads, imagens e
+propagandas e criativos, por exemplo,
+usando aqui o AD Creative ou Creativey
+ou por exemplo, para quem não conhece,
+ó, deixa eu até mostrar aqui, deixa eu
+ver o AD Creative. Você consegue com
+essa ferramenta gerar posts automáticos,
+mostrar que a gente já tem isso aqui
+tudo integrado com fluxos, né? Então
+você coloca o seu logo, o tamanho que
+você quer gerar, o texto e a imagem, ele
+monta já as imagens aqui de criativos
+para você. E é extrema, é uma qualidade
+assim absurda e ela monta muito rápido.
+Então isso já traz muito retorno.
+Pessoal de marketing cobra uma fortuna
+para isso, não precisa, entendeu? Se
+tiver algum caso ou outro, aciona alguém
+diretamente para gerar ali uma imagem,
+cobra R$ 50, R$ 40. Qual que é o grande
+foco? Olha que doideira.
+Nesse caso, o próprio cliente, ele vai
+internalizar
+com esse pilar o time de marketing dele.
+Então, ele vai economizar ali, ó,
+e ele vai ter a proeficiência,
+um saving aqui de 3K. E ele vai ter a
+proeficiência de poder fazer isso ele
+mesmo. Olha que bacana, cara. Ó, falar
+para você, hein? Se as agências de
+marketing não se reinventarem,
+isso aqui é o cenário comum. O próprio
+empresário absorvendo a parte de
+marketing dele. Marketing é core
+business, então tem que ser absorvido,
+sim. Tem que ter de forma interna, tá?
+Ã, que mais? Segmentação com base em
+histórico de compra. Então, a gente vai
+segmentar todos os clientes ali usando
+Big Query com base histórico de compra e
+atualizar o CRM. Para quê? Para sempre
+ajustar as campanhas por período.
+Entendeu a estratégia?
+Você acha que as empresas de marketing
+faz isso? Não, não faz. Envio automático
+por e-mail e WhatsApp usando enertu Brev
+ou High Code também aqui. Integração via
+API. Quer fazer o quê? As jornadas
+disparadas. Fulano, você comprou tal
+roupa há tanto tempo, estamos com uma
+promoção aqui especificamente sobre
+isso, a gente sabe que você gosta, tem
+interesse, cara. O que a gente vai puxar
+de venda aqui nessa nesse bloco não tá
+escrito. Deixa eu ver se tá gravando a
+tela certa, tá? Entendeu? Então aqui, ó,
+entrega final, sistema de campanhas
+semanais com promos prontos, sistema de
+envio inteligente baseado em
+comportamento, painel de performance por
+campanha. Então vai conseguir acompanhar
+toda a campanha. Kelvin, mas e subir o
+tráfego pago no MetaS? No Google Ads?
+Cara, essa a parte mais simples, né,
+gente? Você criar lá as campanhas e
+segmentar o seu público. Se você tiver a
+estratégia correta e entender, é a coisa
+mais simples, grava vídeo e
+ensina o cliente a usar e faz ali um
+acompanhamento semanal. Ah, mas não sei
+fazer. Contrata um gestor de tráfego,
+pede para ele treinar o teu cliente para
+isso que vai sair mais barato, absorve
+no preço, entendeu? Porque você faz uma
+vez só, depois que você aprendeu já era.
+Ou aprende você mesmo também, que pra
+gente não tem segredo. Estamos criando
+iar, velho. Você acha que o segredo é
+subir campanha? Cada vez mais Google
+Ads, Meta tá ficando mais inteligente
+para ele mesmo entender qual que é o
+melhor público para fazer a segmentação
+necessária. Não tem segredo isso aqui.
+Isso aqui não tem segredo não. Pessoal
+de marketing aqui me desculpe.
+Pilar três e a para estoque inteligente.
+Essa aqui vamos deixar de fora. Por quê?
+porque foi mapeada, mas foi
+completamente
+por conta da complexidade e necessidade
+de integração
+com o sistema com o ERP da empresa nesse
+caso. E assim, o estoque ele depende
+muito de pessoas atualizando. Se não
+atualizar ele
+não funciona. Então aqui a foi o melhor
+dos mundos que a gente fez o mapeamento.
+Por exemplo, previsão de demandas com
+IA, alertas automatizados para produtos
+parados, recomendação de reposição com
+base histórico. Cara, isso aqui é mais
+PowerBI e puxar dados do RP do sistema,
+da saída, né, da saída do do estoque do
+que qualquer outra coisa.
+E o pilar quatro, esse pilar é
+extremamente importante, que é o
+seguinte, é uma IA para decisões
+estratégicas, mas não só a IA, e sim a
+construção de um dashboard. Então,
+dashboard estratégico com IA usando
+Look, Power BI, integrações de dados via
+Zapper, via PI, ter esses dados na mão e
+principalmente ensinar, que é mais o
+sales ops, né? Então, ensinar aquele
+cliente a ver os dados dele, enxergar
+aqueles números na operação para ele
+acompanhar linha a linha. geração de
+insightes com IA com linguagem eh
+natural colocar um GPT dentro do do
+PowerBi ou do big data ou do do da do do
+DW deles, entendeu?
+GPT planilha mais banco de dados e
+automação e relatórios semanais
+automatizados. Aqui a gente usa click e
+o Notion mais o e-mail para disparar
+tudo isso e aí integração via automação,
+né? Então é trazer, ó, por exemplo, uma
+visão real, vendas, estoques e lucro, a
+geração automática de decisões e
+recomendados sobre toda semana e
+reportes automatizados pro dono, pro
+gerente, é trazer vida, número pra
+operação, porque se você constrói isso,
+o que que você consegue dar pro seu
+cliente? Você consegue dar uma visão de
+que você tá dando retorno, para você que
+tá me assistindo, isso aqui é muito
+importante, entendeu? Deixa eu te falar
+uma outra coisa. Se você quer entender a
+como construir infraestrutura de, se
+você quer cair pro mundo da inteligência
+artificial desse jeito, criando modelos
+de negócios que sejam escaláveis, que dê
+dinheiro para você, que você consiga
+criar uma empresa de verdade, Acelera
+para você. Você vai clicar no link que
+tá aqui na descrição desse vídeo, porque
+lá na Acelera eu te ensino a empreender
+desse jeito, criar algo sólido, algo
+robusto. Não tô falando de você criar
+chatbotzinha tô indo, não. Tô falando de
+você criar algo realmente robusto para o
+mercado que tá em extrema transformação,
+hein. P, se você é empresário, o recado
+para você agora que tem empresa, que tem
+negócio, tá na hora de você implementar
+inteligência artificial de verdade no
+teu negócio, implementar uma
+infraestrutura de A que vai fazer você
+crescer e que vai fazer você performar,
+porque o modelo de IA não é só hype.
+Você não tá entendendo que se você não
+implementar isso, o teu concorrente vai
+implementar e ele vai te destruir. Você
+vai sofrer um negócio chamado
+obsolescência competitiva, que é o quê?
+Quando você se torna irrelevante, teu
+processo é tão lento, tão manual, que
+você tá literalmente irrelevante perante
+a sua concorrência. Se você não quer que
+isso aconteça com a sua empresa, com o
+teu negócio, você vai clicar no link
+aqui na descrição desse vídeo e vai cair
+dentro da Acelera 360. Lá na Acelera
+360, os meus alunos vão te ajudar porque
+eles sabem fazer infraestruturas de
+inteligência artificial que te dão
+retorno, que fazem você realmente ter
+retorno com IA aplicada de forma real no
+teu negócio. Fechou? É isso. Bora
+continuar essa aula aqui. Então, vamos
+lá. Qual que é a etapa três, galera? Ó,
+passamos aqui então pelos três, pelos
+quatro principais pilares, que é
+atendimento, campanhas de ofertas, mais
+a parte do estoque que foi desporizada e
+a ali pra decisão estratégica. Qual que
+é a etapa quatro? você estruturar
+completamente o funil para o varejo.
+Então, olha que doido, esse cliente ele
+não comprou sua ferramenta, ele comprou
+o processo, pronto, um processo que
+funciona, que vai dar retorno para ele.
+É isso que eu falo para vocês. Vocês
+entendem como não é só fazer um fluxo de
+N8N, que não é só fazer um make com
+automação no make, que não é só isso,
+que tem muito mais por de trás. Para que
+você possa ter confiança de dar esse
+retorno aqui, cara, você tem que fazer,
+você tem que entregar junto um processo,
+você tem que entregar junto um
+treinamento, você tem que fazer o
+acompanhamento do teu cliente para que
+para que ele ganhe dinheiro. A hora que
+ele ganhar dinheiro, você vai ganhar
+também. E aí é lindo, maravilhoso, né?
+Aí todas as partes ganham. Então vamos
+lá. Topo de funil. Topo de funil é
+atração e captação. O que que a gente,
+que que a gente entra? Quais são as
+estratégias? Oferta isca, 10% off na
+primeira compra. Olha aqui. Isso aqui a
+gente dá tudo pros nossos alunos, tá? A
+gente já, isso aqui já tá tudo pronto.
+Isso aqui já é documento, documento
+atrás de documento mastigadinho, ó.
+Funil de venda para clínica. Vamos, tem
+um monte de coisa aqui. Então, vamos lá.
+Ah, anúncios concreativos gerados por
+IA. Mesma coisa. Usa as ferramentas de
+IA, igual, por exemplo, essa daqui, ó.
+Inclusive, se você tá assistindo esse
+vídeo, já pesquise essa decreative aqui,
+que é muito boa. Só que a gente tem uma
+um mecanismo para que gere as ofertas,
+porque o anúncio ele precisa de uma
+oferta, ele precisa de um texto lá, é
+aquilo lá que vende. E a gente já tem
+isso aqui pronto. Qode na loja para
+capturar quem passa. Então, outro
+estratégia lá dentro da loja no QRC,
+bateu no QR code, joga para dentro do
+CRM. Olha aqui a parte física se
+inteirando com a parte digital,
+entendeu? Aí já joga direto no funil, já
+cai no WhatsApp, já cai nas jornadas e
+por aí vai. E a que responde dúvida
+direto no anúncio. Então o cara clica
+ali, já tira dúvida, já cai no WhatsApp
+totalmente direto aqui usando metal s
+flow, saca? Aí depois etapa dois, meio
+de funil, conversão e acompanhamento. E
+aqui a gente primeiro atrai, legal.
+Agora a gente tem que converter. O cara
+entrou, ele tem que sair, né? E ele só
+sai com a venda. Então qual que é a
+estratégia? E ad voz ou chatbot para
+fazer oferta, tirar dúvidas. Caiu no
+funil. Don tá respondendo.
+Telefone tocou. Fala Kelvin. Já comprou
+aquela blusinha? Não comprou ainda? Pô
+cara, vou te mandar um link aí agora
+para você ver um vídeo que nós fizemos
+daquela blusinha. Tá bom? Olha que
+legal. Isso é diferente. Isso é você
+mudar o modelo de consumo de informação.
+Você liga e você manda o WhatsApp. Pode
+mandar áudio no WhatsApp também e o
+vídeo. Olha que louco. Entendeu? Venda
+cruzada com base histórico.
+ninguém tem isso. Ninguém tem isso. Que
+loja que vocês conhecem que tem isso?
+Que varejo que tem isso hoje? Só grandes
+ecommerces. E olha lá, sequência de
+urgência, último dia, é última hora, é
+última unidade. Tudo isso pronto é
+trazer os modelos que funcionam no mundo
+digital para um varejo. Cara, por isso
+que eu tô falando para vocês, agências
+de marketing vão desaparecer, tá?
+estruturou o meio de funil, aí cai pro
+fundo de funil. Retenção e recompra. Que
+que é retenção e recompra? Estratégias,
+as ferramentas e a descrição aqui, ó.
+Envio semanal de campanhas
+personalizadas com IA. Reativação
+automática após 30, 60 e 90 dias sem
+compra. Olha que loucura. Tô falando de
+de eu reativar um cara de 30 dias após,
+60 dias após, 90 dias após a última
+chamada, entendeu? Tudo conectado dentro
+do CRM.
+Isso é qualidade. Isso aqui traz Roy.
+Isso aqui vende. Kelvin. Vai ficar muito
+caro o custo por mês. Não vai. Isso aqui
+vai dar uns 100 150 de de
+Open AI. Uns $ de vai tudo aqui deve dar
+uns 400, 500. Tudo tudo tudo tudo
+contando com servidor, token, chama API,
+tweler e por aí vai. No máximo, no
+máximo, no máximo, no máximo. E outra
+que dê mais é porque o volume é maior.
+Então é só colocar isso aí no custo, no
+CAC, e vai fechar a conta. No final das
+contas, a conta fecha, tá? Programa de
+fidelidade com IA integrado com NAL,
+Clickup, Cadernetinho. Pô, você comprou
+hoje, compra semana que vem, desconto de
+aniversário. tem cara infinidades
+de estratégias. Qual que é a etapa três?
+Estrutura completa de funil pro varejo.
+Pronto. Isso aqui é uma infra de ar.
+Agora, se você, cara, você só, você só
+tem que aplicar o que eu desenhei aqui,
+só isso. Você não tem que fazer mais
+nada e entrar na acelera, né? Entra em
+contato com as lojas de varejo, coloca
+eles para dentro, faz o diagnóstico e
+oferece isso aqui do jeito que eu fiz
+aqui. Tá pronto, tá validado. Gente,
+você entende que tá validado, sabe o que
+é validado? É contrato fechado. Isso
+aqui já tá sendo feito por um aluno meu.
+É só você fazer também. Não tem segredo,
+entendeu? Kelvin, não consigo fazer.
+Então, acelera, cai aqui para dentro que
+nós te ajuda. Legal, Kelv, agora que que
+é esse passo a passo aí. Aí, aqui a
+gente vai entrar, por exemplo, no
+detalhamento do funil, ó. Vou mostrar
+aqui para vocês agora. Essa aula aqui
+vai ficar grande, mas é porque é um
+conteúdo que eu prometi que eu ia fazer
+de forma detalhado para vocês. Então, eu
+vou mostrar toda a trajetória dentro do
+funil dessa máquina rodando para que
+vocês entendam isso, tá? De novo, ó,
+clica no link aqui na descrição desse
+vídeo e cai para dentro da Acelera. Vem
+conhecer a Acelera 360. Você vai ver
+como que funciona o rolê. Então vamos
+lá. Topo de funil, atração e captação.
+Foco, transformar desconhecidos em
+leades qualificados. Como que isso aqui
+acontece? Primeiro passo, etapa, criação
+de criativos e anúncios com IA. Então,
+qual que é o objetivo? Gerar cliques e
+capturar dados com auto CTR, tá? Então,
+como que ele faz isso? A gente vai
+mapear, coletar ali os 20 melhores
+criativos de varejo no segmento, moda,
+perfumaria e por aí vai. Calvin, como
+assim? Deixa eu mostrar para vocês, ó.
+Você, como vendedor de infraestrutura de
+ar, você vai vender um modelo de negócio
+que funciona. Então, você tem que fazer
+isso aqui pro seu cliente.
+Entra nos funil concorrentes dele e
+mapea tudo, ó. Ou vem na acelera que a
+gente tem tudo mapeado, tá vendo? Não
+vou não vou dar zoom no detalhe, mas que
+que nós fizemos aqui? Entramos nos
+funis, fomos seguindo, pegando as
+cópias, entendendo como que fazia todo o
+processo para clínicas, porque a gente
+tem uma outra IA específica para
+clínica, entendeu? Mapeia tudo. Próximo
+passo, criar um prompt para GPT para
+gerar variações com base nos melhores
+desempenhos. Então, tudo isso aqui você
+gera texto e aí você vai treinar um GPT
+com esse texto que foi gerado para que
+ele crie variações com as
+especificidades do seu cliente, no caso
+desse cliente aqui, que vai fazer a
+geração desses conteúdos ali com base no
+melhor desempenho. Então, olha que
+legal, o conteúdo que ela gerar, a gente
+vai entrar aqui na ferramenta e vai
+pedir para ela montar pra gente as
+imagens, os vídeos e por aí vai. Então,
+ó, usar o AD Creative para gerar
+automaticamente variações visuais com
+headlines e CTA diferente e aí testar no
+MetaS com a segmentação de
+geolocalização raio de 3 km da loja. É,
+é só executar isso daqui, ó. Vocês
+entenderam o passo a passo? Para cada
+item desse, ó, isso aqui é material,
+isso aqui é agente.
+Isso aqui é manual.
+Isso aqui é manual
+com tutorial
+ensinando a fazer. Entenderam?
+Já tem a parte da criativos com anúncio,
+com IA e já tem o funil porque o cara
+vai clicar, vai cair no CRM porque o CRM
+já vai vir configurado. Etapa dois,
+landing page ou link da oferta. Ó, rodou
+o criativo. Clicou no criativo, cria uma
+landing page simples no CRM com headline
+clara, mas benefício direto. Ganhe 15%
+off na primeira compra. Integra com
+WhatsApp via botão. Tem interesse, chama
+no WhatsApp, joga pro WhatsApp. Após a
+captura, redireciona para o WhatsApp com
+automação ativa de IA de atendimento. Aí
+aqui entra, aqui é o chatbot, ó. Ó o
+shortbot aqui.
+Vocês estão vendo o que que é um um
+processo
+AI first? Tão entendendo o que que é um
+processo AI first? É isso aqui. Olha
+aqui o desenho, gente. Tô passando para
+vocês o ouro aqui, hein. Passo três, QR
+codes estratégicos. Então, gera o QRcode
+com.Ou direcionando a mesma pra mesma
+landing page. Coloca esse daí na onde?
+Nas lojas, ó. Coloqua em locais
+estratégicos da loja, da vitrine, sacola
+e por aí vai. Por quê? Porque a pessoa
+tá lá na loja física, puf, ler o QR
+code, ela cai dentro do teu processo,
+dentro do teu processo digital. Mensagem
+clara: scane e ganhe algo exclusivo para
+ela ler e clicar. Olha a estratégia,
+gente. Tá pronto. Tô dando para você o
+ouro. Meio do funil, conversão. Vamos
+lá. O cara caiu para dentro do CRM.
+Passo um, automatização com IA. Texto e
+voz. Ó, aqui, ó. Criar árvore de diálogo
+com GPT para receber o lead, apresentar
+oferta, tirar dúvidas, direcionar as
+ações à ação final, loja física ou link
+de pagamento. Aí aqui é no vend agentes,
+não é um agente só. Se você fizer em um
+agente só, ele vai se perder, ele não
+vai conseguir entregar uma boa
+qualidade. Para aparecer um agente que
+realmente não seja parecido com o robô,
+tem que ser nuvem de agente.
+Microagentes, todos coordenados por um
+agente principal. Se você não entendeu,
+acesse meu último vídeo aí que você vai
+entender um pouco mais.
+Depois, escolhe o canal ideal, WhatsApp,
+Instagram ou site. Três, usar o Sfow
+para voz no assistable, para chatbot.
+Isso aqui é para fazer ligação, ó. Bem
+legal, ó. Que tá escrito errado. Nesse
+caso, a gente tá usando
+o 11 labs diretamente,
+mas o assistible.
+Assistable.aiaii
+AI ele é como se fosse um elevs, só que
+ele já é integrado, por exemplo, no CRM
+que a gente tá usando, que é o GHL.
+Então, facilita muito. Só que nesse caso
+aqui, a gente preferiu usar o o Eleven
+Labs mesmo.
+Você pode usar também a mesma coisa.
+Integrar com CRM para registrar a
+conversão. Então, tudo isso aqui tá
+sendo atualizado no CRM. Passo 2.1, 2.12
+cross selling com IA. O que que é o
+cross selling, gente? aumentar o ticket
+médio. Então, faz venda casada. Se você,
+o cara comprou X, recomenda a Y, tenta
+vender a mais, adicional. Aí a tem que
+tá preparado para isso. Nesse mesmo
+agente aqui, ó, que ele já manda o link,
+ele tem a opção também de um agente que
+faz o crosselling. Você não quer
+adicionar mais esse item por tanto ou
+compra mais isso, faça mais aquilo,
+entendeu? Se você já, se ele comprou X,
+recomenda Y com base de dado histórico.
+Então, base de produtos e cliente
+demonstrou interesse, roda script de GPT
+com se comprou X, recomende Y. Passo
+dois, montar automação com essas ofertas
+via WhatsApp, e-mail. cara, isso
+aqui é
+ai top. Personalize a COP com o nome
+produto mais a urgência. De novo, o
+agente faz isso. Passo três, sequência
+de conversão automática. Criar trainer,
+três mensagens automática. Uma hora após
+o interesse, seu desconto está quase
+acabando. 12 horas após, última chance,
+você ainda tem 15% off. 24 horas depois,
+oferta encerrada, mas temos algo novo.
+Isso aqui é isso aqui, isso aqui é ouro.
+Ouro. Vamos lá. Eh, sequência de
+conversão. Ah, tá. Uso o CRM mais fluxo
+com timers para fazer aquilo ali. Medir
+conversão em cada etapa. Tem que tá na
+ponta da língua ali. Qual que é o
+processo de conversão? Número BI. Meio
+do funil aqui. Tá. Agora fundo de funil
+e último pra gente encerrar. Campanhas
+semanais com IA. Criar quatro promps
+GPT. Campanha com base em produto de
+destaque campanha com base em estação.
+Verão ou inverno. Campanha com base em
+comportamento. Você comprou o X há 30
+dias. Campanha de urgência.
+Alimentar a base semanal com no CRM com
+essas campanhas. Nossa, já cansei de
+falar. Vamos lá. Automatizar envio via
+WhatsApp e SMS e-mail. Top. Monitorar
+CTR e vendas. Top. Depois reativação de
+clientes inativos. Criar automação que
+dispara após 30 dias sem compra. pró 60
+dias sem clique. Entenda uma coisa, não
+tem lead perdido, não existe no varejo
+não existe lead perdido. O cara clicou
+uma vez, você enche o saco dele pro
+resto da vida, entendeu? Cria um lead
+scoring lá, alguma coisa do tipo, até
+para você não gastar dinheiro à toa, né?
+Mas entenda uma coisa, se o cara tá
+consumindo teu conteúdo, não importa se
+ele não compra o agora, às vezes o ciclo
+de compra é de um mês, dois meses, enche
+o saco dele do mesmo jeito. Às vezes ela
+é sazonal, você vai ter que entender o
+comportamento de compra. enviar
+campanhas personalizadas com novos
+produtos ou benefícios. Você sumiu. Cadê
+você?
+Iak gera mensagens baseada no perfil do
+cliente. Nossa, isso aqui é Isso
+aqui é Isso aqui é Imagina
+só você ter uma hag com todos os
+clientes, com tudo que foi consumido,
+todo o detalhe. E aí você chama a
+da Iá lá para fazer a cópia. Eu vou
+falar pro cliente tal. Ele vai lá e
+lindo, lindo, lindo, lindo, lindo,
+lindo. Vamos lá. Programa de fidelidade
+gamificado. Criar sistema simples de
+ponto por compra. R$ 1 um ponto. E há
+que envia alertas de saldo. Você tem 460
+pontos. Troque X. Olha aqui, que louco,
+uma um programa de fidelidade
+digitalizado, automatização de envio de
+rank, desafio e bônus por tempo
+limitado. Então assim, ó, aqui tá o
+desenho passo a passo de um funil e aqui
+tá toda a infraestrutura
+de para growth focada no varejo. Aqui tá
+desenhado para você como você escala
+esse preço. Agora você já entendeu que
+está de graça para tudo isso que
+entrega, não é verdade? Então, só que
+entenda uma coisa, pega o primeiro
+cliente, depois você replica e aí os
+outros é contrl C, conttrol V, margens
+absurdas, tempo infinitamente menor de
+implantação e por aí vai. Então assim,
+ó, aqui isso aqui que eu apresentei para
+vocês é tudo que vocês precisam para
+começar o seu negócio de inteligência
+artificial. Se você fechar um contrato
+desse por mês, no final de 2026, vocês
+terão faturado praticamente R 1 milhão
+deais. Entenderam? Entenderam? Que
+emprego na face da terra daria isso para
+você? Nenhum. Quais oportunidades isso
+pode te abrir no meio do caminho?
+Várias. N Kelvin, como eu prospecto meus
+primeiros clientes, prospecção ativa,
+ligação, telefone, code, code cal e vai
+embora, cai para dentro, roda tráfego.
+Kelvin, sou empresário, o que que eu
+faço? Implanto inteligência artificial
+de forma real para dar ROI pro teu
+negócio. Se você não sabe como fazer,
+você vai clicar no link aqui na
+descrição desse vídeo, vai cair dentro
+da acelera, que lá a gente vai te
+ajudar. Kelvin, quero empreender. Que
+que eu faço? Entra na acelera lá, eu te
+ajudo também, rapaziada. Foi isso,
+senhoritas. Foi isso. Espero que vocês
+tenham gostado. Eh, apliquem o que eu
+expliquei aqui, porque isso aqui é ouro.
+Isso aqui é ouro. Fechou?

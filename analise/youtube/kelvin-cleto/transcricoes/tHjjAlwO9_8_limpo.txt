@@ -1,0 +1,1981 @@
+Olá pessoal! Como vai você? Aqui
+Kelvin. Estamos trabalhando em um novo projeto.
+Rodrigo, chamado Kelvin Podcast.
+Ainda nem sequer tem um nome. Tem um nome.
+Excelente.
+Pessoal, estou aqui com o Rodrigo, Rodrigo
+Lopes, certo? Diretor de tecnologia (CTO) e cofundador de
+Processo.
+Vamos ter uma conversa super franca.
+Quero saber tudo sobre sua carreira.
+amigo.
+Brilhante. Obrigado por vir aqui.
+para o escritório.
+Ah, agora estou apaixonado. E ai, como vai
+Parecia?
+Achei lindo. É super
+bonito. Qual é o tamanho do seu
+equipamento? Veja, hoje a empresa precisa ter
+cerca de 200 pessoas na equipe
+de tecnologia, engenharia, produto,
+projeto e operações. Você tem o
+Metade, 100 pessoas?
+Muito pequeno.
+Há bastante coisa.
+Existem vários, vários desafios.
+EU...
+Brilhante. Excelente. Vamos lá, Rodrigo
+. Olá pessoal, olhem só, a Docket é uma empresa de tecnologia jurídica.
+Ou melhor. O que é um processo judicial?
+Rodrigo? Diga-me. Ah, isso mesmo, processo
+Faz sentido, não é?, dentro do segmento
+de startups de tecnologia jurídica, como você disse,
+Não? Mas o que devemos fazer? Somos uma
+empresa responsável pela emissão,
+gestão e análise de documentos
+emitido por organizações públicas,
+VERDADEIRO? Então,
+Quando converso com a equipe técnica,
+Eu faço um... com pessoas da área de tecnologia
+A analogia é a seguinte: existem
+35.000 órgãos públicos que emitem
+documentos, ok? Certo?
+Então, municípios, IBAMA,
+registros, INCRA, tribunais de
+justiça. E estamos falando de 200
+diferentes tipos de documentos.
+Então, o que vai acontecer comigo? Cada
+um desses organismos é como se
+fora de um banco de dados e cada um de
+Esses documentos são como...
+Documentos nada mais são do que dados.
+VERDADEIRO? Então, bem, esses 35.000
+órgãos públicos são como se fossem
+35.000 bases de dados às quais nós
+Nós nos conectamos e o documento é como se
+eram os dados da tabela. Então
+Somos um grande centro, certo?
+emissão, gestão e análise de
+documentos. E qual é o propósito disso?
+VERDADEIRO?
+Documentos.
+É para as maiores empresas.
+O Brasil precisa destes documentos.
+para realizar suas operações. Que
+operações são, certo? São
+financiamento agrícola e crédito com
+garantia imobiliária, financiamento
+Imóveis, aquisição de terrenos.
+Cara, existem centenas de casos de uso. E
+Então, diante de nós, como
+Funcionou? Essas empresas tiveram que
+interagir diretamente com estes
+35.000 órgãos públicos de um
+de forma não padronizada, sem
+Tecnologia, um desastre, caos total
+, Então. Então, o que fazemos?
+nós? Intervimos com
+tecnologia e essas grandes empresas
+Do Brasil eles só veem o nosso
+infraestrutura, nossa plataforma,
+nosso software. E nós abstraímos
+porque nos conectamos com essas 35.000 pessoas.
+órgãos públicos para fazer isso
+processos de uma maneira melhor através de
+de tecnologia, dados e inteligência
+artificial que temos vindo a fabricar aqui desde 2018
+Nossa, que ótimo! Então, quantos?
+Qual a idade do Docket?
+9 anos de idade. 9 anos de experiência. E você
+Você é o CTO (Diretor de Tecnologia) aqui na empresa hoje.
+Além de ser fundador, você presume
+Qual é o papel do CTO hoje em dia?
+Sim, somos três fundadores, sabe?
+Somos eu, Pedro e Flávio. Então,
+Sempre tivemos nossas áreas.
+Bem delimitado aqui, certo? Flávio
+Ele é o especialista no assunto. Ele
+Eu sabia, porque trabalhava em um
+empresa de construção, certo? Então, ele
+Eu sabia que a construtora precisava
+obter esses documentos para o
+aquisições de terras e o
+Transferências, certo? Suas operações,
+basicamente. Então ele é o
+O especialista é um advogado, aquele que entende.
+Tudo sobre este mercado. Pedro é o
+CEO, ele é o piloto, certo? O homem de
+a visão, aquele que se preocupa com a cultura, o
+Quem lidera a equipe de vendas, certo? E
+Resumindo, ele é o responsável pelo levantamento.
+Em termos de capital, captamos bastante.
+dinheiro. E quando eles se juntaram,
+Começamos juntos, mas eles
+Eles começaram alguns dias antes, quando eles
+Eles se uniram, e Pedro entendeu rapidamente.
+que isso só poderia ser resolvido
+problema, que é um problema gigantesco
+, com tecnologia. Nós
+sabíamos que nossos caminhos se cruzariam no
+corredores da startup onde
+Trabalhamos juntos e foi aí que me juntei a eles.
+Então, é mais ou menos assim que nós...
+Nós nos dividimos. Eu sempre fui o parceiro de
+tecnologia e sou CTO desde
+Primeiro dia aqui.
+Que incrível, que fantástico. Então
+Foi Flávio quem soube qual era.
+problema que precisava ser resolvido. Peter
+que ele tinha vivenciado isso em primeira mão.
+Ele vivenciou o problema em primeira mão.
+Então Pedro foi quem veio trazer o
+visão e liderança na direção de
+empresa.
+Sim, Pedro é muito bom, ele tem
+Experiência em marketing e negócios. E
+É isso aí, ele é o CEO, o homem do
+visão, meu amigo.
+Brilhante. E então eles te trouxeram para cá,
+Você veio para resolver o problema.
+da tecnologia.
+Isso porque Pedro entendeu e disse:
+Amigo, isso não pode ser resolvido sem
+tecnologia." Porque, como
+Funcionou, como ocorreu esse processo?
+Já trabalhou em empresas? Foi como
+Flávio trabalhava com, ou fazia parte de uma equipe?
+internamente ou com um escritório de advocacia,
+Ou foi terceirizado para um gerente, ou foi
+o próprio cliente do banco que
+Tive que trazer os documentos; todos
+Era manual. Então, tipo
+Trabalhávamos em uma startup.
+tecnologia, ele disse: "Cara, nós podemos
+Resolver isso levará muito tempo.
+O tempo é quase um problema
+"Infinito, não é?" "Não é que seja isso mesmo."
+Você resolve o problema e passa para a próxima fase, mas
+"Só será possível com tecnologia." E aqui está o
+O engraçado é que eu trabalho com
+A tecnologia sempre existiu, sabia?
+Tenho 37 anos e tenho essa idade desde os 11.
+Eu trabalho com tecnologia, com
+programação. Então eu tinha, de
+Desde a infância até a adolescência, eu sempre
+Eu mesmo os consertei. Depois disso, trabalhei em
+o mercado tradicional, então em um
+Comecei esta startup e depois a fundei.
+Mas antes de fundá-la, sempre
+Recebi convites para fundar
+Startups, certo? Porque as pessoas estavam aparecendo
+que ele sabia que eu tinha isso
+experiência e disse: "E se
+"Vamos fazer um Uber de helicóptero?"
+Vamos nessa, parceiro." Ele estava me levando para
+Minha esposa teve essas ideias naquela época, quando
+Nós estávamos namorando, sabe? Eles
+Eu estava usando quando estávamos namorando, né?
+Ela disse: "Pelo amor de Deus, fique em casa."
+Seu emprego, você está bem, você já tem um.
+"Boa carreira." "Você já tem uma boa carreira."
+Salário, não invente coisas, entendeu?
+"Minha esposa é muito realista,
+conservador. Mas quando Pedro trouxe
+a ideia, que já estava presente no meu dia
+aniversário, 11 de setembro
+Em 2015, voltei para casa e disse a ele: "Olha,
+Tem um cara que trabalha comigo que
+quer resolver esse tipo de problema."
+E ela sempre soube que eu queria
+Para começar, que era o meu sonho, começar.
+E por coincidência, ela trabalha, Renata.
+Minha esposa trabalhava na DAL Agro, que
+É uma grande empresa multinacional de
+agronegócio. E ela estava lidando com isso.
+um problema em suas vidas diárias, para obter
+documentos para realizar o
+operações ali no setor agrícola.
+Então ela disse: "Está bem, né?"
+. Se você quer abrir um negócio, eu acho que...
+Isso é um grande problema, não é?
+Então,
+Foi assim que eu acabei, eu acabei
+entrando, sabe?
+Nossa, que ótimo! E me conte um pouquinho
+Afinal, qual é o nosso objetivo?
+aqui? Então, vamos lá. Todos os
+um mundo que vê ali uma posição, um cargo de nível C,
+Às vezes ele acha que é impossível, não é?
+VERDADEIRO? Nossa, como pode haver...
+Você conseguiu alcançar isso? Ah, você tem que
+Para ser um fundador, você precisa criar uma
+empresa. E eu queria entender um pouco de
+Qual foi a sua trajetória profissional?
+até você se tornar o CTO da Docket. E
+Então começamos a falar sobre Docker.
+Além disso, o que eu achei muito
+interessante. O que você fazia antes?
+Processo? Como foi sua carreira em
+tecnologia? Explique-me.
+Excelente. Então, como eu disse, uh,
+Trabalho com tecnologia há mais de 25 anos.
+anos, certo? Desde que eu tinha 11 anos de idade.
+de idade, uh, meu pai era gerente de
+projetos, 25 anos atrás a tecnologia
+Foi algo extraordinário, não foi? Essas empresas de
+consultoria, você deveria saber disso muito bem.
+Bem, eu tinha um desejo por...
+Computadores, por diversão. E não é a mesma coisa.
+do que hoje. Hoje em dia, todo mundo tem um.
+celular, um tablet, um laptop, um
+caderno, certo? Naquela época não era
+Então isso não existia, certo?
+Sim.
+Ah, e eu sabia que isso existia. Então
+Eu convenci meu pai a me comprar um.
+computador e foi muito difícil porque
+Comprar um computador não era uma tarefa trivial.
+Então. Ah, mas felizmente meu
+Meus pais conseguiram me dar um de presente de Natal.
+Quando eu tinha cerca de 10 ou 11 anos de idade; meu
+A vida era usar aquele computador e era
+exatamente na época em que eu estava
+A internet está chegando aqui no Brasil.
+Então, o segundo ponto de
+A condenação foi por usar a internet, que
+É muito diferente do que é hoje, não é?
+VERDADEIRO? Nem sequer existia o Google.
+Nós costumávamos usar, fazíamos buscas naqueles
+lugares como Cade, Aonde, não sei se você
+Você se lembra, eu me lembro.
+E bem, eu disse: "Uau, isso é ótimo!"
+Quero aprender como são feitos.
+sites, como esses sistemas são feitos,
+"Como é que tudo se encaixa aí dentro, não é?" E lá
+Entendi que era HTML e CSS, certo? Para
+Criar os primeiros sites.
+E aí, num domingo, quer dizer, eu ia para o
+Fui à padaria com meu pai comprar pão.
+E antes, não era?, era muito comum ter um
+banca de jornais em frente ao
+padarias. E lá eu vi um livro que
+Ele ensinou como construir os primeiros sites
+web. Então, esse terceiro ponto de
+Convencê-la foi mais fácil, não foi?
+VERDADEIRO? Eu já tinha convencido meu pai
+Antes de comprar o computador, coloque
+internet e, certo?, eu usar a internet
+Você usou a linha telefônica, certo?
+Como se costuma dizer,
+Sim. Sem dúvida, foi uma fortuna.
+Essa fortuna, meu amigo. E o terceiro ponto
+Convencer alguém a comprar um livro
+Essa foi a mais fácil. Alguns
+Passei um tempo estudando aquele livro, comecei a
+Para criar meus primeiros sites, eu ganhei meu
+primeiro dinheiro naquela época porque eu ganhei
+Um site que teve muitas visitas, eu coloquei
+um programa de afiliados que já
+Existia naquela época. Que
+Incrível, uau!
+Em outras palavras, e assim por diante. Então, meu amigo,
+Aprendi muito investigando bastante.
+autodidata. Hum, acho que não há
+Não há genialidade nisso.
+Principalmente hoje em dia, né?, nestes dias
+em que estamos, dos quais existem muitos
+Nos cursos, esse tema tornou-se muito mais democrático.
+de cursos online e coisas do gênero. Então
+Qualquer pessoa pode aprender se quiser.
+Se você tem uma metodologia, escreva um livro.
+Então, mas eu consegui fazer isso sendo
+muito pequeno, porque, meu amigo, eu era meu
+paixão. Eu poderia ter feito
+Outra coisa, jogar futebol, jogar
+videogames, eu poderia ter sido, mas
+Era a minha paixão. Então, foi algo
+natural. Bem, falando um pouco sobre
+a corrida, acho que nunca tinha tido.
+Já conversamos sobre isso, não é? Por quê...
+Acabei aqui, não é? Mas foi
+Engraçado porque, naturalmente, acabei
+Fui para a escola e me candidatei a um curso de ciências.
+Estudei informática e passei um tempo na universidade.
+Aqui em São Paulo, sabe?
+Uhum.
+Só que, cara, foi horrível.
+Na minha primeira experiência, não consegui.
+integrar. O salão estava cheio, não.
+Eu entendi bem os professores, não, não.
+. A língua que ensinavam lá era C
+amigo. Não funcionou. Eu disse: "Amigo,
+"Isso não é para mim." Eu estava indo muito mal em
+Não entendi nada durante as provas.
+Eu estava perdido na vida. Sim, amigo.
+Sim. Quantos anos você tinha?
+Ah, eu tinha 18, 19 anos, recém-saído do
+escola, tipo isso. Oh! Então, você
+primeira experiência na universidade
+Foi um golpe tão forte que você pensou
+que você era mau.
+Sim, foi horrível, cara. Foi horrível.
+Eu me demiti. Eu abandonei a universidade.
+após um ano. Então eu saí e
+Eu disse: "Cara, a tecnologia não é para você."
+"Meu." E depois, o que aconteceu? Hum, ali
+Eu estava perdido e disse: "O que vou fazer?"
+para fazer da minha vida, certo?, aos 18, 19 anos de idade"
+. Então meu pai me deu um
+Eu trabalho na American Express por
+Validar terminais de ponto de venda. QUALQUER
+Então, o vendedor ia até você.
+estabelecimento e eu tive que ligar
+E diga: "Ei, você realmente vendeu para
+Kelvin?" Sabe, algo assim.
+Ou não?
+E, cara, era um trabalho horrível, não.
+Não teve nada a ver comigo. Isto
+Eu odiava isso, acordava e não queria fazer nada.
+Levante-se da cama. Naturalmente eu
+Eles foram demitidos depois de um tempo.
+fazendo isso, porque, nossa, eu odiava isso,
+Você sabe? Mas o que aconteceu foi que meu
+seguro-desemprego naquela época
+Eu cobri minhas despesas, morei com meu
+Meus pais não tinham responsabilidades.
+Então, isso foi o suficiente para eu viver.
+E voltei para o meu quarto.
+usar o computador por 6 ou 9 meses,
+mais ou menos.
+Uhum. Fazendo a mesma coisa que eu costumava fazer.
+Quando eu era criança, quando eu tinha 11 anos
+anos, sabe?
+Mas um dia minha mãe entrou no quarto,
+Lembro-me claramente, ele abriu o
+Ele abriu a porta e disse: "Não aguento mais". "Não
+"Eu aguento mais." Você vai fazer algo com o seu
+vida, você não vai ficar aqui para
+"Sempre." Se talvez ela não tivesse...
+Dado esse choque, você
+Você ainda estaria lá hoje, meu amigo. Então
+é. Então ela disse: "Olha, eu não sei."
+"Se for tecnologia." "Se for tecnologia,
+Voltar para a universidade, estudar outra coisa.
+"Educação ou fazer um curso." Hum, eu sempre...
+Você gostava de música rock, não é? E a música em geral.
+VERDADEIRO? Um dos meus hobbies é
+tocar instrumentos e produzir música,
+Você sabe?
+Brilhante. Você toca guitarra? Eu jogo.
+Eu toco guitarra elétrica e acústica.
+Eu toco baixo e também gravo. Meu escritório em
+A casa também é um estúdio em casa.
+Então ela me disse: "Sabe de uma coisa?
+"É música que você quer?" Bem, vá para
+Ele estuda música, toca à noite, mas
+Sai daqui, vai produzir alguma coisa, tá bom?
+Você sabe? Quantos anos tinha isso? Cerca de 20
+anos.
+Sim, 20 anos. 20 anos de idade.
+Brilhante. Até este ponto, para mim você é um(a)
+pessoa normal,
+amigo. Quero dizer,
+Vamos. E é engraçado porque existem
+Um livro que eu adoro é "O Ego".
+"Ele é seu inimigo", e então ele conta sua história.
+contar a história de uma forma realmente linda, e
+então conta a mesma história de um
+de uma forma que não seja tão glamorosa.
+Então, às vezes, contamos aos nossos
+história e, devido ao tempo limitado,
+Parece que tudo é um sucesso completo, que
+Você é um talento excepcional, um gênio. Mas
+Quando você tiver mais tempo, né?
+Comecei a criar conteúdo no Instagram.
+E eu disse: "Caramba, às vezes é complicado mesmo."
+porque você não consegue explicar o
+As coisas acontecem e às vezes são mal interpretadas, não é?
+Você sabe?"
+Então, vou te contar como foi,
+Entendeu? E bem, ela disse:
+Então, se é música que você quer,
+vá brincar à noite, se vire,
+"Siga em frente com a sua vida."
+E eu disse: "Não, velho, eu sou..."
+Tecnologia, droga!" E lá estava eu
+Perguntei: "O que vou fazer? Como?"
+"Eu vou fazer isso?" Então eu
+Surgiu então um plano: meu pai era gerente.
+de projetos e coordenou uma equipe de
+programadores, pessoas da área de tecnologia que
+problemas resolvidos para um
+processador de cartão naquele
+então. Então ele tinha
+Ah, ele tinha pessoal técnico com
+ele. Então eu disse: "Qual é o
+Qual é o idioma mais difícil e qual deles...?
+"Será que isso abrirá mais portas e tudo mais?" E eu
+Eu me deparei com o Java, sabe? Então eu disse:
+"Eu vou aprender essa droga de coisa." E
+Naquele momento eu sabia que
+A programação web estava crescendo
+bastante. Você está rindo? Você vai
+Entrando na discussão aqui, é? Meu
+Eu adoro, eu adoro. Eu adoro isso, eu
+ama. Olá a todos, eu sou Microsoft L.
+Sim, podemos falar sobre isso mais tarde.
+Porque, bem,
+Vamos lá, e você fez um vídeo que eu
+Ele pareceu muito tranquilo em relação a isso.
+Sim, falaremos sobre isso lá.
+Então, velho, o que foi que...?
+passou? Eu disse: "Não, então é isto,
+"Vou aprender isso aqui."
+E meu pai me apresentou a um cara,
+Eu estava até mesmo verificando aqui se o livro
+Está aqui. Existia um cara que
+Eu trabalhava com meu pai, que era um gênio.
+. Aquele cara era um verdadeiro gênio.
+Tanto que aquele cara, depois de algum
+anos, acabou trabalhando no Google.
+Ele tinha uma posição incrível em
+Google. Brilhante. E ele me deu um livro, aquele.
+Java, como programar versão 5.
+Então ele me disse: "Olha, você vai ler..."
+"Esse." Ele me deu o roteiro, ele me disse:
+"Você vai estudar isso e aquilo."
+Infelizmente, esse cara faleceu há algum tempo.
+Isso me afetou um pouco, mas me afetou muito porque
+Lembro-me disso com carinho, porque não
+Ele tinha um motivo para me ajudar, e ajudou, e
+Isso fez muita diferença, sabe? Meu
+Papai nos apresentou, mas era óbvio que
+Não foi porque meu pai pediu,
+Mas porque ele tinha um bom coração.
+Ele realmente queria fazer isso.
+Sim, eu nunca tinha pensado nisso, talvez.
+É por isso que eu também tenho esse desejo de
+ajuda, sabe? Enfim, conversando com
+Quem está começando, quem está com
+Antes, talvez seja isso, eu nunca tinha feito isso antes.
+pensava assim. Mas ali, ali eu fiz três
+cursos, velho. Fui fazer a lógica de
+programação no SEN, estava no
+SENAI. Eu trabalhei com lógica de programação.
+Com VB, VB6, apenas para aprender instruções IF,
+ELSE, essas coisas, estruturas de dados
+e tudo mais.
+Então eu fui fazer Java, eu fiz um
+curso de Java e depois um curso de Java
+Site para programação, para fazer
+Aplicações web, isso é normal. E ali,
+velho, com aqueles cursos, o guia, o
+livro e meu desejo de tê-lo novamente
+faísca, esse desejo, bem, ali
+Eu desbloqueei tudo, entendeu?
+Caramba, então quer dizer que você é
+uma pessoa normal, só que com um
+uma enorme dose de persistência,
+força de vontade e alguém que
+Ele disse: vá por ali. Amigo, eu sou um
+Não sou nenhum gênio, esse tipo de coisa.
+assim, e é realmente uma loucura porque às vezes
+Nós criamos essa percepção; Eu já tinha esse.
+percepção de que algumas pessoas
+Eles eram gênios assim, sabe, vendo-os de longe.
+lá fora, assim. E assim empreendendo
+Aqui, felizmente, eu tinha o
+oportunidade de conhecer muitas pessoas,
+Assim, muitos empreendedores que, meu amigo,
+Quando falei com ele, caramba!, o cara é
+Isso também é normal, né? Então, para
+Às vezes, criamos tudo em nossas mentes.
+uma fantasia,
+Caramba, uma fantasia, porque o cara
+Ele foi lá e fez isso. E você sabe o que é?
+Muito louco? Às vezes, as pessoas que faziam
+empresas gigantes, meu amigo, e você diz:
+Puxa!, mas ele é um cara normal.
+cara." E às vezes você diz assim: "Amigo,
+Às vezes ele é o tipo de pessoa que, tipo,
+Droga, às vezes sou eu, às vezes é você.
+Você diz, droga, mas eu até penso...
+Então, não vou contar isso para ninguém.
+Mas mesmo assim, acho que sou mais
+Esse cara é inteligente, velho e, o quê?
+Não? E esse cara está ali, certo? Sim,
+É uma loucura, mas eles também existem.
+Gênios como esses. Sim, eles existem.
+Mas é muito estranho.
+Era isso que eu ia dizer. O
+A maioria, e eu já falei com eles.
+Com várias pessoas, é assim: amigo, eu fui
+Pronto, eu consegui, arrisquei e fiz acontecer.
+realidade. E é curioso que quando você,
+Tenho quase certeza de que
+Você passou pela mesma dor que eu.
+quando eu comecei minha empresa. Quando você
+Você corre o risco de fazer isso, pela primeira vez.
+Problema, você olha em volta, amigo, e...
+Quem posso ter aqui para me ajudar?
+Não tem ninguém aqui, vou ter que
+Você tem isso, então terá que administrar.
+E é aí que você começa a
+Transforme-se em algo ainda mais incrível,
+Você sabe? Você começa a evoluir, cara.
+Subir de nível na empresa. Aquilo é
+Isso é ótimo.
+Sim, amigo. Então, outro dia eu vi
+Para um cara no Instagram que disse isso,
+Puxa, não vou me lembrar dessa frase.
+Poderei ver isso aqui mais tarde. Mas é
+Esse tipo de cara, esse é o tipo de cara que ele é, assim, não.
+Eu sabia como ia fazer isso, eu sabia
+que ele queria resolver e foi lá e resolveu.
+fez. E lá está ele, ele consegue.
+Então, sabe? Mas você sabe o que é?
+Incrível, cara? Então, foi aí que eu senti
+"Preparado", eu disse, "Ah, vou fazer um
+Estágio, certo? "Vou entrar, vou para"
+Voltando ao mercado, vou te contar uma coisa.
+Uma história realmente interessante. Então, uh
+Só para me situar, o que eu tinha que fazer? Alguns
+21 anos e ainda não estou no
+universidade.
+Sim, eu não estava, eu não estava no
+Na universidade, eu estava apenas fazendo
+cursos. Então, eu ia fazer o curso,
+Eu estava voltando, já havia passado muito tempo longe de casa.
+em casa, e minha mãe estava mais calma,
+Porque eu estava, certo?, produzindo.
+Embora quando eu ficava em casa,
+Ele também estava perdendo tempo, não estava fazendo nada.
+Sem chance. Mas ele também estava estudando.
+Eu sempre fui curioso, nunca deixei de ser. Não
+Eu sei, eu nunca fui descuidado, fui?
+Eu estava sempre estudando, sempre, né?
+Não? Mas como você explica isso para ele, não é? Que
+Você não está perdendo seu tempo, você está
+É isso.
+E então, cara, é verdade.
+Na casa dos vinte anos, procurar emprego era
+completamente diferente. Nem mesmo
+Eu me lembro de como era. Acho que foi porque
+Era classificado. Você se lembra?
+APinfo? Chegar.
+E aí, APinfo, meu amigo. Era a APinfo.
+amigo. Enviei muitos currículos,
+demônios. Era verdade. APinfo, mantenha
+Seu currículo atualizado. Oh. É
+Certo? Havia aqueles que eram mais
+Genérico para todos os tipos de trabalho.
+O APinfo estava lá,
+E o APinfo era voltado para o pessoal de TI.
+Então, era um, bem, era um mercado,
+Nossa, isso é verdade. Ali.
+Que lugar feio era aquele, mas era.
+Funcional demais.
+Então veja, meu amigo, veja só
+Isso nos ensina, o quê?
+Aprender, certo? Às vezes você vai e
+Muitos sites tentaram competir,
+mas o APinfo para tecnologia era
+onde os programadores, as pessoas de
+tecnologia, ele queria colocar o seu
+currículo, e era aí que eles estavam procurando, certo?
+Sim, foi assim mesmo, meu amigo. Que maravilha.
+E então, meu amigo, bem, eu consegui
+uma entrevista em uma empresa
+Software de RH HH. , na folha de pagamento,
+Eles cuidavam da folha de pagamento, esse tipo de coisa.
+. E amigo, eu fui lá, fiz o teste,
+Fiz a entrevista e passei da primeira fase.
+. E o cara gostava de mim, ele disse: "Cara,
+Esse garoto, nossa, esse garoto, eu vou...
+"Contratem esse cara." Acho que ele
+Eles gostaram da fome que eu tinha, não é?
+O brilho nos meus olhos que retornou
+ter.
+Perfil empreendedor, sempre.
+perfil empreendedor e, cara, eu me saí muito bem em
+Estudei para a prova porque eu era assim.
+sério, e depois isso desapareceu.
+Tive um bloqueio no primeiro.
+faculdade. Eu disse: "Cara, mas isso é..."
+"Simples para mim." Agora entendi.
+Eu entendi como isso é feito.
+É, então, cara, eu fui contratado, e
+É aí que minha carreira começa, certo? Nossa, nossa
+caminho.
+22 anos, mais ou menos. 22 anos de idade.
+22 anos de idade. Sim, 21, 22, 700 reais meu
+primeiro salário. Oh. O meu também.
+Foi assim mesmo, triste, né?
+São 700 reais. E com 200 por segundo
+Eu já paguei uma guitarra em prestações este mês.
+Eu queria muito, passei uns 10 meses pagando.
+a guitarra.
+E, cara,
+Cara, isso foi há 15 anos. É isso.
+Você tem 37 anos.
+Isso mesmo.
+Mas aí, cara, mas aí,
+Com licença, só... quanto custa qual deles?
+Qual é o valor de mercado da Docket hoje?
+Cara, temos uma avaliação para fazer.
+Temos uma avaliação a fazer. Não, não ela.
+Nós divulgamos isso, mas, uh,
+Isso é muito dinheiro.
+Sim, vou te dizer, pense nisso.
+Próximo, cara, quando nós
+E eu não vou, não posso dizer, mas, mas
+Mas, ei, deixe assim mesmo. A questão é
+o próximo. Hum, não divulgamos o
+valor, mas se você fizer o cálculo,
+Você vai conseguir algo parecido, certo?
+Porque arrecadamos 150 milhões
+Na verdade, na última rodada havia 120.
+milhões. Se conseguirmos arrecadar essa quantia, é isso.
+Só um pouquinho, né?
+Essa é uma parte, essa é uma parte de
+a avaliação, então valemos mais
+É isso mesmo, né? Muito mais do que isso,
+VERDADEIRO? Mas, mas o ponto é
+Interessante, então podemos conversar sobre
+coleção, é esse homem que me
+Ele foi contratado como estagiário naquela época.
+Ele é o meu diretor de tecnologia, que está aqui hoje.
+E ele é um cara que está por aí há seis anos.
+Aqui, ele é um dos mais pró-cultura.
+que nós temos, que
+É um cara de quem eu gosto muito, cara.
+Da mesma forma que Davi, aquele que me
+Ele me deu o livro, este é outro, cara, é o
+segunda pessoa a quem devo mais
+na área. E veja bem, a verdade é que,
+O empreendedorismo tem seus altos e baixos, mas
+Há muitas coisas que me fazem feliz, e
+Ei, trabalhar com esse cara é uma maravilha!
+É uma loucura, sério. E esse cara trabalha
+Aqui, ele trabalha ao meu lado, ele não é
+Aqui estou agora, mas trabalhe ao meu lado e,
+Bem, eu sou uma pessoa de estatura alta.
+prazo, sabe? Quer dizer, eu acho que o
+Coisas, relacionamentos, bem, você sabe.
+Às vezes, as pessoas chegam com muita coisa
+intensidade e já diz: "Ei, eu quero ser
+"Parceiro, eu quero opções de ações."
+Calma aí, cara! Vamos por partes.
+Vamos por partes.
+Eles querem entrar direto pelo
+janela, aqui.
+Eles querem tudo, chegam e nem sequer...
+Eles apertaram as mãos e já querem se casar.
+Olha, eu sou muito...
+Reciprocidade, e iremos longe.
+Mas nós vamos construí-lo.
+É lógico.
+Não faz sentido querer pular etapas.
+A pressa é inimiga da perfeição, tudo tem seu tempo.
+Conhecendo-se, namoro, noivado e
+Então, o casamento, não é isso mesmo?
+Olha, eu concordo com você e o quê?
+Sinto muito, é que as pessoas, as
+Os jovens, principalmente, estão criando
+muita fantasia em torno do
+startups. Em outras palavras, eles acham que é simplesmente
+ganhar rios de dinheiro. Pessoas, ele
+Ele levantou 150, como você disse, 150.
+milhões. Foram 150 milhões de reais
+. Você não tem ideia do que
+devem ser responsabilizados,
+Sim,
+por esse valor.
+Isso ocorre porque, ao captar recursos, abrir
+um parêntese, antes de mais nada é
+incrivelmente difícil de obter
+dinheiro, em si mesmo.
+Em 2021, parecia que todo mundo
+Ele angariou dinheiro. Você abriu o Brasil
+Anotar tudo em um diário, certo? Nele
+Sempre havia uma startup que era
+um unicórnio ou alguém que arrecadou milhões.
+Havia 10 potenciais unicórnios emergindo.
+toda semana. Foi incrível.
+realmente. É muito difícil de levantar
+capital, sabe? Eles vão te perguntar:
+Qual é o seu mercado? "Exatamente. E mais uma."
+Isso é algo, não é? Para um fundo
+Aplicar essa quantia de dinheiro, o
+O mercado precisa ser muito grande.
+Porque, caso contrário, não há como crescer.
+Por esse dinheiro. Esse dinheiro deveria
+retorno multiplicado para quem
+Ele investiu, não investiu?
+Exatamente,
+tio. Esse dinheiro não vai para o nosso...
+bolsos, esse dinheiro vai para o caixa
+a empresa para financiar a
+Inovação, sabe? Investimento no
+equipe, crescimento, esse tipo de coisa.
+E bem, irmão, nós captamos capital.
+com os melhores fundos da América
+Latina, sabe? Na última rodada
+Arrecadamos fundos com o Bradesco, porque
+exemplo.
+Brilhante. E bem, ele é super diligente.
+Você tem um conselho, uma diretoria que você
+Você é responsável, e não se trata apenas de comparecer e...
+Para sermos responsáveis, realizamos auditorias com
+uma empresa externa, uma das Big Four, para
+para justificar que somos diligentes com o
+dinheiro.
+Então, é um processo, é algo super
+Complexo, sabe? Às vezes as pessoas
+Ele diz: "Ei, quero captar recursos."
+É como uma banda de rock. Ah, eu quero
+Eu sou, eu tenho minha banda, eu preciso de uma
+gravadora, irmão. E antes
+Parecia que sim. Ah, eu quero,
+Quero abrir um negócio e preciso ter um.
+gravadora. Preciso levantar
+capital. Não, você não precisa levantar.
+capital. Você deve saber que depois
+que você levante capital, sua vida nunca
+Tudo volta a ser como antes, porque você
+Eles exigirão hipercrescimento e
+responsabilidade.
+Não, as pessoas pensam o seguinte: "Ei,
+Vou arrecadar 10 milhões aqui e
+"Vou comprar um Porsche amanhã."
+Sim. Quem me dera fosse assim, irmão. É
+Porque eles veem isso. Eles não sabem nem
+Eles sabem como funciona.
+Mas você disse algo interessante: no
+Durante esse período de abundância de capital, o
+mercado de desenvolvimento tecnológico
+Ele enlouqueceu. Quando foi isso? 20, 21, 22
+, praticamente 23 anos desde que começou. Não,
+Acho que até meados de 2022. Sim.
+Ele ficou louco, porque você tinha
+desenvolvedores, programadores, que
+tinha acabado de se formar na faculdade ou não?
+Eles tinham entrado, mas não sabiam o que fazer.
+Eles ainda estavam indo bem e já queriam ganhar dez jogos.
+mil.
+Era isso que você ia dizer. O padrão
+Eram dez mil.
+Dez mil assim. Como? Dez mil.
+Sim. E as pessoas estavam entrando, irmão,
+Eles entravam e saíam no dia seguinte.
+porque eles tinham uma oferta maior e não
+Não deixaram nada. Amigo, vou te contar uma coisa.
+Tem algo aqui, veja. Não, eu vou te contar
+Isso mesmo, irmão. Vou te contar a maior delas.
+Aprender sobre... Você quer saber o
+A maior lição da minha vida? O melhor
+um conselho de ouro que posso dar para
+Alguém na área da tecnologia, algo que poderia
+tendo sido o fim da minha carreira e
+Acabou sendo apenas o começo. Qual,
+amigo? Fui contratado por esse cara
+que trabalha aqui comigo desde que ele era
+estagiário, e eu tive uma carreira em
+quase 10 anos trabalhando também em
+multinacionais e startups. Eu sempre disse
+O melhor de mim, sempre, meu amigo. Não
+Estou falando de continuar trabalhando até...
+De manhã cedo, meu amigo. Dê sempre o seu melhor.
+De mim. Sempre que possível, ele
+Mais um pouco. Ele estava sempre disposto
+Para ajudar, de verdade. E eu nunca fui embora.
+ninguém pendurado, ao contrário do que
+Vi muita gente passando, essa coisa de gente.
+Ele pula de um lado para o outro e diz: "Ei,
+"Que se dane, vou cuidar do meu próprio negócio."
+Então, não estou dizendo que ele não se comprometeu.
+erros, mas esta carreira de 10 anos,
+Sinceramente, sinto muito orgulho.
+Eu agreguei muito valor, construí muitas coisas.
+relacionamentos e uma boa reputação.
+Quando fomos captar recursos,
+Nós arrecadamos fundos com a CASEC, sabe?
+que são os fundadores do Mercado Livre
+É basicamente o maior fundo.
+Da América Latina, certo? Eles
+Eles investiram no Nubank quando ele ainda era apenas...
+Uma apresentação em PowerPoint, para você ter uma ideia.
+Oh. Então, quando eles foram para
+invista em nós, porque nós
+Nós os encontramos lá e eles disseram: "Que legal!"
+"Vocês são demais, que time incrível!" Eles eram
+Para conversar, eles foram fazer o que era certo.
+Nossa diligência, a dos fundadores,
+porque na fase inicial de um
+Uma startup é muito mais do que um negócio de
+Pessoas que têm um negócio, é isso mesmo?
+Não? Porque
+Resumindo, nem sequer tem história.
+Sim, não tem história. Que
+Que problema você vai resolver? O produto
+pode mudar, pivotar, que é o que
+aprovado. Então, vou investir em
+Em quem eu confio.
+Ali, quando foram capturar aquele primeiro...
+Dinheiro, só um breve parêntese, ok?
+Eles tinham um MVP pronto?
+Sim, nós já tínhamos feito isso, nós já tínhamos
+um pronto. Oh. Ah, entendi. Brilhante.
+E então, o que acontece? Eles foram para
+Fale com todos os nossos antigos chefes,
+ex-colegas, pessoas que
+Eles trabalharam conosco, meu amigo. Eram
+Para falar com todo mundo, todo mundo, todo mundo
+os chefes e com as pessoas que
+Eles trabalharam conosco. E aqui está,
+Essa é a lição mais importante, meu amigo. Sim
+Eu teria tido uma carreira como,
+Droga, é mesmo? Eu estraguei tudo, deixei tudo nas mãos do
+Se houvesse pessoas deitadas por aí, eu não estaria lá.
+Estou conversando com vocês aqui hoje porque
+Eles dizem: "Cara, eu não vou investir em um
+cara que vem, que consegue me agarrar
+dinheiro e dizer, droga, eu não quero mais.
+Então, vou fazer algo diferente da minha vida.
+"Então o conselho de ouro é..."
+Cuide da sua reputação, pelo amor de Deus!
+O amor de Deus, então, irmão, pelo
+O amor de Deus, assim, não, eu não sou.
+dizendo que você deveria se casar com a empresa e
+Você fica lá para sempre, mas
+Irmão, seja assim, seja eh
+Seja transparente, entregue o melhor.
+Trabalhe, comprometa-se, apresente-se.
+Dê o seu melhor por você mesmo, irmão. Por
+Não se trata de você, mas sim da empresa.
+irmão. Porque ao fazer isso, ao fazer
+Isso, você, se eu não tivesse feito isso,
+Eu não estaria aqui. Essas pessoas diriam:
+Não, eu não, pelo amor de Deus, não desse jeito, esse cara
+Ele estragou tudo desta forma,
+Eu não sei o quê." Eu não estaria lá, eu não estaria.
+teria levantado. E depois disso você
+Isso bateu o recorde, certo? Porque
+Se você errar com um, você erra.
+com outro e geralmente apenas
+Você continua acumulando.
+E então, o feedback foi... O
+O feedback dos meus antigos chefes foi muito bom.
+dos ex-chefes de Pedro e Flávio,
+que disse: "Cara, nós não
+tínhamos uma história que também
+Era algo muito cobiçado, não era? ". Como,
+Ah, uma universidade fora, um MBA fora.
+uma carreira em consultoria. Mas foi
+O feedback das pessoas tem sido muito bom.
+que havia trabalhado conosco que
+Eles disseram: "Pessoal, vamos investir."
+"Em você." E então eles investiram.
+Então, quando eu falo com ele
+equipe de tecnologia, com as crianças:
+Pessoal, o mercado é atraente, compensa.
+muito bom. Mas então, por amor
+Deus, proteja a sua própria jornada,
+porque nessa ansiedade de querer crescer
+Rapidamente, você comete um erro, e, meu amigo, isso...
+A conta será adicionada posteriormente.
+É verdade. E você conhece os rapazes
+Parece, irmão, que é isso mesmo.
+A ansiedade em relação a ganhar dinheiro é absurda. ?
+E você sabe como eles fazem isso? Eles entram aqui.
+Bom. Eles ganham 8000.
+Eu vi.
+E eles já estão começando a enviar currículos com
+10, reivindicação de 10. Ele chamou três
+meses, já se passaram dez meses. Pessoal, não é
+sustentável. Não é sustentável. É um
+além disso. Ou seja, se eles te pagarem dez, se
+Eles te pagam quinze, vinte, independente
+Eles vão te cobrar de volta o que te pagaram.
+. Se você não tem o perfil, se você não tem
+a experiência para manter o ritmo,
+Acabou, meu amigo. Acabou.
+Exatamente. Por exemplo, nós
+Não contratávamos aqui naquela época, não.
+Eu disse: "Amigo, eu me recuso, porque eu não..."
+Não tenho problema nenhum em pagar dez mil
+"Nós pagamos, cara, muito mais."
+Um brinde aos desenvolvedores e aos cientistas.
+De qualquer forma, eu pago. Mas o pagamento baseado em
+É isso que espero em troca.
+Agora, o mundo enlouqueceu tanto que
+Às vezes, durante a entrevista, ele fazia duas coisas.
+perguntas básicas sobre estruturas
+dados".
+Acabou.
+orientado a objetos, o tipo não
+sabia. Eu estava dizendo: "Por que eu faria isso?"
+Contratar esse cara? Será que vou queimar o
+dinheiro que eu trabalhei tanto para juntar
+Assim? Então nunca
+Nós queríamos, e isso foi muito bom porque
+Isso sempre contribuiu para fortalecer a cultura.
+Mas sabe o que sempre tivemos?
+aqui?
+Eu estava dizendo isso
+Uma das coisas que me dá muita
+Foi um privilégio trabalhar com esse cara.
+Neuri, sabe? E outra coisa sempre foi...
+encontrar pessoas no início de suas
+Corra com fome e seja o terreno.
+para que essas sementes possam prosperar aqui,
+Você sabe? Amigo, tenho vários casos.
+aqui de pessoas que entraram como
+estagiário ou júnior e hoje é sênior,
+Ele é um líder técnico, porque nós passamos para...
+Crescendo juntos, sabe?
+E isso me deixa muito feliz porque
+Eu construí uma empresa onde ajudo o
+pessoa para construir uma carreira aqui. Há
+pessoas que estão aqui há seis anos,
+homem.
+Legal. Que.
+Isso demonstra a força da cultura.
+da empresa. Quando você começou?
+Não, nem vou perguntar sobre isso.
+cultura ainda. Quero voltar.
+Então, em 2022 você teve seu primeiro
+Estágio, meu amigo. Praticamente em 22
+...ah, 2022, aos 22 anos, você teve seu
+Primeiro estágio em Java. E quando
+Você voltou para a universidade?
+É isso aí, é isso aí. Essa é uma boa pergunta.
+Então, quando eu fui, quando Neuri me
+Ele foi contratado lá, era um estágio.
+Não? E eu não estava lá.
+universidade. Então, o que é isso?
+O que está acontecendo? Não importa o quanto eu pensasse
+Eu já sabia que não ia conseguir.
+Eu trabalharia mesmo se não tivesse o diploma ou
+O estágio, certo? Então
+Não havia jeito, porque era algo que RR
+. HH. Eu precisava disso. Então eu disse: "Uau!"
+"Preciso voltar a estudar."
+Depois fui fazer o FIAP aqui em São
+Paulo. Você é mesmo formado em...?
+FIAP? Eu também sou da FIAP.
+Trata-se de análise de desenvolvimento de software.
+amigo. Você não sabe, eu peguei, irmão.
+Sim, frequentei a universidade de 2006 até...
+2008,
+irmão. Eu sou um filho da [ __ ]. Porque
+ali, ali, ali. E o que é isso?
+Isso acontece? Eu não me formei porque fiquei
+com uma questão pendente. Adivinhar?
+Adivinhe do que era feito o material?
+Assunto de quê?
+Empreendedorismo.
+Caramba,
+Droga. Isso é uma piada, cara. E
+Então, amigo? E o que aconteceu? Quero dizer,
+amigo, passei vários anos sem, eu disse,
+Eles vão me expulsar daqui? Mas em
+Em certo momento, quando precisei, eu disse: "Não,
+"Vou voltar." Então ele ia,
+Eu fui, eu fui, eu fui fazer aquele curso sozinha, aquele curso.
+material para terminar e obter o
+diploma. Você acredita nisso? Quando?
+Ah, amigo, foi cerca de dois anos depois.
+mais ou menos,
+Cara, isso é incrível. Você, por ter
+fez isso com você, com a sua educação
+Superior, como está o seu processo hoje?
+de contratação? Você valoriza o
+Ensino superior? Você acha que é isso?
+Ainda é um estigma que persiste nos dias de hoje.
+principalmente no mundo de
+Tecnologia e startups?
+Olha, é assim mesmo, eu recomendo que se
+Você pretende seguir carreira na área de tecnologia.
+Recomendo que você vá para a universidade.
+Uma carreira assim, sabe? EU,
+Hum, vou parar de te contratar porque
+que? Eu não farei isso, mas serei muito mais
+rigoroso. Então a questão é
+A seguir: se você não está me justificando
+que você pode, uh, me provar que é a mesma coisa.
+À equipe em que investimos. Mas
+Você é um ex-consultor se não tiver um diploma de Harvard.
+Stanford ou MIT, posso confirmar sua informação por outra fonte.
+forma. Se a pessoa não tiver
+Vou validar minha universidade aqui.
+outra maneira.
+OK. Concordo com você. Mas
+Bem, meu amigo, dentre as pessoas que têm
+trabalhou e trabalha conosco aqui
+Acho que nunca houve ninguém que não...
+Eu fui para a universidade, sabe? Sim.
+Sempre houve. E boas universidades,
+FATEC, universidades; Tenho muitas pessoas
+do nordeste, da parte federal de lá,
+então,
+Bem, de qualquer forma, eu recomendo, sabe?
+Não sou contra. Muito pelo
+contrário.
+Concordo. Acho que é
+Bem, é um desafio que você precisa enfrentar.
+alcançar; Não é porque eu vou te obrigar
+melhor programador ou algo do tipo, para
+contrário. Mas veja, isso mostra o quanto
+Você estava determinado a terminar
+Isso porque é tedioso.
+Meu Deus. Se eu fosse para a universidade,
+Eu já era excelente em programação e
+Eu ainda tinha que ir para a universidade,
+Era possível que eu...
+E hoje em dia as pessoas não querem, não é?
+Certo, amigo? Eles querem ver cursos em 2x
+Eles querem assistir a vídeos curtos. Então,
+também em meu papel como arquiteto de
+software em...
+E isso também mostra, não é?, que o cara
+Quer dizer, bem, ficou lá, ficou.
+Comprometido, disposto, investido tempo,
+amigo, e será valioso, você aprenderá,
+Você conhecerá outras pessoas, você criará
+contatos, então,
+É importante, meu amigo. Então,
+Sim. E na sua carreira, você seguiu o
+Você estava trilhando o caminho de qualquer programador.
+júnior, plenário, sênior, o quê?
+Especialista em Java.
+Que. Sim, foi assim mesmo, meu amigo. Você passou para...
+Arquiteto de software, você foi para outro,
+Então, como foi que as coisas correram por lá, hein? Eu... lá
+Tem uma história engraçada por trás disso, não é? Porque
+Então fui trabalhar com Neuri, ?
+Você sabe? E passei um ano lá em Santa Mônica.
+que era uma empresa, como eu lhe mencionei,
+Não? Folha de pagamento, gestão de RH. HH.
+E eu disse: "Ei, eu quero uma promoção,
+"Tipo, eu não sei o quê." Eu sempre cumpri minha palavra e
+É verdade, mas a empresa estava numa situação um tanto difícil.
+Eles já haviam feito vários cortes,
+Então eu disse: "Vou sair e procurar por isso."
+uma vaga júnior." E eu fui para uma
+Consultor para trabalhar em um banco.
+E lá, meu amigo, eu passei pelo processo de
+A escolha para Java, certo?, que foi a
+Era isso que eu queria. E eu, meu amigo, sinto
+paixão pela linguagem, portanto,
+amigo. Cheguei no primeiro dia, foi um
+Eu estava em um cubículo para quatro pessoas.
+aqui, e havia três pessoas aqui,
+Aqui e aqui, sabe? Olhei para um lado.
+Olhei para o outro e disse: "Ei, este aqui."
+Eclipse parece diferente, não é? E eu não sei
+"O que?" Acontece que fui contratado para
+.NET, cara. E eles não me disseram nada. E eu disse:
+Puxa, o Visual Studio está ali.
+"Que truque sujo." Então eu disse,
+Bem, de qualquer forma, eu consegui." E se
+Achei ótimo.
+"programa".
+Sim. Bem, havia um naquela época.
+Não sei qual era, não sei se era ASP.NET.
+Era semelhante ao JSF que era
+Saindo do Java. E bem, pelo menos foi o que me pareceu.
+Fácil, mas eu sempre tive essa mentalidade.
+querendo aprofundar-se em apenas uma coisa,
+Eu não quero aprender mil coisas, quero?
+Entendeu? E acho que isso é importante.
+Porque senão, alguém vai dizer: "Uau!"
+E agora estou com dúvidas, é um ponto de
+Preste atenção quando alguém disser: "Ah,
+"Eu programo em cinco ou seis linguagens."
+É como alguém que diz que fala cinco ou...
+Seis línguas, veja só, ele fala inglês muito bem.
+Em detalhes, e isso basta, certo?
+É verdade.
+E foi aí que eu disse: "Não, isso não vai acontecer."
+"trabalhar". Fiquei lá por três meses.
+Mas o outro treinador do primeiro time
+A startup tinha ido para o Controle aqui.
+Em São Paulo. Verificar. Você sabe
+Verificar? Aquele que fez a inspeção.
+veículo aqui. Foi um desafio
+incrível porque era
+controlar e realizar a inspeção
+tráfego de veículos de cerca de 7 milhões
+veículos daquela época. Então foi assim
+algo bastante grande, tinha que ser
+controlar os centros de inspeção.
+Se você cometeu um erro, você causou
+trânsito e você apareceu no noticiário. Era
+Alguma coisa, né? Aqueles que precisavam ser processados
+guias de pagamento. Então foi um
+Um desafio muito bom. E aquele técnico de
+A primeira startup me levou até lá.
+Entende? Porque ele havia construído
+um bom relacionamento no início
+empresa. É assim que eles se conectam.
+os pontos.
+Fazer networking é fundamental, não é?
+Fazer networking é fundamental. Então,
+Eu trabalhava lá. Então eu fui para
+Telefónica, então eu sempre fui
+Trabalhando em vários projetos
+complexos. Eu nunca gostei muito de fazer coisas
+CRUD, sabe?
+Eu sei, eu sei, eu sei, eu sei. Ele é especialista em
+Isso mesmo, irmão. quem assume o problema e
+Ele explica tudo detalhadamente. Eu sempre gostei também.
+que.
+Sim, e bem, em Control eu já comecei a
+Para realizar trabalhos mais avançados,
+Ele fazia coisas mais complexas. Por
+Por exemplo, todo o sistema de pagamento.
+Eu consegui.
+Brilhante.
+Então você tinha um carro lá e
+Houve uma época do ano em que
+Você precisava fazer a inspeção do veículo.
+Para fazer isso, você tinha que pagar um
+bilhete. Então eu criei o sistema.
+completo. E o que estava acontecendo, meu amigo, era que
+Foi incrível. Sinceramente, isso me faz sentir...
+Parecia inacreditável.
+que depois que o carro passou pelo
+inspeção, eles estavam colando um adesivo que
+Tinha um código de barras na parte de trás e
+todos os veículos de São Paulo
+Eles tinham aquela maldita etiqueta e eu...
+o sistema que imprimiu isso. Então
+Eu entrava nos carros e dizia:
+Droga, eu mesmo fiz isso."
+E isso, meu irmão, me parece uma loucura.
+É assim mesmo.
+Essa é a paixão do programador.
+amigo. Também.
+Às vezes nós, bem, ele tem um
+Aqui está o software de controle, certo? que
+Gerencia documentos, licenças,
+licenças, contratos, esse tipo de coisa, para
+Por exemplo, não sei, Drogaria São Paulo
+usar. Então, se você for a qualquer
+Drogaria São Paulo, você verá licenças e
+permissões controladas pelo Docket. E,
+Caramba, estou muito feliz, cara.
+Uau, eu construí algo, nisso.
+Ele já estava feliz naquele momento e disse: "Velho homem
+Eu desenvolvi um software que vejo em
+"Para onde quer que eu vá." Hoje
+Eu construí uma empresa, vou para o
+farmácia e às vezes eu digo: "Uau, minha
+"Companhia, que incrível, irmão."
+Isso é lindo. Pior ainda, é verdade,
+irmão. Não há nenhum sentimento que compense.
+que. Não existe quantia de dinheiro que possa comprar um.
+uma sensação como essa.
+Sim, cara. E veja bem, eu me considero um
+Gosto de construir, de criar e de ser um construtor.
+ver pessoas usando o que você
+Você construiu. Caramba, irmão,
+Você é o homem da criação.
+Sim, irmão, da construção civil, assim mesmo.
+Lindo.
+Então, eu gosto de construir e observar o
+pessoas que o utilizam, para empresas
+Usando-o, resolvendo problemas, eu
+Parece incrível. E qual era o
+ponto de virada quando eles te ligaram
+Como montar o processo?
+Sim, bem, foi assim mesmo, meu amigo. E somente
+Ter um cronograma. Oh, oh
+Bem, eu saí de lá, eu saí.
+Para controlar, fui trabalhar em
+Telefónica, para criar sistemas complexos
+da integração central, blá, blá, blá
+Depois fui trabalhar na editora.
+Abril. Então, a editora Abril
+Eu estava digitalizando, fazendo um
+transformação digital, sabe,
+Havia muita demanda para a criação do clube.
+assinantes e coisas do gênero. Brilhante. E
+Essa, meu amigo, foi minha última experiência.
+em uma empresa multinacional. Depois
+Entrei para uma startup.
+Nossa, isso é loucura.
+E foi na Clicon que eu fui trabalhar.
+Clicon era como um concorrente do Peixe
+Urbano e Groupon, compras em grupo
+Excelente. Só que foi realmente uma loucura porque
+Olá, antes de mais nada, eu era usuário do
+plataforma e você sabe aquela coisa do "[ __ ]"
+Quero trabalhar nesta empresa porque
+Quero entender como funciona.
+"Sistema e tudo mais, e o que mais for."
+Quando cheguei lá, eu disse: "Caramba,
+"Que legal, que startup incrível e tudo mais."
+Fiquei impressionado. Disse:"
+Amigo, é isso que eu quero para mim.
+vida." Empresa de tecnologia, isto
+um tipo de cultura mais informal, mais
+juventude, construção, trabalho
+Noite, madrugada, totalmente viciado.
+Mas, meu amigo, quando cheguei, o sistema
+Meu Deus, ele era da Alemanha, ele era
+, uau,
+Lixo puro,
+Esse tipo de sistema indiano que eles compram
+Aqui, eles o exibem e dizem que é...
+O melhor de todos. Sim, mas eu fiquei.
+Passei 3 anos lá, meu amigo, dei tudo de mim.
+E foi ótimo, porque eu conheci
+Investidores, eu fiz um bom trabalho de networking,
+Eu entendi como a cultura funcionava.
+uma startup, de uma empresa de
+tecnologia. Clicon,
+Alcançou a 26ª posição no ranking.
+Visitante vindo do Brasil.
+Nossa, cara, isso foi uma loucura.
+pontos de acesso.
+Isso é loucura. E naquela época, não.
+AWS, Azure e outras coisas do gênero não existiam naquela época. Então
+que,
+infraestrutura básica, nós construímos
+Sim, tudo bem, amigo. Compramos os dados
+ao centro, nós ligávamos e dizíamos: "Ei,
+Alugue-me mais duas máquinas além desta.
+E a máquina continuou ligada.
+Cara, escuta. E imagine operar no dia 26.
+site mais visitado e
+Parece que foi há tanto tempo, não é?
+Mas o que era aquilo? 2014? Não, isso é...
+Não, meu amigo, isso foi em 2008, 2009.
+2009 também já faz muito tempo.
+Que loucura. E isso é para você ver, ou
+Em outras palavras, essa escalabilidade não existia.
+Amigo, foi, meu Deus. E essa era a grande expectativa,
+Não? Eles estavam vendendo, sei lá, 100.000.
+cupons por dia. Era um negócio
+Uma loucura dessas. E o comércio eletrônico tem algo a ver com isso.
+que é que a cada segundo você está
+Lá fora, você perde milhares, então, irmão.
+Bem, não.
+Sua disponibilidade não estava lá.
+Então, aprendi muito lá. E lá
+Foi aí que eu disse: "Ei, quero abrir um negócio."
+"Quero construir minha própria empresa."
+E foi aí que, no meu tempo livre, em
+noites, fins de semana, tempo
+De graça, comecei a fazer meu primeiro
+software em casa. Eu criei um software para
+agendamento para salões de beleza,
+Isso porque ela detestava ter que ligar.
+por telefone para agendar um corte de cabelo.
+cabelo. Eu disse: "Não, vou fazer um onde..."
+Entro no salão, escolho o cabeleireiro,
+"Vou reservar e pronto", entendeu? Cara,
+Eu construí todo o sistema e me deparei com
+vendas. Eu não sabia vender desse jeito, sabia?
+Você sabe? Quero dizer,
+Não sei,
+Mas eu criei todo o sistema. Mas
+Foi assim, meu amigo, que aprendi a fazer isso.
+faço as coisas por conta própria. Esta história
+Entrarei em contato mais tarde.
+Só que naquela época existiam coisas como
+2.000 sites de compras coletivas em
+Brasil. E então, eu fiz uma carteira, uma
+carteira onde você comprou coisas no Groupon,
+No Peixe Urbano ou no Clicon, você poderia
+centralizar tudo no meu portfólio para
+Você não tem nada a perder, sabe? osso.
+E eu até tinha usuários, eu tinha
+concorrência e eu consegui vender essa empresa
+para o concorrente, essa empresa.
+Sério, cara, você construiu um
+software para criar a carteira e
+Você conseguiu vender, você conseguiu lançar
+O produto?
+Lancei o produto e depois houve um
+concorrente, o meu se chamava Jun de
+Cupons e a organização do concorrente, e
+Os caras disseram: "Não, nós queremos
+"Compre." Eu disse: "Ah, perfeito, o
+"Eu vendi." Eu saí de fininho, cara.
+Isso é intenso.
+Trabalhar na Clica, obviamente, né?
+Uma empresa super pequena, com certeza, mas,
+Sim, já sou fundador pela segunda vez.
+Você está vindo...
+E você não sabe, mais tarde eu me tornei
+Empreendedor da Endeavor e do tipo que
+A empresa que ele comprou também era
+Empreendedor da Endeavor; uma vez que fomos para
+Íamos participar de um programa do Google lá.
+em um hotel em um fim de semana que nós
+Eles convidaram. Eu disse a Pedro: "Pedro, há
+"Um cara ali que comprou minha empresa."
+Ele disse: "Irmão, como é que ele comprou?"
+Sua empresa? Você já tem uma empresa, você vendeu.
+"Não sei o quê." Eu contei para ele, e lá ele
+Eu te contei essa história.
+, velho. Estávamos almoçando, o cara
+Ele sentou-se à mesa em frente à minha. Você
+Eu disse: "Ei, você se lembra de mim?"
+Você comprou minha empresa e eu não sei o quê.
+"Cara, a cabeça dele explodiu e espalhou tudo."
+o mundo.
+Mas enfim. Então eu fiz outros,
+Tentei fazer um, houve um que eu fiz que
+Seu nome era Idu, que significava gerente.
+fotos de casamento antigas. Eu tentei fazer
+Muitas coisas, mas me deparei com
+vendas e eu disse: "Eu não sei como vender, para
+Droga, então eu desisti disso.
+Deixe-me trabalhar, vou trabalhar em um.
+"Comece." E naquela época já era como
+um líder técnico, um líder técnico, já
+Eu tinha uma equipe de gestão de
+desenvolvedores e coisas do gênero.
+Nesses seus projetos de desenvolvimento malucos,
+Em que medida isso mudou sua opinião?
+irmão? Então, você se tornou uma estrela.
+Mais crack.
+Cara, eu aprendi muito graças a você.
+Você tem que fazer tudo, sabe? Frente, costas,
+design, uh, DBA, infraestrutura, tudo, tudo,
+Irmão, quero dizer, tudo, compre, tudo,
+Faça tudo. E eu, para ser honesto, me virei.
+Muito bom nisso. E então eu disse: "Não, não."
+"Eu quero." E então, bem, eu fui para
+Trabalhando em uma startup chamada Zaking,
+que era onde Pedro trabalhava, que era
+um cashback que funcionava dentro do
+Leitor de cartão Rede, mais ou menos.
+Então você foi, quer dizer, foi isso que eu disse.
+Sempre quis trabalhar em projetos.
+Complexos, não são? Então
+Nós nos integramos com a Rede e outras coisas, então
+Você pagou a conta e eles lhe deram um reembolso.
+Dinheiro, era mais ou menos assim:
+Então as coisas deram errado, mas foi aí que...
+Eu conheci o Pedro, entende? Entendido
+E eu sempre tive isso em mente, irmão,
+Se eu tiver alguém que tenha um
+Problema: Flavio trabalhava lá?
+também?
+Não, o Flávio era amigo do Pedro.
+Ah, ah, entendi. Pedro trabalhava em
+Zuk com você, foi lá que você o conheceu e
+Flávio é
+Então eu disse: "Cara, eu tinha no meu
+cabeça que se houver alguém que tenha um
+problema a resolver e alguém para resolver
+Eu auxilio nas áreas de vendas e negócios.
+com a tecnologia." Bem, meu amigo,
+Recebi um presente no meu aniversário.
+aniversário, que era Peter
+me ligando,
+me ligando, minha esposa me dando o
+Certo, irmão. Então, como eu
+Eu já tinha experiência em criar isso.
+software lá, a configuração de
+O processo demorou um mês, amigo. Em um mês
+O produto já estava funcionando.
+venda, que era um comércio eletrônico
+Antes, sabe? Começamos aqui
+como um site de comércio eletrônico, porque embora
+Flávio sabia que estávamos operando e
+Vendemos para as maiores empresas.
+Vindo do Brasil, meu irmão, é difícil vender.
+Você precisa passar pela segurança, pelo
+processo, certo? Então começamos a
+Criar uma plataforma de comércio eletrônico que conectasse
+cartórios com você e venda de produtos de segunda mão
+vias para obter certidão de casamento,
+nascimento e morte. Então, porque
+Por exemplo, se você tivesse perdido seu
+certidão de nascimento, em vez de
+Ao dirigir-se ao cartório, você acessou nosso site.
+E você comprou.
+Isso foi em 2015.
+É isso. Que. Final de 2015, 2016.
+Eles já tinham a visão de que o Dockets seria
+Será que se tornaria isso? Não. Então,
+Olha, quando começamos, eu estava no
+Glory, eu só queria fazer isso, porque
+Eu sempre quis abrir meu próprio negócio, então
+Eu estava muito feliz e não me importava se
+Estava numa garagem, no fundo do quintal.
+onde quer que
+fazendo isso, trabalhando muito duro, muito
+feliz. E veja só, nós nos tornamos... os
+concorrentes, o mercado naquela época
+Foi muito ruim. E já que eu tinha isso
+Experiência com software, experiência em design,
+Tudo bem, irmão, eu apareci com um jogador MVP que,
+Bem, não foi a Apple.
+Chegou um MVP para
+Não, algo assim já aconteceu, nós, veja
+, nos tornamos o maior site de
+venda de certificados no primeiro ano
+. Faturamos 1 milhão de reais no
+primeiro ano,
+deixando uma margem de lucro de 10%.
+, de EBITDA, meu amigo.
+Oh. Porque? Porque, irmão,
+Naquela época, era só você.
+Sim, naquela época era só eu. Eu fiz
+Eu implementei todos os sistemas, incluindo a plataforma de comércio eletrônico.
+Eu fiz a administração, eu fiz, irmão, o
+Integração, pagamentos, tudo.
+Uau, que estrela!
+Sim. E foi engraçado porque um amigo
+meu, a quem mais tarde contratei para
+Após realizar algumas tarefas, ele chegou e disse:
+"Uau", ele me chamou de "amigo", disse ele:
+"Nossa, amigo, você fez tudo isso!"
+apenas? "Eu disse: 'Ah, eu fiz... não sei o quê'"
+. Pensei: "Cara, eu realmente fiz uma coisa
+Muitas coisas, né? "Diga a Peter"
+lá. Em outras palavras, ele foi e contou para Peter.
+que, caramba, cara, fez um monte de
+coisas. Acho que já vi equipes de
+quase cinco pessoas que não fazem isso em
+dois meses. Eu fiz tudo em um mês, então
+, era. E isso é loucura, cara.
+Essa é mais uma lição que aprendi.
+Quando você faz as coisas por amor, quando
+Você quer fazer isso, mas não faz.
+Por dinheiro ou qualquer outro motivo, o negócio
+Flui melhor, sabe? De
+Você também estava se divertindo muito durante o desenvolvimento,
+Sim. E foi assim mesmo, cara, no primeiro mês.
+Eram 5.000, depois 12.000, e eu não sei.
+O que mais? No final do ano, tínhamos
+A fatura custou um milhão de reais.
+Cara, isso é incrível. Fantástico.
+Com 15 pessoas. E então? E lá
+É aí que o processo começa, amigo? Bem
+Pedro conhecia um investidor lá.
+Você sabe? Sim, e foi assim que aconteceu, não é?
+Uau, que ótimo!
+fazendo. Eles começaram com um negócio de comércio eletrônico,
+Mas a ideia é servir as empresas.
+maior do Brasil. E assim foi.
+Processo, era assim mesmo, meu amigo. E então,
+O que aconteceu? Estávamos vendendo isso
+produto, certo?, de certificados. E
+Chegou uma empresa financeira que precisava de ajuda.
+milhares de certidões de óbito
+para operar o seguro de crédito, que é
+Tipo, você vai lá e compra um carro, né?
+E você financia isso com essa financeira?
+Essa instituição financeira oferece seguros. Sim
+Você morre, em teoria, sei lá, sua esposa
+Ele não precisa assumir a responsabilidade pela dívida.
+Mas você precisa encontrar o certificado.
+da morte. E aquela financeira não ia funcionar.
+Para perguntar às pessoas, eu tive que
+Encontre uma maneira de conseguir isso.
+Então, cara, esse cliente já...
+faturaram milhões e chegaram pelo
+comércio eletrônico.
+Nossa, que ótimo! Então, o que aconteceu?
+Fomos lá e começamos a trabalhar com isso.
+cliente, começamos a desenvolver o software
+B2B, essa plataforma, isso
+infraestrutura. Em algum momento
+Estávamos administrando as duas empresas,
+Software para comércio eletrônico e B2B. E
+Nós dissemos: "Cara, isso não pode ser feito."
+O comércio eletrônico era B2C.
+B2C.
+Nossa, isso é loucura, cara.
+Então você administrava duas empresas.
+ao mesmo tempo.
+Eu entendo.
+Porque, quer dizer, cara, vender para um
+indivíduo e vender para um dos
+Os maiores bancos do Brasil atendem
+o produto e a operação, tudo,
+amigo. E nós dissemos: "Não, naquela época já era"
+Tínhamos captado capital, não é?
+Casec e isso, com Kenner." Então
+Dissemos: "Não, irmão, vamos desligar."
+"Essa merda aqui." E nós o desligamos e
+Estamos ferrados.
+porque 80% da renda vinha
+De B2C. Pensávamos que sabíamos
+Venda para B2B,
+Quase fomos à falência, quer dizer, o
+Os investidores já estavam tipo: "Cara, isso é..."
+Vai dar tudo errado, vamos declarar o
+Inadimplência e cancelamento desta empresa porque
+"Não vai funcionar." Mas, meu amigo, ele
+Viramos o jogo e hoje estamos
+Então, meu amigo,
+Que lindo.
+Então é isso, assim, quantos?
+Será que eles estão quase falindo? Apenas uma vez?
+Amigo. Nós tínhamos isso,
+Nós tivemos esse tempo, não tivemos? Não era um
+"Quase falido", assim, amigo. O modelo
+Eu não estava no ramo porque, quer dizer,
+Não estava lubrificado.
+Quase fomos à falência porque
+Ficamos sem dinheiro porque,
+Felizmente, conseguimos levantar
+dinheiro e sempre fomos muito diligentes
+Com os custos, nunca conseguimos.
+nem deslumbrado, nem, sabe,
+Fizemos coisas loucas com o dinheiro. Então
+Sempre soubemos como usar o dinheiro.
+conscientemente. Mas quando você fica
+Preso por seis meses, você diz: "Amigo
+Estamos tentando de tudo e nada funciona.
+"Está progredindo." Então, em algum momento
+O dinheiro vai acabar, não é? E
+Então, felizmente, conseguimos.
+Inverta a marcha e vire o avião.
+, Você sabe? O nariz apontando para cima.
+Cara, isso é incrível, isso é incrível!
+Rodrigo. Que maravilha. Quando você saiu?
+programar,
+amigo? Parei de programar por aí, é isso.
+Não? Então, eu fiz tudo
+primeiros sistemas lá. Isso é um pouco
+Como eu vejo a carreira de um CTO. Obviamente
+Existem várias maneiras, tipo, eu não sei quais,
+Mas o meu era assim, não era? Então
+Eu criei os primeiros sistemas, depois
+Comecei a contratar os primeiros.
+desenvolvedores que eram estagiários e
+juniores, e treinar e delegar em
+eles. Então comecei a delegar.
+E isso, meu amigo, aconteceu em menos de um ano.
+Então ele já estava montando a equipe.
+Porque já havia muita coisa para fazer. E
+Então, meu amigo, você começa a
+estruturando-se para ser um líder de
+líderes, certo? Em seguida, você adiciona
+camadas de liderança, você continua adicionando-as.
+complexidade e então, hoje eu, porque
+Por exemplo, eu sou mais um CTO de negócios,
+Não? Então, eu analiso a área de
+tecnologia, mas eu observo as outras áreas.
+também, irmão. Eu converso com o
+investidores, eu converso com clientes,
+com a imprensa, com todos.
+Então, essa foi a evolução pela qual passei.
+tendo. E foi aí que parei de programar.
+Irmão, é isso aí. Dois anos depois, dois ou
+Três anos depois, ele já não programava mais.
+avançar. Foi rápido.
+É por causa da trajetória rápida,
+Porque escolhi este caminho de ser um CTO.
+de negócios, que talvez seja, de acordo com o meu
+Análise, um dos trabalhos mais raros
+que existem. Você pode ter bons CTOs,
+Mas às vezes o cara não tem essa sequência.
+negócios, e o trabalho do CTO é
+agregar valor à empresa, resolver
+problemas, construir, entregar
+tecnologia para a empresa alcançar
+suas métricas por meio do
+tecnologia. E é preciso entender
+Negócios, certo?
+Tem que ser.
+Então, eu não sabia nada sobre vendas.
+irmão. Então eu me apaixonei por
+Eu me apaixonei pela gestão de vendas,
+por causa das finanças, por causa da revolta
+Capital para startups, irmão.
+Então, foi assim que subi na carreira, eu fui
+construindo liderança comigo, então
+Tenho chefes de engenharia e de produto.
+, de operações para poder escalar e
+lidar com mais coisas. E Benchimol diz
+Algo que é muito verdade: como o
+À medida que a empresa cresce, você precisa sair do
+que você achou confortável e comece a
+crescer junto com ela e enfrentar as coisas
+em que você não se sente confortável, mas
+O que a empresa exige de você?
+aquele momento. Então, meus investidores
+Eles não investiram em mim para que eu me tornasse um
+Programador eterno. Hoje eu tenho que ser
+um empresário que resolve
+diversos problemas, diferentes dos
+Desde o início, mas é um dia e
+Você nunca pode parar de crescer, irmão.
+Porque se você parar de crescer, talvez
+Pare de ser a pessoa que sua empresa
+necessidades para o momento em que
+esse. E talvez seja aí que seria melhor colocar.
+Uma pessoa mais preparada, não é?
+Irmão, que visão, meu velho. Concordo
+Concordo plenamente com você, Rodrigo. Perfeito,
+irmão. E qual foi o seu maior
+dificuldade no dimensionamento deste equipamento,
+de pessoas? Acho que deve ter sido muito
+Será difícil para você montar uma equipe assim.
+É estruturado, não é? Nossa, amigo!
+Há muito o que aprender ali. Hum, um
+startup, uh, uma startup é assim, é
+uma montanha-russa de emoções e não é
+por mês, é por dia. Você chega aqui, o
+A equipe acaba de fechar um acordo com um banco, e
+Então você acaba perdendo um cliente ou
+Você perde um programador ou alguém do tipo,
+Golpe após golpe, altos e baixos constantes.
+E lidar com isso, irmão, afeta você.
+É um grande desafio mental, não é?
+Você sabe? É por isso que gosto de uma tese que
+Ele diz que haverá altos e baixos, picos e
+Vales, altos e baixos, certo? E assim é:
+nos grandes picos, tipo, ah,
+Você levantou uma rodada de 100.000, não?
+Você não deve ficar muito animado, e
+Quando as coisas estão indo mal, você também não deve se envolver.
+Em estado depressivo. Então, é isso.
+Ele tenta otimizar para ser mais
+constante, independentemente dos altos e baixos,
+Porque a vida aqui é cheia de altos e baixos,
+Você sabe? Então eu aprendi a
+Lidar com isso é muita coisa, meu amigo. Mas
+Eu também tenho um treinador, tenho um psicólogo,
+Porque, bem, é muito exigente. E isso
+O que dizem sobre a solidão é verdade.
+Porque às vezes você não tem a quem recorrer.
+falar; Você não vai conversar com seu parceiro(a).
+porque ele também está cheio de
+outros problemas que ele precisa resolver.
+No fim,
+completamente. Mas nós também crescemos
+Muito rápido, né? E levantamos bastante.
+dinheiro, também dobramos o
+equipe e estávamos crescendo muito rápido. Que,
+Isso é muito difícil de fazer, meu amigo. É
+Uma coisa... Assim como no início,
+Quando contratei duas pessoas,
+Ele treinou, e depois contratou.
+Mais duas, e de repente, da noite para o dia.
+De manhã, 30 pessoas entram no seu
+equipe, pessoas que você precisa proteger
+que esteja alinhado com a cultura e o
+valores, a quem você deve transmitir o
+mensagem, certifique-se de que tudo funcione e
+que todos entendam como seu trabalho funciona
+impacta o de outros. Cadela,
+irmão. E é aí que você se engana com o
+Ao contratar, você está cometendo erros com as pessoas.
+de cultura errônea, você está enganado com
+O perfil técnico e tudo mais, meu amigo, eu.
+Isso me deixou muito, muito esgotado. Em
+Você já se sentiu como se tivesse perdido a
+Controle da cultura da empresa?
+Ah, eu já perdi a cabeça algumas vezes.
+Dizer que você não a perdeu é mentira. Não
+Amigo, você se perde. Nós tínhamos um, ei,
+Sempre tivemos uma cultura forte.
+aqui.
+Então, uh,
+Bem, antes da pandemia, nós
+Nós ficaríamos neste escritório até
+meia-noite do último dia do mês para
+Alcançar objetivos. Tenho vários vídeos,
+Vou te enviar depois, eles eram ótimos.
+Você sabe? Cara,
+A equipe reunida, comendo pizza,
+beber cerveja e trabalhar até
+Entregar à meia-noite foi muito bom, foi muito
+Incrível, de verdade. E durante a pandemia
+A rodada ocorreu durante a pandemia.
+Crescemos muito durante a pandemia e não
+Você viu pessoas, sabe? Uau, isso!
+Foi muito difícil, foi muito difícil. ELE
+Ele perdeu muito.
+Deixe-me fazer uma pergunta polêmica.
+. Você gosta de trabalhar remotamente?
+Olha, eu, eu, eu
+Temos que aprender a conviver com isso.
+, Não? Eu digo, eu digo, escute, eu lhe digo.
+Eu conto isso para muita gente. É por isso que eu
+Eu gosto de conteúdo mais denso, como
+que temos aqui, para que as pessoas
+Entender tudo. Porque uma coisa é abrir
+um carretel ali e diga: "Ei, a casa
+"O escritório é uma porcaria e não sei mais o que dizer."
+Ei, estou te dando um pouco de contexto que
+Talvez eu não tivesse esta empresa hoje se
+Eu teria ficado por toda a minha carreira.
+dentro do meu quarto."
+Sim. E quando eu digo isso nos rolos, o
+A pessoa diz: "É porque combina com você."
+"Certo, amigo." Estou explicando para você.
+aqui. Se você chegou até aqui nesta jornada...
+conversa, você entende por que é
+importante.
+Agora você pergunta: "É possível construir isso?"
+Uma carreira? Pode resultar algo de bom disso?
+? "É possível, meu amigo, depende do quê."
+Você quer.
+É isso. Você entendeu? Eu não teria feito isso.
+Ei, conheci minha esposa no trabalho.
+Cara, eu conheci meus investidores,
+Conheci meus sócios enquanto trabalhava.
+vendo-os cara a cara, respirando,
+trocando a mesma energia,
+respirando o mesmo ar. Completamente.
+Então, há muita coisa no Vale do Silício.
+Essa questão do ser, certo?, de estar em
+chance, exposto à chance e ao benefício
+Você sabe disso? Isso não vai acontecer em
+Uma chamada de Zoom, meu amigo.
+E aí as pessoas dizem: "Nossa, mas..."
+Hum, como se diz isso? É o "como".
+diz? dizendo que esse é o preço do vinho,
+Não, é o
+estilo de vida
+Não, não é o estilo de vida, é o
+qualidade de vida. Ah, mas a qualidade de
+A vida é muito cara, quer dizer, cara, mano.
+Dos 20 aos 30 anos, é a hora.
+Para construir sua carreira, cara,
+Chegou a hora de dar tudo de si.
+E isso é tudo. Vejo que as pessoas hoje em dia
+Bem, todos sabem o que estão fazendo.
+Eu já tenho a minha vida organizada, quer dizer,
+Se você quiser ficar em casa, então
+Fique, mas irmão, não é hora para isso.
+Para ter qualidade de vida, é preciso tempo para...
+Trabalhar, construir, conhecer
+As pessoas sabem? tipo, para ir atrás do quê
+Isso te beneficia, entende? Quer dizer, eu acho
+Acho que isso pode ser feito de casa.
+Sim, mas acho que é muito melhor.
+Por exemplo, eu sempre dou este exemplo.
+aqui. Pedro, meu parceiro, conhece o
+desenvolvedores que eu mencionei
+Eles começaram como juniores e hoje são especialistas em tecnologia.
+leads, porque, céus, eles se sentaram em
+Eles foram até Pedro e encontraram Pedro.
+Cara, hoje em dia as crianças não...
+Eles se conhecem, mas não se veem. E se eu não tivesse
+conhecido pelos investidores por estar em
+O escritório, minha vida seria muito, não sei
+Ele pode saber, sabe? Mas ei, eu, eu
+Eu aconselho, uh, eu aconselho que, tipo, o
+A pessoa está mais presente no
+escritório, acho que isso será benéfico.
+Você se lembra do que eu disse sobre o
+reputação?
+É também um conselho para sua carreira.
+Pela sua vida, irmão. Sim, acho que sim.
+A maior diferença na minha carreira foi
+desenvolver a rede, muito semelhante a
+Sua, essa questão de, bem, ser
+Aventure-se fora da estrada e dê tudo de si também.
+Isso mudou a minha vida. Eu adorei!
+programa, desenvolver a plataforma
+para a pizzaria. Cara, eu tenho
+Desenvolvemos todo tipo de coisa maluca, de verdade.
+Só Deus sabe. Mas isso me fez
+evoluir muito. E o principal era
+comunicação. E isso era tudo que eu podia fazer.
+Desenvolvi isso me colocando em diferentes ambientes.
+Sim. Lugares inóspitos onde às vezes não há
+Eu não conhecia ninguém. Isso mudou completamente.
+Para a minha vida, sabe?
+Sim, você sabe disso, aqueles momentos em que
+Quanto mais eu crescia, mais desejava não ter passado por aquilo.
+através deles, mas depois de passar por eles,
+Eu os agradeci, eu os agradeci. Então,
+Deixe-me explicar, irmão. Para
+Para crescer, você precisa se colocar em uma
+situação desconfortável. É como um
+músculo. Você não vai desenvolver o
+Ganhe massa muscular se você não levantar pesos, tipo isso. É
+O mesmo princípio.
+E veja bem, minha carreira era muito confortável em
+tecnologia que levou à criação da startup,
+Como eu estava voando, não senti nenhum desconforto.
+, uma qualidade de vida incrível,
+Ele recebeu muitos elogios, ele alcançou
+agregar valor, fazer a diferença
+negócios, por exemplo. Só que, ao chegar aqui
+Eu precisava levantar capital, sabe?
+Você pretende captar recursos? Você vai falar
+com um cara que é investidor em
+Nova Iorque. Cara, como você faz isso? QUALQUER
+Bem, outro dia eu estava programando,
+Estou em Nova York agora, conversando
+Inglês, para tentar pegar o cara
+investir, não sei quantos milhões em mim
+empresa. Então, você acha que foi
+Isso seria confortável para mim?
+Meu Deus, uma vez eu fui fazer um
+apresentação no Google e eles me colocaram
+em uma sala com 20 líderes globais de
+Google. Droga.
+E foi aí que eles aceleraram o passo em nossa direção.
+Tivemos que fazer um projeto sobre
+Conclusão do curso, tipo, o quê?
+O que fizemos juntos aqui?
+Nós construímos isso juntos, não é? Meu Deus,
+Sem brincadeira, eu pensei que ia...
+desmaiar antes de entrar naquela sala.
+Eu mal consegui fazer isso.
+Essa é a parte que ninguém sabe.
+amigo. E eu comecei a falar, a fazer o
+Apresentação em inglês, não sei o quê,
+irmão. E a adrenalina começa a...
+descer, para descer. Quando eu saí, quando
+Entrei no meu carro, mano, e aí?
+Uma sensação de prazer, sabe? Cara,
+Caramba, eu consegui, sabia?
+Então, a vida vai te surpreender com coisas.
+que você não vai querer fazer. Mas eles são
+Essas são as coisas que você precisa fazer,
+É verdade. É verdade.
+Por exemplo, no dia em que fizemos um "
+"Dia do Produto" aqui na Cubo, certo?
+Lançamos o produto,
+Foi uma loucura. Em seguida, adicione um
+Confira no YouTube. Foram oito meses
+trabalho, preparação, imprensa, o
+auditório lotado, pressão imensa,
+Eu estava nervoso naquele dia, mas fui lá e fiz.
+Eu fiz. Quando cheguei em casa, o que
+prazer, sabe, que sensação de...
+Dizer "droga" ou "merda" acabou sendo uma boa ideia. É
+Pronto, quebramos.
+E tudo acabou bem. E é aí que
+Você cresce. Mas ei, irmão, se você não
+Você define esses desafios, essas coisas que você
+Elas te tiram da sua zona de conforto. Aquilo é. Não
+Estou dizendo, irmão, você tem que trabalhar.
+Para outros, é até o amanhecer; Para mim, é
+Eu fiz isso porque quis, mas, irmão,
+É isso que vai te fazer crescer. E
+Eu sempre fui uma pessoa que queria
+crescer muito, sabe? Quer dizer, irmão,
+Eu disse isso, eu sou um construtor, eu sou um
+criador. Se eu não estiver produzindo,
+crescendo, contribuindo, desenvolvendo,
+Irmão, eu me sinto triste.
+Então, qual é o grande segredo?
+Para conseguir coisas? Está ficando cada vez mais...
+situações que você não pode, não
+Você pode sair, porque muitas vezes
+Você procrastina e diz: "Droga, eu não vou..."
+"Faça isso." Então eu vou te dar um
+Por exemplo, irmão. Você quer comprar um?
+Tem uma vaga para trabalhar no exterior, certo?
+Porque você acha que vai ganhar em dólares e
+É ótimo, mas seu inglês é mais...
+Menos, irmão. Que se dane. Agenda o
+Que droga de entrevista, vai lá e faz. Vá e
+Vai fundo, irmão. Você verá, você sentirá
+Melhor ainda, você vai aprender, você vai continuar vencendo
+confiar. Você chegará em breve.
+Dando aulas, em pouco tempo você estará
+Contratação em inglês, entendeu?
+Pelo amor de Deus, você precisa dar o primeiro passo. Se você não
+Se você chuta, não avança, não evolui. Não
+Você está avançando, irmão, você não está avançando. Não, não.
+Você aproveita todo o potencial que possui,
+irmão.
+É isso. Pior ainda, é verdade. Rodrigo,
+Para encerrar, deixe uma mensagem para
+aqueles que desejam evoluir em seus
+carreira. O que você diria para Rodrigo?
+22 anos? É engraçado que eu veja o
+Podcasts como este sempre têm isso em comum.
+Finalmente, eu digo: "Irmão, eu preciso
+me preparo porque toda vez que eles vão para
+Fazendo essa pergunta a mim mesmo, tenho que dizer:
+"Algo grandioso."
+Não, não é esse o caso aqui. Você tem que dizer
+O que vem do coração,
+irmão. Então, o que vem de quê?
+O que vem do coração?
+e recentemente decidi produzir
+conteúdo, certo? Já falamos sobre isso aqui, não é?
+Ei? E
+Seu Instagram é incrível, né?
+Sim, irmão, é exatamente uma questão de
+Retribuir, ajudar, droga. E para
+Do que estou falando mesmo? Falo com aqueles que são
+programadores ou trabalham na área de tecnologia.
+e estão no início de suas carreiras,
+Então eu ajudo essas pessoas a terem
+uma carreira melhor, dando-lhes conselhos.
+sobre o que fazer e o que não fazer para
+ter um melhor desempenho. Eu também falo com o
+pessoa que se tornou líder de
+equipamentos tecnológicos, ou o que aconteceu com eles?
+um cargo de gestão ou executivo. E eu
+Ele gosta muito de conversar com os transeuntes.
+De programador a empreendedor, que
+decidiu abrir um negócio depois de ter
+Eu acompanhei essa carreira e ela vai se concretizar.
+com outros parceiros para
+usar o que essa pessoa sabe, que é
+tecnologia para resolver problemas.
+Construir uma empresa às vezes envolve contratar
+para outros programadores. Então, veja,
+Hoje, quase 10 anos depois
+empreendedorismo e 25 anos de experiência trabalhando com
+tecnologia, estou numa fase de
+Incentive isso ainda mais. Então, se você é
+Uma pessoa da área de tecnologia percebe
+Você sabe, você tem esse poder? Ter
+o poder de ajudar uma empresa. Sim
+Você decide se tornar funcionário de uma empresa, uma
+colaborador, para que essa empresa
+Resolver problemas, crescer e ser
+Faz parte disso, sabe? Ou, se você for um líder,
+de outras pessoas da área da tecnologia, o quê?
+É incrível poder ajudar essas pessoas.
+A ser desenvolvido. Se você encontrou o seu próprio
+Uma startup, sem dúvida, certo? Você vai
+Para resolver problemas, você vai pagar
+impostos, você vai dar oportunidades para
+outras pessoas, conhecer pessoas, seguir
+Ao se desenvolver, você ganhará dinheiro.
+Em todos esses aspectos. Então, se você
+Se você gosta de tecnologia, mergulhe de cabeça em
+Isso porque a tecnologia me deu tudo.
+o que eu tenho na minha vida, tudo isso
+Tenho na minha vida graças ao
+Tecnologia, em tudo. Não apenas a parte
+conquistas financeiras ou materiais,
+Mas o que eu disse foi: conheci minha esposa.
+enquanto trabalhava em uma empresa
+através da tecnologia, conheci meus parceiros,
+investidores, colaboradores, pessoas
+que trabalharam comigo durante 20 anos
+anos; A tecnologia me deu tudo. E
+É o que eu sempre digo, tecnologia.
+É um veículo, não o objetivo final, certo? É
+o veículo que usei para transformar
+minha vida. E estou muito feliz com isso. Sim
+Se você se identifica com isso, mergulhe de cabeça.
+Isso porque também terá muito
+Faz sentido para você, sabe?
+Uau, incrível, incrível. Muitos
+Obrigado pela conversa. Eu adorei!
+conversar com você.
+Obrigado pela visita, amigo.
+Não, você vai me mostrar. Quero me encontrar
+Este escritório inteiro é para você. Espero que
+Aproveite este conteúdo, porque
+Foi muito enriquecedor. Espero que
+Conseguimos ajudá-lo a dar isso a você.
+Direcionamento para sua carreira. Um abraço.
+Obrigado, pessoal. Obrigado.

@@ -1,0 +1,461 @@
+Uma ideia por dia até você programador
+tomar vergonha na cara e prender. Esse é
+o meu canal lá no Instagram e eu trouxe
+uma ideia de lá para cá para eu mostrar
+para você como tirar uma ideia do papel
+e validar ela. Isso mesmo. Hoje vai ser
+uma videoaula. Então, pega a caneta,
+pega o papel, presta muita atenção. Se
+você logicamente quiser tirar a sua
+ideia do papel, beleza? Porque hoje é
+videoaula. Vamos começar.
+Vou compartilhar minha tela com vocês.
+Então, vamos lá, ó. Como que eu tiro uma
+ideia do papel? Vamos pegar
+aqui o, eu, eu tenho uma metodologia que
+eu desenvolvi chamada Code to Cash.
+Basicamente é uma versão, uma variação
+do Link Canvas. E nós vamos usar o Code
+to Cash hoje para essa aula. Kelvin, por
+que que ele é uma variação? Por que que
+não usa o Link Canvas? O Link Canvas é
+usado para startup, para você desenhar o
+seu modelo de negócio, sabe? para ficar
+para facilitar o desenho do plano de
+negócio. Só que eh quando a gente tá
+falando de uma ideia muito pequena, tipo
+assim, ó, tirar um chatbot e ganhar um
+dinheiro com isso, eu
+simplifiquei para e montei o code
+to cash porque ele é muito mais prático.
+Então hoje a gente vai fazer isso. Eu
+vou mostrar para vocês o seguinte, ó.
+Isso aqui é o o coach to cash e ele
+consiste em você eh responder essas
+perguntas, né? O que que te incomoda,
+né? Por que que você tá querendo criar
+aquela aquela determinada
+funcionalidade? Quem que pagaria por
+isso, né? Como que você faz o MVP? O que
+que dá para codar em uma semana, por
+exemplo? Porque não sei se você sabe, os
+meus testes eu sempre falo, tem que
+testar rápido, tem que validar rápido,
+tem que tirar a ideia do papel rápido e
+validar rápido de uma a três semanas. E
+o que que já existe, né, para você tá
+integrado e tudo mais. Bom, a gente vai
+passar em cada um desses itens. Ã, para
+essa videoaula, eu vou, eu trouxe uma
+ideia que é o seguinte, a gente vai, eu
+vou explicar para vocês, né, o que que
+me incomoda, qual que é a dor, né?
+Então, vamos lá. O âmbito da academia de
+academia.
+Toda vez você vai lá, tem que pagar
+academia, mas você não sabe o que que
+você tem que fazer, como que você
+treina. Por exemplo, eu pelo menos não
+sei, sei mais ou menos, mas você não
+sabe quais são os exercícios que você
+tem que fazer, qual que é a jornada que
+você tem que fazer. As academias hoje
+elas não têm mais os personais lá
+abertos, os professores abertos.
+Geralmente tem os personais, mas você
+tem que pagar para esse cara. Você tem
+que ir lá e pagar para ele, para ele
+montar um treino para você. Ou ele, você
+paga por mês para ele acompanhar e fazer
+o treino junto com você. ou você vai lá
+e compra o seu treino, vamos supor, paga
+R$ 150 para ele montar um treino para
+você. E fora o treino, você tem que
+pagar ali por um por um
+nutricionista para montar uma dieta
+básica para você ou uma dieta bem
+específica. Bom, tem esses custos
+adicionais. Então isso para mim é a dor
+que eu trouxe. Isso aqui me incomoda.
+Isso aqui me incomoda, tá? E o que que
+eu vou fazer para resolver essa dor aqui
+que me incomoda? Nesse projeto que eu
+vou trazer para vocês, vamos tirar o
+seguinte do o seguinte, a seguinte ideia
+do papel. Vamos criar um chatbot
+conectado no WhatsApp para uma academia.
+Você vai entrar lá na academia, você vai
+mandar um oi para o número do WhatsApp.
+Oi, tudo bem? Ele esse chatbot vai
+coletar as informações sobre você, então
+se seu peso, sua idade, se você
+sedentário, vai fazer todo o checklist e
+ele vai montar um treino para você. Além
+dele montar um treino, ele vai te dar
+dicas de alimentação do que você pode ou
+não comer. E toda vez que você for pra
+academia e você fala: "Oi, qual que é o
+meu treino de hoje?" Ele vai pegar o dia
+e vai dar o treino que você tem que
+fazer. Inclusive, você vai poder
+interagir chatbot mesmo com com IA
+conectado. Putz, eu não queria treinar
+isso hoje. Posso substituir por outra
+coisa? Pode. Ah, manda um vídeo para mim
+com exemplo de como fazer esse
+exercício. Daí ele vai lá e manda para
+você. Olha que lindo. Não vem falar que
+isso já tem. Não vem falar também que
+tem aplicativo, que eu sei que tem
+aplicativo que faz isso, mas aqui a
+gente vai tirar uma ideia do papel,
+entendeu? Tá bom? Aí o segunda pergunta
+que eu respondo é: Eu tive essa ideia do
+chatbot. A segunda pergunta que eu vou
+responder é: quem que pagaria por isso?
+academias. Então, meu primeiro
+cliente aqui poderia ser academias ou
+num modelo B2B, né? Então, vou vender
+pra empresa ou pessoas. Isso aqui pode
+virar um B2C. Se for algo que cresça, eu
+posso vender para você, por exemplo,
+você entra lá, manda um oi no WhatsApp,
+ele monta, pergunta tudo, aí depois ele
+te manda o link para você pagar e assim
+que você pagar, ele libera as
+informações. Olha que interessante. E
+pra academia, isso aqui é muito
+vantajoso. Por que que é vantajoso pra
+academia? Porque, cara, a academia, qual
+que é o o o valor eh o valor agregado
+que ela oferece pro cliente? Ferramentas
+como essa, entendeu? É muita vantagem
+para uma academia ter algo assim. Isso
+aí vai fazer você escolher, por exemplo,
+a academia A do que a academia B, por
+exemplo. Então são essas pessoas que eu
+mapeiei, que pagariam por isso, tá? E o
+que que a terceira pergunta é: tive a
+ideia. O que que dá para fazer em uma
+semana?
+Falei: "Cara, em uma semana dá para
+montar uma landing page, dá para dá para
+estruturar uma landing page para venda,
+dá para fazer 10
+criativos res para farecendo ou não,
+narrando, pode ser explicando. Por quê?
+Por que o criativo? pra gente poder ver
+se tem intenções de compra jogando para
+landing page. E dá para desenhar, dá
+para programar um chatbot simples,
+conectado no WhatsApp para fazer isso.
+Ah, Kelvin, não dá para fazer isso. Não
+dá para dar um chatbot em uma semana. Dá
+sim. Tem um vídeo meu mostrando aqui que
+eu fiz um em 3 horas. Dá sim. Inclusive
+eu tô tô tô vendendo um chatbot de
+vendas chamado SDR na internet. que eu
+vou inclusive mostrar o exemplo para
+vocês aqui dos criativos, o que que eu
+fiz e a land page e tudo mais para vocês
+entenderem um pouco. Então, dá não vem
+com essa que não dá. Você que se você
+achou que não dá, já sai do vídeo, não é
+para você. Você só pensa no problema.
+Você ainda não, você não transcendeu
+para pensar realmente na solução. Você
+tá querendo pensar no problema, tá
+querendo criticar. Legal. Então, isso
+aqui dá para fazer isso numa semana? Dá.
+Isso aqui pode atrair venda? Pode.
+Beleza, Kelvin. Mas e se alguém comprar?
+Não tem problema. A gente precisa saber
+se tem público, nem que vocês torne o
+dinheiro depois, nem que ele clique em
+comprar, preenche os dados e cai assim,
+produto esgotado, não tem problema. Isso
+aqui é a primeira etapa, etapa da
+validação. Quatra, quarta pergunta. O
+que que já tem pronto pra gente poder
+usar? Cara, vamos usar o a Open API,
+open AI com o API do para treinar o
+chatbot para ele ficar realmente
+inteligente. Vamos usar o Venom bot.
+vendo um bote, né, em Node JS, que é uma
+libecta o nosso WhatsApp com é como se
+fosse um crawler, né, com um ele faz um
+WhatsApp web lá e lê esse WhatsApp Web
+conecta e a gente vai pegar um número de
+celular sem usar a p oficial por conta
+do Venombote. Nossa, mas que porcaria,
+que lixo. É isso mesmo, é um lixo, mas
+tem que funcionar pra gente poder
+apresentar para duas, três pessoas
+poderem usar e a gente vai lhe dar essa
+ideia. Não tem problema. Kelvin, mas por
+que não o AP oficial? AP oficial dá mais
+trabalho, tem validação, tem um monte de
+coisa, tem custo envolvido. Isso aqui é
+barato. Beleza? E a gente tem que
+validar a ideia. Tira o perfeccionismo
+da cabeça. Você quer empreender? Vamos
+começar no nível zero. 0.1, 0.2. Depois
+você depois deixa robusto, sacou? Esse é
+o segredo,
+velho. E aí a gente vai
+validar. Como assim, Kelvin? Validar.
+Então, vamos lá, ó. Simplesinho. Vou vou
+desenhar aqui para vocês, ó. Deixa eu
+ver se eu coloquei algum outro print.
+Ah, já coloquei ali, ó. Então, vamos lá.
+Ó, aqui, ó. Em uma semana, na primeira
+semana, vamos codar a LP, beleza?
+Landing page. Vamos fazer a land page no
+quê? Usa o WordPress, usa o o Verte,
+vertex, vertable, não sei o
+nome. Cria um Google
+Forms. Cria um Google Forms. Faz alguma
+coisa, não importa. A gente precisa
+nessa landing page, ela tem que ter, ela
+tem que tá atrativa, pode ter uma
+VSL, mais uma explicação aqui embaixo,
+mais uma prova social ou mostrando o
+sistema como funciona e aqui embaixo o
+link de venda,
+pagar, sacou? Tem a LP aqui, ou você nem
+ou ou você nem tem o link de venda aqui,
+só coloca um botão aqui, ficou
+interessado, entre em contato. O cara
+preenche os dados aqui, entra em
+contato. Essa landing page, ela vai est
+100% direcionada para quem? O nichada,
+para a academia. Então é pro dono da
+academia, sacou? É pro pros donos de
+academia. Ela vai est 100% nichada para
+isso. Legal. Montamos a landing page
+nessa semana. A gente vai desenvolver o
+chatbot, vai deixar ele ativo num chip
+que você
+comprar, beleza? Então isso aqui na
+primeira semana e você vai botar para
+rodar as
+campanhas. Monta a campanha lá no no
+Metaeds bonitinho, saca? Bota para rodar
+essa campanha usando os criativos, né?
+gravos criativos aqui. Então, uma uma
+média de 10 reals. Kelvin, eu não tenho
+coragem de aparecer, cara. Ou você
+aparece ou você faz um vídeo narrado,
+muda sua voz no Cap Cut. É só 10 para
+chamar atenção, sacou? Então, é muito
+fácil. É gatilho nos reser. É super
+rápido. E esses rear na campanha, joga
+para ele cair na LP. Na LP vai tá como
+se fosse uma carta de venda explicando.
+Pode ter uma VSL aqui. Para quem não
+sabe o que é VSL, é um vídeo de vendas.
+Explicando. Pá, eleva a consciência do
+cara, faz fala, se você tá interessado
+em saber, pode até explicar que é um
+projeto p pa pá, clique aqui e joga o
+cara para dentro, entendeu? Nisso aqui
+em uma semana, que que vai, se você fez
+isso aqui em uma semana, bota na próxima
+semana para rodar a campanha, mais uma
+semaninha, entendeu? só na venda. E em
+contrapartida, isso aqui vai tá rodando
+no automático, certo? Em contrapartida,
+você vai pegar os
+telefones das academias próximas da sua
+casa, vai ligar, vai mandar WhatsApp
+oferecendo isso, esse produto. E no caso
+de recusa, então o cara, para mim
+não faz sentido. Pergunta por que que
+não faz sentido? O que que tá faltando?
+O que que deveria ter para você pagar
+por isso? refina a ideia, vê se
+realmente é uma necessidade, porque para
+mim é, eu pagaria por isso aqui. Se
+minha academia tivesse aqui, eu até
+contrataria uma ferramenta dessa, porque
+eu pago hoje uma plataforma que nem faz
+isso, entenderam? E o WhatsApp, sabe por
+que que o WhatsApp é Você colocar
+isso dentro do WhatsApp, você tem a
+frção, a fricção é zera, o cara tá no
+WhatsApp, mano. WhatsApp é a ferramenta
+mais usada do Brasil hoje, sacou?
+isso aqui é
+lindo. Então, e eu uso ali o marcador é
+o seguinte, eu tenho que fazer cinco
+vendas. Eu preciso cinco ter cinco
+vendas ou 20 interessados em comprar com
+as duas estratégias, marketing digital,
+coloca uns R$ 300 para rodar no
+marketing digital e prospecção ativa,
+que é você pegar o telefone e fazer a
+ligação para você tentar fazer a venda.
+Então, são duas energias para vender
+aqui, sacou? Kelvin, mas eu só sou
+um programador. Não, cara, você tá aqui
+nesse vídeo é porque você quer ser um
+empreendedor, um empresário. E isso aqui
+faz uma de uma diferença. Você
+aprender esse tipo de coisa. Isso aqui é
+muito importante, gente. Marketing
+digital é fácil, na moral. A gente
+programa, rapidinho a gente
+configura uma uma uma estratégia de
+venda. Isso aqui não tem nada complexo.
+Isso aqui é fácil. E para você que
+pensou, que falou assim: "Ah, não, mas o
+que ele mostrou aqui, ele não faz, ele
+não tem coragem de fazer". Ah, é? Então,
+olha isso daqui, ó. Recentemente, eu
+gravei um vídeo no YouTube aqui para
+vocês, mostrando como que se faz o
+chatbot. E pros meus alunos da escola do
+devedor, eu falei assim: "Cara, eu vou
+vender esse negócio, eu vou eu vou
+seguir o processo passo a passo para ter
+a venda para mostrar para vocês que é
+possível você fazer isso e vender,
+porque uma coisa é você ensinar, outra
+coisa é você aplicar e mostrar na
+prática". Então, vamos lá. Que que eu
+fiz aqui, ó? Deixa eu mostrar para
+vocês. Então, primeiro passo, igual eu
+mostrei para vocês, criar land page, os
+criativos. Vou mostrar o criativo
+primeiro. Então, vou dar o play
+aqui. Eu desenvolvi esse chatbot e ele
+faz isso aqui, ó, conectado no WhatsApp
+com IA. E aí, você tá
+online? Tô precisando de um suporte. A
+ferramenta não tá conectando. Você pode
+me ajudar?
+Agora a se você quer ter acesso ao
+código fonte desse WhatsApp chatbot,
+inclusive é um tutorial explicando como
+que você implementa ele aí no teu
+negócio, cai para dentro, clica. Você
+não tá entendendo. Eu botei para vender
+o código fonte, um tutorial ensinando a
+usar, irmão, eu já
+vendi. Aí beleza. Então você viu o
+criativo, certo? Criativo joga para essa
+campanha aqui, ó. Cai para limpeza. Você
+que trabalha com vendas, atendimento ou
+suporte? Deixa eu te fazer uma pergunta.
+Quanto tempo seu time perde? Responder
+essa LP é uma LP desenhada para
+funcionar, para aparecer especificamente
+no celular. Por qu tá no Instagram,
+clicou, ele cai aqui certinho. Certinh
+WhatsApp. Quantas vendas você deixou de
+fazer? Porque você não respondeu
+rapidamente coisa. Essa aqui é a VSL de
+venda. Quero, tem interesse. Clicou
+aqui, ele cai aqui, ó. Tá vendo? Ele já
+cai direto pra página de venda. Então,
+qual que é o grande X da questão? Botei
+para vender e rodei. Kelvin, mas como
+que você entrega? Você acredita que a
+minha entrega eu ensinando o uma dando
+um pacote pro cara, montei uma CLI, o
+cara dá um npm, instal, instala isso e
+roda o WhatsApp. Só que lógico, um
+treinamento interessante. E o por que R$
+97? Porque eu fiz a conta, velho. Falei:
+"Puta, R 97 contas. Se eu faço 100
+venda, eu faço R$ 9.700. Se eu gasto
+3.000 de tráfego, cara, me sobra 6.
+6.000 é isso. Me sobra R$ 6.000. É um
+multiplicador de
+dinheiro. Legal. Kelvin do céu. Se
+validar, se vender, se se vender, irmão.
+Aí, ó, executar. Aí você executa esse
+projeto e bota para Melhora ele.
+Continua vendendo, continua tracionando,
+vai, faz ele crescer, se dedica ao
+negócio porque vai dar certo, entendeu?
+Ah, mas Kelvin, eu vou vender por
+quanto, por exemplo? Você tem que
+calcular. Você tem que calcular. Então,
+tipo assim, no começo, para você validar
+a ideia, você não precisa calcular
+muito, mas você, o ideal é você seguir
+esses passos aqui, ó. Deixa eu dar um
+zoom aqui. Isso aqui é uma planilha que
+eu desenvolvi lá pro pessoal da escola
+do dev empreendedor explicando como que
+se valida, como se calcula o preço.
+Então, você vai fazer um levantamento
+inicial de quais são seus custos fixos
+mensais dessa operação, custos variáveis
+por usuário, né, conectado na no seu
+SAS, na sua ferramenta, despesas
+administrativas. Se você tiver, então,
+contador, aluguel, água, luz, esse tipo
+de coisa. E aqui é a receita e a
+precificação. Então aqui é, ó, por
+exemplo, projeção de faturamento,
+projeção de clientes, saca? Onde o o
+aluno ele coloca ali a estimativa de
+clientes e vendas que ele pode ter por
+mês, né? Metas que ele tem que bater.
+Aqui em cima o sistema vai calcular
+então qual que é o valor mínimo que ele
+tem que cobrar de acordo com os custos
+dele, margem de lucro e um monte de
+coisa. valor esperado que ele cobre.
+Aqui é um simulador que ele pode colocar
+quanto quanto que ele acha, sempre com
+três planos, né? Três planos de de
+cliente. E aqui um modelo de
+precificação baseado em cima da da
+percepção de valor que o cliente tem em
+cima do produto, que é um outro modelo
+precificação. Isso aqui é o que eu chamo
+de você vender com três telas. Você
+ainda nem tem um negócio, mas você já tá
+vendendo para validar, você tem
+interesse de compra. Isso que é o
+importante. Isso aqui que eu apresentei
+para vocês é a base. Isso aqui é uma
+estrutura simples, mas você já pode
+aplicar. Lá na escola do empreendedor,
+que é a escola que eu montei, a escola
+dev empreendedor, lá a gente tem todo um
+método bem estruturado, por exemplo,
+para você validar antes a sua ideia, se
+é uma ideia interessante, eh, como
+calcular, por exemplo, o seu preço, como
+montar uma estratégia de venda, como
+vender pelo WhatsApp, pelo telefone ou
+através de redes sociais ou através de
+campanhas do Google ou Facebook. Como
+você escalar o teu negócio? Se você
+escalou o teu negócio, como que você
+cresce? Então assim, parte de gestão,
+parte financeira, parte contável,
+lá é um outro rolê. Se você tiver
+interesse, vou deixar o link aqui
+embaixo do no na descrição desse vídeo
+para você conhecer um pouco mais sobre a
+escola do dev empreendedor. É isso aí,
+rapaziada. Ó, se você não é inscrito no
+canal, se inscreve aí. Se você quer me
+xingar, hater comenta também,
+porque você ajuda a impular o meu
+conteúdo. Ativa o sininho, ativa o
+sininho, é o sininho, né, para você
+conseguir receber novas notificações
+sobre o meu canal. Se você realmente tá
+gostando, me ajuda a crescer.
+Compartilha esse vídeo com alguém que
+quer empreender. Você vai me ajudar
+mais, sabe fazendo o quê? Caino para
+dentro da escola do Dev empreendedor. Lá
+você vai me ajudar e eu vou te ajudar
+também. Belezinha. Falou seus cachorros.

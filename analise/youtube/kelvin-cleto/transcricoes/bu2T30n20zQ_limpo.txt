@@ -1,0 +1,300 @@
+Eu vou quebrar todos os protocolos hoje.
+Vou deixar minha lista de vídeos de lado
+para gravar esse vídeo aqui. Como você
+deve arrumar um estágio, como você que
+tá na área de tecnologia consegue
+arrumar um estágio. Eu vou dar aqui
+algumas dicas porque uma mãe me mandou
+uma mensagem no meu Instagram falando o
+seguinte: "Meu filho não consegue
+arrumar estágio". grava um reals, eh,
+explicando como ele deve arrumar o que
+dicas para poder ajudar ele nesse
+processo. Cara, isso me tocou muito.
+Você que me mandou esse vídeo, essa
+mensagem me tocou demais, porque a minha
+mãe fez a mesma coisa para mim quando eu
+tinha 16 anos de idade. Ela fal, ela foi
+na escola técnica, eh, falou com o
+coordenador, falou, a gente morava, eu
+nasci, me criar PV, ela fala: "Meu filho
+fica muito em casa e e ele precisa
+arrumar um trabalho e aí ele me arrumou
+um estágio." Então, vamos lá. Eu vou dar
+algumas dicas aqui para vocês que querem
+arrumar o seu primeiro emprego, o seu
+primeiro estágio. Primeira coisa que eu
+vou falar para vocês, eh, não dá para
+viver de YouTube, não dá para viver de
+Instagram, esquece tudo isso daqui.
+Vamos falar de coisas palpáveis, reais,
+programação. Você tem que focar em
+estudar muito, muito mesmo, porque o
+mercado tá concorrido. O mercado tá
+muito concorrido. Então você tem que
+estudar ou back end ou front end ou
+banco de dados ou infraestrutura muito.
+Eu não iria nem para infraestrutura e
+nem para banco de dados. Eu focaria ou
+em back end ou em front end. Na verdade,
+eu acho que hoje eu não iria nem para
+front end, eu focaria em back end porque
+tem muita vaga de trabalho. Mas o o
+principal ponto é você estudar muito,
+você tentar aplicar o que você estuda em
+projetos fictícios mais reais. Então o
+que que eu digo com isso? Se você
+aprendeu o front end, tente desenvolver
+um front, por exemplo, para um uma
+clínica médica, para um front para um
+sistema financeiro, um front
+para, sei, um um RP, saca? Não precisa
+desenvolver ele completo, mas tente
+estudar isso. E a hora que você for
+montar o seu currículo, coloca lá assim,
+ó, projetos pessoais, detalhe o projeto
+que você construiu, coloca ele no GitHub
+e coloca as linguagens que você aprendeu
+ali e o por e o que que você fez, o que
+que aquele projeto faz e libera o
+código. Deixa lá no seu GitHub, monta um
+Instagram, escreve artigos no ou um
+Instagram, um LinkedIn. Escreva artigos
+no seu LinkedIn sobre aquilo que você
+estudou e aquilo que você aprendeu. Isso
+ajuda muito. Deixa um currículo bem
+formatado, saca? Com as principais
+linguagens. Não coloca todas as
+linguagens, coloca aquilo que você
+domina. Cara, eu domino o Angular. Eu
+domino isso, isso e isso no ângulo. Tô
+em busca do meu primeiro
+estágio. Tente buscar estágio em grandes
+empresas, mas tente buscar
+principalmente em startups. Então,
+pesquisa por startup no seu LinkedIn.
+Pesquisa pesquisa as tipo startups do
+mercado de seguro de
+tecnurex, por exemplo, ou healthx e ou ã
+legal. Pesquise essas startups no Google
+e mande e-mail diretamente para elas.
+Casse os Callows, os líderes técnicos
+dessas startups e aborde eles no
+LinkedIn pedindo uma oportunidade de
+primeiro emprego. Mande e-mails,
+entendeu? Faça isso, porque desse jeito
+você vai conseguir ter amplitude, você
+vai começar a aparecer para outras
+pessoas.
+Ah, que mais?
+Evite usar I para você estudar e criar
+essas coisas. Faça você mesmo. Aprenda
+os fundamentos da programação. A IA, ela
+é um bom recurso, mas no começo
+atrapalha um pouco. A não ser que você
+use ela para estudar, peça para fazer
+ela, faça, depois você vai lá e faz
+também. Para você gravar aquilo na tua
+cabeça. É muito importante você ter uma
+base técnica sólida, sabe?
+Eh, se você não tiver dinheiro para
+comprar cursos, compre cursos da EUDEM.
+Eemi é excelente, saca? O pessoal fala
+que os cursos de lá são antigos, mas não
+são não, saca? Você precisa ter uma base
+boa. Então, assim, um curso de Angular
+15, um curso de C#ARP, um curso de
+lógica de programação, sabe? Eh, isso é
+muito importante porque é barato, custa
+R$ 25 alguns cursos. Tem pacotes que
+você compra quatro, cinco cursos assim
+por um preço muito barato. Estude a
+fundo, se dedique 2, 3, 4 horas por dia.
+Se você não tá trabalhando, se dedique
+pelo menos 4 horas, 5 horas por dia
+estudando. Se você já trabalha, se você
+tá ajudando a sua família a e ainda tem
+que estudar, se dedique pelo menos 2
+horas, sabe?
+Eh, foca muito nos fundamentos da
+programação, nos fundamentos. Depois
+você vai aprendendo arquiteturas de
+software, eh, vamos supor no front end,
+microfrontends, no back end design
+patterns. Eh, no em em no no em app você
+foca, eu não sei que design pattern tem
+em app, porque eu não deve ter alguns
+lá, mas eu não conheço nenhum aqui,
+porque eu não desenvolvo para
+aplicativo. Mobile é outra mobile, né? é
+outra área muito boa para você é
+aprender e
+e se desenvolver, porque tem muita vaga.
+Esquece linguagens de hype. Que que é
+hype? São essas linguagens da moda,
+linguagem do momento, goal, é nem sei
+outra aí, não sei. Foca, foca em
+linguagem
+corporativa, C#ARP Java para back end.
+Se for para desenvolver aplicativo,
+Cotlin, eh, Flutter, React Native, são
+excelentes. Foca em uma dessas três.
+Escolha só uma e aprenda muito bem,
+sabe? Eh, olha, eu tenho esse vício de
+linguagem, eu fico falando sabe toda
+hora, tenho que mudar essa Eh, se
+for web, é Angular React Views, banco de
+dados, SQL Server.
+Ah, e Oracle, o Oracle tem
+muita vaga com SQL Server,
+infraestrutura WS ou Amazon, só tem as
+duas,
+né? Estude, estude muito, estude muito.
+Se você é
+programador, se você quer tá focando em
+desenvolvimento de software, estude como
+você, como funciona um DevOps, estude
+sobre Scrun. É importante porque você
+vai trabalhar, então é importante, você
+não precisa saber muito, mas você
+precisa saber como funciona, entendeu?
+Você precisa saber como funciona. É
+importante, estude o papel de um PO, por
+exemplo. Estude se programa para você
+estudar. Tem s dias na semana. Se você
+estudar 4 horas por dia, separa os seus
+finais de semana para você estudar sobre
+gestão de
+projetos, sabe? Pesquise termos como
+enterprise application, sempre Angular
+Enterprise application, C#ARP Enterprise
+Application, Java Enterprise
+Application. Por que o Enterprise
+Application? Porque são aplicações
+empresariais e aí você vai começar a ver
+artigos sobre assuntos determinados para
+aplicações empresariais. você vai você
+vai cair em em várias situações. Bom,
+você vai pesquisar, você vai ver, mas o
+que e eu acho que esse é o
+principal. Se você conseguir uma
+entrevista, estude sobre a empresa,
+entenda a empresa, pesquisa sobre o
+produto da empresa, pesquisa sobre as
+pessoas que trabalham naquela empresa.
+Isso é importante, isso vai te ajudar a
+se destacar. Não minta, fale sempre a
+verdade. Não sei. Eu perguntou um
+assunto. Eu não sei. Eu nunca. Você pode
+me explicar isso que você falou que eu
+entendi no meio da entrevista? Não tem
+problema nenhum. Não precisa ficar com
+vergonha de falar que não sabe. Eu não
+sei. Você pode me explicar? Eu não
+entendi. Ou eu li sobre, mas eu não
+domino o assunto. Me explica aí a pessoa
+vai lá e vai falar, sabe? Tenta
+dialogar. Desenvolva esse diálogo no
+momento da sua entrevista com o seu
+entrevistador. Isso vai ajudar você a se
+diferenciar, entendeu?
+Eh, saiba onde você quer chegar, porque
+se eu chegar numa entrevista e o cara
+perguntar tal, o que que você quer ser
+daqui 5
+anos? Então, estude a área, saiba, saiba
+quais são os caminhos de crescimento
+para um desenvolvedor. Você é
+estagiário, desenvolvedor, você quer ser
+o que daqui 5 anos? Sabe? Sonho alto.
+Isso é importante. Isso é muito
+importante. Chegue numa entrevista
+sorrindo, conversando, com uma energia
+positiva,
+entendeu? E assim, não espere salário.
+O, você não tá precisando de dinheiro
+agora, você tá precisando de ter a
+primeira
+oportunidade. Então, assim, cara, se
+surgir um estágio de R$ 800,
+vai, vai. Se surgi um estágio de 1000,
+melhor ainda. Vai, mas só vá, sabe? Eu
+acho que esse é o principal. Kelvin, mas
+eu queria trabalhar numa empresa grande.
+Todo mundo quer. Todo mundo quer.
+Empresas grandes, as BigTech ou grandes
+consultorias, uma empresa maior, elas, o
+processo seletivo dela é mais complexo.
+Então é melhor você entrar numa empresa
+menor, que o processo seletivo é mais
+porco, entre aspas, mas é mais você com
+a pessoa técnica do que você entrar num
+processo de empresa grande que você tem
+que passar pela turma do RH, pelo
+pessoal de people, sabe? Depois tem que
+passar num psicotécnico, tem que passar
+depois em testes teóricos, aí depois
+você conversar com fulano, são dezenas
+de estágios. Você tem que você tem que
+entender que você tá no momento de você
+aprender a prática, de você colocar em
+prática e ver como que é o dia a dia. A
+hora que você entrar nesse emprego, dá o
+seu máximo, mas o máximo mesmo. Soa e
+continua estudando. Continue estudando.
+Seja grato pela aquela oportunidade que
+você conseguiu e se esforce, mas se
+esforce de
+verdade. Se esforce como se aquela fosse
+a sua única oportunidade na face da
+terra. para dê o seu máximo e aprenda
+com o processo. Aprenda muito, se
+aproxime das pessoas, peça ajuda. Isso é
+muito importante. Isso é muito
+importante. Então assim, a dica que eu
+tenho para dar pro primeiro estágio é
+essa. Se você não tá fazendo faculdade,
+faça. Faculdade é muito importante. É
+muito, mas é muito mesmo, saca?
+Faculdade é uma peça fundamental para
+você arrumar um bom emprego. Você tem
+que estar numa numa faculdade pessoal, a
+não ser que você seja muito bom
+tecnicamente. Aí sim, mas aí você nem
+estaria procurando estágio. Se você for
+um cara muito bom tecnicamente fora da
+curva, você nem estaria procurando
+estágio. Então assim, essa é a minha
+dica para você que tá querendo e arrumar
+o a sua primeira oportunidade na área de
+tecnologia. E é verdade, tudo que eu
+falei aqui para você é verdade. Você vai
+ter que se esforçar. Não é fácil. Não é
+fácil. E tá concorrido. Tá cada vez mais
+concorrido. Eu diria até, eu vou até
+adicionar mais um ponto. Não use. Eu
+falei para não usar IA, né? Mas é
+importante você estudar sobre
+inteligência artificial, sobre, por
+exemplo, as ideas que os desenvolvedores
+estão falando, sobre o processo que tá
+na moda agora, o Vibe Code, sobre o que
+que é um MCP, sobre o que que é uma LLM,
+sobre o que que é uma Hag, saca? É muito
+importante você estudar. Esquece esse
+negócio de no code. Deleta isso da sua
+vida. Isso aí não vai fazer você chegar
+em lugar nenhum se você quer trabalhar,
+se você quer arrumar o seu primeiro
+estágio. No code é outro rolê. O negócio
+é código, high code, sabe? Foca nisso.
+Foca nisso. Fechou? Tá aqui a minha dica
+para você que quer ajudar o que quer
+arrumar o primeiro estágio. Ó, deixa eu
+te falar, se inscreve no canal, ativa o
+sininho que eu não sei onde que tá aqui,
+ó, o botãozinho de like aqui no canto,
+dá um like e comenta nesse vídeo,
+beleza? Dá essa fortalecida para
+nós. Um abraço. Falou para vocês, seus
+cachorros. M.

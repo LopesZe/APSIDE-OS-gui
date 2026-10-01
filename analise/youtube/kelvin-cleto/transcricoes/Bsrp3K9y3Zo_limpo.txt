@@ -1,0 +1,505 @@
+a hora mais temida para muitos deves
+chegou a antropic anunciou no dia 24 de
+fevereiro de fevereiro o lançamento do
+Cloud
+3.7 e junto com ele o cloud code que é
+uma ia vertical focada 100% para
+auxiliar desenvolvedores no
+desenvolvimento de código o cloud aí já
+é uma ferramenta muito utilizada né cara
+é uma é uma llm muito utilizada já por
+Acho que pela maioria dos
+desenvolvedores muito mais até que o
+chat GPT porque ela é muito boa e agora
+com o lançamento do Cloud code Vocês não
+tem ideia galera nesse vídeo aqui eu vou
+mostrar para vocês como o cloud code
+funciona eu tô puxando aqui para faz
+participar comigo O Rafael ele é
+arquiteto software aqui na na em uma das
+minhas empresas ele é responsável por
+toda a parte de desenvolvimento de Apps
+e usando flutter e a gente vai mostrar
+isso na prática para vocês tá Inclusive
+inclusive estamos usando desde o dia 25
+no caso ontem porque eu tô gravando esse
+vídeo hoje dia 26 o cloud code integrado
+com o cursor que é uma ideia de
+desenvolvimento para atuar em produção
+direto numa aplicação enterprise Tá
+então não é brincadeirinha não de faça
+uma telinha faça isso Faça aquilo deixa
+eu compartilhar minha tela aqui com
+vocês só para vocês terem uma ideia do
+do Cloud code tá então cara ele a A
+ideia é que ele entenda Ele lê toda a
+parte de estrutura de código ele
+consegue entender seu padrão e ele
+consegue te auxiliar realmente naquele
+projeto que você tá trabalhando eu vou
+deixar então se vocês quiserem saber
+mais entrem lá naop que eles lançaram lá
+a newsletter deles explicando Eles
+colocaram aqui um pouco da acuracidade
+então o quanto ele supera o cloud 3.5
+que já era muito bom principalmente a
+Open Ai que tá ficando para trás aqui
+com relação a isso e o mais legal é isso
+aqui ó Cloud code galera isso aqui é
+bizarro Mas vamos lá deixa eu mostrar
+essa parada aqui rolando em tempo real
+para vocês você tá preparada para
+aparecer no YouTube é não tô nunca tô
+sempre estou preparado ah moleque ó a
+galera trouxe aqui PR vocês ó o Rafa
+Cara eu não sei prenar o seu sobrenome
+até hoje Rafa
+Mendonça tomar no
+cu galera o Rafa o nosso arquiteto de
+software aqui ele é especializado em
+desenvolvimento mobile tá a gente aqui
+na nossa empresa utiliza o flutter como
+a gente utilizou react react na e por
+decisões
+de velocidade criação e tudo mais a
+gente optou aí pro flutter por conta
+daquilo que eu sempre falo PR vocês o
+que interessa no final das contas é
+resultado e o flutter nos traz o
+resultado que a gente espera aí de
+velocidade e aí ô Rafa hoje de manhã né
+a gente tava fazendo um bate-papo e eu
+falei Gente vocês não tem noção Surgiu
+uma parada nova chamada Cloud code eu
+vou começar a testar aí esse cachorro
+fala assim PR mim cara a funcionalidade
+que eu acabei de mostrar usei o Cláudio
+eu falei Ah para possível
+então eu falei então vamos gravar o
+vídeo agora aí a gente saiu da reunião
+já conectou aqui com vocês ó lembra que
+eu comentei com vocês o seguinte que o
+Em algum momento a gente ia ter uma ide
+que já tava integrada 100% com prompt de
+comandos tipo chat PT e o negócio ia
+começar a ser interativo essa era a
+próxima evolução e ter uma I que seja
+vertical para desenvolvimento cara eu
+gravei esse vídeo semana passada isso
+semana passada talvez ainda nem tenha
+sido publicado o vídeo que eu falo sobre
+isso mas eu tava conversando com o Rafa
+Ele me mostrou a ideia que ele utiliza
+Como que é o nome Rafa é o cursor o
+cursor ela é baseada no vest code
+diretamente então tudo que você tem
+extensões tudo vai ser eh jogado ali pro
+cursor e ele só meio que é usada a parte
+de geração de código do do Cloud né
+Então olha se liga é como se o chat GPT
+a ideia do GPT né do prompt já tivesse
+embutida dentro da ideia de
+desenvolvimento saca e ele configurou o
+no caso a llm do Cloud code para fazer
+esse processo Rafa vamos lá qual que é a
+outra ideia que tem aí de que você
+utilizou é o cursor Qual que é a outra
+que você tinha comentado que é muito
+famosa Acho que foi o Pedro que comentou
+né é o o trai trai o trai e eu achei uma
+o Ah é ele o pai dele parece que usa a
+contu lá no no no vs code que é uma
+extensão bom Resumindo gente dá para
+integrar literalmente a llm direto no no
+no na ideia de desenvolvimento só que
+cara o cloud code é absurdo ele é
+absurdo Rafa vai Mostra aí cara a gente
+tá criando um projeto do zero mas a
+gente tá usando lá no enterprise no
+projeto enterprise que eu vou tentar
+mostrar aqui para vocês mas se liga
+Mostra aí Rafa vai gera um vamos gerar
+uma aplicação igual do WhatsApp
+igualzinha vai iG igualzinha boa é então
+aqui eu para mostrar para vocês
+inicialmente acabei gerando um projeto
+de futter zeradinho vocês podem perceber
+que aqui ah futter demo home page é a
+página inicial né de quando após gerado
+ali a o flutter comand l a gente abre
+aqui a parte do do do do da da do ide do
+do cursor tem visual estúdio por essa
+eu já troquei já aqui ó se liga já
+tô ai caramba gente usando só o cursor
+já nem instalei o vest code aqui dentro
+da minha máquina só tenho aqui o
+complementa idêntico mesma coisa com o
+vest code é o for ex é praticamente o
+vest code só que tem algumas mudanças
+visuais aqui que eles melhoraram enfim
+Tem notificações aqui doado enfim aquas
+frescuras vou gerar aqui agora vou vou
+gerar uma pergunta aqui para mandar uma
+pergunta para o composer do do cursor
+usando aqui o cloud 3.7
+sonet né ele tem outros aqui outros
+outras outros geradores Néo eh então
+direto no no cursor que Ele oferece aqui
+eu vou botar aqui ó
+cri uma interface
+Idêntica
+WhatsApp
+e junto disso implemente as
+funcionalidades dele também somente eu
+vou passar só vou passar isso aqui
+ai eu tava testando uma outra pergunta
+eu tava testando uma outra pergunta
+anteriormente aqui e ele eu eu perguntei
+assim ó quero que crie uma WhatsApp
+visual e funcionalidades iguais Eu acho
+que eu vou perguntar essa aqui mas acho
+que é melhor mais mais vai dar mais
+certinho vou clicar aqui e ele
+automaticamente vai gerar que ele é
+rápido para caramba ó criação de um
+clone no WhatsApp ele dá uns testin ali
+mas você só ignora porque ele começa a
+criar os o você vê ele criando aqui os
+códigos já automaticamente
+arquivos né exatamente ele já insere
+aqui no Main também já começa a criar
+arquivos fora ol ol lura ele já criou as
+screens ele segue um padrão de projeto
+mercado se você pedir para ele criar um
+mvvm ele vai criar se tu quer que ele
+use cuish ele vai usar ele vai instalar
+dependência direto para você já também
+então imag Ah para vocês terem ideia
+gente eu tô dando risada porque assim
+criar interface do WhatsApp é fácil
+porque a gente tava implementando num
+num nessa nossa aplicação o modelo é
+offline first e a gente utiliza o Realm
+DB integrado com Mongo e cara ele já PCA
+já gera até os já já era até a parte do
+Mongo né cara já o negócio
+exato É e essa parte de integração ele
+já identifica ele já viê o contexto do
+app todo já utiliza as cores do padrão
+do projeto já utiliza a o padrão de
+arquitetura você usa o cubt já vai claro
+né tudo tudo precisa de mão humana para
+você também funcionar as coisas né inte
+certinho né mas analisar ele entendeu o
+nosso padrão de projeto entendeu quais
+são os componentes que a gente usa para
+tipo os input drop Down tudo mais e foi
+lá e implementou o próprio componente
+que a gente tinha criado né exatamente
+ele vai lá já já já conhece o contexto
+aqui ó ele acabou de gerar já ó
+instruções para gerar o projeto cara
+ignora porque se você der um accept aqui
+ó ele já vai salvar todos os arquivos do
+teu projeto vou dar um comand L para
+fechar salvou tudo já ó Car eu vou dar
+um hot Restart agora é a hora será
+que mano cara olha isso aqui vho Car
+mano do céu velho código é comod eu tô
+falando eu mano ô Rafa você você tá de
+prova eu sou um dos principais
+Defensores de aplicação de Inteligência
+Artificial pra Dev
+e isso Tá agilizando demais a nossa
+empresa aqui né o time o time tá meu
+tudo bem que o nosso time já é é um time
+chuto por ser uma Startup Mas se a gente
+pensar assim vamos abrir vaga vale a
+pena abrir vaga para trazer
+Júnior o que o código que ele gera já é
+um Júnior atuando né então mais duvido
+que o Júnior faz um pronte desse aí ó
+olha lá gente olha a utilização cara é
+assustador isso claro que ele não vai
+gerar tudo ah chamadas aqui vou ligar
+faz uma ligação Claro daí tu vai lá e
+especifica para ele ó ah você acabou não
+gerando a funcionalidade de ligação pode
+implementar para mim ele vai me Daros
+passo a passo boa parte de código ele
+vai implementar ó ele não criou os
+estatus faz is aí faz o seguinte ó eu
+quero que você altere vamos vamos fazer
+uma alteração eh seguinte Clica ali em
+conversas Eu quero que você crie uma
+funcionalidade de grupos fala para ele ó
+vamos vamos vamos adicionar incrementos
+ao desenvolvimento eu quero que você
+crie você crie uma funcionalidade de
+grupos onde eu possa agrupar várias
+conversas em um único
+grupo agrupar várias
+conversas em um único bloco boa
+listando por
+exemplo favoritos né favoritos de
+algumas pessoas favoritas por exemplo é
+isso não listando não coloca o seguinte
+ó que você vai coloca só até a parte do
+único do único
+bloco aí coloca o seguinte ponto todas
+as conversas de todas as pessoas devem
+aparecer todas J eh no mesmo no no mesmo
+grupo né tipo agrup agrupadas não
+listadas corridas em lista corrida isso
+só isso vai ó especificamos
+vamos lá especificamos aqui cara e Nossa
+cara sabe o que vai acontecer Ô Rafa o
+tipo assim ó se você parar para analisar
+eh a gente vai ter ali times de
+desenvolvimento eles tendem a ter tipo
+os desenvolvedores tendem a se
+transformar eles tendem a absorver o a
+parte de negócio né então o que o pi faz
+ali por exemplo que o analista de
+requisitos faz ele diminui a intensidade
+de escrever código é um cara que sim vai
+ter que saber a parte técnica muito bem
+porque querendo ou não a gente tem que
+fazer a validação desse código e saber
+se a implementação tá correta ou não mas
+cara é agiliza demais agiliza demais
+então você tendo uma habilidade de
+negócio você tendo uma habilidade de
+conseguir entender o negócio e saber o
+que que é preciso desenvolver e e
+descrever uma tarefa bem escrita uma é
+bem escrita essa parada resolve mano
+tudo depende do que você perguntar pra
+IDE PRO pro pro chat né então tu também
+tem que saber perguntar e também tem que
+saber mexer no código para entender o
+que ele tá fazendo não adianta gerar o
+código aqui e mandar pra produção porque
+talvez ele gerou o código que você nem
+sabe e você vai mandar para produção uma
+coisa que eh não tá nem pronta né então
+tu tem que validar todo o código depois
+mas assim a pessoa que já sabe
+Tecnicamente ela vai conseguir adiantar
+muito
+muito você sabe o que eu já percebi que
+por exemplo quando você joga para ele
+criar do zero ele cria numa estrutura um
+pouco mais desorganizada a quando por
+exemplo a gente quando você aplicou lá
+no nosso no enterprise Ele seguiu a
+mesma estrutura de pasta denominação e
+arquitetura que a gente tinha descrito
+inicialmente que a gente tinha
+desenvolvido inicialmente no projeto né
+exatamente ó por exemplo aqui ó ele já
+não importou alguns objetos que deveria
+ter bo nesse caso que que que a gente
+tem que fazer ele vai aparecer uma
+opçãoincorreta
+por exemplo el tem um custo para cada
+para cada prompt desse aí eu diria que
+tem um custo aí de uns 800 de
+dólar boa ó aqui ó ele gerou aqui agora
+tá ele já adaptou então em conversas ó
+vamos lá vamos ver o resultado E ali em
+conversas a gente tem grupo família olha
+que louco Deixa eu só remover os Break
+points aqui do
+negócio Caraca cara Cara que negócio
+fora de c tem algumas coisas ali que ele
+botou de imag né que a gente acaba não
+tendo aqui
+ahã que estão dando rro 404 mas assim
+isso são coisas que tu pode adaptar
+depois né mas ele vai criou aqui ó e tem
+várias pessoas participando ó também ele
+não queria pistar os participantes mas
+já percebe que tem outras pessoas aqui
+já também
+eh trabalho vamos vamos Alé Então Rafa
+dentro escreve uma outro uma outro um
+outro vai como se fosse uma
+uma nova feature dentro dos grupos cria
+funcionalidade para listar os
+participantes daquele
+grupo preciso que dentro dos grupos você
+escreveu também igual igual cu né só mas
+ele tem que vamos ver se ele vai
+entender dessa
+forma não mas ele dentro dos grupos que
+ele acabou de criar ele vai Inserir a
+listagem tenho certeza que ele vai criar
+aqui
+aí já tá criando já Caraca
+velho é muito louco isso aqui isso aqui
+nossa V ó eu eu eu tava lendo ontem o
+release disso aí velho eles escreveram
+ontem lá na antropic lá lançaram o o
+release lá e eles comentando a
+eficiência e o dessa desse desse
+novo modelo como ele foi desenhado isso
+que eu falei para você isso sim é uma é
+uma ia vertical Na minha opinião esse
+tipo de modelo funciona mais que o Devin
+já ouviu falar do Devin Ô Rafa não ouvi
+o Devin é o seguinte ele é bem parecido
+com isso só que você não tá ele não tá
+embutido no compilador ele tá lá no
+Slack ele tá lá no no ele tá conectado
+no Slack no github me Deus e aí você
+pede olha isso Ele criou tudo
+olha mano que assustador foi criou todo
+a parte deales do grupo caraca e você
+que o admin do grupo tá online cara
+nossa isso aqui é sensacional cara eu
+vou te falar que eu tô criando WhatsApp
+aqui na minha frente agora lco meu ao
+vivo estamos programando essa esse é o
+modelo de programação futuro Rafa o que
+a gente tá fazendo aqui agora e aí é
+tipo assim ó vamos vamos vamos além
+vamos além e quero utilizar especifico o
+seguinte ó quero utilizar o Realm DB
+conectado realme conectado com mongo já
+e desenvolva toda a estrutura de de
+conexão
+para salvar as informações no
+banco isso é o modelo que a gente vai
+partir para desenvolvimento a partir de
+de de agora saca o o rolê agora é esse a
+gente vai ter que estudar muita
+programação Rafa porque você sabe o que
+acontece você vai acabar esquecendo mano
+sim vai acabar esquecendo cara igual eu
+eu tô fora do Dev tem o que galera uns
+dois do anos dois 3 anos assim que eu
+não pego para desenvolver pesado mesmo e
+eu só faço os meus projetinhos porque
+que eu gosto muito de desenvolver eu tô
+mais na parte estratégica das empresas e
+a gente acaba ficando travado a gente
+acaba esquecendo a gente acaba
+esquecendo os o conceito em si não mas a
+gente esquece a sintaxe do negócio
+entendeu foi é né Eu acho que eu
+não consigo nem converter mais umas
+variáveis de float para
+decimal mas só mostrando uma outra F que
+a gente não viu ali ele manda também
+mensagens ele tá mandando mensagens com
+a hora certa tambm tambm com a hora
+certinha claro né o cheque Zinho
+desenvolveu os emojis ali já não isso
+não não não ainda não is não Caraca cara
+mas é bem interessante ele criou aqui em
+cima agora pedi para ele criar sobre o
+mongo ali ele criou sobre as tabelas né
+que a gente vai colocar lá no mongo
+porque isso aqui é uma parte manual
+também do do do programador né tem que
+criar essa esse Jon lá dentro do Mongo
+passar as as tabelas tudo os objetos que
+vão ter então isso não tem como sair do
+controle mesmo ah configuração do
+realmdb isso aqui realmente é uma coisa
+que precisa ah configuração de
+autenticação Cara isso aqui tudo é uma
+questão necessária e que realmente a
+gente já viu no protinho nosso el
+enterprise lá que a gente já viu isso
+aqui lá e funcionando né então é É mas
+isso que é legal se você já tem o m impl
+é aquilo Tem coisa que você vale mais a
+pena você mesmo fazer você implementa a
+conexão com monga estrutura e tudo mais
+aí depois você chega para ele e fala
+assim agora você faça a implementação
+usando isso isso isso isso isso aí ele
+vai lá e vai e vai continuar cara exato
+Olha só quantas dependências libes que
+ele já inseriu aqui no nosso app todas
+elas Biz todas elas já todas eh Se eu
+der um pubg aqui no no
+console ele vai trazer aqui ã todas elas
+certinha a versão porque Ger tu instala
+uma versão ela dá conflito com outra
+cara isso aqui ele resolve Para ti
+também então não há conflitos de versões
+cara agora eu fui ver aqui que tem um
+monte de problema de importação e tal
+isso aqui é claro Ele mexeu em muita
+coisa né talvez nem existe alguma alguma
+função aqui Total mas já deu para ter
+noção do da potência do do do do Cloud
+code aplicada realmente e de novo galera
+Vocês entenderam né Isso aqui foi um
+exemplo uma uma demo mas o já tá
+implementando isso no seu dia a dia lá
+num código cara Quantos cara nosso
+código é gigante o aplicativo é
+gigantesca nosso código já vai mais de
+três 5000 linhas praticamente Olha é é
+monstruoso cara monstruoso mesmo coisa
+coisa absurda a plataforma enterprise
+mesmo tem toda a parte de ser robusta
+toda a parte de segurança que cara lgpd
+e o e mesmo assim você conseguiu
+ele conseguiu utilizar o o cloud code e
+ter um um resultado de performance assim
+absurdo absurdo certo Exatamente é e
+como e no código enterprise ali a gente
+acaba não a gente acaba usando esse esse
+composer aqui do chat que ele vai acabar
+alterando vários arquivos também mas
+como a gente tem que ter uma uma
+delicadeza um pouco mais eh minimalista
+no código em si cara o cursor ele também
+se você selecionar uma parte do código
+ele só vai alterar essa parte do código
+quero que ah tá dando erro nessa parte
+do código ente melhoria essa melhoria no
+modal específico ele vai alterar só no
+cursor em cima da onde você selecionou
+nossa exato Quero que melhore essa essa
+parte do código enfim Qual o que você
+mandar ele vai alterar ou tá dando erro
+nessa parte não foi criado o o FR de som
+desse messag aqui ele vai alterar também
+então eh ele vai ajustar para ti somente
+nessa parte do código e é e esse esse é
+o olhar pro programador ter essa visão
+mais clara do que tá sendo feito né não
+o código eh o cursor alterar né no
+código inteiro nem e nem você ficar
+sabendo onde que foi alterado né então é
+isso aí é isso top gente eu vou encerrar
+já não tem mais o que falar ten que
+deixar o Rafa trabalhar e eu também tem
+porque ó eu parei para gravar esse vídeo
+aqui cara porque não tinha o que fazer
+né mas meu horário de gravação é após as
+19 porque eu tenho bastante coisa para
+fazer galera esse foi mais uma vez Para
+comprovar para vocês que não tem essa Ah
+o mundo tá mando não sei o mundo já
+mudou meu o mundo já mudou o negócio tá
+ficando uma loucura e daqui pra frente é
+só para trás daqui pra frente se não se
+se vocês não não aderia a isso aqui já
+era acabou código virou commodity Rafa
+Muito obrigado pela sua participação
+desculpa tá disparada aí n suas demandas
+mas eu não vou renegociar prazo com
+você tá tudo muito apertado ai ai que
+agora as coisas vai ficar mais fácil
+prazo tem que
+diminuir
+i o chefe fica maluco é nós meu querido
+grador também valeu mais abo tchau tchau
+vocês galera Valeu falou

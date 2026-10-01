@@ -1,0 +1,4576 @@
+WEBVTT
+Kind: captions
+Language: pt
+
+00:00:00.040 --> 00:00:03.030 align:start position:0%
+ 
+fala<00:00:00.240><c> Dev</c><00:00:00.959><c> empreendedor</c><00:00:01.959><c> nessa</c><00:00:02.320><c> videoaula</c><00:00:02.919><c> eu</c>
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+fala Dev empreendedor nessa videoaula eu
+ 
+
+00:00:03.040 --> 00:00:04.749 align:start position:0%
+fala Dev empreendedor nessa videoaula eu
+vou<00:00:03.199><c> te</c><00:00:03.320><c> ensinar</c><00:00:03.639><c> a</c><00:00:03.760><c> fazer</c><00:00:03.919><c> um</c>
+
+00:00:04.749 --> 00:00:04.759 align:start position:0%
+vou te ensinar a fazer um
+ 
+
+00:00:04.759 --> 00:00:07.510 align:start position:0%
+vou te ensinar a fazer um
+chatbot<00:00:05.759><c> integrado</c><00:00:06.240><c> com</c><00:00:06.680><c> chat</c><00:00:07.000><c> CPT</c><00:00:07.439><c> para</c>
+
+00:00:07.510 --> 00:00:07.520 align:start position:0%
+chatbot integrado com chat CPT para
+ 
+
+00:00:07.520 --> 00:00:10.110 align:start position:0%
+chatbot integrado com chat CPT para
+fazer<00:00:07.720><c> todo</c><00:00:08.080><c> fluxo</c><00:00:08.480><c> de</c><00:00:08.639><c> venda</c><00:00:09.440><c> por</c><00:00:09.599><c> exemplo</c><00:00:10.040><c> eu</c>
+
+00:00:10.110 --> 00:00:10.120 align:start position:0%
+fazer todo fluxo de venda por exemplo eu
+ 
+
+00:00:10.120 --> 00:00:12.390 align:start position:0%
+fazer todo fluxo de venda por exemplo eu
+vou<00:00:10.320><c> criar</c><00:00:10.559><c> o</c><00:00:10.679><c> meu</c><00:00:10.840><c> chatbot</c><00:00:11.559><c> aqui</c><00:00:11.960><c> mostrando</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+vou criar o meu chatbot aqui mostrando
+ 
+
+00:00:12.400 --> 00:00:15.470 align:start position:0%
+vou criar o meu chatbot aqui mostrando
+para<00:00:12.599><c> vocês</c><00:00:13.040><c> em</c><00:00:13.280><c> tempo</c><00:00:13.599><c> real</c><00:00:14.200><c> usando</c><00:00:14.599><c> o</c><00:00:14.799><c> cursor</c>
+
+00:00:15.470 --> 00:00:15.480 align:start position:0%
+para vocês em tempo real usando o cursor
+ 
+
+00:00:15.480 --> 00:00:17.230 align:start position:0%
+para vocês em tempo real usando o cursor
+o<00:00:15.879><c> cloud</c><00:00:16.240><c> sonet</c>
+
+00:00:17.230 --> 00:00:17.240 align:start position:0%
+o cloud sonet
+ 
+
+00:00:17.240 --> 00:00:20.230 align:start position:0%
+o cloud sonet
+3.7<00:00:18.240><c> vou</c><00:00:18.439><c> usar</c><00:00:18.800><c> vou</c><00:00:19.080><c> fazer</c><00:00:19.279><c> ele</c><00:00:19.520><c> em</c><00:00:19.680><c> node</c><00:00:20.039><c> e</c><00:00:20.119><c> vou</c>
+
+00:00:20.230 --> 00:00:20.240 align:start position:0%
+3.7 vou usar vou fazer ele em node e vou
+ 
+
+00:00:20.240 --> 00:00:23.109 align:start position:0%
+3.7 vou usar vou fazer ele em node e vou
+usar<00:00:20.400><c> uma</c><00:00:20.680><c> ap</c><00:00:21.000><c> da</c><00:00:21.080><c> Venom</c><00:00:21.439><c> é</c><00:00:22.119><c> uma</c><00:00:22.359><c> uma</c><00:00:22.640><c> Lib</c><00:00:23.000><c> da</c>
+
+00:00:23.109 --> 00:00:23.119 align:start position:0%
+usar uma ap da Venom é uma uma Lib da
+ 
+
+00:00:23.119 --> 00:00:24.950 align:start position:0%
+usar uma ap da Venom é uma uma Lib da
+Venom<00:00:23.599><c> chamada</c><00:00:23.840><c> Vena</c><00:00:24.199><c> vocês</c><00:00:24.400><c> vão</c><00:00:24.560><c> conhecer</c><00:00:24.880><c> eu</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+Venom chamada Vena vocês vão conhecer eu
+ 
+
+00:00:24.960 --> 00:00:26.790 align:start position:0%
+Venom chamada Vena vocês vão conhecer eu
+vou<00:00:25.119><c> mostrar</c><00:00:25.359><c> já</c><00:00:25.560><c> já</c><00:00:26.000><c> Mas</c><00:00:26.199><c> qual</c><00:00:26.480><c> que</c><00:00:26.599><c> é</c><00:00:26.679><c> o</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+vou mostrar já já Mas qual que é o
+ 
+
+00:00:26.800 --> 00:00:29.029 align:start position:0%
+vou mostrar já já Mas qual que é o
+objetivo<00:00:27.240><c> vou</c><00:00:27.359><c> criar</c><00:00:27.560><c> um</c><00:00:27.679><c> SDR</c><00:00:28.359><c> para</c><00:00:28.519><c> me</c><00:00:28.640><c> ajudar</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+objetivo vou criar um SDR para me ajudar
+ 
+
+00:00:29.039 --> 00:00:31.830 align:start position:0%
+objetivo vou criar um SDR para me ajudar
+nas<00:00:29.279><c> vendas</c><00:00:30.119><c> e</c><00:00:30.560><c> na</c><00:00:30.679><c> recuperação</c><00:00:31.160><c> de</c><00:00:31.320><c> carrinho</c>
+
+00:00:31.830 --> 00:00:31.840 align:start position:0%
+nas vendas e na recuperação de carrinho
+ 
+
+00:00:31.840 --> 00:00:33.869 align:start position:0%
+nas vendas e na recuperação de carrinho
+lá<00:00:31.960><c> da</c><00:00:32.079><c> escola</c><00:00:32.320><c> do</c><00:00:32.599><c> Dev</c><00:00:32.960><c> empreendedor</c>
+
+00:00:33.869 --> 00:00:33.879 align:start position:0%
+lá da escola do Dev empreendedor
+ 
+
+00:00:33.879 --> 00:00:35.750 align:start position:0%
+lá da escola do Dev empreendedor
+inclusive<00:00:34.440><c> o</c><00:00:34.559><c> código</c><00:00:35.000><c> completo</c><00:00:35.360><c> vai</c><00:00:35.600><c> est</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+inclusive o código completo vai est
+ 
+
+00:00:35.760 --> 00:00:38.190 align:start position:0%
+inclusive o código completo vai est
+disponível<00:00:36.280><c> para</c><00:00:36.399><c> todos</c><00:00:36.640><c> os</c><00:00:36.800><c> alunos</c><00:00:37.120><c> e</c><00:00:37.960><c> mais</c>
+
+00:00:38.190 --> 00:00:38.200 align:start position:0%
+disponível para todos os alunos e mais
+ 
+
+00:00:38.200 --> 00:00:40.750 align:start position:0%
+disponível para todos os alunos e mais
+hein<00:00:38.680><c> eu</c><00:00:38.800><c> vou</c><00:00:39.000><c> auxiliá-los</c><00:00:39.680><c> a</c><00:00:39.760><c> criar</c><00:00:40.039><c> chatbots</c>
+
+00:00:40.750 --> 00:00:40.760 align:start position:0%
+hein eu vou auxiliá-los a criar chatbots
+ 
+
+00:00:40.760 --> 00:00:42.910 align:start position:0%
+hein eu vou auxiliá-los a criar chatbots
+para<00:00:41.000><c> vender</c><00:00:41.719><c> então</c><00:00:42.000><c> se</c><00:00:42.120><c> você</c><00:00:42.360><c> quer</c><00:00:42.600><c> aprender</c>
+
+00:00:42.910 --> 00:00:42.920 align:start position:0%
+para vender então se você quer aprender
+ 
+
+00:00:42.920 --> 00:00:46.229 align:start position:0%
+para vender então se você quer aprender
+a<00:00:43.000><c> fazer</c><00:00:43.200><c> o</c><00:00:43.360><c> seu</c><00:00:44.079><c> cola</c><00:00:44.840><c> com</c><00:00:45.000><c> nós</c><00:00:45.640><c> link</c><00:00:46.000><c> tá</c><00:00:46.120><c> na</c>
+
+00:00:46.229 --> 00:00:46.239 align:start position:0%
+a fazer o seu cola com nós link tá na
+ 
+
+00:00:46.239 --> 00:00:48.389 align:start position:0%
+a fazer o seu cola com nós link tá na
+descrição<00:00:46.719><c> Bora</c><00:00:47.000><c> vamos</c><00:00:47.280><c> começar</c><00:00:47.920><c> e</c><00:00:48.120><c> para</c>
+
+00:00:48.389 --> 00:00:48.399 align:start position:0%
+descrição Bora vamos começar e para
+ 
+
+00:00:48.399 --> 00:00:50.590 align:start position:0%
+descrição Bora vamos começar e para
+fazer<00:00:48.600><c> essa</c><00:00:48.879><c> implementação</c><00:00:49.840><c> eu</c><00:00:50.079><c> tenho</c><00:00:50.360><c> duas</c>
+
+00:00:50.590 --> 00:00:50.600 align:start position:0%
+fazer essa implementação eu tenho duas
+ 
+
+00:00:50.600 --> 00:00:53.270 align:start position:0%
+fazer essa implementação eu tenho duas
+opções<00:00:50.960><c> eu</c><00:00:51.039><c> posso</c><00:00:51.239><c> usar</c><00:00:51.440><c> a</c><00:00:51.600><c> ap</c><00:00:51.920><c> oficial</c><00:00:52.920><c> do</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+opções eu posso usar a ap oficial do
+ 
+
+00:00:53.280 --> 00:00:55.630 align:start position:0%
+opções eu posso usar a ap oficial do
+WhatsApp<00:00:53.960><c> então</c><00:00:54.320><c> direto</c><00:00:54.640><c> na</c><00:00:54.800><c> meta</c><00:00:55.000><c> ou</c><00:00:55.280><c> plugado</c>
+
+00:00:55.630 --> 00:00:55.640 align:start position:0%
+WhatsApp então direto na meta ou plugado
+ 
+
+00:00:55.640 --> 00:00:59.389 align:start position:0%
+WhatsApp então direto na meta ou plugado
+na<00:00:55.840><c> tuí</c><00:00:56.320><c> né</c><00:00:56.520><c> e</c><00:00:57.399><c> ou</c><00:00:57.640><c> eu</c><00:00:57.760><c> vou</c><00:00:57.960><c> fazer</c><00:00:58.280><c> do</c><00:00:58.519><c> modo</c><00:00:58.960><c> raiz</c>
+
+00:00:59.389 --> 00:00:59.399 align:start position:0%
+na tuí né e ou eu vou fazer do modo raiz
+ 
+
+00:00:59.399 --> 00:01:02.229 align:start position:0%
+na tuí né e ou eu vou fazer do modo raiz
+aqui<00:00:59.640><c> do</c><00:00:59.960><c> no</c><00:01:00.079><c> modo</c><00:01:00.280><c> poc</c><00:01:00.719><c> eu</c><00:01:00.840><c> vou</c><00:01:01.000><c> usar</c><00:01:01.440><c> essa</c><00:01:01.840><c> Lib</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+aqui do no modo poc eu vou usar essa Lib
+ 
+
+00:01:02.239 --> 00:01:04.189 align:start position:0%
+aqui do no modo poc eu vou usar essa Lib
+chamada<00:01:02.559><c> orquestral</c><00:01:03.239><c> Venom</c><00:01:03.800><c> que</c><00:01:03.920><c> ela</c><00:01:04.040><c> foi</c>
+
+00:01:04.189 --> 00:01:04.199 align:start position:0%
+chamada orquestral Venom que ela foi
+ 
+
+00:01:04.199 --> 00:01:07.030 align:start position:0%
+chamada orquestral Venom que ela foi
+escrita<00:01:04.479><c> em</c><00:01:05.000><c> node</c><00:01:05.720><c> e</c><00:01:05.960><c> o</c><00:01:06.080><c> que</c><00:01:06.240><c> que</c><00:01:06.320><c> ela</c><00:01:06.520><c> faz</c>
+
+00:01:07.030 --> 00:01:07.040 align:start position:0%
+escrita em node e o que que ela faz
+ 
+
+00:01:07.040 --> 00:01:10.630 align:start position:0%
+escrita em node e o que que ela faz
+basicamente<00:01:07.520><c> ela</c><00:01:08.040><c> cria</c><00:01:08.280><c> um</c><00:01:08.520><c> um</c><00:01:08.880><c> rapper</c><00:01:09.799><c> um</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+basicamente ela cria um um rapper um
+ 
+
+00:01:10.640 --> 00:01:13.789 align:start position:0%
+basicamente ela cria um um rapper um
+crawler<00:01:11.600><c> um</c><00:01:12.000><c> robozinho</c><00:01:12.759><c> que</c><00:01:12.920><c> lê</c><00:01:13.240><c> o</c><00:01:13.320><c> WhatsApp</c>
+
+00:01:13.789 --> 00:01:13.799 align:start position:0%
+crawler um robozinho que lê o WhatsApp
+ 
+
+00:01:13.799 --> 00:01:15.789 align:start position:0%
+crawler um robozinho que lê o WhatsApp
+web<00:01:14.360><c> Olha</c><00:01:14.600><c> que</c><00:01:14.680><c> legal</c><00:01:14.880><c> gente</c><00:01:15.040><c> ó</c><00:01:15.439><c> ela</c><00:01:15.600><c> lê</c><00:01:15.720><c> o</c>
+
+00:01:15.789 --> 00:01:15.799 align:start position:0%
+web Olha que legal gente ó ela lê o
+ 
+
+00:01:15.799 --> 00:01:17.590 align:start position:0%
+web Olha que legal gente ó ela lê o
+WhatsApp<00:01:16.240><c> web</c><00:01:16.560><c> ela</c><00:01:16.720><c> também</c><00:01:16.960><c> tá</c><00:01:17.119><c> integrada</c><00:01:17.479><c> com</c>
+
+00:01:17.590 --> 00:01:17.600 align:start position:0%
+WhatsApp web ela também tá integrada com
+ 
+
+00:01:17.600 --> 00:01:19.390 align:start position:0%
+WhatsApp web ela também tá integrada com
+o<00:01:17.680><c> telegram</c><00:01:18.040><c> com</c><00:01:18.200><c> o</c><00:01:18.280><c> discord</c><00:01:18.640><c> com</c><00:01:18.920><c> super</c><00:01:19.119><c> chats</c>
+
+00:01:19.390 --> 00:01:19.400 align:start position:0%
+o telegram com o discord com super chats
+ 
+
+00:01:19.400 --> 00:01:22.390 align:start position:0%
+o telegram com o discord com super chats
+Ah<00:01:20.079><c> e</c><00:01:20.240><c> ela</c><00:01:20.880><c> eu</c><00:01:21.040><c> consigo</c><00:01:21.439><c> manipular</c><00:01:21.880><c> ali</c><00:01:22.240><c> as</c>
+
+00:01:22.390 --> 00:01:22.400 align:start position:0%
+Ah e ela eu consigo manipular ali as
+ 
+
+00:01:22.400 --> 00:01:24.310 align:start position:0%
+Ah e ela eu consigo manipular ali as
+mensagens<00:01:23.240><c> é</c><00:01:23.320><c> bem</c><00:01:23.479><c> legal</c><00:01:23.640><c> então</c><00:01:24.000><c> é</c><00:01:24.119><c> muito</c>
+
+00:01:24.310 --> 00:01:24.320 align:start position:0%
+mensagens é bem legal então é muito
+ 
+
+00:01:24.320 --> 00:01:26.789 align:start position:0%
+mensagens é bem legal então é muito
+fácil<00:01:25.000><c> então</c><00:01:25.400><c> vou</c><00:01:25.520><c> escrever</c><00:01:25.799><c> um</c><00:01:25.920><c> prompt</c><00:01:26.439><c> aqui</c>
+
+00:01:26.789 --> 00:01:26.799 align:start position:0%
+fácil então vou escrever um prompt aqui
+ 
+
+00:01:26.799 --> 00:01:31.389 align:start position:0%
+fácil então vou escrever um prompt aqui
+crie<00:01:27.280><c> uma</c><00:01:27.520><c> aplicação</c><00:01:27.880><c> a</c><00:01:28.880><c> node</c><00:01:30.240><c> implementando</c>
+
+00:01:31.389 --> 00:01:31.399 align:start position:0%
+crie uma aplicação a node implementando
+ 
+
+00:01:31.399 --> 00:01:36.550 align:start position:0%
+crie uma aplicação a node implementando
+alib<00:01:32.799><c> orquestral</c><00:01:34.240><c> Venom</c><00:01:35.240><c> para</c><00:01:35.600><c> criar</c><00:01:35.880><c> um</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+alib orquestral Venom para criar um
+ 
+
+00:01:36.560 --> 00:01:41.550 align:start position:0%
+alib orquestral Venom para criar um
+chatbot<00:01:37.560><c> via</c><00:01:38.520><c> WhatsApp</c><00:01:39.520><c> vou</c><00:01:40.000><c> mandar</c><00:01:40.280><c> só</c>
+
+00:01:41.550 --> 00:01:41.560 align:start position:0%
+chatbot via WhatsApp vou mandar só
+ 
+
+00:01:41.560 --> 00:01:44.990 align:start position:0%
+chatbot via WhatsApp vou mandar só
+isso<00:01:42.560><c> eu</c><00:01:42.759><c> ten</c><00:01:43.079><c> que</c><00:01:43.320><c> pagar</c><00:01:44.560><c> mano</c><00:01:44.880><c> vou</c>
+
+00:01:44.990 --> 00:01:45.000 align:start position:0%
+isso eu ten que pagar mano vou
+ 
+
+00:01:45.000 --> 00:01:47.469 align:start position:0%
+isso eu ten que pagar mano vou
+pagar<00:01:45.240><c> aqui</c><00:01:45.360><c> e</c><00:01:45.479><c> já</c><00:01:45.600><c> volto</c><00:01:45.960><c> Pera</c><00:01:46.159><c> aí</c><00:01:46.360><c> tá</c><00:01:46.600><c> pago</c>
+
+00:01:47.469 --> 00:01:47.479 align:start position:0%
+pagar aqui e já volto Pera aí tá pago
+ 
+
+00:01:47.479 --> 00:01:49.789 align:start position:0%
+pagar aqui e já volto Pera aí tá pago
+tive<00:01:47.840><c> que</c><00:01:47.960><c> pagar</c><00:01:48.320><c> não</c><00:01:48.479><c> consegui</c><00:01:48.960><c> usar</c>
+
+00:01:49.789 --> 00:01:49.799 align:start position:0%
+tive que pagar não consegui usar
+ 
+
+00:01:49.799 --> 00:01:52.870 align:start position:0%
+tive que pagar não consegui usar
+sem<00:01:50.799><c> sem</c><00:01:51.159><c> pagar</c><00:01:51.600><c> Que</c><00:01:51.759><c> merda</c><00:01:52.119><c> hein</c><00:01:52.360><c> isso</c><00:01:52.640><c> aí</c><00:01:52.759><c> já</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+sem sem pagar Que merda hein isso aí já
+ 
+
+00:01:52.880 --> 00:01:56.270 align:start position:0%
+sem sem pagar Que merda hein isso aí já
+é<00:01:53.000><c> ruim</c><00:01:53.439><c> vou</c><00:01:53.920><c> dar</c><00:01:54.040><c> um</c><00:01:54.159><c> Run</c><00:01:54.560><c> aqui</c><00:01:54.680><c> já</c><00:01:54.840><c> Ah</c><00:01:55.840><c> olha</c>
+
+00:01:56.270 --> 00:01:56.280 align:start position:0%
+é ruim vou dar um Run aqui já Ah olha
+ 
+
+00:01:56.280 --> 00:02:00.510 align:start position:0%
+é ruim vou dar um Run aqui já Ah olha
+cara<00:01:56.640><c> que</c><00:01:56.799><c> legal</c><00:01:57.360><c> então</c><00:01:57.799><c> vou</c><00:01:57.960><c> falar</c><00:01:58.200><c> assim</c><00:01:58.360><c> ó</c>
+
+00:02:00.510 --> 00:02:00.520 align:start position:0%
+cara que legal então vou falar assim ó
+ 
+
+00:02:00.520 --> 00:02:04.149 align:start position:0%
+cara que legal então vou falar assim ó
+instalei<00:02:01.240><c> o</c><00:02:02.200><c> orquestral</c>
+
+00:02:04.149 --> 00:02:04.159 align:start position:0%
+instalei o orquestral
+ 
+
+00:02:04.159 --> 00:02:08.469 align:start position:0%
+instalei o orquestral
+Venom<00:02:05.159><c> implemente</c><00:02:06.000><c> para</c><00:02:06.240><c> mim</c><00:02:06.799><c> um</c>
+
+00:02:08.469 --> 00:02:08.479 align:start position:0%
+Venom implemente para mim um
+ 
+
+00:02:08.479 --> 00:02:13.390 align:start position:0%
+Venom implemente para mim um
+chatbot<00:02:09.479><c> para</c><00:02:09.800><c> o</c><00:02:09.959><c> WhatsApp</c><00:02:10.920><c> a</c>
+
+00:02:13.390 --> 00:02:13.400 align:start position:0%
+chatbot para o WhatsApp a
+ 
+
+00:02:13.400 --> 00:02:17.949 align:start position:0%
+chatbot para o WhatsApp a
+simples<00:02:14.400><c> ele</c><00:02:14.720><c> vai</c><00:02:14.840><c> criar</c><00:02:15.440><c> index</c><00:02:16.760><c> gerando</c>
+
+00:02:17.949 --> 00:02:17.959 align:start position:0%
+simples ele vai criar index gerando
+ 
+
+00:02:17.959 --> 00:02:21.309 align:start position:0%
+simples ele vai criar index gerando
+gerando<00:02:18.959><c> vamos</c><00:02:19.720><c> meu</c><00:02:20.000><c> jovem</c><00:02:20.480><c> era</c><00:02:20.800><c> mais</c><00:02:20.959><c> rápido</c>
+
+00:02:21.309 --> 00:02:21.319 align:start position:0%
+gerando vamos meu jovem era mais rápido
+ 
+
+00:02:21.319 --> 00:02:22.509 align:start position:0%
+gerando vamos meu jovem era mais rápido
+eu<00:02:21.440><c> ter</c><00:02:21.560><c> dado</c><00:02:21.680><c> um</c><00:02:21.800><c> cont</c><00:02:21.959><c> control</c><00:02:22.160><c> c</c><00:02:22.360><c> cont</c>
+
+00:02:22.509 --> 00:02:22.519 align:start position:0%
+eu ter dado um cont control c cont
+ 
+
+00:02:22.519 --> 00:02:25.990 align:start position:0%
+eu ter dado um cont control c cont
+control<00:02:22.720><c> V</c><00:02:23.160><c> agora</c><00:02:23.440><c> vamos</c><00:02:23.879><c> criar</c><00:02:24.080><c> o</c><00:02:24.200><c> script</c><00:02:24.640><c> de</c>
+
+00:02:25.990 --> 00:02:26.000 align:start position:0%
+control V agora vamos criar o script de
+ 
+
+00:02:26.000 --> 00:02:30.790 align:start position:0%
+control V agora vamos criar o script de
+package<00:02:27.480><c> beleza</c><00:02:28.480><c> criou</c>
+
+00:02:30.790 --> 00:02:30.800 align:start position:0%
+package beleza criou
+ 
+
+00:02:30.800 --> 00:02:32.550 align:start position:0%
+package beleza criou
+para<00:02:30.920><c> garantir</c><00:02:31.440><c> arquivo</c><00:02:31.840><c> esteja</c><00:02:32.120><c> no</c><00:02:32.280><c> lugar</c>
+
+00:02:32.550 --> 00:02:32.560 align:start position:0%
+para garantir arquivo esteja no lugar
+ 
+
+00:02:32.560 --> 00:02:36.869 align:start position:0%
+para garantir arquivo esteja no lugar
+correto<00:02:33.239><c> então</c><00:02:33.760><c> cria</c><00:02:35.040><c> criou</c><00:02:36.040><c> agora</c><00:02:36.400><c> você</c><00:02:36.599><c> pode</c>
+
+00:02:36.869 --> 00:02:36.879 align:start position:0%
+correto então cria criou agora você pode
+ 
+
+00:02:36.879 --> 00:02:38.910 align:start position:0%
+correto então cria criou agora você pode
+iniciar<00:02:37.200><c> o</c><00:02:37.360><c> bot</c><00:02:37.680><c> usando</c><00:02:38.080><c> comod</c><00:02:38.400><c> olha</c><00:02:38.680><c> é</c><00:02:38.760><c> bem</c>
+
+00:02:38.910 --> 00:02:38.920 align:start position:0%
+iniciar o bot usando comod olha é bem
+ 
+
+00:02:38.920 --> 00:02:40.990 align:start position:0%
+iniciar o bot usando comod olha é bem
+rápido<00:02:39.239><c> Cara</c><00:02:39.400><c> isso</c><00:02:39.680><c> que</c><00:02:39.760><c> é</c><00:02:39.879><c> legal</c><00:02:40.440><c> vou</c><00:02:40.640><c> rodar</c>
+
+00:02:40.990 --> 00:02:41.000 align:start position:0%
+rápido Cara isso que é legal vou rodar
+ 
+
+00:02:41.000 --> 00:02:42.589 align:start position:0%
+rápido Cara isso que é legal vou rodar
+aqui<00:02:41.159><c> só</c><00:02:41.319><c> para</c><00:02:41.440><c> vocês</c><00:02:41.680><c> verem</c><00:02:41.959><c> Tá</c><00:02:42.080><c> vou</c><00:02:42.280><c> pegar</c><00:02:42.440><c> um</c>
+
+00:02:42.589 --> 00:02:42.599 align:start position:0%
+aqui só para vocês verem Tá vou pegar um
+ 
+
+00:02:42.599 --> 00:02:44.910 align:start position:0%
+aqui só para vocês verem Tá vou pegar um
+WhatsApp<00:02:43.000><c> de</c><00:02:43.120><c> teste</c><00:02:43.879><c> porque</c><00:02:44.159><c> daí</c><00:02:44.360><c> vocês</c><00:02:44.599><c> podem</c>
+
+00:02:44.910 --> 00:02:44.920 align:start position:0%
+WhatsApp de teste porque daí vocês podem
+ 
+
+00:02:44.920 --> 00:02:46.270 align:start position:0%
+WhatsApp de teste porque daí vocês podem
+a<00:02:45.000><c> gente</c><00:02:45.159><c> pode</c><00:02:45.360><c> simular</c><00:02:45.640><c> aqui</c><00:02:45.879><c> vai</c><00:02:46.000><c> ser</c><00:02:46.080><c> bem</c>
+
+00:02:46.270 --> 00:02:46.280 align:start position:0%
+a gente pode simular aqui vai ser bem
+ 
+
+00:02:46.280 --> 00:02:47.910 align:start position:0%
+a gente pode simular aqui vai ser bem
+legal<00:02:46.680><c> então</c><00:02:47.120><c> Ó</c><00:02:47.319><c> vou</c><00:02:47.400><c> entrar</c><00:02:47.599><c> aqui</c><00:02:47.720><c> no</c>
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+legal então Ó vou entrar aqui no
+ 
+
+00:02:47.920 --> 00:02:50.309 align:start position:0%
+legal então Ó vou entrar aqui no
+WhatsApp<00:02:48.360><c> tá</c><00:02:48.480><c> vendo</c><00:02:48.640><c> ó</c><00:02:48.800><c> conectar</c><00:02:49.319><c> dispositivo</c>
+
+00:02:50.309 --> 00:02:50.319 align:start position:0%
+WhatsApp tá vendo ó conectar dispositivo
+ 
+
+00:02:50.319 --> 00:02:54.070 align:start position:0%
+WhatsApp tá vendo ó conectar dispositivo
+e<00:02:50.640><c> vou</c><00:02:50.840><c> ler</c><00:02:51.000><c> esse</c><00:02:51.239><c> q</c><00:02:51.640><c> code</c><00:02:51.920><c> aqui</c><00:02:52.159><c> ó</c><00:02:53.159><c> tô</c><00:02:53.800><c> fazendo</c>
+
+00:02:54.070 --> 00:02:54.080 align:start position:0%
+e vou ler esse q code aqui ó tô fazendo
+ 
+
+00:02:54.080 --> 00:02:56.229 align:start position:0%
+e vou ler esse q code aqui ó tô fazendo
+a<00:02:54.159><c> leitura</c><00:02:54.440><c> desse</c><00:02:54.680><c> QR</c><00:02:55.040><c> Code</c><00:02:55.400><c> Olha</c><00:02:55.680><c> que</c><00:02:55.800><c> legal</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+a leitura desse QR Code Olha que legal
+ 
+
+00:02:56.239 --> 00:02:58.390 align:start position:0%
+a leitura desse QR Code Olha que legal
+então<00:02:56.400><c> agora</c><00:02:56.599><c> ele</c><00:02:56.920><c> tá</c><00:02:57.040><c> conectando</c><00:02:57.760><c> ó</c><00:02:58.159><c> vai</c>
+
+00:02:58.390 --> 00:02:58.400 align:start position:0%
+então agora ele tá conectando ó vai
+ 
+
+00:02:58.400 --> 00:03:01.149 align:start position:0%
+então agora ele tá conectando ó vai
+conectar<00:02:58.800><c> eu</c><00:02:58.920><c> vou</c><00:02:59.080><c> colocar</c><00:02:59.400><c> aqui</c>
+
+00:03:01.149 --> 00:03:01.159 align:start position:0%
+conectar eu vou colocar aqui
+ 
+
+00:03:01.159 --> 00:03:03.190 align:start position:0%
+conectar eu vou colocar aqui
+ven<00:03:02.159><c> PR</c>
+
+00:03:03.190 --> 00:03:03.200 align:start position:0%
+ven PR
+ 
+
+00:03:03.200 --> 00:03:06.789 align:start position:0%
+ven PR
+testar<00:03:04.200><c> Vou</c><00:03:04.480><c> salvar</c><00:03:05.280><c> salvei</c><00:03:05.720><c> o</c><00:03:05.840><c> dispositivo</c>
+
+00:03:06.789 --> 00:03:06.799 align:start position:0%
+testar Vou salvar salvei o dispositivo
+ 
+
+00:03:06.799 --> 00:03:08.869 align:start position:0%
+testar Vou salvar salvei o dispositivo
+aí<00:03:07.159><c> olha</c><00:03:07.400><c> que</c><00:03:07.519><c> legal</c><00:03:07.840><c> aqui</c><00:03:08.000><c> embaixo</c><00:03:08.519><c> ele</c><00:03:08.680><c> já</c><00:03:08.760><c> tá</c>
+
+00:03:08.869 --> 00:03:08.879 align:start position:0%
+aí olha que legal aqui embaixo ele já tá
+ 
+
+00:03:08.879 --> 00:03:11.509 align:start position:0%
+aí olha que legal aqui embaixo ele já tá
+conectado<00:03:09.360><c> tá</c><00:03:09.480><c> vendo</c><00:03:10.440><c> aí</c><00:03:10.680><c> agora</c><00:03:11.040><c> T</c><00:03:11.200><c> aqui</c><00:03:11.360><c> no</c>
+
+00:03:11.509 --> 00:03:11.519 align:start position:0%
+conectado tá vendo aí agora T aqui no
+ 
+
+00:03:11.519 --> 00:03:14.309 align:start position:0%
+conectado tá vendo aí agora T aqui no
+meu<00:03:11.680><c> chat</c><00:03:12.480><c> no</c><00:03:12.640><c> meu</c><00:03:12.920><c> WhatsApp</c><00:03:13.599><c> mesmo</c><00:03:14.120><c> vou</c>
+
+00:03:14.309 --> 00:03:14.319 align:start position:0%
+meu chat no meu WhatsApp mesmo vou
+ 
+
+00:03:14.319 --> 00:03:16.869 align:start position:0%
+meu chat no meu WhatsApp mesmo vou
+mandar<00:03:14.519><c> um</c><00:03:14.680><c> oi</c><00:03:14.879><c> pro</c><00:03:15.159><c> Seu</c><00:03:15.400><c> Madruga</c><00:03:16.400><c> aqui</c><00:03:16.640><c> ele</c>
+
+00:03:16.869 --> 00:03:16.879 align:start position:0%
+mandar um oi pro Seu Madruga aqui ele
+ 
+
+00:03:16.879 --> 00:03:18.750 align:start position:0%
+mandar um oi pro Seu Madruga aqui ele
+tem<00:03:17.080><c> que</c><00:03:17.200><c> receber</c><00:03:17.560><c> essa</c><00:03:17.799><c> mensagem</c><00:03:18.480><c> Ele</c><00:03:18.640><c> já</c>
+
+00:03:18.750 --> 00:03:18.760 align:start position:0%
+tem que receber essa mensagem Ele já
+ 
+
+00:03:18.760 --> 00:03:21.430 align:start position:0%
+tem que receber essa mensagem Ele já
+respondeu<00:03:19.280><c> Oi</c><00:03:19.599><c> como</c><00:03:19.799><c> eu</c><00:03:19.879><c> posso</c><00:03:20.440><c> Olá</c><00:03:21.120><c> como</c><00:03:21.319><c> eu</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+respondeu Oi como eu posso Olá como eu
+ 
+
+00:03:21.440 --> 00:03:24.550 align:start position:0%
+respondeu Oi como eu posso Olá como eu
+posso<00:03:21.720><c> ajudar</c><00:03:22.120><c> você</c><00:03:23.120><c> então</c><00:03:23.560><c> ele</c><00:03:23.879><c> já</c><00:03:24.040><c> mandou</c>
+
+00:03:24.550 --> 00:03:24.560 align:start position:0%
+posso ajudar você então ele já mandou
+ 
+
+00:03:24.560 --> 00:03:26.789 align:start position:0%
+posso ajudar você então ele já mandou
+automaticamente<00:03:25.440><c> essa</c><00:03:25.720><c> mensagem</c>
+
+00:03:26.789 --> 00:03:26.799 align:start position:0%
+automaticamente essa mensagem
+ 
+
+00:03:26.799 --> 00:03:30.509 align:start position:0%
+automaticamente essa mensagem
+provavelmente<00:03:27.799><c> Peg</c><00:03:28.080><c> aqui</c><00:03:28.319><c> dessa</c><00:03:28.799><c> configura</c>
+
+00:03:30.509 --> 00:03:30.519 align:start position:0%
+provavelmente Peg aqui dessa configura
+ 
+
+00:03:30.519 --> 00:03:33.789 align:start position:0%
+provavelmente Peg aqui dessa configura
+que<00:03:30.680><c> foi</c><00:03:30.920><c> feita</c><00:03:31.519><c> ó</c><00:03:32.200><c> lá</c><00:03:32.439><c> como</c><00:03:32.840><c> posso</c><00:03:33.319><c> já</c><00:03:33.480><c> você</c>
+
+00:03:33.789 --> 00:03:33.799 align:start position:0%
+que foi feita ó lá como posso já você
+ 
+
+00:03:33.799 --> 00:03:36.110 align:start position:0%
+que foi feita ó lá como posso já você
+vou<00:03:33.959><c> escrever</c><00:03:34.319><c> aqui</c><00:03:34.519><c> menu</c><00:03:35.360><c> logicamente</c><00:03:35.920><c> que</c>
+
+00:03:36.110 --> 00:03:36.120 align:start position:0%
+vou escrever aqui menu logicamente que
+ 
+
+00:03:36.120 --> 00:03:38.910 align:start position:0%
+vou escrever aqui menu logicamente que
+tá<00:03:36.239><c> burro</c><00:03:36.560><c> né</c><00:03:36.879><c> tá</c><00:03:37.040><c> tudo</c><00:03:37.239><c> fixo</c><00:03:37.560><c> aqui</c><00:03:37.879><c> mas</c><00:03:38.040><c> é</c>
+
+00:03:38.910 --> 00:03:38.920 align:start position:0%
+tá burro né tá tudo fixo aqui mas é
+ 
+
+00:03:38.920 --> 00:03:41.509 align:start position:0%
+tá burro né tá tudo fixo aqui mas é
+mostrar<00:03:39.200><c> para</c><00:03:39.360><c> você</c><00:03:39.640><c> ó</c><00:03:39.920><c> lá</c><00:03:40.599><c> menu</c><00:03:40.959><c> de</c><00:03:41.040><c> opções</c><00:03:41.400><c> já</c>
+
+00:03:41.509 --> 00:03:41.519 align:start position:0%
+mostrar para você ó lá menu de opções já
+ 
+
+00:03:41.519 --> 00:03:43.509 align:start position:0%
+mostrar para você ó lá menu de opções já
+tem<00:03:41.840><c> o</c><00:03:42.000><c> menu</c><00:03:42.200><c> de</c><00:03:42.319><c> opções</c><00:03:42.640><c> Tá</c><00:03:42.879><c> qual</c><00:03:43.080><c> que</c><00:03:43.200><c> é</c><00:03:43.360><c> a</c>
+
+00:03:43.509 --> 00:03:43.519 align:start position:0%
+tem o menu de opções Tá qual que é a
+ 
+
+00:03:43.519 --> 00:03:47.309 align:start position:0%
+tem o menu de opções Tá qual que é a
+grande<00:03:44.000><c> sacada</c><00:03:44.519><c> aqui</c><00:03:44.760><c> gente</c><00:03:45.760><c> e</c><00:03:46.920><c> já</c><00:03:47.120><c> tô</c>
+
+00:03:47.309 --> 00:03:47.319 align:start position:0%
+grande sacada aqui gente e já tô
+ 
+
+00:03:47.319 --> 00:03:50.030 align:start position:0%
+grande sacada aqui gente e já tô
+conectado<00:03:47.720><c> com</c><00:03:47.920><c> o</c><00:03:48.080><c> WhatsApp</c><00:03:49.080><c> custo</c><00:03:49.360><c> de</c><00:03:49.519><c> api</c>
+
+00:03:50.030 --> 00:03:50.040 align:start position:0%
+conectado com o WhatsApp custo de api
+ 
+
+00:03:50.040 --> 00:03:52.309 align:start position:0%
+conectado com o WhatsApp custo de api
+zero<00:03:50.799><c> consigo</c><00:03:51.239><c> publicar</c><00:03:51.680><c> essa</c><00:03:51.920><c> aplicação</c>
+
+00:03:52.309 --> 00:03:52.319 align:start position:0%
+zero consigo publicar essa aplicação
+ 
+
+00:03:52.319 --> 00:03:54.670 align:start position:0%
+zero consigo publicar essa aplicação
+aqui<00:03:52.560><c> em</c><00:03:52.760><c> qualquer</c><00:03:53.079><c> servidorzinho</c><00:03:53.680><c> xelento</c>
+
+00:03:54.670 --> 00:03:54.680 align:start position:0%
+aqui em qualquer servidorzinho xelento
+ 
+
+00:03:54.680 --> 00:03:59.069 align:start position:0%
+aqui em qualquer servidorzinho xelento
+que<00:03:54.760><c> vai</c><00:03:54.920><c> rodar</c><00:03:56.040><c> e</c><00:03:57.040><c> é</c><00:03:57.439><c> muito</c><00:03:58.079><c> rápido</c><00:03:58.760><c> então</c>
+
+00:03:59.069 --> 00:03:59.079 align:start position:0%
+que vai rodar e é muito rápido então
+ 
+
+00:03:59.079 --> 00:04:01.910 align:start position:0%
+que vai rodar e é muito rápido então
+assim<00:03:59.400><c> eu</c><00:03:59.879><c> vou</c><00:04:00.079><c> testar</c><00:04:00.560><c> a</c><00:04:00.760><c> ferramenta</c><00:04:01.560><c> deixa</c>
+
+00:04:01.910 --> 00:04:01.920 align:start position:0%
+assim eu vou testar a ferramenta deixa
+ 
+
+00:04:01.920 --> 00:04:03.830 align:start position:0%
+assim eu vou testar a ferramenta deixa
+eu<00:04:02.040><c> arrumar</c><00:04:02.400><c> minha</c><00:04:02.560><c> câmera</c><00:04:02.879><c> aqui</c><00:04:03.480><c> eu</c><00:04:03.680><c> vou</c>
+
+00:04:03.830 --> 00:04:03.840 align:start position:0%
+eu arrumar minha câmera aqui eu vou
+ 
+
+00:04:03.840 --> 00:04:05.390 align:start position:0%
+eu arrumar minha câmera aqui eu vou
+testar<00:04:04.280><c> vou</c><00:04:04.400><c> montar</c><00:04:04.599><c> um</c>
+
+00:04:05.390 --> 00:04:05.400 align:start position:0%
+testar vou montar um
+ 
+
+00:04:05.400 --> 00:04:10.550 align:start position:0%
+testar vou montar um
+SDR<00:04:06.400><c> e</c><00:04:06.799><c> cara</c><00:04:07.799><c> simples</c><00:04:08.760><c> fácil</c><00:04:09.200><c> e</c><00:04:09.400><c> rápido</c><00:04:10.360><c> que</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+SDR e cara simples fácil e rápido que
+ 
+
+00:04:10.560 --> 00:04:11.830 align:start position:0%
+SDR e cara simples fácil e rápido que
+que<00:04:10.599><c> eu</c><00:04:10.680><c> tenho</c><00:04:10.920><c> que</c><00:04:11.000><c> fazer</c><00:04:11.200><c> aqui</c><00:04:11.319><c> agora</c><00:04:11.560><c> então</c>
+
+00:04:11.830 --> 00:04:11.840 align:start position:0%
+que eu tenho que fazer aqui agora então
+ 
+
+00:04:11.840 --> 00:04:14.190 align:start position:0%
+que eu tenho que fazer aqui agora então
+vamos<00:04:12.040><c> lá</c><00:04:12.200><c> vamos</c><00:04:12.640><c> pensar</c><00:04:13.640><c> se</c><00:04:13.879><c> eu</c><00:04:13.959><c> quero</c>
+
+00:04:14.190 --> 00:04:14.200 align:start position:0%
+vamos lá vamos pensar se eu quero
+ 
+
+00:04:14.200 --> 00:04:16.150 align:start position:0%
+vamos lá vamos pensar se eu quero
+estruturar<00:04:14.560><c> um</c><00:04:14.760><c> SDR</c><00:04:15.319><c> inteligente</c><00:04:15.920><c> para</c><00:04:16.040><c> quem</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+estruturar um SDR inteligente para quem
+ 
+
+00:04:16.160 --> 00:04:18.030 align:start position:0%
+estruturar um SDR inteligente para quem
+não<00:04:16.239><c> sabe</c><00:04:16.400><c> o</c><00:04:16.519><c> que</c><00:04:16.600><c> é</c><00:04:16.680><c> um</c><00:04:16.799><c> SDR</c><00:04:17.280><c> é</c><00:04:17.359><c> um</c><00:04:17.600><c> agente</c><00:04:17.919><c> de</c>
+
+00:04:18.030 --> 00:04:18.040 align:start position:0%
+não sabe o que é um SDR é um agente de
+ 
+
+00:04:18.040 --> 00:04:20.030 align:start position:0%
+não sabe o que é um SDR é um agente de
+venda<00:04:18.359><c> é</c><00:04:18.440><c> uma</c><00:04:18.600><c> pessoa</c><00:04:18.880><c> que</c><00:04:18.959><c> vende</c><00:04:19.600><c> na</c><00:04:19.720><c> verdade</c>
+
+00:04:20.030 --> 00:04:20.040 align:start position:0%
+venda é uma pessoa que vende na verdade
+ 
+
+00:04:20.040 --> 00:04:23.469 align:start position:0%
+venda é uma pessoa que vende na verdade
+ela<00:04:20.840><c> aquece</c><00:04:21.400><c> né</c><00:04:22.079><c> um</c><00:04:22.240><c> lead</c><00:04:22.639><c> ali</c><00:04:22.919><c> ela</c><00:04:23.120><c> tira</c><00:04:23.320><c> as</c>
+
+00:04:23.469 --> 00:04:23.479 align:start position:0%
+ela aquece né um lead ali ela tira as
+ 
+
+00:04:23.479 --> 00:04:25.830 align:start position:0%
+ela aquece né um lead ali ela tira as
+conversas<00:04:23.919><c> iniciais</c><00:04:24.360><c> ela</c><00:04:24.560><c> não</c><00:04:24.720><c> fecha</c><00:04:25.400><c> ela</c>
+
+00:04:25.830 --> 00:04:25.840 align:start position:0%
+conversas iniciais ela não fecha ela
+ 
+
+00:04:25.840 --> 00:04:28.510 align:start position:0%
+conversas iniciais ela não fecha ela
+gera<00:04:26.080><c> o</c><00:04:26.320><c> interesse</c><00:04:27.120><c> no</c><00:04:27.360><c> nosso</c><00:04:27.720><c> cliente</c><00:04:28.320><c> ou</c>
+
+00:04:28.510 --> 00:04:28.520 align:start position:0%
+gera o interesse no nosso cliente ou
+ 
+
+00:04:28.520 --> 00:04:31.150 align:start position:0%
+gera o interesse no nosso cliente ou
+tirar<00:04:28.840><c> dúvida</c><00:04:29.240><c> e</c><00:04:29.400><c> tudo</c><00:04:29.840><c> mais</c><00:04:30.160><c> esclarece</c><00:04:30.759><c> tudo</c>
+
+00:04:31.150 --> 00:04:31.160 align:start position:0%
+tirar dúvida e tudo mais esclarece tudo
+ 
+
+00:04:31.160 --> 00:04:34.070 align:start position:0%
+tirar dúvida e tudo mais esclarece tudo
+e<00:04:31.360><c> depois</c><00:04:31.680><c> ela</c><00:04:32.199><c> joga</c><00:04:32.440><c> para</c><00:04:32.720><c> um</c><00:04:32.919><c> closer</c><00:04:33.800><c> mas</c>
+
+00:04:34.070 --> 00:04:34.080 align:start position:0%
+e depois ela joga para um closer mas
+ 
+
+00:04:34.080 --> 00:04:35.710 align:start position:0%
+e depois ela joga para um closer mas
+aqui<00:04:34.360><c> eu</c><00:04:34.479><c> quero</c><00:04:34.680><c> criar</c><00:04:34.960><c> Qual</c><00:04:35.199><c> que</c><00:04:35.360><c> é</c><00:04:35.400><c> a</c><00:04:35.560><c> minha</c>
+
+00:04:35.710 --> 00:04:35.720 align:start position:0%
+aqui eu quero criar Qual que é a minha
+ 
+
+00:04:35.720 --> 00:04:37.710 align:start position:0%
+aqui eu quero criar Qual que é a minha
+ideia<00:04:35.919><c> eu</c><00:04:36.039><c> quero</c><00:04:36.199><c> criar</c><00:04:36.520><c> literalmente</c><00:04:36.960><c> um</c>
+
+00:04:37.710 --> 00:04:37.720 align:start position:0%
+ideia eu quero criar literalmente um
+ 
+
+00:04:37.720 --> 00:04:39.870 align:start position:0%
+ideia eu quero criar literalmente um
+chatbot<00:04:38.639><c> no</c><00:04:38.919><c> WhatsApp</c><00:04:39.479><c> totalmente</c>
+
+00:04:39.870 --> 00:04:39.880 align:start position:0%
+chatbot no WhatsApp totalmente
+ 
+
+00:04:39.880 --> 00:04:42.110 align:start position:0%
+chatbot no WhatsApp totalmente
+inteligente<00:04:40.400><c> e</c><00:04:40.880><c> um</c><00:04:41.039><c> SDR</c><00:04:41.520><c> mais</c><00:04:41.720><c> venda</c><00:04:41.960><c> porque</c>
+
+00:04:42.110 --> 00:04:42.120 align:start position:0%
+inteligente e um SDR mais venda porque
+ 
+
+00:04:42.120 --> 00:04:43.590 align:start position:0%
+inteligente e um SDR mais venda porque
+eu<00:04:42.199><c> quero</c><00:04:42.360><c> que</c><00:04:42.440><c> ele</c><00:04:42.600><c> venda</c><00:04:42.880><c> também</c><00:04:43.080><c> então</c><00:04:43.280><c> qual</c>
+
+00:04:43.590 --> 00:04:43.600 align:start position:0%
+eu quero que ele venda também então qual
+ 
+
+00:04:43.600 --> 00:04:46.350 align:start position:0%
+eu quero que ele venda também então qual
+que<00:04:43.759><c> a</c><00:04:43.840><c> ideia</c><00:04:44.160><c> se</c><00:04:44.479><c> ele</c><00:04:44.800><c> vê</c><00:04:45.320><c> detectar</c><00:04:46.120><c> que</c><00:04:46.199><c> o</c>
+
+00:04:46.350 --> 00:04:46.360 align:start position:0%
+que a ideia se ele vê detectar que o
+ 
+
+00:04:46.360 --> 00:04:48.390 align:start position:0%
+que a ideia se ele vê detectar que o
+cliente<00:04:46.639><c> tem</c><00:04:46.880><c> interesse</c><00:04:47.800><c> eu</c><00:04:48.000><c> já</c><00:04:48.120><c> quero</c><00:04:48.280><c> que</c>
+
+00:04:48.390 --> 00:04:48.400 align:start position:0%
+cliente tem interesse eu já quero que
+ 
+
+00:04:48.400 --> 00:04:49.909 align:start position:0%
+cliente tem interesse eu já quero que
+ele<00:04:48.560><c> responda</c><00:04:48.960><c> o</c><00:04:49.080><c> seguinte</c><00:04:49.320><c> ó</c><00:04:49.520><c> Então</c><00:04:49.720><c> tá</c><00:04:49.800><c> aqui</c>
+
+00:04:49.909 --> 00:04:49.919 align:start position:0%
+ele responda o seguinte ó Então tá aqui
+ 
+
+00:04:49.919 --> 00:04:51.870 align:start position:0%
+ele responda o seguinte ó Então tá aqui
+o<00:04:50.039><c> link</c><00:04:50.360><c> clica</c><00:04:50.800><c> em</c><00:04:50.880><c> comprar</c><00:04:51.240><c> tô</c><00:04:51.400><c> aguardando</c>
+
+00:04:51.870 --> 00:04:51.880 align:start position:0%
+o link clica em comprar tô aguardando
+ 
+
+00:04:51.880 --> 00:04:53.670 align:start position:0%
+o link clica em comprar tô aguardando
+você<00:04:52.080><c> pagar</c><00:04:52.560><c> e</c><00:04:52.720><c> quem</c><00:04:52.919><c> sabe</c><00:04:53.080><c> eu</c><00:04:53.160><c> faço</c><00:04:53.440><c> até</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+você pagar e quem sabe eu faço até
+ 
+
+00:04:53.680 --> 00:04:55.550 align:start position:0%
+você pagar e quem sabe eu faço até
+integração<00:04:54.000><c> com</c><00:04:54.160><c> aqui</c><00:04:54.400><c> Wifi</c><00:04:55.000><c> para</c><00:04:55.240><c> pegar</c><00:04:55.440><c> o</c>
+
+00:04:55.550 --> 00:04:55.560 align:start position:0%
+integração com aqui Wifi para pegar o
+ 
+
+00:04:55.560 --> 00:04:57.950 align:start position:0%
+integração com aqui Wifi para pegar o
+pagamento<00:04:56.039><c> será</c><00:04:56.280><c> que</c><00:04:56.400><c> dá</c><00:04:57.080><c> eu</c><00:04:57.240><c> acho</c><00:04:57.440><c> que</c><00:04:57.560><c> dá</c>
+
+00:04:57.950 --> 00:04:57.960 align:start position:0%
+pagamento será que dá eu acho que dá
+ 
+
+00:04:57.960 --> 00:05:01.310 align:start position:0%
+pagamento será que dá eu acho que dá
+vamos<00:04:58.320><c> vamos</c><00:04:58.520><c> seguir</c><00:04:58.840><c> nessa</c><00:04:59.720><c> essa</c><00:05:00.479><c> nossa</c>
+
+00:05:01.310 --> 00:05:01.320 align:start position:0%
+vamos vamos seguir nessa essa nossa
+ 
+
+00:05:01.320 --> 00:05:03.950 align:start position:0%
+vamos vamos seguir nessa essa nossa
+Aventura<00:05:02.320><c> aqui</c><00:05:02.680><c> com</c><00:05:02.919><c> vocês</c><00:05:03.320><c> Tá</c><00:05:03.560><c> vou</c><00:05:03.720><c> jogar</c>
+
+00:05:03.950 --> 00:05:03.960 align:start position:0%
+Aventura aqui com vocês Tá vou jogar
+ 
+
+00:05:03.960 --> 00:05:05.590 align:start position:0%
+Aventura aqui com vocês Tá vou jogar
+aqui<00:05:04.080><c> a</c><00:05:04.280><c> tela</c><00:05:04.520><c> inicial</c><00:05:04.919><c> novamente</c><00:05:05.400><c> vou</c>
+
+00:05:05.590 --> 00:05:05.600 align:start position:0%
+aqui a tela inicial novamente vou
+ 
+
+00:05:05.600 --> 00:05:08.790 align:start position:0%
+aqui a tela inicial novamente vou
+centralizar<00:05:06.240><c> aqui</c><00:05:07.120><c> então</c><00:05:08.080><c> eu</c><00:05:08.199><c> já</c><00:05:08.280><c> vou</c><00:05:08.400><c> começar</c>
+
+00:05:08.790 --> 00:05:08.800 align:start position:0%
+centralizar aqui então eu já vou começar
+ 
+
+00:05:08.800 --> 00:05:10.310 align:start position:0%
+centralizar aqui então eu já vou começar
+fazendo<00:05:09.120><c> o</c><00:05:09.199><c> seguinte</c><00:05:09.440><c> eu</c><00:05:09.520><c> tenho</c><00:05:09.800><c> que</c><00:05:09.919><c> conectar</c>
+
+00:05:10.310 --> 00:05:10.320 align:start position:0%
+fazendo o seguinte eu tenho que conectar
+ 
+
+00:05:10.320 --> 00:05:12.909 align:start position:0%
+fazendo o seguinte eu tenho que conectar
+com<00:05:10.400><c> o</c><00:05:10.680><c> chat</c><00:05:11.039><c> GPT</c><00:05:11.759><c> Então</c><00:05:12.440><c> já</c><00:05:12.520><c> vou</c><00:05:12.639><c> falar</c><00:05:12.800><c> assim</c>
+
+00:05:12.909 --> 00:05:12.919 align:start position:0%
+com o chat GPT Então já vou falar assim
+ 
+
+00:05:12.919 --> 00:05:17.710 align:start position:0%
+com o chat GPT Então já vou falar assim
+ó<00:05:13.320><c> e</c><00:05:14.320><c> esse</c><00:05:14.759><c> chat</c><00:05:15.440><c> bot</c><00:05:16.080><c> estará</c>
+
+00:05:17.710 --> 00:05:17.720 align:start position:0%
+ó e esse chat bot estará
+ 
+
+00:05:17.720 --> 00:05:21.430 align:start position:0%
+ó e esse chat bot estará
+conectado<00:05:18.720><c> direto</c><00:05:19.240><c> com</c><00:05:19.360><c> o</c><00:05:19.720><c> chat</c>
+
+00:05:21.430 --> 00:05:21.440 align:start position:0%
+conectado direto com o chat
+ 
+
+00:05:21.440 --> 00:05:24.469 align:start position:0%
+conectado direto com o chat
+GPT<00:05:22.440><c> então</c>
+
+00:05:24.469 --> 00:05:24.479 align:start position:0%
+GPT então
+ 
+
+00:05:24.479 --> 00:05:29.070 align:start position:0%
+GPT então
+implemente<00:05:25.479><c> o</c><00:05:26.080><c> serviço</c><00:05:26.639><c> do</c><00:05:26.919><c> chat</c><00:05:27.680><c> GPT</c><00:05:28.639><c> para</c><00:05:28.960><c> a</c>
+
+00:05:29.070 --> 00:05:29.080 align:start position:0%
+implemente o serviço do chat GPT para a
+ 
+
+00:05:29.080 --> 00:05:32.309 align:start position:0%
+implemente o serviço do chat GPT para a
+conexão<00:05:29.759><c> eu</c><00:05:29.840><c> vou</c><00:05:29.960><c> usar</c><00:05:30.120><c> o</c><00:05:30.319><c> chat</c><00:05:30.720><c> GPT</c><00:05:31.280><c> como</c><00:05:32.120><c> a</c>
+
+00:05:32.309 --> 00:05:32.319 align:start position:0%
+conexão eu vou usar o chat GPT como a
+ 
+
+00:05:32.319 --> 00:05:35.950 align:start position:0%
+conexão eu vou usar o chat GPT como a
+minha<00:05:32.720><c> llm</c><00:05:33.639><c> nesse</c><00:05:33.880><c> caso</c><00:05:34.160><c> tá</c><00:05:34.919><c> vamos</c><00:05:35.280><c> lá</c><00:05:35.639><c> ele</c><00:05:35.840><c> vai</c>
+
+00:05:35.950 --> 00:05:35.960 align:start position:0%
+minha llm nesse caso tá vamos lá ele vai
+ 
+
+00:05:35.960 --> 00:05:38.150 align:start position:0%
+minha llm nesse caso tá vamos lá ele vai
+fazer<00:05:36.240><c> a</c><00:05:36.400><c> instalação</c><00:05:36.759><c> ó</c><00:05:37.120><c> ele</c><00:05:37.319><c> não</c><00:05:37.680><c> lembrou</c><00:05:38.039><c> que</c>
+
+00:05:38.150 --> 00:05:38.160 align:start position:0%
+fazer a instalação ó ele não lembrou que
+ 
+
+00:05:38.160 --> 00:05:41.150 align:start position:0%
+fazer a instalação ó ele não lembrou que
+ele<00:05:38.360><c> não</c><00:05:38.440><c> tem</c><00:05:39.120><c> permissão</c><00:05:40.120><c> ele</c><00:05:40.560><c> vai</c><00:05:40.680><c> fazer</c><00:05:40.880><c> o</c>
+
+00:05:41.150 --> 00:05:41.160 align:start position:0%
+ele não tem permissão ele vai fazer o
+ 
+
+00:05:41.160 --> 00:05:44.390 align:start position:0%
+ele não tem permissão ele vai fazer o
+instal<00:05:41.520><c> da</c><00:05:41.680><c> Open</c><00:05:41.960><c> ai</c><00:05:42.560><c> vamos</c><00:05:42.880><c> ver</c>
+
+00:05:44.390 --> 00:05:44.400 align:start position:0%
+instal da Open ai vamos ver
+ 
+
+00:05:44.400 --> 00:05:47.550 align:start position:0%
+instal da Open ai vamos ver
+Ah<00:05:45.400><c> tá</c><00:05:45.720><c> não</c><00:05:45.919><c> já</c><00:05:46.319><c> tava</c><00:05:46.440><c> com</c><00:05:46.759><c> sudor</c><00:05:47.160><c> que</c><00:05:47.319><c> legal</c>
+
+00:05:47.550 --> 00:05:47.560 align:start position:0%
+Ah tá não já tava com sudor que legal
+ 
+
+00:05:47.560 --> 00:05:50.469 align:start position:0%
+Ah tá não já tava com sudor que legal
+bem<00:05:47.919><c> interessante</c><00:05:48.919><c> ele</c><00:05:49.199><c> criou</c><00:05:49.479><c> uma</c><00:05:49.840><c> env</c>
+
+00:05:50.469 --> 00:05:50.479 align:start position:0%
+bem interessante ele criou uma env
+ 
+
+00:05:50.479 --> 00:05:54.430 align:start position:0%
+bem interessante ele criou uma env
+perfeito<00:05:51.479><c> para</c><00:05:52.000><c> eu</c><00:05:52.120><c> colocar</c><00:05:52.440><c> a</c><00:05:52.600><c> chave</c><00:05:53.440><c> ótimo</c>
+
+00:05:54.430 --> 00:05:54.440 align:start position:0%
+perfeito para eu colocar a chave ótimo
+ 
+
+00:05:54.440 --> 00:05:58.550 align:start position:0%
+perfeito para eu colocar a chave ótimo
+agora<00:05:54.759><c> ele</c><00:05:54.960><c> vai</c><00:05:55.319><c> ajustar</c><00:05:56.039><c> a</c><00:05:57.039><c> index</c><00:05:58.039><c> aqui</c><00:05:58.319><c> eu</c><00:05:58.440><c> já</c>
+
+00:05:58.550 --> 00:05:58.560 align:start position:0%
+agora ele vai ajustar a index aqui eu já
+ 
+
+00:05:58.560 --> 00:06:00.430 align:start position:0%
+agora ele vai ajustar a index aqui eu já
+não<00:05:58.680><c> gostei</c>
+
+00:06:00.430 --> 00:06:00.440 align:start position:0%
+não gostei
+ 
+
+00:06:00.440 --> 00:06:02.070 align:start position:0%
+não gostei
+vamos<00:06:00.680><c> modificar</c><00:06:01.039><c> o</c><00:06:01.160><c> código</c><00:06:01.479><c> do</c><00:06:01.600><c> bot</c><00:06:01.960><c> para</c>
+
+00:06:02.070 --> 00:06:02.080 align:start position:0%
+vamos modificar o código do bot para
+ 
+
+00:06:02.080 --> 00:06:03.749 align:start position:0%
+vamos modificar o código do bot para
+integrar<00:06:02.440><c> com</c><00:06:02.639><c> chat</c><00:06:02.919><c> ept</c><00:06:03.280><c> o</c><00:06:03.360><c> que</c><00:06:03.400><c> eu</c><00:06:03.479><c> vou</c><00:06:03.600><c> falar</c>
+
+00:06:03.749 --> 00:06:03.759 align:start position:0%
+integrar com chat ept o que eu vou falar
+ 
+
+00:06:03.759 --> 00:06:05.189 align:start position:0%
+integrar com chat ept o que eu vou falar
+para<00:06:03.880><c> ele</c><00:06:04.039><c> é</c><00:06:04.160><c> o</c><00:06:04.240><c> seguinte</c><00:06:04.479><c> ó</c><00:06:04.600><c> você</c><00:06:04.759><c> v</c><00:06:04.960><c> Que</c><00:06:05.080><c> ele</c>
+
+00:06:05.189 --> 00:06:05.199 align:start position:0%
+para ele é o seguinte ó você v Que ele
+ 
+
+00:06:05.199 --> 00:06:06.550 align:start position:0%
+para ele é o seguinte ó você v Que ele
+vai<00:06:05.280><c> colocar</c><00:06:05.479><c> tudo</c><00:06:05.720><c> dentro</c><00:06:05.919><c> da</c><00:06:06.000><c> index</c><00:06:06.479><c> vai</c>
+
+00:06:06.550 --> 00:06:06.560 align:start position:0%
+vai colocar tudo dentro da index vai
+ 
+
+00:06:06.560 --> 00:06:08.589 align:start position:0%
+vai colocar tudo dentro da index vai
+ficar<00:06:06.759><c> aquele</c><00:06:06.960><c> código</c><00:06:07.400><c> gigante</c><00:06:08.160><c> e</c><00:06:08.360><c> aqui</c><00:06:08.479><c> eu</c>
+
+00:06:08.589 --> 00:06:08.599 align:start position:0%
+ficar aquele código gigante e aqui eu
+ 
+
+00:06:08.599 --> 00:06:10.909 align:start position:0%
+ficar aquele código gigante e aqui eu
+acho<00:06:08.800><c> que</c><00:06:09.120><c> a</c><00:06:09.280><c> grande</c><00:06:09.599><c> diferença</c><00:06:10.479><c> de</c><00:06:10.759><c> um</c>
+
+00:06:10.909 --> 00:06:10.919 align:start position:0%
+acho que a grande diferença de um
+ 
+
+00:06:10.919 --> 00:06:12.830 align:start position:0%
+acho que a grande diferença de um
+programador<00:06:11.599><c> eu</c><00:06:11.720><c> vou</c><00:06:11.880><c> aceitar</c><00:06:12.280><c> essa</c><00:06:12.560><c> opção</c>
+
+00:06:12.830 --> 00:06:12.840 align:start position:0%
+programador eu vou aceitar essa opção
+ 
+
+00:06:12.840 --> 00:06:15.110 align:start position:0%
+programador eu vou aceitar essa opção
+dele<00:06:13.080><c> para</c><00:06:13.199><c> vocês</c><00:06:13.440><c> verem</c><00:06:13.800><c> o</c><00:06:13.880><c> que</c><00:06:13.960><c> ele</c><00:06:14.120><c> tá</c>
+
+00:06:15.110 --> 00:06:15.120 align:start position:0%
+dele para vocês verem o que ele tá
+ 
+
+00:06:15.120 --> 00:06:17.749 align:start position:0%
+dele para vocês verem o que ele tá
+fazendo<00:06:16.120><c> então</c><00:06:16.479><c> ele</c><00:06:16.720><c> tá</c><00:06:16.880><c> implementando</c><00:06:17.479><c> aqui</c>
+
+00:06:17.749 --> 00:06:17.759 align:start position:0%
+fazendo então ele tá implementando aqui
+ 
+
+00:06:17.759 --> 00:06:21.909 align:start position:0%
+fazendo então ele tá implementando aqui
+OK<00:06:18.240><c> vou</c><00:06:18.440><c> aceitar</c><00:06:19.280><c> Ok</c><00:06:19.800><c> tudo</c><00:06:20.280><c> bem</c><00:06:21.280><c> aí</c><00:06:21.680><c> eu</c><00:06:21.759><c> vou</c>
+
+00:06:21.909 --> 00:06:21.919 align:start position:0%
+OK vou aceitar Ok tudo bem aí eu vou
+ 
+
+00:06:21.919 --> 00:06:24.430 align:start position:0%
+OK vou aceitar Ok tudo bem aí eu vou
+falar<00:06:22.120><c> para</c><00:06:22.319><c> ele</c><00:06:22.479><c> o</c><00:06:22.560><c> seguinte</c>
+
+00:06:24.430 --> 00:06:24.440 align:start position:0%
+falar para ele o seguinte
+ 
+
+00:06:24.440 --> 00:06:30.990 align:start position:0%
+falar para ele o seguinte
+ó<00:06:25.440><c> não</c><00:06:25.680><c> quero</c><00:06:26.520><c> ter</c><00:06:27.160><c> toda</c><00:06:27.919><c> a</c><00:06:28.199><c> estrutura</c><00:06:28.800><c> na</c>
+
+00:06:30.990 --> 00:06:31.000 align:start position:0%
+ó não quero ter toda a estrutura na
+ 
+
+00:06:31.000 --> 00:06:34.550 align:start position:0%
+ó não quero ter toda a estrutura na
+vamos<00:06:31.639><c> organizar</c><00:06:32.479><c> esse</c><00:06:33.080><c> projeto</c><00:06:34.080><c> pois</c><00:06:34.400><c> ele</c>
+
+00:06:34.550 --> 00:06:34.560 align:start position:0%
+vamos organizar esse projeto pois ele
+ 
+
+00:06:34.560 --> 00:06:35.710 align:start position:0%
+vamos organizar esse projeto pois ele
+vai<00:06:34.720><c> ser</c>
+
+00:06:35.710 --> 00:06:35.720 align:start position:0%
+vai ser
+ 
+
+00:06:35.720 --> 00:06:39.589 align:start position:0%
+vai ser
+grande<00:06:36.720><c> crie</c><00:06:37.120><c> uma</c><00:06:37.360><c> pasta</c><00:06:37.840><c> de</c><00:06:38.080><c> Services</c><00:06:38.639><c> é</c>
+
+00:06:39.589 --> 00:06:39.599 align:start position:0%
+grande crie uma pasta de Services é
+ 
+
+00:06:39.599 --> 00:06:45.189 align:start position:0%
+grande crie uma pasta de Services é
+implemente<00:06:40.400><c> a</c><00:06:40.560><c> estrutura</c><00:06:41.080><c> do</c><00:06:41.800><c> GPT</c><00:06:42.800><c> dentro</c><00:06:43.160><c> da</c>
+
+00:06:45.189 --> 00:06:45.199 align:start position:0%
+implemente a estrutura do GPT dentro da
+ 
+
+00:06:45.199 --> 00:06:47.070 align:start position:0%
+implemente a estrutura do GPT dentro da
+Services<00:06:46.199><c> então</c><00:06:46.479><c> aqui</c><00:06:46.639><c> eu</c><00:06:46.800><c> já</c><00:06:46.919><c> vou</c>
+
+00:06:47.070 --> 00:06:47.080 align:start position:0%
+Services então aqui eu já vou
+ 
+
+00:06:47.080 --> 00:06:48.629 align:start position:0%
+Services então aqui eu já vou
+contextualizar<00:06:47.800><c> o</c><00:06:47.880><c> que</c><00:06:47.960><c> eu</c><00:06:48.039><c> quero</c><00:06:48.319><c> também</c><00:06:48.560><c> não</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+contextualizar o que eu quero também não
+ 
+
+00:06:48.639 --> 00:06:50.629 align:start position:0%
+contextualizar o que eu quero também não
+vou<00:06:48.759><c> criar</c><00:06:49.000><c> uma</c><00:06:49.160><c> complexidade</c><00:06:49.919><c> absurda</c><00:06:50.479><c> não</c>
+
+00:06:50.629 --> 00:06:50.639 align:start position:0%
+vou criar uma complexidade absurda não
+ 
+
+00:06:50.639 --> 00:06:53.870 align:start position:0%
+vou criar uma complexidade absurda não
+faz<00:06:50.880><c> nem</c><00:06:51.599><c> sentido</c><00:06:52.599><c> ele</c><00:06:52.800><c> cria</c><00:06:53.479><c> ver</c><00:06:53.599><c> o</c><00:06:53.680><c> que</c><00:06:53.759><c> ele</c>
+
+00:06:53.870 --> 00:06:53.880 align:start position:0%
+faz nem sentido ele cria ver o que ele
+ 
+
+00:06:53.880 --> 00:06:56.110 align:start position:0%
+faz nem sentido ele cria ver o que ele
+fe<00:06:54.080><c> aqui</c><00:06:54.639><c> vou</c><00:06:54.840><c> ajudar</c><00:06:55.160><c> você</c><00:06:55.360><c> a</c><00:06:55.520><c> reorganizar</c><00:06:56.000><c> o</c>
+
+00:06:56.110 --> 00:06:56.120 align:start position:0%
+fe aqui vou ajudar você a reorganizar o
+ 
+
+00:06:56.120 --> 00:06:57.550 align:start position:0%
+fe aqui vou ajudar você a reorganizar o
+projeto<00:06:56.360><c> com</c><00:06:56.680><c> estrutura</c><00:06:57.000><c> mais</c><00:06:57.199><c> escalável</c>
+
+00:06:57.550 --> 00:06:57.560 align:start position:0%
+projeto com estrutura mais escalável
+ 
+
+00:06:57.560 --> 00:07:00.510 align:start position:0%
+projeto com estrutura mais escalável
+vamos<00:06:58.080><c> criar</c><00:06:58.360><c> umaa</c><00:06:58.919><c> de</c><00:07:00.000><c> Sep</c><00:07:00.360><c> as</c>
+
+00:07:00.510 --> 00:07:00.520 align:start position:0%
+vamos criar umaa de Sep as
+ 
+
+00:07:00.520 --> 00:07:02.869 align:start position:0%
+vamos criar umaa de Sep as
+responsabilidades<00:07:01.400><c> ótimo</c><00:07:02.160><c> Ele</c><00:07:02.440><c> criou</c><00:07:02.720><c> uma</c>
+
+00:07:02.869 --> 00:07:02.879 align:start position:0%
+responsabilidades ótimo Ele criou uma
+ 
+
+00:07:02.879 --> 00:07:06.670 align:start position:0%
+responsabilidades ótimo Ele criou uma
+pasta<00:07:03.120><c> chamada</c><00:07:03.479><c> config</c><00:07:04.160><c> handler</c><00:07:05.120><c> tá</c>
+
+00:07:06.670 --> 00:07:06.680 align:start position:0%
+pasta chamada config handler tá
+ 
+
+00:07:06.680 --> 00:07:11.830 align:start position:0%
+pasta chamada config handler tá
+handler<00:07:07.680><c> legal</c><00:07:08.680><c> aí</c><00:07:09.199><c> ele</c><00:07:09.400><c> implementou</c><00:07:10.039><c> lá</c>
+
+00:07:11.830 --> 00:07:11.840 align:start position:0%
+handler legal aí ele implementou lá
+ 
+
+00:07:11.840 --> 00:07:15.990 align:start position:0%
+handler legal aí ele implementou lá
+ok<00:07:12.840><c> aí</c><00:07:13.599><c> beleza</c><00:07:14.160><c> ele</c><00:07:14.440><c> usou</c><00:07:14.759><c> ali</c>
+
+00:07:15.990 --> 00:07:16.000 align:start position:0%
+ok aí beleza ele usou ali
+ 
+
+00:07:16.000 --> 00:07:18.670 align:start position:0%
+ok aí beleza ele usou ali
+show<00:07:17.000><c> ele</c><00:07:17.120><c> vai</c><00:07:17.199><c> criar</c><00:07:17.400><c> uma</c><00:07:17.599><c> message</c><00:07:18.120><c> handler</c>
+
+00:07:18.670 --> 00:07:18.680 align:start position:0%
+show ele vai criar uma message handler
+ 
+
+00:07:18.680 --> 00:07:21.029 align:start position:0%
+show ele vai criar uma message handler
+vamos<00:07:18.960><c> ver</c><00:07:20.160><c> legal</c><00:07:20.479><c> que</c><00:07:20.599><c> ele</c><00:07:20.720><c> tá</c><00:07:20.800><c> fazendo</c>
+
+00:07:21.029 --> 00:07:21.039 align:start position:0%
+vamos ver legal que ele tá fazendo
+ 
+
+00:07:21.039 --> 00:07:23.070 align:start position:0%
+vamos ver legal que ele tá fazendo
+aqui<00:07:21.160><c> Já</c><00:07:21.520><c> curti</c>
+
+00:07:23.070 --> 00:07:23.080 align:start position:0%
+aqui Já curti
+ 
+
+00:07:23.080 --> 00:07:28.749 align:start position:0%
+aqui Já curti
+já<00:07:24.280><c> beleza</c><00:07:25.280><c> k</c><00:07:26.240><c> preciso</c><00:07:27.080><c> fazer</c><00:07:27.440><c> isso</c><00:07:28.360><c> não</c><00:07:28.639><c> não</c>
+
+00:07:28.749 --> 00:07:28.759 align:start position:0%
+já beleza k preciso fazer isso não não
+ 
+
+00:07:28.759 --> 00:07:31.189 align:start position:0%
+já beleza k preciso fazer isso não não
+precis<00:07:29.120><c> ó</c><00:07:29.599><c> ele</c><00:07:29.759><c> tá</c><00:07:29.840><c> vendo</c><00:07:30.000><c> aqu</c><00:07:30.199><c> ele</c><00:07:30.680><c> tá</c><00:07:30.919><c> vendo</c><00:07:31.120><c> o</c>
+
+00:07:31.189 --> 00:07:31.199 align:start position:0%
+precis ó ele tá vendo aqu ele tá vendo o
+ 
+
+00:07:31.199 --> 00:07:32.909 align:start position:0%
+precis ó ele tá vendo aqu ele tá vendo o
+que<00:07:31.319><c> ele</c><00:07:31.440><c> tá</c><00:07:31.560><c> fazendo</c><00:07:31.879><c> aqui</c><00:07:32.039><c> ó</c><00:07:32.360><c> que</c><00:07:32.599><c> ele</c><00:07:32.720><c> já</c><00:07:32.800><c> tá</c>
+
+00:07:32.909 --> 00:07:32.919 align:start position:0%
+que ele tá fazendo aqui ó que ele já tá
+ 
+
+00:07:32.919 --> 00:07:35.629 align:start position:0%
+que ele tá fazendo aqui ó que ele já tá
+fazendo<00:07:33.160><c> uma</c><00:07:33.560><c> nojeira</c><00:07:34.560><c> que</c><00:07:34.759><c> que</c><00:07:34.840><c> ele</c><00:07:35.000><c> começou</c>
+
+00:07:35.629 --> 00:07:35.639 align:start position:0%
+fazendo uma nojeira que que ele começou
+ 
+
+00:07:35.639 --> 00:07:37.589 align:start position:0%
+fazendo uma nojeira que que ele começou
+que<00:07:35.800><c> que</c><00:07:35.840><c> ele</c><00:07:36.000><c> fez</c><00:07:36.240><c> aqui</c><00:07:36.360><c> ó</c><00:07:36.479><c> vamos</c><00:07:37.160><c> olhar</c><00:07:37.440><c> aqui</c>
+
+00:07:37.589 --> 00:07:37.599 align:start position:0%
+que que ele fez aqui ó vamos olhar aqui
+ 
+
+00:07:37.599 --> 00:07:39.469 align:start position:0%
+que que ele fez aqui ó vamos olhar aqui
+o<00:07:37.919><c> vou</c><00:07:38.080><c> mostrar</c><00:07:38.280><c> o</c><00:07:38.400><c> código</c><00:07:38.759><c> para</c><00:07:38.919><c> vocês</c><00:07:39.199><c> deixa</c>
+
+00:07:39.469 --> 00:07:39.479 align:start position:0%
+o vou mostrar o código para vocês deixa
+ 
+
+00:07:39.479 --> 00:07:41.670 align:start position:0%
+o vou mostrar o código para vocês deixa
+eu<00:07:39.599><c> fechar</c><00:07:39.800><c> todas</c><00:07:40.000><c> as</c><00:07:40.160><c> abas</c><00:07:40.840><c> e</c><00:07:41.080><c> por</c><00:07:41.199><c> isso</c><00:07:41.400><c> que</c><00:07:41.520><c> é</c>
+
+00:07:41.670 --> 00:07:41.680 align:start position:0%
+eu fechar todas as abas e por isso que é
+ 
+
+00:07:41.680 --> 00:07:43.830 align:start position:0%
+eu fechar todas as abas e por isso que é
+importante<00:07:42.160><c> a</c><00:07:42.240><c> gente</c><00:07:42.440><c> saber</c><00:07:42.840><c> programar</c>
+
+00:07:43.830 --> 00:07:43.840 align:start position:0%
+importante a gente saber programar
+ 
+
+00:07:43.840 --> 00:07:46.350 align:start position:0%
+importante a gente saber programar
+porque<00:07:44.759><c> cara</c><00:07:45.479><c> não</c><00:07:45.639><c> isso</c><00:07:45.840><c> aqui</c><00:07:45.919><c> para</c><00:07:46.080><c> mim</c><00:07:46.199><c> que</c>
+
+00:07:46.350 --> 00:07:46.360 align:start position:0%
+porque cara não isso aqui para mim que
+ 
+
+00:07:46.360 --> 00:07:48.550 align:start position:0%
+porque cara não isso aqui para mim que
+ele<00:07:46.479><c> fez</c><00:07:46.680><c> não</c><00:07:46.759><c> faz</c><00:07:46.960><c> sentido</c><00:07:47.240><c> ó</c><00:07:47.879><c> até</c><00:07:48.199><c> aqui</c><00:07:48.360><c> tudo</c>
+
+00:07:48.550 --> 00:07:48.560 align:start position:0%
+ele fez não faz sentido ó até aqui tudo
+ 
+
+00:07:48.560 --> 00:07:50.710 align:start position:0%
+ele fez não faz sentido ó até aqui tudo
+bem<00:07:48.720><c> ele</c><00:07:48.919><c> criou</c><00:07:49.159><c> a</c><00:07:49.319><c> Instância</c><00:07:49.639><c> do</c><00:07:49.800><c> Venom</c><00:07:50.360><c> ótimo</c>
+
+00:07:50.710 --> 00:07:50.720 align:start position:0%
+bem ele criou a Instância do Venom ótimo
+ 
+
+00:07:50.720 --> 00:07:52.589 align:start position:0%
+bem ele criou a Instância do Venom ótimo
+aí<00:07:51.000><c> ele</c><00:07:51.120><c> viio</c><00:07:51.479><c> aqui</c><00:07:51.639><c> criou</c><00:07:51.919><c> a</c><00:07:52.080><c> service</c><00:07:52.479><c> Ele</c>
+
+00:07:52.589 --> 00:07:52.599 align:start position:0%
+aí ele viio aqui criou a service Ele
+ 
+
+00:07:52.599 --> 00:07:54.909 align:start position:0%
+aí ele viio aqui criou a service Ele
+criou<00:07:52.840><c> a</c><00:07:52.919><c> chat</c><00:07:53.240><c> PT</c><00:07:53.560><c> service</c><00:07:54.000><c> tá</c><00:07:54.159><c> genérica</c>
+
+00:07:54.909 --> 00:07:54.919 align:start position:0%
+criou a chat PT service tá genérica
+ 
+
+00:07:54.919 --> 00:07:57.469 align:start position:0%
+criou a chat PT service tá genérica
+generate<00:07:55.759><c> response</c><00:07:56.400><c> manda</c><00:07:56.759><c> mensagem</c><00:07:57.319><c> tá</c>
+
+00:07:57.469 --> 00:07:57.479 align:start position:0%
+generate response manda mensagem tá
+ 
+
+00:07:57.479 --> 00:08:00.950 align:start position:0%
+generate response manda mensagem tá
+configurado<00:07:57.879><c> pro</c><00:07:58.120><c> 3.5</c><00:07:58.800><c> turbo</c><00:07:59.039><c> tá</c><00:07:59.240><c> ok</c><00:07:59.479><c> OK</c><00:08:00.280><c> tá</c><00:08:00.680><c> aí</c>
+
+00:08:00.950 --> 00:08:00.960 align:start position:0%
+configurado pro 3.5 turbo tá ok OK tá aí
+ 
+
+00:08:00.960 --> 00:08:03.790 align:start position:0%
+configurado pro 3.5 turbo tá ok OK tá aí
+ele<00:08:01.199><c> criou</c><00:08:01.479><c> uma</c><00:08:01.599><c> Messa</c><00:08:01.960><c> de</c><00:08:02.039><c> handler</c><00:08:02.560><c> aqui</c><00:08:03.479><c> que</c>
+
+00:08:03.790 --> 00:08:03.800 align:start position:0%
+ele criou uma Messa de handler aqui que
+ 
+
+00:08:03.800 --> 00:08:06.909 align:start position:0%
+ele criou uma Messa de handler aqui que
+basicamente<00:08:04.280><c> ó</c><00:08:04.680><c> eu</c><00:08:04.840><c> mando</c><00:08:05.159><c> a</c><00:08:05.479><c> mensagem</c><00:08:06.479><c> e</c><00:08:06.759><c> aí</c>
+
+00:08:06.909 --> 00:08:06.919 align:start position:0%
+basicamente ó eu mando a mensagem e aí
+ 
+
+00:08:06.919 --> 00:08:08.869 align:start position:0%
+basicamente ó eu mando a mensagem e aí
+ele<00:08:07.159><c> vê</c><00:08:07.680><c> ele</c><00:08:07.840><c> vê</c><00:08:08.039><c> qual</c><00:08:08.199><c> que</c><00:08:08.280><c> foi</c><00:08:08.440><c> o</c><00:08:08.520><c> comando</c><00:08:08.759><c> e</c>
+
+00:08:08.869 --> 00:08:08.879 align:start position:0%
+ele vê ele vê qual que foi o comando e
+ 
+
+00:08:08.879 --> 00:08:11.230 align:start position:0%
+ele vê ele vê qual que foi o comando e
+não<00:08:08.960><c> é</c><00:08:09.080><c> esse</c><00:08:09.360><c> Ó</c><00:08:09.479><c> handle</c><00:08:10.080><c> gring</c><00:08:10.759><c> tipo</c><00:08:11.000><c> não</c><00:08:11.159><c> é</c>
+
+00:08:11.230 --> 00:08:11.240 align:start position:0%
+não é esse Ó handle gring tipo não é
+ 
+
+00:08:11.240 --> 00:08:13.029 align:start position:0%
+não é esse Ó handle gring tipo não é
+isso<00:08:11.479><c> que</c><00:08:11.560><c> eu</c><00:08:11.680><c> quero</c><00:08:11.879><c> eu</c><00:08:12.000><c> não</c><00:08:12.120><c> quero</c><00:08:12.319><c> que</c><00:08:12.440><c> ele</c>
+
+00:08:13.029 --> 00:08:13.039 align:start position:0%
+isso que eu quero eu não quero que ele
+ 
+
+00:08:13.039 --> 00:08:15.830 align:start position:0%
+isso que eu quero eu não quero que ele
+que<00:08:13.240><c> ele</c><00:08:13.400><c> faça</c><00:08:13.720><c> desse</c><00:08:14.000><c> jeito</c><00:08:14.639><c> eu</c><00:08:14.840><c> quero</c><00:08:15.000><c> que</c><00:08:15.159><c> o</c>
+
+00:08:15.830 --> 00:08:15.840 align:start position:0%
+que ele faça desse jeito eu quero que o
+ 
+
+00:08:15.840 --> 00:08:17.830 align:start position:0%
+que ele faça desse jeito eu quero que o
+eu<00:08:15.919><c> quero</c><00:08:16.199><c> treinar</c><00:08:16.520><c> o</c><00:08:16.759><c> chat</c>
+
+00:08:17.830 --> 00:08:17.840 align:start position:0%
+eu quero treinar o chat
+ 
+
+00:08:17.840 --> 00:08:22.749 align:start position:0%
+eu quero treinar o chat
+GPT<00:08:18.840><c> para</c><00:08:19.520><c> ser</c><00:08:20.440><c> esse</c><00:08:21.240><c> ter</c><00:08:21.360><c> um</c><00:08:21.560><c> agente</c><00:08:21.960><c> GPT</c><00:08:22.520><c> que</c>
+
+00:08:22.749 --> 00:08:22.759 align:start position:0%
+GPT para ser esse ter um agente GPT que
+ 
+
+00:08:22.759 --> 00:08:25.629 align:start position:0%
+GPT para ser esse ter um agente GPT que
+seja<00:08:23.000><c> o</c><00:08:23.479><c> meu</c><00:08:23.919><c> SDR</c><00:08:24.680><c> mesmo</c><00:08:25.039><c> que</c><00:08:25.159><c> entenda</c><00:08:25.479><c> tudo</c>
+
+00:08:25.629 --> 00:08:25.639 align:start position:0%
+seja o meu SDR mesmo que entenda tudo
+ 
+
+00:08:25.639 --> 00:08:28.550 align:start position:0%
+seja o meu SDR mesmo que entenda tudo
+sobre<00:08:25.879><c> o</c><00:08:26.000><c> meu</c><00:08:26.159><c> produto</c><00:08:26.960><c> e</c><00:08:27.240><c> cara</c><00:08:28.080><c> o</c><00:08:28.199><c> que</c><00:08:28.280><c> ele</c><00:08:28.440><c> vai</c>
+
+00:08:28.550 --> 00:08:28.560 align:start position:0%
+sobre o meu produto e cara o que ele vai
+ 
+
+00:08:28.560 --> 00:08:29.990 align:start position:0%
+sobre o meu produto e cara o que ele vai
+fazer<00:08:28.759><c> aqui</c><00:08:28.879><c> é</c><00:08:29.000><c> uma</c>
+
+00:08:29.990 --> 00:08:30.000 align:start position:0%
+fazer aqui é uma
+ 
+
+00:08:30.000 --> 00:08:33.269 align:start position:0%
+fazer aqui é uma
+entre<00:08:30.360><c> GPT</c><00:08:31.039><c> e</c><00:08:31.800><c> e</c><00:08:32.039><c> WhatsApp</c><00:08:32.680><c> é</c><00:08:32.800><c> isso</c><00:08:33.080><c> que</c><00:08:33.159><c> eu</c>
+
+00:08:33.269 --> 00:08:33.279 align:start position:0%
+entre GPT e e WhatsApp é isso que eu
+ 
+
+00:08:33.279 --> 00:08:35.949 align:start position:0%
+entre GPT e e WhatsApp é isso que eu
+quero<00:08:33.919><c> sacou</c><00:08:34.479><c> Então</c><00:08:34.800><c> vamos</c><00:08:35.399><c> vamos</c><00:08:35.560><c> começar</c><00:08:35.839><c> a</c>
+
+00:08:35.949 --> 00:08:35.959 align:start position:0%
+quero sacou Então vamos vamos começar a
+ 
+
+00:08:35.959 --> 00:08:38.029 align:start position:0%
+quero sacou Então vamos vamos começar a
+deixar<00:08:36.200><c> ele</c><00:08:36.399><c> mais</c><00:08:36.599><c> robusto</c><00:08:36.919><c> para</c><00:08:37.159><c> ele</c><00:08:37.279><c> fazer</c>
+
+00:08:38.029 --> 00:08:38.039 align:start position:0%
+deixar ele mais robusto para ele fazer
+ 
+
+00:08:38.039 --> 00:08:41.829 align:start position:0%
+deixar ele mais robusto para ele fazer
+isso<00:08:39.039><c> então</c><00:08:39.479><c> vamos</c><00:08:39.880><c> começar</c><00:08:40.399><c> aqui</c><00:08:40.760><c> a</c><00:08:41.000><c> melhorar</c>
+
+00:08:41.829 --> 00:08:41.839 align:start position:0%
+isso então vamos começar aqui a melhorar
+ 
+
+00:08:41.839 --> 00:08:43.670 align:start position:0%
+isso então vamos começar aqui a melhorar
+o
+
+00:08:43.670 --> 00:08:43.680 align:start position:0%
+o
+ 
+
+00:08:43.680 --> 00:08:48.310 align:start position:0%
+o
+nosso
+
+00:08:48.310 --> 00:08:48.320 align:start position:0%
+ 
+ 
+
+00:08:48.320 --> 00:08:50.310 align:start position:0%
+ 
+chatbot<00:08:49.320><c> vamos</c><00:08:49.600><c> lá</c><00:08:49.760><c> como</c><00:08:50.000><c> que</c><00:08:50.080><c> eu</c><00:08:50.160><c> vou</c>
+
+00:08:50.310 --> 00:08:50.320 align:start position:0%
+chatbot vamos lá como que eu vou
+ 
+
+00:08:50.320 --> 00:08:53.350 align:start position:0%
+chatbot vamos lá como que eu vou
+escrever<00:08:50.720><c> isso</c><00:08:50.920><c> aqui</c><00:08:51.080><c> para</c><00:08:51.279><c> ele</c>
+
+00:08:53.350 --> 00:08:53.360 align:start position:0%
+escrever isso aqui para ele
+ 
+
+00:08:53.360 --> 00:08:57.350 align:start position:0%
+escrever isso aqui para ele
+tá<00:08:54.360><c> a</c><00:08:54.800><c> inteligência</c><00:08:55.800><c> do</c>
+
+00:08:57.350 --> 00:08:57.360 align:start position:0%
+tá a inteligência do
+ 
+
+00:08:57.360 --> 00:09:01.790 align:start position:0%
+tá a inteligência do
+SDR<00:08:58.360><c> de</c><00:08:58.600><c> vendas</c>
+
+00:09:01.790 --> 00:09:01.800 align:start position:0%
+ 
+ 
+
+00:09:01.800 --> 00:09:04.910 align:start position:0%
+ 
+ficará<00:09:02.800><c> no</c>
+
+00:09:04.910 --> 00:09:04.920 align:start position:0%
+ficará no
+ 
+
+00:09:04.920 --> 00:09:09.509 align:start position:0%
+ficará no
+GPT<00:09:05.920><c> estamos</c><00:09:06.320><c> usando</c><00:09:06.680><c> o</c><00:09:07.279><c> veno</c><00:09:08.279><c> apenas</c><00:09:08.959><c> como</c>
+
+00:09:09.509 --> 00:09:09.519 align:start position:0%
+GPT estamos usando o veno apenas como
+ 
+
+00:09:09.519 --> 00:09:14.710 align:start position:0%
+GPT estamos usando o veno apenas como
+uma<00:09:10.800><c> interface</c><00:09:11.800><c> entre</c><00:09:12.279><c> as</c><00:09:12.640><c> mensagens</c><00:09:13.480><c> do</c><00:09:13.800><c> GPT</c>
+
+00:09:14.710 --> 00:09:14.720 align:start position:0%
+uma interface entre as mensagens do GPT
+ 
+
+00:09:14.720 --> 00:09:18.710 align:start position:0%
+uma interface entre as mensagens do GPT
+e<00:09:15.000><c> o</c><00:09:15.880><c> retorno</c><00:09:16.880><c> ao</c>
+
+00:09:18.710 --> 00:09:18.720 align:start position:0%
+e o retorno ao
+ 
+
+00:09:18.720 --> 00:09:24.790 align:start position:0%
+e o retorno ao
+usuário<00:09:19.720><c> que</c><00:09:20.399><c> está</c><00:09:21.079><c> no</c>
+
+00:09:24.790 --> 00:09:24.800 align:start position:0%
+ 
+ 
+
+00:09:24.800 --> 00:09:34.670 align:start position:0%
+ 
+WhatsApp<00:09:25.800><c> então</c><00:09:26.320><c> não</c><00:09:26.720><c> faz</c><00:09:27.720><c> sentido</c><00:09:28.079><c> a</c><00:09:28.480><c> messag</c>
+
+00:09:34.670 --> 00:09:34.680 align:start position:0%
+ 
+ 
+
+00:09:34.680 --> 00:09:38.670 align:start position:0%
+ 
+handler<00:09:35.680><c> ajuste</c><00:09:36.600><c> para</c><00:09:36.920><c> esse</c>
+
+00:09:38.670 --> 00:09:38.680 align:start position:0%
+handler ajuste para esse
+ 
+
+00:09:38.680 --> 00:09:41.630 align:start position:0%
+handler ajuste para esse
+cenário<00:09:39.680><c> legal</c><00:09:40.519><c> introduzi</c><00:09:41.120><c> aqui</c><00:09:41.200><c> o</c><00:09:41.360><c> que</c><00:09:41.519><c> que</c>
+
+00:09:41.630 --> 00:09:41.640 align:start position:0%
+cenário legal introduzi aqui o que que
+ 
+
+00:09:41.640 --> 00:09:43.310 align:start position:0%
+cenário legal introduzi aqui o que que
+eu<00:09:41.720><c> queria</c><00:09:42.320><c> gente</c><00:09:42.600><c> eu</c><00:09:42.760><c> tô</c><00:09:42.920><c> literalmente</c>
+
+00:09:43.310 --> 00:09:43.320 align:start position:0%
+eu queria gente eu tô literalmente
+ 
+
+00:09:43.320 --> 00:09:44.870 align:start position:0%
+eu queria gente eu tô literalmente
+programando<00:09:43.839><c> sem</c><00:09:44.000><c> colocar</c><00:09:44.320><c> a</c><00:09:44.440><c> mão</c><00:09:44.600><c> eu</c><00:09:44.640><c> sou</c><00:09:44.760><c> o</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+programando sem colocar a mão eu sou o
+ 
+
+00:09:44.880 --> 00:09:47.350 align:start position:0%
+programando sem colocar a mão eu sou o
+Vibe<00:09:45.240><c> code</c><00:09:45.560><c> né</c><00:09:45.680><c> que</c><00:09:45.800><c> eles</c><00:09:45.920><c> falam</c><00:09:46.120><c> Vibe</c><00:09:46.440><c> code</c><00:09:47.160><c> eu</c>
+
+00:09:47.350 --> 00:09:47.360 align:start position:0%
+Vibe code né que eles falam Vibe code eu
+ 
+
+00:09:47.360 --> 00:09:49.110 align:start position:0%
+Vibe code né que eles falam Vibe code eu
+não<00:09:47.480><c> gostei</c><00:09:47.760><c> muito</c><00:09:47.959><c> desse</c><00:09:48.200><c> nome</c><00:09:48.360><c> de</c><00:09:48.440><c> vibe</c><00:09:48.800><c> code</c>
+
+00:09:49.110 --> 00:09:49.120 align:start position:0%
+não gostei muito desse nome de vibe code
+ 
+
+00:09:49.120 --> 00:09:51.230 align:start position:0%
+não gostei muito desse nome de vibe code
+não<00:09:49.279><c> sabe</c><00:09:49.720><c> eu</c><00:09:49.839><c> acho</c><00:09:50.079><c> que</c><00:09:50.160><c> é</c><00:09:50.279><c> mais</c><00:09:50.399><c> um</c><00:09:50.519><c> prompt</c>
+
+00:09:51.230 --> 00:09:51.240 align:start position:0%
+não sabe eu acho que é mais um prompt
+ 
+
+00:09:51.240 --> 00:09:54.350 align:start position:0%
+não sabe eu acho que é mais um prompt
+code<00:09:52.240><c> um</c><00:09:52.440><c> prompt</c><00:09:53.000><c> programmer</c><00:09:53.839><c> alguma</c><00:09:54.120><c> coisa</c>
+
+00:09:54.350 --> 00:09:54.360 align:start position:0%
+code um prompt programmer alguma coisa
+ 
+
+00:09:54.360 --> 00:09:57.350 align:start position:0%
+code um prompt programmer alguma coisa
+do<00:09:54.600><c> tipo</c><00:09:55.600><c> saca</c><00:09:56.399><c> ó</c><00:09:56.640><c> deixa</c><00:09:56.880><c> eu</c><00:09:56.959><c> ver</c><00:09:57.040><c> se</c><00:09:57.160><c> ele</c>
+
+00:09:57.350 --> 00:09:57.360 align:start position:0%
+do tipo saca ó deixa eu ver se ele
+ 
+
+00:09:57.360 --> 00:09:59.389 align:start position:0%
+do tipo saca ó deixa eu ver se ele
+entendeu<00:09:57.640><c> o</c><00:09:57.760><c> que</c><00:09:57.880><c> que</c><00:09:57.959><c> eu</c><00:09:58.079><c> quis</c><00:09:58.279><c> dizer</c><00:09:58.680><c> vamos</c>
+
+00:09:59.389 --> 00:09:59.399 align:start position:0%
+entendeu o que que eu quis dizer vamos
+ 
+
+00:09:59.399 --> 00:10:01.790 align:start position:0%
+entendeu o que que eu quis dizer vamos
+Vamos<00:09:59.600><c> ler</c><00:09:59.760><c> aqui</c><00:09:59.880><c> devagarzinho</c><00:10:00.279><c> ã</c><00:10:01.200><c> Cadê</c><00:10:01.600><c> onde</c>
+
+00:10:01.790 --> 00:10:01.800 align:start position:0%
+Vamos ler aqui devagarzinho ã Cadê onde
+ 
+
+00:10:01.800 --> 00:10:02.829 align:start position:0%
+Vamos ler aqui devagarzinho ã Cadê onde
+eu
+
+00:10:02.829 --> 00:10:02.839 align:start position:0%
+eu
+ 
+
+00:10:02.839 --> 00:10:05.870 align:start position:0%
+eu
+falei<00:10:03.839><c> tá</c><00:10:04.279><c> aqui</c><00:10:04.480><c> ó</c><00:10:04.800><c> você</c><00:10:05.200><c> está</c><00:10:05.440><c> certo</c><00:10:05.680><c> se</c><00:10:05.760><c> o</c>
+
+00:10:05.870 --> 00:10:05.880 align:start position:0%
+falei tá aqui ó você está certo se o
+ 
+
+00:10:05.880 --> 00:10:07.870 align:start position:0%
+falei tá aqui ó você está certo se o
+bote<00:10:06.240><c> essencialmente</c><00:10:06.680><c> um</c><00:10:06.839><c> SDR</c><00:10:07.240><c> de</c><00:10:07.440><c> vendas</c>
+
+00:10:07.870 --> 00:10:07.880 align:start position:0%
+bote essencialmente um SDR de vendas
+ 
+
+00:10:07.880 --> 00:10:09.710 align:start position:0%
+bote essencialmente um SDR de vendas
+controlado<00:10:08.200><c> pelo</c><00:10:08.399><c> GPT</c><00:10:08.959><c> podemos</c><00:10:09.279><c> simplificar</c>
+
+00:10:09.710 --> 00:10:09.720 align:start position:0%
+controlado pelo GPT podemos simplificar
+ 
+
+00:10:09.720 --> 00:10:11.110 align:start position:0%
+controlado pelo GPT podemos simplificar
+a<00:10:09.839><c> estrutura</c><00:10:10.240><c> removendo</c><00:10:10.680><c> os</c><00:10:10.800><c> comandos</c>
+
+00:10:11.110 --> 00:10:11.120 align:start position:0%
+a estrutura removendo os comandos
+ 
+
+00:10:11.120 --> 00:10:13.470 align:start position:0%
+a estrutura removendo os comandos
+pré-definidos<00:10:11.800><c> e</c><00:10:12.079><c> focando</c><00:10:12.880><c> na</c><00:10:13.079><c> interação</c>
+
+00:10:13.470 --> 00:10:13.480 align:start position:0%
+pré-definidos e focando na interação
+ 
+
+00:10:13.480 --> 00:10:15.350 align:start position:0%
+pré-definidos e focando na interação
+Direta<00:10:13.720><c> com</c><00:10:13.880><c> o</c><00:10:14.079><c> GPT</c><00:10:14.480><c> vou</c><00:10:14.600><c> reorganizar</c><00:10:15.120><c> o</c>
+
+00:10:15.350 --> 00:10:15.360 align:start position:0%
+Direta com o GPT vou reorganizar o
+ 
+
+00:10:15.360 --> 00:10:17.670 align:start position:0%
+Direta com o GPT vou reorganizar o
+código<00:10:16.040><c> para</c><00:10:16.279><c> este</c><00:10:16.600><c> cenário</c><00:10:17.040><c> Primeiro</c><00:10:17.399><c> vamos</c>
+
+00:10:17.670 --> 00:10:17.680 align:start position:0%
+código para este cenário Primeiro vamos
+ 
+
+00:10:17.680 --> 00:10:20.310 align:start position:0%
+código para este cenário Primeiro vamos
+modificar<00:10:18.040><c> o</c><00:10:18.320><c> serviço</c><00:10:18.680><c> do</c><00:10:18.839><c> chat</c><00:10:19.200><c> jpt</c><00:10:20.079><c> para</c>
+
+00:10:20.310 --> 00:10:20.320 align:start position:0%
+modificar o serviço do chat jpt para
+ 
+
+00:10:20.320 --> 00:10:23.389 align:start position:0%
+modificar o serviço do chat jpt para
+incluir<00:10:20.680><c> o</c><00:10:20.760><c> contexto</c><00:10:21.200><c> de</c><00:10:21.320><c> STR</c><00:10:21.760><c> de</c><00:10:21.880><c> vendas</c>
+
+00:10:23.389 --> 00:10:23.399 align:start position:0%
+incluir o contexto de STR de vendas
+ 
+
+00:10:23.399 --> 00:10:27.190 align:start position:0%
+incluir o contexto de STR de vendas
+OK<00:10:24.399><c> aí</c><00:10:24.959><c> agora</c><00:10:25.320><c> vamos</c><00:10:25.680><c> simplificar</c><00:10:26.600><c> o</c><00:10:26.760><c> arquivo</c>
+
+00:10:27.190 --> 00:10:27.200 align:start position:0%
+OK aí agora vamos simplificar o arquivo
+ 
+
+00:10:27.200 --> 00:10:29.750 align:start position:0%
+OK aí agora vamos simplificar o arquivo
+index<00:10:27.839><c> Focar</c><00:10:28.160><c> apenas</c><00:10:28.440><c> na</c><00:10:28.640><c> integração</c>
+
+00:10:29.750 --> 00:10:29.760 align:start position:0%
+index Focar apenas na integração
+ 
+
+00:10:29.760 --> 00:10:31.710 align:start position:0%
+index Focar apenas na integração
+[Música]
+
+00:10:31.710 --> 00:10:31.720 align:start position:0%
+[Música]
+ 
+
+00:10:31.720 --> 00:10:35.430 align:start position:0%
+[Música]
+OK<00:10:32.720><c> tá</c><00:10:33.240><c> bom</c><00:10:34.240><c> podemos</c><00:10:34.680><c> remover</c><00:10:35.040><c> o</c><00:10:35.160><c> arquivo</c>
+
+00:10:35.430 --> 00:10:35.440 align:start position:0%
+OK tá bom podemos remover o arquivo
+ 
+
+00:10:35.440 --> 00:10:37.750 align:start position:0%
+OK tá bom podemos remover o arquivo
+message<00:10:36.040><c> handler</c><00:10:36.560><c> já</c><00:10:36.720><c> que</c><00:10:36.920><c> não</c><00:10:37.160><c> vamos</c><00:10:37.600><c> mais</c>
+
+00:10:37.750 --> 00:10:37.760 align:start position:0%
+message handler já que não vamos mais
+ 
+
+00:10:37.760 --> 00:10:40.350 align:start position:0%
+message handler já que não vamos mais
+usá-los<00:10:38.399><c> ok</c>
+
+00:10:40.350 --> 00:10:40.360 align:start position:0%
+usá-los ok
+ 
+
+00:10:40.360 --> 00:10:43.790 align:start position:0%
+usá-los ok
+remova<00:10:41.360><c> agora</c><00:10:41.760><c> a</c><00:10:42.000><c> estrutura</c><00:10:42.839><c> está</c><00:10:43.079><c> muito</c><00:10:43.399><c> mais</c>
+
+00:10:43.790 --> 00:10:43.800 align:start position:0%
+remova agora a estrutura está muito mais
+ 
+
+00:10:43.800 --> 00:10:46.910 align:start position:0%
+remova agora a estrutura está muito mais
+focada<00:10:44.279><c> E</c><00:10:44.440><c> adequada</c><00:10:44.839><c> para</c><00:10:44.959><c> um</c><00:10:45.320><c> SDR</c><00:10:45.720><c> de</c><00:10:45.920><c> vendas</c>
+
+00:10:46.910 --> 00:10:46.920 align:start position:0%
+focada E adequada para um SDR de vendas
+ 
+
+00:10:46.920 --> 00:10:51.470 align:start position:0%
+focada E adequada para um SDR de vendas
+será<00:10:47.200><c> de</c><00:10:47.959><c> PTI</c><00:10:48.880><c> será</c><00:10:49.360><c> Vamos</c><00:10:50.000><c> ver</c><00:10:51.000><c> que</c><00:10:51.200><c> que</c><00:10:51.279><c> ele</c>
+
+00:10:51.470 --> 00:10:51.480 align:start position:0%
+será de PTI será Vamos ver que que ele
+ 
+
+00:10:51.480 --> 00:10:54.389 align:start position:0%
+será de PTI será Vamos ver que que ele
+faz<00:10:52.000><c> chat</c><00:10:52.600><c> PT</c><00:10:53.040><c> beleza</c><00:10:53.519><c> ele</c><00:10:53.680><c> chama</c><00:10:53.959><c> service</c>
+
+00:10:54.389 --> 00:10:54.399 align:start position:0%
+faz chat PT beleza ele chama service
+ 
+
+00:10:54.399 --> 00:10:56.750 align:start position:0%
+faz chat PT beleza ele chama service
+deixa<00:10:54.600><c> eu</c><00:10:54.680><c> ver</c><00:10:54.760><c> a</c><00:10:54.880><c> service</c><00:10:55.240><c> primeiro</c><00:10:56.240><c> aqui</c><00:10:56.480><c> na</c>
+
+00:10:56.750 --> 00:10:56.760 align:start position:0%
+deixa eu ver a service primeiro aqui na
+ 
+
+00:10:56.760 --> 00:10:59.550 align:start position:0%
+deixa eu ver a service primeiro aqui na
+constructor<00:10:57.440><c> ele</c><00:10:57.680><c> cria</c><00:10:58.120><c> beleza</c><00:10:58.680><c> aí</c><00:10:58.920><c> ele</c><00:10:59.279><c> dá</c><00:10:59.440><c> um</c>
+
+00:10:59.550 --> 00:10:59.560 align:start position:0%
+constructor ele cria beleza aí ele dá um
+ 
+
+00:10:59.560 --> 00:11:01.590 align:start position:0%
+constructor ele cria beleza aí ele dá um
+System<00:10:59.880><c> prompt</c><00:11:00.519><c> você</c><00:11:00.760><c> é</c><00:11:00.880><c> um</c>
+
+00:11:01.590 --> 00:11:01.600 align:start position:0%
+System prompt você é um
+ 
+
+00:11:01.600 --> 00:11:04.470 align:start position:0%
+System prompt você é um
+SDR<00:11:02.600><c> experiente</c><00:11:03.079><c> e</c><00:11:03.240><c> profissional</c><00:11:03.920><c> seu</c>
+
+00:11:04.470 --> 00:11:04.480 align:start position:0%
+SDR experiente e profissional seu
+ 
+
+00:11:04.480 --> 00:11:06.990 align:start position:0%
+SDR experiente e profissional seu
+objetivo<00:11:04.880><c> é</c><00:11:05.519><c> tal</c><00:11:05.760><c> coisa</c>
+
+00:11:06.990 --> 00:11:07.000 align:start position:0%
+objetivo é tal coisa
+ 
+
+00:11:07.000 --> 00:11:11.350 align:start position:0%
+objetivo é tal coisa
+OK<00:11:08.000><c> conversation</c><00:11:08.920><c> Parará</c>
+
+00:11:11.350 --> 00:11:11.360 align:start position:0%
+OK conversation Parará
+ 
+
+00:11:11.360 --> 00:11:13.509 align:start position:0%
+OK conversation Parará
+OK
+
+00:11:13.509 --> 00:11:13.519 align:start position:0%
+OK
+ 
+
+00:11:13.519 --> 00:11:15.269 align:start position:0%
+OK
+get
+
+00:11:15.269 --> 00:11:15.279 align:start position:0%
+get
+ 
+
+00:11:15.279 --> 00:11:18.150 align:start position:0%
+get
+conversation<00:11:16.279><c> History</c><00:11:17.120><c> o</c><00:11:17.320><c> que</c><00:11:17.519><c> que</c><00:11:17.600><c> esse</c><00:11:17.880><c> cara</c>
+
+00:11:18.150 --> 00:11:18.160 align:start position:0%
+conversation History o que que esse cara
+ 
+
+00:11:18.160 --> 00:11:21.509 align:start position:0%
+conversation History o que que esse cara
+faz<00:11:18.600><c> ele</c><00:11:18.880><c> chama</c><00:11:19.360><c> aqui</c><00:11:20.360><c> conversations</c><00:11:21.160><c> o</c><00:11:21.360><c> que</c>
+
+00:11:21.509 --> 00:11:21.519 align:start position:0%
+faz ele chama aqui conversations o que
+ 
+
+00:11:21.519 --> 00:11:22.990 align:start position:0%
+faz ele chama aqui conversations o que
+que<00:11:21.600><c> é</c>
+
+00:11:22.990 --> 00:11:23.000 align:start position:0%
+que é
+ 
+
+00:11:23.000 --> 00:11:27.030 align:start position:0%
+que é
+conversations<00:11:24.000><c> tá</c><00:11:24.440><c> ele</c><00:11:24.639><c> manté</c><00:11:25.200><c> memória</c>
+
+00:11:27.030 --> 00:11:27.040 align:start position:0%
+conversations tá ele manté memória
+ 
+
+00:11:27.040 --> 00:11:32.629 align:start position:0%
+conversations tá ele manté memória
+OK<00:11:28.040><c> tá</c><00:11:28.480><c> ele</c><00:11:28.639><c> mant</c><00:11:29.279><c> óli</c><00:11:29.680><c> de</c><00:11:29.800><c> memória</c><00:11:30.200><c> p</c><00:11:30.639><c> p</c><00:11:30.839><c> pá</c><00:11:31.639><c> Ok</c>
+
+00:11:32.629 --> 00:11:32.639 align:start position:0%
+OK tá ele mant óli de memória p p pá Ok
+ 
+
+00:11:32.639 --> 00:11:35.750 align:start position:0%
+OK tá ele mant óli de memória p p pá Ok
+temperatura<00:11:33.240><c> e</c><00:11:33.639><c> tá</c><00:11:34.639><c> legal</c><00:11:35.120><c> desse</c><00:11:35.440><c> jeito</c><00:11:35.680><c> que</c>
+
+00:11:35.750 --> 00:11:35.760 align:start position:0%
+temperatura e tá legal desse jeito que
+ 
+
+00:11:35.760 --> 00:11:37.030 align:start position:0%
+temperatura e tá legal desse jeito que
+ele<00:11:35.920><c> fez</c><00:11:36.200><c> aqui</c><00:11:36.320><c> vai</c><00:11:36.440><c> funcionar</c><00:11:36.760><c> vocês</c>
+
+00:11:37.030 --> 00:11:37.040 align:start position:0%
+ele fez aqui vai funcionar vocês
+ 
+
+00:11:37.040 --> 00:11:39.430 align:start position:0%
+ele fez aqui vai funcionar vocês
+acreditam<00:11:37.600><c> se</c><00:11:38.000><c> se</c><00:11:38.160><c> eu</c><00:11:38.240><c> só</c><00:11:38.680><c> eu</c><00:11:38.839><c> vou</c><00:11:39.000><c> colocar</c><00:11:39.279><c> a</c>
+
+00:11:39.430 --> 00:11:39.440 align:start position:0%
+acreditam se se eu só eu vou colocar a
+ 
+
+00:11:39.440 --> 00:11:41.110 align:start position:0%
+acreditam se se eu só eu vou colocar a
+chave<00:11:39.680><c> do</c><00:11:39.800><c> meu</c><00:11:39.959><c> GPT</c><00:11:40.360><c> aqui</c><00:11:40.480><c> e</c><00:11:40.600><c> vou</c><00:11:40.720><c> mostrar</c><00:11:40.959><c> para</c>
+
+00:11:41.110 --> 00:11:41.120 align:start position:0%
+chave do meu GPT aqui e vou mostrar para
+ 
+
+00:11:41.120 --> 00:11:44.710 align:start position:0%
+chave do meu GPT aqui e vou mostrar para
+vocês<00:11:41.680><c> bota</c><00:11:42.079><c> para</c>
+
+00:11:44.710 --> 00:11:44.720 align:start position:0%
+ 
+ 
+
+00:11:44.720 --> 00:11:47.550 align:start position:0%
+ 
+rodar<00:11:45.720><c> pam</c><00:11:46.360><c> pam</c><00:11:46.600><c> P</c>
+
+00:11:47.550 --> 00:11:47.560 align:start position:0%
+rodar pam pam P
+ 
+
+00:11:47.560 --> 00:11:52.269 align:start position:0%
+rodar pam pam P
+pam<00:11:48.560><c> p</c><00:11:49.519><c> p</c><00:11:50.680><c> p</c>
+
+00:11:52.269 --> 00:11:52.279 align:start position:0%
+pam p p p
+ 
+
+00:11:52.279 --> 00:11:57.590 align:start position:0%
+pam p p p
+p<00:11:53.279><c> ó</c><00:11:53.760><c> rodou</c>
+
+00:11:57.590 --> 00:11:57.600 align:start position:0%
+ 
+ 
+
+00:11:57.600 --> 00:12:01.829 align:start position:0%
+ 
+Oi<00:11:58.600><c> olá</c><00:11:59.720><c> Como</c><00:11:59.920><c> eu</c><00:12:00.040><c> posso</c><00:12:00.279><c> ajudar</c><00:12:00.639><c> você</c><00:12:00.880><c> hoje</c>
+
+00:12:01.829 --> 00:12:01.839 align:start position:0%
+Oi olá Como eu posso ajudar você hoje
+ 
+
+00:12:01.839 --> 00:12:05.750 align:start position:0%
+Oi olá Como eu posso ajudar você hoje
+você<00:12:02.839><c> é</c><00:12:03.120><c> o</c><00:12:03.399><c> chat</c>
+
+00:12:05.750 --> 00:12:05.760 align:start position:0%
+você é o chat
+ 
+
+00:12:05.760 --> 00:12:09.230 align:start position:0%
+você é o chat
+GPT<00:12:06.760><c> gente</c><00:12:07.200><c> isso</c><00:12:07.399><c> é</c><00:12:07.480><c> muito</c><00:12:07.639><c> legal</c>
+
+00:12:09.230 --> 00:12:09.240 align:start position:0%
+GPT gente isso é muito legal
+ 
+
+00:12:09.240 --> 00:12:13.990 align:start position:0%
+GPT gente isso é muito legal
+né<00:12:10.240><c> ó</c><00:12:10.920><c> desculpe</c><00:12:11.399><c> não</c><00:12:11.519><c> sou</c><00:12:11.720><c> o</c><00:12:11.880><c> chat</c><00:12:12.720><c> GPT</c><00:12:13.199><c> sou</c><00:12:13.360><c> um</c>
+
+00:12:13.990 --> 00:12:14.000 align:start position:0%
+né ó desculpe não sou o chat GPT sou um
+ 
+
+00:12:14.000 --> 00:12:18.829 align:start position:0%
+né ó desculpe não sou o chat GPT sou um
+SDR<00:12:15.079><c> development</c><00:12:16.399><c> representative</c><00:12:17.399><c> que</c><00:12:18.399><c> aqui</c>
+
+00:12:18.829 --> 00:12:18.839 align:start position:0%
+SDR development representative que aqui
+ 
+
+00:12:18.839 --> 00:12:20.910 align:start position:0%
+SDR development representative que aqui
+para<00:12:19.040><c> ajudar</c><00:12:19.560><c> atender</c><00:12:20.040><c> suas</c><00:12:20.240><c> necessidades</c><00:12:20.760><c> e</c>
+
+00:12:20.910 --> 00:12:20.920 align:start position:0%
+para ajudar atender suas necessidades e
+ 
+
+00:12:20.920 --> 00:12:22.629 align:start position:0%
+para ajudar atender suas necessidades e
+como<00:12:21.240><c> nossos</c><00:12:21.560><c> produtos</c><00:12:22.000><c> serviços</c><00:12:22.360><c> podem</c>
+
+00:12:22.629 --> 00:12:22.639 align:start position:0%
+como nossos produtos serviços podem
+ 
+
+00:12:22.639 --> 00:12:24.910 align:start position:0%
+como nossos produtos serviços podem
+ajudar<00:12:23.199><c> como</c><00:12:23.440><c> posso</c><00:12:23.720><c> ajudar</c><00:12:24.040><c> você</c><00:12:24.279><c> hoje</c><00:12:24.639><c> Vocês</c>
+
+00:12:24.910 --> 00:12:24.920 align:start position:0%
+ajudar como posso ajudar você hoje Vocês
+ 
+
+00:12:24.920 --> 00:12:26.949 align:start position:0%
+ajudar como posso ajudar você hoje Vocês
+entenderam<00:12:25.480><c> que</c><00:12:25.720><c> ele</c><00:12:25.959><c> já</c><00:12:26.120><c> tá</c><00:12:26.279><c> conectado</c><00:12:26.639><c> com</c><00:12:26.800><c> o</c>
+
+00:12:26.949 --> 00:12:26.959 align:start position:0%
+entenderam que ele já tá conectado com o
+ 
+
+00:12:26.959 --> 00:12:28.150 align:start position:0%
+entenderam que ele já tá conectado com o
+chat
+
+00:12:28.150 --> 00:12:28.160 align:start position:0%
+chat
+ 
+
+00:12:28.160 --> 00:12:31.310 align:start position:0%
+chat
+PT<00:12:29.160><c> e</c><00:12:29.320><c> aqui</c><00:12:29.560><c> basicamente</c><00:12:30.440><c> qual</c><00:12:30.720><c> que</c><00:12:30.839><c> vai</c><00:12:31.040><c> ser</c><00:12:31.160><c> a</c>
+
+00:12:31.310 --> 00:12:31.320 align:start position:0%
+PT e aqui basicamente qual que vai ser a
+ 
+
+00:12:31.320 --> 00:12:32.629 align:start position:0%
+PT e aqui basicamente qual que vai ser a
+minha<00:12:31.560><c> o</c><00:12:31.720><c> meu</c>
+
+00:12:32.629 --> 00:12:32.639 align:start position:0%
+minha o meu
+ 
+
+00:12:32.639 --> 00:12:36.310 align:start position:0%
+minha o meu
+trabalho<00:12:33.959><c> configurar</c><00:12:34.959><c> esse</c><00:12:35.399><c> cara</c><00:12:35.880><c> de</c><00:12:36.040><c> acordo</c>
+
+00:12:36.310 --> 00:12:36.320 align:start position:0%
+trabalho configurar esse cara de acordo
+ 
+
+00:12:36.320 --> 00:12:39.430 align:start position:0%
+trabalho configurar esse cara de acordo
+com<00:12:37.240><c> as</c><00:12:37.440><c> informações</c><00:12:37.920><c> do</c><00:12:38.079><c> meu</c><00:12:38.240><c> produto</c><00:12:39.240><c> na</c>
+
+00:12:39.430 --> 00:12:39.440 align:start position:0%
+com as informações do meu produto na
+ 
+
+00:12:39.440 --> 00:12:41.870 align:start position:0%
+com as informações do meu produto na
+verdade<00:12:39.920><c> eu</c><00:12:40.079><c> posso</c><00:12:40.839><c> usar</c><00:12:41.160><c> eu</c><00:12:41.320><c> posso</c><00:12:41.600><c> treinar</c>
+
+00:12:41.870 --> 00:12:41.880 align:start position:0%
+verdade eu posso usar eu posso treinar
+ 
+
+00:12:41.880 --> 00:12:43.350 align:start position:0%
+verdade eu posso usar eu posso treinar
+um<00:12:42.040><c> agente</c><00:12:42.320><c> específico</c><00:12:42.800><c> e</c><00:12:42.880><c> conectar</c><00:12:43.160><c> esse</c>
+
+00:12:43.350 --> 00:12:43.360 align:start position:0%
+um agente específico e conectar esse
+ 
+
+00:12:43.360 --> 00:12:44.389 align:start position:0%
+um agente específico e conectar esse
+agente<00:12:43.560><c> aqui</c><00:12:43.680><c> que</c><00:12:43.720><c> eu</c><00:12:43.800><c> acho</c><00:12:43.959><c> que</c><00:12:44.040><c> vai</c><00:12:44.160><c> ser</c><00:12:44.240><c> até</c>
+
+00:12:44.389 --> 00:12:44.399 align:start position:0%
+agente aqui que eu acho que vai ser até
+ 
+
+00:12:44.399 --> 00:12:46.550 align:start position:0%
+agente aqui que eu acho que vai ser até
+mais<00:12:44.519><c> fácil</c><00:12:44.839><c> inclusiva</c><00:12:45.320><c> eu</c><00:12:45.399><c> vou</c><00:12:45.560><c> tentar</c><00:12:45.800><c> isso</c>
+
+00:12:46.550 --> 00:12:46.560 align:start position:0%
+mais fácil inclusiva eu vou tentar isso
+ 
+
+00:12:46.560 --> 00:12:49.150 align:start position:0%
+mais fácil inclusiva eu vou tentar isso
+mas<00:12:46.760><c> olha</c><00:12:47.120><c> que</c><00:12:47.440><c> facilidade</c><00:12:48.120><c> para</c><00:12:48.279><c> criar</c><00:12:48.519><c> um</c><00:12:48.880><c> um</c>
+
+00:12:49.150 --> 00:12:49.160 align:start position:0%
+mas olha que facilidade para criar um um
+ 
+
+00:12:49.160 --> 00:12:52.350 align:start position:0%
+mas olha que facilidade para criar um um
+SDR<00:12:50.000><c> eu</c><00:12:50.160><c> vou</c><00:12:50.320><c> deixar</c><00:12:50.560><c> ele</c><00:12:50.760><c> mais</c>
+
+00:12:52.350 --> 00:12:52.360 align:start position:0%
+SDR eu vou deixar ele mais
+ 
+
+00:12:52.360 --> 00:12:54.470 align:start position:0%
+SDR eu vou deixar ele mais
+robusto<00:12:53.360><c> deixa</c><00:12:53.639><c> eu</c><00:12:53.720><c> mostrar</c><00:12:54.000><c> uma</c><00:12:54.120><c> coisa</c><00:12:54.320><c> para</c>
+
+00:12:54.470 --> 00:12:54.480 align:start position:0%
+robusto deixa eu mostrar uma coisa para
+ 
+
+00:12:54.480 --> 00:12:56.069 align:start position:0%
+robusto deixa eu mostrar uma coisa para
+vocês<00:12:54.800><c> Vocês</c><00:12:55.000><c> estão</c><00:12:55.199><c> vendo</c><00:12:55.399><c> que</c><00:12:55.519><c> aqui</c><00:12:55.839><c> nesse</c>
+
+00:12:56.069 --> 00:12:56.079 align:start position:0%
+vocês Vocês estão vendo que aqui nesse
+ 
+
+00:12:56.079 --> 00:12:59.350 align:start position:0%
+vocês Vocês estão vendo que aqui nesse
+código<00:12:56.440><c> que</c><00:12:56.519><c> ele</c><00:12:56.800><c> gerou</c><00:12:57.800><c> a</c><00:12:58.079><c> conversa</c><00:12:58.680><c> ele</c><00:12:59.160><c> ele</c>
+
+00:12:59.350 --> 00:12:59.360 align:start position:0%
+código que ele gerou a conversa ele ele
+ 
+
+00:12:59.360 --> 00:13:00.910 align:start position:0%
+código que ele gerou a conversa ele ele
+tá<00:12:59.480><c> gerenciando</c><00:12:59.880><c> todo</c><00:13:00.240><c> o</c><00:13:00.360><c> código</c><00:13:00.760><c> então</c>
+
+00:13:00.910 --> 00:13:00.920 align:start position:0%
+tá gerenciando todo o código então
+ 
+
+00:13:00.920 --> 00:13:02.509 align:start position:0%
+tá gerenciando todo o código então
+mantém<00:13:01.199><c> todo</c><00:13:01.360><c> o</c><00:13:01.440><c> histórico</c><00:13:01.839><c> de</c><00:13:01.920><c> conversa</c><00:13:02.240><c> por</c>
+
+00:13:02.509 --> 00:13:02.519 align:start position:0%
+mantém todo o histórico de conversa por
+ 
+
+00:13:02.519 --> 00:13:04.790 align:start position:0%
+mantém todo o histórico de conversa por
+usuário<00:13:03.040><c> fica</c><00:13:03.320><c> registrado</c><00:13:04.120><c> aqui</c><00:13:04.440><c> nesse</c>
+
+00:13:04.790 --> 00:13:04.800 align:start position:0%
+usuário fica registrado aqui nesse
+ 
+
+00:13:04.800 --> 00:13:07.509 align:start position:0%
+usuário fica registrado aqui nesse
+código<00:13:05.800><c> significa</c><00:13:06.320><c> que</c><00:13:06.480><c> se</c><00:13:06.600><c> eu</c><00:13:06.760><c> reiniciar</c>
+
+00:13:07.509 --> 00:13:07.519 align:start position:0%
+código significa que se eu reiniciar
+ 
+
+00:13:07.519 --> 00:13:09.550 align:start position:0%
+código significa que se eu reiniciar
+essa<00:13:07.760><c> aplicação</c><00:13:08.120><c> e</c><00:13:08.240><c> subir</c><00:13:08.639><c> ela</c><00:13:08.880><c> de</c><00:13:09.000><c> novo</c><00:13:09.320><c> tudo</c>
+
+00:13:09.550 --> 00:13:09.560 align:start position:0%
+essa aplicação e subir ela de novo tudo
+ 
+
+00:13:09.560 --> 00:13:12.030 align:start position:0%
+essa aplicação e subir ela de novo tudo
+isso<00:13:09.760><c> aqui</c><00:13:09.959><c> se</c><00:13:10.079><c> perde</c>
+
+00:13:12.030 --> 00:13:12.040 align:start position:0%
+isso aqui se perde
+ 
+
+00:13:12.040 --> 00:13:15.189 align:start position:0%
+isso aqui se perde
+eh<00:13:13.040><c> é</c><00:13:13.320><c> uma</c><00:13:13.519><c> implementação</c>
+
+00:13:15.189 --> 00:13:15.199 align:start position:0%
+eh é uma implementação
+ 
+
+00:13:15.199 --> 00:13:20.629 align:start position:0%
+eh é uma implementação
+simples<00:13:16.199><c> e</c><00:13:16.519><c> aí</c><00:13:17.199><c> a</c><00:13:17.600><c> openi</c><00:13:18.360><c> ela</c><00:13:18.560><c> tem</c><00:13:18.720><c> um</c><00:13:18.920><c> serviço</c>
+
+00:13:20.629 --> 00:13:20.639 align:start position:0%
+simples e aí a openi ela tem um serviço
+ 
+
+00:13:20.639 --> 00:13:23.710 align:start position:0%
+simples e aí a openi ela tem um serviço
+específico<00:13:21.639><c> que</c><00:13:21.839><c> se</c><00:13:21.959><c> chama</c><00:13:22.360><c> conversation</c>
+
+00:13:23.710 --> 00:13:23.720 align:start position:0%
+específico que se chama conversation
+ 
+
+00:13:23.720 --> 00:13:27.910 align:start position:0%
+específico que se chama conversation
+state<00:13:24.720><c> Então</c><00:13:25.120><c> ela</c><00:13:25.399><c> faz</c><00:13:25.680><c> a</c><00:13:26.079><c> gestão</c><00:13:27.079><c> do</c><00:13:27.320><c> contexto</c>
+
+00:13:27.910 --> 00:13:27.920 align:start position:0%
+state Então ela faz a gestão do contexto
+ 
+
+00:13:27.920 --> 00:13:31.629 align:start position:0%
+state Então ela faz a gestão do contexto
+da<00:13:28.120><c> conversa</c><00:13:29.440><c> então</c><00:13:29.639><c> o</c><00:13:29.720><c> que</c><00:13:29.880><c> que</c><00:13:29.959><c> eu</c><00:13:30.040><c> vou</c><00:13:30.639><c> fazer</c>
+
+00:13:31.629 --> 00:13:31.639 align:start position:0%
+da conversa então o que que eu vou fazer
+ 
+
+00:13:31.639 --> 00:13:33.189 align:start position:0%
+da conversa então o que que eu vou fazer
+já<00:13:31.839><c> que</c><00:13:31.959><c> ela</c><00:13:32.199><c> tá</c><00:13:32.320><c> sendo</c><00:13:32.480><c> gravada</c><00:13:32.839><c> em</c><00:13:32.959><c> tempo</c><00:13:33.160><c> de</c>
+
+00:13:33.189 --> 00:13:33.199 align:start position:0%
+já que ela tá sendo gravada em tempo de
+ 
+
+00:13:33.199 --> 00:13:36.509 align:start position:0%
+já que ela tá sendo gravada em tempo de
+execução<00:13:33.560><c> eu</c><00:13:33.639><c> vou</c><00:13:33.760><c> falar</c><00:13:33.920><c> para</c><00:13:34.320><c> o</c><00:13:34.399><c> seguinte</c><00:13:34.680><c> ó</c>
+
+00:13:36.509 --> 00:13:36.519 align:start position:0%
+execução eu vou falar para o seguinte ó
+ 
+
+00:13:36.519 --> 00:13:39.670 align:start position:0%
+execução eu vou falar para o seguinte ó
+quero<00:13:37.519><c> isso</c><00:13:37.839><c> é</c><00:13:38.040><c> muito</c>
+
+00:13:39.670 --> 00:13:39.680 align:start position:0%
+quero isso é muito
+ 
+
+00:13:39.680 --> 00:13:45.910 align:start position:0%
+quero isso é muito
+fraco<00:13:40.680><c> quero</c><00:13:41.079><c> que</c><00:13:41.320><c> você</c>
+
+00:13:45.910 --> 00:13:45.920 align:start position:0%
+ 
+ 
+
+00:13:45.920 --> 00:13:51.069 align:start position:0%
+ 
+implemente<00:13:46.920><c> o</c><00:13:48.040><c> conversation</c><00:13:49.040><c> state</c><00:13:49.760><c> da</c><00:13:50.399><c> Open</c>
+
+00:13:51.069 --> 00:13:51.079 align:start position:0%
+implemente o conversation state da Open
+ 
+
+00:13:51.079 --> 00:13:54.829 align:start position:0%
+implemente o conversation state da Open
+ai<00:13:52.079><c> vamos</c><00:13:52.519><c> manter</c><00:13:53.079><c> o</c><00:13:53.279><c> contexto</c><00:13:54.000><c> da</c>
+
+00:13:54.829 --> 00:13:54.839 align:start position:0%
+ai vamos manter o contexto da
+ 
+
+00:13:54.839 --> 00:14:00.629 align:start position:0%
+ai vamos manter o contexto da
+conversa<00:13:55.839><c> lá</c><00:13:56.160><c> na</c><00:13:56.720><c> Open</c><00:13:58.040><c> ai</c><00:13:59.120><c> Lembrando</c>
+
+00:14:00.629 --> 00:14:00.639 align:start position:0%
+conversa lá na Open ai Lembrando
+ 
+
+00:14:00.639 --> 00:14:06.110 align:start position:0%
+conversa lá na Open ai Lembrando
+que<00:14:01.639><c> temos</c><00:14:02.079><c> a</c><00:14:02.320><c> questão</c><00:14:03.120><c> de</c><00:14:04.079><c> cada</c><00:14:04.759><c> usuário</c><00:14:05.759><c> ter</c>
+
+00:14:06.110 --> 00:14:06.120 align:start position:0%
+que temos a questão de cada usuário ter
+ 
+
+00:14:06.120 --> 00:14:08.550 align:start position:0%
+que temos a questão de cada usuário ter
+o<00:14:06.399><c> seu</c><00:14:06.800><c> fluxo</c><00:14:07.440><c> de</c>
+
+00:14:08.550 --> 00:14:08.560 align:start position:0%
+o seu fluxo de
+ 
+
+00:14:08.560 --> 00:14:11.030 align:start position:0%
+o seu fluxo de
+conversas<00:14:09.560><c> é</c><00:14:09.839><c> possível</c><00:14:10.360><c> eu</c><00:14:10.519><c> vou</c><00:14:10.680><c> perguntar</c>
+
+00:14:11.030 --> 00:14:11.040 align:start position:0%
+conversas é possível eu vou perguntar
+ 
+
+00:14:11.040 --> 00:14:13.350 align:start position:0%
+conversas é possível eu vou perguntar
+até<00:14:11.240><c> para</c><00:14:11.399><c> ele</c><00:14:11.560><c> ó</c><00:14:11.800><c> é</c>
+
+00:14:13.350 --> 00:14:13.360 align:start position:0%
+até para ele ó é
+ 
+
+00:14:13.360 --> 00:14:15.949 align:start position:0%
+até para ele ó é
+possível<00:14:14.360><c> Vamos</c><00:14:14.759><c> ver</c><00:14:15.519><c> eu</c><00:14:15.639><c> não</c><00:14:15.759><c> queria</c>
+
+00:14:15.949 --> 00:14:15.959 align:start position:0%
+possível Vamos ver eu não queria
+ 
+
+00:14:15.959 --> 00:14:17.310 align:start position:0%
+possível Vamos ver eu não queria
+implementar<00:14:16.360><c> nenhum</c><00:14:16.680><c> banco</c><00:14:16.839><c> de</c><00:14:16.920><c> dados</c><00:14:17.160><c> mas</c>
+
+00:14:17.310 --> 00:14:17.320 align:start position:0%
+implementar nenhum banco de dados mas
+ 
+
+00:14:17.320 --> 00:14:18.230 align:start position:0%
+implementar nenhum banco de dados mas
+acho<00:14:17.519><c> que</c><00:14:17.560><c> eu</c><00:14:17.639><c> vou</c><00:14:17.759><c> ter</c><00:14:17.839><c> que</c><00:14:17.920><c> meter</c><00:14:18.120><c> um</c>
+
+00:14:18.230 --> 00:14:18.240 align:start position:0%
+acho que eu vou ter que meter um
+ 
+
+00:14:18.240 --> 00:14:21.030 align:start position:0%
+acho que eu vou ter que meter um
+monginho<00:14:18.880><c> malandra</c><00:14:19.320><c> aqui</c><00:14:19.639><c> hein</c><00:14:20.639><c> sim</c><00:14:20.880><c> é</c>
+
+00:14:21.030 --> 00:14:21.040 align:start position:0%
+monginho malandra aqui hein sim é
+ 
+
+00:14:21.040 --> 00:14:22.749 align:start position:0%
+monginho malandra aqui hein sim é
+possível<00:14:21.519><c> vamos</c><00:14:21.720><c> usar</c><00:14:21.920><c> os</c><00:14:22.040><c> recursos</c><00:14:22.440><c> de</c>
+
+00:14:22.749 --> 00:14:22.759 align:start position:0%
+possível vamos usar os recursos de
+ 
+
+00:14:22.759 --> 00:14:27.550 align:start position:0%
+possível vamos usar os recursos de
+assist<00:14:23.759><c> epi</c><00:14:24.320><c> da</c><00:14:25.120><c> Open</c><00:14:26.120><c> para</c><00:14:26.399><c> gerenciar</c><00:14:27.360><c> as</c>
+
+00:14:27.550 --> 00:14:27.560 align:start position:0%
+assist epi da Open para gerenciar as
+ 
+
+00:14:27.560 --> 00:14:29.430 align:start position:0%
+assist epi da Open para gerenciar as
+conversas<00:14:28.040><c> de</c><00:14:28.120><c> forma</c><00:14:28.440><c> mais</c><00:14:28.600><c> robusta</c>
+
+00:14:29.430 --> 00:14:29.440 align:start position:0%
+conversas de forma mais robusta
+ 
+
+00:14:29.440 --> 00:14:31.269 align:start position:0%
+conversas de forma mais robusta
+persistente<00:14:30.079><c> isso</c><00:14:30.320><c> nos</c><00:14:30.480><c> permite</c><00:14:30.920><c> manter</c><00:14:31.160><c> o</c>
+
+00:14:31.269 --> 00:14:31.279 align:start position:0%
+persistente isso nos permite manter o
+ 
+
+00:14:31.279 --> 00:14:33.069 align:start position:0%
+persistente isso nos permite manter o
+contexto<00:14:31.680><c> das</c><00:14:31.839><c> conversas</c><00:14:32.199><c> do</c><00:14:32.320><c> lado</c><00:14:32.519><c> da</c><00:14:32.639><c> Open</c>
+
+00:14:33.069 --> 00:14:33.079 align:start position:0%
+contexto das conversas do lado da Open
+ 
+
+00:14:33.079 --> 00:14:35.350 align:start position:0%
+contexto das conversas do lado da Open
+para<00:14:33.199><c> cada</c><00:14:33.440><c> usuário</c><00:14:33.880><c> perfeito</c><00:14:34.240><c> ó</c><00:14:34.959><c> primeiro</c>
+
+00:14:35.350 --> 00:14:35.360 align:start position:0%
+para cada usuário perfeito ó primeiro
+ 
+
+00:14:35.360 --> 00:14:36.990 align:start position:0%
+para cada usuário perfeito ó primeiro
+Olha<00:14:35.600><c> que</c><00:14:35.680><c> legal</c><00:14:35.880><c> eu</c><00:14:36.000><c> tô</c><00:14:36.120><c> criando</c><00:14:36.680><c> vou</c><00:14:36.800><c> criar</c>
+
+00:14:36.990 --> 00:14:37.000 align:start position:0%
+Olha que legal eu tô criando vou criar
+ 
+
+00:14:37.000 --> 00:14:38.910 align:start position:0%
+Olha que legal eu tô criando vou criar
+um<00:14:37.120><c> chatbot</c><00:14:37.560><c> inteiro</c><00:14:37.880><c> aqui</c><00:14:38.079><c> sem</c><00:14:38.320><c> colocar</c><00:14:38.720><c> uma</c>
+
+00:14:38.910 --> 00:14:38.920 align:start position:0%
+um chatbot inteiro aqui sem colocar uma
+ 
+
+00:14:38.920 --> 00:14:41.069 align:start position:0%
+um chatbot inteiro aqui sem colocar uma
+estrutura<00:14:39.240><c> de</c><00:14:39.360><c> banco</c><00:14:39.560><c> de</c><00:14:39.680><c> dados</c><00:14:39.959><c> Cara</c><00:14:40.519><c> isso</c><00:14:40.959><c> é</c>
+
+00:14:41.069 --> 00:14:41.079 align:start position:0%
+estrutura de banco de dados Cara isso é
+ 
+
+00:14:41.079 --> 00:14:41.990 align:start position:0%
+estrutura de banco de dados Cara isso é
+muito
+
+00:14:41.990 --> 00:14:42.000 align:start position:0%
+muito
+ 
+
+00:14:42.000 --> 00:14:44.350 align:start position:0%
+muito
+louco<00:14:43.000><c> que</c><00:14:43.160><c> que</c><00:14:43.240><c> esse</c><00:14:43.399><c> cara</c><00:14:43.519><c> aqui</c><00:14:43.880><c> Ah</c><00:14:44.160><c> tá</c>
+
+00:14:44.350 --> 00:14:44.360 align:start position:0%
+louco que que esse cara aqui Ah tá
+ 
+
+00:14:44.360 --> 00:14:46.990 align:start position:0%
+louco que que esse cara aqui Ah tá
+beleza<00:14:45.079><c> para</c><00:14:45.279><c> fazer</c><00:14:45.519><c> as</c><00:14:45.720><c> chamadas</c><00:14:46.079><c> rest</c><00:14:46.680><c> Ok</c>
+
+00:14:46.990 --> 00:14:47.000 align:start position:0%
+beleza para fazer as chamadas rest Ok
+ 
+
+00:14:47.000 --> 00:14:48.389 align:start position:0%
+beleza para fazer as chamadas rest Ok
+vamos
+
+00:14:48.389 --> 00:14:48.399 align:start position:0%
+vamos
+ 
+
+00:14:48.399 --> 00:14:50.629 align:start position:0%
+vamos
+implementar<00:14:49.399><c> E</c><00:14:49.639><c> aí</c><00:14:49.839><c> ele</c><00:14:50.079><c> já</c><00:14:50.199><c> vai</c><00:14:50.279><c> começar</c><00:14:50.560><c> a</c>
+
+00:14:50.629 --> 00:14:50.639 align:start position:0%
+implementar E aí ele já vai começar a
+ 
+
+00:14:50.639 --> 00:14:52.670 align:start position:0%
+implementar E aí ele já vai começar a
+fazer<00:14:50.880><c> implementação</c><00:14:51.480><c> de</c><00:14:51.600><c> novo</c><00:14:52.120><c> gente</c><00:14:52.399><c> olha</c>
+
+00:14:52.670 --> 00:14:52.680 align:start position:0%
+fazer implementação de novo gente olha
+ 
+
+00:14:52.680 --> 00:14:54.350 align:start position:0%
+fazer implementação de novo gente olha
+isso<00:14:52.920><c> aqui</c><00:14:53.079><c> olha</c><00:14:53.320><c> que</c><00:14:53.399><c> doideira</c><00:14:53.920><c> Eu</c><00:14:54.079><c> não</c><00:14:54.240><c> eu</c>
+
+00:14:54.350 --> 00:14:54.360 align:start position:0%
+isso aqui olha que doideira Eu não eu
+ 
+
+00:14:54.360 --> 00:14:56.910 align:start position:0%
+isso aqui olha que doideira Eu não eu
+não<00:14:54.480><c> tô</c><00:14:54.680><c> escrevendo</c><00:14:55.079><c> uma</c><00:14:55.240><c> linha</c><00:14:55.800><c> é</c><00:14:56.000><c> o</c><00:14:56.160><c> tal</c><00:14:56.399><c> do</c><00:14:56.800><c> é</c>
+
+00:14:56.910 --> 00:14:56.920 align:start position:0%
+não tô escrevendo uma linha é o tal do é
+ 
+
+00:14:56.920 --> 00:15:00.030 align:start position:0%
+não tô escrevendo uma linha é o tal do é
+vibe<00:14:57.320><c> code</c><00:14:57.639><c> que</c><00:14:57.759><c> fala</c><00:14:57.959><c> né</c>
+
+00:15:00.030 --> 00:15:00.040 align:start position:0%
+vibe code que fala né
+ 
+
+00:15:00.040 --> 00:15:02.790 align:start position:0%
+vibe code que fala né
+prático<00:15:01.040><c> só</c><00:15:01.240><c> que</c><00:15:01.600><c> é</c><00:15:01.800><c> muito</c><00:15:02.000><c> importante</c><00:15:02.480><c> você</c>
+
+00:15:02.790 --> 00:15:02.800 align:start position:0%
+prático só que é muito importante você
+ 
+
+00:15:02.800 --> 00:15:05.870 align:start position:0%
+prático só que é muito importante você
+saber<00:15:03.800><c> programar</c><00:15:04.279><c> e</c><00:15:04.600><c> saber</c><00:15:04.920><c> ler</c><00:15:05.399><c> o</c><00:15:05.560><c> que</c><00:15:05.720><c> tá</c>
+
+00:15:05.870 --> 00:15:05.880 align:start position:0%
+saber programar e saber ler o que tá
+ 
+
+00:15:05.880 --> 00:15:07.509 align:start position:0%
+saber programar e saber ler o que tá
+fazendo<00:15:06.199><c> eu</c><00:15:06.320><c> poderia</c><00:15:06.720><c> construir</c><00:15:07.240><c> isso</c><00:15:07.399><c> aqui</c>
+
+00:15:07.509 --> 00:15:07.519 align:start position:0%
+fazendo eu poderia construir isso aqui
+ 
+
+00:15:07.519 --> 00:15:09.030 align:start position:0%
+fazendo eu poderia construir isso aqui
+sem<00:15:07.639><c> saber</c><00:15:07.839><c> programar</c><00:15:08.199><c> nem</c><00:15:08.399><c> nada</c><00:15:08.560><c> mas</c><00:15:08.639><c> isso</c><00:15:08.880><c> ia</c>
+
+00:15:09.030 --> 00:15:09.040 align:start position:0%
+sem saber programar nem nada mas isso ia
+ 
+
+00:15:09.040 --> 00:15:10.990 align:start position:0%
+sem saber programar nem nada mas isso ia
+ficar<00:15:09.199><c> um</c><00:15:09.320><c> nojo</c><00:15:09.720><c> ia</c><00:15:10.000><c> funcionar</c><00:15:10.440><c> no</c><00:15:10.639><c> final</c><00:15:10.839><c> das</c>
+
+00:15:10.990 --> 00:15:11.000 align:start position:0%
+ficar um nojo ia funcionar no final das
+ 
+
+00:15:11.000 --> 00:15:12.870 align:start position:0%
+ficar um nojo ia funcionar no final das
+contas<00:15:11.279><c> né</c><00:15:11.759><c> então</c><00:15:12.040><c> assim</c><00:15:12.279><c> isso</c><00:15:12.480><c> aqui</c><00:15:12.600><c> é</c><00:15:12.680><c> muito</c>
+
+00:15:12.870 --> 00:15:12.880 align:start position:0%
+contas né então assim isso aqui é muito
+ 
+
+00:15:12.880 --> 00:15:16.110 align:start position:0%
+contas né então assim isso aqui é muito
+inclusivo<00:15:13.759><c> é</c><00:15:14.040><c> literalmente</c><00:15:14.440><c> um</c><00:15:15.399><c> é</c><00:15:15.560><c> bem</c><00:15:15.800><c> tipo</c>
+
+00:15:16.110 --> 00:15:16.120 align:start position:0%
+inclusivo é literalmente um é bem tipo
+ 
+
+00:15:16.120 --> 00:15:18.069 align:start position:0%
+inclusivo é literalmente um é bem tipo
+no<00:15:16.480><c> code</c><00:15:16.839><c> mesmo</c><00:15:17.120><c> sabe</c><00:15:17.279><c> só</c><00:15:17.440><c> que</c><00:15:17.560><c> escrevendo</c>
+
+00:15:18.069 --> 00:15:18.079 align:start position:0%
+no code mesmo sabe só que escrevendo
+ 
+
+00:15:18.079 --> 00:15:21.069 align:start position:0%
+no code mesmo sabe só que escrevendo
+código<00:15:18.320><c> por</c><00:15:19.040><c> prompt</c><00:15:20.040><c> Mas</c><00:15:20.399><c> você</c><00:15:20.720><c> saber</c>
+
+00:15:21.069 --> 00:15:21.079 align:start position:0%
+código por prompt Mas você saber
+ 
+
+00:15:21.079 --> 00:15:24.030 align:start position:0%
+código por prompt Mas você saber
+programar<00:15:22.040><c> permite</c><00:15:22.519><c> você</c><00:15:23.079><c> estruturar</c><00:15:23.720><c> de</c><00:15:23.839><c> uma</c>
+
+00:15:24.030 --> 00:15:24.040 align:start position:0%
+programar permite você estruturar de uma
+ 
+
+00:15:24.040 --> 00:15:27.230 align:start position:0%
+programar permite você estruturar de uma
+forma<00:15:24.399><c> mais</c><00:15:25.120><c> inteligente</c><00:15:26.120><c> esse</c><00:15:26.480><c> sistema</c>
+
+00:15:27.230 --> 00:15:27.240 align:start position:0%
+forma mais inteligente esse sistema
+ 
+
+00:15:27.240 --> 00:15:29.189 align:start position:0%
+forma mais inteligente esse sistema
+então<00:15:27.480><c> assim</c><00:15:27.720><c> Ah</c><00:15:28.440><c> quer</c><00:15:28.519><c> dizer</c><00:15:28.680><c> que</c><00:15:28.720><c> não</c><00:15:28.959><c> prisa</c>
+
+00:15:29.189 --> 00:15:29.199 align:start position:0%
+então assim Ah quer dizer que não prisa
+ 
+
+00:15:29.199 --> 00:15:30.829 align:start position:0%
+então assim Ah quer dizer que não prisa
+mais<00:15:29.360><c> programar</c><00:15:29.720><c> não</c><00:15:29.880><c> precisa</c><00:15:30.199><c> sim</c><00:15:30.480><c> pelo</c>
+
+00:15:30.829 --> 00:15:30.839 align:start position:0%
+mais programar não precisa sim pelo
+ 
+
+00:15:30.839 --> 00:15:31.829 align:start position:0%
+mais programar não precisa sim pelo
+contrário<00:15:31.079><c> Você</c><00:15:31.240><c> precisa</c><00:15:31.440><c> aprender</c><00:15:31.720><c> a</c>
+
+00:15:31.829 --> 00:15:31.839 align:start position:0%
+contrário Você precisa aprender a
+ 
+
+00:15:31.839 --> 00:15:34.550 align:start position:0%
+contrário Você precisa aprender a
+programar<00:15:32.360><c> Ah</c><00:15:33.240><c> eu</c><00:15:33.360><c> sou</c><00:15:33.639><c> no</c><00:15:33.959><c> code</c><00:15:34.240><c> eu</c><00:15:34.360><c> faria</c>
+
+00:15:34.550 --> 00:15:34.560 align:start position:0%
+programar Ah eu sou no code eu faria
+ 
+
+00:15:34.560 --> 00:15:36.309 align:start position:0%
+programar Ah eu sou no code eu faria
+usando<00:15:34.920><c> outra</c><00:15:35.160><c> plataforma</c><00:15:35.680><c> não</c><00:15:35.759><c> tem</c><00:15:36.000><c> problema</c>
+
+00:15:36.309 --> 00:15:36.319 align:start position:0%
+usando outra plataforma não tem problema
+ 
+
+00:15:36.319 --> 00:15:38.110 align:start position:0%
+usando outra plataforma não tem problema
+mas<00:15:36.440><c> eu</c><00:15:36.600><c> sinto</c><00:15:37.040><c> que</c><00:15:37.279><c> eu</c><00:15:37.399><c> tenho</c><00:15:37.680><c> muita</c><00:15:37.920><c> mais</c>
+
+00:15:38.110 --> 00:15:38.120 align:start position:0%
+mas eu sinto que eu tenho muita mais
+ 
+
+00:15:38.120 --> 00:15:40.309 align:start position:0%
+mas eu sinto que eu tenho muita mais
+velocidade<00:15:38.680><c> desenvolvendo</c><00:15:39.360><c> o</c><00:15:39.519><c> código</c><00:15:40.079><c> do</c><00:15:40.199><c> que</c>
+
+00:15:40.309 --> 00:15:40.319 align:start position:0%
+velocidade desenvolvendo o código do que
+ 
+
+00:15:40.319 --> 00:15:43.670 align:start position:0%
+velocidade desenvolvendo o código do que
+arrastando<00:15:41.319><c> caixinha</c><00:15:42.120><c> código</c><00:15:42.440><c> com</c><00:15:42.600><c> o</c><00:15:42.720><c> ia</c><00:15:43.319><c> traz</c>
+
+00:15:43.670 --> 00:15:43.680 align:start position:0%
+arrastando caixinha código com o ia traz
+ 
+
+00:15:43.680 --> 00:15:45.309 align:start position:0%
+arrastando caixinha código com o ia traz
+mais<00:15:43.839><c> velocidade</c><00:15:44.279><c> do</c><00:15:44.360><c> que</c><00:15:44.480><c> constução</c><00:15:45.199><c> por</c>
+
+00:15:45.309 --> 00:15:45.319 align:start position:0%
+mais velocidade do que constução por
+ 
+
+00:15:45.319 --> 00:15:48.110 align:start position:0%
+mais velocidade do que constução por
+caixinha<00:15:46.000><c> isso</c><00:15:46.319><c> aqui</c><00:15:46.480><c> é</c><00:15:46.639><c> fato</c><00:15:46.839><c> ó</c><00:15:47.519><c> ele</c><00:15:47.680><c> já</c><00:15:47.800><c> fez</c><00:15:48.000><c> a</c>
+
+00:15:48.110 --> 00:15:48.120 align:start position:0%
+caixinha isso aqui é fato ó ele já fez a
+ 
+
+00:15:48.120 --> 00:15:49.590 align:start position:0%
+caixinha isso aqui é fato ó ele já fez a
+implementação<00:15:48.720><c> vamos</c><00:15:48.959><c> ver</c><00:15:49.079><c> o</c><00:15:49.199><c> que</c><00:15:49.279><c> ele</c><00:15:49.440><c> fez</c>
+
+00:15:49.590 --> 00:15:49.600 align:start position:0%
+implementação vamos ver o que ele fez
+ 
+
+00:15:49.600 --> 00:15:51.350 align:start position:0%
+implementação vamos ver o que ele fez
+aqui<00:15:49.759><c> ó</c><00:15:49.920><c> deixa</c><00:15:50.160><c> eu</c><00:15:50.519><c> deixa</c><00:15:50.759><c> eu</c><00:15:50.880><c> entender</c><00:15:51.120><c> o</c><00:15:51.240><c> que</c>
+
+00:15:51.350 --> 00:15:51.360 align:start position:0%
+aqui ó deixa eu deixa eu entender o que
+ 
+
+00:15:51.360 --> 00:15:54.309 align:start position:0%
+aqui ó deixa eu deixa eu entender o que
+que<00:15:51.440><c> ele</c><00:15:51.600><c> fez</c><00:15:52.440><c> vamos</c><00:15:53.240><c> refaturar</c><00:15:53.720><c> o</c><00:15:53.839><c> serviço</c><00:15:54.199><c> de</c>
+
+00:15:54.309 --> 00:15:54.319 align:start position:0%
+que ele fez vamos refaturar o serviço de
+ 
+
+00:15:54.319 --> 00:15:55.870 align:start position:0%
+que ele fez vamos refaturar o serviço de
+chat<00:15:54.680><c> para</c><00:15:54.839><c> usar</c><00:15:55.040><c> o</c>
+
+00:15:55.870 --> 00:15:55.880 align:start position:0%
+chat para usar o
+ 
+
+00:15:55.880 --> 00:15:59.110 align:start position:0%
+chat para usar o
+assistant<00:15:56.880><c> Beleza</c><00:15:57.720><c> agora</c><00:15:58.000><c> vamos</c><00:15:58.319><c> simplificar</c>
+
+00:15:59.110 --> 00:15:59.120 align:start position:0%
+assistant Beleza agora vamos simplificar
+ 
+
+00:15:59.120 --> 00:16:01.790 align:start position:0%
+assistant Beleza agora vamos simplificar
+o<00:15:59.240><c> arquivo</c><00:15:59.560><c> para</c><00:15:59.680><c> usar</c><00:16:00.079><c> o</c><00:16:00.240><c> novo</c><00:16:00.519><c> serviço</c><00:16:01.519><c> as</c>
+
+00:16:01.790 --> 00:16:01.800 align:start position:0%
+o arquivo para usar o novo serviço as
+ 
+
+00:16:01.800 --> 00:16:03.629 align:start position:0%
+o arquivo para usar o novo serviço as
+principais<00:16:02.279><c> mudanças</c><00:16:02.800><c> uso</c><00:16:03.000><c> do</c><00:16:03.079><c> assistente</c>
+
+00:16:03.629 --> 00:16:03.639 align:start position:0%
+principais mudanças uso do assistente
+ 
+
+00:16:03.639 --> 00:16:06.189 align:start position:0%
+principais mudanças uso do assistente
+criamos<00:16:04.319><c> um</c><00:16:04.560><c> assistente</c><00:16:05.120><c> persistente</c><00:16:05.959><c> na</c>
+
+00:16:06.189 --> 00:16:06.199 align:start position:0%
+criamos um assistente persistente na
+ 
+
+00:16:06.199 --> 00:16:09.030 align:start position:0%
+criamos um assistente persistente na
+Open<00:16:06.519><c> a</c><00:16:06.959><c> com</c><00:16:07.120><c> o</c><00:16:07.240><c> contexto</c><00:16:07.600><c> de</c><00:16:07.839><c> SDR</c><00:16:08.800><c> o</c>
+
+00:16:09.030 --> 00:16:09.040 align:start position:0%
+Open a com o contexto de SDR o
+ 
+
+00:16:09.040 --> 00:16:10.670 align:start position:0%
+Open a com o contexto de SDR o
+assistente<00:16:09.480><c> mantém</c><00:16:09.839><c> o</c><00:16:09.920><c> seu</c><00:16:10.040><c> próprio</c><00:16:10.360><c> estado</c><00:16:10.560><c> e</c>
+
+00:16:10.670 --> 00:16:10.680 align:start position:0%
+assistente mantém o seu próprio estado e
+ 
+
+00:16:10.680 --> 00:16:13.030 align:start position:0%
+assistente mantém o seu próprio estado e
+contexto<00:16:11.199><c> cada</c><00:16:11.399><c> usuário</c><00:16:11.880><c> tem</c><00:16:12.440><c> sua</c><00:16:12.639><c> própria</c>
+
+00:16:13.030 --> 00:16:13.040 align:start position:0%
+contexto cada usuário tem sua própria
+ 
+
+00:16:13.040 --> 00:16:15.990 align:start position:0%
+contexto cada usuário tem sua própria
+thread<00:16:13.600><c> de</c><00:16:14.040><c> conversa</c><00:16:15.040><c> gerenciamento</c><00:16:15.519><c> de</c><00:16:15.639><c> trad</c>
+
+00:16:15.990 --> 00:16:16.000 align:start position:0%
+thread de conversa gerenciamento de trad
+ 
+
+00:16:16.000 --> 00:16:17.910 align:start position:0%
+thread de conversa gerenciamento de trad
+cada<00:16:16.199><c> usuário</c><00:16:16.519><c> do</c><00:16:16.639><c> WhatsApp</c><00:16:17.199><c> tem</c><00:16:17.319><c> uma</c><00:16:17.480><c> trad</c>
+
+00:16:17.910 --> 00:16:17.920 align:start position:0%
+cada usuário do WhatsApp tem uma trad
+ 
+
+00:16:17.920 --> 00:16:19.829 align:start position:0%
+cada usuário do WhatsApp tem uma trad
+única<00:16:18.199><c> da</c><00:16:18.360><c> Open</c><00:16:18.639><c> ai</c><00:16:18.920><c> ó</c><00:16:19.199><c> que</c><00:16:19.279><c> legal</c><00:16:19.519><c> então</c><00:16:19.680><c> ele</c>
+
+00:16:19.829 --> 00:16:19.839 align:start position:0%
+única da Open ai ó que legal então ele
+ 
+
+00:16:19.839 --> 00:16:21.509 align:start position:0%
+única da Open ai ó que legal então ele
+tá<00:16:19.920><c> criando</c><00:16:20.160><c> uma</c><00:16:20.319><c> trad</c><00:16:20.720><c> única</c><00:16:20.959><c> por</c><00:16:21.160><c> usuário</c>
+
+00:16:21.509 --> 00:16:21.519 align:start position:0%
+tá criando uma trad única por usuário
+ 
+
+00:16:21.519 --> 00:16:22.949 align:start position:0%
+tá criando uma trad única por usuário
+então<00:16:21.680><c> cada</c><00:16:21.839><c> usuário</c><00:16:22.160><c> vai</c><00:16:22.279><c> ser</c><00:16:22.399><c> independente</c>
+
+00:16:22.949 --> 00:16:22.959 align:start position:0%
+então cada usuário vai ser independente
+ 
+
+00:16:22.959 --> 00:16:25.949 align:start position:0%
+então cada usuário vai ser independente
+lá<00:16:23.079><c> dentro</c><00:16:23.639><c> lá</c><00:16:23.880><c> dentro</c><00:16:24.319><c> a</c><00:16:24.639><c> trad</c><00:16:25.160><c> mantém</c><00:16:25.519><c> todo</c><00:16:25.759><c> o</c>
+
+00:16:25.949 --> 00:16:25.959 align:start position:0%
+lá dentro lá dentro a trad mantém todo o
+ 
+
+00:16:25.959 --> 00:16:28.189 align:start position:0%
+lá dentro lá dentro a trad mantém todo o
+histórico<00:16:26.920><c> da</c><00:16:27.160><c> conversa</c><00:16:27.519><c> de</c><00:16:27.680><c> forma</c>
+
+00:16:28.189 --> 00:16:28.199 align:start position:0%
+histórico da conversa de forma
+ 
+
+00:16:28.199 --> 00:16:30.189 align:start position:0%
+histórico da conversa de forma
+persistente<00:16:29.000><c> ótimo</c><00:16:29.319><c> o</c><00:16:29.399><c> contexto</c><00:16:29.759><c> é</c><00:16:29.839><c> mantido</c>
+
+00:16:30.189 --> 00:16:30.199 align:start position:0%
+persistente ótimo o contexto é mantido
+ 
+
+00:16:30.199 --> 00:16:32.550 align:start position:0%
+persistente ótimo o contexto é mantido
+pela<00:16:30.399><c> própria</c><00:16:30.959><c> não</c><00:16:31.279><c> e</c><00:16:31.600><c> mas</c><00:16:31.800><c> não</c><00:16:31.920><c> em</c><00:16:32.120><c> memória</c>
+
+00:16:32.550 --> 00:16:32.560 align:start position:0%
+pela própria não e mas não em memória
+ 
+
+00:16:32.560 --> 00:16:34.949 align:start position:0%
+pela própria não e mas não em memória
+perfeito<00:16:33.440><c> o</c><00:16:33.759><c> histórico</c><00:16:34.199><c> não</c><00:16:34.319><c> é</c><00:16:34.440><c> mais</c><00:16:34.600><c> mantido</c>
+
+00:16:34.949 --> 00:16:34.959 align:start position:0%
+perfeito o histórico não é mais mantido
+ 
+
+00:16:34.959 --> 00:16:36.710 align:start position:0%
+perfeito o histórico não é mais mantido
+em<00:16:35.120><c> memória</c><00:16:35.519><c> não</c><00:16:35.639><c> há</c><00:16:35.839><c> limite</c><00:16:36.120><c> artificial</c><00:16:36.560><c> de</c>
+
+00:16:36.710 --> 00:16:36.720 align:start position:0%
+em memória não há limite artificial de
+ 
+
+00:16:36.720 --> 00:16:38.629 align:start position:0%
+em memória não há limite artificial de
+mensagens<00:16:37.319><c> o</c><00:16:37.440><c> contexto</c><00:16:37.800><c> é</c><00:16:37.920><c> mantido</c><00:16:38.240><c> ok</c><00:16:38.519><c> ele</c>
+
+00:16:38.629 --> 00:16:38.639 align:start position:0%
+mensagens o contexto é mantido ok ele
+ 
+
+00:16:38.639 --> 00:16:40.430 align:start position:0%
+mensagens o contexto é mantido ok ele
+implementou<00:16:39.120><c> tudo</c><00:16:39.279><c> aquilo</c><00:16:39.519><c> que</c><00:16:39.560><c> eu</c><00:16:39.680><c> queria</c>
+
+00:16:40.430 --> 00:16:40.440 align:start position:0%
+implementou tudo aquilo que eu queria
+ 
+
+00:16:40.440 --> 00:16:43.030 align:start position:0%
+implementou tudo aquilo que eu queria
+como<00:16:40.720><c> que</c><00:16:40.800><c> ele</c><00:16:41.000><c> fez</c><00:16:41.279><c> isso</c><00:16:41.560><c> vamos</c><00:16:41.800><c> ver</c><00:16:42.120><c> aqui</c><00:16:42.279><c> ó</c>
+
+00:16:43.030 --> 00:16:43.040 align:start position:0%
+como que ele fez isso vamos ver aqui ó
+ 
+
+00:16:43.040 --> 00:16:46.309 align:start position:0%
+como que ele fez isso vamos ver aqui ó
+Open<00:16:44.040><c> Beta</c><00:16:44.360><c> assistant</c><00:16:45.079><c> Create</c><00:16:45.800><c> então</c><00:16:46.040><c> ele</c>
+
+00:16:46.309 --> 00:16:46.319 align:start position:0%
+Open Beta assistant Create então ele
+ 
+
+00:16:46.319 --> 00:16:50.309 align:start position:0%
+Open Beta assistant Create então ele
+primeiro<00:16:46.639><c> ele</c><00:16:46.839><c> consulta</c><00:16:47.399><c> verifica</c><00:16:48.000><c> se</c><00:16:49.000><c> já</c><00:16:50.000><c> se</c>
+
+00:16:50.309 --> 00:16:50.319 align:start position:0%
+primeiro ele consulta verifica se já se
+ 
+
+00:16:50.319 --> 00:16:52.470 align:start position:0%
+primeiro ele consulta verifica se já se
+se<00:16:50.399><c> esse</c><00:16:50.639><c> assistant</c><00:16:51.360><c> já</c>
+
+00:16:52.470 --> 00:16:52.480 align:start position:0%
+se esse assistant já
+ 
+
+00:16:52.480 --> 00:16:55.910 align:start position:0%
+se esse assistant já
+existe<00:16:53.480><c> só</c><00:16:53.680><c> que</c><00:16:53.880><c> como</c><00:16:54.120><c> que</c><00:16:54.279><c> ele</c><00:16:54.639><c> sabe</c><00:16:55.360><c> tá</c><00:16:55.639><c> deixa</c>
+
+00:16:55.910 --> 00:16:55.920 align:start position:0%
+existe só que como que ele sabe tá deixa
+ 
+
+00:16:55.920 --> 00:16:57.749 align:start position:0%
+existe só que como que ele sabe tá deixa
+eu<00:16:56.160><c> só</c><00:16:56.319><c> verificar</c><00:16:56.639><c> o</c><00:16:56.720><c> código</c><00:16:57.079><c> too</c><00:16:57.319><c> aí</c><00:16:57.440><c> ele</c><00:16:57.560><c> cria</c>
+
+00:16:57.749 --> 00:16:57.759 align:start position:0%
+eu só verificar o código too aí ele cria
+ 
+
+00:16:57.759 --> 00:16:59.430 align:start position:0%
+eu só verificar o código too aí ele cria
+o<00:16:57.839><c> assistante</c><00:16:58.319><c> aqui</c>
+
+00:16:59.430 --> 00:16:59.440 align:start position:0%
+o assistante aqui
+ 
+
+00:16:59.440 --> 00:17:01.790 align:start position:0%
+o assistante aqui
+assistent<00:17:00.040><c> ID</c><00:17:00.480><c> é</c><00:17:00.600><c> igual</c><00:17:00.959><c> esse</c><00:17:01.160><c> assistant</c><00:17:01.680><c> aqui</c>
+
+00:17:01.790 --> 00:17:01.800 align:start position:0%
+assistent ID é igual esse assistant aqui
+ 
+
+00:17:01.800 --> 00:17:05.750 align:start position:0%
+assistent ID é igual esse assistant aqui
+initialize<00:17:02.680><c> assist</c><00:17:03.399><c> Create</c><00:17:04.160><c> Ah</c><00:17:04.559><c> entendi</c><00:17:04.959><c> ó</c>
+
+00:17:05.750 --> 00:17:05.760 align:start position:0%
+initialize assist Create Ah entendi ó
+ 
+
+00:17:05.760 --> 00:17:09.309 align:start position:0%
+initialize assist Create Ah entendi ó
+ele<00:17:06.199><c> tem</c><00:17:06.480><c> ele</c><00:17:06.880><c> cria</c><00:17:07.120><c> o</c><00:17:07.280><c> assistente</c><00:17:08.280><c> e</c><00:17:08.480><c> aqui</c><00:17:08.959><c> ele</c>
+
+00:17:09.309 --> 00:17:09.319 align:start position:0%
+ele tem ele cria o assistente e aqui ele
+ 
+
+00:17:09.319 --> 00:17:12.510 align:start position:0%
+ele tem ele cria o assistente e aqui ele
+cria<00:17:09.520><c> a</c><00:17:09.880><c> thread</c><00:17:10.360><c> por</c><00:17:10.799><c> usuário</c><00:17:11.799><c> Get</c><00:17:12.240><c> your</c>
+
+00:17:12.510 --> 00:17:12.520 align:start position:0%
+cria a thread por usuário Get your
+ 
+
+00:17:12.520 --> 00:17:14.429 align:start position:0%
+cria a thread por usuário Get your
+created<00:17:13.000><c> trad</c><00:17:13.520><c> vamos</c><00:17:13.760><c> ver</c><00:17:13.919><c> onde</c><00:17:14.079><c> ele</c><00:17:14.240><c> chama</c>
+
+00:17:14.429 --> 00:17:14.439 align:start position:0%
+created trad vamos ver onde ele chama
+ 
+
+00:17:14.439 --> 00:17:17.390 align:start position:0%
+created trad vamos ver onde ele chama
+esse<00:17:14.600><c> caraá</c><00:17:15.600><c> não</c><00:17:16.039><c> chama</c><00:17:16.439><c> aqui</c><00:17:16.559><c> embaixo</c><00:17:17.079><c> a</c><00:17:17.240><c> hora</c>
+
+00:17:17.390 --> 00:17:17.400 align:start position:0%
+esse caraá não chama aqui embaixo a hora
+ 
+
+00:17:17.400 --> 00:17:20.069 align:start position:0%
+esse caraá não chama aqui embaixo a hora
+que<00:17:17.480><c> ele</c><00:17:17.679><c> gera</c><00:17:18.199><c> resposta</c><00:17:19.199><c> ele</c><00:17:19.520><c> verifica</c><00:17:19.880><c> qual</c>
+
+00:17:20.069 --> 00:17:20.079 align:start position:0%
+que ele gera resposta ele verifica qual
+ 
+
+00:17:20.079 --> 00:17:23.189 align:start position:0%
+que ele gera resposta ele verifica qual
+que<00:17:20.240><c> é</c><00:17:20.280><c> oad</c><00:17:20.959><c> ID</c><00:17:21.240><c> pelo</c><00:17:21.480><c> user</c><00:17:21.799><c> ID</c><00:17:22.360><c> quem</c><00:17:22.839><c> que</c><00:17:23.039><c> esse</c>
+
+00:17:23.189 --> 00:17:23.199 align:start position:0%
+que é oad ID pelo user ID quem que esse
+ 
+
+00:17:23.199 --> 00:17:26.870 align:start position:0%
+que é oad ID pelo user ID quem que esse
+user<00:17:23.439><c> ID</c><00:17:24.039><c> é</c><00:17:24.160><c> o</c><00:17:24.319><c> userid</c><00:17:25.000><c> do</c><00:17:25.360><c> Zap</c><00:17:26.199><c> do</c><00:17:26.360><c> WhatsApp</c>
+
+00:17:26.870 --> 00:17:26.880 align:start position:0%
+user ID é o userid do Zap do WhatsApp
+ 
+
+00:17:26.880 --> 00:17:29.390 align:start position:0%
+user ID é o userid do Zap do WhatsApp
+aqui<00:17:27.039><c> ó</c><00:17:27.160><c> é</c><00:17:27.280><c> o</c><00:17:27.400><c> from</c><00:17:28.000><c> é</c><00:17:28.160><c> de</c><00:17:28.280><c> quem</c><00:17:28.439><c> ele</c><00:17:29.160><c> no</c><00:17:29.240><c> caso</c>
+
+00:17:29.390 --> 00:17:29.400 align:start position:0%
+aqui ó é o from é de quem ele no caso
+ 
+
+00:17:29.400 --> 00:17:31.830 align:start position:0%
+aqui ó é o from é de quem ele no caso
+aqui<00:17:29.559><c> é</c><00:17:29.640><c> o</c><00:17:29.720><c> telefone</c><00:17:30.240><c> entenderam</c><00:17:31.160><c> cara</c><00:17:31.600><c> muito</c>
+
+00:17:31.830 --> 00:17:31.840 align:start position:0%
+aqui é o telefone entenderam cara muito
+ 
+
+00:17:31.840 --> 00:17:34.230 align:start position:0%
+aqui é o telefone entenderam cara muito
+louco<00:17:32.360><c> muito</c><00:17:32.640><c> louco</c><00:17:33.039><c> muito</c><00:17:33.320><c> louco</c><00:17:33.840><c> e</c><00:17:34.120><c> eu</c>
+
+00:17:34.230 --> 00:17:34.240 align:start position:0%
+louco muito louco muito louco e eu
+ 
+
+00:17:34.240 --> 00:17:35.510 align:start position:0%
+louco muito louco muito louco e eu
+consegui<00:17:34.640><c> fazer</c><00:17:34.799><c> essa</c><00:17:35.000><c> leitura</c><00:17:35.320><c> porque</c><00:17:35.440><c> eu</c>
+
+00:17:35.510 --> 00:17:35.520 align:start position:0%
+consegui fazer essa leitura porque eu
+ 
+
+00:17:35.520 --> 00:17:39.950 align:start position:0%
+consegui fazer essa leitura porque eu
+sei<00:17:36.080><c> programar</c><00:17:37.080><c> tá</c><00:17:37.400><c> vendo</c><00:17:38.400><c> show</c><00:17:38.679><c> de</c><00:17:38.799><c> bola</c><00:17:39.640><c> show</c>
+
+00:17:39.950 --> 00:17:39.960 align:start position:0%
+sei programar tá vendo show de bola show
+ 
+
+00:17:39.960 --> 00:17:43.390 align:start position:0%
+sei programar tá vendo show de bola show
+de<00:17:40.080><c> bola</c><00:17:40.799><c> cara</c><00:17:41.039><c> isso</c><00:17:41.559><c> aqui</c><00:17:42.280><c> abre</c><00:17:42.919><c> muito</c><00:17:43.240><c> a</c>
+
+00:17:43.390 --> 00:17:43.400 align:start position:0%
+de bola cara isso aqui abre muito a
+ 
+
+00:17:43.400 --> 00:17:45.710 align:start position:0%
+de bola cara isso aqui abre muito a
+minha<00:17:43.640><c> cabeça</c><00:17:44.000><c> para</c>
+
+00:17:45.710 --> 00:17:45.720 align:start position:0%
+minha cabeça para
+ 
+
+00:17:45.720 --> 00:17:48.270 align:start position:0%
+minha cabeça para
+construir<00:17:46.720><c> Olha</c><00:17:47.160><c> só</c><00:17:47.520><c> para</c><00:17:47.720><c> vocês</c><00:17:47.880><c> entenderem</c>
+
+00:17:48.270 --> 00:17:48.280 align:start position:0%
+construir Olha só para vocês entenderem
+ 
+
+00:17:48.280 --> 00:17:50.830 align:start position:0%
+construir Olha só para vocês entenderem
+ã<00:17:49.280><c> construindo</c><00:17:49.919><c> isso</c><00:17:50.320><c> eu</c><00:17:50.480><c> depois</c>
+
+00:17:50.830 --> 00:17:50.840 align:start position:0%
+ã construindo isso eu depois
+ 
+
+00:17:50.840 --> 00:17:52.510 align:start position:0%
+ã construindo isso eu depois
+simplesmente<00:17:51.400><c> se</c><00:17:51.559><c> isso</c><00:17:51.760><c> aqui</c><00:17:51.919><c> funcionar</c>
+
+00:17:52.510 --> 00:17:52.520 align:start position:0%
+simplesmente se isso aqui funcionar
+ 
+
+00:17:52.520 --> 00:17:54.710 align:start position:0%
+simplesmente se isso aqui funcionar
+escalar<00:17:53.360><c> eu</c><00:17:53.520><c> vou</c><00:17:53.760><c> eu</c><00:17:53.840><c> posso</c><00:17:54.039><c> ir</c><00:17:54.160><c> pra</c><00:17:54.400><c> api</c>
+
+00:17:54.710 --> 00:17:54.720 align:start position:0%
+escalar eu vou eu posso ir pra api
+ 
+
+00:17:54.720 --> 00:17:57.110 align:start position:0%
+escalar eu vou eu posso ir pra api
+oficial<00:17:55.320><c> aí</c><00:17:55.559><c> eu</c><00:17:55.679><c> simplesmente</c><00:17:56.240><c> substituo</c><00:17:56.799><c> o</c>
+
+00:17:57.110 --> 00:17:57.120 align:start position:0%
+oficial aí eu simplesmente substituo o
+ 
+
+00:17:57.120 --> 00:18:00.070 align:start position:0%
+oficial aí eu simplesmente substituo o
+Venom<00:17:57.840><c> pela</c><00:17:58.240><c> api</c><00:17:58.520><c> oficial</c><00:17:59.320><c> mas</c><00:17:59.880><c> o</c>
+
+00:18:00.070 --> 00:18:00.080 align:start position:0%
+Venom pela api oficial mas o
+ 
+
+00:18:00.080 --> 00:18:02.190 align:start position:0%
+Venom pela api oficial mas o
+processamento<00:18:00.799><c> da</c><00:18:01.080><c> mensagem</c><00:18:01.720><c> ele</c><00:18:01.919><c> tá</c><00:18:02.039><c> aqui</c>
+
+00:18:02.190 --> 00:18:02.200 align:start position:0%
+processamento da mensagem ele tá aqui
+ 
+
+00:18:02.200 --> 00:18:04.830 align:start position:0%
+processamento da mensagem ele tá aqui
+dentro<00:18:02.440><c> dessa</c><00:18:02.760><c> service</c><00:18:03.280><c> ó</c><00:18:03.840><c> entenderam</c><00:18:04.600><c> muito</c>
+
+00:18:04.830 --> 00:18:04.840 align:start position:0%
+dentro dessa service ó entenderam muito
+ 
+
+00:18:04.840 --> 00:18:06.950 align:start position:0%
+dentro dessa service ó entenderam muito
+prático<00:18:05.200><c> e</c><00:18:05.360><c> a</c><00:18:05.640><c> Open</c><00:18:05.919><c> ai</c><00:18:06.240><c> tá</c><00:18:06.360><c> fazendo</c><00:18:06.559><c> tudo</c>
+
+00:18:06.950 --> 00:18:06.960 align:start position:0%
+prático e a Open ai tá fazendo tudo
+ 
+
+00:18:06.960 --> 00:18:08.750 align:start position:0%
+prático e a Open ai tá fazendo tudo
+poderia<00:18:07.320><c> colocar</c><00:18:07.679><c> aqui</c><00:18:07.960><c> para</c><00:18:08.200><c> registrar</c><00:18:08.600><c> no</c>
+
+00:18:08.750 --> 00:18:08.760 align:start position:0%
+poderia colocar aqui para registrar no
+ 
+
+00:18:08.760 --> 00:18:10.270 align:start position:0%
+poderia colocar aqui para registrar no
+banco<00:18:09.039><c> as</c><00:18:09.200><c> mensagens</c><00:18:09.640><c> eu</c><00:18:09.799><c> poderia</c><00:18:10.039><c> deixar</c>
+
+00:18:10.270 --> 00:18:10.280 align:start position:0%
+banco as mensagens eu poderia deixar
+ 
+
+00:18:10.280 --> 00:18:12.669 align:start position:0%
+banco as mensagens eu poderia deixar
+isso<00:18:10.440><c> aqui</c><00:18:10.559><c> muito</c><00:18:10.760><c> mais</c><00:18:11.000><c> robusto</c><00:18:12.000><c> mas</c><00:18:12.240><c> não</c><00:18:12.400><c> faz</c>
+
+00:18:12.669 --> 00:18:12.679 align:start position:0%
+isso aqui muito mais robusto mas não faz
+ 
+
+00:18:12.679 --> 00:18:15.310 align:start position:0%
+isso aqui muito mais robusto mas não faz
+sentido<00:18:13.000><c> para</c><00:18:13.520><c> essa</c><00:18:14.000><c> pzinha</c><00:18:14.520><c> e</c><00:18:15.039><c> você</c><00:18:15.159><c> vai</c>
+
+00:18:15.310 --> 00:18:15.320 align:start position:0%
+sentido para essa pzinha e você vai
+ 
+
+00:18:15.320 --> 00:18:17.070 align:start position:0%
+sentido para essa pzinha e você vai
+poder<00:18:15.480><c> testar</c><00:18:15.760><c> essa</c><00:18:16.039><c> po</c><00:18:16.480><c> mandando</c><00:18:16.720><c> um</c><00:18:16.840><c> número</c>
+
+00:18:17.070 --> 00:18:17.080 align:start position:0%
+poder testar essa po mandando um número
+ 
+
+00:18:17.080 --> 00:18:19.310 align:start position:0%
+poder testar essa po mandando um número
+um<00:18:17.240><c> oi</c><00:18:17.480><c> aí</c><00:18:17.640><c> ó</c><00:18:17.799><c> pro</c><00:18:18.080><c> Seu</c><00:18:18.200><c> Madruga</c><00:18:18.760><c> tá</c><00:18:19.000><c> ele</c><00:18:19.200><c> tá</c>
+
+00:18:19.310 --> 00:18:19.320 align:start position:0%
+um oi aí ó pro Seu Madruga tá ele tá
+ 
+
+00:18:19.320 --> 00:18:21.710 align:start position:0%
+um oi aí ó pro Seu Madruga tá ele tá
+aqui<00:18:19.480><c> no</c><00:18:20.120><c> ele</c><00:18:20.360><c> tá</c><00:18:20.480><c> aqui</c><00:18:20.640><c> no</c><00:18:20.720><c> WhatsApp</c><00:18:21.360><c> o</c><00:18:21.480><c> número</c>
+
+00:18:21.710 --> 00:18:21.720 align:start position:0%
+aqui no ele tá aqui no WhatsApp o número
+ 
+
+00:18:21.720 --> 00:18:24.549 align:start position:0%
+aqui no ele tá aqui no WhatsApp o número
+de<00:18:21.799><c> WhatsApp</c><00:18:22.200><c> tá</c><00:18:22.320><c> aqui</c><00:18:22.760><c> embaixo</c><00:18:23.760><c> então</c><00:18:24.159><c> testei</c>
+
+00:18:24.549 --> 00:18:24.559 align:start position:0%
+de WhatsApp tá aqui embaixo então testei
+ 
+
+00:18:24.559 --> 00:18:26.990 align:start position:0%
+de WhatsApp tá aqui embaixo então testei
+de<00:18:24.640><c> novo</c><00:18:24.840><c> aqui</c><00:18:25.000><c> o</c><00:18:25.159><c> nosso</c><00:18:25.520><c> SDR</c><00:18:26.159><c> o</c><00:18:26.320><c> Seu</c><00:18:26.480><c> Madruga</c>
+
+00:18:26.990 --> 00:18:27.000 align:start position:0%
+de novo aqui o nosso SDR o Seu Madruga
+ 
+
+00:18:27.000 --> 00:18:28.990 align:start position:0%
+de novo aqui o nosso SDR o Seu Madruga
+tá<00:18:27.159><c> funcionando</c><00:18:27.679><c> de</c><00:18:27.799><c> boa</c><00:18:28.159><c> e</c><00:18:28.280><c> eu</c><00:18:28.360><c> vou</c><00:18:28.520><c> fazer</c>
+
+00:18:28.990 --> 00:18:29.000 align:start position:0%
+tá funcionando de boa e eu vou fazer
+ 
+
+00:18:29.000 --> 00:18:31.270 align:start position:0%
+tá funcionando de boa e eu vou fazer
+mais<00:18:29.159><c> uma</c><00:18:29.320><c> alteração</c><00:18:29.840><c> nele</c><00:18:30.159><c> que</c><00:18:30.280><c> é</c><00:18:30.400><c> a</c><00:18:30.520><c> seguinte</c>
+
+00:18:31.270 --> 00:18:31.280 align:start position:0%
+mais uma alteração nele que é a seguinte
+ 
+
+00:18:31.280 --> 00:18:34.470 align:start position:0%
+mais uma alteração nele que é a seguinte
+ó<00:18:32.280><c> eu</c><00:18:32.480><c> não</c><00:18:32.600><c> gosto</c><00:18:32.919><c> disso</c><00:18:33.240><c> aqui</c><00:18:33.440><c> por</c><00:18:33.559><c> exemplo</c><00:18:34.280><c> eu</c>
+
+00:18:34.470 --> 00:18:34.480 align:start position:0%
+ó eu não gosto disso aqui por exemplo eu
+ 
+
+00:18:34.480 --> 00:18:38.029 align:start position:0%
+ó eu não gosto disso aqui por exemplo eu
+não<00:18:34.640><c> quero</c><00:18:34.919><c> deixar</c><00:18:35.600><c> o</c><00:18:36.080><c> treinamento</c><00:18:37.080><c> Cadê</c><00:18:37.760><c> onde</c>
+
+00:18:38.029 --> 00:18:38.039 align:start position:0%
+não quero deixar o treinamento Cadê onde
+ 
+
+00:18:38.039 --> 00:18:41.350 align:start position:0%
+não quero deixar o treinamento Cadê onde
+que<00:18:38.240><c> tá</c><00:18:38.960><c> que</c><00:18:39.120><c> que</c><00:18:39.200><c> tem</c><00:18:39.400><c> aqui</c><00:18:39.480><c> em</c><00:18:39.679><c> config</c><00:18:40.400><c> Open</c>
+
+00:18:41.350 --> 00:18:41.360 align:start position:0%
+que tá que que tem aqui em config Open
+ 
+
+00:18:41.360 --> 00:18:46.510 align:start position:0%
+que tá que que tem aqui em config Open
+ai<00:18:42.600><c> não</c><00:18:43.600><c> não</c><00:18:43.679><c> tem</c><00:18:43.880><c> mais</c>
+
+00:18:46.510 --> 00:18:46.520 align:start position:0%
+ 
+ 
+
+00:18:46.520 --> 00:18:49.310 align:start position:0%
+ 
+nada<00:18:47.520><c> aqui</c><00:18:47.799><c> tá</c><00:18:48.000><c> aqui</c><00:18:48.200><c> minimizado</c><00:18:48.760><c> ó</c><00:18:49.039><c> eu</c><00:18:49.159><c> não</c>
+
+00:18:49.310 --> 00:18:49.320 align:start position:0%
+nada aqui tá aqui minimizado ó eu não
+ 
+
+00:18:49.320 --> 00:18:51.110 align:start position:0%
+nada aqui tá aqui minimizado ó eu não
+quero<00:18:49.520><c> deixar</c><00:18:49.760><c> o</c><00:18:49.960><c> script</c><00:18:50.520><c> aqui</c><00:18:50.679><c> então</c><00:18:51.000><c> vou</c>
+
+00:18:51.110 --> 00:18:51.120 align:start position:0%
+quero deixar o script aqui então vou
+ 
+
+00:18:51.120 --> 00:18:53.029 align:start position:0%
+quero deixar o script aqui então vou
+fazer<00:18:51.320><c> o</c><00:18:51.400><c> seguinte</c>
+
+00:18:53.029 --> 00:18:53.039 align:start position:0%
+fazer o seguinte
+ 
+
+00:18:53.039 --> 00:18:58.909 align:start position:0%
+fazer o seguinte
+ó<00:18:54.039><c> vamos</c><00:18:54.559><c> fazer</c><00:18:55.200><c> mais</c><00:18:55.520><c> uma</c><00:18:55.840><c> alteração</c>
+
+00:18:58.909 --> 00:18:58.919 align:start position:0%
+ 
+ 
+
+00:18:58.919 --> 00:19:02.070 align:start position:0%
+ 
+eu<00:18:59.360><c> quero</c><00:18:59.919><c> criar</c><00:19:00.400><c> um</c>
+
+00:19:02.070 --> 00:19:02.080 align:start position:0%
+eu quero criar um
+ 
+
+00:19:02.080 --> 00:19:04.590 align:start position:0%
+eu quero criar um
+arquivo<00:19:03.080><c> de</c>
+
+00:19:04.590 --> 00:19:04.600 align:start position:0%
+arquivo de
+ 
+
+00:19:04.600 --> 00:19:08.870 align:start position:0%
+arquivo de
+markdown<00:19:06.039><c> para</c><00:19:07.039><c> configurar</c><00:19:07.520><c> o</c><00:19:07.960><c> aente</c><00:19:08.679><c> que</c><00:19:08.799><c> que</c>
+
+00:19:08.870 --> 00:19:08.880 align:start position:0%
+markdown para configurar o aente que que
+ 
+
+00:19:08.880 --> 00:19:10.830 align:start position:0%
+markdown para configurar o aente que que
+é<00:19:08.960><c> markd</c><00:19:09.520><c> tá</c><00:19:09.720><c> só</c><00:19:09.840><c> para</c><00:19:09.960><c> vocês</c>
+
+00:19:10.830 --> 00:19:10.840 align:start position:0%
+é markd tá só para vocês
+ 
+
+00:19:10.840 --> 00:19:13.190 align:start position:0%
+é markd tá só para vocês
+saberem<00:19:11.840><c> cara</c><00:19:12.039><c> é</c><00:19:12.200><c> quando</c><00:19:12.640><c> é</c><00:19:12.799><c> como</c><00:19:12.960><c> se</c><00:19:13.080><c> eu</c>
+
+00:19:13.190 --> 00:19:13.200 align:start position:0%
+saberem cara é quando é como se eu
+ 
+
+00:19:13.200 --> 00:19:15.310 align:start position:0%
+saberem cara é quando é como se eu
+colocasse<00:19:13.679><c> algumas</c><00:19:14.120><c> marcas</c><00:19:14.520><c> nesse</c><00:19:14.960><c> texto</c>
+
+00:19:15.310 --> 00:19:15.320 align:start position:0%
+colocasse algumas marcas nesse texto
+ 
+
+00:19:15.320 --> 00:19:16.510 align:start position:0%
+colocasse algumas marcas nesse texto
+aqui
+
+00:19:16.510 --> 00:19:16.520 align:start position:0%
+aqui
+ 
+
+00:19:16.520 --> 00:19:19.070 align:start position:0%
+aqui
+ajudar<00:19:17.520><c> treinar</c><00:19:17.919><c> o</c><00:19:18.039><c> meu</c><00:19:18.200><c> agente</c><00:19:18.600><c> de</c><00:19:18.679><c> uma</c><00:19:18.840><c> forma</c>
+
+00:19:19.070 --> 00:19:19.080 align:start position:0%
+ajudar treinar o meu agente de uma forma
+ 
+
+00:19:19.080 --> 00:19:20.470 align:start position:0%
+ajudar treinar o meu agente de uma forma
+melhor<00:19:19.360><c> para</c><00:19:19.559><c> ele</c><00:19:19.720><c> entender</c><00:19:20.039><c> melhor</c><00:19:20.280><c> os</c>
+
+00:19:20.470 --> 00:19:20.480 align:start position:0%
+melhor para ele entender melhor os
+ 
+
+00:19:20.480 --> 00:19:22.750 align:start position:0%
+melhor para ele entender melhor os
+contextos<00:19:20.960><c> tá</c><00:19:21.080><c> aí</c><00:19:21.840><c> geralmente</c><00:19:22.200><c> ela</c><00:19:22.360><c> trabalha</c>
+
+00:19:22.750 --> 00:19:22.760 align:start position:0%
+contextos tá aí geralmente ela trabalha
+ 
+
+00:19:22.760 --> 00:19:25.230 align:start position:0%
+contextos tá aí geralmente ela trabalha
+melhor<00:19:23.039><c> com</c><00:19:23.200><c> isso</c><00:19:24.159><c> então</c><00:19:24.400><c> eu</c><00:19:24.559><c> quero</c><00:19:24.799><c> criar</c><00:19:25.120><c> um</c>
+
+00:19:25.230 --> 00:19:25.240 align:start position:0%
+melhor com isso então eu quero criar um
+ 
+
+00:19:25.240 --> 00:19:30.470 align:start position:0%
+melhor com isso então eu quero criar um
+arquivo<00:19:25.520><c> de</c><00:19:25.880><c> de</c><00:19:26.039><c> markd</c><00:19:26.840><c> para</c><00:19:27.200><c> configurar</c>
+
+00:19:30.470 --> 00:19:30.480 align:start position:0%
+ 
+ 
+
+00:19:30.480 --> 00:19:32.390 align:start position:0%
+ 
+eh
+
+00:19:32.390 --> 00:19:32.400 align:start position:0%
+eh
+ 
+
+00:19:32.400 --> 00:19:37.430 align:start position:0%
+eh
+o<00:19:33.400><c> as</c><00:19:33.840><c> informações</c>
+
+00:19:37.430 --> 00:19:37.440 align:start position:0%
+ 
+ 
+
+00:19:37.440 --> 00:19:42.710 align:start position:0%
+ 
+iniciais<00:19:38.440><c> desse</c>
+
+00:19:42.710 --> 00:19:42.720 align:start position:0%
+ 
+ 
+
+00:19:42.720 --> 00:19:46.590 align:start position:0%
+ 
+agente<00:19:43.720><c> na</c><00:19:44.240><c> linha</c><00:19:45.240><c> que</c><00:19:45.520><c> linha</c><00:19:45.720><c> que</c><00:19:45.880><c> é</c>
+
+00:19:46.590 --> 00:19:46.600 align:start position:0%
+agente na linha que linha que é
+ 
+
+00:19:46.600 --> 00:19:49.830 align:start position:0%
+agente na linha que linha que é
+18<00:19:47.600><c> onde</c><00:19:48.200><c> criamos</c><00:19:48.720><c> o</c>
+
+00:19:49.830 --> 00:19:49.840 align:start position:0%
+18 onde criamos o
+ 
+
+00:19:49.840 --> 00:19:54.230 align:start position:0%
+18 onde criamos o
+assistente<00:19:50.840><c> quero</c><00:19:51.240><c> que</c><00:19:51.480><c> você</c><00:19:52.200><c> leia</c><00:19:52.960><c> esse</c>
+
+00:19:54.230 --> 00:19:54.240 align:start position:0%
+assistente quero que você leia esse
+ 
+
+00:19:54.240 --> 00:19:57.909 align:start position:0%
+assistente quero que você leia esse
+arquivo<00:19:55.240><c> para</c><00:19:55.720><c> carregar</c><00:19:56.440><c> as</c><00:19:56.919><c> informações</c>
+
+00:19:57.909 --> 00:19:57.919 align:start position:0%
+arquivo para carregar as informações
+ 
+
+00:19:57.919 --> 00:20:00.270 align:start position:0%
+arquivo para carregar as informações
+para<00:19:58.159><c> a</c>
+
+00:20:00.270 --> 00:20:00.280 align:start position:0%
+para a
+ 
+
+00:20:00.280 --> 00:20:04.510 align:start position:0%
+para a
+Api<00:20:01.280><c> para</c><00:20:01.559><c> criar</c><00:20:01.760><c> o</c><00:20:01.919><c> agente</c><00:20:02.880><c> só</c><00:20:03.120><c> isso</c><00:20:04.080><c> nossa</c>
+
+00:20:04.510 --> 00:20:04.520 align:start position:0%
+Api para criar o agente só isso nossa
+ 
+
+00:20:04.520 --> 00:20:06.750 align:start position:0%
+Api para criar o agente só isso nossa
+meus<00:20:04.760><c> PRP</c><00:20:05.280><c> são</c><00:20:05.400><c> uma</c><00:20:05.559><c> merda</c><00:20:05.799><c> né</c><00:20:06.039><c> mas</c><00:20:06.200><c> olha</c><00:20:06.440><c> como</c>
+
+00:20:06.750 --> 00:20:06.760 align:start position:0%
+meus PRP são uma merda né mas olha como
+ 
+
+00:20:06.760 --> 00:20:08.390 align:start position:0%
+meus PRP são uma merda né mas olha como
+que<00:20:06.880><c> ele</c><00:20:07.120><c> entende</c><00:20:07.520><c> bem</c><00:20:07.679><c> vamos</c><00:20:07.880><c> ver</c><00:20:08.000><c> se</c><00:20:08.080><c> ele</c><00:20:08.240><c> vai</c>
+
+00:20:08.390 --> 00:20:08.400 align:start position:0%
+que ele entende bem vamos ver se ele vai
+ 
+
+00:20:08.400 --> 00:20:10.070 align:start position:0%
+que ele entende bem vamos ver se ele vai
+ele<00:20:08.559><c> vai</c><00:20:08.840><c> Lógico</c><00:20:09.240><c> que</c><00:20:09.280><c> ele</c><00:20:09.400><c> vai</c><00:20:09.480><c> entender</c><00:20:09.760><c> isso</c>
+
+00:20:10.070 --> 00:20:10.080 align:start position:0%
+ele vai Lógico que ele vai entender isso
+ 
+
+00:20:10.080 --> 00:20:13.230 align:start position:0%
+ele vai Lógico que ele vai entender isso
+aqui<00:20:11.080><c> simples</c><00:20:11.600><c> simples</c><00:20:12.000><c> simples</c><00:20:12.520><c> simples</c><00:20:12.840><c> ó</c>
+
+00:20:13.230 --> 00:20:13.240 align:start position:0%
+aqui simples simples simples simples ó
+ 
+
+00:20:13.240 --> 00:20:14.830 align:start position:0%
+aqui simples simples simples simples ó
+lá<00:20:13.400><c> ótima</c><00:20:13.679><c> ideia</c><00:20:13.919><c> vamos</c><00:20:14.080><c> criar</c><00:20:14.440><c> arquivo</c><00:20:14.760><c> de</c>
+
+00:20:14.830 --> 00:20:14.840 align:start position:0%
+lá ótima ideia vamos criar arquivo de
+ 
+
+00:20:14.840 --> 00:20:17.350 align:start position:0%
+lá ótima ideia vamos criar arquivo de
+configuração<00:20:15.280><c> markd</c><00:20:16.120><c> ó</c><00:20:16.600><c> lá</c><00:20:16.720><c> ó</c><00:20:16.840><c> ele</c><00:20:17.000><c> criou</c><00:20:17.280><c> um</c>
+
+00:20:17.350 --> 00:20:17.360 align:start position:0%
+configuração markd ó lá ó ele criou um
+ 
+
+00:20:17.360 --> 00:20:18.950 align:start position:0%
+configuração markd ó lá ó ele criou um
+arquivo<00:20:17.640><c> agente</c>
+
+00:20:18.950 --> 00:20:18.960 align:start position:0%
+arquivo agente
+ 
+
+00:20:18.960 --> 00:20:22.710 align:start position:0%
+arquivo agente
+config.md<00:20:20.360><c> que</c><00:20:20.520><c> lindo</c>
+
+00:20:22.710 --> 00:20:22.720 align:start position:0%
+config.md que lindo
+ 
+
+00:20:22.720 --> 00:20:25.669 align:start position:0%
+config.md que lindo
+cara<00:20:23.720><c> gente</c><00:20:24.000><c> você</c><00:20:24.600><c> vocês</c><00:20:24.880><c> sabem</c><00:20:25.200><c> o</c><00:20:25.360><c> poder</c>
+
+00:20:25.669 --> 00:20:25.679 align:start position:0%
+cara gente você vocês sabem o poder
+ 
+
+00:20:25.679 --> 00:20:27.909 align:start position:0%
+cara gente você vocês sabem o poder
+disso<00:20:25.960><c> aqui</c><00:20:26.840><c> depois</c><00:20:27.120><c> eu</c><00:20:27.240><c> vou</c><00:20:27.360><c> converter</c><00:20:27.760><c> isso</c>
+
+00:20:27.909 --> 00:20:27.919 align:start position:0%
+disso aqui depois eu vou converter isso
+ 
+
+00:20:27.919 --> 00:20:29.909 align:start position:0%
+disso aqui depois eu vou converter isso
+aqui<00:20:28.039><c> para</c><00:20:28.799><c> Nuvem</c><00:20:29.039><c> de</c><00:20:29.120><c> Agentes</c><00:20:29.480><c> Porque</c><00:20:29.640><c> daí</c><00:20:29.840><c> eu</c>
+
+00:20:29.909 --> 00:20:29.919 align:start position:0%
+aqui para Nuvem de Agentes Porque daí eu
+ 
+
+00:20:29.919 --> 00:20:32.990 align:start position:0%
+aqui para Nuvem de Agentes Porque daí eu
+vou<00:20:30.039><c> criar</c><00:20:30.200><c> um</c><00:20:30.360><c> SDR</c><00:20:31.360><c> vou</c><00:20:31.559><c> criar</c><00:20:31.799><c> um</c><00:20:32.000><c> suporte</c>
+
+00:20:32.990 --> 00:20:33.000 align:start position:0%
+vou criar um SDR vou criar um suporte
+ 
+
+00:20:33.000 --> 00:20:35.430 align:start position:0%
+vou criar um SDR vou criar um suporte
+vou<00:20:33.200><c> criar</c><00:20:33.440><c> um</c><00:20:33.559><c> atendimento</c><00:20:34.559><c> E</c><00:20:34.720><c> aí</c><00:20:34.960><c> mandou</c><00:20:35.320><c> um</c>
+
+00:20:35.430 --> 00:20:35.440 align:start position:0%
+vou criar um atendimento E aí mandou um
+ 
+
+00:20:35.440 --> 00:20:37.149 align:start position:0%
+vou criar um atendimento E aí mandou um
+oi<00:20:35.720><c> ele</c><00:20:35.880><c> perguntar</c><00:20:36.320><c> o</c><00:20:36.360><c> que</c><00:20:36.480><c> que</c><00:20:36.559><c> você</c><00:20:36.720><c> precisa</c>
+
+00:20:37.149 --> 00:20:37.159 align:start position:0%
+oi ele perguntar o que que você precisa
+ 
+
+00:20:37.159 --> 00:20:38.590 align:start position:0%
+oi ele perguntar o que que você precisa
+ele<00:20:37.320><c> vai</c><00:20:37.440><c> entender</c><00:20:37.720><c> a</c><00:20:37.799><c> necessidade</c><00:20:38.280><c> e</c><00:20:38.440><c> vai</c>
+
+00:20:38.590 --> 00:20:38.600 align:start position:0%
+ele vai entender a necessidade e vai
+ 
+
+00:20:38.600 --> 00:20:40.470 align:start position:0%
+ele vai entender a necessidade e vai
+direcionar<00:20:39.039><c> para</c><00:20:39.240><c> um</c><00:20:39.360><c> agente</c><00:20:39.760><c> específico</c><00:20:40.360><c> Mas</c>
+
+00:20:40.470 --> 00:20:40.480 align:start position:0%
+direcionar para um agente específico Mas
+ 
+
+00:20:40.480 --> 00:20:42.590 align:start position:0%
+direcionar para um agente específico Mas
+isso<00:20:40.760><c> não</c><00:20:40.880><c> vai</c><00:20:41.000><c> ser</c><00:20:41.120><c> para</c><00:20:41.280><c> esse</c><00:20:41.480><c> vídeo</c><00:20:42.280><c> Vamos</c>
+
+00:20:42.590 --> 00:20:42.600 align:start position:0%
+isso não vai ser para esse vídeo Vamos
+ 
+
+00:20:42.600 --> 00:20:45.830 align:start position:0%
+isso não vai ser para esse vídeo Vamos
+focar<00:20:43.000><c> só</c><00:20:43.600><c> no</c><00:20:43.880><c> agente</c><00:20:44.280><c> SDR</c><00:20:44.960><c> um</c><00:20:45.080><c> agente</c><00:20:45.440><c> pra</c>
+
+00:20:45.830 --> 00:20:45.840 align:start position:0%
+focar só no agente SDR um agente pra
+ 
+
+00:20:45.840 --> 00:20:51.270 align:start position:0%
+focar só no agente SDR um agente pra
+venda<00:20:46.640><c> Ok</c><00:20:47.400><c> então</c><00:20:48.039><c> ó</c><00:20:48.280><c> markd</c><00:20:49.080><c> parce</c><00:20:50.080><c> beleza</c><00:20:51.080><c> ele</c>
+
+00:20:51.270 --> 00:20:51.280 align:start position:0%
+venda Ok então ó markd parce beleza ele
+ 
+
+00:20:51.280 --> 00:20:53.110 align:start position:0%
+venda Ok então ó markd parce beleza ele
+implementou<00:20:51.679><c> um</c><00:20:51.880><c> parce</c><00:20:52.320><c> Por</c><00:20:52.520><c> que</c><00:20:52.720><c> que</c><00:20:52.840><c> ele</c><00:20:52.960><c> fez</c>
+
+00:20:53.110 --> 00:20:53.120 align:start position:0%
+implementou um parce Por que que ele fez
+ 
+
+00:20:53.120 --> 00:20:55.270 align:start position:0%
+implementou um parce Por que que ele fez
+isso<00:20:53.320><c> Ah</c><00:20:53.559><c> tá</c><00:20:53.760><c> só</c><00:20:53.919><c> para</c><00:20:54.120><c> ler</c><00:20:54.280><c> o</c><00:20:54.400><c> arquivo</c><00:20:54.679><c> Ó</c><00:20:55.159><c> que</c>
+
+00:20:55.270 --> 00:20:55.280 align:start position:0%
+isso Ah tá só para ler o arquivo Ó que
+ 
+
+00:20:55.280 --> 00:20:57.590 align:start position:0%
+isso Ah tá só para ler o arquivo Ó que
+legal<00:20:55.600><c> beleza</c><00:20:55.960><c> é</c>
+
+00:20:57.590 --> 00:20:57.600 align:start position:0%
+legal beleza é
+ 
+
+00:20:57.600 --> 00:21:01.390 align:start position:0%
+legal beleza é
+isso
+
+00:21:01.390 --> 00:21:01.400 align:start position:0%
+ 
+ 
+
+00:21:01.400 --> 00:21:03.789 align:start position:0%
+ 
+implementou<00:21:02.400><c> configuração</c><00:21:03.039><c> externa</c><00:21:03.520><c> todas</c>
+
+00:21:03.789 --> 00:21:03.799 align:start position:0%
+implementou configuração externa todas
+ 
+
+00:21:03.799 --> 00:21:05.789 align:start position:0%
+implementou configuração externa todas
+as<00:21:03.880><c> configurações</c><00:21:04.400><c> do</c><00:21:04.520><c> agente</c><00:21:04.919><c> ficam</c><00:21:05.200><c> aqui</c>
+
+00:21:05.789 --> 00:21:05.799 align:start position:0%
+as configurações do agente ficam aqui
+ 
+
+00:21:05.799 --> 00:21:09.029 align:start position:0%
+as configurações do agente ficam aqui
+olha<00:21:06.280><c> que</c><00:21:06.720><c> lindo</c><00:21:07.720><c> agora</c><00:21:08.159><c> gente</c><00:21:08.720><c> que</c><00:21:08.880><c> que</c><00:21:08.960><c> eu</c>
+
+00:21:09.029 --> 00:21:09.039 align:start position:0%
+olha que lindo agora gente que que eu
+ 
+
+00:21:09.039 --> 00:21:12.029 align:start position:0%
+olha que lindo agora gente que que eu
+vou<00:21:09.679><c> fazer</c><00:21:10.679><c> eu</c><00:21:11.039><c> tenho</c><00:21:11.400><c> que</c><00:21:11.520><c> treinar</c><00:21:11.919><c> meu</c>
+
+00:21:12.029 --> 00:21:12.039 align:start position:0%
+vou fazer eu tenho que treinar meu
+ 
+
+00:21:12.039 --> 00:21:14.230 align:start position:0%
+vou fazer eu tenho que treinar meu
+agente<00:21:12.840><c> E</c><00:21:13.159><c> como</c><00:21:13.440><c> que</c><00:21:13.520><c> eu</c><00:21:13.640><c> vou</c><00:21:13.760><c> treinar</c><00:21:14.039><c> o</c><00:21:14.120><c> meu</c>
+
+00:21:14.230 --> 00:21:14.240 align:start position:0%
+agente E como que eu vou treinar o meu
+ 
+
+00:21:14.240 --> 00:21:17.870 align:start position:0%
+agente E como que eu vou treinar o meu
+agente<00:21:14.960><c> eu</c><00:21:15.120><c> vou</c><00:21:15.320><c> usar</c><00:21:15.840><c> o</c><00:21:16.080><c> próprio</c><00:21:16.559><c> chat</c><00:21:17.000><c> GPT</c>
+
+00:21:17.870 --> 00:21:17.880 align:start position:0%
+agente eu vou usar o próprio chat GPT
+ 
+
+00:21:17.880 --> 00:21:19.470 align:start position:0%
+agente eu vou usar o próprio chat GPT
+para<00:21:18.080><c> treinar</c><00:21:18.400><c> o</c><00:21:18.520><c> meu</c><00:21:18.640><c> agente</c><00:21:19.039><c> porque</c><00:21:19.159><c> eu</c><00:21:19.279><c> tô</c>
+
+00:21:19.470 --> 00:21:19.480 align:start position:0%
+para treinar o meu agente porque eu tô
+ 
+
+00:21:19.480 --> 00:21:21.950 align:start position:0%
+para treinar o meu agente porque eu tô
+com<00:21:19.679><c> preguiça</c><00:21:20.120><c> de</c><00:21:20.279><c> escrever</c><00:21:21.000><c> esse</c><00:21:21.440><c> script</c>
+
+00:21:21.950 --> 00:21:21.960 align:start position:0%
+com preguiça de escrever esse script
+ 
+
+00:21:21.960 --> 00:21:24.110 align:start position:0%
+com preguiça de escrever esse script
+gigante<00:21:22.919><c> eu</c><00:21:23.120><c> vou</c><00:21:23.320><c> ter</c><00:21:23.440><c> que</c><00:21:23.559><c> ensinar</c><00:21:23.880><c> ele</c><00:21:24.039><c> a</c>
+
+00:21:24.110 --> 00:21:24.120 align:start position:0%
+gigante eu vou ter que ensinar ele a
+ 
+
+00:21:24.120 --> 00:21:27.230 align:start position:0%
+gigante eu vou ter que ensinar ele a
+vender<00:21:25.000><c> é</c><00:21:25.279><c> isso</c><00:21:25.480><c> que</c><00:21:25.600><c> eu</c><00:21:25.720><c> vou</c><00:21:25.840><c> ter</c><00:21:25.960><c> que</c><00:21:26.080><c> fazer</c><00:21:27.000><c> e</c>
+
+00:21:27.230 --> 00:21:27.240 align:start position:0%
+vender é isso que eu vou ter que fazer e
+ 
+
+00:21:27.240 --> 00:21:30.029 align:start position:0%
+vender é isso que eu vou ter que fazer e
+é<00:21:27.360><c> isso</c><00:21:27.559><c> aí</c><00:21:27.760><c> galera</c><00:21:28.600><c> agora</c><00:21:28.840><c> é</c><00:21:29.120><c> 9</c><00:21:29.600><c> horas</c><00:21:29.880><c> da</c>
+
+00:21:30.029 --> 00:21:30.039 align:start position:0%
+é isso aí galera agora é 9 horas da
+ 
+
+00:21:30.039 --> 00:21:32.230 align:start position:0%
+é isso aí galera agora é 9 horas da
+noite<00:21:30.600><c> fui</c><00:21:31.080><c> a</c><00:21:31.240><c> jantar</c><00:21:31.559><c> com</c><00:21:31.679><c> a</c><00:21:31.760><c> minha</c><00:21:31.919><c> esposa</c>
+
+00:21:32.230 --> 00:21:32.240 align:start position:0%
+noite fui a jantar com a minha esposa
+ 
+
+00:21:32.240 --> 00:21:34.950 align:start position:0%
+noite fui a jantar com a minha esposa
+mas<00:21:32.360><c> agora</c><00:21:32.679><c> voltei</c><00:21:33.559><c> eu</c><00:21:33.880><c> dei</c><00:21:34.120><c> um</c><00:21:34.279><c> tapinha</c><00:21:34.679><c> nele</c>
+
+00:21:34.950 --> 00:21:34.960 align:start position:0%
+mas agora voltei eu dei um tapinha nele
+ 
+
+00:21:34.960 --> 00:21:37.070 align:start position:0%
+mas agora voltei eu dei um tapinha nele
+para<00:21:35.080><c> deixar</c><00:21:35.320><c> ele</c><00:21:35.520><c> mais</c><00:21:35.720><c> humano</c><00:21:36.559><c> cara</c><00:21:36.840><c> o</c>
+
+00:21:37.070 --> 00:21:37.080 align:start position:0%
+para deixar ele mais humano cara o
+ 
+
+00:21:37.080 --> 00:21:38.909 align:start position:0%
+para deixar ele mais humano cara o
+resultado<00:21:37.440><c> agora</c><00:21:37.760><c> é</c><00:21:37.919><c> bizarro</c><00:21:38.320><c> Então</c><00:21:38.679><c> vamos</c>
+
+00:21:38.909 --> 00:21:38.919 align:start position:0%
+resultado agora é bizarro Então vamos
+ 
+
+00:21:38.919 --> 00:21:39.990 align:start position:0%
+resultado agora é bizarro Então vamos
+rodar<00:21:39.080><c> o</c>
+
+00:21:39.990 --> 00:21:40.000 align:start position:0%
+rodar o
+ 
+
+00:21:40.000 --> 00:21:43.789 align:start position:0%
+rodar o
+chatbot<00:21:41.000><c> vou</c><00:21:41.200><c> deixar</c><00:21:41.559><c> o</c><00:21:41.919><c> log</c><00:21:42.679><c> aqui</c><00:21:42.880><c> dele</c><00:21:43.559><c> então</c>
+
+00:21:43.789 --> 00:21:43.799 align:start position:0%
+chatbot vou deixar o log aqui dele então
+ 
+
+00:21:43.799 --> 00:21:46.070 align:start position:0%
+chatbot vou deixar o log aqui dele então
+ele<00:21:43.919><c> rodou</c><00:21:44.159><c> tá</c><00:21:44.320><c> logado</c><00:21:44.799><c> beleza</c><00:21:45.240><c> tá</c><00:21:45.480><c> subindo</c><00:21:45.880><c> as</c>
+
+00:21:46.070 --> 00:21:46.080 align:start position:0%
+ele rodou tá logado beleza tá subindo as
+ 
+
+00:21:46.080 --> 00:21:50.590 align:start position:0%
+ele rodou tá logado beleza tá subindo as
+instâncias<00:21:46.520><c> t</c><00:21:47.360><c> t</c><00:21:47.559><c> tã</c><00:21:48.559><c> carregou</c><00:21:49.120><c> Ótimo</c><00:21:49.559><c> vamos</c>
+
+00:21:50.590 --> 00:21:50.600 align:start position:0%
+instâncias t t tã carregou Ótimo vamos
+ 
+
+00:21:50.600 --> 00:21:54.990 align:start position:0%
+instâncias t t tã carregou Ótimo vamos
+lá<00:21:51.600><c> Opa</c><00:21:52.559><c> você</c><00:21:52.960><c> tá</c><00:21:53.120><c> por</c><00:21:53.240><c> aí</c><00:21:53.960><c> eu</c><00:21:54.200><c> mandei</c><00:21:54.520><c> um</c><00:21:54.679><c> áudio</c>
+
+00:21:54.990 --> 00:21:55.000 align:start position:0%
+lá Opa você tá por aí eu mandei um áudio
+ 
+
+00:21:55.000 --> 00:21:56.230 align:start position:0%
+lá Opa você tá por aí eu mandei um áudio
+para<00:21:55.159><c> ele</c><00:21:55.360><c> aqui</c>
+
+00:21:56.230 --> 00:21:56.240 align:start position:0%
+para ele aqui
+ 
+
+00:21:56.240 --> 00:21:59.110 align:start position:0%
+para ele aqui
+ó<00:21:57.240><c> olha</c><00:21:57.600><c> que</c><00:21:57.679><c> legal</c><00:21:57.880><c> agora</c><00:21:58.159><c> ele</c><00:21:58.600><c> foi</c><00:21:58.799><c> lá</c>
+
+00:21:59.110 --> 00:21:59.120 align:start position:0%
+ó olha que legal agora ele foi lá
+ 
+
+00:21:59.120 --> 00:22:01.630 align:start position:0%
+ó olha que legal agora ele foi lá
+converteu<00:21:59.559><c> o</c><00:21:59.720><c> áudio</c><00:22:00.159><c> processou</c><00:22:00.880><c> transcreveu</c>
+
+00:22:01.630 --> 00:22:01.640 align:start position:0%
+converteu o áudio processou transcreveu
+ 
+
+00:22:01.640 --> 00:22:04.310 align:start position:0%
+converteu o áudio processou transcreveu
+aí<00:22:02.440><c> agora</c><00:22:02.640><c> ele</c><00:22:02.880><c> vai</c><00:22:03.000><c> me</c><00:22:03.120><c> responder</c><00:22:03.799><c> então</c><00:22:04.159><c> eu</c>
+
+00:22:04.310 --> 00:22:04.320 align:start position:0%
+aí agora ele vai me responder então eu
+ 
+
+00:22:04.320 --> 00:22:07.230 align:start position:0%
+aí agora ele vai me responder então eu
+integrei<00:22:04.799><c> já</c><00:22:04.919><c> no</c><00:22:05.240><c> chatbot</c><00:22:06.240><c> a</c><00:22:06.640><c> possibilidade</c>
+
+00:22:07.230 --> 00:22:07.240 align:start position:0%
+integrei já no chatbot a possibilidade
+ 
+
+00:22:07.240 --> 00:22:09.669 align:start position:0%
+integrei já no chatbot a possibilidade
+de<00:22:07.400><c> áudio</c><00:22:08.120><c> e</c><00:22:08.360><c> eu</c><00:22:08.559><c> adicionei</c><00:22:09.039><c> não</c><00:22:09.159><c> só</c><00:22:09.279><c> para</c><00:22:09.480><c> ele</c>
+
+00:22:09.669 --> 00:22:09.679 align:start position:0%
+de áudio e eu adicionei não só para ele
+ 
+
+00:22:09.679 --> 00:22:11.269 align:start position:0%
+de áudio e eu adicionei não só para ele
+vender<00:22:10.000><c> mas</c><00:22:10.159><c> para</c><00:22:10.360><c> ele</c><00:22:10.559><c> me</c><00:22:10.640><c> dar</c><00:22:10.880><c> suporte</c>
+
+00:22:11.269 --> 00:22:11.279 align:start position:0%
+vender mas para ele me dar suporte
+ 
+
+00:22:11.279 --> 00:22:13.230 align:start position:0%
+vender mas para ele me dar suporte
+também<00:22:11.559><c> caso</c><00:22:11.840><c> seja</c><00:22:12.120><c> necessário</c><00:22:12.880><c> e</c><00:22:13.039><c> Ele</c>
+
+00:22:13.230 --> 00:22:13.240 align:start position:0%
+também caso seja necessário e Ele
+ 
+
+00:22:13.240 --> 00:22:15.070 align:start position:0%
+também caso seja necessário e Ele
+identificou<00:22:13.760><c> quem</c><00:22:14.039><c> é</c><00:22:14.200><c> meu</c><00:22:14.320><c> contato</c><00:22:14.760><c> olha</c><00:22:14.960><c> que</c>
+
+00:22:15.070 --> 00:22:15.080 align:start position:0%
+identificou quem é meu contato olha que
+ 
+
+00:22:15.080 --> 00:22:16.950 align:start position:0%
+identificou quem é meu contato olha que
+louco<00:22:15.279><c> mano</c><00:22:15.480><c> olha</c><00:22:15.679><c> isso</c><00:22:15.880><c> aqui</c><00:22:15.960><c> ó</c><00:22:16.080><c> fala</c><00:22:16.279><c> kelv</c>
+
+00:22:16.950 --> 00:22:16.960 align:start position:0%
+louco mano olha isso aqui ó fala kelv
+ 
+
+00:22:16.960 --> 00:22:19.549 align:start position:0%
+louco mano olha isso aqui ó fala kelv
+tudo<00:22:17.159><c> suave</c><00:22:17.919><c> T</c><00:22:18.159><c> na</c><00:22:18.320><c> área</c><00:22:18.600><c> Sim</c><00:22:18.840><c> manda</c><00:22:19.080><c> real</c><00:22:19.320><c> no</c>
+
+00:22:19.549 --> 00:22:19.559 align:start position:0%
+tudo suave T na área Sim manda real no
+ 
+
+00:22:19.559 --> 00:22:22.190 align:start position:0%
+tudo suave T na área Sim manda real no
+que<00:22:19.640><c> eu</c><00:22:19.760><c> posso</c><00:22:20.039><c> te</c><00:22:20.159><c> ajudar</c><00:22:20.679><c> hoje</c><00:22:21.679><c> cara</c><00:22:21.919><c> eu</c><00:22:22.039><c> tô</c>
+
+00:22:22.190 --> 00:22:22.200 align:start position:0%
+que eu posso te ajudar hoje cara eu tô
+ 
+
+00:22:22.200 --> 00:22:24.070 align:start position:0%
+que eu posso te ajudar hoje cara eu tô
+com<00:22:22.400><c> um</c><00:22:22.640><c> problema</c><00:22:23.000><c> aqui</c><00:22:23.279><c> para</c><00:22:23.440><c> acessar</c><00:22:23.919><c> a</c>
+
+00:22:24.070 --> 00:22:24.080 align:start position:0%
+com um problema aqui para acessar a
+ 
+
+00:22:24.080 --> 00:22:27.510 align:start position:0%
+com um problema aqui para acessar a
+plataforma<00:22:24.559><c> do</c><00:22:25.039><c> Circle</c><00:22:25.840><c> a</c><00:22:26.120><c> plataforma</c><00:22:26.640><c> da</c>
+
+00:22:27.510 --> 00:22:27.520 align:start position:0%
+plataforma do Circle a plataforma da
+ 
+
+00:22:27.520 --> 00:22:30.430 align:start position:0%
+plataforma do Circle a plataforma da
+escola<00:22:28.559><c> será</c><00:22:28.760><c> que</c><00:22:28.840><c> você</c><00:22:29.000><c> pode</c><00:22:29.559><c> me</c>
+
+00:22:30.430 --> 00:22:30.440 align:start position:0%
+escola será que você pode me
+ 
+
+00:22:30.440 --> 00:22:35.310 align:start position:0%
+escola será que você pode me
+ajudar<00:22:31.440><c> ó</c><00:22:32.440><c> cara</c><00:22:32.960><c> isso</c><00:22:33.159><c> aqui</c><00:22:33.320><c> é</c><00:22:33.600><c> é</c><00:22:33.760><c> bizarro</c>
+
+00:22:35.310 --> 00:22:35.320 align:start position:0%
+ajudar ó cara isso aqui é é bizarro
+ 
+
+00:22:35.320 --> 00:22:38.430 align:start position:0%
+ajudar ó cara isso aqui é é bizarro
+ó<00:22:36.320><c> já</c>
+
+00:22:38.430 --> 00:22:38.440 align:start position:0%
+ó já
+ 
+
+00:22:38.440 --> 00:22:40.149 align:start position:0%
+ó já
+transcreveu
+
+00:22:40.149 --> 00:22:40.159 align:start position:0%
+transcreveu
+ 
+
+00:22:40.159 --> 00:22:43.070 align:start position:0%
+transcreveu
+ah<00:22:41.159><c> Kelvin</c><00:22:41.840><c> que</c><00:22:41.960><c> momento</c><00:22:42.279><c> que</c><00:22:42.360><c> você</c><00:22:42.559><c> adicionou</c>
+
+00:22:43.070 --> 00:22:43.080 align:start position:0%
+ah Kelvin que momento que você adicionou
+ 
+
+00:22:43.080 --> 00:22:45.310 align:start position:0%
+ah Kelvin que momento que você adicionou
+a<00:22:43.159><c> transcrição</c><00:22:43.799><c> pessoal</c><00:22:44.080><c> eu</c><00:22:44.520><c> deu</c><00:22:44.840><c> um</c><00:22:45.000><c> pause</c>
+
+00:22:45.310 --> 00:22:45.320 align:start position:0%
+a transcrição pessoal eu deu um pause
+ 
+
+00:22:45.320 --> 00:22:47.190 align:start position:0%
+a transcrição pessoal eu deu um pause
+aqui<00:22:45.520><c> mas</c><00:22:46.120><c> eu</c>
+
+00:22:47.190 --> 00:22:47.200 align:start position:0%
+aqui mas eu
+ 
+
+00:22:47.200 --> 00:22:49.909 align:start position:0%
+aqui mas eu
+gravei<00:22:48.200><c> esse</c><00:22:48.559><c> conteúdo</c><00:22:49.080><c> completo</c><00:22:49.600><c> Isso</c><00:22:49.799><c> aqui</c>
+
+00:22:49.909 --> 00:22:49.919 align:start position:0%
+gravei esse conteúdo completo Isso aqui
+ 
+
+00:22:49.919 --> 00:22:51.950 align:start position:0%
+gravei esse conteúdo completo Isso aqui
+vai<00:22:50.039><c> est</c><00:22:50.240><c> disponível</c><00:22:50.679><c> lá</c><00:22:51.080><c> pros</c><00:22:51.480><c> alunos</c><00:22:51.840><c> da</c>
+
+00:22:51.950 --> 00:22:51.960 align:start position:0%
+vai est disponível lá pros alunos da
+ 
+
+00:22:51.960 --> 00:22:54.430 align:start position:0%
+vai est disponível lá pros alunos da
+escola<00:22:52.480><c> do</c><00:22:52.559><c> Dev</c><00:22:53.000><c> empreendedor</c><00:22:53.640><c> mas</c><00:22:53.760><c> ó</c><00:22:54.000><c> se</c><00:22:54.120><c> liga</c>
+
+00:22:54.430 --> 00:22:54.440 align:start position:0%
+escola do Dev empreendedor mas ó se liga
+ 
+
+00:22:54.440 --> 00:23:00.470 align:start position:0%
+escola do Dev empreendedor mas ó se liga
+foi<00:22:54.679><c> tudo</c><00:22:55.159><c> usando</c><00:22:56.159><c> o</c><00:22:56.840><c> chat</c><00:22:57.840><c> e</c><00:22:58.480><c> e</c><00:22:58.720><c> aqui</c><00:22:59.720><c> o</c><00:23:00.000><c> código</c>
+
+00:23:00.470 --> 00:23:00.480 align:start position:0%
+foi tudo usando o chat e e aqui o código
+ 
+
+00:23:00.480 --> 00:23:04.830 align:start position:0%
+foi tudo usando o chat e e aqui o código
+ó<00:23:01.440><c> todo</c><00:23:02.200><c> estruturado</c><00:23:02.919><c> simples</c><00:23:03.400><c> fácil</c><00:23:04.159><c> e</c><00:23:04.559><c> vocês</c>
+
+00:23:04.830 --> 00:23:04.840 align:start position:0%
+ó todo estruturado simples fácil e vocês
+ 
+
+00:23:04.840 --> 00:23:07.830 align:start position:0%
+ó todo estruturado simples fácil e vocês
+podem<00:23:05.159><c> ter</c><00:23:05.360><c> acesso</c><00:23:05.919><c> isso</c><00:23:06.480><c> a</c><00:23:06.799><c> isso</c><00:23:07.400><c> se</c><00:23:07.559><c> vocês</c>
+
+00:23:07.830 --> 00:23:07.840 align:start position:0%
+podem ter acesso isso a isso se vocês
+ 
+
+00:23:07.840 --> 00:23:10.789 align:start position:0%
+podem ter acesso isso a isso se vocês
+entrarem<00:23:08.279><c> lá</c><00:23:08.440><c> na</c><00:23:08.600><c> escola</c><00:23:08.840><c> do</c><00:23:09.120><c> Dev</c>
+
+00:23:10.789 --> 00:23:10.799 align:start position:0%
+entrarem lá na escola do Dev
+ 
+
+00:23:10.799 --> 00:23:13.549 align:start position:0%
+entrarem lá na escola do Dev
+empreendedor<00:23:11.799><c> ou</c><00:23:12.600><c> que</c><00:23:12.720><c> eu</c><00:23:12.840><c> já</c><00:23:12.960><c> forneci</c><00:23:13.440><c> aqui</c>
+
+00:23:13.549 --> 00:23:13.559 align:start position:0%
+empreendedor ou que eu já forneci aqui
+ 
+
+00:23:13.559 --> 00:23:15.630 align:start position:0%
+empreendedor ou que eu já forneci aqui
+para<00:23:13.720><c> vocês</c><00:23:13.960><c> de</c><00:23:14.159><c> conteúdo</c><00:23:14.679><c> gratuito</c><00:23:15.120><c> já</c><00:23:15.360><c> tá</c>
+
+00:23:15.630 --> 00:23:15.640 align:start position:0%
+para vocês de conteúdo gratuito já tá
+ 
+
+00:23:15.640 --> 00:23:17.590 align:start position:0%
+para vocês de conteúdo gratuito já tá
+bastante<00:23:16.039><c> né</c><00:23:16.480><c> Então</c><00:23:16.799><c> olha</c><00:23:17.080><c> isso</c><00:23:17.320><c> aqui</c><00:23:17.480><c> que</c>
+
+00:23:17.590 --> 00:23:17.600 align:start position:0%
+bastante né Então olha isso aqui que
+ 
+
+00:23:17.600 --> 00:23:20.149 align:start position:0%
+bastante né Então olha isso aqui que
+legal<00:23:18.000><c> fala</c><00:23:18.440><c> tudo</c><00:23:18.640><c> bom</c><00:23:19.200><c> Bora</c><00:23:19.480><c> resolver</c><00:23:19.880><c> esse</c>
+
+00:23:20.149 --> 00:23:20.159 align:start position:0%
+legal fala tudo bom Bora resolver esse
+ 
+
+00:23:20.159 --> 00:23:21.950 align:start position:0%
+legal fala tudo bom Bora resolver esse
+problema<00:23:20.799><c> que</c><00:23:21.000><c> que</c><00:23:21.120><c> tá</c><00:23:21.240><c> rolando</c><00:23:21.559><c> exatamente</c>
+
+00:23:21.950 --> 00:23:21.960 align:start position:0%
+problema que que tá rolando exatamente
+ 
+
+00:23:21.960 --> 00:23:23.990 align:start position:0%
+problema que que tá rolando exatamente
+se<00:23:22.159><c> for</c><00:23:22.480><c> senha</c><00:23:22.799><c> tenta</c><00:23:23.000><c> redefinir</c><00:23:23.480><c> e</c><00:23:23.600><c> me</c><00:23:23.679><c> diz</c><00:23:23.880><c> se</c>
+
+00:23:23.990 --> 00:23:24.000 align:start position:0%
+se for senha tenta redefinir e me diz se
+ 
+
+00:23:24.000 --> 00:23:25.990 align:start position:0%
+se for senha tenta redefinir e me diz se
+deu<00:23:24.159><c> certo</c><00:23:24.440><c> se</c><00:23:24.760><c> continuar</c><00:23:24.919><c> dando</c><00:23:25.200><c> ruim</c><00:23:25.720><c> manda</c>
+
+00:23:25.990 --> 00:23:26.000 align:start position:0%
+deu certo se continuar dando ruim manda
+ 
+
+00:23:26.000 --> 00:23:28.830 align:start position:0%
+deu certo se continuar dando ruim manda
+mais<00:23:26.440><c> olha</c><00:23:26.720><c> que</c><00:23:26.840><c> louco</c><00:23:27.120><c> gente</c><00:23:27.720><c> a</c><00:23:28.600><c> não</c><00:23:28.760><c> eu</c>
+
+00:23:28.830 --> 00:23:28.840 align:start position:0%
+mais olha que louco gente a não eu
+ 
+
+00:23:28.840 --> 00:23:32.470 align:start position:0%
+mais olha que louco gente a não eu
+resolvi<00:23:29.279><c> aqui</c><00:23:29.520><c> já</c><00:23:29.760><c> cara</c><00:23:30.240><c> seguinte</c><00:23:31.080><c> eh</c><00:23:32.080><c> Quais</c>
+
+00:23:32.470 --> 00:23:32.480 align:start position:0%
+resolvi aqui já cara seguinte eh Quais
+ 
+
+00:23:32.480 --> 00:23:36.630 align:start position:0%
+resolvi aqui já cara seguinte eh Quais
+são<00:23:32.640><c> os</c><00:23:32.799><c> planos</c><00:23:33.440><c> que</c><00:23:34.200><c> a</c><00:23:34.400><c> escola</c><00:23:34.760><c> tá</c><00:23:34.919><c> oferecendo</c>
+
+00:23:36.630 --> 00:23:36.640 align:start position:0%
+são os planos que a escola tá oferecendo
+ 
+
+00:23:36.640 --> 00:23:40.990 align:start position:0%
+são os planos que a escola tá oferecendo
+hoje<00:23:38.039><c> gente</c><00:23:39.039><c> tá</c><00:23:40.000><c> Olha</c><00:23:40.360><c> eu</c><00:23:40.480><c> acho</c><00:23:40.720><c> que</c><00:23:40.799><c> eu</c>
+
+00:23:40.990 --> 00:23:41.000 align:start position:0%
+hoje gente tá Olha eu acho que eu
+ 
+
+00:23:41.000 --> 00:23:44.149 align:start position:0%
+hoje gente tá Olha eu acho que eu
+criei<00:23:41.400><c> um</c><00:23:41.840><c> Ele</c><00:23:42.039><c> parece</c><00:23:42.360><c> humano</c><00:23:43.279><c> Parece</c>
+
+00:23:44.149 --> 00:23:44.159 align:start position:0%
+criei um Ele parece humano Parece
+ 
+
+00:23:44.159 --> 00:23:47.510 align:start position:0%
+criei um Ele parece humano Parece
+gente<00:23:45.159><c> ficou</c><00:23:45.520><c> muito</c><00:23:46.320><c> tudo</c><00:23:46.679><c> tudo</c><00:23:47.360><c> tudo</c>
+
+00:23:47.510 --> 00:23:47.520 align:start position:0%
+gente ficou muito tudo tudo tudo
+ 
+
+00:23:47.520 --> 00:23:49.110 align:start position:0%
+gente ficou muito tudo tudo tudo
+foi<00:23:47.640><c> feito</c><00:23:47.960><c> treinamento</c><00:23:48.480><c> usando</c><00:23:48.760><c> toda</c><00:23:48.960><c> a</c>
+
+00:23:49.110 --> 00:23:49.120 align:start position:0%
+foi feito treinamento usando toda a
+ 
+
+00:23:49.120 --> 00:23:53.750 align:start position:0%
+foi feito treinamento usando toda a
+estrutura<00:23:49.440><c> da</c><00:23:49.640><c> Open</c><00:23:50.240><c> ai</c><00:23:51.240><c> mas</c><00:23:51.440><c> o</c><00:23:52.120><c> Venom</c><00:23:53.120><c> o</c><00:23:53.320><c> Venom</c>
+
+00:23:53.750 --> 00:23:53.760 align:start position:0%
+estrutura da Open ai mas o Venom o Venom
+ 
+
+00:23:53.760 --> 00:23:55.750 align:start position:0%
+estrutura da Open ai mas o Venom o Venom
+ele<00:23:53.919><c> tá</c><00:23:54.440><c> tá</c><00:23:54.559><c> emulando</c><00:23:54.960><c> igual</c><00:23:55.279><c> expliquei</c><00:23:55.600><c> para</c>
+
+00:23:55.750 --> 00:23:55.760 align:start position:0%
+ele tá tá emulando igual expliquei para
+ 
+
+00:23:55.760 --> 00:23:57.549 align:start position:0%
+ele tá tá emulando igual expliquei para
+vocês<00:23:56.039><c> mas</c><00:23:56.240><c> depois</c><00:23:56.520><c> se</c><00:23:56.720><c> eu</c><00:23:56.919><c> se</c><00:23:57.080><c> isso</c><00:23:57.320><c> aqui</c>
+
+00:23:57.549 --> 00:23:57.559 align:start position:0%
+vocês mas depois se eu se isso aqui
+ 
+
+00:23:57.559 --> 00:23:59.549 align:start position:0%
+vocês mas depois se eu se isso aqui
+passar<00:23:57.840><c> pela</c><00:23:58.159><c> minha</c><00:23:58.679><c> validação</c><00:23:59.159><c> né</c><00:23:59.320><c> eu</c><00:23:59.440><c> vou</c>
+
+00:23:59.549 --> 00:23:59.559 align:start position:0%
+passar pela minha validação né eu vou
+ 
+
+00:23:59.559 --> 00:24:01.510 align:start position:0%
+passar pela minha validação né eu vou
+publicar<00:23:59.919><c> agora</c><00:24:00.159><c> Inclusive</c><00:24:00.600><c> eu</c><00:24:00.679><c> vou</c><00:24:00.840><c> deixar</c>
+
+00:24:01.510 --> 00:24:01.520 align:start position:0%
+publicar agora Inclusive eu vou deixar
+ 
+
+00:24:01.520 --> 00:24:03.590 align:start position:0%
+publicar agora Inclusive eu vou deixar
+esse<00:24:01.880><c> número</c><00:24:02.200><c> do</c><00:24:02.400><c> chatbot</c><00:24:03.000><c> aqui</c><00:24:03.279><c> do</c><00:24:03.400><c> seu</c>
+
+00:24:03.590 --> 00:24:03.600 align:start position:0%
+esse número do chatbot aqui do seu
+ 
+
+00:24:03.600 --> 00:24:06.029 align:start position:0%
+esse número do chatbot aqui do seu
+Madruga<00:24:04.000><c> SDR</c><00:24:04.880><c> aí</c><00:24:05.159><c> para</c><00:24:05.360><c> vocês</c><00:24:05.679><c> se</c><00:24:05.799><c> vocês</c>
+
+00:24:06.029 --> 00:24:06.039 align:start position:0%
+Madruga SDR aí para vocês se vocês
+ 
+
+00:24:06.039 --> 00:24:08.950 align:start position:0%
+Madruga SDR aí para vocês se vocês
+quiserem<00:24:06.480><c> pode</c><00:24:06.679><c> chamar</c><00:24:06.960><c> el</c><00:24:07.640><c> e</c><00:24:08.159><c> testar</c><00:24:08.559><c> vocês</c>
+
+00:24:08.950 --> 00:24:08.960 align:start position:0%
+quiserem pode chamar el e testar vocês
+ 
+
+00:24:08.960 --> 00:24:10.990 align:start position:0%
+quiserem pode chamar el e testar vocês
+mesmo<00:24:09.520><c> e</c><00:24:09.760><c> se</c><00:24:09.880><c> vocês</c><00:24:10.120><c> quiserem</c><00:24:10.400><c> o</c><00:24:10.480><c> código</c><00:24:10.760><c> fonte</c>
+
+00:24:10.990 --> 00:24:11.000 align:start position:0%
+mesmo e se vocês quiserem o código fonte
+ 
+
+00:24:11.000 --> 00:24:12.310 align:start position:0%
+mesmo e se vocês quiserem o código fonte
+qu<00:24:11.279><c> para</c><00:24:11.360><c> dentro</c><00:24:11.559><c> da</c><00:24:11.640><c> escola</c><00:24:11.880><c> e</c><00:24:11.960><c> vamos</c><00:24:12.120><c> fazer</c>
+
+00:24:12.310 --> 00:24:12.320 align:start position:0%
+qu para dentro da escola e vamos fazer
+ 
+
+00:24:12.320 --> 00:24:14.430 align:start position:0%
+qu para dentro da escola e vamos fazer
+acontecer<00:24:12.880><c> só</c><00:24:13.080><c> o</c><00:24:13.200><c> que</c><00:24:13.279><c> eu</c><00:24:13.400><c> fiz</c><00:24:13.600><c> aqui</c><00:24:13.760><c> já</c><00:24:13.960><c> vale</c><00:24:14.279><c> o</c>
+
+00:24:14.430 --> 00:24:14.440 align:start position:0%
+acontecer só o que eu fiz aqui já vale o
+ 
+
+00:24:14.440 --> 00:24:17.149 align:start position:0%
+acontecer só o que eu fiz aqui já vale o
+preço<00:24:14.720><c> desse</c><00:24:14.919><c> curso</c><00:24:15.159><c> hein</c><00:24:15.520><c> ó</c><00:24:16.159><c> lá</c><00:24:16.440><c> hoje</c><00:24:16.720><c> a</c><00:24:16.799><c> gente</c>
+
+00:24:17.149 --> 00:24:17.159 align:start position:0%
+preço desse curso hein ó lá hoje a gente
+ 
+
+00:24:17.159 --> 00:24:19.190 align:start position:0%
+preço desse curso hein ó lá hoje a gente
+tem<00:24:17.440><c> dois</c><00:24:17.720><c> planos</c><00:24:18.159><c> principais</c><00:24:18.760><c> acesso</c>
+
+00:24:19.190 --> 00:24:19.200 align:start position:0%
+tem dois planos principais acesso
+ 
+
+00:24:19.200 --> 00:24:22.110 align:start position:0%
+tem dois planos principais acesso
+completo<00:24:19.600><c> e</c><00:24:19.799><c> o</c><00:24:20.000><c> modo</c><00:24:20.400><c> explorador</c><00:24:21.400><c> massa</c><00:24:21.880><c> né</c>
+
+00:24:22.110 --> 00:24:22.120 align:start position:0%
+completo e o modo explorador massa né
+ 
+
+00:24:22.120 --> 00:24:24.470 align:start position:0%
+completo e o modo explorador massa né
+Curtiu<00:24:22.600><c> algum</c><00:24:23.320><c> em</c>
+
+00:24:24.470 --> 00:24:24.480 align:start position:0%
+Curtiu algum em
+ 
+
+00:24:24.480 --> 00:24:27.029 align:start position:0%
+Curtiu algum em
+especial<00:24:25.480><c> seguinte</c><00:24:25.960><c> eu</c><00:24:26.120><c> compro</c><00:24:26.440><c> se</c><00:24:26.559><c> você</c><00:24:26.720><c> me</c><00:24:26.799><c> D</c>
+
+00:24:27.029 --> 00:24:27.039 align:start position:0%
+especial seguinte eu compro se você me D
+ 
+
+00:24:27.039 --> 00:24:28.669 align:start position:0%
+especial seguinte eu compro se você me D
+um<00:24:27.159><c> desconto</c>
+
+00:24:28.669 --> 00:24:28.679 align:start position:0%
+um desconto
+ 
+
+00:24:28.679 --> 00:24:30.230 align:start position:0%
+um desconto
+para<00:24:28.799><c> fechar</c><00:24:29.120><c> agora</c><00:24:29.520><c> tem</c>
+
+00:24:30.230 --> 00:24:30.240 align:start position:0%
+para fechar agora tem
+ 
+
+00:24:30.240 --> 00:24:32.950 align:start position:0%
+para fechar agora tem
+desconto<00:24:31.240><c> se</c><00:24:31.399><c> liga</c><00:24:31.640><c> nisso</c><00:24:31.919><c> aqui</c><00:24:32.120><c> gente</c><00:24:32.320><c> ó</c><00:24:32.600><c> eu</c>
+
+00:24:32.950 --> 00:24:32.960 align:start position:0%
+desconto se liga nisso aqui gente ó eu
+ 
+
+00:24:32.960 --> 00:24:34.870 align:start position:0%
+desconto se liga nisso aqui gente ó eu
+eu<00:24:33.120><c> configurei</c><00:24:33.679><c> ele</c><00:24:33.880><c> até</c><00:24:34.080><c> inclusive</c><00:24:34.520><c> com</c><00:24:34.679><c> uma</c>
+
+00:24:34.870 --> 00:24:34.880 align:start position:0%
+eu configurei ele até inclusive com uma
+ 
+
+00:24:34.880 --> 00:24:38.510 align:start position:0%
+eu configurei ele até inclusive com uma
+política<00:24:35.320><c> de</c><00:24:35.640><c> desconto</c><00:24:36.640><c> então</c><00:24:37.000><c> ele</c><00:24:37.200><c> vai</c>
+
+00:24:38.510 --> 00:24:38.520 align:start position:0%
+política de desconto então ele vai
+ 
+
+00:24:38.520 --> 00:24:41.510 align:start position:0%
+política de desconto então ele vai
+analisar<00:24:39.520><c> imagina</c><00:24:40.200><c> as</c><00:24:40.440><c> aplicabilidades</c><00:24:41.360><c> que</c>
+
+00:24:41.510 --> 00:24:41.520 align:start position:0%
+analisar imagina as aplicabilidades que
+ 
+
+00:24:41.520 --> 00:24:43.590 align:start position:0%
+analisar imagina as aplicabilidades que
+você<00:24:41.720><c> pode</c><00:24:41.960><c> ter</c><00:24:42.120><c> com</c><00:24:42.399><c> uma</c><00:24:42.600><c> ferramenta</c><00:24:43.200><c> dessa</c>
+
+00:24:43.590 --> 00:24:43.600 align:start position:0%
+você pode ter com uma ferramenta dessa
+ 
+
+00:24:43.600 --> 00:24:47.070 align:start position:0%
+você pode ter com uma ferramenta dessa
+para<00:24:43.760><c> você</c><00:24:44.320><c> vender</c><00:24:45.320><c> saca</c><00:24:45.840><c> para</c><00:24:46.000><c> você</c><00:24:46.200><c> vender</c>
+
+00:24:47.070 --> 00:24:47.080 align:start position:0%
+para você vender saca para você vender
+ 
+
+00:24:47.080 --> 00:24:49.110 align:start position:0%
+para você vender saca para você vender
+isso<00:24:47.399><c> aqui</c><00:24:47.600><c> é</c><00:24:47.720><c> absurdo</c><00:24:48.200><c> isso</c><00:24:48.520><c> aqui</c><00:24:48.640><c> é</c><00:24:48.760><c> absurdo</c>
+
+00:24:49.110 --> 00:24:49.120 align:start position:0%
+isso aqui é absurdo isso aqui é absurdo
+ 
+
+00:24:49.120 --> 00:24:51.909 align:start position:0%
+isso aqui é absurdo isso aqui é absurdo
+absurdo<00:24:49.480><c> absurdo</c><00:24:50.000><c> absurdo</c><00:24:51.000><c> custo</c><00:24:51.399><c> baixo</c><00:24:51.760><c> dá</c>
+
+00:24:51.909 --> 00:24:51.919 align:start position:0%
+absurdo absurdo absurdo custo baixo dá
+ 
+
+00:24:51.919 --> 00:24:53.190 align:start position:0%
+absurdo absurdo absurdo custo baixo dá
+para<00:24:52.120><c> ter</c>
+
+00:24:53.190 --> 00:24:53.200 align:start position:0%
+para ter
+ 
+
+00:24:53.200 --> 00:24:56.149 align:start position:0%
+para ter
+ó<00:24:54.200><c> ol</c><00:24:54.480><c> Olha</c><00:24:54.679><c> isso</c><00:24:54.880><c> aqui</c><00:24:55.000><c> ó</c><00:24:55.279><c> se</c><00:24:55.480><c> é</c><00:24:55.640><c> para</c><00:24:55.799><c> fechar</c>
+
+00:24:56.149 --> 00:24:56.159 align:start position:0%
+ó ol Olha isso aqui ó se é para fechar
+ 
+
+00:24:56.159 --> 00:25:00.190 align:start position:0%
+ó ol Olha isso aqui ó se é para fechar
+agora<00:24:56.600><c> rola</c><00:24:56.919><c> um</c><00:24:57.080><c> Descontão</c><00:24:57.720><c> sim</c><00:24:58.520><c> olha</c><00:24:59.000><c> 30%</c><00:24:59.880><c> off</c>
+
+00:25:00.190 --> 00:25:00.200 align:start position:0%
+agora rola um Descontão sim olha 30% off
+ 
+
+00:25:00.200 --> 00:25:03.029 align:start position:0%
+agora rola um Descontão sim olha 30% off
+usando<00:25:00.480><c> o</c><00:25:00.559><c> cupom</c><00:25:00.840><c> 30</c><00:25:01.360><c> Madruga</c><00:25:02.360><c> no</c><00:25:02.559><c> plano</c><00:25:02.840><c> anual</c>
+
+00:25:03.029 --> 00:25:03.039 align:start position:0%
+usando o cupom 30 Madruga no plano anual
+ 
+
+00:25:03.039 --> 00:25:07.630 align:start position:0%
+usando o cupom 30 Madruga no plano anual
+cai<00:25:03.559><c> de</c><00:25:03.919><c> 1997</c><00:25:04.919><c> para</c><00:25:05.520><c> 1397</c><00:25:06.520><c> então</c><00:25:06.720><c> ó</c><00:25:06.960><c> se</c><00:25:07.120><c> você</c>
+
+00:25:07.630 --> 00:25:07.640 align:start position:0%
+cai de 1997 para 1397 então ó se você
+ 
+
+00:25:07.640 --> 00:25:10.230 align:start position:0%
+cai de 1997 para 1397 então ó se você
+quiser<00:25:08.640><c> fechar</c><00:25:08.960><c> aí</c><00:25:09.120><c> o</c><00:25:09.240><c> plano</c><00:25:09.520><c> ó</c><00:25:09.919><c> tá</c><00:25:10.039><c> aqui</c><00:25:10.159><c> o</c>
+
+00:25:10.230 --> 00:25:10.240 align:start position:0%
+quiser fechar aí o plano ó tá aqui o
+ 
+
+00:25:10.240 --> 00:25:12.389 align:start position:0%
+quiser fechar aí o plano ó tá aqui o
+desconto<00:25:10.640><c> já</c><00:25:10.799><c> tá</c><00:25:10.960><c> na</c><00:25:11.080><c> mão</c><00:25:11.520><c> é</c><00:25:11.760><c> só</c><00:25:11.919><c> você</c><00:25:12.120><c> cair</c>
+
+00:25:12.389 --> 00:25:12.399 align:start position:0%
+desconto já tá na mão é só você cair
+ 
+
+00:25:12.399 --> 00:25:13.630 align:start position:0%
+desconto já tá na mão é só você cair
+para
+
+00:25:13.630 --> 00:25:13.640 align:start position:0%
+para
+ 
+
+00:25:13.640 --> 00:25:16.750 align:start position:0%
+para
+dentro<00:25:14.640><c> isso</c><00:25:15.039><c> aqui</c><00:25:15.240><c> tem</c><00:25:15.640><c> milhões</c><00:25:16.240><c> de</c>
+
+00:25:16.750 --> 00:25:16.760 align:start position:0%
+dentro isso aqui tem milhões de
+ 
+
+00:25:16.760 --> 00:25:20.310 align:start position:0%
+dentro isso aqui tem milhões de
+aplicabilidades<00:25:17.760><c> para</c><00:25:18.080><c> você</c><00:25:18.960><c> e</c><00:25:19.399><c> aí</c><00:25:19.799><c> você</c><00:25:20.039><c> viu</c>
+
+00:25:20.310 --> 00:25:20.320 align:start position:0%
+aplicabilidades para você e aí você viu
+ 
+
+00:25:20.320 --> 00:25:23.549 align:start position:0%
+aplicabilidades para você e aí você viu
+a<00:25:20.520><c> aplicabilidade</c><00:25:21.480><c> é</c><00:25:21.679><c> bizarro</c><00:25:22.039><c> não</c><00:25:22.399><c> é</c><00:25:23.000><c> é</c><00:25:23.279><c> isso</c>
+
+00:25:23.549 --> 00:25:23.559 align:start position:0%
+a aplicabilidade é bizarro não é é isso
+ 
+
+00:25:23.559 --> 00:25:26.909 align:start position:0%
+a aplicabilidade é bizarro não é é isso
+gente<00:25:24.080><c> você</c><00:25:24.440><c> imagine</c><00:25:24.919><c> o</c><00:25:25.080><c> para</c><00:25:25.760><c> nossa</c><00:25:26.200><c> o</c><00:25:26.399><c> quanto</c>
+
+00:25:26.909 --> 00:25:26.919 align:start position:0%
+gente você imagine o para nossa o quanto
+ 
+
+00:25:26.919 --> 00:25:29.549 align:start position:0%
+gente você imagine o para nossa o quanto
+você<00:25:27.279><c> consegue</c><00:25:28.640><c> aplicar</c><00:25:29.039><c> isso</c><00:25:29.279><c> aqui</c><00:25:29.399><c> no</c>
+
+00:25:29.549 --> 00:25:29.559 align:start position:0%
+você consegue aplicar isso aqui no
+ 
+
+00:25:29.559 --> 00:25:31.110 align:start position:0%
+você consegue aplicar isso aqui no
+mercado<00:25:29.840><c> Isso</c><00:25:30.080><c> aqui</c><00:25:30.200><c> é</c><00:25:30.279><c> altamente</c><00:25:30.640><c> vendável</c>
+
+00:25:31.110 --> 00:25:31.120 align:start position:0%
+mercado Isso aqui é altamente vendável
+ 
+
+00:25:31.120 --> 00:25:32.789 align:start position:0%
+mercado Isso aqui é altamente vendável
+se<00:25:31.360><c> você</c><00:25:31.520><c> gravar</c><00:25:31.799><c> um</c><00:25:31.960><c> vídeo</c><00:25:32.200><c> desse</c><00:25:32.480><c> negócio</c>
+
+00:25:32.789 --> 00:25:32.799 align:start position:0%
+se você gravar um vídeo desse negócio
+ 
+
+00:25:32.799 --> 00:25:33.950 align:start position:0%
+se você gravar um vídeo desse negócio
+funcionando<00:25:33.200><c> Você</c><00:25:33.360><c> viu</c><00:25:33.520><c> como</c><00:25:33.640><c> ele</c><00:25:33.760><c> ficou</c>
+
+00:25:33.950 --> 00:25:33.960 align:start position:0%
+funcionando Você viu como ele ficou
+ 
+
+00:25:33.960 --> 00:25:35.669 align:start position:0%
+funcionando Você viu como ele ficou
+humano<00:25:34.600><c> Você</c><00:25:34.840><c> viu</c><00:25:35.039><c> como</c><00:25:35.159><c> ele</c><00:25:35.360><c> ficou</c><00:25:35.600><c> a</c>
+
+00:25:35.669 --> 00:25:35.679 align:start position:0%
+humano Você viu como ele ficou a
+ 
+
+00:25:35.679 --> 00:25:37.389 align:start position:0%
+humano Você viu como ele ficou a
+qualidade<00:25:36.080><c> que</c><00:25:36.279><c> ele</c><00:25:36.440><c> ficou</c><00:25:36.679><c> é</c><00:25:36.799><c> absurdo</c><00:25:37.279><c> é</c>
+
+00:25:37.389 --> 00:25:37.399 align:start position:0%
+qualidade que ele ficou é absurdo é
+ 
+
+00:25:37.399 --> 00:25:38.789 align:start position:0%
+qualidade que ele ficou é absurdo é
+absurdo
+
+00:25:38.789 --> 00:25:38.799 align:start position:0%
+absurdo
+ 
+
+00:25:38.799 --> 00:25:41.110 align:start position:0%
+absurdo
+entenderam<00:25:39.799><c> Então</c><00:25:40.120><c> é</c><00:25:40.240><c> isso</c><00:25:40.440><c> esse</c><00:25:40.679><c> é</c><00:25:40.760><c> o</c><00:25:40.880><c> vídeo</c>
+
+00:25:41.110 --> 00:25:41.120 align:start position:0%
+entenderam Então é isso esse é o vídeo
+ 
+
+00:25:41.120 --> 00:25:45.520 align:start position:0%
+entenderam Então é isso esse é o vídeo
+de<00:25:41.200><c> hoje</c><00:25:41.559><c> Falou</c><00:25:42.120><c> seus</c><00:25:42.520><c> cachorros</c>
+

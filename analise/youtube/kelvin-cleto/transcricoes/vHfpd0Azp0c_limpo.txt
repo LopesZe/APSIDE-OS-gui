@@ -1,0 +1,1621 @@
+Chega de nichos convencionais. A gente
+veio parar dentro de uma indústria
+extrusora que fatura mais de 90 milhões,
+produzido perfis de alumínio e hoje nós
+vamos mostrar para você como a
+inteligência artificial pode impactar
+esse setor. Será que aqui tem
+oportunidade?
+&gt;&gt; Todo dia a gente perde o pedido.
+&gt;&gt; Então isso é o desafio gigante aí que
+tem e eu vejo muito dinheiro indo pelo
+ralo.
+&gt;&gt; Meu que tá tudo trabalhando encarregado
+da da expedição tá ali, ó. Hum. Quando
+você põe no bolo ali, você fala: "Cara,
+é milhões por ano que você perde".
+Então, nesse vídeo aqui, eu tenho
+algumas horas com o meu time para
+entender como esse negócio todo funciona
+e descobrir aonde ele tá perdendo
+dinheiro e onde ela pode ganhar mais e
+onde a inteligência artificial realmente
+entra nessa história toda. Só que tem um
+pequeno problema.
+&gt;&gt; Eu não entendo nada de indústria, [&nbsp;__&nbsp;]
+alumínio.
+&gt;&gt; Então eu vou começar do zero, da
+matériapra, até onde o dinheiro ele
+entra no caixa, só que com uma ajuda.
+&gt;&gt; Ivan, sou engenheiro civil. Formado aí
+pelo Mackenzie, eh, cuido aqui da
+indústria, diretor de operações,
+&gt;&gt; hein?
+&gt;&gt; Opa, vai dar briga. [risadas] Além dele
+ser o diretor operacional, ele também
+entende muito de inteligência artificial
+e já até criou seu próprio sistema
+operacional que está em produção nessa
+indústria. Então, para você que tá aqui
+querendo empreender, escalar tua
+operação, entender como inteligência
+artificial realmente gera resultado na
+ponta, fica comigo até o final porque
+vai ser uma explosão de conhecimento.
+&gt;&gt; Beleza,
+&gt;&gt; bom demais. Prazer, mano. [risadas]
+&gt;&gt; Meu, viam conversando daqui a pouco,
+[&nbsp;__&nbsp;] tem que fazer retorno lá na
+frente. [risadas]
+&gt;&gt; Você mandou uma foto, caraca, no
+aeroporto.
+&gt;&gt; Meu Deus do céu, cara. Galera, esse aqui
+é o Ivan, ó. Deixa eu passar o microfone
+para você. Ivan, que é você? Se
+apresenta aí pra galera.
+&gt;&gt; Ivan, sou engenheiro civil formado aí
+pelo Macken. É, cuido aqui da indústria,
+né? Sou gerente da indústria, diretor de
+operações. Hein?
+&gt;&gt; Opa, vai dar briga. [risadas]
+Sábado agora vai rolar o workshop Grow
+System. Vai ser um workshop prático.
+Então, se você é empreendedor, se você é
+empresário, se você quer escalar com
+inteligência artificial, eu quero você
+lá. Vai ser sábado às 13 horas até às
+17:30. Então lá você vai entender como
+pesquisar nicho, entender mercado,
+entendedores, fazer mapeamento de
+processo, construir a sua infraestrutura
+de crescimento com inteligência
+artificial para você poder fechar
+contrato de 20, 30, 40, 50.000 de
+implantação mais recorrência. Então, se
+você quer empreender, você tem que estar
+lá comigo. Se você quer escalar sua
+operação, você tem que estar lá comigo.
+Se você quer gerar resultado real com
+inteligência artificial, você tem que
+estar lá comigo. Chega de curso, bora
+aplicar na prática. Clica aqui agora no
+link que tá aqui na descrição desse
+vídeo e compre já o teu ingresso porque
+custa somente R$ 67. Eu acho que é isso,
+tá? Se tiver errado, tá tudo bem, compra
+do mesmo jeito. Vamos que vamos. Agora
+bora continuar no vídeo.
+&gt;&gt; É por fora.
+&gt;&gt; Ó o você é o especialista. Eu não
+entendo nada de indústria. Então,
+principalmente numa indústria, como que
+é o nome? Não é extrator que faz
+extrusão. Então, cada tipo é um perfil.
+Então, cada um desses, cada tipo disso
+aqui é um item. Você faz isso aqui é o
+perfil quadrado. Para fazer cada um, eu
+tenho um molde, vamos falar assim, é uma
+ferramental.
+&gt;&gt; Caraca. Então são 1000 produtos, 1000
+moldes. A gente vai ver,
+&gt;&gt; vamos ver. Vamos ver o produto. Hoje é
+igual criança. [risadas]
+&gt;&gt; É entender a cadeia de valor. Então
+tipo, pô, às vezes o pessoal olha, pô,
+isso aqui tem casa, né? Mas não é vocês
+que vendem para casa direto. Vocês têm
+toda, qual que é o próximo passo? Qual
+que o seu primeiro cliente?
+&gt;&gt; É, meu primeiro cliente é a revenda pra
+marcenaria ou pra salirieria. Então são
+grandes distribuidores, tipo você, vamos
+supor, vamos pegar a cadeia ao
+contrário, você é o você é o quero
+construir, quero fazer um armário, você
+vai chamar uma arquiteta ou um
+marcineiro direto, dependendo do nível
+da pessoa. O marcineiro vem lá, faz o
+desenho e faz no modelo, ó, tem esses
+perfis aqui, ó, quero esse aqui. Ele vai
+chegar, vai numa loja que compra meu
+produto, vai comprar madeira, tá e o
+perfil de alumínio, vai montar e está lá
+na sua casa. Então assim, o nosso
+público alvo é você no final, mas o
+primeiro cliente é a revenda de é as
+revendas. Aí falando em em serralheria,
+janela. Ah, quero, tô fazendo uma aula,
+quero fazer a janela da minha casa. Você
+vai contratar um serraleiro. Esse
+serraleiro vai numa empresa, uma revenda
+de serralheria, comprar os perfis, que
+nem uma janela normal, ela vai quase 20
+itens. Então você vai comprar aqueles 20
+itens e montar e instalar na sua casa,
+entendeu?
+&gt;&gt; Perfeito. E e como que vocês fazem para
+É um produto commodity, né? Então como
+vocês fazem para diferenciar isso lá na
+ponta? Cara, isso é uma, é o que eu tava
+comentando com com o Kelvin, a gente tem
+hoje uma dificuldade de marketing na
+ponta, empresa para você concorrer com
+um serraleiro que é um um cara ali que
+tem uma portinha, tal, um custo fixo, às
+vezes não tem recolhimento de imposto,
+né? Então assim, isso é é uma briga que
+eu falo, cara, precisa mostrar mais
+valor, precisa estar em outro lugar,
+precisa estar na indústria. A gente
+percebe assim que eu tenho clientes que
+eu vamos falar em quilo, né? O alumínio
+é vendido em quilo. É, embora é uma
+briga que eu tenho porque assim, ele é
+vendido em quilo, mas como eu vou fazer
+ele e tem vários fatores que que
+influenciam, não só o que, né? Então,
+eh, você vai, que eu tava falando,
+esqueci da do seu diferenciação
+diferencial na ponta. Então, assim, a
+gente tem clientes hoje, né, que eu eu
+vendo o quilo a R$ 50 e tem clientes que
+eu vendo a 28. [&nbsp;__&nbsp;] onde tá esses cara
+de 50 pau? Ah, vou dar um exemplo. Por
+que que esse cara é 50 pau? Porque ele
+faz cancela de de apartamento que tem
+aqueles LED e tal. Então, no produto
+dele, o alumínio é um finzinho, porque
+ele tem a elétrica, ele tem eletrônica,
+tal. Ele quer ter o quê? Ele quer ter
+atendimento, né? Ele quer ter qualidade
+e na hora que ele precisar tem um cara
+ali para ele não perder o produto dele.
+Então, na composição do custo dele, o
+meu produto é 5%, agora quando eu vou
+vender pr pra revenda de de caleria é
+100%, porque ele pega o meu perfil,
+vende aqui. Então, se eu se eu ganhar R$
+1 aqui, se ele me apertar, apertar,
+apertar e ganhar R$ 1. Então assim, é
+achar alguns nichos primeiro, né? Achar
+alguns nichos que usa alumínio e não é o
+principal, principal item, que você
+consegue ter uma margem maior. Eu
+preciso ter uma margem maior. Grande
+ponto é que
+&gt;&gt; se fugir muito foge do cor da empresa
+&gt;&gt; total. E aí quando fal guard da empresa,
+a empresa foi feito todo o processo dela
+para entregar para uma cadeia de valor.
+Para ela entregar outra, ela tem que
+fazer o papel desse desse desse meio
+aqui
+&gt;&gt; que perde margem. É,
+&gt;&gt; então tem que tomar muito cuidado na
+hora de expandir portfólio.
+&gt;&gt; E um outro ponto que você, pelo que eu
+entendi, olha que interessante isso
+aqui, a indústria também precisa de
+marketing, pô, total. Então não é só
+pegar lá três, quatro clientes que vai
+comprar praticamente o volume ter de
+produção. Você precisa criar esse essa
+autoridade, esse posicionamento para que
+a venda aconteça, seja venda aconteça,
+seja com revenda, seja com distribuidor
+ou distribuidor, seja com representante
+de venda.
+&gt;&gt; É o que a gente tava falando, né? Porque
+se na ponta o cliente ele opta pelo
+produto do Ivan, ele vai obrigar a
+distribuidora. Deixa eu apresentar
+Marcelino, deixa eu apresentar. Marcelin
+é o diretor da empresa, sócio fundador.
+Ô Marcelino, prazer, Kelvin. Tudo bem?
+Como que você tá?
+&gt;&gt; Beleza.
+&gt;&gt; Prazer. Beleza.
+&gt;&gt; A gente veio admirar aqui,
+&gt;&gt; admirar a [risadas] empresa
+&gt;&gt; também e conhecer o processo.
+&gt;&gt; É, Marcelino, trabalhou com alumínio há
+quantos anos já, Marcelo?
+&gt;&gt; É, eu comecei mesmo alumínio em 1980.
+&gt;&gt; Você é um dos fundadores
+&gt;&gt; da empresa aqui?
+&gt;&gt; Sim, sim.
+&gt;&gt; 1980?
+&gt;&gt; Não, nós começamos em 80 eu trabalhei na
+CBA.
+&gt;&gt; Ah, na CBA.
+&gt;&gt; Lembras da Legal.
+&gt;&gt; De 80 a 89. Aí de 89 a 98 eu trabalhei
+no grupo Tamboré.
+&gt;&gt; Caramba, que legal.
+&gt;&gt; Depois montamos aqui em 98, né?
+&gt;&gt; 98 anos.
+&gt;&gt; 28 anos. Incrível. Parabéns. Agora que a
+gente bateu esse papo e fomos
+introduzidos a esse mundo da indústria,
+a gente vai conhecer a operação. A ideia
+aqui é entender [música] todos os
+processos o mais detalhado possível, até
+para que a gente consiga ter noção desde
+a etapa de produção até a etapa da
+venda. Então, se você quer empreender
+com inteligência artificial e fechar
+contratos de 20, 30, 40, R$ 50.000, você
+tem que conhecer a Acelera 360. Nós
+somos o maior ecossistema de i do Brasil
+voltada para negócios. O link tá aqui na
+descrição desse vídeo. Clica lá agora e
+se aplica.
+&gt;&gt; Então aqui é o começo. Aqui se prepara a
+ferramenta que nem vem a programação pro
+Dinho que é o nosso cor ferramenteiro.
+Ele vê os itens, prepara a ferramenta e
+manda pra prensa. Legal.
+&gt;&gt; Então aqui você que prepara isso
+ferramenteira é o cara que prepara a
+ferramenta e corrige.
+Tá corrigindo. Provavelmente.
+&gt;&gt; Essa é a nossa matéria prima.
+&gt;&gt; Esse é o taruco.
+&gt;&gt; Esse é o tarugo. É matéria prima. [&nbsp;__&nbsp;]
+Isso vem de fora,
+&gt;&gt; tá?
+&gt;&gt; Tá. Vem de fora.
+&gt;&gt; De fora você diz importado. É,
+&gt;&gt; não, não tem de fora, mas vem de de
+outra empresa. É, vem da CBA.
+&gt;&gt; Ah, beleza. Aqui vem da CBA.
+&gt;&gt; Então, o Taruco tá aí dentro com com
+fogo,
+&gt;&gt; né? Aí ele vai sair nessa boca aqui.
+&gt;&gt; Aqui, ó.
+É a temperatura que ele tá, 440, 437.
+São quatro zonas, tá? Onde tá vendo
+esses espetinhos que vai e volta aqui,
+ó? Ó, ele tá medindo a temperatura. Só
+não vai entrar na frente aí, meu.
+Vai morrer aqui, [&nbsp;__&nbsp;]
+Nossa, vem.
+&gt;&gt; Caraca, cara. Aqui ele tá com 440.
+&gt;&gt; Caraca, que loucura.
+&gt;&gt; Quer ver? Ela vai esticar aqui, ó.
+Agora, ó.
+É as duas. É duas. Ah, ela que deixa.
+Ah, essa essa cara,
+&gt;&gt; ó. É isso aqui. É o quê? Tem duas peg
+lá. Pega aqui, pega e faz isso, ó.
+Entendi. E essa que saiu dobrada aqui é
+o quê? Essa aqui é a ponta, tá? Quando
+sai, ela sai assim. Aí é perda, né?
+Perda. Isso aqui é perda. Perda.
+Processo redondinho da da extrusão. Você
+vai ter 14% de perda.
+&gt;&gt; Real. Redondinho.
+&gt;&gt; Médio. Vai. Você pode melhorar um pouco.
+Aqui é quanto mais ou menos? Ó, cuidado
+aí, tá, Erquisão. Ah, aqui é 18. 18.
+Isso por conta da máquina ou por conta
+dos processos?
+&gt;&gt; Ó, tem processo, acho que a gente
+consegue ganhar um pouco e a gente
+trabalha com perfis, espessura fina,
+então ele é amassa fácil, ele tem uma
+dificuldade maior. Entendi.
+Da hora. Você viu o que eu falei de
+ciclo morto? É essa essa entre
+&gt;&gt; esse tempo dela vir lá até e começar a
+estudar de novo.
+&gt;&gt; Entendi.
+&gt;&gt; E são pequenos segundos você começa
+&gt;&gt; e aí faz o taru lingote. O lingote é o
+quê? É igual ele, só que o tijolinho,
+&gt;&gt; que é matériapra. Então ele ele consegue
+misturar com sucata e outros componentes
+para fazer o tarugo.
+&gt;&gt; E esse é o tarugo mesmo. Esse aqui
+&gt;&gt; é o tarugo. Normalmente ele vai ter 98%
+de alumínio. Aí você tem outros metais,
+né? Maganês, cilício, magnésio, ferro,
+mas tudo com posição pequena.
+&gt;&gt; Agora, agora a gente tem uma nova
+palavra. Falem, [&nbsp;__&nbsp;] ó o tarugão do
+problema. Agora assim o problema for
+menor fó lingote. [risadas]
+&gt;&gt; Lingga
+aprendendo. Mega aprendendo.
+[&nbsp;__&nbsp;] loucura.
+Voltou com duas válvulas animal.
+&gt;&gt; Ó o sistema que eu tenho. Desculpa. Esse
+é o sisteminha que eu tenho. É,
+&gt;&gt; esse aqui é o sistema. É o sistema.
+&gt;&gt; Esse aqui é aquele sistema que foi
+desenvolvido. É, é, é ois.
+&gt;&gt; Tá.
+&gt;&gt; Então aqui você tem os produtos e é o
+que ela tá passando agora, ó. Amarelo.
+&gt;&gt; Isso aqui é pedido que já teve.
+&gt;&gt; É pedido que já tem. Aqui, ó. Se eu
+entrar, vamos supor aqui, ó. É esse cara
+aqui, certo? Pedido tal da cliente
+portal da quantidade de barra. Entendeu?
+&gt;&gt; Então, esse aqui é o nosso sistema que
+acompanha. Não tem estoque aqui?
+Tem um pouquinho, tem um pouquinho, mas
+pouco, mais na linha mobeleira. Legal.
+&gt;&gt; Então azul é que tá finalizou, amarelo
+que tá em processo para finalizar e
+verde é o que tá rodando, que é o que a
+gente viu, 47 L.
+&gt;&gt; Entre o pedido e a produção é quanto
+tempo?
+&gt;&gt; Ah, é que eu tenho uma pila, né? Mas
+hoje meu meu tempo tá mais ou menos uns
+14 dias
+&gt;&gt; entre o pedido, o cara colocar o pedido
+e a gente produzir e entregar 14 dias.
+&gt;&gt; E aí o frete é um terceiro.
+&gt;&gt; O frete depende. A gente normalmente na
+linha mobileleira eu levo até a
+transportadora, da transportadora vai
+pro Brasil, tá? grandes clientes que nem
+eu tenho cliente no Rio, eu levo até
+ele. Outros buscar
+&gt;&gt; camião próprio,
+&gt;&gt; camião próprio, prão próprio. A gente
+tem quatro caminões. Caraca. Legal.
+&gt;&gt; Então aqui, ó, aqui me aponta a
+produção, o kiro ona a eficiência. Então
+é vai me dando toda a informação, tá
+aqui. E disso aqui eu queria um
+dashboard, né?
+Olha aí a Olha aí a aqui, ó.
+Aqui eu criei um dashboard que traz toda
+essa informação, mas faz traz bonitinho.
+Ó, eu fiz um galídio aqui que eu tô
+testando
+[risadas]
+&gt;&gt; aqui, ó. Tipo, olá, eu sou alumínia.
+&gt;&gt; Car, a inteligência da crista. Não,
+deixa eu filmar, fazer até uma história.
+Isso aqui
+&gt;&gt; toma cuidado aqui, ó.
+Aonde que entra iá? Numa indústria, numa
+fábrica de extrusão. Olha aqui, ó. Aqui,
+ó. É, é o meu
+&gt;&gt; na mão do diretor da operação. E aí, eu
+criei uma Iá aqui, ó. Bravo
+&gt;&gt; que eu tenho. Quais são meus principais
+10 lentes em setembro?
+&gt;&gt; E isso aqui tá consumindo do AIS, que é
+o ERP deles de produção. Aqui eu tenho
+minha carteira,
+&gt;&gt; é, eu tenho o pedido que tá faturado,
+meu prazo estimado em 10 dias,
+&gt;&gt; os clientes aqui, os itens,
+eu tenho o meu DRE aqui, o meu fluxo de
+caixa,
+&gt;&gt; Dale,
+&gt;&gt; minhas vendas. Ah, que interessante que
+esse aqui é um pouco Mas eu tenho
+desempenho comercial por
+&gt;&gt; Mas você contratou alguém para fazer?
+Não, eu fiz sozinho.
+Cara, meu. Então toma.
+[&nbsp;__&nbsp;] cara. Aí eu consigo ver tipo
+vem da Gico
+margem desse cara é meu representante.
+Ele tem 15%. O outro MAPR que é outro
+13% dos pedidos.
+&gt;&gt; Essa é a sua margem.
+&gt;&gt; Essa é até a minha margem
+&gt;&gt; bruta. Tecnologia e processo aplicado
+com inteligência artificial.
+&gt;&gt; Esse é o jogo.
+&gt;&gt; É por isso que a Kistra é parceira da
+Celera. Por isso que o Ivan tá
+transformando aqui a SP alumínio cada
+vez mais o processo melhorando. Ele tá
+com I na aveia, Iar na ponta
+&gt;&gt; todo dia.
+&gt;&gt; Na ponta todo dia.
+&gt;&gt; Todo dia até 2 da manhã.
+&gt;&gt; Se você quer fazer dinheiro com
+conhecer a Celera 360. Nós somos o maior
+ecossistema de IA voltado para negócios
+do Brasil. O foco lá na Celera é
+simples. Como que você faz dinheiro com
+IA? Então, se você quer conhecer a
+Celera, clica no link que tá aqui na
+descrição desse vídeo e bora, vamos
+empreender. Estamos no melhor momento
+possível para isso. Essa é a era da IA,
+essa é a nova economia. Bora, clica aqui
+no link. Não, se você é engenheiro e se
+você é diretor de operação e não
+trabalha com IA ainda, você tá perdendo,
+meu. Você tá por fora. Ó, se você é da
+indústria, tem um link aqui na descrição
+desse vídeo da Kistra, você entrar em
+contato diretamente com o Ivan, você
+conhecer mais o trabalho da consultoria
+dele e principalmente de toda a
+infraestrutura de IA que ele criou no
+setor industrial. Bora, fica aí. Aqui,
+ó, procedimento. Dentro desse aqui, eu
+criei o portal do procedimento. Então,
+ten os procedimentos dentro daquele
+portal, eu criei esse portal de
+procedimento. Então, tenho aqui, ó,
+extrusão, tem o meu SOP que tá aqui, ó.
+Se perfil que eu produzo mais,
+teoricamente eu vou ter maior margem,
+porque eu produzir mais e
+&gt;&gt; isso que a indústria não vê,
+&gt;&gt; entendeu? Ele pega e vende tudo por
+quilo.
+&gt;&gt; Mas, cara, tem perfil que eu demoro, eu
+faço 600, não é por quilo. Você pode até
+vender, mas tem que se conhecer esses
+preços para saber onde eu v, entendeu?
+Você pode saber que, ah, cara, eu não
+vou fazer esse perfil porque eu tô
+tomando prejuízo,
+&gt;&gt; entendeu? Porque
+&gt;&gt; isso vocês olham hoje?
+&gt;&gt; Olham. Hoje eu tenho aqui no meu sistema
+eu tenho a ferramenta mais produtiva,
+menos produtiva. Então, olha, olha que
+interessante. Deixa eu desenvolver isso
+daqui porque eu achei muito legal esse
+sistema.
+Hoje você não usou a IA na operação,
+porque aqui não faz sentido usar IA.
+Você usou a IA na gestão e na estratégia
+do negócio, que é, pô, que perfil faz ou
+não sentido, que cliente está me dando
+mais ou menos margem, aonde eu tenho que
+potencializar ou não, quais são os
+gargalos. Logicamente esse sistema é
+muito maior que isso, a gente já
+discutiu, mas nesse ponto esse perfil
+vale ou não a pena? Tá tudo sendo
+computado. Tá sendo computado e aí
+consigo ver pelo cliente porque você no
+seu sistema mesmo
+&gt;&gt; não, esses é o RP.
+&gt;&gt; Esse aqui eu fiz o Kistra SAS Kistra
+Kistra Kistro S. Que vamos dar esse nome
+aí. Vamos dar
+&gt;&gt; é o OS. O S tá na moda. Trabalha aqui no
+setor de beneficiamento. Tevei aqui de
+curioso aqui. Deixa eu sa [risadas]
+o Marcão cuida do par de beneficiamento.
+Então como eu expliquei, sai do forno,
+vem para ele, passa da fábrica pro setor
+de beneficiamento. Aí ele recebe, faz o
+destrinchamento aí, né, Marão?
+&gt;&gt; Aí você que pedindo tal do cliente tal,
+você como que é? Natural,
+&gt;&gt; natural, anotizado e posto. Pintura
+&gt;&gt; e pintura. São três setores. V. Você que
+distribui,
+&gt;&gt; é, distribui por acabamento, é cliente,
+tudo separado.
+&gt;&gt; Você tem a fichinha para mostrar para
+ele como sai para você a informação?
+&gt;&gt; É papel, tá gente? Eu tô tentando tirar
+papel, mas é ainda é papel.
+&gt;&gt; Legal.
+&gt;&gt; Mas legal, é organizado.
+&gt;&gt; Eu tava falando pro pro Passou pr pro
+próximo.
+&gt;&gt; Depois depois retorna para cá e
+&gt;&gt; depois retorna para cá. Nós embalamos
+para cada cliente separadamente para
+depois ir pra parte de expedição.
+&gt;&gt; Entendi. Entendi.
+&gt;&gt; É, no setor moveleiro, como a gente
+atende, tem um detalhe, né? A gente
+manda pras filiais, pras lojas vender
+tor na prateleira. Então ele é embalado
+um a um, que nem esse perfil aqui, ó,
+que tá sendo embalado um a um.
+&gt;&gt; Ah, agora eu entendi o setor beneiro
+como que ele é. Eu tava pensando, eu
+achei que, tipo, falei, será que vocês
+fazem alguma coisa, já deixa pré pronto
+algum material? Tipo, deixa o pré-pronto
+puxador, alguma coisa?
+&gt;&gt; É, tem um setor que a gente deixa pré
+pronto que a gente atende indústria de
+móveis.
+&gt;&gt; Casas Bahia, por exemplo, o cara compra
+o móvel, dentro vai um kitzinho de
+puxador, ele mesmo instala.
+&gt;&gt; Isso aqui você sai, sai pronto isso
+daqui,
+&gt;&gt; sai para uma, sai pronto o puxador,
+&gt;&gt; Aí quem compra não é casa Bahia, é um
+cara que fornece m para casa Bahia.
+Entendi. Caraca, que legal. É pelo
+mesmo. Só que vende na internet.
+&gt;&gt; Isso, cara. Vende. Esse eu já falei,
+Marcelinho, era um campo que a gente
+podia. Esse é um campo que eu atuaria.
+Absurdo.
+&gt;&gt; Porque você não marca?
+&gt;&gt; É. Tá pronto. Tá pronto. Tá pronto. Só
+&gt;&gt; só distribuição.
+&gt;&gt; Só só distribuição.
+&gt;&gt; E distribuição já tenho. Não dá para
+levar pro cliente. Mas
+&gt;&gt; esse produto aqui, isso aqui vem pr
+[&nbsp;__&nbsp;]
+&gt;&gt; Puxador, cara. Entra lá depois do
+Mercado Livre, você coloca puxador para
+alumínio. Isso aqui é absurdo. Isso
+&gt;&gt; é o quê?
+&gt;&gt; Aqui se cai e morre, velho. Ele já era.
+Isso aqui é o banho químico, galera. Ó,
+ele já deu um primeiro fosqueamento. Tá
+vendo que ele já mudou de cor?
+&gt;&gt; Já não tava aquele aspecto brilhoso.
+&gt;&gt; Brilhoso. Caraca, real.
+&gt;&gt; Ela fica por muito tempo mergulhando
+ali.
+&gt;&gt; Ali não. O o o banho aqui é 4 a 5
+minutos. Esse aqui. Entendi. Ah, e ele
+vem migrando
+&gt;&gt; cuidado que tá meio estourado aqui, tá?
+&gt;&gt; E ela vem migrando no meio
+&gt;&gt; Então aqui é o quê o processo é o quê?
+Primeiro banho tira os engrache para
+tirar sujeira e tudo mais.
+&gt;&gt; Aham.
+&gt;&gt; 14 dias que a gente viu lá, né? Vamos
+ver aqui direto [risadas] lá, ó.
+&gt;&gt; Pera aí, deixa real.
+&gt;&gt; Eu vou deixa eu abrir aqui, ó. O
+&gt;&gt; tem aqui carregando a carteira PCP.
+&gt;&gt; Ó, Ivan tá mostrando agora o tempo de
+produção desde o momento que chegou. Ó,
+carteira total.
+&gt;&gt; E eu tenho de timado 10.5 dias.
+&gt;&gt; Que isso?
+&gt;&gt; E aqui você consegue ver se tá e
+otimizando, se tá ficando para baixo.
+Legal.
+&gt;&gt; Ó, aqui o Ivan que desenvolveu essa
+ferramenta, hein?
+&gt;&gt; Toda. Eu tenho todo ele. Eu praticamente
+vendas aqui, ó. Quanto que eu vendi no
+mês, no no comparativo tracionar seu
+trabalho. Então, assim, ela ajuda você
+ganhar. Se você manja, pô, você faz uma
+análise de um DRE hoje, antigamente,
+isso é um dado legal. Eu fazia, eu faz
+dois anos que eu faço o DRE, o
+fechamento DRE gerencial.
+&gt;&gt; Uhum.
+&gt;&gt; Antigamente eu levava, sinceramente, uns
+dois dias que eu pegava e jogava para
+cá. Hoje eu fiz uma um uma formuleta lá
+&gt;&gt; rapidinho,
+&gt;&gt; rapidinho, aí eu só valido. Então o
+tempo que eu tinha de dois dias para
+desenvolver, às vezes 2 minutos para
+validar, hoje eu desenvolvo 2 minutos e
+valido.
+&gt;&gt; Você estima esse ganho em quanto? Em
+dinheiro. Esse ganho de tempo. Eu
+&gt;&gt; eu acho em tempo, ó. Se você pensar
+antes eu levavaente assim no mínimo em
+horas, em horas umas 12 horas. Eu acho
+que o maior ganho não é isso, é você ter
+o número da empresa, porque esse é o
+menor, o o tempo que eu economizei, o
+maior é você, cara, aqui eu tô perdendo
+aqui é análise,
+&gt;&gt; então na verdade é é você ver o número,
+&gt;&gt; Ver o número. É você ver o número e
+tomar de decisão com número baseado,
+&gt;&gt; Porque hoje e a gente também fazia isso
+e muit às vezes ainda faz a gente toma
+decisão muitas vezes no escuro.
+&gt;&gt; Sim,
+&gt;&gt; né? Então a gente não sabe se tá
+ganhando, se tá perdendo, com o dado e
+você tratando o dado, você pra tô
+ganhando R$ 20 esse cliente.
+&gt;&gt; Então, tipo assim, você afirmaria que
+antes a sua operação era cega e agora
+você tem uma operação com
+&gt;&gt; ela tinha o feeling ali, consegue
+sentir, mas você não conseguia afirmar
+que nem ó, esse ele já tá na versão 22,
+ou seja, é a 22ª ferramenta que a gente
+comprou.
+&gt;&gt; Caramba, car,
+&gt;&gt; é um produto que sai muito, ela vai
+durar uma 30 tonelada cada ferramenta,
+mais ou menos
+&gt;&gt; tem uma variação, mas desse perfil mais
+ou menos uma 30. Você pega um perfil
+mais fino, ele força. É, você pega um
+perfil mais fino, ele sofre mais, aí ele
+dura menos. Mas essa aqui vai durar umas
+30 toneladas.
+&gt;&gt; Então quanto maior o a grossura, né, a
+densidade da da ferramenta, mais mais a
+vida útil.
+&gt;&gt; Mais vida útil. Aí é o que eu falo, tá
+falando pro Kelvin, o na indústria, o
+pessoal costuma às vezes padronizar num
+preço de quilo. Aqui no exemplo, é
+quanto tá o quil alumínio? Mas se você
+tem uma ferramenta mais grossa, você vai
+produzir mais. Você não compro
+&gt;&gt; crédito para você lá.
+&gt;&gt; É, eu pago, vamos supor, vamos supor que
+o tarugo hoje custa R$ 1,50. Eu mando a
+sucata e ele só vai me cobrar três e
+pouco. Legal. Então eu só pago a
+diferença. Mas é custo, né? Porque eu tô
+pagando para eu deixei de produzir e tô
+pagando para fazer a refusão e pagar
+para produzir de novo.
+&gt;&gt; Então o ideal é que a precisão fosse
+melhor.
+&gt;&gt; O ideal é que fosse perda zero. Mas no
+mercado da extrusão, tava falando com o
+K ali, uma uma exência boa é na faixa
+[roncando] de 84, 85%. 86, né? A gente
+tá com 88, tá acima?
+Aí, ó,
+&gt;&gt; tem alguns fatores.
+&gt;&gt; O Ivan, ele construiu basicamente o
+sistema operacional que roda essa
+operação aqui hoje. Então, agora nessa
+segundo nesse segundo momento aqui, eu
+quero entender um pouco mais sobre isso,
+Ivan. Então, pô, vamos discutir como que
+você está transformando a SP Alumínio,
+que é uma empresa familiar, que gente, a
+gente tá falando uma empresa familiar de
+28 anos e o Ivan entra com essa cabeça
+de inovação para transformar essa
+empresa aqui e escalar ela num num
+mercado que é extremamente comoditizado.
+Não tem o que fazer. pelo é venda por
+quilo. Resumido é isso. Então, cara,
+como que você cria diferencial se todo
+mundo vende por quilo,
+&gt;&gt; entende? Então, pô, o diferencial tá
+onde? tá? Em você, como você falou muito
+bem lá embaixo, em você ter a medição
+correta de cada custo, de cada ponta da
+operação para você proteger sua margem e
+também depois estrutura de marketing, de
+de autoridade da empresa, estrutura de
+funil comercial, se vai vender na ponta
+direto, se vai aumentar a base de
+representante, que aí a gente vai
+discutir muito. O homem ali vai puxar
+bastante esse assunto aqui. Então agora
+me conta um pouco. Vamos lá. Fala, fala
+mais aí.
+&gt;&gt; É, a gente começou esse desenvolvimento
+já tem praticamente 3 anos, né? começou
+primeiro a estruturar os números da
+empresa. Tinha tinha tudo no sistema,
+mas tudo desorganizado. Então, a
+engenharia de dados foi a primeira coisa
+a ser feita.
+&gt;&gt; Legal,
+&gt;&gt; né? Então, pô, vamos renomear as os
+centros de custos, né? Para que isso
+conseguisse chegar, porque você tem lá,
+se você não tem o o os custos dentro de
+cada setor, você não consegue, você
+organiza nada, né? E aí a gente começou
+a primeiros padronizamos as entradas, os
+lançamentos no sistema, um trabalho de
+conscientização do pessoal. foi assim,
+cara, lançar vai lançar nota, não é
+lançar de qualquer jeito, você tem que
+lançar no centro de curso correto. E aí
+começou a ter os dados. E aí a gente fez
+a implantação do sistema puxando. A
+gente tem um RP e aí eu fiz um um
+sistema OS que puxa essas informações do
+sistema e começa a trazer números, né?
+Aí você começa a tomar a decisão
+correta. Eu tava falando para vocês lá,
+eu tenho 1000 perfis, 1000 produtos, né?
+Nem todos é o mesmo custo, mas o preço
+por ti é o mesmo na venda. Pô, não posso
+assim, eu posso até vender porque porque
+o mercado [risadas] trabalha assim, é
+difícil ser você pequeno querer mudar
+essa estrutura de mercado, mas eu
+preciso estudar para ver se esse preço
+tá compatível. Então a gente começou com
+a com a estrutura de a grande ganho. É
+isso. Eu consigo medir quanto custa cada
+item.
+&gt;&gt; Então hoje você tem a sua operação na
+mão.
+&gt;&gt; Tenho totalmente na mão.
+&gt;&gt; Você não é técnico.
+&gt;&gt; Não sou técnico.
+&gt;&gt; E mesmo assim você pegou o teu
+conhecimento e transformou isso num
+produto.
+&gt;&gt; Conhecimento, né? com o meu
+conhecimento. Ah, aqui assim, como como
+compõe o custo? E falei pra máquina que
+é assim que que é assim que eu quero
+trabalho.
+&gt;&gt; Ah, então e então é isso que eu acho
+maravilhoso. Você você pega o seu a sua
+sabedoria, aquilo que você entende para
+caramba da operação, afinal você tá
+quantos anos aqui mesmo?
+&gt;&gt; 14 anos.
+&gt;&gt; 14 anos da indústria. E pegou aí, a e
+pô, agora transforma isso, isso, esse
+jeito, essa informação que eu sei em uma
+solução e centralizou mesmo. É, ó, você
+vai fazer isso, isso, você vai pegar
+esse valor, é isso, vai compor esses
+custos, né? né? Então a gente consegue
+ter por produto eh quanto custa
+realmente, né? Porque eu dar um exemplo
+aqui, um produto que me me produtividade
+de 1000 kg hh e um outro de 600 kgh,
+eles não estão no meio de custo para
+mim. Um tá me tomando, um tá em uma hora
+produto 600 kg, o outro faz 1000 kg.
+Então eu não posso considerar o mesmo
+valor, eu tenho que estar olhando
+diferente, né? Isso a eh acende uma luz
+vermelha aqui abaixo de abaixo do custo,
+acima do custo, né? Eu tenho aqui
+acompanho o tempo de parada de máquina,
+né? Quais são meus principais problemas?
+Ah, o maior problema é elétrica. Mas o
+que de elétrica? Ah, é o painel
+elétrico. Pô, então vamos fazer uma ação
+corretiva, né, para diminuir, para ter
+um OE maior, né? Então assim, eh, hoje
+você as ações são tomadas cirúrgicas,
+né? Não é no chute,
+&gt;&gt; você tem operação na mão.
+&gt;&gt; Você tem operação na mão.
+&gt;&gt; Então, acho que o que é mais legal hoje
+em dia, né, é que tinha, né, é que tinha
+antes da IA a gente conseguia puxar os
+dados. Hoje, uma coisa que o Ivan me
+mostrou que eu achei legal, acho que um
+dos dos principais pontos foi a gente
+entender a planta. A gente tava
+basicamente navegando em cima de um
+fluxograma, igual o filme do McDonald's
+que ele desenha no chão. B até o falei:
+"Cara, será que os cara tem fluxograma?"
+Falei: "Cara, para desenhar ali, o eu e
+o Matous conversando para desenhar isso
+aqui." Basicamente eles meio que
+desenharam o fluxograma. Falou: "Cara,
+vamos caminhar isso daqui como se fosse
+o fluxograma da empresa aqui da entrada
+do produto até a expedição e estoque ali
+[roncando] no final." Então a gente
+caminhou literalmente em cima do
+fluxograma da empresa. Então acho que
+isso foi muito bacana. e você enxergar
+isso na planta, enxergar isso no sistema
+para você entender onde estão as falhas,
+cara, isso é um é um golaço. Só uma
+pessoa com seu conhecimento nesse local,
+você e que quer realmente fazer
+acontecer, faz esse tipo de coisa. E uma
+coisa diferente que é que eu tava para
+eu concluir que não é só a coleta de
+dado, é o input do dado hoje.
+&gt;&gt; Então, eh, antes não dava com Power por
+BI da vida, etc. Você não conseguia
+imputar a informação, você usava só o RP
+e colocava a máscara lá. Hoje você
+consegue ter os dois de uma forma muito
+mais fácil no celular. de um jeito muito
+mais simples e que não precisa de um
+caminhão de deves para montar isso,
+&gt;&gt; Hoje, qual que é a decisão que ela é
+importante pra companhia que ainda tá
+sendo tomada no feeling aqui, que ainda
+tá que ainda não tá, porque
+operacionalmente eu entendi que tá 100%.
+&gt;&gt; Vendas é uma coisa assim, acho que
+estratégia de vendas a gente tá deixando
+a desejar. Eu falo estratégia, pô, olhar
+aqui e falar, cara, eu tenho um cliente
+que tá me dando prejuízo, compensa esse
+cara, eu tenho um cliente que me dá mais
+renda, por que que eu não não incentivo
+esse cara? Então acho que assim, a
+estratégia comercial ela é ela ainda tá
+devedora. A gente tem a informação hoje.
+Antigamente a gente será que dá hoje não
+entro aqui, eu vejo, ó, esse fulan dá
+100% de margem,
+&gt;&gt; cara. É absurdo isso.
+&gt;&gt; E eu vejo muito que o mercado de modit
+assim, ô Ivan, ele oscila muito com o
+preço do mercado.
+&gt;&gt; Sim.
+&gt;&gt; Então, quando você vai fazer um
+planejamento estratégico que você vai
+projetar a receita do ano que vem, por
+exemplo, você já vai ter tipo uma noção
+do preço do mercado quando ele vai
+oscilar. Aí vocês buscam dados de
+mercado para tentar chegar nisso e aí
+você faz essa projeção. E aí é engraçado
+que eu vejo muitos segmentos parecidos
+com esse construção que você também é,
+né? Você vê que o basicamente o ano que
+passa, tipo, pô, se o preço melhora,
+sobe o estado, se piora, o resultado
+cai, não tem jeito. Então você precisam
+de volume, né? Então se você tem volume
+e a estratégia de vendas tá bem redonda,
+você começa a ganhar no volume. Mas era
+só para eu ter certeza sobre esses
+índices do segmento. Assim,
+&gt;&gt; você comentou que você tem o seu cliente
+só, ele é distribuidora, né? Não é o
+cliente final. Você tem algum tipo
+específico desse cliente? Algum assim,
+tem algum ICP, perfil de cliente ideal
+dessa servidora?
+&gt;&gt; Cara, o assim nós temos alguns ICTs,
+vai, que nem eu falei, o ICT bom é o da
+indústria, o vai uma indústria que usa
+alumínio,
+&gt;&gt; No seu o seu pool de de produção, ela
+tem ela tem o alumínio ali. Esse é para
+mim, pelo que eu vejo, pelos números, o
+mais ideal não é muito volume. Então
+esse é o problema. Ele compra pouco, mas
+paga bem.
+&gt;&gt; Então eu teria que ter mais.
+você ganha volume. E aí eu tenho que ter
+mais clientes, por um lado poveriza, por
+outro lado eu tenho que brigar mais, né?
+E é um cara que vai dar vai querer mais
+qualidade, porque hoje o que acontece
+pelos dados da AVAL, que é a Associação
+Brasileira, a demanda tá menor que a
+demanda tá menor que a oferta, tem muito
+mais oferta, então aperta, aí fica
+aquela briga de margem, né? Então fica
+aquele sprem por 50 centavos porque o
+cara
+&gt;&gt; Mas eu achei inteligente o que você
+comentou comigo que a gente teve
+conversando sobre nichar determinadas
+opções pra gente para poder aumentar a
+margem. Você consegue comentar sobre
+essa sua estratégia? Achei isso muito
+bom.
+&gt;&gt; Eu teve eu fiz um estudo também usando,
+né, o o sistema que se eu nichar em
+determinado setor eu preciso produzir
+menos. Vamos dar um exemplo. Eu produzo
+hoje 250 tonadas por por mês. Se eu
+determino, se eu nicho num setor 200 eu
+chegado, ou seja, são 50 toneladas a
+menos, né? Então seja, cara, é esse
+nicho que eu vou vou focar mais nesse ou
+estudar o novo. Então assim, o mercado
+de instrução ele é brigado, então a
+gente tem que tá sempre buscando margem
+e preço aqui dentro, né? Nossa parte de
+estrangular, saber dos cursos, tal,
+espremer e fora oportunidades de de
+negócio, de novas oportunidades.
+&gt;&gt; Fal falando de nicho específico. Então
+no caso se você definisse e atuar só
+como nicho específico, esse seria o TCP.
+É, o [limpando a garganta] público você
+buscaria
+&gt;&gt; o público assim esse e eu a gente nasceu
+na moveleira, então tem um pouco de de
+sangue de moveleiro, né? Então assim, o
+moveleiro, se você for ver, ele ainda é
+bem mais rentável que o a construção
+civil. O veleiro é bem maisentado, ele é
+uma ele é uma um um mercado mais
+regulatório, mais regulado com relação a
+imposto, nota, né? Então ele ele ele tem
+uma melhora. Então assim, o o bobedeiro
+é um ICP interessante que poderia ser
+através da venda direta
+&gt;&gt; total. E eu já comentei isso. Se você
+entrar no Mercado Livre, colocar perfil,
+SP alumínio e tal, você vai ver o preço.
+E aí você vai ver o preço do quilo que o
+cara tá vendendo e o preço que eu vendo
+pro meu revendedor.
+&gt;&gt; É o dobro, é o triplo.
+&gt;&gt; E e essa estratégia eu acho que ela é
+acho que é o principal assim sobre aessa
+ótica inicial. Pronto, setor que eu acho
+que assim interessante que o que eu vejo
+todos os caras de revenda estão ganhando
+dinheiro e a gente tem uma revenda.
+Então esse canal poderia ser um canal
+mais bem aproveitado.
+&gt;&gt; [&nbsp;__&nbsp;] bom ponto. Isso que você falou é
+verdade. Vocês têm uma, é como se vocês
+tivessem uma revenda cativa no seguro. A
+gente chama que quando a corretora tem
+um, a seguradora tem uma própria
+corretora, é uma corretora cativa da
+seguradora. Você tem uma revenda cativa.
+&gt;&gt; Porque a gente vê assim, a gente vem pra
+revenda, [limpando a garganta] cara,
+cara 3 anos clientes nossos 4 anos, os
+cara tudo bem de líder, tudo vendendo
+bem, comprando para caramba. E a gente
+às vezes dá mais atenção pra revenda do
+cara do que
+&gt;&gt; do que a sua revenda total. Ô, ô, Ivan,
+uma coisa que eu queria entender, eh, se
+você dobrar os seus clientes hoje, você
+consegue atender a produção?
+&gt;&gt; Não, não. Por questão de tipo duas
+coisas, eh, a gente até poderia falar,
+mas você tem, você falou que faz 500
+toneladas e você tem 250 capacidade,
+sim. Em, em, e, eh, dinheiro na mão,
+não.
+&gt;&gt; Então, você hoje, por exemplo, não vendo
+10 milhões, eh, quanto mais você poderia
+vender para conseguir atender essa? Eu
+acho que hoje a estratégia não é vender
+mais, é vender melhor.
+&gt;&gt; Boa. Aí pode ser exatamente
+&gt;&gt; porque aí você aumenta aumentando a
+margem, mas sem aumentar a capacidade de
+produção,
+&gt;&gt; porque entra naquela questão de você
+colocar o dinheiro na frente para
+receber a prazo, né, que é um [&nbsp;__&nbsp;]
+problema. Cara, onde eu posso vender,
+onde eu vou ganhar mais.
+&gt;&gt; E esse dado você já tem?
+&gt;&gt; Esse dado você já eu já tenho.
+&gt;&gt; Você já tem esse dado.
+&gt;&gt; E são dados assim, cara, não é nem só
+vender mais. Eu tô dar um exemplo aqui
+que foi através do do sistema que a
+gente identificou. Eh, eu tenho parada
+de parada não, troca de ferramenta.
+&gt;&gt; Né? Se eu aumento o mínimo de produção,
+vamos supor, tô vendou vender mais 200,
+não, vou vender 400. Eu tenho menos
+parada, menos troca, consequentemente eu
+tenho mais produção.
+&gt;&gt; Ah, então você consegue até aumentar um
+pouco a sua produção sem aumentar gente.
+&gt;&gt; Sem aumentar gente. Só que ele precisa
+de dinheiro para
+nesse caso fazer uma estratégia
+diferente. Hoje, por exemplo, eu tenho
+meu mínimo é 200 kg por ferramenta,
+[roncando]
+&gt;&gt; certo? Certo?
+&gt;&gt; E o mercado não faz isso. O mercado com
+uma prensa daquela lá é 500, 600 por
+feramenta,
+&gt;&gt; Se eu passo a ter 600, eu eu tenho menos
+troca de fermento.
+&gt;&gt; Pode vocês fazem duas vezes e meia que o
+mercado é muito. É, eu estudo aqui que,
+cara, você fazendo isso tá quase 450.000
+do ano, né? Porque tem um estudo, tem
+até a IAV, nesse sistema que eu fiz, ele
+tem assim o mínimo, dependendo da sua
+condição da da ferramenta, ela dá o
+mínimo de lote. E o nosso lote ali é 572
+kg, 572, 672, não lembro agora o mínimo.
+Então, e é o que o mercado cobra, o
+mercado faz 600, 500, 600, né? Então,
+assim, com isso você diminui parada,
+porque assim, cada ferramenta leva 5, 6
+minutos, cada troca. Se eu faço menos
+esses 5 se minutos, eu tô produzindo. E
+pro noveleiro, quantas ferramentas?
+Olha, noir a gente tem mais ou menos e
+umas 150 ferramentas, 150 produtos.
+&gt;&gt; Eu trouxe para uma empresa familiar essa
+questão de governança. Aí o dono falou
+para mim assim: "Caramba, você tá
+desenterrando coisas de 25 anos atrás
+que eu tô fugindo. Você quer trazer
+[risadas] aqui pra mesa?"
+&gt;&gt; Cara, como pode, né, cara? O
+&gt;&gt; aí parou a reunião, parou, não fizeram
+pro de governança. Reunião parou na
+hora, todo mundo levantou tomando café
+&gt;&gt; e acabou.
+&gt;&gt; E acabou. Não, não foi pr frente,
+&gt;&gt; esse é,
+&gt;&gt; mas aí nessa hora que você ver
+&gt;&gt; de você ter essa separação de
+responsabilidade
+&gt;&gt; que é algo que você vai atuar na crista
+consultoria atuar já conhece também.
+&gt;&gt; Eu sei que a briga é dura, tipo segunda
+geração entrando brigada de inovação.
+Sabe que eu li um artigo aqui
+&gt;&gt; eu li um artigo que nos próximos 10 anos
+vai ser a transformação dos negócios de
+serviço e indústria. Por quê? Porque a o
+Marcelino é um baby boomer. Daqui 10
+anos esse cara quer tá aposentado. Ele
+vai colocar quem no lugar aqui para
+tocar o negócio? Vai quebrar. Isso não
+pode acontecer porque o filho dele, o
+filho dessa geração, ele já tá bem
+instruído, estudou numa faculdade, quer
+que arrumar outro emprego. E aí, quem
+que quem que vai tocar? Então, ou essa
+empresa tende a quebrar, ou ela tende a
+ser vendida.
+&gt;&gt; Ó, ó esse moleque aqui.
+&gt;&gt; Quem que é esse daí?
+&gt;&gt; Quantos anos você acha que ele tem?
+&gt;&gt; Uns 18.
+&gt;&gt; É, um pouquinho mais.
+&gt;&gt; 20.
+&gt;&gt; Tem 24 anos.
+&gt;&gt; ele que toca aquele grupo de indústria
+que eu falei lá na.
+&gt;&gt; Ah, você comentou comigo. Indústria de
+blocos.
+&gt;&gt; Mas é para poucos isso aí. Treinar. É o
+quadib tá fazendo com os filhos dele.
+&gt;&gt; Mas eu vejo que isso tá cada vez mais
+normal.
+&gt;&gt; Mas tem que porque senão o negócio vai
+quebrar. É o que ele tá falando. A
+galera nova eles conseguem mudar de
+forma muito mais rápida.
+&gt;&gt; É porque a empresa que não cresceu, ela
+tá nesse patamar aqui é uma empresa
+média. Faz o quê? 50 milhões anos.
+&gt;&gt; É, vai fazer 90.
+&gt;&gt; 90 milhões. Legal. Oito por mês.
+&gt;&gt; Oito. Beleza.
+&gt;&gt; Certo. É médio, médio porte para
+indúria. A margem aqui tá em quantos por
+c mesmo?
+&gt;&gt; 15%. Então, tipo, [&nbsp;__&nbsp;] que equilibra
+bem as contas. Aí você conta para mim,
+pô, esse cara aqui, pô, construíram na
+força da mão, velho. Que acontece o jogo
+braços que hoje mudou. Hoje precisa ter
+govern,
+&gt;&gt; cara, é muito maior.
+&gt;&gt; E o mercado mudou muito.
+&gt;&gt; É, mas o que acontece, a tendência
+[limpando a garganta] é essa. O jogo de
+commodity, é legal isso, essa questão de
+jogo. Qual o jogo que a gente tá
+jogando? O jogo do Comod a tendência é a
+zero.
+&gt;&gt; a tendência é zero. Então, tipo, só tem
+um caminho. Ou só sobram os grandes,
+&gt;&gt; ou você vai quebrar, ou você se
+diferencia.
+&gt;&gt; Então, só tem esses caminhos. Não tem
+outro caminho.
+&gt;&gt; É, a gente teve a fesca agora que é uma
+feira da esquadrilha.
+&gt;&gt; Nem bem do setor mesmo. E eu tive num
+stand e a pessoa falou: "Cara, vocês
+estão num nível que você não é nem
+grande, nem pequeno, você inflexão.
+Então você não dá para brigar com o
+grande e você não tem estrutura para
+ficar com pequeno." Então você tem que
+&gt;&gt; quebrar. É isso.
+&gt;&gt; Você vai ter que quebrar, vai ter que
+comprar essa barreira. algum nicho você,
+porque você fica grande brigando com o
+grande,
+&gt;&gt; o grande engole, você vai morrer porque
+você não consegue enxergar porque a
+estrutura em si é é uma média, né? Tá
+ligando, atendendo certinho.
+&gt;&gt; Qual que o retrabalho que vocês t na
+base aqui?
+&gt;&gt; É como assim?
+&gt;&gt; Base de clientes. Tem 28 anos de
+empresa, então deve ter uma cacetada de
+lead, certo? De cliente. Vocês já
+retrabalharam essa base? Nossa,
+&gt;&gt; qual foi o TV? Ah, cara, isso eu não
+sei.
+&gt;&gt; E, por exemplo, d essa parte comercial
+você tá,
+&gt;&gt; eu tenho pouca coisa, mas assim, o o LTV
+é o tempo que ele que ele fica com você
+comprando.
+&gt;&gt; Então, eu tenho uns que é parceiro há
+muitos anos, tipo assim, só que cara tem
+muito mais que eu perdi na, né, lá atrás
+e ninguém fez trabalho.
+&gt;&gt; Você já fez um estudo do mercado? Tipo,
+esse a quem eu sirvo? Eh, pô, é esse
+tipo de cliente que é 40% da minha base,
+por exemplo. Você fez tipo uma curva A,
+B e C dos seus clientes?
+&gt;&gt; Fiz. Então hoje quem que é o cliente A
+&gt;&gt; o em volume,
+margem
+&gt;&gt; é o volume A hoje é assim em margem em
+margem é a uma empresa de cancela, mas
+ela foi para pouco,
+&gt;&gt; tá? Não, eu quero saber do de volume
+mesmo,
+&gt;&gt; volume fortal que é uma alegria, mas a
+margem é 5%.
+&gt;&gt; Tá. Quantos clientes você tem parecido
+com esse?
+&gt;&gt; Ah, cara, assim, ó, na de 5% eu vou ter
+mais ou menos uns 15,
+&gt;&gt; tá? na faixa de 20 a 25, aí eu vou ter
+mais ou menos uns 100 100.
+&gt;&gt; Como que 125 qu por
+&gt;&gt; é? Não, 20 a 25 clientes.
+&gt;&gt; Ah, tá.
+&gt;&gt; Nessa faixa de nessa margem mais
+apoiada,
+&gt;&gt; esse tier de margem. Então, a margem
+ideal para você na sua cabeça é quantos
+por cento?
+&gt;&gt; Cara, eu trabalho com a movedeira que eu
+acho margem mais ideal que em torno de
+25%.
+&gt;&gt; 20 a 25.
+&gt;&gt; 25
+&gt;&gt; porque se ele se ele traz,
+&gt;&gt; [&nbsp;__&nbsp;] mas é alto.
+&gt;&gt; A pergunta que ia fazer é você consegue
+fazer o mesmo patrolamento que você faz
+hoje? Crando um lixo?
+Não, não, não dá para abandonar o
+&gt;&gt; Então não, não tem que nichar, mas tem
+que ter uma estratégia para um nicho
+para pegar mais cliente.
+&gt;&gt; Sim. É porque
+&gt;&gt; porque daí dá isso e dá para fazer no
+tombamento de base. Por exemplo, vamos
+supor moveleiro do do dos 8 milhões por
+mês, quantos por cento vende moveleiro?
+&gt;&gt; Mais ou menos 45%.
+&gt;&gt; É coisa para [&nbsp;__&nbsp;] Se você aumenta
+isso aí para 60%, vou terar mais 15%
+nisso, já aumenta a margem da empresa.
+&gt;&gt; Talvez, talvez não agora, mas talvez
+futuro seja foc do nicho específico. Ele
+vai eliminando, né?
+E aí vai trazendo a confiança de tirar
+esse esse não representante não é
+construção civil que você tem uma margem
+de 5%.
+É aí a minha questão é hoje são 90
+milhões. Você acha que esse você tem
+certeza absoluta? 100% de certeza que
+você atacar esse mercado você consegue
+fazer mais 100 milhões, por exemplo? O
+mobeleiro não, não, não. Mas
+&gt;&gt; se você olhar e falar, cara, daquele
+jeito, tá ótimo. Você tem o você tem a
+base, uma base de clientes de 28 anos
+que claramente você não tá
+reaproveitando. Pô, tem dinheiro na mesa
+aí pra gente retrabalhar ela com
+inteligência artificial lá com a GRE AI.
+Show.
+&gt;&gt; Parte de marketing. Marketing é zerado.
+Então, nossa, meu meu Deus do céu.
+Criação de autoridade e e construção de
+marca com
+&gt;&gt; Não tinha site.
+&gt;&gt; Maravilhoso,
+&gt;&gt; né? [risadas]
+Aí a gente
+&gt;&gt; construção de marca e portfólio. Agora é
+olhar essa base de clientes. Então tipo
+trazer para pegar esses dados que você
+já construiu de margem e olhar e falar:
+"Cadê esses todos os clientes aqui dessa
+margem? Quais são os mercados que eu
+tenho as melhores margens? E por quais
+são os mix de produto que realmente tem
+margem?" Pum, esses daqui. E aí a partir
+disso entender desenhar a estratégia
+baseada nisso.
+&gt;&gt; É, eu acho que hoje você tem um navio,
+eh, eu gosto desse exemplo do navio.
+Você tem um navio e você tem os jet skis
+lá, você precisa fazer testes, porque
+hoje esse movilheiro, por exemplo, que
+você falou, eu não consigo atingir 100
+milhões, mas eu também não tenho certeza
+que ele tem atração e que todos vão dar
+essa margem.
+&gt;&gt; É total,
+&gt;&gt; é uma hipótese, validar.
+&gt;&gt; Então, como que eu valido isso rápido?
+Eu tenho que trazer clientes e criar uma
+estrutura para isso. Então, é
+basicamente um trabalho. Como que é o
+trabalho? Você tem que ter o o Júlio lá
+fazendo o trabalho atual, ele tem que
+ter uma gestão de revenda mais eficiente
+ali dentro disso. E aí eu consigo fazer
+incentivos para conseguir melhorar minha
+margem e uma estratégia ali dentro.
+&gt;&gt; Perfeito.
+&gt;&gt; E aí eu tenho que ter uma estrutura
+externa, porque senão vai afetar esse
+resultado aqui de como se fosse GTM,
+como se fosse uns Gold toch market
+assim. Então, pô, qual que é a
+estrutura, o planejamento de go to
+market que eu tenho para esse mercado?
+Quais são as premissas que eu tenho? Vai
+licitar ele. Como que eu testo ele?
+[&nbsp;__&nbsp;] eu tenho 60 ações em 3 meses para
+conseguir atingir 10 clientes. Pum,
+atingir 10 clientes. Qual que é a margem
+desse clientes e qual que é o tamanho do
+mercado e que não sei? Aí eu acho que
+você vai validando. Eu acho que isso
+você consegue até fazer mais que uma
+vez. É, tem a estratégia também de que
+account manager, né? Então eu posso ter
+aqueles caras que vão cuidar mais de
+segmentos ali para conseguir expandir
+carteira. Então, basicamente, é uma
+estratégia de de share de carteira
+comercial ali dentro. Então, como que eu
+vou ao mercado? Então, por exemplo, o
+site institucional pode ter, mas eu vou
+ter que ter um site específico para
+aquele segmento.
+&gt;&gt; Acho que o nosso trabalho aqui é
+encontrar
+o melhor produto que já é produzido,
+porque criaram um produto novo, eh,
+loucura.
+&gt;&gt; Pro melhor mercado com a melhor margem.
+O melhor mercado, na verdade, é o
+mercado com a melhor margem. Coisa que a
+gente tem a boa aqui é a verticalização
+da entrega, porque eu consigo produzir,
+estudar, [roncando] pintar e entregar.
+Não é não. Se você pesquisar, são poucas
+extrusoras que tm isso na mesma planta.
+Isso é um é uma dor que o cara deixa de
+ter, porque é uma brigalhada. A gente
+era revenda, você pegava pintura, pegava
+e estudava, entregava na pintura. Aí
+chegava na pintura, cara, ó, partiu tá
+amassado. Pô, mas amassou aonde? Aí tem
+que me dar com a estrusura e tal. aqui
+não, o problema fica tudo de novo, mas o
+cliente fica sem se sem se preocupação.
+&gt;&gt; Isso que basicamente a gente caminhou em
+cima do fluxograma da empresa,
+entendemos os gargalos, entendemos como
+você colocou uma infraestrutura de a
+aqui dentro, mas eu vejo que olhando os
+gargalos, acho que é tomar uma decisão
+de qual parafuso que eu vou mexer dentro
+desses que eu eh puxei aqui com o
+pessoal para você, pô, se eu colocar um
+esforço aqui, qual que é o resultado que
+eu vou ter? Então, acho que os
+principais que eu vejo aqui eh na parte
+de operação é uma gestão eficiente da
+mão de obra, então turnover,
+absenteísmo. Então, se eu tiver ações
+com inteligência artificial, com uma
+cabeça estratégica e sênior dentro
+disso, eu acredito que os retornos que
+você vai ter de eficiência operacional
+vão ser grandes. Eh, o outro, a gente
+falou aqui sobre o comercial, essa
+gestão de revenda ali dentro é um dos
+pontos. E uma parte estratégica que foge
+muito de a, mas que eu acho que é um
+grande diferencial aqui, eh, que no
+mercado de comod de de commodity a
+gente, a tendência é a zero à margem,
+então a gente precisa buscar uma
+diferenciação. Então, eu preciso montar
+estratégias para conseguir testar esses
+mercados, essas hipóteses. Então, é uma
+estratégia de growth, né? Eu tenho que,
+tipo, pô, qual que é a hipótese que eu
+tenho? Pô, tenho que esse mercado que
+você trouxe pode dar muito resultado,
+então vou levantar os dados dele, vou
+testar rápido, vou e aí eu vou tomar
+minha decisão se eu continuo com ele ou
+se eu vou para outro. Então acho que é
+focar dessa forma. É o que eu vejo ali
+como os gargalos principais hoje que a
+gente viu aqui na mesa.
+&gt;&gt; Maravilhoso, cara. Assim, se fosse
+complementando,
+eh, eu enxergo um potencial muito grande
+de crescer esse processo, ou melhor,
+melhorar esse processo comercial e
+impactar diretamente a margem. Não é nem
+o faturamento, é a margem. O faturamento
+pode continuar o mesmo. Por quê? Porque
+vocês têm uma base absurdamente grande
+de vendas, uma estratégia de
+representante de vendas que
+provavelmente tá vai est trabalhando em
+cima de produtos que não tenham uma
+margem adequada. E com a informação que
+você já trouxe do Kistos, a gente
+consegue conectar isso lá na Grow AI e
+montar uma máquina de de de reativação,
+cara. Por quê? Porque assim, se eu tiver
+errado, vocês vocês me corrijam aqui. O
+dinheiro mais rápido já tá dentro de
+casa. já tá dentro de casa, tô com a
+base parada.
+&gt;&gt; Isso é importante. Eu tenho que entender
+muito bem a base. Acho tem que fazer
+entrevista, tem que pegar a base de
+clientes, realmente entender a fundo.
+Eh, eu sempre falo que a gente tem que
+montar a a empresa com meus clientes
+felizes, né? Então, como eu sou cliente
+mais feliz hoje? Tipo, qual que é o
+cliente que é feliz para ambos os lados,
+né? Então
+&gt;&gt; é, [risadas]
+tô feliz que eu tô comprando mais
+barato. Vai dar a empresa. Ah,
+toma
+&gt;&gt; toma na cabeça. Então tem muita gente
+que às vezes constrói empresa pros
+clientes detratores, né? Então eu falo
+muito para criar a empresa paraos
+clientes promotores. Então acho que a
+base que tá o dinheiro na mesa é
+realmente é
+&gt;&gt; é é muito é muito
+&gt;&gt; é o dinheiro mora da retenção.
+&gt;&gt; É. E e vamos aumentar share de mercado
+se tiver.
+&gt;&gt; E você sabe uma coisa que o Eric
+comentou que é importante a gente olhar
+no eu não no talvez no Kist ainda não
+tenha, mas a gente pode adicionar é essa
+questão de saber o LTV por tipo de
+cliente e período de compra. Qual que
+qual que é o qual que é a faixa de
+período de compra de cada perfil?
+&gt;&gt; Falta dado. Falta dado. Is é um gargalo.
+&gt;&gt; É porque Ah, você não tem esse dado não.
+Mas se a gente pegar as compra a gente
+consegue saber.
+&gt;&gt; Se aprofundar mais.
+&gt;&gt; Ah, tá ali, só que não tá tratado. Esse
+tem que
+&gt;&gt; tratar. E esse tem por quê? Porque se a
+gente pega, pô, e começa a olhar um
+perfil e falar, pô, beleza, cara, esse
+cara aqui compra de 45, 45 dias, esse
+aqui compra de três, é, de seis em seis
+meses ou de três em três meses. Pô, faz
+mais sentido eu ter compras mais
+recorrentes ou mais passadas, entende? e
+e colocar isso na colocar isso no
+KistraOS, no cérebro e analisar e
+desenhar essa estratégia de de vai
+retrabalhar essa base com base nesses
+números, focando em clientes com alta
+margem, com com alta margem, com a
+melhor margem possível e com o maior
+número de de recorrência possível,
+&gt;&gt; porque hoje eles não estão vendendo,
+eles estão sofrendo venda. É, é. Tô
+sofrendo vendo. Se parar pedido,
+&gt;&gt; não tem ninguém ativando essas vendas.
+Falei
+&gt;&gt; é maravilhoso.
+&gt;&gt; Então assim, é coisa recente.
+Interessante, né?
+&gt;&gt; Bom, estamos juntos.
+&gt;&gt; Abraço.
+&gt;&gt; Falou, meu. Obrigado, viu?
+&gt;&gt; O para sair ali é só tem apertar lá o
+botãozinho, né? Sai ali. Tá no carro
+dele.
+&gt;&gt; Que carro?
+&gt;&gt; Cabo do carregador do celular. A mochila
+você pegou, tá tudo aí.
+falou. Ah,
+&gt;&gt; assim, de forma imediatissima,
+&gt;&gt; é,
+&gt;&gt; é, é a base, é a é a é a recompra,
+ativar,
+&gt;&gt; ativar,
+&gt;&gt; se a gente fizer um trabalho bem feito,
+&gt;&gt; compra, só que olhando muito bem a
+questão que o Marcelino comentou e você
+comentou também, falou, o quê? Pô, eu
+não posso subir esse faturamento porque
+esse aumenta a produção de mais é muito
+custo. Agora, como que então, cara, como
+que a gente retrabalha essa base de
+recompra em cima dos
+&gt;&gt; É, eu tenho que fazer isso aqui, ó,
+começar a diminuir o ruim, subir o
+maior, subir o bom, porque o bom já tá
+aí, já tem o bom. Então, pô, essa
+parada, se a gente colocar no Kistos e e
+e colocar execução lá no grow,
+&gt;&gt; cara, a gente faz isso aqui, né? Mão de
+obra e faturamento. Mão de obra é mais
+baixo a mágica. Então, é como eu tô
+hoje. Eu tô 70 30, 68, 30. Eu tenho que
+diminuir esse e subir esse.
+&gt;&gt; [&nbsp;__&nbsp;] [&nbsp;__&nbsp;]
+&gt;&gt; viu?
+&gt;&gt; Ó, gente, esse daqui é o quece. Agora
+chegou a hora. Então vamos lá. Vou dar
+vou Ivan, se eu me corrija se eu tiver
+errado. Ivan é um diretor operacional de
+uma empresa de 90 milhões com engenheiro
+civil, né? Engenheiro civil pelo Macken.
+Tem experiência internacional, morou
+fora Orlando, Oklahoma. Experiência na
+construção civil fora do país e
+experiência na área da indústria e
+processo, estruturação e tudo mais. E o
+Ivan agora tem uma missão aqui na casa
+dele, que é, cara, trazer a IA para
+dentro da indústria, pegando esse
+conhecimento dele, jogando desse desse
+processo na seu Kistra, que é uma
+consultoria, porque ele falou: "Pô, se
+aqui na empresa está dando resultado,
+quantas empresas indústrias tradicionais
+que que é o quê, [&nbsp;__&nbsp;] que é o o a
+indústria familiar, o cara já tá na
+segunda, melhor você falar, conta
+&gt;&gt; é a indústria basicamente hoje o a
+maioria do CNPJ hoje é indústrias
+familiares, pequenas e empresas, né?
+&gt;&gt; E a indústria familiar ela não tem a
+estrutura de uma bigó
+&gt;&gt; total.
+&gt;&gt; Então os dados são são amarrados e e
+esse conceito a gente trouxe para cá de
+quê? De de lapidar os dados e tomar ação
+em cima de de coisas corretas, né?
+Então, a indústria hoje, eh, ela tem
+muito dinheiro jogado, ela tem muito
+dinheiro parado muitas vezes,
+&gt;&gt; né, por falta às vezes de decisão
+descorreta de conhecer os números. Eu
+vejo isso. É, eles estão dirigindo às
+vezes, muitas vezes caminhão sério, né?
+Então, a gestão [limpando a garganta]
+hoje em cima dos dados é muito
+importante. E a Iá com o conhecimento é
+isso, porque só I, cara, não serve de
+nada,
+&gt;&gt; vai ficar per vai fazer vai perder
+tempo. Eu vi uma reportagem outro dia
+que eh acho que 70% dos projetos
+implantados não estão dando nada. S
+trabalho só é mais até 95% dos projetos
+&gt;&gt; e aí virou uma uma né as empresas têm
+meta para implantar projeto e aí
+implanta de qualquer jeito. Vai dar
+certo.
+&gt;&gt; É isso. Então então a Kistra é uma
+consultoria estratégica em IA voltada
+pra indústria pequena e média e média
+&gt;&gt; para gerar resultado. Para fazer ela
+gerar resultado. Primeiro passo que eu
+entendi, fazer a indústria ou o dono, a
+operação ter todos os números na mão de
+custo e entrega e e venda e qual que é a
+margem real.
+Ele falou: "Cara, eu não consigo entrar
+nas famílias, mas eu consigo entrar na
+indústria e e ajeitar a família. A gente
+normalmente mapeia três gargalos, porque
+é onde vai dar a primeira receita
+rápida, né? A ideia é mapear e onde você
+vai ganhar rápido, que aí você anima,
+&gt;&gt; Ganho. Ô, legal, porque o empresário
+assim ele é travado para mudanças, né?
+Ainda mais esse que eu tô trabalhando,
+que é o o fundador, né? Pô, que esse
+cara quer falar do eu quis construir no
+braço tudo, né? Mas na hora que ele vê o
+ganho, ele vê que porque muitas vezes o
+não tem não tem uma empresa, tem um
+emprego, né? [risadas] O cara empresa
+tem ele, né? Tem muit muit muito comum
+não consegue trabalhar o cara de sábado,
+domingo tem funcionário ligando para
+trazer qualidade.
+&gt;&gt; É isso que aqui estragera fazer a IA
+gerar qualidade de vida pro empresário,
+&gt;&gt; fazer a tecnologia, trabalhar para ele,
+&gt;&gt; trabalhar para ele, cirurgicamente. Isso
+&gt;&gt; ó, a Kistra e o Ivan é parceiro acelerar
+360. Então, não só nessa parte de
+operação, mas toda a parte comercial de
+crescimento operacional com a Gowi. Se
+você quiser fazer parte da Acelera
+também tem um link aqui na descrição.
+&gt;&gt; E o conhecimento dele pra empresa de
+instruão.
+&gt;&gt; Mas falando sobre isso, o mercado de
+indústria, a gente tem o setor de
+extrusão. Dentro desse setor de
+extrusão, ele ainda tá nichando ainda
+mais que é e médias indústrias para
+familiar ainda. Então, é justamente o
+conhecimento dele aplicado em outras
+indústrias desse tipo que vai fazer com
+que ele já result.
+&gt;&gt; Ele vive isso, ele vive isso, ele viveu,
+ele construiu metodologia e
+principalmente gerou resultado. Então
+essa que é a grande diferença.
+&gt;&gt; Então o cara da indústria, o empresário
+que tem indústria, que realmente tem
+resultado, é essas pessoas que ele tem
+contratado, não é qualquer um que tá
+vendendo inteligência certificial. É. E
+não adianta contratar essas
+consultoriazinha aí, não. Ah, não. O
+cara vai fazer para você uma consultoria
+financeira. Esquece isso. Você tem que
+trazer uma pessoa que viveu aquilo que
+você está vivendo hoje e resolveu. É
+isso que vai gerar resultado. E o mais
+incrível, resolveu e já está na era da
+inteligência artificial, fazendo aí
+agora resolver outros problemas que vai
+fazer você ter resultado. Fechou? Então
+é isso,
+&gt;&gt; terminamos. Tchau para vocês, até a
+próxima. E mais uma vez, Ivan, muito
+obrigado pela sua recepção.
+&gt;&gt; Muito bom. Foi incrível.

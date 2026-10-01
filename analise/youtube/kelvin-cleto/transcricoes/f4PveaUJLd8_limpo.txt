@@ -1,0 +1,256 @@
+Nesse vídeo aqui, eu vou te falar o por
+que você não deveria focar em aprender
+automações, ou melhor, em aprender
+automações, não, em ser um automatizador
+em 2026. Talvez eu te fale algumas
+verdades duras, mas é importante que
+você ouça isso com atenção, entenda e
+tome suas próprias decisões com relação
+aos fatos que eu vou trazer aqui para
+você. Ah, vamos lá. Primeira coisa que
+eu já quero pontuar, eu tenho total
+propriedade para falar isso que eu vou
+falar para vocês. Eu sou da área de
+tecnologia desde que eu me conheço por
+gente. Comecei a desenvolver aos meus 16
+anos, montei uma empresa de tecnologia,
+uma das principais insurtechs do Brasil.
+Eu vendi essa empresa, eu tive uma
+carreira também como desenvolvedor,
+programador, fui evoluindo, virei
+arquiteto de software. Eh, eu adoro
+programar. Até hoje eu só deixei de
+programar porque eu decidi focar
+realmente naquilo que dá dinheiro, que é
+negócio, tá? Então eu tenho bastante
+propriedade para falar isso para vocês.
+Hoje eu tenho uma empresa de tecnologia
+que é a Acelera 360, que é uma escola
+onde eu ajudo pessoas a empreender com
+inteligência artificial, com tecnologia.
+Então assim, eu tenho muita propriedade
+para falar nisso. Eu vou trazer alguns
+fatos relevantes aqui para você, para
+que você entenda o meu ponto de vista.
+Primeiro ponto, a evolução da
+inteligência artificial. A I tá
+evoluindo numa velocidade tão grande,
+mas tão grande, que eu diria que nos
+próximos 6 meses essas grandes empresas
+que inclusive desenvolveram ferramentas
+de automação, vão desenvolver um modelo
+onde é possível criar qualquer tipo de
+automação através de linguagem natural,
+como se você através do prompt. Então,
+pessoas que se especializarem em
+escrever bons prompts vão conseguir
+criar qualquer tipo de automação.
+Recadinho rápido para você que tá
+assistindo meu vídeo. No dia 4/10 eu vou
+te mostrar no meu workshop que vai
+acontecer online como você pode
+empreender com inteligência artificial.
+Então, mesmo que você não seja técnico,
+mesmo que você não entenda nada de
+programação, mesmo que você não saiba
+nem mexer no N8N, no make, em agente,
+não importa. Eu quero que você esteja lá
+comigo no dia 4/10, porque eu vou te
+mostrar uma infraestrutura de
+crescimento com inteligência artificial.
+Você vai clicar no link que tá aqui na
+descrição desse vídeo e vai garantir a
+sua vaga, porque são 200 vagas e eu já
+vendi mais de 170. Então não perca, tá
+terminando já, hein? Te vejo lá.
+Entendam uma coisa, a barreira da
+tecnologia, a barreira tecnológica de
+programar, de codificar, de desenvolver,
+ela está diminuindo a cada dia que
+passa. Do mesmo jeito que os
+programadores estão sendo ameaçados,
+os automatizadores que atuam ali mais
+num meio que num low code, baixo código
+para você que não conhece, estarão cada
+vez ainda mais ameaçados que o próprio
+programador. Então se pro programador
+vai ficar difícil, imagina para você que
+mexe no N8N, no Make, no organizando
+bloquinhos no CTRA e por aí vai.
+Então, só isso já deixa para você um
+grande sinal de alerta, tá, Kelvin? Quer
+dizer que eu não preciso aprender sobre
+automação? Não, não foi isso que eu
+disse. Eu disse que você não deve focar
+100% em ser um automatizador, em ser um
+construtor de fluxo. O mercado tá
+ficando saturado. Existe uma baixa
+barreira de entrada para pessoas que
+querem se tornar automatizadores,
+pessoas que querem construir automações.
+Então, por esse motivo, cara, tá virando
+um Mar Vermelho. E quem tá falando isso
+para você é um cara que consegue vender,
+por exemplo, uma automação a R$ 40, R$
+50.000, entendeu? Tá, Kelvin, mas se
+você consegue vender tudo isso, por que
+que eu não deveria focar em automação?
+Porque o B2B, o empresário que me paga
+R$ 40, R$ 50.000 por uma automação, ele
+não está comprando automação. A
+automação ela é o meio, mas o que eu
+vendo é o fim. Então, por isso eu quero
+que você entenda que você deve
+desenvolver outras habilidades,
+focar em desenvolver outras habilidades
+que sim vão fazer você ter mais sucesso
+em 2026 do que você ser um excepcional,
+um exímio automatizador. Assim como hoje
+não faz mais sentido você ser um
+programador muito um especialista
+em tudo, não faz sentido você ser um
+automatizador muito Você pode
+desenvolver outras habilidades que vai
+fazer você ganhar muito mais dinheiro do
+que necessariamente a automação. E é
+sobre isso que nós vamos falar aqui
+nesse vídeo. No final das contas, a
+gente vai falar sobre como você vai
+fazer mais dinheiro, tá? Passando aqui
+de novo para perguntar se você já
+comprou, já garantiu essa vaga do meu
+workshop. Não. Clica aqui, ó. Tá no link
+na descrição desse vídeo. Bora, vamos
+empreender com
+&gt;&gt; primeiro passo. É muito fácil as pessoas
+saberem criar fluxos de automação, mas
+saber o que automatizar e o que
+priorizar primeiro para ser
+automatizado, isso é difícil. E para que
+você saiba o que é automatizar e o que
+que pode ser automatizado, o ideal é
+você entender mais de negócio, entender
+como uma empresa funciona, empreender,
+por exemplo, de não não de forma
+profunda, mas de forma detalhada sobre
+como funciona um processo de vendas,
+como funciona, por exemplo, um processo
+de entrega eh de nichos específicos,
+como funciona um processo de pós-vendas,
+um processo financeiro, como que
+funciona um processo de captação de
+lead, um processo de marketing. Se você
+tiver uma visão de
+dessas áreas, de um determinado nicho,
+você vai ser uma pessoa extremamente
+requisitada no mercado. Se você então
+entender do negócio e também entender da
+automação, da programação,
+da lógica, da lógica de programação, da
+lógica de desenvolvimento de software e
+da lógica de negócio, você se torna uma
+pessoa altamente requisitada. E isso sim
+vai fazer você ganhar muito dinheiro.
+Porque, por exemplo, o cara que vou vou
+dar um um pequeno exemplo aqui. Eu
+peguei um cliente, o cliente ele é um
+expert, esse cliente ele vende um
+produto digital e a gente fez um
+trabalho nele de recuperação de
+carrinho. Que que é recuperação de
+carrinho? Entrava para ele 1000 leads
+por mês. Dos 1000 leads, ele fazia 5% de
+vendas daqueles leads. 95%
+ele não vendia. Então o que que nós
+construímos? Sim, com automação, com
+chatbot, com um monte de coisinha, com
+ferramenta, com CRM, por aí vai. Nós
+construímos para ele uma máquina de
+recuperação de carrinhos. O que que é
+uma máquina de recuperação de carrinhos?
+É um CRM fazendo a gestão dos possíveis
+leads. É um fluxo de importação dos
+leads de um de algum determinado lugar
+para dentro dessa ferramenta, desse CRM.
+é um processo onde a gente começa a
+nutrir estes leads em um determinado
+momento do tempo com uma determinada
+narrativa, com uma determinada oferta e
+aí no final é o pit, a entrada em
+contato via ligação ou a oferta. É a
+oferta, chamar ele e falar: "E aí quer
+comprar?"
+E depois a conversão.
+Nessa brincadeira, nessa brincadeira de
+1000 leads, a gente conseguiu trazer
+para ele mais 5% de conversão.
+Sabe o que significa isso? A gente
+dobrou o faturamento dele. E aí você
+pode pensar assim: "Nossa, Kelvin, mas
+cara, como assim? Ele vendia só 5%." É,
+é assim que funciona. As pessoas elas
+ganham dinheiro, mas elas também deixam
+muito dinheiro na mesa. Elas perdem,
+elas elas não estão preocupadas em pegar
+esses dinheiros mais difíceis, né? Elas
+estão preocupadas em pegar os dinheiros
+mais fáceis, né? Todo mundo foca ali
+geralmente nas frutas baixas. Então, às
+vezes, até mesmo às vezes não, a maioria
+das da das empresas tem processos que
+são extremamente ineficientes. E esses
+processos eles se tornam cada vez mais
+ineficientes, até mesmo por conta das
+pessoas que estão lá e por conta do
+processo operacional que as próprias
+empresas implementam. Então, é muito
+difícil você encontrar uma empresa que
+para fazer uma revisão completa em seus
+processos. Então, a ineficiência é uma
+ineficiência que tá lá desde antes até
+daquele profissional ter entrado, ter
+sido contratado, tudo mais e ninguém
+trata, às vezes ninguém nem sabe o
+motivo. Então, por isso que eu digo em
+vários meus vídeos que é muito
+importante pr, no caso, as pessoas que
+querem empreender, entender muito bem o
+nicho de atuação, escolher um nicho de
+atuação, porque a partir do momento que
+você entende o nicho de atuação, você
+foca em o nicho, você começa a entender
+as dores que aquele nicho tem, que as
+empresas daquele nicho t e aí você meio
+que fala a língua daquelas empresas e
+você consegue captar mais clientes. Mas
+voltando ao ponto aqui das automações,
+cara, faz muito mais sentido vocês
+gastarem energia estudando,
+vai coloca ali 20% do tempo de vocês
+estudando a parte técnica e 80%
+estudando a parte de negócio do que
+vocês focarem em 100% da energia de
+vocês aprendendo a parte técnica. Tô
+passando aqui de novo para perguntar se
+você já garantiu a sua vaga do workshop
+grow que vai acontecer no dia 4/10. Não
+clica no link aqui na descrição desse
+vídeo, vai ser online, não perca. É mais
+barato que uma pizza, Estudando
+N8N, estudando make, estudando ser o
+melhor automatizador do mundo, ser o
+melhor construtor de agentes via N8N do
+mundo, construir os melhores chatbots e
+sabe, não faz sentido. Faz muito mais
+sentido você focar energia em 20% na
+parte técnica e 80% na parte de negócio,
+porque a parte de negócio é a parte que
+vai fazer você fechar bons contratos. A
+parte de negócio é realmente a parte que
+vai fazer você ganhar dinheiro, que você
+vai sair do zero. Então esse é meu
+conselho para vocês. É um vídeo rápido,
+é uma opinião minha que eu decidi trazer
+aqui para vocês para poder ajudar vocês,
+porque o ano de 2025 já acabou, né?
+Valeu, rapaziada. Tchau.

@@ -1,0 +1,472 @@
+Toda a empresa tradicional tem gargalos
+operacionais, processos repetitivos,
+ineficiência histórica absurda, margens
+extremamente baixas. E isso para nós que
+queremos empreender com inteligência
+artificial é uma é uma de uma
+oportunidade, é um oceano azul, tá?
+Então, nesse vídeo aqui, eu
+especificamente vou falar para vocês
+sobre esse post do I Combinator. Para
+quem não conhece, o I Combinator é um
+dos principais fundos de investimento do
+mundo, onde eles vêm trazendo o conceito
+de AI native agences. Na verdade, eles
+estão buscando agências de inteligência
+artificial. É tipo assim, ó. Se você aí
+tem uma agência de inteligência
+artificial ou se você tem alguma coisa
+relacionado a, ou melhor, agência de
+inteligência artificial, agência de
+inteligência artificial, não, a agência
+de Nativa, que é completamente
+diferente. Ou se você tem algum business
+de serviço com AI native business, né,
+service business, que eles falam aqui,
+que é o serviço de ar nativo, fala aqui
+com a gente que a gente quer ouvir de
+você. Então, nesse vídeo, a gente vai
+falar sobre essa oportunidade. Para que
+que quem para quem que é esse vídeo
+aqui? Quem que tem que tá aqui comigo?
+Para você que quer empreender, para você
+que tá empreendendo com tecnologia, seja
+ou para você que é dono de agência,
+gestor de tráfego, já percebeu que
+continuar do jeito que tá não faz
+sentido, já percebeu que vender agentes
+de inteligência artificial, automações,
+não faz sentido nenhum? Já percebeu que
+precisa achar um novo caminho? Então,
+bora falar sobre isso. Vamos falar sobre
+IA, modelo de negócio, como você pode
+aproveitar tudo isso aqui. Para você que
+não me conhece, muito prazer, meu nome é
+Kelvin, eu sou um programador que
+decidiu empreender aos 22 anos de idade.
+Montei a minha primeira empresa que deu
+certo, a General Clans, aos meus 22, fiz
+a venda de 50.1% dessa empresa em 2022 e
+fiz o meu exit em 2025, no ano passado,
+e fundei a Celera 360 em 2025. Para você
+que não conhece a Celera 360, nós somos
+um ecossistema de empreendedorismo tec.
+Então você que quer empreender, você que
+precisa de ajuda para tirar sua ideia do
+papel ou você que precisa colocar
+tecnologia aí na tua empresa, vai
+pivotar o teu modelo de negócio, acelera
+para você. Você vai clicar no link que
+tá aqui na descrição desse vídeo e vai
+saber mais sobre nós, tá bom? Bora
+começar esse vídeo. De onde tudo
+começou? É isso mesmo. Tô em Sorocabo
+aqui, ó, numa câmera de notebook. Mas o
+que importa é o conteúdo. Então vamos
+lá, galera. Ó, deixa eu arrastar o post
+original para vocês verem. Esse aqui é o
+post original do I Combinator, tá?
+Então, basicamente aqui, ó, é onde eles
+fazem pedidos por startup, né? Tipo,
+fala assim, cara, ó, a gente tá buscando
+muito isso daqui. Eles postaram agora no
+início de 2026 algumas coisas que eles
+estão buscando. Por exemplo, cursor para
+eh gerentes de projeto, que é o gerente
+de produto, que é tipo assim, cara,
+olha, você tem aí o cursor, ferramentas
+de desenvolvimento, de geração de
+códigos, tem muita AI tools for writing
+code, né, tipo ferramentas para
+desenvolver código, mas você não tem
+ainda ferramentas, a gente não tá vendo
+muitas ferramentas para gerenciar
+produtos ou criar produtos. Então, se
+você tem aí eles pedem. E aí uma das que
+eles colocaram aqui, está aqui, ó, eh,
+AI Native Agencies, né? Que que eles
+estão falando? Que a agência, por si só,
+uma agência de marketing tradicional,
+ela não é escalável. Na verdade, nenhuma
+empresa de serviço ela é escalável.
+Empresas de serviço, elas são
+escalonáveis. Conforme elas crescem o
+faturamento, elas têm que crescer
+consecutivamente a quantidade de head
+count de pessoas. Só que a IA transforma
+isso. Então, empresas nativas, né, e e
+agências de AI nativa, se você tem uma
+agência de A nativa, manda aqui, vamos
+conversar. Eu quero entender como que
+você tá fazendo isso. Por quê? Porque
+eles têm uma tese que é o seguinte, ó,
+que por que agências do futuro, né, ão,
+que eles estão olhando, elas podem eh
+crescer tanto quanto empresas de
+software, inclusive ter as mesmas
+margens. Por quê? porque elas podem ser
+também escaláveis, serviços escaláveis
+com inteligência artificial. E quando a
+gente tá falando de serviço escalável, a
+gente tá falando de gestão de tráfego,
+de social mídia, social selling, tudo
+que uma agência por si só faz, a parte
+de publicidade inteira, ela pode ser eh
+escalável com inteligência artificial.
+Só que eles não falam só de agências de
+eles também estão falando do quê? de
+empresas de serviço, que é aquilo que eu
+sempre prego aqui para vocês. Essa é é a
+nossa real oportunidade. Por quê? Porque
+todas elas estão são iguais. Empresas de
+serviço em geral, de modo geral, tem
+gargalos operacionais, processos
+repetitivos, ineficiência histórica,
+margens comprimidas por folha salarial,
+por head count. Logo, se a gente quer
+empreender com o IA, com tecnologia, não
+faz sentido vender agente, automação,
+soluções pontuais, porque isso não gera
+resultado na ponta pro nosso cliente.
+Agora, faz total sentido, é a
+oportunidade perfeita para
+infraestruturas de crescimento com
+inteligência artificial. Kelvin, eu não
+entendi ainda o que que o I Combinator
+quis dizer. Deixa eu mostrar para vocês,
+ó, a diferença de uma empresa de
+tecnologia para uma empresa tradicional.
+Isso aqui é um gráfico que eu montei, ó.
+No eixo Y, a gente tem o faturamento por
+mês. Então, quanto mais alto, mais
+fatura. Começando em 0, R$ 0 de
+faturamento por mês até 1 milhão de
+faturamento por mês. E aqui no eixo X a
+gente tem o volume de head counts. Head
+counts são pessoas na operação,
+quantidade de gente trabalhando. Uma
+empresa de serviço tradicional, o que
+que acontece? Conforme o faturamento
+aumenta, empresa de serviço tradicional,
+só para vocês entenderem, escritório de
+advocacia, contabilidade, clínicas
+médicas, empresas de marketing,
+arquitetura, engenharia, consultoria
+estratégica, empresa de manutenção,
+agência imobiliária, facilities em
+geral.
+Essa de gente aí,
+ó, conforme vai aumentando o volume de
+pessoas, pa ou melhor, o volume de
+faturamento, conforme cresce o
+faturamento, tem que crescer o número de
+gente. Então, se fatura 100.000, 1000
+tem 10 pessoas. Para faturar 200.000 tem
+que ter 20 pessoas. Para faturar 300.000
+tem que ter 30 pessoas. E assim
+consecutivamente. É diretamente
+proporcional o aumento de faturamento
+com a quantidade de pessoas. Logo,
+quanto maior faturamento, alto custo,
+maior o custo e a margem fica em torno
+de 20 a 35%.
+E esse e essas empresas essas empresas
+elas têm um pequeno probleminha que é o
+seguinte, elas elas ficam em um
+determinado limbo. Se ela não é nem
+muito grande e nem muito pequena, se ela
+é média, o dono não tá ganhando
+dinheiro. O dono, o empreendedor mesmo
+não tá fazendo grana, não tá sobrando
+dinheiro no bolso dele, porque ele não é
+nem muito grande, nem muito pequeno,
+esse cara não tá fazendo dinheiro. E
+isso é um problema para ele e pra gente
+é bom, porque essa é uma dor que a gente
+pode explorar. Já uma empresa de
+software, ela tem um comportamento
+diferente. Olha que interessante, ó.
+Ela, conforme ela vai crescendo o número
+de funcionários, ela cresce, na verdade,
+até um determinado momento, até um
+determinado faturamento. E aí na
+sequência ela, pum, arrebenta para cima.
+Ela pode aumentar o número de
+faturamento, a quantidade de faturamento
+que não é proporcional o crescimento dos
+red counts. Por que que eh o SAS permite
+fazer isso daqui? Porque o SAS ele é um
+produto altamente escalável, porque você
+não precisa eh ficar desenvolvendo ele
+de acordo com a quantidade de cliente.
+Você, na verdade, só sustenta e vai
+melhorando. Então, seu time de
+tecnologia pode ser de 20 pessoas e você
+ter 2 milhões de cliente. Você pode ser
+os mesmos 20 pessoas e você ter eh 4
+milhões de clientes, que dá na mesma.
+Então significa que você consegue em um
+determinado momento aumentar o teu
+faturamento para cima sem aumentar o teu
+volume de clientes. Aí sem sem aumentar
+o seu volume de head counts. Logo você
+vai ficar com baixo custo e você vai ter
+margens altíssimas.
+E aí, gente, que entra o momento, a
+gente
+nesse exato momento que estamos, é
+possível nós transformarmos
+este cara aqui neste cara aqui com
+inteligência artificial. Isso é tão real
+que eu vou deixar até um convite para
+você aqui, ó, no dia 21 agora de
+fevereiro, dia 21 de fevereiro, eu vou
+fazer um workshop chamado Grow AI
+System. Ó, 21 vai cair no sábado, tá? Ó,
+21 de fevereiro, Grof System vai ser um
+workshop online, ao vivo, online. Eu
+estarei lá para explorar mais essas
+possibilidades de como você pode
+empreender com inteligência artificial,
+como você pode ser um agente
+transformador, como você não fica só no
+campo de vender automação, de vender
+agente de IA, de vender chatbot e vai
+para um modelo onde você literalmente
+cobra 30, 40, R$ 50.000 R000 de
+implantação, mais R$ 2000, R$ 3.000 de
+recorrência com o IA. E esse modelo está
+baseado nesse conceito aqui, ó, em
+explorar essa dor, de auxiliar, de
+ajudar essas empresas tradicionais a
+serem empresas que tenham altas margens
+e sejam escaláveis, tá? O link tá aqui
+na descrição desse vídeo. Você quer
+empreender, você que tá querendo tirar
+sua ideia do papel aí com o IA, você que
+é dono de agência de marketing, até você
+que é empresário, esteja lá para
+entender mais. Vai ser um workshop de 5
+horas, vai ser uma entrega absurda. Não
+perca, não perca, hein? Então, vamos lá.
+Vamos voltar ao conteúdo. Agora que você
+entendeu esse conceito de produto eh de
+tecnologia versus empresa tradicional,
+isso aqui, produto de tecnologia é
+através de empresas de tecnologias, né,
+mais modernas.
+Vamos falar aqui dos problemas das pré
+AI Service Companies, das empresas de
+serviços pré-AI, que é o que as empresas
+que a gente tem hoje, né? O Brasil aí
+tem 23, 24 milhões de empresas,
+pouquíssimas mesmo. Dá para contar aí
+não passa de 500 empresas que realmente
+estão implementando e a de uma forma
+correta e essas empresas realmente t
+muito dinheiro para investir nisso. O
+restante é pré AI company, tá? Quem fala
+que tá ali no modelo AI first tá
+mentindo. Então vamos lá. Negoção, eles
+são negócios lineares. Lineares, ó,
+crescimento linear assim reto que eh
+intensivos em mão de obra. precisa de
+muita gente para crescer um faturamento.
+Esitório de advocacia, contabilidade, já
+falei. Geralmente a receita dessas
+empresas é por hora ou por produto
+vendido, cresce contratando gente,
+margens limitadas por folha de
+pagamento. Não, eles não conseguem
+crescer porque tem muita gente, muito,
+não tem processo, depende de talento
+individual. Às vezes é, tem 20
+funcionários, mas é apenas um. É apenas
+um lá que ou dois que trabalha muito. É,
+a venda deles e a atuação deles são
+regionalizadas e eles não conseguem
+escalar. E é isso aqui que o I
+Combinator tá falando aqui, ó. Olha,
+eles estão atrás dessas empresas, gente.
+Os caras que t o dinheiro tão estão
+querendo ir atrás desse tipo de empresa,
+empresas AI Native. Agora, o que eu
+pergunto para você que tá assistindo
+aqui, é ou não é o momento de ser o
+agente transformador para criar essas
+empresas aqui? É lógico que é.
+Não tem como. Olha isso, gente. O
+mercado, isso são sinais. São sinais que
+o mercado tá mostrando, velho. Doideira
+isso daqui. Por isso que eu falo, não
+faz sentido vocês ficarem aqui, ó. Ah,
+não, fazendo soluçãozinha isolada, é,
+atendendo um nicho genérico, fluxo,
+agente, automação, implementa CRM, fica
+só na ferramenta, sai da ferramenta, vai
+pra solução. Entenda, vá entregar a
+solução, vai gerar mais faturamento,
+mais margem, mais escala com o IA.
+aplicado de forma estratégica pro seu
+cliente. E você que é empresário e tá
+aqui nesse vídeo, deixa eu te falar,
+você precisa ir para um modelo AI
+first. Você não é AI Native. AI Native é
+a empresa que nasce já pensando em IA
+desde o começo, já tá estruturada para
+IA. Você já é uma empresa tradicional
+que tá no mercado, seja 1, 2, 5, 10
+anos. Então o que você tem que fazer?
+Você tem que ir para um modelo AI first.
+Você tem que caçar pessoas que possam
+ajudar o seu negócio a fazer essa
+transformação. E lá na Acelera eu
+garanto para você que você vai
+encontrar. Para você conhecer mais da
+Celera, esteja com a gente no workshop
+que vai acontecer agora no dia 21/02,
+tá? Você vai entender mais sobre isso e
+como nós podemos te ajudar.
+Saia do modelo tradicional ou você
+literalmente vai deixar de existir nos
+próximos,
+eu não vou falar meses, vou falar no
+próximos anos. vai deixar de existir. Eu
+eu ainda acho que muitos vão deixar de
+existir aí de 6 a 12 meses,
+principalmente muitas agências, tá?
+Então a transformação é essa daqui, ó,
+pré-AI para pós AI. O modelo de negócio
+que vocês têm que se transformar, isso
+aqui, ó, empresas tradicionais no modelo
+AI first. Você quer empreender, olha
+aqui onde você ganha. sendo esse agente
+transformador, você pode ganhar aqui, ó,
+ajudando empresas tradicionais.
+não tô compartilhando a tela. Olha aqui,
+ó. Vocês podem ajudar aqui, ó, empresas
+tradicionais, ajudando empresas
+tradicionais que estão aqui a irem para
+este modelo aqui, ó, transformando ela
+em empresas AI first, tradicionais no
+modelo EI First. Olha o modelo AI first.
+Qual que é a lógica? A a tradicional de
+serviço tá aqui linearizada. A de
+tecnologia tem essa curva absurda,
+altamente escalável. A EIF tá aqui, você
+consegue implementar IA de forma
+estratégica, consegue escalar o negócio,
+ela vai baixar o custo de baixo para
+médio o custo com margens superiores a
+50%.
+E ela tem um alto faturamento. Então
+ela, olha que louco, olha como a curva
+se assemelha, chega próximo
+de uma empresa de tecnologia, ela acaba
+virando uma empresa de tecnologia em
+algum momento. Acaba. Então, olha que
+doideira. É isso aqui, ó. Você, você que
+tá aí, você pode ganhar aqui, ó. Você
+pode ser esse agente transformador que
+ajuda a empresa a sair do A pro B. Não
+dá para fazer isso com implementando só
+agente de A ou só automação isolada. Tem
+que nichar, entender a dor do nicho, o
+gap do nicho e fazer o mapeamento
+completo e implementar e de forma
+estratégica, mostrar pro empresário
+conseguir os primeiros cases e pum,
+explodir. É possível. Na acelera tem
+mais de 280 parceiros. A galera tá
+fazendo. É possível sim você fazer isso
+daqui, tá? E gerar a receita lá pro teu
+cliente. Faz isso aqui. Pum. Ah, mas é
+complexo. Olha aqui. Isso aqui gera para
+você auto setup e alta recorrência. Auto
+setup e alta recorrência. 15 clientes,
+20 clientes já te possibilita aí ter uma
+escala acima de 1 milhão de faturamento.
+Ou você pode ganhar aqui. Você pode
+ganhar aqui também, ó. Você criando uma
+empresa EI Native, você também pode
+fazer isso daqui. Você pode ser uma
+empresa Native. Você aí que é é dono de
+agência, você pode, vou me
+transformar completamente numa AI native
+agence. Eu vou pensar o meu modelo de
+negócio para que ele funcione desse
+jeito. Desde o começo eu vou transformar
+ele. Por quê? Porque ou você pivota de
+vez ou você, se você ficar no meio
+termo, ah, eu vou continuar atendendo
+aqui, mas eu vou pensar desse outro
+jeito aqui. Você vai ficar equilibrando
+o pratinho e não vai dar certo. Não vai
+dar certo, entendeu? Ou você pode fazer
+o quê?
+Na verdade que é a mesma coisa, né? Ser
+este agente transformador, em algum
+momento você acaba comprando uma
+empresa, um dos seus clientes, porque
+você cresceu tanto, você acaba
+absorvendo ele e aí você literalmente
+entra pro jogo de ser uma empresa de
+serviço, sendo operacionalizada 100% com
+inteligência artificial. E agora eu já
+comecei a falar um monte de loucura.
+Essa é a parte maravilhosa de você
+pensar em modelo de negócio. Deixa eu
+contar, o produto é o menor dos
+problemas. a ferramenta menor dos
+problemas. Você tem que pensar no modelo
+de negócio em solução. Para você que
+quer empreender, o modelo de negócio é
+rei, vendas é rei, o nicho é rei. Então,
+escolha nichos que tem alto potencial,
+que tem muita gente, que tem ticket bom
+para te pagar, onde você consegue
+acessar o player direto, nicho que se
+que seja de um mercado fragmentado para
+que você estruture uma proposta e first.
+Cria a tua infraestrutura de crescimento
+com IA, ataque o mercado, seja esse
+agente transformador. Estamos no melhor
+momento para você empreender e
+enriquecer de uma forma segura. Vai ser
+rápido. 3s meses em média você já começa
+a faturar bem. Você não fica, você não
+precisa ter uma operação gigantesca para
+você ser esse agente transformador. Cria
+um modelo de negócio que permita você
+fazer isso aqui, ó. O teu primeiro
+cliente vai dar prejuízo. Você vai vai
+começar a empreender o teu primeiro
+cliente vai dar prejuízo. Mas o seu
+segundo, seu terceiro, seu quarto, olha
+aqui, ó. O teu negócio vai ter alta
+margem e o tempo de implantação da sua
+solução de AI vai diminuir
+drasticamente. E é aqui que mora o jogo,
+ó. O último cliente sempre é o melhor.
+Então, a cada cliente que vai entrando,
+você vai melhorando o teu processo. E é
+sobre isso, você empreender, ó, com isso
+aqui, com cabeça da forma correta. Se
+você quiser empreender com inteligência
+artificial, você tem que estar na
+Acelera, você tem que estar comigo no
+dia 21/02 agora no nosso workshop. Clica
+aqui no link que tá na descrição desse
+vídeo. Vai ser um prazer que nossa,
+explodi tua cabeça lá. E esse vídeo foi
+sobre isso, galera. Espero que vocês
+tenham gostado. Comenta aqui o que que
+vocês acham sobre esse movimento em I
+first. Faz sentido, não faz sentido? Se
+você é dono de agência, como que tá aí o
+seu processo? Já tá migrando para isso?
+Não tá? Você tá empreendendo com?
+comenta aqui também. Vai ser um prazer
+ler teu comentário. Se você não me
+segue, já clica em me seguir aqui. E até
+mais.

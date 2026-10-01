@@ -1,0 +1,379 @@
+programadores estão sendo demitidos po
+sendo demitidos layoffs em massa
+acontecendo gente o mercado tá mudando e
+vocês precisam entender isso quanto mais
+rápido vocês entenderem que o mercado
+assim tá mudando drasticamente não é só
+o mercado de tecnologia é todos os
+setores é um mercado mundial é só você
+dar uma olhada no relatório da mackens
+que Analisa os impactos da Inteligência
+Artificial nos mercados né nos segmentos
+industriais vocês vão ver o que vai
+acontecer nos próximos anos mas vamos lá
+eu não vim aqui pregar o o Apocalipse
+para vocês pelo contrário eu vim aqui
+dar um pouco da minha visão sobre o que
+que tá acontecendo porque isso tá
+acontecendo o que tem por vir nos
+próximos dois meses e o que você tem que
+dois meses não nos próximos do anos e o
+que você realmente tem que fazer para se
+proteger né para você que quer seguir
+ainda como seguir sua carreira
+corporativa o que você tem que fazer
+para você se você quer ir para
+empreender o que que você tem que fazer
+porque isso é muito importante tá eu
+garanto para você que se você tiver
+apenas um Insight valioso esse vídeo já
+valeu a pena e a minha missão já vai ter
+vai e ter sido cumprida com relação a a
+essa gravação que eu tô fazendo para
+vocês então vamos lá vamos vamos partir
+aqui para entender o o cenário Tá o que
+que tá acontecendo deixa eu pegar meu
+iPad ã Galera vocês tem que entender o
+seguinte ó vamos lá como que é o mercado
+hoje né então um mercado de de tecnolog
+a gente tem a gente tem lá as os as
+plataformas né que são os software as
+ser que são ferramentas que nos auxiliam
+no dia a dia e que trouxeram muita
+produtividade operacional para nós no
+mercado de tecnologia por exemplo azure
+devops clickup notion eh o azana então
+ferramentas paraa gestão ferramentas
+para codar para gerenciar código para
+auxiliar o desenvolvedor são ferramentas
+que nos agilizam e e nos ajudam a nos
+organizar é eles são só organizadores se
+você analisar qualquer ferramenta dessa
+pode ser substituída tranquilamente por
+um Excel então o sas aqui é isso daqui a
+ia a gente teve o Boom agora mas lá em
+vai começou em 2022 na verdade né então
+22 então aqui na ia a gente tem ias
+generalistas como chat chpt como deeps
+Creek agora do do Elon musk E por aí vai
+essas ias elas também entraram para
+complementar o nosso o nosso dia a dia
+né o nosso processo de automa de
+melhoria contínua da eficiência por quê
+Porque elas nos ajudam a escrever a
+formatar um texto a nos dar insights a
+ideias e por aí vai só que elas são
+generalistas esses daqui eu vou focar
+llm Então são language langage language
+models Então são e tem lá o o GPT E por
+aí vai então elas são treinadas com a
+massaroca de informação do mundo e você
+entra lá e você consegue pesquisar e
+tudo mais beleza elas são generalistas
+só que existe uma intersecção entre
+esses dois mundos aqui que é o que
+realmente vai fazer uma grande diferença
+então entre o sas e ia existe aqui a tal
+da vertical ia que tá se transformando
+num novo modelo de chamado ia aí alguma
+coisa assim vou escrever mais para C E
+que é o um modelo onde eu tenho modelos
+llm treinados especificamente para
+resolver um tipo de problema é uma llm
+inteira por exemplo treinada para codar
+tipo o Dev uma llm inteira treinada para
+fazer análise de requisitos entenderam
+agora que começa a ficar assustador eu
+tenho uma empresa depois eu sou
+empresário tenho empresa de tecnologia
+eu treinou eu estou treinando uma llm
+com os padrões de projeto que eu utilizo
+para desenvolvimento dentro da minha
+empresa com o Framework que eu uso com
+os Dev Packs que foram desenvolvidos com
+o conceito do meu produto para que ela
+me auxilie tanto no pensamento e
+evolução da ferrada de features
+definição de features como também
+auxilie desenvolvedores a codar entendeu
+E esse é o grande ponto as llm vão ficar
+específic e essa ideia de vertical ai
+é não é igual o GPT que é algo
+generalista que só é um assistente o
+objetivo da vertical ai ele é substituir
+100% o trabalho de uma pessoa 100% só
+que se ele atingir o 100% top mas assim
+bem provável quer dizer difícil né mas
+60% 70% é PL demais para agora por
+exemplo pros próximos anos muito
+plausível e esse cenário ele é tão
+cabuloso tão tão real Na verdade que se
+você for analisar Se você pegar os
+maiores fundos de investimento do Vale
+do Silício hoje estão investindo se eu
+não me engano ai a última não lembro
+agora não vou nem falar o número para
+não errar mas são alguns bilhões
+empresas SAS que estão criando as eas
+verticais focadas em determinados nichos
+em resolver determinados problemas se
+você pega os relatórios do dos
+principais fundos de investimento você
+vai sempre olhar o tal do é o o sas novo
+que é esse aqui ó ele corta esse as
+serves as então que é o serviço como
+software que aí realmente é onde a o
+bicho pega aí é onde o bicho pega legal
+e qual que é o impacto Então vamos vamos
+analisar aqui ó galera eu sou
+programador eu sou apaixonado por isso e
+e a gente tem que ter uma visão realista
+sobre o que tá rolando não isso aqui não
+tem nada de Skynet futurista nem nada
+isso aqui é tipo assim ó um time de 10
+pessoas vai virar um time de três
+entenderam vocês TM noção da proporção é
+70% menor não é que vai acabar vai
+diminuir Então a gente vai ter aqui vai
+o programador ele pode ser afetado
+drasticamente Na verdade ele até começou
+ass arquiteto software que pariu po
+meu Deus do céu esse cara tá se ele for
+o pi que só faz Daily e cobra Dev ele tá
+morto e a maioria dos pios analista de
+negócio cara esse cara tá na merda esse
+esse cara aqui tá extinto por quê Porque
+você consegue treinar uma llm explicando
+todo o seu modelo de negócio e dando
+todo o histórico da tua vida da tua
+empresa lá dentro todos os beos que já
+aconteceram tudo aquilo que foi
+registrado conversa de Slack conversa de
+teams tudo tudo
+tudo lá dentro você treina esse modelo
+Esse é o llm da sua empresa e esse cara
+tranquilamente vira um analista de
+negócio é bizarro e outras funções time
+de suporte cara já era já era eu só tô
+esperando passar umas loucuras aqui para
+começar a implementar e ir a vertical
+pro suporte real isso é hoje conectada
+no WhatsApp conectada no gira para
+responder automático já ligado a uma
+base de dados de conhecimento É doideira
+É doideira a gente precisa ser Realista
+e olhar o cenário eu não tô falando aqui
+de nada muito muito assustador Então vou
+dar um um um briefing para vocês aqui ó
+um site ó agente de requisitos uma um
+uma llm treinada só para fazer
+levantamento de requisitos agente de
+Daily e acompanhamento de processo
+agentes de não CONSEG entender que eu
+[Risadas]
+escrevi Desculpa tô gripado agentes de
+arquitetura de software Arquitetos
+agentes geradores de código há muito
+tempo atrás eu usava um negócio eu
+automatizei inteiro o processo de
+geração de código há muito tempo atrás
+hoje Se eu conseguir fazer isso lá atrás
+e eu conseguia tipo assim em vez de no
+começo da minha empresa não tinha
+dinheiro para contratar pleno então eu
+gastei muito tempo facilitando o
+processo para Júnior eu criei muito
+Framework muita estrutura de programação
+para ela se tornar simples bem bem
+travada para evitar merda e eu e eu crii
+um gerador de código porque eu queria
+acelerar meu processo de volvimento Se
+eu conseguir fazer isso com o T4 imagina
+o que eu consigo fazer com a de um
+GPT de de uma llm Open sce entendeu e
+não e não sou eu não sou especial
+imagina o que você consegue fazer ou
+você da área de tecnologia você sabe o
+que dá para fazer ag gente de suporte
+isso aqui já existe então assim o
+negócio tá ficando feio e Ah mas vai
+demorar não não gente entenda uma coisa
+ó vocês tem que entender o que Que
+motivo uma empresa fazer uma mudança
+fazer corte a fazer contratação esse
+tipo de coisa são três principais
+eh pontos que uma empresa ela se
+movimenta ou para contratar uma
+ferramenta nova ou para fazer um
+desligamento em massa em massa ela
+sempre vai focar ou no aumento da
+receita ou na redução de custo ou no
+gerenciamento do risco ou na gestão do
+risco dela então assim ou ela vai
+diminuir ela quer diminuir o risco que
+ela tá tendo operacional ou compliance
+ou ela quer reduzir custo Então ela quer
+cortar drasticamente seus custos para
+aumentar a margem no final das contas ou
+ela vai trabalhar em aumento de receita
+entrar mais dinheiro para dentro de casa
+porque uma empresa ela tem que ser
+saudável Então vamos parar de Romantizar
+a empresa vamos parar de Romantizar
+emprego porque um CNPJ é o seguinte é
+uma entidade que tem fins lucrativos e
+tem o objetivo de manter uma margem ou
+eidar acima de 20 30% tem uma Margem
+Alta tem uma operação enxuta E se eles
+encontrarem a oportunidade de olhar e
+implementar uma coisa que faz o ebid
+deles pular de 20 para 40% eles vão eles
+vão fazer vão cortar tiver que cortar e
+acabou cara é sem gente papo papo de
+homem aqui para homem homem para mulher
+é papo real papo de gente aqui ó falando
+cara é esse é o cenário entendeu na aqui
+é isso Beleza então assim são esses três
+motivadores que implicam de uma empresa
+fazer um movimento e o pior de tudo Eh
+Ou melhor é que a ia vertical traz isso
+aí a vertical Ela traz ela pode trazer
+aumento de receita se ela for focada na
+venda ela pode trazer reduções de custo
+e esse aqui é o
+principal porque uma coisa é você
+reduzir 5% do teu custo a outra coisa é
+você reduzir 40% do teu custo vocês tem
+noção é muito diferente 40% do custo é
+muita coisa e o gerenciamento de risco
+que ela também consegue fazer
+tranquilamente agora esse de cima aqui
+eu sou meio suspeito porque eu acho que
+a venda ela é muito pessoal ainda sbe
+que ela é muito huma a gente vende PR
+mano pra gente gente vende pra máquina
+então assim a venda a venda então o
+aumento da receita aqui é muito Humano e
+qual que é o nosso problema né que eu
+vou eu vou analisar o caso de uma pessoa
+de Dev E por que que por que que esse é
+um grande problema porque o Dev então
+numa Isso aqui é uma esfera é um modelo
+que eu aplico né eu chamo de Skill radar
+aqui na empresa então o Dev então
+Imagine que aqui ó é zero e aqui se eu
+for analisar eu vou vir em vermelho o
+Dev ele tem a parte de negócio quase a
+parte da resolução de problema e a parte
+de comunicação que o radar de quando
+você se você analisa que você tem uma
+Skill radar dessa Nossa tá lento a a
+transmissão é o que que você consegue
+ver cara que qualquer llm qualquer aí
+vertical que substitui a parte técnica
+esse cara tá na rua o cara com esse
+Skill aqui ó tá na rua Ele só sabe a
+parte técnica tem uma uma comunicação
+ruim tem uma parte de negócios ruim que
+que é negócio tá é o cara que entende
+que quer entender do processo da empresa
+Como funciona o mercado da empresa como
+que a empresa ganha dinheiro eh como que
+são as despesas que aquela empresa tem
+como que a operação dela funciona é um
+cara que tá preocupado em em em entender
+aonde ele tá trabalhando e e resolução
+de problema cara é o cara que ele ele
+tem que entender de negócio porque ele
+entende a gravidade daquele problema pra
+área de negócio e aí ele dá uma solução
+às vezes que ela é até um pouco anti
+Ortodoxa Ortodoxa no no anti Ortodoxa
+não né pouco Ortodoxa para relação à
+parte técnica é o cara da gambiarra
+entendeu por quê Porque ele olha ele
+fala cara é muito e isso é algo
+impactante tem que ser rápido ah mas
+demora dois meses para fazer a
+gente vai fazer em uma semana porque a
+gente vai fazer assim assim assado isso
+é o resolvedor de problema esse cara é
+Uma Peça Rara então o o cenário do Dev é
+esse sendo que o cenário do Dev dever
+média técnica uma comunicação a parte de
+negócio e a resolução de problema então
+ele mais é um Tá vendo como é
+completamente diferente por exemplo vou
+dar um outro po ele tem a comunicação
+alta aí a parte de negócio é baixa tô
+falando do Pi real tá a resolução de
+problema dele é baix e a parte técnica
+dele é zerada Esse é o cenário de não
+todos tá não tô sendo generalista mas
+travou o meu sendo que o po ele deveria
+ter uma visão técnica de pelo menos ali
+1 e me então é um cara que tem que
+entender da parte técnica Não muito mas
+ele tem que entender ele realmente tem
+que ter uma Comunica a a negócio ele tem
+que ter pelo menos na metade no meio e
+ele tem que ter uma parte de resolução
+de problema muito alta também porque de
+novo o que interessa pra empresa é
+resolver o problema e ganhar dinheiro
+mas gente ah o que que eu acho que a
+gente tem eh vocês têm que fazer né você
+tem que decidir o seguinte ó você tem
+dois caminhos né para seguir você quer
+seguir pro mundo corporativo você quer
+ser um cara que segue uma carreira né
+uma carreira corporativa Ou você quer ir
+pro caminho do empreendedorismo tá pro
+caminho do
+empreendedorismo a a ia vertical ela é
+um de um benefício é uma nova onda
+é tipo a do info produto é tipo do
+dropshipping esse tipo de coisa Imagine
+você criando a sua ia vertical você
+pegando seu conhecimento e jogando
+dentro de uma ia vertical que faça a
+mesma coisa que você você pode vender
+isso PR os outros isso aqui é fenômeno
+então assim inclusive se você quiser pro
+empreendedorismo eu tenho uma playlist
+aqui de jornada do Empreendedor eu tenho
+alguns vídeos explicando é a coisa que
+eu mais amo fazer e cara eu eu recomendo
+agora se você quer seguir uma carreira
+corporativa foca muito nas suas porque
+as ferramentas do mercado elas estão
+mudando e você vai ter que aprender a a
+a desenvolver muito mais a sua softw e
+também fazer esse acompanhamento do
+mercado Quais são as novas ferramentas
+Quais são as novas tendências como que
+eu uso elas começa a ser você o cara que
+encabeça a vertical ai seja você o cara
+da diferença entendeu porque se você
+fizer isso aí sim aí você tem uma chance
+de ficar cá se você for o cara que só tá
+lá já era cara e o mundo tá mudando o
+mundo tá mudando não né o mundo eh é ele
+tá mudando Ele tá mudando belezinha eh
+esse é o cenário que eu quis passar para
+vocês talvez vocês achem um pouco
+apocalíptico mas não foi essa a intenção
+tá é é mais uma ideia de abrir a mente
+de vocês para novos ares comecem a
+pesquisar sobre vertical ai comecem a
+pesquisar sobre empreendedorismo comecem
+a detectar novas oportunidades comecem a
+evoluir sua soft comunicação liderança
+comecem a pensar mais em resolver
+problemas eh comecem a entregar mais
+valor naquilo que vocês fazem valor Esse
+é o rolê valor belezinha eh já se
+inscreve no canal se você gostou desse
+vídeo já comenta aí também ativa o
+Sininho e eu agradeço muito pela sua
+audiência um abraço

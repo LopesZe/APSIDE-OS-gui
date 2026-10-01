@@ -1,0 +1,365 @@
+No code é jogo de menino, jogo de gente
+grande é high code. Sabe por que eu tô
+gravando esse vídeo? Porque o pessoal do
+No code ficou puto comigo com meu vídeo
+de ontem falando que eu desenvolvo mais
+rápido escrevendo código, código mesmo,
+do que em no code. É lógico que eu dei
+uma exagerada, né? O no code você
+consegue de fazer muito mais muito mais
+rápido, porque não não tanto mais rápido
+assim. Só que no code não é para tudo e
+vocês têm que entender isso. Ah, Kelvin,
+mas tem várias pessoas ganhando muito
+dinheiro com no code. O que que é muito
+dinheiro? [&nbsp;__&nbsp;] mano, vocês estão
+achando que fazer 40.000 por mês é muito
+dinheiro. Mas, ó, a questão nem é essa.
+Eu parei para analisar aqui e trazer
+para vocês uma perspectiva sobre isso e
+eu vou explicar para vocês. Entendam. É
+para vocês, ó, assistirem esse vídeo
+aqui e entender esse ponto de vista, tá?
+E [&nbsp;__&nbsp;] comenta aí também se você não
+tá de acordo com isso. Mas vamos lá. Que
+que acontece, ó? Essa aqui hoje é o
+landscape do no Code, né? Acho que deve
+ter todas as empresas aqui. Você tem lá
+o N8N, o Flutter, tem o Bubble, que são
+as principais, né? É o Flutter Flow. O
+Flutter não, Flutter Flow, cara, tá todo
+mundo aqui. Esse aqui é a quantidade de
+empresas que estão construindo
+ferramentas no e low code. Então, sem
+código nenhum ou com pouco código.
+Legal. E deixa eu te falar, eu gosto
+para [&nbsp;__&nbsp;] do N8N, do Zaper. Eu uso
+Zaper demais, uso Make também, uso
+WordPress, Webflow.
+Só que vocês têm que entender para que
+que isso aqui serve de verdade,
+entendeu? Então vamos vamos começar.
+Quando você tá construindo
+uma ideia, quer tirar uma ideia do
+papel, cara, é a melhor coisa que tem.
+Fazer rápido, validar rápido e barato. É
+o que eu sempre prego. E o no code. E o
+low code é ótimo para isso. Tira a ideia
+do papel, bota para vender, saca? duas
+semaninhas já vende e vê se testa e se
+tem mercado. E se vender, você pode até
+ganhar tração ali vendendo, continuando
+escalando o projeto eh com o no code.
+Isso é ótimo. Só que assim, a hora que o
+negócio ganha corpo mesmo, é jogar tudo
+fora e escrever em high code. Você sabe
+por quê? Eu vou te explicar. Porque tem
+alguns contras do no code que são
+problemas sérios. É um risco sério para
+uma empresa ou para uma startup. por
+exemplo, risco de produtos core
+critical, né? Então, tipo assim, cara,
+imagina assim qual que é o a propriedade
+intelectual da tua empresa, do teu
+sistema, do seu SAS, quando você
+constrói, por exemplo, tudo no N8N e o
+Webflow, não tem no code, não tem
+propriedade intelectual, saca? Tipo
+assim, você tá ficando, você coloca a
+sua vida na mão dessas empresas. No code
+não é algo novo, saca? Na época do
+ASPNET tinha várias coisas prontas,
+telas login pronta que você só pegava,
+arrastava e jogava e tava tudo pronto e
+funcionava. Isso nem foi paraa frente
+naquela, porque antigamente era outro
+pensamento também. Mas por quê? Porque
+os devs ficavam com medo de ficar na mão
+da Microsoft, ela descontinuava muitas
+coisas. Ainda continua fazendo isso, né?
+Microsoft é uma desgraça para isso. Mas
+o mesmo pode acontecer. Você concorda
+que, cara, a cada tempo, quanto mais
+passa agora, quanto menos tempo, mais
+empresas aparecem de no code. Então,
+daqui a pouco aparece um trouble aqui,
+aparece um N9N e aí, cara, talvez o N8N
+morra, saca? E aí, [&nbsp;__&nbsp;] o N9N é 10.000
+vezes melhor, só que você não consegue.
+O N9N é outra empresa, você não vai
+conseguir migrar o seu sistema feito, o
+seu back inteiro feito N8N pro N9N. Você
+fica você fica refém dessa parada aqui,
+você fica refém das empresas, né? Então
+assim, tem um risco muito grande aqui no
+produto core. Dificuldade de manutenção
+e escala, não é escala de tecnologia,
+escalabilidade da PI, porque o N8N, por
+exemplo, que é back, ele é muito rápido
+e ele é bom para caramba. E você
+comando, você vai aumentando os core lá
+e o negócio tora. Legal. Só que tem um
+preço para isso. Só que a hora que o
+produto ele cresce muito, para você dar
+manutenção fica muito [&nbsp;__&nbsp;] Cara, vocês
+já viram um sistema grande feito em low
+code, em no code, um back grande, é
+muito, muito, muito ruim de dar
+manutenção. É perninha para cá, é
+perninha para cá, aqueles fluxos, meu, é
+assustador, velho. É assustador. É mais
+difícil que código. É mais difícil que
+código. Você fica aqui, ó, dependência
+da plataforma, que foi o que eu falei
+para vocês, falta de
+flexibilidade. [&nbsp;__&nbsp;] merda, alguém aqui
+agora, certeza que você aí pensou que
+falou: "Cara, esse cara é louco". Gente,
+na moral, o código, no código você faz o
+que você
+quiser. Não é tão flexível. O o o no
+code não é tão flexível quanto até
+porque ele precisa ser a de arrastar e
+soltar. Então, sim, tem uma falta de
+flexibilidade. Só que assim, essa falta
+de flexibilidade não afeta em nada. da
+hora que você tá aqui, ó, nessa etapa,
+entendeu? Então, essas três etapas,
+essas duas, né, porque ideia por ideia é
+só ideia na cabeça. Aí aqui que você
+realmente faz crescer. Então assim, não
+afeta em nada isso aqui, mas você tem
+isso daqui e isso aqui é um limitador
+grande para as empresas escolherem.
+Falta de controle, diversionamento, CCD,
+cara, isso não tem. Ah, mas estão
+implementando. Sim, mas cara, tá longe
+de você saber. O cara arrasta um
+quadrado assim, aí troca uma perninha,
+deletou. Ele não versiona isso, saca?
+seversiona depois vocês comenta aí
+porque eu não vi nenhum fazendo isso
+não. Eu vejo nego fazendo backup do Jon
+do N8N lá. É assustador. E quando que
+tem vários fluxos aind fluxo o que chama
+fluxo o que chama fluxo chama chama
+fluxo. O negócio não versiona. Não
+versiona. Não vem mentir para mim não.
+Espaguete visual. Mano, pegamos uma
+ferramenta node Reds uma vez. O back
+inteiro feito naquela parada. Dava medo.
+Dava medo. O negócio, cara. não sabia
+onde que tava acontecendo, era uma
+loucura. E então tem essa tal da
+complexidade oculta. Que que é
+complexidade oculta? Não é tão simples.
+Se você pega, por exemplo, cara, um um
+um sistema grande e se você quer fazer
+alguma coisa muito [&nbsp;__&nbsp;] tem um monte de
+complexidade oculta ali. Não é tão
+simples não. E aí tem um outro ponto, o
+que que acontece? Eh, vocês concordam
+comigo que, [&nbsp;__&nbsp;] para você, por
+exemplo, ficar bom no N8N, você tem que
+estudar. Você tem que estudar. Aí o cara
+é bom de N8N e aí tem um outro cara bom
+que é bom em Flutterflow. Aí tem um
+outro que é bom em automate, fica muito
+pulverizado. Aí o que que acontece para
+uma empresa? Se ela constrói toda a
+plataforma em N8N, daqui 3 anos ela não
+acha mais profissional em N8N, por
+exemplo, saca? É difícil de achar,
+diferente de uma linguagem de
+programação. Então assim, esses são os
+riscos que tem aqui no quando você usa
+um no code, um low code. E tem os próos,
+né? Infraestrutura e segurança
+gerenciada, a velocidade de
+desenvolvimento é absurda. Esse é o
+principal, baixo custo inicial. É barato
+você fazer. Eu uso, eu gosto, adoro.
+Desenvolvimento acessível. Isso aqui
+qualquer um vira desenvolvedor N8N. Não
+dá nem para chamar de desenvolvedor. Eh,
+alta produtividade em funcionalidades
+padrão, integração com centenas de APIs
+e ferramentas. Cara, isso aqui também é
+brabo, mano. Isso aqui é bom demais.
+Então, vamos lá. Quando que usa? Para
+que que serve? Vamos lá. Sinceridade,
+gente, MVP, ferramentas internas, teste
+de conceito, solução de curto prazo.
+Sabe aquele seu microssa que você quer
+fazer e [&nbsp;__&nbsp;] só quer ganhar um
+dinheirinho? Serve para isso, entendeu?
+Integração, cara, para integração é bom,
+hein? [&nbsp;__&nbsp;] merda, mano. Integração é o
+melhor que existe. Isso aí é bom demais.
+Mas você concorda que integração não é o
+cor da empresa? É um puxadinho. É por
+isso, entendeu? Integração é
+puxadinho. Dá para ter uma empresa de
+tecnologia que seja grande, sem código,
+se ela só se ela tiver nascendo, se ela
+tiver em MVP. Mas logo logo ela vai
+jogar tudo e vai escrever. Por quê? O
+código é um ativo de uma empresa. Código
+tem valor, gente. Quando você constrói
+um SAS com código e você começa a fazer
+aquilo ali, assim, você, vamos supor, se
+estrutura e vai lá, aí você olha aquilo
+e fala assim: "Put, não tá vendendo,
+você pivota, você transforma aquilo lá
+em outra coisa". Às vezes você vende,
+licencia aquilo para outra empresa usar
+aquilo para vender com outro nome. Você
+consegue fazer várias coisas, você
+consegue vender sua empresa porque
+alguém quer comprar o teu código fonte
+para fazer um outro sistema. Tem
+valuation, tem dinheiro no código, saca?
+Esse aqui é um jogo que vocês t que
+aprender, tem muito dinheiro, o código é
+ativo. E código é tanto ativo que ele
+até deprecia. Para vocês terem
+noção, lockin, então você tem limitação
+de saída, você fica travado naquela
+tecnologia, você fica travado, você é
+dependente do N8N, você é dependente do
+webflow, você é dependente da do bubble,
+entendeu? Dual diligence técnica fica
+fraca, vai, como que você vai fazer uma
+dual diligence? Não existe, sabe? O cara
+vai pegar ali, vai resumindo, du
+diligence, alguém vai olhar ali e vai
+ver se aquilo que você falou realmente é
+verdade, se existe. Vai olhar o quê? Um
+Jon não tem, não existe. Entenderam? Ah,
+tá. Kelv do céu, mas eu só quero ganhar
+um dinheirinho com meu
+microsas. No code. Futter e no code.
+Flow, eh, low code e no code. E tá e tá
+tudo certo. É o que eu falo na escola do
+Devempre Empreendedor, velho. Nós tem só
+faz, mano. Faz e bora. Vamos embora.
+Vamos vender, vender, vender, vender,
+vender, vender e já era. Isso aí.
+Dinheiro na conta. Só que isso é uma
+fase. Vocês t que entender que dá para
+criar algo grande. Dá para criar uma
+empresa que fatura 10, 15 milhões por
+ano, saca? É uma jornada. É uma jornada,
+mas tem um método para você fazer isso.
+Que com no code você não vai conseguir
+chegar nesse patamar. No code sim, você
+vai conseguir fazer uma grana, vai, vai
+dar certo. Entenderam? Eh, o pessoal
+ficou meio puto porque eu falei: "Cara,
+eu prefiro desenvolver aqui na na no meu
+ecossistema de desenvolvimento". Mas é
+porque eu criei isso daqui. Isso aqui
+foi foi anos estruturando. Mas entendam,
+vocês têm que começar em um momento.
+Você que escreve o código, pô, é bom
+você começar em algum momento a pensar
+desse jeito, construir o seu DVPC, saca?
+construir se as suas APIs, seu
+barramento de API reaproveitado e nada
+impede de você aproveitar isso aqui para
+um no code. A gente aproveita no N8N,
+saca? Entenderam? É, é esse o ponto
+principal. É esse o ponto principal. Ah,
+mas o o desenvolver o código também tem
+limitação técnica. Ah, meu, aí vocês
+estão querendo arrumar problema. Eu tô
+explicando para vocês o que é a verdade.
+Por exemplo, se você desenvolve uma [&nbsp;__&nbsp;]
+de uma ferramenta e aí você vai negociar
+com um cliente grande, imagina, vai
+colocar numa seguradora e aquela
+plataforma não entra, não aceita o time
+técnico de lá, nem você não passa nem na
+no complice, não. No complice passa não
+tem nada a ver com o código, mas não vai
+passar nem pela área técnica. Os caras
+vai analisar e vai e vai dar o vai
+falar: "Cara, não passou". Simples
+assim.
+reprovado. Não vai passar, saca? Por
+quê? Porque,
+cara, você é altamente
+acoplado. É a vida. É a vida. Deixa eu
+te falar uma coisa, tá? Antes de você
+terminar, antes de você terminar esse
+vídeo aqui, ó. Eu fundei a escola do
+devedor. Cara, que que é a escola do
+devedor? Lá a gente vai te ensinar isso
+aqui, ó. Vamos ensinar você a tirar sua
+ideia do papel, a validar ela, sa
+primeiro saber o que que é essa sua
+ideia, fazer uma projeção financeira,
+ensinar você a calcular o preço, quanto
+que vale isso que você tá fazendo,
+entendeu? Faz sentido tirar isso do
+papel porque eu vou ganhar dinheiro com
+isso. Aí depois a gente vai te ensinar a
+validar isso aí, a você vender, a você
+fazer pesquisa de mercado, a você fazer
+tráfego pago, a você analisar suas
+concorrentes, benchmark, saca? A gente
+vai te ensinar todo esse processo.
+Depois que você vendeu, a gente vai te
+ensinar a executar e a fazer essa
+empresa crescer, a você refinar esse
+modelo de negócio, você refinar o seu
+produto e depois a vender pra [&nbsp;__&nbsp;]
+entendeu? Então isso aqui é o framework
+que a gente ensina da escola Dev
+Prendedor. A gente ajuda você desde a
+tirar a sua ideia do papel ou a fazer
+você desistir de uma ideia ruim até você
+chegar aqui no final e vender e fazer
+esse negócio crescer de verdade. E ah,
+usa no code, tá? Só que a gente não
+ensina no code, tá? Eu não ensino nem
+sobre você a usar o bubble ou a você a
+escrever código. Não, isso aí você já
+tem que saber. E tem um monte de curso
+muito bom no mercado que ensina você a
+fazer isso. Você sabe o que que eu te
+ensino? Eu ensino a você ganhar dinheiro
+com essa parada, a você desenhar um
+modelo de negócio que faça sentido, a
+você aprender a vender, a você aprender
+a fazer o seu negócio crescer, entendeu?
+É isso que eu vou te ensinar, porque eu
+tenho experiência com essa parada. Eu já
+vendi uma empresa, tenho outras duas
+startups e tudo mais. Inclusive, ó, tem
+um vídeo, tem um link no final desse, na
+descrição desse vídeo aqui que conta um
+pouco da minha trajetória para vocês. E
+se fizer sentido, bora, cai para dentro,
+cai para dentro da escola dev predador
+que vai ser um prazer de ter lá. Ó, a
+gente já tá com 28 alunos, hein? Estamos
+crescendo, estamos crescendo. É isso aí.
+O projeto começou, ó, para você ver, em
+duas semanas, duas semanas eu tive a
+ideia, lancei, vendi e agora tô
+executando aulas ao vivo. Eu tô dando
+aula ao vivo, irmão. Terças e quintas,
+das 8 às 9:30 eu vou escutar você. Você
+vai ter acesso a mim. A gente vai sentar
+e vai bater um papo. Fala para mim que
+curso na internet que tem isso não tem,
+porque não é curso, é uma escola. É uma
+escola e vai ter aulas, vai ter outros
+professores que eu tô trazendo a galera,
+hein? E tô trazendo a galera porque a
+gente vai crescer. Beleza,
+ó. Cola aí comigo na Escola do Dev
+Empreendedor que vai ser um prazer ter
+você lá. Um abraço. Falou, seus
+cachorros.

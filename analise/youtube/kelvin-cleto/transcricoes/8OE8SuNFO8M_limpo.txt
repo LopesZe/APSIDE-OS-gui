@@ -1,0 +1,2080 @@
+Nesse vídeo aqui a gente vai desenvolver
+um software do zero e eu quero mostrar
+para vocês a capacidade de uma
+inteligência artificial bem treinada, ou
+melhor, de como você deve usar o cloud
+code e o por que eu vou mostrar isso,
+porque a gente tá vivendo um momento
+disruptivo. Então, para você que é
+empreendedor, para você que é
+empresário, entenda uma coisa, você pode
+fazer isso que eu vou fazer aqui na sua
+operação, no seu dia a dia, não criando
+um CRM, mas criando soluções que
+realmente gerem para você mais
+faturamento, mais margem, mais escala,
+criando soluções que realmente vão mudar
+a sua operação no dia a dia. E às vezes
+a gente acha que é muito difícil, não,
+não é. E eu vou mostrar para vocês, sem
+escrever uma linha de código e sem falar
+praticamente nada técnico, pelo menos eu
+vou tentar, tá? Eh, que que eu quero que
+você extraia daqui? como eu fiz, a
+estratégia que eu usei e olha pra tua
+operação de verdade, olha com carinho e
+fala assim: "Cara, onde que eu consigo
+gerar mais valor? Onde que eu consigo
+hoje? Qual que é a coisa que eu faço da
+forma mais manual, que me consome mais
+tempo, que eu posso automatizar criando
+uma ferramenta? Hoje, como que eu levo
+este conhecimento que eu estou tendo com
+a IA para os meus colaboradores?
+Entendeu? E para você que quer
+empreender hoje, o que que eu posso
+criar, em qual setor, em qual nicho que
+eu posso vender uma solução que gera
+valor pro empresário? Porque no final
+das contas o empresário ele quer, ele
+quer, ele quer poupar tempo, ele quer
+avançar, ele quer cortar caminho. Então,
+se você ajudar ele a cortar o caminho,
+você vai conseguir eh faturar, você vai
+conseguir montar sua empresa, você vai
+conseguir escalar, você vai conseguir
+ter sucesso nisso que você quer fazer.
+Beleza? Agora vamos começar esse vídeo
+que vai ser um vídeo bem prático, não
+importa quantas horas vão durar, ã, mas
+hoje a gente vai ter uma solução lançada
+e se eu tiver sucesso nesse vídeo, o
+link dessa solução vai estar aqui não,
+para você criar sua conta e se cadastrar
+e usar o CRM, cara. Vamos embora. Vamos
+começar. E por que que o Por que CRM,
+cara? Porque o CRM é uma coisa comum, é
+um sistema de gestão de lead, de venda.
+Então, eu acho que é uma aplicação não
+tão simples que a gente pode criar. E
+ela é legal. Por quê? Porque na minha
+visão, a gente tá caminhando para um
+momento em que o CRM precisa ser
+nichado. E eu provavelmente vou fazer o
+meu CRM. Esse CRM aqui que eu vou
+começar com vocês, eu vou evoluir ele e
+vou até disponibilizar ele aqui dentro
+da Acelera. O código fonte ele precisa
+ser nichado, cara. Então o CRM da
+Acelera hoje, usar o CRM genérico de
+mercado já não me atende mais. Então
+acho que vai ser uma experiência legal e
+vai ser um primeiro passo tanto para mim
+aqui para trocar o meu CRM quanto para
+você. Beleza? Vamos começar esse vídeo.
+Vamos lá. Então, eu vou compartilhar
+minha tela com vocês. Eu tô aqui com o
+Miro. Vou começar a no Miro e eu vou
+explicar para vocês uma coisa muito
+simples, tá? A gente já sabe aqui,
+primeira coisa, o objetivo, aquilo que o
+que a gente quer fazer. Então, isso aqui
+é, a gente começa aqui, ó, o que
+queremos fazer. Pô, vamos fazer um CRM,
+no sistema. Poderia fazer no Lovable,
+poderia, mas o Lovable não vai me dar eh
+a como que eu posso dizer,
+cara? Não é amplitude, é a não vai me
+dar a possibilidade de poder modificar o
+que eu quiser e fazer esse negócio se
+tornar robusto. Então por isso que eu
+vou usar o cloud code, mas poderia usar
+o codex, poderia usar qualquer IA, tá?
+Mas vamos usar o a gente vai fazer com o
+cloud Code.
+Você tem que entender uma coisa antes,
+ó. Vou explicar alguns conceitos.
+A gente tem o front end, quando a gente
+desenvolve uma aplicação, front end e o
+back end. Opa, por que que eu coloquei
+um tracinho aqui? Um front end e um back
+end. Que que é o front end? O front end
+de uma aplicação é a cara bonita,
+a telinha.
+A telinha. E o back end? O back end é o
+motor.
+É o que tá embaixo do capô, é o que faz
+a máquina toda funcionar. Então, o front
+end. O front end basicamente é onde o
+usuário vai mexer. Então, aqui é onde o
+usuário, o usuário ele acessa front
+endão, então o CRM, né? o front end do
+CRM. E este front end, toda vez que eu
+peço para fazer alguma coisa, ele chama
+o back end. Ele faz isso aqui, ó. E aí o
+back end volta pra informação aqui pro
+front end, onde o usuário vê. Então, é
+no backend que nós temos as regras de
+negócio,
+é noveses
+de API, eh, integrações,
+integrações,
+etc. Então, o back endi, ó, é o back
+end. O back endi,
+é um API back end.
+E o front end é uma telinha. Beleza?
+Acho que esse conceito é o mais simples
+possível. Então a gente sabe o que a
+gente quer fazer e a gente sabe tudo
+isso, tá, Kelv? Qual que é a linguagem
+que a gente vai usar? Qual que é as
+técnicas? Cara, vamos fazer o seguinte,
+é irrelevante. A gente precisa de um CRM
+que tem usuário, senha e a gente possa
+eh trabalhar os nossos leads lá dentro.
+Beleza? Beleza. Então, vamos começar.
+Primeira coisa que vocês vão fazer aqui,
+ó. Primeira coisa que a gente vai fazer
+e eu vou, vocês vão baixar essa
+ferramenta aqui, se chama Open Design.
+Essa ferramenta é uma ferramenta open
+source gratuita que você pode eh criar
+telas com ela, criar protótipos. Então,
+a gente vai prototipar, vamos começar a
+prototipar a nossa ferramenta. Eu vou
+abrir aqui o meu Open Design,
+The Open Source Cloud Design
+Alternative. Então, uma alternativa pro
+Open Design. E aí aqui eu vou falar o
+seguinte, olha, eh, vamos criar um SAS,
+um software ASA Service. Quero
+desenvolver um CRM para a minha empresa.
+Esse CRM precisa ser um CRM genérico.
+Então, vamos construir eh uma solução
+que permita eu configurar os pipelines,
+pipelines, criar campos dinâmicos. Aqui
+no meu caso, eu vou fazer um dinâmico,
+um genérico, mas você poderia falar,
+vamos criar um CRM médico, é
+legal, vamos criar um CRM médico. Boa
+ideia, vamos fazer o seguinte, ó. Vamos
+criar um SAS. Quero criar um CRM médico
+para eh médico. Ele vai ser utilizado
+para consultórios
+médicos,
+onde nós vamos fazer eh onde nós vamos
+cuidar
+desde a jornada de
+entrada do lead
+até ele virar cliente e controlar toda a
+ficha do paciente, no caso o cliente.
+Ponto. Ele deve ser um CRM eh multitant
+multitenant
+e e estar preparado para conectarmos
+o WhatsApp da empresa eh da atendente,
+pois vamos fazer todo o processo de
+atendimento por ele. Olha que loucura.
+Escrever. É desse jeito que eu escrevo,
+gente. Eu sou meio analfabeto mesmo.
+Bum. Por que que eu começo por aqui? Só
+para vocês entenderem, porque eu sou um
+cara visual,
+então eu quero primeiro ver a telinha do
+sistema para analisar se ele vai ser
+útil para mim. Kelvin, você falou um
+termo muito interessante. O que que é
+multitant? Vou explicar para vocês.
+Primeira coisa, imagina o um CRM single
+tenant significa o seguinte, que este
+CRM eu posso usar ele, somente eu.
+Eu, Kelvin ou empresa,
+vou usar ele. Então, ele é single
+tenant. Quando ele é multitalenant
+significa o seguinte, o multitenant é
+multiinquilino.
+Então, um sistema multitenant.
+E o Kelvin, o Kelvin é o administrador
+do da solução e também o criador. E eu
+posso cadastrar inquilinos. Eu posso
+cadastrar a clínica um, eu posso
+cadastrar a clínica dois e cada clínica
+ela é um tenant, ela é uma organização.
+E aqui a clínica dois tem os seus
+usuários.
+Olha que legal. Então significa que este
+CRM que eu estou criando aqui, eu posso
+simplesmente fazer o seguinte, vou
+começar a vender ele, vou dar um nome
+para ele. Ele é um CRM com atendimento.
+Kelvin, mas isso é muito simples, já tem
+de monte no mercado. Caramba, é um
+exemplo. É um exemplo. Eu preciso dar um
+exemplo para vocês. Não tem como eu
+falar para vocês, não, vamos criar um
+software pro agronegócio.
+Você ninguém vai entender isso. E outra,
+eu tenho que pesquisar o nicho primeiro
+para fazer. Então aqui nesse exemplo é
+um exemplo validado. Já tem um monte de
+software mesmo. Mercado médico aí o que
+mais tem coisa, mas abstrai esse
+negócio. Vamos, vamos focar aqui, ó.
+Então vamos lá. Olha aqui, ele falou
+assim para mim: "Pô, o que que eu devo
+construir, cara? Vamos construir um
+protótipo. A gente vai construir um
+protótipo. A plataforma al web
+responsivo, tem que ser online. Web
+responsivo ou web desktop. É um
+aplicativo desktop, não é web online.
+Quem vai usar esse CRM aqui de um dia a
+dia? A a atendente a secretária. O
+médico não tá nem aí pro CRM. O gestor
+da clínica vai usar também. O
+administrador do Tenet vai usar. Quais
+as telas entram na primeira leva? Pô, o
+pipeline do funil, a inbox de WhatsApp,
+ficha do paciente, entra agenda e
+consulta, entra eh dashboard, visão,
+entra vai entrar tudo. Configuração de
+consultório entra, entra também conexão
+de WhatsApp da atendente, entra lista de
+pacientes, entra, entrou tudo. Conexão
+da marca, escolhe uma por mim, eu não
+não tô muito afim de você escolher não.
+Aí aqui, que que o o o Open Design vai
+fazer? O Open Design nada mais é o Open
+Design. Open design é uma ferramenta de
+prototipagem, de protótipos, de criação
+de protótipos. Ele cria protótipos.
+Ele cria protótipos com
+e a legal. Aí o open design ele tem o
+quê? Opa, que que eu fiz aqui? Conttrl
+Z. O open design ele tem o quê? O open
+design ele usa um motor de IA. Caraca,
+travou, gente. Não consigo copiar o
+negócio aconte. Vamos lá. Então, o Open
+Design usa um motor de A. O motor que eu
+estou usando é o Cláudio.
+O Cláudio. Poderia usar qualquer outro
+motor, mas eu uso Cláudio, entenderam?
+Então aqui, ó, no Open Design, eu posso
+configurar, cadê configurações, eu posso
+configurar, tá vendo aqui, ó? Qual que é
+o celai que eu vou usar? Tá vendo? Tá
+com Cláudio. Poderia ser o Codex,
+poderia ser o Gemini, poderia ser o
+Hermes, poderia ser o Cursor e por aí
+vai, qualquer outro agente aqui, tá? Mas
+eu uso o cloud. Kelvin, qual que é a
+diferença do Open Design para o cloud
+design? Nenhuma.
+Eu prefiro Open Design porque ele é uma
+ferramenta muito boa, open source, e
+mantida pela comunidade. Então ele tem
+skills assim que são muito bacanas.
+Vocês vão ver aqui a qualidade do
+negócio que ele vai gerar, tá? E isso
+aqui para mim faz toda a diferença.
+Lembrando, agora são 19:24,
+terça-feira, dia 23 de junho. Então
+gente, vamos ver quanto tempo isso aqui
+vai demorar para fazer. E isso aqui é a
+parte que mais me assusta, porque eu
+estimo aqui que em mais ou menos umas
+duas horas a gente vai ter um software
+pronto para ir pra produção. Incrível,
+por incrível que pareça, pronto para ir
+pra produção, tá? Para você que não me
+conhece, tá vendo aqui agora, contexto
+rápido, muito prazer. Meu nome é Kelvin
+Clet, eu sou um empresário do setor de
+tecnologia, tenho uma consultoria
+chamada KCG, tenho hoje a Celera 360,
+que é um ecossistema
+voltado para empreendedores e
+empresários. Lá a gente ajuda pessoas aí
+como você, não só a tirar a sua ideia do
+papel, mas principalmente a transformar
+a sua operação com inteligência
+artificial. Como que a gente ajuda a
+fazer isso? A gente cria soluções
+prontas e vai usar essa que eu tô
+criando aqui e a gente fornece lá na na
+na comunidade para você poder usar o
+código e modificar. A gente te ensina, a
+gente cria formações, tem formações
+específicas para você poder fazer a
+mesma coisa e modificar essas soluções
+para você não ter moleta. A ideia é que
+você não tenha muleta e você consiga
+criar as suas próprias soluções com IA
+ou SAS. No final das contas, é usar IA
+para criar alguma coisa. Isso é onde a
+gente consegue gerar assim um valor
+absurdo. Então lá na Acelera a gente
+pode fazer isso se você quiser conhecer
+mais sobre Acelera, o link está aqui na
+descrição desse vídeo, tá? E sábado que
+vem eu vou fazer um workshop chamado A
+nova economia da inteligência
+artificial. Vai ser um workshop prático,
+onde você vai ter a oportunidade de
+estar comigo em cal e tirar as dúvidas
+que você tanto carrega online e custa
+apenas R$ 47. Então já clica, eu acho
+que já subiu por conta do lote, mas
+clica aí e já garante o seu ingresso pro
+nosso workshop que vai acontecer sábado
+das 13 às 17 horas. O que te afasta da
+nova economia são apenas R$ 47. Bora,
+clica aí, pô. Vamos embora. Olha isso. E
+começou e começou a mágica a acontecer.
+Tudo bem que ainda é só um design, mas
+ele já começou a plotar aqui. Ele deu o
+nome Madow
+1929. Agora vamos olhar aqui que que ele
+já montou para mim, ó. Ele montou o
+Magic Flow. Beleza, visão geral, novos
+leads, conversão, consultas na semana.
+Ele não criou essa página ainda. Tudo
+bem, vamos voltar aqui. Tá vendo como é
+mais fácil? Ó, eu já tô vendo a carinha
+do sistema e eu vou entendendo.
+Atendimento não tá funcionando ainda.
+Cadastra de paciente. Ó, ele criou mais
+uma pipeline. Olha que legal. Opa, ó,
+ele já criou aqui o drag drop. Legal.
+Ele não criou a modal ainda, então se eu
+Ah, ele não criou isso aqui ainda
+também, mas ele começou a criar. Olha
+que interessante, gente, isso daqui.
+Deixa eu entrar no modo de apresentação.
+Se eu estivesse empreendendo com o IA,
+isso aqui para mim já era o suficiente
+para eu sair vendendo. Falas, cara, pô,
+tô começando agora do zero. Kelvin, pô,
+como que você faria? Primeira coisa,
+montaria todo o design e ia para mercado
+para tentar vender, mesmo sem tá pronto.
+Ah, e para mostrar, eu mostraria isso
+daqui. Eu já mostraria isso aqui. Por
+quê? Porque aqui eu já ia sentir a
+diferença entre eh se isso aqui é
+diferente do que o mercado oferece, se
+isso aqui gera resultado ou não. Isso
+aqui eu já ia conseguir conversar ou
+apresentar pro meu cliente. Então isso
+aqui já é uma grande um grande avanço.
+Eu não ia com as mãos vazias, tá? E
+outra coisa que eu quero pontuar para
+vocês, olha como é interessante. Até
+aqui a gente tava discutindo sobre eh
+Kelvin, pô, vamos desenvolver um CRM.
+Agora aqui a gente já tá vendo ele e
+olha que interessante, pô. Funil de
+leads, faz sentido? Aqui eu posso ser
+crítico e falar: "Cara, faz sentido esse
+desenho de funil? É assim que eu quero?"
+Atendimento pendente, faz sentido. Ó,
+SLA, ele já colocou um SLA aqui também.
+Próximas consultas, olha que
+interessante. Então, ele tá fazendo a
+agenda aqui também. Aqui os leads
+recentes, origem dos leads, tudo mais.
+Já montou um cambanzinho. Ele já
+começou, opa, esse aqui não, essa aqui é
+outra coisa. E ele já começou a fazer um
+cambanzinho aqui também. Deixa eu ver.
+Pacientes. Ele ainda não montou. E ele
+tá montando, ele tá montando aqui e vai
+criando as telinhas. O grande lance aqui
+é quando você visualiza, eh, isso vai
+criando força na sua cabeça, vai, você
+vai, o seu cérebro vai processando,
+falando: "Cara, tá faltando isso,
+poderia ter isso, poderia ter aquilo". E
+isso é muito interessante,
+tá, Kelvin? Mas e as decisões técnicas?
+Bom, eu tenho algumas skills aqui que eu
+chamo de A360 deve multiagentes, que são
+desenvolvedores multiagênticos. Eu
+trabalho no modelo de loop. Então, como
+que a gente vai fazer depois que isso
+aqui tá pronto, o protótipo tá pronto? A
+gente vai jogar pros devs agentes, pro
+time de desenvolvimento agente, criar. E
+eu vou mostrar isso para vocês, sem
+escrever nenhuma linha de código. E esse
+é o grande conceito.
+Ele vai tomar as decisões técnicas, vai,
+ele vai escolher, ele vai cuidar da
+segurança da informação, ele vai cuidar
+da auditoria, ele vai cuidar de tudo. E
+é isso que vocês vão ver no decorrer
+aqui do do do nosso da nossa dessa nossa
+call aqui de não sei quantas horas.
+Tá? Tem algum risco que é ov de vas da
+informação? Tudo isso você tem que tomar
+cuidado. O que que eu já, o que que eu,
+por exemplo, tenho aqui? Eu já
+estruturei todas as fronteiras, ó, minha
+pilha saindo. Eu já estruturei todas as
+fronteiras, eh, de risco que meu agente
+tem que tomar, que ele tem que ter
+atenção. Então, por exemplo, como ele
+vai salvar uma senha no banco de dados?
+Cara, não gravo a senha lá com uma com
+uma criptografia que dá para quebrar. Eu
+gravo a senha no banco através de um chá
+256 convertendo ela. Ah, já comecei a
+falar coisa técnica. Meu Deus, num jeito
+que não dá para reverter, então não dá
+mais para voltar a senha. Então ninguém
+vai descobrir a senha, mesmo que vaze
+dados sensíveis, LGPD, cara, você não
+você não salva o CPF completo, você
+salva o CPF com máscara, com asterisco
+para não dar para ver. Eh, servidor,
+servidor você trava as portas comuns
+abertas, deixa só a porta 80. É
+relevante para aqui agora paraa
+conversa. Resumindo, eh, eh, na, na
+programação, a gente chama isso de
+harness, que é quais são as a quais são
+as fronteiras que a IA pode fazer, o que
+que ela pode ou não fazer, entendeu? O
+que que dá ou não para fazer. Isso é
+muito legal. Pô, Kelvin, isso é vibe
+coding. Isso aqui é vibe building, não é
+vibe coding, isso aqui é vibe building.
+Então isso aqui é a gente tá construindo
+alguma coisa, e é promptando. Então não
+vamos falar que é vibe coding porque eu
+não vou, o meu foco aqui não é o código,
+porque o código eu tenho certeza que ele
+vai sair bem estruturado. O foco aqui é
+na ferramenta, na solução, na construção
+da solução para resolver um problema de
+uma clínica que a gente tá
+automatizando. Se a gente puxar os
+principais concorrentes do mercado,
+vamos olhar aqui rapidinho enquanto ele
+tá construindo aqui para ver se isso
+aqui é viável financeiramente. CRM
+médico. Vamos ver quanto que, qual que é
+o custo aqui. CRM médico. CRM para
+clínicas. CRM
+para clínicas.
+Então, atendimento software para clínica
+médica.
+Bom, não tem preço aqui, só começa
+testando. Tem 1 milhão de concorrentes,
+faz parte. O nicho é gigantesco. Nesse
+caso, eu tenho que procurar algum
+diferencial. Deixa eu ver o preço do
+como. Preço do como.
+Cadê se tem preço aqui? Preços. Compare
+preços. Ó, o como hoje custa R$ 234.
+Olha que interessante. Se aquela clínica
+tem R$ 234, ela tem, vamos supor, três,
+quatro acessos num CRM, dá R$ 296 por
+mês, sem considerar o WhatsApp que eles
+cobram aqui também com como adicional.
+Vamos supor que ela gaste lá 1200 por
+mês de CRM. Olha que legal, 1200 por mês
+de CRM vezes 12 meses já dá 14.400
+de investimento só em CRM para um CRM
+que é genérico e não tem todas as
+funções ou não trabalha do jeito daquela
+clínica, não é verticalizado, ou melhor,
+não é nem só verticalizado, ele não é
+customizado. Ele não é customizado para
+atender as nuances daquela clínica.
+Então existe um grande benefício em você
+criar o se a sua própria solução.
+Anteriormente, se você me perguntasse
+isso, você pode ver até em outros
+vídeos, eu falava: "Cara, não faz
+sentido criar um CRM do zero, porque tem
+muita coisa pronta boa, cara, mas hoje
+tá ficando cada vez mais fácil, que faz
+sentido assim, eu tô pensando em criar o
+meu CRM. Esse aqui eu vou deixar
+disponível aqui no Acelera paraa galera,
+CRM médico pronto, estruturado. Pronto,
+por aqui ele já criou. Eu tinha até
+mandado uma mensagem para ele aqui, ó,
+falando o seguinte: "Cara, eu não achei
+onde cadastro os médicos". Por quê?
+porque não não tinha aparecido aqui na
+tela. Ele criou visão geral, ele criou o
+funil. Legal. Beleza. Ó, ele não criou o
+card de detalhamento do funil.
+Inclusive, vou até falar isso, ó. Ó, no
+eh no funil de vendas,
+quando eu clico no card, não acontece
+nada. Crie a modal com as informações
+do card. Legal. Vou pedir para ele criar
+essa modal aqui. Então, quando clicar
+aqui, modal é aquela popup que aparece
+na tela. Atendimento ele já criou aqui,
+beleza? Uma telinha. Agenda ele criou
+também. Legal. Pacientes, ó, ele criou a
+lista de pacientes. Então, eu tenho aqui
+o paciente. Eu posso clicar, eu posso
+ver o resumo, histórico, as consultas,
+os documentos, o financeiro. Olha que
+legal. Caraca, cara. O WhatsApp ele já
+deixou múltiplas conexões. Aqui no
+WhatsApp, ó, nós vamos usar a BOS. Bos
+o, ou melhor, vou usar o Evolution API,
+porque já faz isso para mim. Kelvin, o
+que que é o Evolution API? O Evolution
+API é uma API open source, open source,
+open source que faz a gestão de vários
+números de WhatsApp. É muito legal, eles
+são é muito bom. E aqui eles fazem tanto
+para WhatsApp Business quanto para, ou
+melhor, cloud API, quanto para WhatsApp
+comum e eles usam absão. Então isso é
+bem legal. Tá vendo, ó? WhatsApp cloud
+API, que é a API oficial da meta, o aba,
+ou eles fazem a leitura de QR code, que
+é o que a gente vai usar por padrão
+aqui. Por quê? Porque, cara,
+dificilmente a gente vai fazer uma coisa
+muito complexa. Então, vamos colocar
+algumas decisões aqui, ó, no nosso
+mapinha. Aqui o back end ele vai usar
+para WhatsApp
+a evolution API. Então, o o back
+endgrações,
+ó, ou melhor, vou colocar aqui
+integrações com o WhatsApp. A decisão
+técnica é usar a Evolution API. Beleza?
+Essa é a nossa definiçãozinha que a
+gente vai colocar aqui. Chaves de API.
+Eu vou usar agente de A, vou usar agente
+de A aqui também. Então a gente vai ter
+uma gestão de chaves de API. Aqui eu vou
+decidir usar o modelo pro nosso agente
+de A chamado Hiku, que é da Antropic.
+Por que o Haiku? Porque o Hiku é muito
+barato. Haiku Price. Vamos ver aqui, ó.
+Ele é extremamente barato. É um modelo
+mais burro, mas ele é perfeito para ser
+usado com uma para um chatbot. Qual que
+é o custo dele? O custo dele por milhão
+de token é um. Esse aqui é de saída.
+dólar por entrada e 25 por saída. É
+muito barato por milhão de token.
+Significa que, cara, a gente não vai ter
+um custo de API nem de 10, 20 por mês
+aqui tranquilamente, tranquilamente.
+Depois a gente vai anotando esses
+custos. Então aqui vamos usar o high.
+Outra coisa que eu vou decidir aqui já,
+onde eu vou hospedar este CRM.
+Hostinger, me patrocina, hein? Vamos
+colocar na Hostinger. A gente vai
+hospedar. Então, o nosso servidor vai
+ser na Hostinger.
+Servidor vai ser Hostinger.
+Hostinger. Vamos ver quanto que tá VPS
+na Hostinger. Cara, acho que deve ser R$
+50. Que VPS de R$ 50 não aguenta.
+Aguenta tranquilamente. Por quê? Porque
+no processo de desenvolvimento você tem
+jeitos e jeitos de se desenvolver. Ó lá,
+ó. R3,90. 1 KVM2, 2 núcleos, 8 GB de
+RAM. Nossa, aguenta isso aqui. Aguenta
+liso isso aqui. Aguenta liso. Se se não
+aguentar, a gente vai para um KVM M4 que
+custa R$ 5,99
+por mês. E aí tem 16 GB de RAM que vai
+aguentar liso, liso, liso, liso, liso,
+liso. Então, olha que doido. Se eu
+considerar que meu custo de
+infraestrutura vai ser o seguinte, vai
+ser R$ 59 por mês, vamos colocar R$ 59,
+R$ 60 para ficar redondo, mais ã R$ 100
+de A por mês, eu acho que vai dar mais
+ou menos isso. Isso dá um total de R$
+160 por mês de custo de infraestrutura
+vezes 12 meses. Vai dar um total de R$
+no ano. É barato.
+Ah, vai ter alguns outros custos aqui,
+vai, mas não vai passar de 2000, 3.000
+no ano. Então é bem barato, bem barato,
+bem barato, bem barato. E outra, você
+tem a questão de você poder modificar
+ele completamente, que é maravilhoso,
+né? Vamos ver aqui no nosso Open Design
+que ele já adicionou. Ó, sobre o ponto
+que você levantou, não existe lugar para
+cadastrar médicos. Deixa eu ver se ele
+falou que que ele criou a modal. Ah, ele
+já criou. Olha que legal. Ele já criou a
+modal. Ver a ficha. Já vai pra ficha do
+paciente. Volta para cá. Ã, legal. Tá
+ótimo. Tá perfeito. Ele faz a rota lá do
+paciente. Posso melhorar? Posso. Mas eu
+não vou ficar eh linguiçando aqui com
+vocês, não. Você vai, senão vai, vai, a
+gente vai ficar a noite toda aqui e aí
+eu não vou terminar. Aí eu não vou
+cumprir a promessa de terminar isso aqui
+num vídeo do YouTube. Que que eu vou
+fazer aqui agora? Vou fazer o seguinte,
+A questão ali do médico deixa para lá e
+fala assim, ó, crie um design system
+para mim desse projeto. Que que é o
+design system? Vocês vão ver. É um
+documento que ele vai falar de todos os
+componentes visuais que ele usou para
+criar esse template aqui. Olha que que é
+um componente visual. Existe um
+calendário. O calendário tem um card. O
+card tem que funcionar assim, funciona
+assado. Existe um menu lateral, existe a
+o botão de logout. Existe o menu lateral
+funciona assim. Quando seleciona ele
+fica azul. Existe uma tabela. A tabela
+tem esse posicionamento, tem esse
+design, esse layout, tem uma mensagem de
+WhatsApp que funciona assim, que
+funciona assado. Isso é um design
+system, é um manual de como o design
+funciona, de como esse template
+funciona. Então a gente vai pedir para
+ele fazer um design system pro nosso
+medflow, saca? Pô, gente, outra coisa,
+não, isso eu vou falar depois. Isso eu
+vou falar depois. Ó, já já comprou o
+ingresso no workshop? Não. Então compra
+aí, pô. Quer quer saber mais? Quer
+aprender a fazer isso daqui a fundo, com
+profundidade? Quer entender sobre como
+mapear os processos da sua empresa?
+entendeu os gargalos. Aí você tem que
+entrar na acelera, clica aqui, vem fazer
+parte do maior ecossistema de A do
+Brasil. Bora, vem aqui, toma jogando na
+sua cara e compra logo. Barato. Só, só,
+só isso aqui, ó. Já pagou, acelera. Isso
+aqui é um design system, gente. As
+cores, o padrão, tipografia, forma,
+espaço. Tá vendo? Que ele já deixou tudo
+componentizado. Isso aqui tudo faz parte
+agora do como a gente vai desenvolver. E
+prestem muito bem atenção nisso. Tá
+vendo que ele montou vários arquivos? Eu
+vou entrar aqui, ó, vou copiar essa
+pasta o caminho e vou abrir aqui
+como se fosse, eu tô no Mac, né, mas
+poderia ser no Windows, toda essa
+pastinha. Agora eu vou fazer o seguinte,
+eu vou abrir o meu
+Visual Studio. Eu já estou com o Cloud
+Code instalado. Eu já estou com o Cloud
+Code instalado. E eu vou criar uma nova
+pasta. Eu vou entrar aqui em
+desenvolvimento, ó. Eh, pox, provas de
+conceito. Eu já vou deixar lá na
+Acelera, porque isso aqui eu vou liberar
+depois e vou terminar de vou deixar ele
+mais robusto depois e vou colocar lá na
+pastinha para desenvol para liberar pros
+meus parceiros. Você é meu parceiro.
+Você ainda não é meu parceiro, cara.
+Você tá perdendo muito, muito, muito,
+muito, muito, muito. Caraca, cara. Onde
+que tá aqui? Aqui, ó. Projetos acelera.
+Eu vou colocar aqui uma nova pasta e eu
+vou chamar o seguinte, vou chamar de eh
+Medflow, foi esse nome que ele deu.
+Deixa eu ver o Medflow. Deixa eu ver se
+é medflow. Medflow. Medflow. CRM médico.
+Vou colocar CRM médico. Só CRM para
+clínicas. CRM para clínicas. Criar.
+Abrir. Legal. Tô com uma pasta vazia
+aqui, ó. Certo. Vou no meu
+terminalzinho.
+Ah, eu não consigo abrir o terminal
+porque travou.
+Cara, gente, é assustador isso aqui. É
+só porque eu tô fazendo junto com vocês,
+ó. Deixa eu fechar meu estúdio. Meu Code
+travou.
+Que que é isso? Quem que tá com Uruca
+aí, hein? Algum de vocês? Vou abrir de
+novo aqui. Terminal. New terminal.
+Beleza. E eu vou mandar aquele comando
+malandro. Cloud dangerous
+skip permissions. [roncando] Por que que
+eu desenvolvo assim? Porque eu gosto.
+Mas eu poderia fazer isso aqui, ó. usar
+o plugin do próprio Cloud Code aqui
+local. Só que eu não gosto muito desse
+negocinho aqui. Eu prefiro aqui. Eu
+prefiro aqui, ó.
+Mas é gosto, tá? Poderia rodar aqui,
+poderia rodar no visual, poderia em
+qualquer lugar, não importa. Por quê?
+Porque eu faço isso aqui assim, ó. Barra
+A360.
+Desenvolvimento deve multiagentes.
+Esse aqui. Que que esse cara aqui vai
+fazer? Isso aqui é uma skill
+que eu criei para mim, que basicamente
+ela vai criar a estrutura principal aqui
+do do meu projeto. Vai criar as
+pastinhas, porque até isso eu tenho
+preguiça de criar. E a primeira pasta
+que ele cria é a pasta de documentos.
+Olha que legal, eu vou começar a ler as
+minhas referências, destaque,
+metodologia, protocolos. Então, olha que
+interessante, é isso que eu falo para
+vocês. Eh, as skills elas estão prontas.
+Então eu não preciso me preocupar em
+como vai ser o banco de dados, em como
+vai ser a estrutura multitalant, em como
+em como vai ser isso, aquilo, aquilo.
+Não, essa parte eu delego. Por quê?
+Porque é comum.
+Isso é comum. Kelvin, isso serve para
+mexer num sistema legado? Não. Um
+sistema legado você o que que é um
+legado? Só para vocês entenderem, um
+sistema de 10 anos, 15 anos, é outra
+metodologia. Aqui que a gente tá falando
+de criação de coisas novas. Então, é
+muito, mas muito potente. Posso
+reescrever um sistema desse jeito? Pode,
+dependendo do tamanho do sistema. Mas
+existem outras metodologias que permitem
+ter uma eficiência muito maior,
+entendeu? Esse é um sistema extremamente
+distribuído, não. A gente vai fazer um
+software inteiro num conceito que a
+gente chama de uma estrutura chamada
+monorraap.
+Que que é esse mono? É um repositório
+único. Dentro desse repositório, que que
+é um repositório? É onde eu armazeno o
+código. É, é, é onde eu, é como se fosse
+uma pasta na nuvem. Na nuvem.
+explicando pra minha mãe, onde a gente
+vai ter o web, que é o que que é o web?
+É o front end aqui, ó. E a gente vai
+ter, opa, conttrl Z, conttrl Z, a gente
+vai ter web e a gente vai ter a API,
+a gente vai ter a API aqui também, que
+vai ser o back end, entendeu?
+dentro desse API aqui vão ter outras
+complexidades. Por exemplo, aqui, como a
+gente vai trabalhar com o WhatsApp, a
+gente provavelmente vai trabalhar com um
+negócio chamado fila e mensageria,
+que para você é indiferente, que não é
+técnico. Então, deixa vermelho.
+Não precisa nem saber o que que isso
+aqui, sabe? Mas fica em paz que vai ser
+desse jeito, entendeu? Depois eu posso
+até explicar aqui em outro vídeo, mas
+para explicar esse conceito, eh, você
+precisa entender outros conceitos, você
+precisa entender desenvolvimento. E essa
+é a parte que você não precisa saber,
+você só precisa saber que vai funcionar,
+entendeu? Você não precisa saber a fundo
+aquilo ali. Ah, mas isso é um risco.
+Então, vira desenvolvedor. Então, vira
+desenvolvedor, vai estudar conceitos de
+desenvolvimento de software, de
+arquitetura de software distribuído para
+você entender essa parada. Enquanto
+isso, você não presta atenção. Lá, ó,
+que ele falou assim, ó. Olha que
+interessante. Isso aqui é maravilhoso.
+Antes de eu começar, eu quero calibrar
+como eu vou falar com você. Eu não
+entendo nada.
+Eu não entendo nada. Eu não sou técnico.
+Olha, gente, isso é lindo. Porque assim,
+ele fala um monte de letrinha aqui.
+Essas letrinhas aqui você precisa
+ignorar. Você só lê, você só lê a parte
+que você consegue entender. E aí ele
+começa a falar aqui para mim, ó, pô,
+beleza. Já que você não entende nada, em
+uma frase, o que você quer construir? Eu
+desenhei um CRM no Open Design.
+Esse CRM já está prototipado. Quero que
+você desenvolva ele agora para ficar
+funcional. Ponto. Acabou. Acabou.
+Kelvin agora vai fazer tudo sozinho.
+Vai. Fica vendo. Fica comigo até o final
+desse vídeo que você vai ver. E é desse
+jeito que a gente vai criando soluções.
+Soluções, soluções, soluções. Ah,
+Kelvin, mas isso, isso aqui explodir.
+Você quer se vender muito. Glória a
+Deus. É um problema bom. Isso é um
+problema bom. Significa que a hora que
+você começar a vender, você quer
+empreender, começar a vender isso aqui,
+você contrata a gente. Se você começar a
+usar isso na sua operação e sua começar
+a escalar, você contrata a gente,
+contrata deve. Você não precisa ter 1
+milhão mais de de, mas você tem que ter
+aí pelo menos um, você não precisa
+contratar ele no D zero. Mas meu dev não
+é igual você. Você coloca seu Dev para
+aprender comigo na acelera. Ó, SCRM vai
+atender várias clínicas. Olha que
+interessante. Ele vai atender várias
+clínicas em empresas diferentes dentro
+do mesmo sistema. Sim. Várias clínicas.
+Tá vendo? Então ele já vai criar uma
+estrutura multitalenant. aquilo que eu
+expliquei, o conceito. Então, é só para
+você ou é para várias clínicas? Só de
+colocar o multitalant aqui, a gente já
+adiciona uma complexidade a mais. E essa
+complexidade, ela é uma complexidade de
+arquitetura e desenvolvimento de
+software. Entenderam? Pegaram? Tão
+comigo? Uma palminha para si. Tô comigo.
+Ótimo. O CRM vai precisar conversar com
+alguém com serviço. Ó lá, olha que
+legal. Vai conversar com o WhatsApp e
+com a agenda. Olha como que ele vai
+e-mail automático também. Então vou
+mandar próximo. Um enviar. Você viu ali
+que, olha que interessante, aqui ele já
+abstraiu e ele falou para mim do
+WhatsApp pra gente usar o Zapi. Que que
+é o Zapi? O Zapi é um fornecedor
+que basicamente intermedia o processo de
+conexão com o WhatsApp. Eles têm lá,
+conecte seu sistema aos API. A API,
+WhatsApp mais estável do Brasil. Eles
+são muito bons. Eu eu até uso eles hoje,
+mas tá ficando caro. Eu cortei no custo
+R$99 por instância, por número de
+WhatsApp. Então eu iria para o para
+Evolution API nesse caso, tá? Eu iria
+paraa Evolution API. Aí, olha que legal,
+o repositório, o cofre do código na
+nuvem deve ser privado ou público? Vou
+deixar privado, porque para você ter
+acesso a isso aqui, você vai ter que
+entrar na acelera, tem que entrar. Cadê
+o faz me rir, meu povo?
+Já tô empinando de graça,
+Então, por que que ele fez isso? Porque
+aqui, ó, ele já tá conectado no meu
+repositório, tá vendo, ó? Então, isso
+aqui é uma configuração do meu cloud.
+Então, ele já tá no meu repositório, ele
+vai subir lá e vai criar o CRM. Lá, como
+eu vou montar o o meu CRM? Ele vai, ele
+já falou aqui, tá? Tá, tá, cinco regras
+não negociáveis. Olha que interessante.
+Isolamento entre clínicas é sagrado.
+Dados de pacientes são protegidos, então
+ele já traz o conceito de LGPD. Nada
+entra sem ser conferido. Perfeito, isso
+mesmo. Login permissões levadas a sério.
+Integrações trocáveis sem dor. WhatsApp,
+agenda, e-mail. Então ele usa um
+conceito aqui chamado provider. Posso
+seguir com essa stacking? Sim, pode
+seguir. Você pode ajustar também, mas
+não precisa ajustar nesse caso, saca?
+Não é o efeito do lovable de 30
+segundos, mas aqui a gente tá falando de
+algo que pode ser um ativo do teu
+negócio. Esse que é o grande
+diferencial. virar uma tecnologia ainda
+é ativo. O código em si, eh, ele ainda é
+um ativo, ele é um ativo comoditizado.
+Então, assim, mas ele é um ativo, ele é
+um ativo e um ativo caro, porque isso
+aqui pode virar um SAS real. Isso aqui
+pode virar, se você conseguir, encaixar
+a estratégia correta, o modelo de
+negócio correto e criar a máquina de
+distribuição de vendas, a máquina de
+aquisição correta. isso aqui é um
+SAS, isso aqui é um software ASA
+Service. Isso aqui é uma outra empresa
+de tecnologia. Vamos aqui, olha o que
+ele já fez. Ele já organizou aqui, ó.
+Colocou aqui o Zé. Ah, separou. Tá vendo
+aqui, ó? Monorapple app. Aqui é onde ele
+vai colocar API. Aqui é onde ele vai
+colocar as páginas. Aqui ele escreveu as
+docs, tá vendo, ó? Introdução, como
+funciona, como usar o cloud, grossários,
+trouble, shutting, learnings. Já tem um
+sistema estrutura de de aprendizado, né?
+Então, quanto mais ele erra, mais ele
+aprende. É um conceito de aprendizado,
+de memória. E tá vendo aqui em design e
+RAW? Eu vou pegar RAW. [risadas]
+O, o, não posso ficar falando
+chiquit. Contrtrol C, conttrl V. Eu vou
+jogar aquele design, ó, só para repetir.
+Eu peguei o que eu desenhei aqui, eu
+abri na pasta do Windows aqui os
+arquivos, eu copiei esses arquivos e
+joguei nesta pasta aqui de design. E aí
+eu vou chegar, vou vou esperar ele
+terminar de fazer aqui, né, o scaffold,
+que é o template, a estrutura base de um
+projeto monorrepositório para CRM. E aí
+depois disso eu vou falar o seguinte:
+desenvolva. Agora a grande questão é uma
+coisa: será que ele vai desenvolver bem
+feito? Será que vai ficar bom? Será que
+vai ficar completo? Será? Será? Vem com
+o pai. E ó, eu vou falar para vocês, os
+deves que começarem a sair da caixinha e
+começar a romper esta bolha de, ah, eu
+quero ler meu código, eu quero isso, ah,
+não, aí, ah, não gera. Se se esses
+programadores se rebelarem, cara, vai
+ser uma loucura de soluções robustas
+saindo para mercado. Se o programador se
+unir com você empresário que tá
+assistindo esse vídeo aqui e vocês
+falaram assim: "Cara, vamos desruptar o
+meu setor, vamos automatizar tudo, vamos
+criar gente de ar, vamos criar solução,
+vamos criar ferramenta, vamos
+automatizar minha empresa, dog food
+total. Que que é dog food? Eu vou fazer
+para mim e aí depois que eu fizer para
+mim, eu vou vender pros outros, cara.
+Vocês vão quebrar a banca, quebrar a
+banca literalmente. Esse é o novo
+mercado. Essa é a nova economia. E eu
+vou falar mais dessa nova economia no
+sábado agora no workshop growth AI ou
+workshop a nova economia da EA. Clica
+aqui no link que tá na descrição desse
+vídeo e compra o ingresso. Subiu. Opa,
+não tô compartilhando a tela. Já deixei
+aqui também a sessão do meu cloud code
+para aqueles que falaram assim: "Ai,
+consome todos os créditos, não sei o que
+lá". Vamos olhar aqui, ó. Tá com 71% do
+modelo, 40% aqui da minha sessão atual,
+O que ele, olha que legal o que ele já
+fez. Ele já subiu lá pro meu GitHub.
+Então, se eu clicar aqui, vamos ver. Meu
+GitHub já tá aqui, ó. Beleza, ele já
+subiu automático. Cara, isso aqui é
+maravilhoso, velho. Como é lindo. Olha,
+ele já escreveu tudo bonitinho aqui.
+Design System. Show de bola. Aí ele
+falou o seguinte, ó. Seu próximo passo,
+abra o Open Design e Sport Design
+System. Pá, pá, pá, pode ser zip, HTML,
+PDF, PG. Já fiz isso logo no começo. Aí
+agora eu vou falar o seguinte, ó. Quando
+você rodar, volte aqui, digite, vamos.
+Eu leio o design e começo a construir o
+CRM de verdade. Olha aqui, ó. A 360. Ah,
+antes disso, eu vou falar o seguinte, ó.
+A Não vou falar A360. Vamos.
+A 360. Vamos.
+Um ponto importante é que na questão do
+WhatsApp
+eu quero usar a Evolution API,
+uma decisão minha.
+Então,
+eh eh vamos substituir
+a o Zapi
+pela Evolution. Pronto. Se você antes de
+implementar a Evolution,
+faça uma pesquisa, faça um deep
+research, deep research
+para entender como utilizar. Ponto,
+acabou.
+Enter, ó, enter aí. Aqui, aqui, ó,
+barra. Vou vou colocar um go. Que que é
+esse go? É o objetivo
+entregar a plataforma completa para eu
+usar, para eu testar.
+Quero só usar,
+quero só testar quando estiver tudo
+rodando.
+Enter. [risadas]
+Tem negro. Os cara, os cara que os cara
+que até que fica, os cara louco, tá
+ensinando essas coisas pros outros. Não
+cara, é assim, esse é o novo normal. Se
+não funcionar desse jeito, entenda uma
+coisa, nós técnicos temos que fazer
+funcionar. É nossa obrigação. Esse é o
+novo normal. Ah, vamos perder o emprego.
+Tem, agora a gente tem que focar
+em fazer coisas assim funcionar. A gente
+tem que criar o harness, a estrutura, as
+os building blocks falando igual o fint
+já de PT. Daqui a pouco o novo
+programador vai fazer um vídeo
+comentando aqui, metendo pau. Ele vai
+fal blocks, não, os building blocks, os
+blocos. A gente cria os blocos
+reutilizáveis para permitir com que isso
+aqui seja possível ser feito para
+pessoas não técnicas, porque isso aqui é
+o futuro, cara. Isso aqui é lindo, ó.
+Vamos lá. Vamos voltar aqui. Dei o play,
+irmão. Agora o bicho pega só para, ó,
+40% de sessão utilizada e 71%. Sabe o
+que que é mais legal? Que tipo assim, ó,
+aqui ele vai começar a desenvolver, né?
+Aí eu vou fazer o seguinte, eu tô
+desenvolvendo outras coisas aqui e em
+paralelo. Tô tô com um monte de Visual
+Studio. Quer ver? Ó, tô com um monte de
+de VS Code aberto aqui. Então vocês vão
+poder ver. Cadê? Não aparece aqui
+embaixo? Não aparece. Não tem problema.
+Eu vou fazer o seguinte.
+Enquanto enquanto em outra partida, eu
+vou pegar aqui, ó. Deixa eu ver. Eu vou
+gravar, eu vou, já vou gerando a minha
+capa do YouTube. Olha a facilidade,
+gente. É um, é uma empresa de uma pessoa
+só. É só eu trabalhando aqui, ó. Mesma
+coisa. Vamos lá, Cláudio. Rodei.
+Vamos eh ou aqui, ó. Eh, vamos trabalhar
+trabalhar no meu thumneils.
+Eh, estou gravando um novo vídeo pro
+YouTube e quero que você
+encontre três títulos
+para usarmos nesse vídeo.
+Nesse vídeo, eu estou fazendo ao vivo o
+desenvolvimento
+de um CRM, mostrando o potencial que a
+inteligência,
+inteligência artificial artificial tem
+para as pessoas. Ponto. Enter. Aí aqui
+eu mandei que que ele vai fazer aqui.
+Aqui agora ele vai criar uma pastinha
+aqui dentro. 26 623 pro vídeo de hoje. E
+aí ele, ó, já vai usar minha skill de
+YouTube para criar os títulos otimizados
+pro CTR e o CEO para o seu vídeo. Então
+ele já tá fazendo isso pro meu vídeo.
+Qual que é a estratégia que ele vai
+fazer aqui? A mesma coisa. Ele vai
+pesquisar no YouTube, ele vai pesquisar
+títulos nas últimas nos últimos meses
+que são parecidos com o meu de Vibod, de
+vibe building. E ele vai trazer essa
+informação. A aproveitando, esse vídeo
+tá muito bons, né? Esse vídeo aqui tá
+esse esse conteúdo é tipo de conteúdo
+que vocês gostam, não é? Já dá o like
+aqui, por favor, nesse vídeo, já comenta
+aqui também e compartilha, pô. Fala
+assim, fala: "Mano, olha esse que esse
+maluco fez aqui em menos de tantas
+horas. É loucura. É loucura. Agora que
+eu vi, gente, o ag hora não tá
+aparecendo. Eu tava falando a hora para
+vocês não tá aparecendo. Agora é 20:17.
+Agora é 20:17, só para vocês saberem.
+Então assim, compartilha aí, dá o like,
+comenta aqui também. Já comprou meu
+workshop? Não comprou ainda, pô. Dem, tá
+demorando, hein? Deveria ter comprado.
+Então aqui, ó, ele vai falou o seguinte.
+Ah, beleza. Como criar o CRM com o Iado
+zero sem saber programar? Olha que
+louco. Olha esse vídeo, cara.
+Curiosidade, eu não sei programar e cri
+um CRM completo com IA. Maravilhoso.
+Eu tenho 15 anos de desenvolvimento de
+de software. Criei um CRM do zero com
+IA, sem saber programar. Caraca, ficou
+ótimo. Eh, os três títulos ficaram
+ótimos. Gere as thumbs. Thums para mim.
+Aí agora, olha que praticidade, ele vai
+gerar as thumbnails. Enquanto isso, o
+nosso desenvolvedor tá aqui, o nosso
+time de desenvolvimento tá aqui, ó. Deep
+research. Isso aqui consome um crédito
+ferrenho, tá? Esse deep research aqui,
+acho que ele vai gastar mais crédito que
+o desenvolvimento. Ó, subiu 1% aqui,
+beleza? Da sessão atual e beleza. Deixei
+lá. Design muito bem feito e coerente.
+Já entendi a estrutura. É um Medflow, um
+CRM clínico multiempras. Tem troca de
+consultórios na barra lateral. Eu vou
+ler as telas principais agora. Aí ele
+vai ler todas as telas, ó. Ele vai ler
+todas as telas que eu desenhei e ele vai
+escrever um negócio chamado specs. Que
+que são essas specs? São especificações.
+O que que é esse slots M1? M1 é o
+milestone, só para você entender. É como
+se fosse um blocão de funcionalidade.
+Ele vai escrever M1, M2, M3, M4. E
+dentro das M1 ele vai escrever as
+tarefas, tarefa um, tarefa dois, tarefa
+3, tarefa quatro, tarefa 5. E cada
+tarefa ele vai especificar como tem que
+ser feito. Por quê? Porque esse
+desenvolvimento aqui, o jeito que eu
+desenvolvo, é um modelo de multiagente.
+Se eu entrar aqui em tools, ó, o que ele
+criou? Ele já criou o time de IA. Esse
+time de IA aqui é o time que vai
+desenvolver este aplicativo completo. E
+ele vai começar a desenvolver os
+componentes, ele vai começar a
+desenvolver as libs, as bibliotecas. Aí
+já começou, na verdade, ó, botão card
+index. Eu acho que isso aqui deve ser
+padrão. Ele vai escrever API, ele vai
+fazer tudo bonitinho, vai organizar tudo
+bem bonitinho, bem lindinho, do jeito
+que tem que ser feito, bem estruturado,
+bem organizado para que isso seja um
+ativo tecnológico, para que isso tenha
+valor de verdade, para que isso possa
+depois ser desenvolvido ou continuar
+sendo desenvolvido por outro dev ou por
+agentes de A e ou por multitimes e por
+aí vai.
+Ah, vamos ver minha capa do YouTube.
+Será que tá saindo? Vamos ver aqui.
+Output, tá? Qual ferramenta de A você
+usa para construir no CRM ao vivo? Vou
+colocar a logo da I. Olha que legal, eu
+uso, tô usando o cloud, velho. Aqui, ó.
+Cloud. Pum. Cloud Code. Será que ele vai
+fazer uma Ah, bem feita? Uma bem feita.
+Isso aqui é maravilhoso, gente. Acho
+muito louco isso aqui.
+Aí que é muita informação, mas se eu
+quisesse lançar isso daqui, aí eu iria
+rodar minhas skills estratégicas. Ó,
+posso abrir um novo cloud aqui.
+Eu vou criar uma pasta aqui dentro
+mesmo, ó. Vou chamar de estratégico.
+Ó, dentro de estratégico, eu vou falar
+assim, ó. Criei uma pasta chamada
+estratégico aqui dentro.
+Quero sua ajuda. Vamos rodar as skills
+de estratégia do Kelvin para a pesquisa
+de nicho,
+eh, para, eh,
+para pesquisar o nicho médico e fazer um
+benchmark completo de soluções, mais
+pesquisas de preço para fazermos um
+pricing correto dessa solução. Cara,
+isso aqui é maravilhoso, porque aqui o
+que que ele vai fazer? Aqui eu tenho
+umas skills específicas para fazer
+benchmark, pesquisa de preço, eh cálculo
+de pricing, imposto, despesa, projeção
+de crescimento. Por quê? Porque se eu
+quiser lançar isso aqui como uma
+solução, eu preciso antes pesquisar o
+mercado. Eu preciso entender o mercado.
+Então, olha que doideira, a gente tá
+fazendo 10 coisas ao mesmo tempo. Esse
+aqui eu tô lá, deixa eu ver o que ele
+falou aqui. Eh, entendi certo. Entendi
+certo o produto e posso seguir com os
+três pontos. Criar login financeiro só
+como registro por enquanto. WhatsApp,
+começando pelo Qcode. Deixa eu ver.
+Eh, ah, ele me explicou aqui, olha que
+interessante, o que que é o Medflow. E
+no meu entendimento, é um sistema para
+clínicas organizarem todo o caminho do
+cliente num só lugar. É o coração do
+atendimento por por WhatsApp. O o
+histórico principal, o atendente entra,
+vê a conversa do WhatsApp, aguardando,
+responde o cliente, biriri, parará,
+parará, é multiclínica de verdade, tá?
+Três pontos. Tela de login, seu design
+não trouxe uma tela de log de entrada.
+Ah, não queria uma tela de entrada.
+Pagamentos, como combinamos o pagamento
+no início, cobrar para pagamento fica
+para depois. É verdade, não fiz o
+pagamento. O WhatsApp começa pela
+conexão via QR code a do seu design e
+deixo a API oficial para depois.
+Perfeito. Isso mesmo. Pode seguir. Sim,
+pode seguir. Olha que legal, ele já
+entendeu o design e ele já vai para
+projetar até a V1 e a V2. Então, olha
+que louco. Eu sozinho, eu, Kelvin, nesse
+vídeo do YouTube, eu, Kelvin Clet, não
+sendo um empresário aqui, sendo uma
+pessoa qualquer. Eh, estou aqui
+desenvolvendo um SAS.
+Aqui eu estou pesquisando nicho e
+bolando a estratégia do mercado.
+Aqui eu estou gerando a capa pro vídeo
+do YouTube e daqui a pouco eu vou pegar
+esse monte de pedaço de vídeo que eu
+estou gravando aqui para vocês, ó.
+Porque eu vim cortando. Quer ver? Cadê
+filmes, esse monte de pedaço de vídeo.
+Aí eu vou falar para mim, ah, o
+seguinte, falar assim, ó. Agora você
+junta todos esses vídeos num vídeo só e
+corta todos os espaços porque eu preciso
+publicar no YouTube.
+Não é loucura. É loucura. Que é loucura.
+Deixa eu mostrar isso daqui para vocês.
+Olha que interessante. Primeiro passo. E
+esse aqui faz toda a diferença. Olha
+aqui o que ele tá fazendo. Planejamento
+de roadmap e slots. Tá 10 minutos já
+processando. Ó, planejarmap mais slots.
+Quem tá fazendo? CTO e o arquiteto
+Software depois construir a plataforma.
+Quem que vai fazer o multiagente? Então,
+quem que é o multiagente? São os
+desenvolvedores. Depois ele vai fazer
+uma integração, mas review estrutural.
+Depois ele vai fazer o HTC final. O que
+que é esse HTC final? Esse aqui é o
+teste, tá? Então esse aqui é o momento
+em que a pessoa testa. O ser humano é o
+human in the loop. É eu só testando a
+ferramenta, eh, porque ela já
+desenvolveu inteiro e pontuando para
+ela. Fala: "Ó, não ficou legal essa tela
+aqui, ó. É, isso aqui não tá bom, isso
+aqui tá assim, isso aqui tá assado. É,
+eu quero que vocês vejam depois que
+tiver pronto como isso vai ficar. A
+gente vai passar por tudo. Provavelmente
+isso aqui vai demorar uns 40 minutos ele
+processando e fazendo. Então, cara, a
+gente vai desenvolver um sistema inteiro
+em menos de 2 horas, velho.
+E minha capa do YouTube tá saindo ao
+mesmo tempo, ó lá. Não é loucura. Já
+saiu minha capa do YouTube, gente. Ficou
+bom, hein? Ficou uma bosta, na verdade.
+Cloud 100% com I antes e depois. Ele
+pegou um print do go high level, cara.
+Olha que safado.
+Caraca, que loucura isso. Nem sou eu.
+Nem sou eu. Ele que [risadas]
+aquele errou feio. Aqui sou eu. Mas tá
+bem aqui. Não é eu não. Não sou dev. Eu
+sou dev. No final das contas ainda sou
+dev. Fiquei, fiquei triste dele falar
+que eu não sou de feito ao vivo. Ficou
+boa. Ó, ele fez saber aqui. Eu não sei
+porque ele fez, mas olha que
+interessante. Se eu olhar aqui em
+harness reference, ele deve, ó, tá
+vendo? Ele trouxe várias referências, ó.
+Ele pesquisou, ó, trouxe o Ronald.
+Ronald, ó aqui, ó. Você virou uma
+referência, hein? Termine o que você
+começou. Isso aí, Ronald. Tá certo.
+Ronal é brabo, hein, gente. Ai, car.
+Ronald está me seguindo. Você é meu
+benchmark. Você é meu benchmark. Caixa
+preta aberta, Cloud Code, meu workflow
+com IA. Então, ó, trouxe o Valdemar,
+trouxe várias capas aqui. Uma aqui, nada
+a ver, ó. Essa aqui nada a ver, mas ele
+trouxe várias capas aqui para usar como
+referência. E aí, a partir disso ele vai
+construindo as minhas capas. Legal, né?
+Agora vamos ver o estratégico como que
+tá. Estratégico tá assim, ó. Vamos lá.
+Qual que é o tipo de clínica que você
+quer, Olha, olha que interessante. Olha
+o que que é uma skill bem feita. Ele
+subiu a minha skill aqui, beleza? Aí ele
+começou aqui, ó. Qual o tipo de clínica
+que você quer priorizar como cliente
+principal do Medflow? Porque isso vai
+definir tudo. Então vamos lá. Estética,
+dermato, odontologia, amplo,
+multiagente. Quer ver? Ó, assim, ó. Eh,
+qual você acha que eu devo focar?
+Qual eu posso ter um diferencial
+competitivo?
+Eh, que tamanho de clínica de um a cinco
+profissionais, começando, ambos
+começando na pequena. Eh, qual que é a
+estratégia de preço que você quer mirar
+na partida? Competitivo para crescer
+rápido, prêmio por valor? A pesquisa que
+recomenda. Pesquisa que recomenda.
+Brasil, nada de Latã. Brasil, talvez até
+mais regionado. São Paulo, Sudeste. Por
+quê? Porque quanto mais nichado, quanto
+mais segmentado, melhor e mais fácil é.
+É sempre assim. É sempre assim. É mais
+fácil. E aqui, voltando pros, nossa, eu
+tô falando tanta coisa ao mesmo tempo.
+Vocês estão entendendo? Se não tá
+entendendo, vai com calma, assiste de
+novo duas, três vezes, dá o like, deixa
+um comentário, tira uma dúvida. Mas olha
+que interessante, a primeira coisa que
+ele escreveu é o share contracts. Aqui é
+mais técnico, mas só para vocês
+entenderem. Olha que legal. Contrato
+comum. para todos os slots do M1. Todo
+deve ler depois do resume e antes do
+briefing. Isso aqui é o padrão, né? Isso
+aqui é bem interessante. Slot, web,
+login, faz tal coisa. Pá, aí ele definiu
+aqui o contrato comum, ó. Eh, o is prim
+e o I primitivos componentes. Então ele
+vai componentizar tudo. Olha que
+interessante. Botão, card, pil, tag,
+input, eh, decisões transversais do
+milestone, out, como que vai ser? Sessão
+por cook, http on, mais security para
+produção, mais semite, tal, tal, tal.
+Rota API, out login, API, health,
+multiteding, invariante, workspace, ID
+e, idioma padrão. Então ele não vai
+fazer isso daqui e multilinguagem. Por
+quê? Porque é loucura, não precisa. E
+aqui em slot no M1, olha que
+interessante, ele já criou aqui. Então,
+quais são os desenvolvimentos que podem
+acontecer em paralelo? A page
+autenticação, a Page Workspace, Core Alf
+Z, DB Foundation, Share Out, UI Kit, Web
+Hub, Web Login, Web Shell. Então ele
+está componentizando
+e criando como se fosse a a
+infraestrutura da solução, a base, o
+cerne do negócio. Por quê? Porque depois
+do cerne aí ele vem construindo muito
+mais rápido. Então ele gasta energia
+nisso. Como que estamos? 46%
+da sessão atual e 72% do modelo. Vamos
+que vamos. Vai vai consumir aqui o quê?
+uns talvez uns 15 a 20% da sessão atual
+e uns 75% do modelo. Para uma plataforma
+completa, tá de graça. Pausa para chamar
+você para Acelera 360. Mais uma vez nós
+somos um ecossistema para empreendedores
+e empresários com soluções, formações,
+tudo relacionado à inteligência
+artificial para gerar mais resultado
+para você. E agora a gente tá com acesso
+fundador. O que que é o acesso fundador
+da Celera 270? a gente tá num momento e
+esse acesso fundador vai permitir você
+tá junto comigo na construção desse tipo
+de coisa, dando pitaco. Pô, poderia ter
+isso aqui, poderia ter aquilo. E por
+conta disso, o preço é extremamente
+diferente, é uma condição especial e são
+apenas 50 vagas que vão durar até dia
+30/06, depois o preço vai subir. Então
+eu, se eu fosse você, eu clicava aqui
+nesse link e se inscrevia no acesso
+fundador. Vem conhecer a acelera e se
+você ainda tiver receio, vem participar
+do workshop que vai rolar sábado para
+você entender mais. Vai ser um prazer
+ter você lá. Bora, clica aqui e já
+garanta a sua vaga. Vou mostrar uma
+coisa bem legal em paralelo com vocês
+que é o seguinte, enquanto tá
+desenvolvendo, tá desenvolvendo, gente,
+isso aqui vai vai mais uns 40 minutos,
+30 minutos fácil. Agora é 8:43,
+mas olha aqui na pesquisa essa daqui,
+isso aqui consome para mas é
+maravilhoso. Ó, deixa eu mostrar aqui
+para vocês entenderem. Ah, agora ele
+desativou o dynamic workflow. Mas o que
+que ele tá fazendo, cara? Ele está
+fazendo uma pesquisa profunda
+na internet, profunda. Então ele tá
+montando todo o benchmark. Olha que
+interessante, ó. Pesquisa de mercado
+subnichos, clínicas brasileiras, nove
+ferramentas sendo utilizado. Tá comendo
+toca igual um caramba aqui. Tá fazendo
+benchmark do software de gestão de
+clínicas, tá fazendo benchmark de CRMS,
+WhatsApp estética e tá já fazendo a dor,
+a COP, a L e LGPD em saúde. 13
+ferramentas sendo utilizadas
+aqui em estratégia. Ele já escreveu,
+deixa eu ver, fonte. Ainda não, mas ele
+já escreveu o que que o produto é. Olha
+isso aqui, que legal. Vamos lá. O que
+que o produto é? Medflow é um CRM de
+captação e atendimento por WhatsApp para
+clínicas. O leid, ele chega pelo
+WhatsApp, Instagram, ele vira uma
+conversa inbox com contextos, contexto
+do lead, consultas agendadas, eh, agenda
+pro profissional, anda no funil, camban,
+novo lead, depois ele vira o paciente. A
+hora que ele vira o paciente, ele vira,
+ele vira ficha de paciente com
+prontuário básico. Um gestor acompanha
+tudo num dashboard de KPI, novos leads,
+conversões, consultas, receitas
+estimadas, os pilares atendimento pelo
+WhatsApp, captação e conversa, agenda e
+base de pacientes. O que que o Medflow
+não é? Isso é muito importante. Ele não
+é um sistema de gestão de clínicas
+completo. Ele não é um eh pesado ou um
+RP, no caso. Eh, ele não processa
+pagamento. Posição CRM first, WhatsApp
+first. Não é um RP de saúde. Poderia
+virar um RP de saúde, poderia. Eu posso
+agora ir criando módulos. Qual que qual
+que é o nosso limite aqui? Nenhum. Não
+tem limite. Quem que usa? O
+administrador, o gestor, o médico, o
+profissional, o atendente? Quais são as
+implicações para a pesquisa? Concorrente
+não é um software de gestão de clínicas.
+fazer qualquer coisa que a clínica usa
+hoje para captar e atender pacientes,
+software de gestão. Isso aqui é para
+quem? É pro dono da clínica? Não, não é
+pro dono da clínica, mas é para você
+quer empreender. Isso aqui é muito
+importante, entendeu? Por quê? Porque
+aqui vai dar o norte para você montar
+todo o modelo, o planejamento do
+negócio, o BP, que a gente chama, né?
+business plan, montar o pricing, eh,
+montar estratégia de aquisição, montar
+quanto você vai precisar de investimento
+para você ou de dinheiro para tracionar,
+montar estratégia de go to marketing,
+montar criativo e tudo que for
+necessário para você poder lançar uma
+solução. E estamos seguindo no
+desenvolvimento. Agora é 9:05. Ó, é
+legal, ele já começou o M2 aqui. É, eu
+subestimei um pouco, achei que ia ser só
+uns 40 minutinhos, mas acho que vai ser
+mais, vai ser mais ou menos quase 2
+horas. Mas olha que legal, a pesquisa de
+nicho ficou pronta, a pesquisa completa
+ficou pronta. Então aqui em estratégia,
+olha que interessante, ele já montou o
+benchmark dos concorrentes.
+Ã, quem são os concorrentes? Aí ele
+colocou aqui, beleza, quando é
+concorrente direto, pá, i clinic, figle,
+amplimed, prodooctor. Ele analisou todos
+os concorrentes, ó, de odontologia
+também, estética, marketplace. Olha que
+legal isso aqui, gente. Aí, ó, os
+concorrentes adjacentes que são os
+genéricos. Essa galera que é tudo
+horizontal, pipe drive, de lovers,
+envia, blip que são concorrentes,
+indireto, mas são concorrentes. Quem que
+é o ICP? Quem que é a persona que
+compraria? Olha que legal. Ã, para que
+que a gente vende, tá? Clínicas pequenas
+de estéticas, eh, estética
+dermatológica. Então, ele definiu que o
+melhor nicho pra gente começar, a
+recomendação de nicho dele é clínicas
+dermatológicas, estéticas e dermatológic
+e dermatologia estética. Segundo nicho,
+expansão natural pro mesmo produto é
+fisioterapia particular e pilates.
+Isso aqui é um fenômeno. Essa parte que
+eu mais gosto, parte estratégica. Por
+que estética é a melhor que se encaixa?
+Porque é um nicho que já vive de funil
+que o Medflow automatiza. É o padrão.
+Alta capacidade de pagamento.
+Roy diante no show. O que que é ROY?
+Retorno sobre investimento.
+Diante no show. É fácil de provar por
+faltas de 15 a 25% sobre procedimentos
+caros. Um lembrete de sinal por
+WhatsApp, vira economia visível na
+primeira semana. Então é uma cuinha de
+venda imediata. É o que a gente chama
+aqui de ela é uma venda
+innegável, né? Tipo, se o cara não
+comprar, ele tá sendo louco. Porque se
+você atrelar o a sua venda, não ao
+resultado, mas ou perdão, não ao
+resultado, não a ferramenta, mas sim ao
+resultado gerado. E a ferramenta é o
+meio para ter esse resultado, isso é
+maravilhoso. E gera resultado sim, tá? e
+CP e Persona, ele definiu aqui benchmark
+de concorrentes. E ele já fez aqui um
+processo, ó, em negócio. Ele montou o
+price da concorrência, pum, pum, pum,
+pum, pum, o preço que ele pesquisou, o
+mercado e ele montou um pring, uma
+tabela de pring. Qual que seria o preço?
+Que ele já até mostrou aqui, ó. Olha que
+legal. Ã, pricing recomendado. Diferente
+de quase todo o mercado, recomendamos
+cobrar por clínica, não por
+profissional. Um flanco aberto direto,
+que é um diferencial com WhatsApp
+embutido, não a dom caro. Preço
+transparente e trial sem cartão.
+Essencial 127, profissional 247 e
+avançado 397 por mês. Clínica média
+múltiplas unidades. Então cada unidade
+eh pagaria ou 127, 1847 ou 397. Ele já
+montou aqui a âncora. Olha que
+interessante, price recomendado,
+honestidade, pió.
+Agora, enquanto tá desenvolvendo aqui,
+vamos deixar ele desenvolvendo. Já tá no
+M2 aqui, ó. Build de back end, banco de
+dados, DTO, pipelines, que pra gente
+aqui é irrelevante, tá sendo
+desenvolvido. Vamos, vamos, deixa eu
+extrapolar com vocês aqui o pensamento.
+Vamos, vamos fazer uma projeção. Vamos
+entender o quanto que a gente precisaria
+de cliente para isso.
+Eu vou pegar aqui uma planilha pra gente
+poder fazer essa brincadeira. Vamos
+fazer uma projeção financeira. Vamos.
+Vai, vai. Vamos lançar. Já vou lançar
+isso aqui. Tem médico aí para comprar?
+Tem médico.
+Eu vou criar aqui do zero pra gente não,
+para vocês entenderem o conceito. Não
+vou pegar nenhuma tabela de projeção
+financeira aqui, não. Vamos primeiro
+colocar aqui, ó. Isso aqui é a primeira
+coisa. Esse pring aqui foi calculado.
+Depois a gente pode entrar no detalhe,
+mas não vamos pensar muito nisso aqui.
+Agora ele colocou aqui o essencial. Eu
+vou colocar aqui, ó, eh, eh, plano, né?
+o essencial, o profissional,
+profissional e o avançado. Olha que
+interessante, gente. Eu acho que isso
+aqui é uma das coisas mais importantes,
+planos e preços. Essencial é R$ 127,
+o profissional é R$ 247
+e o avançado é R$ 397.
+Tá? Deixa eu formatar aqui para preço e
+eu vou montar aqui uma tabela para ficar
+organizado, para ficar bonitinho com
+cabeçário. OK. Planos e preços. Aí deixa
+eu dar um zoom aqui para vocês
+enxergarem melhor, senão vocês não vão
+enxergar, tá bom? Vocês conseguem ler?
+Ah, consegue. Beleza. Aí vamos fazer o
+seguinte, ó. Vamos entender. Vamos
+colocar aqui, essencial. Vamos,
+vamos supor que o nosso alvo target é
+60% dos clientes num plano essencial.
+Vamos supor que outros eh 20% 20% vem no
+profissional e 20% pro avançado,
+totalizando 100% aqui do nosso volume de
+clientes. Isso aqui é uma estimativa,
+tá? Então isso aqui seria uma
+estimativa. Isso aqui é tipo assim, é o
+que eu espero, é o meu alvo, meu
+objetivo, um dos meus objetivos com
+relação ao meu lead. Não, não tem um,
+não tem um cálculo para fazer isso. Isso
+aqui é projeção financeira. Agora vamos
+colocar aqui, ó. Vamos, vamos projetar.
+Vamos supor janeiro de 2027, fevereiro,
+vou, vou projetar pro ano que vem,
+fevereiro de 2027 e vou fazer uma
+projeção aqui, ó, até junho, julho,
+agosto, setembro, outubro, novembro,
+julho, outubro, dezembro de de janeiro a
+dezembro de 2027. Beleza? E aqui vamos
+colocar o seguinte,
+eh, vamos colocar que imagina, começamos
+a plataforma aqui agora, então a gente
+vai começar com zero clientes em
+janeiro. Começamos nosso funil, cara.
+Dificilmente a gente vai conseguir já no
+primeiro funil, no no funil aqui, eh,
+conseguir cliente.
+Gente, essa daqui é uma das coisas mais
+importantes que qualquer pessoa que quer
+empreender tem que fazer. uma projeção
+de crescimento. Isso aqui é um SAS. Tô
+aqui eu tô indo pra linha de um SAS, né?
+Para vocês verem como o SAS é um negócio
+ruim. A precificação aqui um negócio
+ruim, não, é um negócio difícil de parar
+de pé. Vamos colocar aqui, ó, que a
+gente vai ter uma taxa de de ch. Que que
+é a taxa de ch? Taxa de cancelamento de
+8%. Então, 8% das pessoas que entrarem
+no nosso SAS, elas vão cancelar. E aí a
+gente vai fazer o seguinte, vamos
+projetar aqui, ó, uma taxa de
+crescimento.
+Taxa de crescimento.
+Nossa, cálculo de padaria, hein? 10%. Os
+especialistas aí, por favor, não me
+julguem. Eu não sou um especialista em
+como fala em Ai, caramba. Iui, subiu da
+cabeça. Agora eu não sou especialista
+aqui em projeções financeiras. Na
+verdade, eu tenho uma planilha pronta
+para isso, mas eu vou colocar aqui, ó.
+H, vamos supor que janeiro não entrou
+nenhum cliente, eh, total de clientes,
+total de clientes aqui, entrando aqui na
+na cabeça. E aqui a gente vai fazer a
+divisão. Então, vamos supor, se entrou
+10 clientes em fevereiro, 60% é nesse
+preço aqui. Então, eu vou colocar isso
+aqui vezes
+esse 60%. Esse 60% ele tem que ser fixo.
+Então, eu tenho que colocar, deixa eu
+ver se isso aqui vai dar isso aqui.
+Vezes 60%.
+Isso mesmo, 6 vezes o valor, pum, esse
+valor aqui, pum. Então, significa que R$
+750 veio do
+Nossa, que que ele fez aqui, gente? Ah,
+tá, tá, tá, tá, tá, tá, tá. Essa coluna
+aqui tem que ser fixa, ó. Tem que ser G
+Sim, G4. Exfícil, hein? É difícil. Aí,
+beleza? Então, se vi 10 clientes em
+fevereiro, R$ 762
+que veio desse dessa quantidade de
+clientes aqui que veio do plano
+essencial, 60%, R$ 4
+do plano profissional e R$ 794 do plano
+enterprise. Deixa eu ver se tá batendo.
+É isso mesmo. Totalizando igual a soma
+desse esse total aqui. Ah, gente, aqui
+tem um ponto que é o seguinte, ó. O cara
+que entra em fevereiro não paga em
+fevereiro, paga em março. Então eu teria
+que jogar um pra frente, mas vai dar
+muito trabalho para fazer isso aqui no
+Excel. Então não vou fazer isso aqui
+não. Aí eu vou fazer o seguinte, eu vou
+colocar isso aqui vezes essa taxa de
+crescimento aqui. 10 mais
+isso.
+Pronto, 11. Apanhei igual um cachorro
+para desenhar esse Excel aqui, mas eu
+fiz aqui rapidinho, ó. Recalculei tudo.
+Então vamos lá. Olha que interessante,
+se eu conseguir 10 clientes em fevereiro
+neste ticket aqui de 127 247397,
+eu receberia R$ 762 do primeiro plano,
+400 e pouco, totalizando R$ 2.000 por
+mês. E eu consegui e eu tivesse uma taxa
+de crescimento de 10% e 8% de chne de
+cancelamento, significaria que eu ia
+terminar 2000,
+dezembro de 2026 com aproximadamente
+aqui não seria 26 clientes, né? seria
+menos os 10, os 8% de ch que teve. Não
+vou calcular isso aqui agora, senão vou
+ficar perdendo meu tempo, mas o ch foi
+descontado da precificação. Então teria,
+eu teria faturado R$ 153.000.
+Agora, se por algum motivo, a partir de
+maio eh eu conseguisse 20 clientes e
+depois a partir de agosto ou de julho eu
+consegui eu pulasse para 30 clientes
+através de uma campanha massiva e depois
+em setembro para 40 clientes e em
+novembro eu chegasse a 60. Opa! em
+novembro eu chegasse a 60 clientes, a
+gente estaria em dezembro de 202 com uma
+receita recorrente de que de 56.000, um
+MRR de R$ 56.000. Nesse SAS aqui,
+teríamos faturado R$ 247.000
+totais. Aqui 66 clientes não, porque tem
+que descontar o turn. Eh, e a que a
+brincadeira já começa a ficar gostosa.
+Qual que é o grande ponto para vocês
+entenderem? Eh, isso aqui é muito
+importante para vocês entenderem a
+precificação de vocês e principalmente
+qual que é o custo para eu trazer 10
+novos clientes, qual que é o CAC, qual
+que é o investimento necessário de de
+lead, por exemplo, um lead eh
+imagina o seguinte, que o o custo o CPL
+custo por lead R$ 33, só que o o custo
+por lead qualificado, então o MQL custa
+R$ 200.
+você vai conseguir entender que, pô,
+para eu trazer e a taxa de conversão é,
+vamos supor, 40%, 30% em cal, 30% em
+cal,
+quantos leads você vai, quanto de
+investimento que você vai ter que fazer
+para você trazer esses 10 clientes aqui?
+Aí você vai começar a entender o jogo do
+SAS de verdade. Isso aqui é uma projeção
+financeira
+de uma forma grosseira, mas é uma
+projeção financeira. E isso vai te dar
+visibilidade. E isso vai te dar
+visibilidade do quanto você precisa de
+investimento. Agora vamos olhar aqui
+novamente, ó. Então, a gente tá aqui
+construindo a nossa plataforma ainda.
+Ele já tá no M3. Olha que interessante.
+Se eu entrar aqui nas specs, nos slots,
+eu vou ver que ele já está construindo o
+slot M3. Ó, agora ele tá fazendo o
+inbox, vai fazer a conexão com WhatsApp,
+vai fazer o web hook, vai fazer o DB
+Conversation, vai fazer o pacote do
+WhatsApp, a parte compartilhada do
+WhatsApp, o inbox, o M2 já foi todo
+feito, o M1 já foi todo feito e aqui tá
+indo embora, gente, tá desenvolvendo.
+Enquanto tá desenvolvendo aqui, a gente
+fez a pesquisa. Eu tenho outros
+desenvolvimentos acontecendo aqui
+também, inclusive eu tô mexendo até na
+Grove iOS, que é a nossa plataforma e de
+educacional. A gente vai lançar agora no
+dia 1 dia 1 inclusive. Eu quero você de
+novo aqui na Acelera 360, pô. Clica no
+link aí, vem conhecer Acelera ou entra
+no meu workshop, pelo menos isso. Eh, e
+cara, isso é maravilhoso, isso aqui é
+incrível. Então, eu vou deixar ele
+rodando aqui e eu vou voltar agora. É
+9:30. Caraca, já passou uma hora
+praticamente. Aproveitando até até esse
+momento, ó, ele gastou 79% da sessão
+utilizada, vai resetar agora e ele já
+está em 77% do meu modelo, sendo que eu
+fiz pesquisa de mercado, deep research,
+tô desenvolvendo o software completo, eh
+tô desenvolvendo uma outra solução aqui
+em paralelo. Então, cara, não tem
+nem o que falar. Vale a pena? Você
+responde aí, vale a pena? Você que
+decide. 10:40 da noite. Caraca, demorou
+mais que eu achei, mas olha aqui, não
+terminou ainda o desenvolvimento, mas
+ele começou a fazer os testes. Será?
+Será? Será? Ó, tô assistindo Mega Brain
+aqui. Subiu o vídeo agora. [risadas]
+Mega Brain, mano. Vamos ver.
+[risadas]
+E tá ficando pronto o negócio. E tá
+ficando. Cara, eu adoro esse negócio.
+Eita, fle. E não ficou com cara de A. e
+não ficou com cara de a. Seja sincero,
+ó, deixa eu ver aqui.
+Vamos ver se ele vai criar um usuário de
+teste aqui. Capturei as oito telas. Blá
+blá. Será que ele colocou um usuário
+aqui? Deixa eu ver se ele guspiu algum
+usuário para eu já ir logando, que agora
+eu estou curioso.
+Ã pá.
+Me passa o usuário e senha, jovem.
+Vamos ver, ó. Olha que legal, ó. Funil
+de cambas, pá pá. E o caixa de entrada
+tanto fiéis como os dados reais.
+Encontrei um detalhe, corrigi antes do
+seu teste no painel de contexto da
+página de entrada. Etapa, mostra um
+código em vez de um nome. E tem que ele
+tá rodando teste já, né? Ele tá rodando
+um teste visual aqui. Cara, que legal
+isso, né, gente? merda, cara.
+Vamos ver aqui, ó. Enquanto ele tá
+desenvolvendo, eu vou logar.
+Marina da vida plena, hein? Assim é
+flow. 1 2 3 one two three one two three
+one two three. Mad flow. 1 2 3. Tant. Ao
+vivo, hein, gente? Ao vivo.
+Uau!
+Uau! Já coma. Uau! Pera aí, calma aí.
+Vamos ver se é verdade. Ó, joguei
+Beatriz Furtado para cá. Atualiza a
+tela. Uau,
+legal isso aqui, né, gente? Ó, cara,
+olha a fidelidade, cara. Eu acho isso
+aqui maravilhoso. Eita, um monte de
+coisa faltando ainda. Tã tã tã. Quero
+ver o WhatsApp. Vamos conectar no
+WhatsApp.
+Carregando visão. Não é possível
+carregar a visão geral. Beleza. Não
+trouxe visão geral ainda. Atendimento.
+Carregando conversas. Nenhuma conversa
+de entrada. Agenda aqui, ó. Bem provável
+que isso daqui não vai fazer. Por quê?
+Porque conectar com o Google Agenda
+exige fazer uma integração, assim como
+foi feito com o, cadê?
+Aqui, ó, com back end aqui. Integração
+WhatsApp. De uma outra integração aqui
+que tem que ser feita.
+Opa, com o Google Agenda. Google Agenda.
+Mas isso aqui é peta. Isso aqui é isso
+aqui é dos problemas ou menor. Por quê?
+Porque eu posso usar, por exemplo, acho
+que é Nango. Nango. Nango dev. Isso
+mesmo. Nango Dev, por exemplo, é um
+projeto open source também bem bacana.
+Ele já tem toda a estrutura aqui, ó. Lá,
+ó. Tá vendo, ó? Google Agenda, Google
+Calendário. Então aqui eu usaria o
+Nango. Para fazer isso daqui eu usaria o
+Nango Dev. Nango. Dev. Poderia usar o
+composi se fosse fazer por IA também.
+Composio dev, que é muito bom. Composio
+também já tem essas integrações prontas
+e facilita muito e o preço é barato.
+Opa, aqui outra coisa. Tem outra coisa
+aqui. Volta para cá. Pacientes.
+Nenhum paciente encontrado. Uai. Como
+assim? um paciente encontrado. Ó, tá com
+tá com Ah, tá beleza. Tá certo. Tá
+certo, tá certo. Porque uma coisa é o
+lead, outra coisa é o paciente.
+WhatsApp,
+QR code file gerar QRcode, código
+inspirado. Ó, aquele já trouxe a PI
+oficial. Olha que legal. Phone number
+ID, beleza. Business account, token
+permanente, o número. Vou conectar. A
+hora que ele terminar de desenvolver
+aqui, nós vai conectar com o Zapwat,
+hein, gente. Deixa ele terminar. Ele tá
+terminando de construir a plataforma
+aqui. Caiu pro login. Tá, tá, tá.
+Recarregou, cara. Mas, ó, já começou
+configurações,
+consultoria. Acho que ele não terminou
+nada disso ainda.
+Já começou tá ter a cara do negócio,
+hein. Ó o Donton sorriso. Uma outra já
+colocou aqui o multitinante. Deve, ó,
+não tá funcionando ainda,
+cara. Isso aqui é lindo, velho. Isso
+aqui é lindo.
+Gente, esse é o novo mundo. Tava até
+comentando agora, né?
+Fiz um comentário num vídeo ali do de um
+youtuber aí de desenvolvimento que eu
+sigo. Cara, eh eu acho que a partir de
+agora o dev, o programador que para essa
+linha aqui, ele tá feito porque ele tem
+muita habilidade técnica, então ele vai
+conseguir guiar mais. Mas você entende
+que você também pode, independente se
+você é programador ou não, é é isso é o
+nível que você consegue usar o cloud
+hoje? Cara, a gente tá falando tudo bem.
+Eu falei que era 40 minutos e deu agora
+já quase 2 horas que eu tô aqui nessa
+nessa empreitada. Mas não é nada, gente.
+2 horas não é nada. 2 horas não é nada.
+Essa plataforma vai, esse vídeo vai
+terminar com essa plataforma rodando e o
+link dela para você se cadastrar e criar
+o seu tênant e testar aqui, ó, conect
+aqui nesse na descrição desse vídeo. E
+ainda vou colocar uma popup bem assim,
+ó. Hora que você logar, pum, venha fazer
+parte da Acelera 360, vai tá lá.
+Chegamos na etapa final. Ó, seguinte, eu
+vou conversar agora. Ele falou o
+seguinte, ó. Tô tudo pronto, pô. Beleza.
+Ah, ele já me deu o caminho, tá vendo? A
+teste final. Então, vou abrir a rota.
+Pegar aqui.
+Vou abrir a rota.
+Já tá aberta. Beleza. Vamos ver se tá tá
+online. Tá online. Tá online ou online.
+Usuário Marina Medflow 1 2 3. Vou
+colocar aqui Marina.
+Med flow 1 2 3 entrar. Opa. Uai,
+coloquei algum espaço.
+Deixa eu copiar certinho. Med flow. 1 2
+3. Escrevi errado. Ah, escrevi com uma
+letrinha a mais. Ó,
+vamos lá. WhatsApp.
+vou ler o WhatsApp aqui agora e vai vai
+cair a tela porque eu preciso ler o QR
+code, né, gente? Então, vamos lá. Vou
+conectar aqui, pessoal. Enquanto eu tô
+conectando aqui no WhatsApp. Olha que
+interessante, ele falhou aqui na conexão
+no WhatsApp. Eu falei: "Olha, eu li o
+QRcode, mas não apareceu lá". E aí eu
+pedi para ele testar. Aí falou: "Ó, o
+número conectou de verdade, só que olha
+o que ele achou. Olha o que ele achou no
+servidor Evolution. Beleza? É um número
+correto 16 2456
+é meu número de teste. Então o
+pareamento funcionou, só que ele não
+apareceu na tela por causa daquela
+lacuna do ciclo de conexão. Então ficou
+faltando um item aqui. Vocês acham isso
+aqui difícil? Por exemplo, o que que eu
+fiz? Tô tô rodando aquilo que ele criou
+e estou testando para verificar se tá
+tudo OK. a funcionalidade que não tá OK,
+eu entro aqui e eu meio que, deixa eu
+ver se tá gravando a tela. Tá gravando,
+eu meio que peço, falo assim, ó, cara,
+acabei de ler o QRcode aqui, conectar o
+número, mas não apareceu na tela.
+Consegue verificar? Uma conversa
+simples. E aí ele vai lá e vai corrigir.
+Esse é o trabalho desse bloco de HTC,
+entendeu? Eh, eh, human to check, né?
+Tipo, o significado disso aqui, HTC. Ó
+lá, os IDs batem, confirmado, os IDs
+batem, a sua sessão é workspace e tal, a
+instância tá conectada no Evolution. P
+pa pá, sem restart, mapeamento intacto,
+não aparecelarela pré-telas por dois
+motivos. Web hook não travava o evento,
+connection update. OK, então ele arrumou
+e a lista de conectados lê dos nossos
+registros, não do estado real da
+Evolution. Então, vou consertar de forma
+robusta a lista e a lista vai conciliar
+com a Evolution API, mostrar o número
+real conectado. Cara, eu na minha visão
+assim, eu acho que com eh não com zero
+instrução, mas você que está aí me
+assistindo com pouca instrução de
+estrutura, você consegue, por exemplo,
+modificar um sistema desse ou fazer
+igual eu fiz aqui. Conta para mim, vocês
+acharam complexo eh desenvolver e eh
+fazer isso daqui que eu tô fazendo?
+Vocês acharam que é um bicho de sete
+cabeças? Nossa, que óv isso aqui, isso
+aí que você fez é loucura, é muito
+complexo, jamais conseguiria fazer ou
+cara, não, pelo que você me explicou aí,
+faz sentido e eu conseguiria eh eh criar
+o meu próprio sistema. Agora que eu vi,
+tava sendo, não tava aparecendo para
+vocês. Então, olha que interessante. E
+aqui isso daqui, o modo como foi
+desenvolvido, isso aqui sim é um ativo.
+Por quê? porque tá bem estruturado. Tem
+e provavelmente aqui no meio código que
+não deveria ter, que é como que eu posso
+dizer, como que os devs falam, tipo, o
+um código lixo, cara, provavelmente tem
+alguma coisa, mas nada que não seja
+possível refatorar em algum momento
+quando crescer. A gente tá falando de
+cara 2 3 horas agora é 11:36
+da noite. E olha a qualidade de
+estrutura criada e sem complexidade,
+sabe? A gente tá falando de um prompt
+que foi feito de um de uma apresentação
+que foi feita de de um de uma de um
+sistema design que foi feito e foi
+colocado para desenvolver e ninguém
+colocou a mão num fluxo praticamente
+autônomo. Isso aqui é um absurdo. Isso
+aqui é um absurdo. Agora me fala, você
+me conta você qual que é a sua opinião,
+o que que você acha disso? Você consegue
+fazer, você não consegue fazer, você
+consegue enxergar eh para onde a gente
+tá caminhando? Eh, você consegue ter
+essa visibilidade? Eu abri a sua visão
+agora sobre as possibilidades de você
+empreendedor, você empresário, pegar um
+processo da sua empresa e praticamente
+escrever uma solução para automatizar,
+escrever as suas próprias ferramentas
+customizadas para e aderentes 100% ao
+seu processo. Vocês conseguem enxergar o
+quanto isso pode gerar de valor para
+você no D+ 30, daqui 30 dias. Chega a
+ser um absurdo. E para você
+empreendedor, você consegue ver o quanto
+isso aqui pode te ajudar a fazer a sua
+empresa, a sua eu presa, cara, explodir.
+E para você que é técnico tá vendo aqui,
+tira essas amarras de, pô, ah, e ah,
+gera código ruim, cara, você tem que
+fazer isso funcionar do mesmo jeito que
+eu fiz funcionar aqui. E ó, mais uma vez
+eu deixo você o convite para participar
+da Celara 360. Eu vou terminar isso
+daqui, depois eu vou colocar aqui no
+link, mas basicamente o processo que eu
+vou fazer agora e eu vou subir esse
+vídeo agora porque eu subir, preciso
+subir ele hoje que amanhã jogo no
+Brasil, quarta-feira, eh, é de mais
+algumas horas aqui falando assim: "Cara,
+clica aqui, ah, ó, essa tela não
+funcionou, ajusta para mim, isso aqui
+não funcionou, ajusta para mim, faz
+isso, faz aquilo." É o teste humano e a
+lapidação, entendeu? É você lapidar a
+estrutura até que ela fique 100%
+funcional. Isso aqui eu posso subir pra
+produção assim, ó, em duas linhas
+também, do mesmo jeito que você viu
+agora. Publique para mim no servidor da
+VPS. Eu vou fazer um segundo vídeo
+amanhã para fazer. Vai ter a parte dois.
+Isso aqui vai ter a parte dois. Pronto,
+decidi. Vai ter a parte dois porque eu
+vou entregar esse sistema completo no ar
+rodando. Vou só parar aqui, vou terminar
+esse vídeo, vou editar, vou juntar aqui,
+vou pedir para m falar agora pega esses
+monte pedaços, monta esse vídeo do
+YouTube, vou publicar.
+Olha, [limpando a garganta] cara,
+sozinho. One person business. One person
+business. Fechou? Ó, compra o ingresso
+no workshop. Bora. Ou entra para
+acelera. Tchau para vocês.

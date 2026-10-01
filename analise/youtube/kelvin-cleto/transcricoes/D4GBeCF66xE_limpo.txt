@@ -1,0 +1,548 @@
+Nesse vídeo aqui, eu vou mostrar para
+você como eu criei uma infraestrutura de
+crescimento com o IA para praticamente
+aliviar toda a pressão aqui das minhas
+empresas com relação a marketing, a
+agência de marketing. Eu vou explicar
+para vocês o método, o playbook, as
+ferramentas que eu uso e como você
+também pode replicar. Parece complicado,
+mas é brincadeira. [risadas]
+É mais fácil do que você imagina. Vamos
+lá, vamos começar esse vídeo para dar
+uma introdução. Muito prazer, um
+contexto rápido aqui. Meu nome é Kelvin
+Cleton, eu sou um empresário do setor de
+tecnologia. tem uma consultoria de
+software chamada KCG Group e a gente
+atende lá as principais eh seguradoras
+hoje do Brasil e alguns bancos também. E
+eu tô à frente da Acelera 360, que é um
+ecossistema feito para empreendedores e
+empresários, onde nós temos soluções
+plugin play para ajudar você a
+transformar operações com inteligência
+artificial. Então lá você vai aprender
+lá na Acelera você além de aprender,
+você pode usar as nossas ferramentas
+para escalar aí o seu negócio. A gente
+tem um monte de ferramenta pronta. Isso
+aqui que eu vou mostrar para vocês, ó, é
+uma infraestrutura de IA para tráfego,
+qualificação, conversão e expansão
+comercial. Ah, eu uso IA praticamente em
+todos os pontos aqui. Em pontos eu uso
+mais, principalmente esses do início, e
+outros eu uso menos, que aí precisa
+muito contato humano, que é a hora que o
+lead chega, o contato chega para vender.
+Nesse momento tem que ser gente tete a
+tete aqui, ó, cara a cara, senão não
+vende, senão não converte bem. Quando o
+produto é barato, vai no automático.
+Agora, se não for barato, aí não tem o
+que fazer. Então vamos olhar, vamos
+olhar para essa infraestrutura aqui,
+vamos olhar pro que uma agência deveria
+fazer, mas eu vou te ensinar a fazer
+facilmente aqui. Bom, uma coisa a gente
+já consegue ver, o cloud, eu até
+coloquei aqui, ó, ele é basicamente hoje
+a minha estaque principal para rodar
+essa operação. Por quê? Primeiro, a
+gente tem um subsídio agora muito grande
+da cloud com o da Tropic com relação a
+tokens, então é muito barato. Poderia
+substituir, poderia, sem problema
+nenhum, poderia colocar qualquer outro
+agente de A aqui para rodar. Eh,
+logicamente eu ia ter que fazer uma
+reestruturação no modo como esses
+agentes funcionam, mas ainda assim
+geraria muito resultado. Enquanto isso
+não acontece, vamos, enquanto acontece
+esse subsídio, vamos aproveitar e muito,
+tá? E eu acho que você deveria
+aproveitar também. Então, eu começo
+fazendo um mapa estratégico de um
+negócio. Que que é esse mapa
+estratégico, cara? Estudar o nicho,
+entender qual que é a oferta principal,
+entender quem que é o ICP, para quem que
+eu vou vender, criar a escada de valor,
+né, produtos upscis ecel
+que que é um upscell, cara, eu chegou um
+lead x, esse lead tem condição de pagar
+mais, então eu escalo ele para um
+produto acima e porque o produto acima
+vai encaixar mais para ele. Ou esse
+lead, cara, ele não tem dinheiro para
+comprar aquilo que ele tá interessado.
+Eu jogo ele para um produto para baixo,
+mais barato. Então, basicamente esse é o
+offscell da hostel crossell. Eu vendo,
+faço uma venda casada, vendo mais um
+produto junto com ele ali que vai
+resolver o problema dele. Isso é um
+crossel. Depois entender quais são as
+objeções e crenças limitantes desse CP
+para comprar. Porque imagina o seguinte,
+imagina que eu tô vendendo agente de a ã
+ou tô vendendo ar condicionado. Cara,
+esse cara tem dezenas de objeções. Ah, a
+conta de luz vai ficar muito cara. não
+vou comprar ar condicionado por conta
+disso. Ele tem dezenas de crenças
+limitantes. Às vezes ele já passou por
+situações muito complicadas que geraram
+prejuízo para ele. Então eu preciso
+entender essas objeções e as crenças
+limitantes que ele tem sobre aquele
+determinado produto ou serviço para eu
+fazer o quê? Preparar o meu time
+comercial, preparar a minha COP para
+romper essas objeções. Gatilhos de
+compra, mesma coisa. Quais são os
+gatilhos de compra que vão fazer esse
+cara comprar? O que que chama a atenção
+dele? Quais são os canais de comunicação
+pro meu setor, pro meu tipo de empresa,
+pro meu tipo de produto. E aí isso aqui,
+juntando tudo isso aqui, você vai
+encontrar os pontos de conversão.
+Kelvin, que loucura é essa? Você faz
+tudo isso? Faço. Ã, isso aqui é tudo
+automatizado. Vou mostrar para vocês
+aqui rodando para vocês entenderem. Um
+recado rápido para você aqui, para você
+que quer ter uma infraestrutura de
+inteligência artificial que conecta com
+o teu marketing, vendas e principalmente
+operação para escalar o teu negócio,
+para escalar a tua operação. E não tem
+time de tecnologia para fazer isso ou já
+gastou aí fortunas de dinheiro com
+desenvolvedor, tá travado. Te convido
+para conhecer Acelera. A gente tá
+vivendo uma nova fase agora, uma fase
+onde a gente tá olhando para
+empreendedores e empresários, quem já tá
+com a mão na massa fazendo acontecer. E
+a gente tá lançando uma oferta que a
+gente chama de oferta para fundadores,
+entendeu? Então, para você ter acesso a
+acelera 360 por 12 meses, até acesso a
+um time que vai te fazer um
+acompanhamento, mentoria, CS, customer
+success e principalmente soluções de a
+soluções plugin plays e também
+formações, formação de cloud, cloud
+code, formação de hermiss, formação como
+automatizar tua operação com IA, como
+você fazer desenvolvimento
+multiagêntico. Então, se você quiser
+conhecer, acelera, vou deixar o link
+aqui na descrição desse vídeo, se
+aplique pro acesso fundador. Vai ser um
+prazer ter você lá. E se mesmo assim
+você falar, putz, cara, não sei se é
+para mim, quero, quer conhecer mais,
+agora sábado eu vou fazer um workshop
+chamado a Nova Economia da IA. Vai ser
+um um workshop prático e aí você vai
+poder conhecer um pouco mais a fundo, um
+pouco mais detalhado o modo como eu
+explico, o modo da como a gente
+estrutura as nossas ferramentas aqui e
+principalmente entender o poder que a IA
+pode gerar aí na tua operação. O link
+desse workshop também tá aqui na
+descrição desse vídeo. E aproveitando,
+vocês vão poder usar isso para vocês
+também. Eu liberei aqui algumas skills,
+que eu chamo de growthos skill. Então
+aqui basicamente tem algumas skills para
+você usar no seu cloudzinho aí também
+que vai te gerar muito resultado, tá? Eu
+vou mostrar isso rodando no cloud. Vamos
+pegar uma empresa qualquer aqui, ó.
+Empresa de energia solar. Boa. Empresa
+de energia solar. Ã, aqui solar aqui, ó.
+Aqui, ó. [roncando] Solar. Solarimate.
+Solar o quê? Solar. Solaritma.
+Solaritma. Caraca, que difícil de ler
+isso aqui. Vamos supor que a solarma é o
+meu futuro cliente. Meu cliente ou ou eu
+sou o dono da solarítima. como que eu,
+como solarítm automatizo, eh, tenho,
+consigo ter dentro da minha empresa a
+minha própria operação de marketing,
+trazendo um conceito do marketing
+digital mesmo, gerando resultados reais,
+vendendo placa solar como se eu
+estivesse vendendo eh produto low
+ticket. Eu acho que esse é o grande gol
+do negócio, né? Vendendo produto
+digital, infopruto. Vamos lá. Vou pegar
+aqui o meu cláudio, que eu acho que eu
+vou até mostrar aqui no cláudio para
+ficar mais simples. Eu já tenho aqui uma
+pasta do meu projeto e basicamente eu
+vou pegar o link aqui. Então imaginem
+que essa empresa aqui vai ser o meu
+cliente. Olha que interessante. Eh,
+temos um novo cliente
+a Solaritmo.
+amos estruturar todo toda a estratégia e
+funis de aquisição
+com o objetivo
+de potencializar
+o digital e transformar em um canal
+rentável.
+Um canal rentável. E aí aqui, ó, eu vou
+dar o enter nessa parte aqui. Eu eu tô
+num modelo aqui onde eu coloco pro cloud
+agir sem ficar me perguntando. É,
+trabalha aí sem dar pausa. E aqui, ó, eu
+tenho os meus agentes. A gente faz uma
+estrutura de agente em loop. Então, o
+que que é esse agente em loop?
+Basicamente, os agentes vão começar a
+aplicar o meu playbook e aí eu tenho
+como se fosse auditores que vão revisar
+aquela informação e verificar se aquilo
+faz sentido ou não. Eu vou mostrar para
+vocês um negócio muito interessante
+aqui, ó. Ó lá, ele fez uma pesquisa na
+internet sobre a Solaritma. Olha que
+interessante, ele já estudou o site, só
+que antes dele dele montar a estratégia,
+ele vai precisar fazer algumas
+definições comigo aqui. Agora ele vai
+renderizar, isso aqui chama artefato,
+ele vai renderizar aqui um fronte porque
+ele vai querer tirar dúvidas comigo.
+Qual que é o principal passo? Olha aqui
+o que que ele vai fazer, ó. Ele vai
+montar o mapa estratégico do negócio.
+Então imagine você aí como que você
+usaria essa essa skill ou esses agentes
+de a antes de criar e LP, antes de
+landing page, antes de criar site, antes
+de criar criativo, antes de criar
+qualquer coisa. O primeiro passo é você
+entender o seu mercado de forma
+profunda. Kelvin, mas eu entendo o meu
+mercado. Você entende como você
+operacionaliza dentro do seu mercado. E
+você sabe muitas coisas, mas a gente tem
+que dar para contexto. Então a IA
+precisa entender o nicho, a IA precisa
+entender o mercado, a IA vai consultar
+os concorrentes. E aqui eu tenho a minha
+estratégia e que eu desenhei para fazer
+pesquisa de concorrente, pesquisa de
+mercado, buscar os top players, entender
+quais são as nuances. Eu faço busca no
+Reclame aqui, eu faço busca no Google,
+eu faço busca no Redit, eu faço busca no
+nos comentários do YouTube. Eu tenho uma
+estrutura de busca muito poderosa. Por
+quê? Porque a informação já está na
+internet e quanto mais informação você
+tem, melhor. Vou dar um exemplo. A hora
+que eu entendo e vou gerar os criativos
+aqui, por exemplo, para pro Kelvin, pra
+360, para KCG, pro Inspect ou qualquer
+outra empresa que eu tenho, eu tenho
+mapeado todos os meus concorrentes. Eu
+tenho concorrentes nacionais,
+concorrentes latr
+Estados Unidos e Europa. Por que que eu
+tenho isso? Porque eu entendo qual que é
+o posicionamento deles, como que eles
+vendem, como que eles deixam de vender,
+como que aquele mercado funciona e a
+gente consegue saber muita coisa quando
+a gente faz isso. Isso aqui é que uma
+agência de marketing deveria fazer. E
+por que que ela não faz? Ou melhor, como
+é que ela não faz? A maioria das
+agências de marketing não fazem. Não é
+uma culpa da agência de marketing, si. É
+uma culpa de você não ter cacife,
+dinheiro para contratar uma agência que
+seja referência, uma agência gigante,
+porque custa caro. É caro. Imagina que a
+agência de marketing é um jeito de você
+ter uma operação de marketing dentro da
+sua empresa, só que você tem uma fração
+dela. Você compra lá um décimo, é um um
+um um um 20º de um de de uma de um time,
+saca? É é diferente, entendeu? É, é
+muito diferente.
+Vamos voltar aqui, então. Então, aqui o
+que que ele falou para mim, ó? Ele falou
+o seguinte, ele falou: "Cara, eh, se a
+Solarítima fosse o meu cliente, ele
+precisa entender qual que é o
+posicionamento. Se fosse a própria
+Solaritma usando, ele ia selecionar aqui
+o seguinte, ó, que que segmento a gente
+vai priorizar na captação? Vamos
+priorizar aqui, eh, comercial e
+industrial, tá? Qual que é o principal
+objetivo dos próximos 90 dias?" Cara,
+mais leades qualificados. Eh, quais
+canais você quer ativar ou priorizar? Aí
+eu vou colocar aqui, pô, Metaedads, eu
+vou investir em Metaedads e pode ser o
+blog, não sei se faz sentido para aqui
+não. Qual que é a verba aproximada de
+mídia paga? Quero investir de 2 a 5.000.
+E o que que já existe hoje na operação?
+Pô, a gente já tem vendedor. A gente tem
+vendedor dedicado, a gente tem CRM. Eh,
+se a gente marcar que não tem CRM, aqui
+no meu caso, ele já cria a conta no GHL,
+que é o CRM que eu uso, Go High Level, e
+já faz a parametrização do GHL com o
+funil. E eu quero que ele comece aqui,
+ó, pela estratégia completa, mas eu
+poderia falar para ele só fazer
+arquitetura de funil. Kelvin, o que que
+é arquitetura de funil? Arquitetura de
+funil é o seguinte, é aqui, ó, ele vai
+processar, deixa ele processando.
+Arquitetura de funil é o seguinte,
+gente. Depois que você faz tudo isso
+aqui, que você entende o mercado,
+basicamente eu desenho quais serão os
+funis de atração, por onde os leads vão
+vir, como que eu vou pescar esses leads.
+Por exemplo, aqui eu tenho um funil
+orgânico do YouTube, que é gerar
+conteúdo e aumentar o nível de
+consciência de vocês sobre o Kelvin,
+sobre a accelera, sobre as minhas
+empresas, sobre os meus negócios. Mas eu
+também tenho o funil que eu acabei de
+apresentar para vocês do workshop, que é
+o quê? É um caminho para você entrar,
+onde eu vou gerar valor para você. Custa
+R$ 47,90 para falar nisso. O link tá
+aqui na descrição desse vídeo e você
+pode acessar lá e vai gerar, vai
+aprender, vai entender e aí se fizer
+sentido, você vai participar da Acelera.
+E eu tenho também o funil de aplicação,
+que foi aquele que eu mostrei ali em
+cima para vocês. Aplicação direta. Venha
+conhecer a Celara 360. A gente tem
+ferramentas, a gente tem estruturas, a
+gente tem soluções préfabricadas, a
+gente vai ter informação para te ensinar
+a mexer, para você não ficar com muleta.
+Então, olha que loucura, são funis. Eu
+tenho também um funil que eu rodo no
+Instagram, que é o funil de tráfego
+pago. Eu rodo o funil específico lá para
+low ticket. Então, são vários funis. E
+aí a gente faz aqui uma técnica que é
+empilhamento de funil. Eu coloco 1 2 3 4
+fun jogando tudo na boca ali do lead o
+do CRM, os leads chegando, cada um com o
+seu nível de consciência, cada um no seu
+momento e aí ele entra para um processo
+de alimentação. Então isso resumidamente
+é funil. Pensar nisso é trabalhoso.
+Geralmente você tem uma pessoa
+específica para isso. E aí novamente
+entra os meus agentes, entra a estrutura
+que eu aplico aqui dentro, entendeu?
+dele aprender, dele entender. Então
+aqui, ó, qual que foi definido, ele
+começou, agora ele vai começar a gerar
+os documentos, ele vai começar aqui a
+pesquisar o mercado, ele vai entender,
+ele já definiu ICP, posicionamento,
+arquitetor, montou um plano de mídia, aí
+agora ele vai produzir um blueprint,
+entendeu? Depois isso aqui vai gerar
+material subsídio para outros agentes
+que vão fazer o quê? que vão ler esse
+monte de texto e transformar isso em
+ação. Então, olha que legal, o cloud, o
+papel do cloud aqui, ele é mais é de
+raciocínio, de estruturar a de pesquisa,
+de estruturar, ele coleta o mundo de
+informação, ele organiza e aí depois eu
+tenho outros agentes que vão tomar ações
+específicas, um agente específico para
+gerar uma landing page, mas antes de
+gerar landing page, eu tenho que gerar o
+funil primeiro. Então vamos passar aqui
+no no playbook para vocês entenderem.
+Depois que eu tenho isso aí, eu entro
+aqui, ó, engine criativa. Aí sim, com
+base no que saiu daqui, da estratégia
+daqui, eu vou criar a landing page. Aqui
+a página, a COP pra página eu vou criar
+os criativos, eu vou criar as variações
+desses criativos, fazer os testes ABS.
+Aí eu entro aí sim, ó. Se aqui eu defini
+que vai ser através de tráfego pago, de
+compra de visualização, eu entro para
+entrar para de rodar tráfego pago.
+Tráfego pago aonde? Vamos rodar uma
+estratégia de blog.
+de geração de conteúdo orgânico, então é
+Google Ads, de Instagram, Facebook,
+mídia paga, então é Meta AdS. Tudo isso
+aqui vai gerar cliques. Esses cliques,
+eles direcionam para um caminho. Qual
+caminho? Depende do funil, depende da
+estratégia. Posso jogar o cara pra minha
+página para ele ler, posso jogar ele
+para um quiz, posso jogar ele para fazer
+um orçamento direto no WhatsApp. E aí
+começa a entrar os outros agentes.
+Então, se for formulário, aqui a gente
+tem um agente conectado lá que analisa a
+resposta no formulário e taguei esse
+cara ou seleciona o melhor close para
+ele ou já faz a pesquisa na internet
+sobre quem é essa pessoa, faz o
+enriquecimento desse lead e preenche
+isso no CRM. Que ferramenta que eu uso
+aqui? Uso o cloud, OpenCloud. O pencloud
+eu não uso muito ele aqui. O meu tá
+desativado. Por que que ele tá
+desativado? Porque não gera resultado.
+Para mim o que gera resultado é o lead
+cair o telefone, o meu closer pegar e
+ligar na hora. Olha que diferente, não
+é? E ligação por IA não funciona. Já
+tentei a Leven Labs, não funciona. Para
+mim não funciona. Aqui o Hermes também é
+uma boa saída. Aí aqui a gente entra
+para fazer perguntas estratégicas. Para
+que que serve essas perguntas
+estratégicas? Para filtrar, para
+qualificar. Aí esse cara tá no CRM. Você
+pode colocar o CRM que você quiser aqui.
+E agora começa toda a mágica. Olha aqui.
+Não acaba. O LD entrou no CRM, não acaba
+aqui, começou a entrar porque a hora que
+ele insere aqui rola uma automação. O LD
+tá frio, não tá respondendo, entra pro
+processo de nutrição. Vamos tentar
+reengajar ele fazendo fluxos de e-mail
+marketing, fluxos de WhatsApp, chamando
+ele para estar no workshop, chamando ele
+para est no webinário, chamando ele para
+participar. Aí ele esquenta, ele fica
+morno. Aí sim eu começo a mandar um
+outro tipo de jornada, lead magnétic.
+Que que é o lead magnetic? Clica aqui
+agora para baixar a melhor IA do mundo.
+Clica aqui agora para fazer isso, fazer
+aquilo. Mais conteúdo no CTA. K acabou
+de lançar um vídeo. Vê se esse vídeo
+aqui tem tudo a ver com você. Clica aí
+para você ver. Aí ele entra. Esse cara
+aqui, a ideia é que ele reaqueça e a
+gente recupera ele. Então olha que
+interessante. Por padrão, 5% de quem
+entra em contato com você tem a intenção
+de compra. Eu não vou olhar para esses
+caras, eu vou olhar pros 95. A ideia é
+puxar mais 20% aqui de baixo,
+totalizando o quê? 20% de taxa de
+interesse em marcar uma reunião, 25% de
+taxa de interesse de interesse em marcar
+uma reunião e cair para uma cal de venda
+e na cal de venda ter conversão superior
+a 30%. Aí sim, a hora que chega aqui
+começa outra jornada. Uma na cal de
+vendas o vendedor tem que ter um script.
+Lembra que a gente fez análise aqui, ó,
+sobre gatilhos de compras, objeções e
+crenças limitantes. Tudo isso aqui é
+munição para esses closers aqui. Por
+quê, cara? Venda é emocional. Venda é
+emocional. Então eles precisam entender
+todas as causas. Aqui entra o cérebro da
+IA também. Aqui entra o seios copilot.
+Aqui entra outras ferramentas que nós
+temos aqui no nosso ecossistema e que
+você também pode ter se você fizer parte
+da acelera. Eh, aí sim entra pra
+apresentação da proposta. Pô, não
+comprou, entra no fluxo de follow-up
+inteligente de novo. Não vamos perder.
+Gente, quantos leads vocês têm aí?
+Quantas quantas pessoas já passaram pela
+empresa de vocês solicitaram orçamento
+ou na empresa de alguma pessoa, de algum
+empresário e que você quer atacar? Cara,
+a base de leads é absurda e
+reengajamento dá resultado. A gente aqui
+tem uma taxa aproximada aqui de uns 5%
+de reengajamento de leads antigos,
+esfriados, gelados, congelados, que a
+gente joga para cima de novo para lotar
+as agendas do closer, pra gente rolar
+pro para sair pro fechamento. E aí
+depois entra o pós-vendas, que é outro
+rolê. Qual que é o X da questão aqui que
+você que eu quero que você entenda? Eh,
+vocês entendem que a IA aqui ela é ativo
+dessa operação? É primordial. Por quê?
+Porque eu opero hoje com basicamente um
+gestor de tráfego e mais uma pessoa me
+ajudando para fazer tudo isso. E isso é
+muita pouca gente. É muita pouca gente
+com time de marketing. Por que que eu
+consigo fazer isso? Porque o meu modelo
+desenhado com IA funciona muito bem para
+mim e funciona muito bem pros meus
+clientes e funciona muito bem pros meus
+parceiros. Não precisa ter, poderia ter
+um sistema que poderia ter o o Mega
+Brain, poderia, não faz sentido. Não é
+isso que vai gerar resultado. Não é
+aquela bola girando, brilhando, que vai
+gerar resultado. Não é aquela, não é o
+Jarvis. Jarvis e faça tal coisa. Não é
+isso que vai gerar resultado. O que vai
+gerar resultado é você colocar IA na
+parte do processo que vai te gerar maior
+valor, que vai te dar a maior alavanca
+financeira, seja trazendo mais
+faturamento, seja trazendo melhor,
+aumentando suas margens, seja dando
+possibilidade de você operar 100% com IA
+escalando teu negócio. É isso que faz
+sentido. Aí sim é implementar IA que
+gera resultado. E se vocês não olharem
+para isso, se vocês não olharem pro
+processo de vocês falar: "Cara, vou
+colocar aqui". não vai, não vai dar
+dinheiro, não vai dar resultado. É mais
+uma despesa colocar um agente de ar
+atendendo no WhatsApp. Para quê? Se não
+tem lead chegando, as coisas têm etapas
+para acontecer e é isso que você precisa
+entender. Fechou? Deixa mais uma vez
+aqui o meu convite para vocês, para que
+vocês estejam no meu workshop. E se você
+gostou da minha proposta da Acelera,
+clica aqui, se inscreve, vem fazer parte
+da turma fundadora, vem ser um case de
+sucesso nessa nossa nova, nessa nova
+fase da Acelera, onde a gente tá
+voltando 100% para empreendedor e para
+empresário. Vai ser um prazer ter você
+aqui também. Tudo isso aqui pode ser
+ativo do teu negócio. Fechou?

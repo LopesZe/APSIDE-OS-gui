@@ -1,0 +1,1725 @@
+Fala galera, Fable 5 foi lançado, o
+monstro saiu da jaula. Uma a maior eja
+criada lá. Seguinte, vamos testar isso
+agora. É 1 da manhã, consegui parar
+agora para fazer isso, mas o meu foco
+aqui nesse vídeo com vocês vai ser rodar
+ela na real. Vou deixar ela rodando a
+noite toda aqui. Vou compartilhar minha
+tela com vocês. Nada de benchmark, nada
+de ler o artigo. Eu vou colocar a prova
+de fogo e amanhã cedo esse vídeo vai ser
+compartilhado, tá? Então vamos lá.
+[limpando a garganta]
+Aqui, basicamente eu já tô rodando ela
+aqui, né? Então, aqui é um sistema, é o
+Galid, acho que eu já cheguei até
+comentar com vocês, é uma plataforma,
+mas não não o benchmark não, ou melhor,
+o teste não vai ser nessa plataforma
+aqui. Eu tenho uma outra solução que é
+essa daqui, que basicamente é uma
+plataforma que tá online, é uma solução
+hoje da minha empresa lá da KCG, o nome
+dela é Inspect, ela é multitenant, ela
+tem o front end, ela tem um aplicativo
+creo em Flutter, tem várias coisas, só
+que o front end dela é muito feio. E aí
+eu já criei aqui uma feature, né,
+chamada feature migração new front
+endangend. E aqui eu tenho um novo front
+end construído em React. Esse aqui tá em
+React. E o original ele é feito em
+Angler. Angler, cara. Bom, bem
+estruturado, bem organizado, mas feio
+demais. E qual que é a grande sacada do
+Fable, né, que tá todo mundo falando aí,
+que eu realmente tô ansioso para testar.
+Eu tava, tô rodando ele aqui já, já deu
+para ver que ele é pancada mesmo. Joguei
+algumas dificuldades, ou melhor, algumas
+tarefas bem difíceis aqui nesse outro
+projeto, né, no Galid para ele testar e
+ele tá saindo bem. Mas a grande sacada
+dele é que ele consegue uma a
+capacidade, ele é extremamente
+inteligente. Então acho que esse é o
+principal ponto do modelo. Eh, e tem um
+outro negócio bem legal que é a questão
+dele trabalhar por longas durações, por
+longos períodos, mais de 24 horas, sem
+perder o contexto, sem quebrar,
+continuando ali com uma alta eficiência.
+E é isso que eu quero saber. Então, pô,
+bora fazer isso. Eu vou fazer o
+seguinte, eu vou eu quero migrar todo o
+front end construído em Angular para
+esse novo modelo em React. Cara, não é
+fácil, não é uma tarefa fácil. Que que
+eu fiz? Eu usei o Open Design, eu
+redesenhei a plataforma, né? Então esse
+aqui é o desenho da nova plataforma do
+do novo frontend do Inspect, né, da
+solução. Vou mostrar aqui para vocês
+rapidamente. Epect é uma plataforma bem
+complexa de realização de inspeções e
+vistorias em campo. Basicamente ela tem
+um front end onde as seguradoras
+conseguem criar inspeções, né,
+seguradoras ou empresas de engenharia
+imobiliárias. Eh, de forma geral, ela
+eles demandam a inspeção para um perito
+que vai a campo e faz a vistoria e
+depois essa informação ela é
+sincronizada. Deixa eu ver se tá
+funcionando ela sincronizada e aí volta
+pro sistema com laudo, com assinatura,
+com uma estrutura ali de auditoria
+completa. Eh, e hoje a gente faz mais ou
+menos aí umas 3.000 inspeções por mês
+nesse app. Então, ela é bem completo.
+Então, o que que eu fiz? Eu peguei o
+front, a a ideia, né, do da plataforma,
+eu vim redesenhando aqui no Open Design.
+Por que que eu desenho no Open Design?
+Porque eu quero um frontend novo. E aí,
+quais são as implicações aqui? Só para
+você entender, como que a gente sabe
+isso, como que eu vou testar o Feble.
+Cara, eu simplesmente vou pegar esse
+front end aqui que eu desenhei, essa
+carinha, esse mocap, essa tela bonita e
+eu vou jogar aqui pro pro cloud, no vou
+jogar o projeto, vou jogar aqui, ó, na
+pasta doc, eh, onde que é references
+aqui, ó, system design. Vou jogar o
+system design atualizado aqui para um
+projeto que tá praticamente novo. Ele só
+tá estruturado, ele só tá
+componentizado, mas ele praticamente não
+tem nada. Então, ele tá cru cru cru cru.
+Isso é muito bom. e vou falar assim, ó,
+cara, agora constrói e deixa funcional
+para mim esse aplicativo. Então, a ideia
+é que a partir de agora, mesmo ideias,
+se eu vou botar para rodar e amanhã isso
+aqui tem que est pronto. Vamos ver se
+ele é bom, vamos ver se ele consegue.
+Olha que louco. Esse eu acho que é o
+grande teste, porque comparando no
+benchmark, quer ver? Eu tava até pedindo
+pro pro próprio cloud aqui fazer um
+fazer um uma apresentação. Vamos pegar
+aqui, ó, qual que é a grande diferença
+do Fable pro Opus, né, praticamente.
+Então, vamos falar uma classe, né? Então
+é uma classe diferente, é um um outro
+modelo. Eh, ele o Fable 5 é da classe
+mitos, então ele tem um novo teto de
+capacidade. E a grande promessa é que o
+Fable 5, ele é tão inteligente, ou
+melhor, que a classe mitos é tão
+tão tão que ela foi
+limitada, ela foi limitada ali para ser
+liberada para público e ela vai estar
+livre, se eu não me engano, até o dia,
+deixa eu ver, ele até colocou aqui, até
+o dia 22, 23 de junho, alguma coisa
+assim. Legal. Ã, o benchmark, né? Então,
+esse bagulho parece praticamente
+era o estado da arte. Então é uma das ou
+melhor a Ll mais avançada até agora
+lançada. Uma grande diferença tarefas de
+longa duração, né, e autônomas, que é o
+que a gente vai testar aqui agora.
+Então, não vou fazer um joguinho,
+vou fazer um sistema. E amanhã sobe um
+outro vídeo que eu vou fazer, talvez eu
+suba dois vídeos na sequência, onde eu
+vou desenvolver um SAS do zero. Vou
+começar do zero com ele, só fazendo a
+carinha dele ali e jogando e falando:
+"Cara, estrutura para mim aí,
+desenvolve, aplica os melhores padrões
+de arquitetura. Vamos ver como que ele
+se sai. Como que ele se sai, porque
+juro, confesso para vocês que eu tô com
+uma boa perspectiva de que ele tome boas
+decisões ali para estruturar. Se isso
+acontecer, pô, do bom sinal. Cada
+vez mais a IA ela tá se aproximando da
+questão de pessoas que não têm
+habilidades técnicas técnicas consigam
+desenvolver grandes soluções sem
+praticamente saber programar, né? Isso é
+bem legal. Engenha de software, olha que
+interessante, ó. Eh, o Stripe fez uma
+migração de COD base, então migra migrou
+inteiro ali a a estrutura deles de 50
+milhões de linhas em um único dia versus
+dois meses em uma equipe. Caraca.
+Absurdo isso aqui. Bom, ele puxou a
+referência, então vou acreditar aqui,
+Ó, novo estado da arte, ele reconstrói o
+código de um aplicativo só a partir de
+um screenshot. Então, se ele constrói um
+aplicativo a partir de um screenshot,
+cara, para ele refazer um app com base
+numa estrutura eh eh no mocap, vai ser
+muito mais fácil. Concordo? Vai ser
+muito mais fácil. Vamos ver isso daí.
+Memória, contexto de longa duração.
+Então ele mantém o foco por milhões de
+tokens. Ganho com memória persistente
+três vezes maior. Achei isso muito legal
+também. Eficiência em tokens. Legal.
+Então resolve. Em menos turnos. Em menos
+tokens. significa ele é muito mais
+inteligente, ele não precisa ficar
+iterando, iterando, interando até
+resolver o problema. Isso é muito,
+muito, muito bom. Salvaguardas, temas
+sensíveis caem para o opus 4.8. Isso
+aqui é aquela questão da limitação que
+eles colocaram em cima do fable, tá?
+Então, ah, o que o que que você aqui é
+pros empresários tava montando aqui,
+inclusive para você que é empreendedor,
+para você que é empresário, eu vou fazer
+meu workshop sobre a nova economia da
+IA, como você implementa e no dia de
+como você pode criar sua própria
+solução, a sua própria ferramenta no dia
+20 de junho. O link tá aqui na descrição
+desse vídeo. Clica aqui e já compra o
+workshop a R$ 47 só. Tá barato demais.
+Vem lá, vem lá que eu vou ser um
+workshop prático. Vou abrir minha
+operação para vocês. Sistemas de app one
+shot. É isso aqui que eu quero ver, ó.
+App há um ano exigem 100 prontos. O
+Fable entregue em Sim de primeira. Vamos
+ver se isso aqui é real. Modernizar
+sistemas legados. É isso aqui que a
+gente vai fazer. A gente vai modernizar
+um sistema legado. Um sistema que tem 2
+anos mais ou menos. Dois é 2 tr anos de
+operação. Vamos modernizar o front dele
+inteiro. Para vocês que não sabem, o
+front end é a carinha bonita e o back
+end é API. É onde roda o motorzinho do
+negócio que fica debaixo do capô. Hã,
+beleza. Monteção de linguiça. Como
+aproveitar e se divertir, ó, até dia 22
+ele vai est liberado para vocês, hein?
+Usem muito. Ã, tá aqui projetos
+impossíveis, que é o que eu tô fazendo
+aqui agora. Vai, meu. Se der bom, cara,
+se der bom, eu vou ficar assim. Nossa,
+merda, vou ficar assustado. Mas vamos
+ver, vamos, vamos, vamos, vamos fazer o
+que tem que fazer aqui, ó. Seguinte,
+então vamos lá, ó. Processo. Ah, e
+outra, esse esse projeto eu não desenhei
+todos os front end e eu vou desenhar,
+meu, não vou nem trabalhar muito aqui na
+questão de como que eu vou escrever o
+prompt, nada do tipo, tá? Então, vamos
+lá, ó. Vou entrar aqui. Já baixei aqui o
+meu o meu design system. Beleza. Vou
+jogar ele aqui, ó. Pum. Replace. Ah, vou
+ter que clicar em tudo agora. Caraca. Pã
+pã. Beleza. Ó, tem um monte de coisa
+nova aqui. Esse monte de print é os
+prints que eu fui colocando dos, ó lá, o
+sistema. O sistema atual é assim, ó. Se
+liga. Peio que dói. Não é muito peio
+não, mas tá, tá desatualizado, gente. Tá
+desatualizado. É funcional. Funcional
+para caraca. E fatura bem também. Então
+eu vou deletar aqui, ó. Ficou só o as
+telas, membro, questionário, de como que
+é uma vistoria, piriri, poraró. Legal.
+Então, vamos lá. Então, o seguinte,
+primeira coisa que eu falei aqui, tá?
+Tava até conversando com o Cláudio agora
+para fazer esse teste aqui com vocês,
+tá? Então, a gente vai montar um teste
+AB de código. Você não roda a mesma
+tarefa? Papá, não vou fazer teste AB,
+não. Vou rodar só no fap antes de eu
+montar. Qualquer coisa me diz que você
+quer encaixar em workflow. Terceiro
+braço p workflow orquestrando sobre
+agentes genéricos. Híbido workflow como
+motor, mas seus agentes a devers em work
+tre. Não sei se eu uso isso daqui. Pode
+ser workflow só com o ordness de medição
+e o trabalho. Cara, vamos no workflow
+puro. Eu quero fazer assim, ó. Quero
+montar o terceiro braço puro. Workflow,
+orquestrando suagentes genéricos. Ai,
+que medo. Vou torrar meus créditos,
+hein, gente. Vou torrar meus créditos
+antes da gente começar a loucura. Vamos
+ver como que tá aqui o meu saldo. Pá, ó,
+41% da sessão utilizada, 28% do model.
+Hoje eu gastei, hoje eu já tinha tinha
+estourado aqui o limite, então já tinha
+gastado R$ 825. Caraca, mano, gastei
+dinheiro. Tem mais trêsentinho aqui. E
+limite, o limite estabelecido, cara, até
+5.000. Kelvin, meu Deus do céu, é
+muito dinheiro. Vou falar para você, é
+muito dinheiro se ele fizer muita merda,
+entendeu? Então, a pior das hipóteses,
+esse vídeo aqui tem que dar muito view.
+Então, já compartilha com a galera aí.
+Vamos fazer o seguinte. Ã, vamos
+escrever esse prompt. Eu vou escrever o
+promp mais besta possível, tá? Deixa eu
+ver aqui o cabo do pá. Você não roda a
+mesma tarefa três vezes na forma limpa,
+depois feitá. Monte, um monte de injeção
+de linguiça aqui. Recomendação,
+experiência, experimento em três vias.
+Primeiro, solo, uma sessão fable
+vertical. Quanto fundo do cérebro vai
+sozinho. Depois usando meu framework,
+meu framework de desenvolvimento é o que
+eu tô usando aqui, ó. Aqui tá híbrido,
+aqui tá com fable. Basicamente é o
+modelo spec driven, ó. Então eu tenho um
+arquiteto, tenho um CTO, só que é um
+modelo mais enxuto. Eu não gosto muito
+de usar, por exemplo, eh,
+como aquele BMED, eu usava muito
+antes aquele gets da Don, várias
+ferramentas ali, várias. Mas ele
+demorava muito. Eu criei a minha. Por
+que que eu criei a minha? Porque a minha
+ela tá no modelo startup. Que é que que
+é startup? Sai fazendo modelo startup.
+liga o play e faz acontecer, entendeu?
+Então, olha aqui, ele já tá, aquilo já
+tá rodando quase 3 horas, cara. Tá, tá
+indo bem até agora. Não sei, não testei,
+mas ele já entregou um monte de tarefa
+aqui, ó. Entregou onda um, já testou,
+validou e o Vamos no modelo
+solo, então o seguinte, ó. Eh, vamos no
+modelo solo, opção A. Opção A, workflow
+orquestrado com suberagente genérico.
+Quero entender o quão o quão inteligente
+é o Fable P.
+Então eu vou falar para ele o seguinte,
+eu vou só dar dar uma explicada para
+ele, ó. Então na página, na pasta, cadê
+refere? Porque ele também não é obrigado
+a adivinhar, né? Então vamos lá. Vou
+explicar aqui o contexto, ó. Eh,
+contexto, estamos
+reescrever o front end da aplicação
+inspect. O front original
+é o inspect front
+feito em angular.
+O novo front é em React.
+Eh, o novo front
+está na pasta news expect
+new front e ele é feito em react. Ponto.
+Legal. Na pasta web appar
+APIs
+caso precise consultar qualquer
+informação.
+Todas t swagger. Todas t swager. Aí vai
+ter lá o Inspect API, o Inspecting
+e o inspect. Cadê o SSO? Aqui embaixo.
+SSO. SSO. Ok. Isso aqui é o contexto. Pá
+pá. Beleza? Na pasta tal você pode
+consultar aquilo que você precisa. Eh,
+o, eh, desenhei todo o design system,
+ou melhor, design system mais protótipo
+bocap das telas e atualizei na pasta.
+Beleza, cara. Linguagem de índio.
+Objetivo. Ah, falta dar outro contexto.
+As telas de login, recuperar senha, novo
+usuário, já foram transferidas.
+Já foram reescritas,
+reescritas na nova aplicação. Ponto.
+Beleza. Objetivo. será que ele
+já começou a fazer aqui? Eu nem pedi. O
+contrato, tá claro agora? Vá, gente, c
+já começou a desenvolver. Meu Deus do
+céu. Achei a armadilha. Jesus Cristo.
+Você já começou a fazer alinhamento
+rápido. Solo eu fable sozinho, sem sem
+workflow, sem 60. O teste então é
+honesto. Eu pego uma fatiha real de
+migração e levo po. Escolhi. A começou a
+migrar antes de mim. Cara, que cara
+burro, velho. Para. Calma, meu jovem. Eu
+estou escrevendo um prompt para te
+enviar. já começou fazendo sem
+mim, meu. Que loucura. Beleza, tá parado
+ali, ó. O bicho é tão bom que ele
+começou a fazer sem me esperar, velho.
+Que loucura. Objetivo. Objetivo vai ser
+o seguinte, ó.
+Eh, quero que eh objetivo eh migrar,
+criar, ou melhor, deixa eu pensar aqui
+como que eu vou escolher esse objetivo.
+Criar,
+migrar todas as funcionalidades,
+menos a de auto eh, ou melhor, de
+vistoria via vídeo,
+porque ainda essa aqui eu ainda não
+desenhei. Ainda não desenhei.
+não migra tudo.
+para o novo front end.
+Quero que você
+entenda o novo front, a estrutura de
+design, as telas
+e faça a portabilidade. Nossa, se ele
+conseguir entender isso aqui desse jeito
+e fazer um bom trabalho, vai ser um
+absurdo.
+É, você pode consultar a
+sempre que for necessário a aplicação
+atual, o Inspect
+para entender o fluxo de
+da ferramenta. As APIs também estão
+todas aqui disponíveis para você usar.
+quero que você trabalhe em um work
+utilizando workflow.
+Ele vai aqui ele vai definir o dynamic
+workflow lá da que cancelou esses dias,
+acho que semana, semana passada,
+utilizando workflow. Aqui não tem
+hardness nenhum, gente. Literalmente
+aqui é ele que vai decidir. Quero que
+você trabalhe utilizando workflow,
+eh, para ganharmos velocidade nessa
+migração.
+Importante
+atentar-se à segurança
+do front/rotas.
+aqui eh aplicar eh seguir o design
+system a risca eh garantir que a
+estrutura do front end seja uma
+estrutura modularizada e componentizada,
+mas sem over engineering. Escrevi certo?
+Mais ou menos. Então assim, o objetivo
+aqui é o seguinte, ó. É tentar
+segurança, seguir o design system a
+risca e garantir que a estrutura do
+front seja uma estrutura modularizada e
+componentizada. Mas sem overend line. Aí
+um outro ponto que eu vou falar, ó, esse
+a gente tá rodando ainda, gente. Caraca,
+que loucura, velho. Ã, ah, aqui ele tá
+quase terminando já, ó. Acho que eu vou
+testar junto com vocês aqui, tá bom? ele
+vai fazer isso daqui. Outra coisa que é
+importante é o seguinte, eh pode ser que
+você se depare com campos
+no Mocap que não existem hoje na
+aplicação.
+Isso, isso pode acontecer porque eh
+vamos evoluir, não isso pode
+Open Design
+deve pode ter colocado esses campos lá.
+Simplesmente ignore.
+Não quero que você faça
+alterações nas APIs. Cara, eu quero que
+ele migre só o front, mas eu acho que
+ele tem condição de migrar, ele tem
+condição de de alterar as APIs também já
+tranquilamente aqui em paralelo. Vamos
+ver.
+Tchan tchan tchã tchan. Ô, deixa eu
+conferir o model. Vamos lá, ó. Pable.
+Beleza. Ah, se você quisesse mudar o
+model, ó, é só você dar um barra model
+aqui e aí escolher o model. Ó, soni o
+haiku ou default. O meu aqui é o 4.8.
+Meu Deus, vai acabar toudo meu crédito
+agora. E o Fable. Então aqui, ó, estamos
+no tal, hein? 19% de contexto. Play. Deu
+aqui. Eu vou fazer o seguinte, ó. Go.
+Migra, eh, migração total. Ah, cara,
+pera aí, per
+faltou aqui, faltou, faltou, faltou,
+faltou uma coisa, ó. Control C.
+Vou colocar aqui, ó, implementar smoke
+test para garantir que a implementação
+esteja OK.
+Fica seu critério. Como você vai fazer
+isso?
+Pau. Vamos ver, hein.
+Ah, ele vai fazer escrever tudo de novo.
+Pera aí.
+Não. Ah, caraca, mano. Vou ter que
+deletar tudo essa Não é possível.
+Aí foi. Vamos lá, hein? Enter. Foi. Deu
+a largada. Agora aqui é com ele. Aí,
+vamos fazer o seguinte, ó. Vou colocar
+um barra go. Gol. Para quem não conhece,
+essa essa esse barra gol aqui, é o
+seguinte, ele vai fazer até ele alcançar
+esse objetivo. Qual que é o nosso
+objetivo? Qual que é o nosso gol aqui,
+ó? Finalizar a migração completa
+eh do para o novo front end.
+Quero isso disponível para testar.
+Plau. Acabou, gente. Aqui,
+ó. Abrif recebido e nota e nota mudança.
+Agora é com workflow. Então você acabou
+de dar o team explícito plano de ataque.
+Primeiro eu faço um scout in line,
+mocaps novos, telas do Angular, o que já
+tá feito. Depois eu disparo. Olha o que
+ele vai fazer. Ele vai olhar que já tá
+feito. Depois ele vai disparar o
+workflow de compensa de compressão em
+paralelo. E com o mapa na mão a gente
+executa a migração em milestones com
+fun. Ah, esse fanout aqui é o modelo de
+do workflow. Quer ver? Ó, deixa eu pegar
+aqui para vocês verem. Fout workflow.
+Vocês, acho que é antropic tem um, eu li
+um artigo sobre isso aqui, ó. Fal, fal
+aqui, ó. Fal. Então, basicamente, ó, ele
+entrou, ele quebrou em vários agentes,
+depois ele vai consolidar, entendeu?
+Então, ele abre em vários subagentes,
+subagentes, vários agentes que vão
+trabalhando. Aí depois ele junta, então
+ele ele mesmo vai orquestrar quantos
+agentes ele vai criar. Meu Deus do céu,
+agora eu tô até com medo. Vou deixar
+aqui em paralelo
+o uso,
+desculpa, o uso da aplicação pra gente
+ir acompanhando. Ai, que medo. [risadas]
+Que que eu não faço por uns views?
+Tá aqui, ó. Ah, sai fora, Não
+quero você não, jovem. Aqui, cadê S?
+Configurações.
+Uso aqui, ó. Tá aqui. Vamos deixar ele
+aqui no uso. Esse aqui tá rodando. Vamos
+lá. Começou a rodar. Deixa eu fechar
+esse contexto, não precisa aqui. Ele vai
+tomar todas as decisões sozinhas. E
+começou a quebradeira aqui, maluco.
+Deixa ele aqui e vida que segue. Agora
+vamos olhar aqui, ó. Aqui ele já
+terminou? Não, aqui ele tá
+desenvolvendo. Esse a gente ele tá
+desenvolvendo ainda. Deixa ele aqui
+bonitão também. Deixa eu fechar, deixar
+essa telinha pequena codando aqui para
+vocês verem. Enquanto isso, eu vou gerar
+aqui a minha a minha capa.
+Vamos ver aqui, ó. Isso aqui é uma skill
+que eu tenho que eu uso para gerar
+minhas capas do YouTube. Pronto,
+benchmark feito. Ó, ele fez o benchmark.
+Já eu falei 12 horas sem parar para pá.
+número de minha recomendação, o gancho
+do tema é tese, tá? Eu vou falar para
+ele assim, ó. Eh,
+mudei de ideia, eu ia fazer uma live,
+gente, mudei de ideia. Eu tô com sono,
+eu acabei de deixar ele trabalhando.
+Vou dormir e amanhã cedo vou subir o
+vídeo.
+Então, em tese, ele vai trabalhar a
+noite toda, um ben um teste completo.
+Estou reescrevendo um front end.
+frontend
+completo de uma aplicação em produção.
+Vamos ver aqui enquanto eu tô falando
+com vocês aqui. Ele tá trabalhando aqui,
+ó. Flybertin bling. Caraca, será que
+essa palavra existe? Não, acho que não,
+né? Flibert bling.
+Vou já gerar minha capinha do daqui do
+desse vídeo aqui para vocês. E vamos lá.
+E para amanhã, para você que tá aqui
+assistindo esse vídeo, deixa eu te
+falar, vamos fazer, amanhã a gente vai
+fazer uma,
+vou fazer um vídeo completo da gente
+desenvolvendo uma ferramenta.
+lavable, não sei por que tem lavable
+mais, velho, de verdade, eu não sei
+porque o cloud, ous 4.8 é maravilhoso,
+maravilhoso. Se eu tiver crédito, né, se
+não tiver crédito também, eu coloco
+dinheiro aqui pra gente fazer esse
+vídeo. 48%, 290. Meu Deus do céu, que
+medo. Ó lá, mudança de história. E é uma
+história muito melhor. Pá, que ele vai
+fazer minha pesquisinha aqui, gente. Que
+que essa que que essa que essa
+que que olha já gerou, cara?
+Que loucura, né? Já gerou minha capa pro
+YouTube ao vivo a noite toda. 12 horas
+sem parar. Faable 5. Fable 5 vai
+aguentar na noite? Hum. Lá ele, lá ele.
+Ele judou minhas três opções. Não sei se
+vocês sabem, mas o YouTube ele tem três
+opções de ele o teste AB, né? Então eu
+sempre coloco três títulos. três capas e
+vou aqui, ó, se você for ver aqui, ó,
+três títulos, três capas e eu vou
+criando as opções no vibe building e às
+vezes eu vou iterando aqui até ele
+chegar no modo que eu quero. Gente,
+loucura, né? Antigamente o pessoal
+cobrava 100, 150 por capa dessa aqui. É
+porque é um thumb maker, é isso, aquilo,
+aquilo, outro. Já era, papito, já era.
+Ó lá, ele começou a gerar outras
+propições, ó. Fui dormir, ele refez tudo
+em 8 horas. Prontinha inteira a noite
+toda. Ah, amanhã, que capa será que
+vocês clicaram aqui? Comenta aqui, ó.
+Qual capa que vocês clicaram para fazer
+isso? Já definiu já. E ele já gerou os
+títulos também. Como que ele faz isso?
+Eh, essa parte aqui, esse agente aqui, a
+gente essa skill, ah, o meu, ou melhor,
+essa skill não, o meu cloud code, ele já
+está conectado no meu cérebro, né? Eu
+uso aqui o Jbrain, para quem não
+conhece, no cloud eu uso o Jbrain,
+porque ele é muito muito muito bom. O
+Jbrain é esse projeto aqui é do Gary T,
+só que eu não uso o open cloud nele. O
+open cloud eu uso lá o Galid que eu
+criei. Então Gbrain e eu comecei usando
+o o Galid nasceu eu eu através dessa
+ideia do Gary Ton aqui, só que eu deixei
+ele mais enxuto, mais estruturado para
+mim. O JBIN, para quem não conhece, é um
+projeto open source do Gary Tank. Ele é
+acho que é CEO do I Combinator, um dos
+principais fundos de investimento do
+mundo. E ele construiu isso aqui para
+ele. Cara, esse maluco é um gênio, né? O
+que ele fez aqui chega até medo, né?
+gigantesco esse projeto. Resumindo, é
+fácil de instalar, você não tem
+dificuldade. Qual que é o grande
+conceito? Você consegue criar o seu
+cérebro. Você vai jogando um monte de
+informação lá, ele trabalha nessa
+informação, ele estrutura, ele indexa,
+ele faz um trabalho de pesquisa sem usar
+LLM. Acho que isso é muito importante.
+Então, o custo é extremamente baixo,
+baixo para fazer a ingestão da
+informação. E depois você pode conectar
+esse cérebro na sua IA. Então aqui, por
+exemplo, nesse caso meu aqui, ó, ele tá
+conectado na minha IA, ele tá conectado
+na minha no meu cloud. Então ele,
+ele vai entendendo todo o projeto, ele
+vai entendendo toda a estrutura. Então
+esse memory aqui envia tudo para ele,
+pro Gbrainer. Então é bem legal. Aqui é
+ó, brain, ó. Ele vai enviando as
+informações. Ah, não, esse brain aqui é
+outra coisa. Esse aqui é as informações
+do YouTube. Mas resumindo, ele faz, ele
+vai ir fazendo isso. E, cara, eu sou fio
+viciado por gosto do Cloud, porque eu
+tenho muita skill, cara. Cri skill para
+tudo. Vou automatizando todo meu
+processo. Gravando vídeo para vocês
+aqui. Aqui o Cloud tá rodando. Eu tô
+fazendo aqui o processo com a capa.
+Peguei essa capa aqui. Amanhã eu já subo
+pro YouTube. Poderia subir automático,
+mas vou ter que editar esse vídeo aqui
+para vocês e tudo mais. Então, então
+assim, eh, o Cláudio funciona para
+Tá muito bom, muito bom. Ó,
+deixa eu te convidar de novo duas
+coisas. Primeiro, tô gastando todos meus
+token. Já curte esse vídeo aqui. O
+mínimo que eu espero de vocês é isso. Eu
+geralmente não faço. E esse vídeo nem é
+técnico, hein? Esse vídeo aqui é um
+vídeo que eu tô usando cloud, só para
+vocês entenderem o poder. Segunda coisa,
+eu quero você no meu workshop, para você
+que é empreendedor, para você que é
+empresário, que tem, quer aprender a
+usar IA de forma prática, ou melhor, de
+forma estratégica na sua operação, quer
+fazer dinheiro com inteligência
+artificial. Que que é fazer dinheiro?
+Você pode vender a IA. Essa é a primeira
+opção. Você pode vender a IA. Segunda
+opção é o seguinte, é o que eu estou
+prometendo, você empresário implementar
+na sua operação, automatizar o seu
+financeiro, automatizar o seu RH,
+automatizar a sua geração de imagem,
+montar uma agência de marketing interna
+com seus agentes, com seus próprios
+agentes de assim como eu faço com os
+meus. Cara, tudo isso é factível. Hoje
+eu, por exemplo, uso o cloud para isso,
+mas você pode usar qualquer coisa, se
+você aprende qualquer coisa que o Codex,
+por exemplo, qualquer coisa não, o Codex
+é é incrível que dá para fazer, a gente
+tá vivendo uma transformação absurda.
+Hoje, por exemplo, e eu atendi um virou
+um cliente, né? entrou na acelera hoje.
+O cara ele é dentista, ou melhor,
+perdão, ele tem uma empresa de
+radiologia, cara. Eh, o cara sofre com
+agência de marketing, o cara sofre para
+integração com sistema, mas
+principalmente ele sofre com o quê? com
+desenvolvedor. Os desenvolvedores
+simplesmente ele contrata, os caras
+somem, abandonam ele e não terminam o
+projeto e ficam abandonado. E é uma
+empresa que faz 400, 300 e poucos mil
+por mês. tem um bom faturamento,
+sabe? Tem tinha lá dois devs bons,
+pagavam, ele pagava um bom salário, mas
+os caras deixou ele na mão e a vida é
+assim, esse é o capitalismo. Então, por
+isso que o empresário hoje ele tem que
+entender que ele tem os desenvolvedores
+que ele quiser, só que ele tem que
+aprender a usar e a estruturar e a saber
+fazer. Porque se ele souber, ele não
+precisa saber todos os termos técnicos,
+toda a estrutura, mas se ele souber como
+operar isso aqui, ele consegue gerar
+resultados assim absurdamente fora,
+absurdamente fora. Então, mais uma vez
+eu te convido para estar comigo,
+primeiro para conhecer, né, para você
+aprender sobre eh o que que é uma uma IA
+real aplicada na prática mesmo, como ela
+gera resultado. Vou ensinar sobre
+desenvolvimento multiagente. Mesmo que
+você não saiba desenvolver, você não
+precisa saber desenvolver. Vou explicar
+para você como que eu uso cloud, como eu
+uso skill, como eu faço experimento,
+como eu integro as coisas na minha
+empresa, como que os agentes de
+realmente me geram resultado para que
+você também possa replicar da melhor
+forma possível aí dentro, tá? Ó, vamos
+olhar aqui. Será que ele tá rodando
+workflow? Esse comando aqui, ó, ele
+mostra, ó, ele tá rodando workflow aqui
+já. Deixa eu abrir para essa pitaninha
+aqui. Vamos ver que que ele tá fazendo
+aqui. Olha que legal, cara. Ele abriu 10
+mocaps. Então, ele tá abrindo página por
+página, por exemplo. Provavelmente ele
+abriu o mocap vistoria, da tela de
+vistoria nova, que o anterior tá
+comparando, tá entendendo? membros
+questionários. Fluxo no Angular, ele já
+concluiu, ó. Fluxo no Angular. Eita!
+Eita! Eu não consigo descer pro de baixo
+ali,
+Bar workflows. Nem eu sei usar o
+negócio.
+Deixa eu abrir mais aqui.
+Ah, Bom, basicamente ele já tá
+trabalhando com os workflows. Cada um
+desses daqui.
+Que que eu fiz agora? Agora eu caguei no
+pa tudo aqui. Uh.
+Caramba.
+Tã tan tã. Workflow dialog miss.
+Pera aí, calma aí. Barra. Cancelei o
+comando ali. Word uma coisa. Cancel.
+Barra Wordflows. Será que eu desliguei?
+Ah, não, tá rodando ainda. Beleza. Ô,
+deixa eu perguntar aqui. Tá rodando
+ainda? Acabei mandando uma mensagem sem
+querer.
+Vamos ver. Tá rodando ainda essa
+Pesso aqui, eu vou dormir e já era. Aí
+não, aí mata o homem. Aí ferra tudo.
+Vamos ver aqui. Tá rodando, tá rodando,
+tá rodando. Beleza, menos mal, menos
+mal. Vamos olhar aqui agora que que esse
+Ah, o Galid, Galid aqui ele terminou,
+cara. Galid tá Deixa eu
+ver. Olha que legal. Aqui ele aprovou
+aqui. Ele aqui, ó. Esse
+eh HTC aqui é a etapa para eu poder
+testar, entendeu? Hum to check que ele
+fala que eu coloquei. É uma etapa
+específica para eu checar. Então o a
+gente desenvolveu desenvolveu todo o
+wizard de criação de um cérebro
+específico para essa ferramenta do
+Galid. Eh, desenvolveu a fonte de
+receita, mas as regras de ouro e agora
+ele liberou para eu testar aqui. Quer
+ver? Ó, vou falar para ele aqui, ó,
+chat. Eh, qual a URL
+para eu testar? Quer ver? Que legal.
+Vamos ver.
+Por beb aqui. Tá tourando o pau, hein,
+velho. Pá, pá, pá, pá. Deixa ele
+trabalhando aí. Ó, ele liberou aqui.
+Vamos, deixa deixa eu fazer o teste
+disso aqui enquanto.
+Pá, aproveitar mostrar para vocês. Esse
+aqui é o galído, ó. Comecei fazendo para
+mim. o miolo ficou tão bom, a
+estrutura ficou tão boa
+que eu tô transformando agora em um
+produto. Então ele vai ser uma memória
+para empresas, né, para pequenas e
+médias empresas. E eu vou liberar lá
+para pessoal que entrar fazer parte, os
+empresários que fizer parte da Acelera.
+Basicamente ele faz a ingestão de
+WhatsApp, áudio, e-mail, documentos,
+junta tudo e ele cria os fatos. Para que
+que serve isso? Esse aqui é o segundo
+cérebro. Então, toda empresa esquece. Eu
+converso uma coisa numa reunião, aí o
+meu time não tá sabendo aquilo, que se
+não se avisar para eles alguma coisa,
+eles tomam uma decisão sem entender
+aquilo que eu tava fazendo. Então falei:
+"Cara, vou resolver isso criando no
+Galite". Deixa eu logar ele aqui, ó.
+Gente, tudo desenvolvido, pô. E esse e a
+programação aqui não é brincadeira não,
+cara. O que a gente fez aqui, o que eu e
+o Cláudio desenvolvemos aqui não é fácil
+não, hein. Ó lá. Olha isso, gente, que
+lindo. Esse mapa do cérebro não serve
+para nada. Isso aqui não serve para
+nada. Isso aqui não serve para nada. Ol,
+ainda foi feio ainda. Aqui é injeção de
+linguiça. Mas o legal é o seguinte, ó.
+Eh, como validar um nicho? Vamos ver se
+ele funciona. Isso aqui ele fez a
+ingestão de conversas do WhatsApp só,
+por exemplo. Mas ele já tá, ele já
+provavelmente ele já vai saber lá como
+validar um nicho com base no contexto
+fornecido. A valorização do nicho
+envolve o processo de imersão e análise.
+Imersão profunda no nicho, análise de
+viabilidade, teste prático, cuidados eh
+antes de investir e por aí vai. Quer
+ver? Quem é o Fernando Torres? Fernando
+Torres é um aluno meu, olha que
+interessante. Ele vai saber tudo que foi
+tratado porque ele tá conectado no
+WhatsApp. Lá Fernando Torres é um
+participante da Celera que trabalha na
+área de dados e há mais de 6 anos. Ele
+trabalha com consultor independente há 6
+meses desde novembro de 2025. Ele atende
+empresas fora do Brasil. Está em
+processo de empreender após anos de
+experiência na área técnica. Desafio
+atual. Fernando relatou uma dificuldade
+em escalar seu negócio de consultoria
+por não ter experiência comercial. A
+gente apoiou ele nesse processo. Cara,
+que incrível. Seja sincero. Que
+incrível. Desenvolvido com IA. Tem sim.
+A técnica tem, mas 90% aí. E aqui
+ele traz os fatos, né, que eu acho
+maravilhoso. Então, por exemplo, esse
+aluno Rafael Tocini eh predicado,
+estratégia consultoria, eh, estratégia
+de vendas do Rafael é convencer o
+cliente que precisa primeiro analisar os
+processos antes de automatizar. Bom isso
+aqui. E aí, olha que legal, vou criar um
+cérebro aqui, ó. Vou criar um novo
+cérebro. Aí ele fala assim: "Pô, vou
+montar esse cérebro com você antes de
+qualquer documento entrar. Quando o
+cérebro sabe o que guardar, ele para de
+inventar". O que o seu cérebro vai
+cuidar? Vou criar um cérebro para
+guardar dados financeiros. Aí ele começa
+a fazer. Olha que legal. Essas são as
+áreas que eu sugiro, as gavetas do
+server. Pode tirar ou acrescentar.
+Caraca, ele isso aqui foi feito tudo com
+o Fable. Já tá aqui. Ele me assustou,
+hein, que ele fez isso aqui, ele
+implementou certinho. Pode ser assim,
+ele organizou aqui, ó, áreas, receitas,
+despesas, orçamento, investimento,
+pagamentos e relatórios. De onde vem as
+informações? Ó, vem do WhatsApp.
+Aqui ele errou. Não vem só do WhatsApp,
+vem de outros lugares também.
+Eh, minhas deixa eu ver minhas
+informações não vem apenas do WhatsApp,
+vem também de planilhas Excel, eh, conta
+azul, meu ERP e e-mail.
+O cérebro financeiro nasceu com uma
+estrutura de seis áreas, uma fonte, ó,
+aqui ele errou, tá vendo? Ele não ele
+não se atentou a isso, cara. Mas é um
+ajuste besta de fazer com a IA, sem
+problema nenhum. Quer ver? Ó, vou, já
+vou fazer esse ajuste online agora com
+vocês. Eh,
+ó, como que eu vou fazer esse ajuste? Se
+liga, estou testando e detectei uma
+falha na rota e eu vou passar a rota
+aqui, ó,
+na rota. Plau, gente. Não é incrível
+isso? Ali daquele lado tá reescrevendo.
+Aqui desse lado eu tô ajustando outro
+sistema. Opa, ele falou alguma coisa
+aqui, ó. Deixa eu ver.
+Antes de terminar ali, deixa eu ver o
+que ele falou aqui.
+a tabela compartilhada está pronto.
+Coração visual do produto com 100% 100%
+honestas com a Pay Wave 1 segue rodando.
+Monitor armado me avisa na conclusão.
+Quando ela fechar eu integro, valido
+tudo pá, comito por slot, dispara wave 2
+com7 par. Caraca, velho. Então ele já
+entregou uma, ele tá rodando. Então quer
+dizer que você quer dizer
+que em background você está rodando todo
+o desenvolvimento. cara, meu
+Deus. Se funcionar eu vou ficar abismado
+com isso aqui.
+Então ó, ele entregou aqui a primeira
+wave. Beleza. Looks mais contrato. É a
+parte mais fácil. Quase isso é uma
+divisão de trabalho. Deixa eu te mostrar
+o que está acontecendo agora em tempo
+real. Em background, workflow, cinco
+agentes rodando em paralelo, cada um num
+território e em arquivos que não cruzam
+com curto com, olha que legal. Então ele
+ele se organizou para não mexer em
+arquivos iguais. Ele separou por
+contexto. Workspace, questionário,
+créditos, vistoria, detalhe, shell V2,
+side bar nova, workspace, suite, blá blá
+blá. Cada um recebeu instruções de ler o
+cloud, confirmar os shapes no C#ARP.
+Seguir que que ele que que esses shapes
+no C#ARPS aqui no C#ARP ele tá
+consultando a API para ver se o modelo
+tá certo, o Jon tá certo, a chamada tá
+certa, a rota tá certa e por aí vai.
+Maravilhoso.
+Ou seja, os agentes produzem em
+paralelo, mas nada entra no histórico
+sem passar por mim. Então o coração que
+é esse que eu tô conversando aqui, ele é
+o integrador, ele é o sintetizador, ele
+que junta tudo. Então ele abre em
+múltiplos agentes e vai juntar num só.
+Essa é a estrutura do dynamic workflow.
+Muito legal, muito legal. Deixa eu ver
+se tá gravando ainda. Você tô falando
+até agora aqui com vocês. Não tá
+gravando? Tá gravando sim. Tá gravando.
+Então vamos continuar aqui pro galíd
+então. Uf, cheguei a me assustar. Então
+ó, eu detectei aqui uma falha. Eu
+detectei uma falha. Vamos pegar aqui o
+galite. Aí eu faço o seguinte, ó. Eu
+venho aqui e faço o seguinte, ó. Beleza?
+Eh, na opção de selecionar de onde vem
+as fontes, na opção de selecionar de
+onde vem as fontes, deveria ser múltipla
+escolha.
+Olha como foi a conversa.
+Inclusive, eu tentei ajustar essa
+informação dando um prompt
+no campo, mas a aplicação não respeitou.
+Pronto. Por isso que o WTC, o HTC é
+importante aqui, ó, porque agora eu
+estou validando realmente a tela. Então,
+como que eu faço? Ele, ele desenvolveu
+tudo de acordo com o protótipo que eu
+desenhei. Legal. Tá funcional. Tem um
+bug. Aí eu venho aqui antes de eu criar
+o cérebro aqui, ó. Clicar aqui. E outra,
+tem outro ponto, ó. Isso aqui não está.
+Só que eu desenhei desse jeito, mas
+usando agora eu percebi isso aqui não tá
+funcional, cara. Porque, pô, para que
+que tem o campo de enviar aqui se eu
+tenho um botão aqui? Não parece que é um
+botão. Parece que é só um alerta, tá?
+Ah, lá, ó. Fala real. me identificada
+dois problemas na versão fonte, não sei
+o que lá. Bom, vai corrigir também aqui
+também tá com fable, tá gente?
+Eu nem sei quanto que tava aqui, mas já
+tá em 67%, eu acho que não,
+caraca, vocês viam isso aqui? 72%, já
+era. Eu não vou, eu não vou conseguir
+terminar esse teste. Tá comendo tudo.
+Será que é porque eu tô fazendo duas
+aplicações ao mesmo tempo? Será? Será
+que é porque eu pedi para ele reescrever
+um sistema inteiro? Será?
+mano. Não dá para usar isso
+aqui não. V não. Se ele fizer bem feito,
+mano.
+Já me arrependi de ter rodado sem o sem
+estrutura ali para ele.
+Ai, meu Deus, que desespero. Amanhã vou
+ter que pagar para usar. Será?
+Será? Ó, vamos ver aqui, ó. Falha real.
+Tá. Tá corrigindo. Cara, deu um salto.
+Vocês viram que tava em 67, foi para 72,
+Caraca, que merda. Eh, agora um ponto
+muito né, que eu vou trazer aqui
+para vocês de importância.
+Então, isso aqui é meio assustador. Essa
+aplicação aqui, eu vou até, essa aqui é
+uma outra que eu tava fazendo antes,
+deixar ela pausada ali, mas eu quero que
+vocês entendam uma coisa, ó. Aqui tá
+migrando um software, aqui tá
+desenvolvendo uns tas.
+Aqui tava fazendo a nossa o nosso front
+chamado Grow AI, que eu dei uma pausa
+agora, que é um outro front, que é esse
+aqui, ó, de análise de mercado, tá
+vendo? A gente tá fazendo, tá fazendo
+todo todo, eu tô consolidando toda a
+nossa estrutura de skills. Acho que já
+mostrei algumas vezes. Eu mudei o layout
+agora de novo, eu tô meio mudando o
+layout aqui, mas ele entende a empresa,
+entende o negócio, pesquisa mercado, ICP
+e tudo mais.
+E cara, a gente tem dois devs, um dev.
+É, chega a ser assustador o que tá sendo
+possível fazer ou não. Só que esse
+modelo aqui é um pala velho, né? Ver até
+agora não atualizou.
+Só para mostrar para vocês ali como que
+vai ficar a growth OS. Ela vai ficar
+assim, ó. Aqui é o onboard, né? Deixa eu
+mostrar desde do onboard. Então, ficou
+bem legal.
+Basicamente, ó, os nossos alunos entram,
+eles podem ter um CNPJ ou não. Vou
+simular o caso que eles têm um CNPJ. a
+gente pesquisa Receita Federal,
+instituições financeiras, Instagram e
+tudo mais. Ele conta um pouco da empresa
+dele aqui. Contou a empresa dele, pá,
+beleza? Aí a gente começa, a gente
+entende quais são os gargalos da
+empresa, ele vem, ele aprova. Aí aqui a
+gente mostra aonde que tá o dinheiro,
+aonde que ele pode focar, qual que a
+pesquisa de mercado, mercado regulado, o
+que que ele tem que fazer ou não,
+capturar demanda, estratégia de entrada,
+ele aprova. Aí ele vem aqui, faz a
+pesquisa do cliente ideal, né? Olha como
+ficou lindo. Caraca. Aprova aí. Ele vem
+aqui, posicionamento e marca, a mesma
+coisa. prova
+aqui. Ele desenha a escada de valor.
+Então, os ângulos que ele tem que bater,
+ó, e o ângulo premium, beleza? Aprova.
+Aí a gente vai fazer a identidade da
+marca, ele vai aprovar, beleza? Aí ele
+conecta aqui o CRM, conecta o WhatsApp,
+vai conectar a agenda, vai conectar o
+Metaedads, vai comprar o domínio e vai
+confirmar as conexões. A gente vai
+montar o funil, ele vai aprovar. Aqui a
+gente já configura o agente de SDR dele.
+Aí ele vai vir aqui, vai falar o
+seguinte, ó, qual que é o seu nível de
+automação? Ah, eu quero 100% maiá, 100%
+autônomo. Confirma. A gente vai gerar já
+os primeiros criativos. Ele vai aprovar.
+A gente vai montar a landing page, ele
+vai aprovar calendário de distribuição
+de postagem, ele vai aprovar estrela
+norte, né? Então, qual que é o caminho
+que ele tem que seguir? Então, qual que
+é a meta que a gente vai buscar? 30
+pacientes por mês. Ele vai aprovar.
+Acabou. Aqui, tá tudo pronto. Aí ele vai
+pro workspace. Aí ele entra aqui no
+workspace. É isso aqui que a gente tá
+criando. Isso aqui que a gente tá
+criando. Tá lindo isso aqui. Aí o
+Academy vai ficar aqui dentro, ó. Então
+aqui a gente vai colocar cursos de
+cloud, de open cloud, como usar IA,
+desenvolvimento multiagente, técnicas de
+venda, lançamento, técnicas de tráfego
+pago, como potencializar o cliente, como
+ele vender o resultado pro cliente dele,
+como ele operacionalizar um time de
+vendas. A gente vai misturar IA com
+estratégia de negócios, com o objetivo
+de alavancar os empreendedores e os
+empresários que vão entrar aqui, que vão
+fazer parte do nosso ecossistema. E eu
+desenvolvo desse jeito, cara. Eu desenho
+ali, eu pego a ideia onde para mim é
+muito visual e aí depois eu avanço pro
+processo de desenhar a arquitetura dela
+e depois eu coloco para codar.
+E deixa eu dar uma atualizada aqui. Meu
+Deus, consome muito. Olha isso. Caraca,
+cara.
+Caraca, não vai dar para ficar noite
+programando isso aqui.
+Ah, eu vou ter que deixar, gente, que
+agora preciso saber o quanto isso aqui é
+bom ou não. Preciso saber se vai migrar
+ou não. E amanhã a gente vai criar um
+sistema com isso. Se eu tiver crédito
+ainda. Caraca, consome muito. Achei um
+absurdo isso aqui. Eu tenho mais duas
+horas de sessão, 79%. Bá. Resumindo,
+essa é a estrutura que eu faço, galera,
+para você que eh
+quer empreender, ou melhor, quer
+empreender, não, para você que é que é
+empreendedor ou é empresário, ventar
+comigo no meu workshop que vai rolar no
+dia 20/06, a nova economia da IA, onde
+eu vou mostrar como que vocês também
+podem fazer isso daqui, tá?
+Ó, um ponto um ponto que eu acho muito
+importante de mencionar aqui é a
+qualidade, como ele fez esse sistema
+aqui para mim. Essas alterações não é
+uma tarefa simples. Esse sistema tem uma
+arquitetura muito complexa e ele veio
+aqui numa tarefa de quase, mais
+ou menos umas 3 horas, deixa eu ver, 1
+da manhã, mais, mais eu comecei às 8, 9,
+10, 11 meite. 4 horas, 4 horas
+estourando o pau. E ele fez muito bem
+feito, muito bem estruturado. Esse é o
+tipo do onboard mesmo do cérebro. Vamos
+ver aqui em fontes, ó. de gestão. Isso
+aqui ele desenvolveu tudo. Tem que
+testar, né? Então, como pudo de arquivo,
+coloco o nome da fonte, os campos que
+são obrigatórios, como vai sair do outro
+lado. Caraca, cara. ele fazer
+isso daqui praticamente sem informação
+nenhuma é hein?
+É brabo. Ous ele sofre, ele não consegue
+fazer tão completo assim. O cérebro
+funcionando daquele jeito,
+ingestão, tudo é difícil. É, não é fácil
+não. Não é fácil. Agora eu quero ver se
+ele ajusta o cérebro aqui. Vamos ver que
+daí a gente vai usar junto. E ele tá
+corrigindo, ó. Ó, ele tá corrigindo 100%
+aqui, ó. Ele tá corrigindo tudo. HTC
+reprovado neste ponto, abrindo o slot de
+fix. Tá vendo que aqui ele tá com método
+diferente? Aqui qual que é o método que
+ele usa? Ele abre o ele ele usa o método
+de desenvolver primeiro a spec, né, que
+é o que é o o especificação.
+Então ele sabe realmente qual que é o
+arquivo que ele tá mexendo, ó, que ele
+tá fazendo as alterações nesses
+arquivos. Ele já tá terminando e já já a
+gente vai liberar isso daqui para para
+ver como que vai ficar. Como que vai
+ficar esse negócio aqui. Eu tô doido
+para ver. Ficou muito bonito para
+vendas.
+Ah, pode ser assim.
+De onde vem a informação? Ele ainda não
+atualizou o front.
+Tá, tá, tá.
+que pariu, mano. Não é possível.
+Não é possível, mano.
+Não, não é possível. Caraca.
+De até perguntar aqui, velho. Pô, sei
+que é por causa do token, mas que isso?
+Deixa eu, deixa eu questionar aqui, ó.
+Eh, estou usando o Fable 5 para
+desenvolver.
+Notei
+que no cloud ele está consumindo
+muitos tokens da minha sessão diária.
+Por quê?
+Caraca,
+é, não dá para brincar com muita coisa
+grande isso aqui não, velho. Tem que
+realmente pegar as coisas que é pcada
+mesmo, que senão fodeu, entendeu?
+Aqui, ó. Aqui, aqui, aqui. É porque ele
+consome o uso. Pô, mas eu achei que que
+agora aqui eu que vacilei. Eu que
+vacilei aqui, ó, porque eu realmente
+achei que eu tava pensando que por tá no
+no meu no meu pacote, ele não iria,
+inocência do
+Ele não iria consumir, mas ele vai
+contar por milhão de token de qualquer
+jeito. Se ele processar mais, ele vai
+consumir mais. Caraca, que merda, cara.
+Ó lá, ó. multiplicador de duas vezes. No
+plano Cláudio, o Fable 5 conta como dois
+duas vezes o uso por token. Cada
+conversa nele consome a sua cota duas
+vezes. Eu ainda tô perguntando para ele.
+Ah, sai fora,
+Mais rápido. Ele pensa mais. O Fable foi
+feito para tarefas longas. Ele reflete,
+valida o próprio trabalho e roda mais
+raciocínio por resposta, mais tokens de
+saída por turno. Ó, eu vou parar o
+Galide, senão não vai dar tempo dele
+terminar. tá pensando muito. Ã, eu vou
+parar isso daqui, senão
+senão fodeu. Não fodeu. Eu tive que
+parar
+porque o custo de token tá alto.
+Passar o handof
+de onde paramos. Vamos.
+Que isso, cara? Não dá não. Não dá não.
+Vamos olhar. Eu vou deixar só o outro
+rodando porque aí a gente vai descobrir
+real o quanto que tá consumindo, o
+quanto ele é inteligente para isso.
+Olha, já foi, ele tá rodando a wave 2
+aqui já, ó. Rodando, concluído e
+cobitado. Ó, vamos ver. Estamos
+consolidando a memória persistida.
+Resumo do ponto atual da migração.
+Concluído. Ele concluiu a wave zer, a
+wave 1. Qualidade 160. Smoke tests
+verdes. Ó, ele criou os smoke tests.
+Boa. Type check limpo. Build, OK. Review
+estrutural feito em todos os handlers. A
+low list. T tá. Vamos olhar lá no Quero
+ver no Git. Vamos ver como que tá lá já.
+Vamos ver se ele já subiu o código. É,
+gente, o negócio aqui tá feio já. Como
+sumiu 90%, ó, ele subiu a aplicação
+aqui, provavelmente ele tá validando o
+pront. Eu vou abrir aqui para ver como
+que tá a tela. Legal. Ele pede login.
+Deixa eu logar aqui.
+Aqui já tá conectado na nossa page dev,
+né, do ambiente de desenvolvimento que
+não tá na minha máquina. As APIs não
+estão na minha máquina. Ele envia pro
+meu e-mail. Deixa eu pegar aqui o código
+do meu e-mail.
+Vamos ver como que tá. Vamos testar essa
+rota aí. Vamos ver. Vamos ver. Olha que
+legal, cara. Olha isso. Olha isso.
+Só que aqui tá mocado. Calma, calma,
+Respira, respira. Sem emoção,
+sem emoção. Calma.
+Vamos ver aqui, ó. Vistorias. Olha isso.
+Opa,
+esse dado já real. que pariu,
+esse dado aqui já real.
+Deixa eu ver de novo. Calma. Vamos ver
+se é verdade. Sem emoção. Sem emoção.
+Sem emoção. Historias. que pariu.
+Olha aqui, ó. Ó. Só que ele tá fazendo
+umas cagadinhas aqui. Tá vendo que ele
+tá chamando duas vezes a mesma PI? Por
+quê? Por quê? Por quê? Cagado. Ah, ó a
+cagada. Ó, ele chamou para cada
+para cada vistoria
+ele chamou para carregar o tipo para
+carregar. Esse carro, isso aqui é uma
+cagada.
+Nada sério. Nada sério. Dá para arrumar.
+OPS não faria isso aqui do só com aquele
+prompt que eu passei. Não faria. Não
+faria. Não faria de migração. Não faria.
+Nem Ó, ele mapeou tudo. Olha,
+ele buscou aqui. Olha isso, cara. Que
+loucura. Olha, ele pegou as inspeções.
+Ele carregou o workspace já. Olha isso.
+Olha isso, gente.
+Mas também, mano, pala, velho, né? Aqui
+eu parei, mas eu voltei de novo. Eu
+coloquei, agora eu coloquei para rodar
+no Opus 4.8
+o Galid. Cara, cara, que doideira.
+Tá as cagadinhas de layout, tipo assim,
+ó. Ah, tá. Não, aqui é o
+é a responsividade. Deixa eu ver se ele
+fez já, ó. Não tá responsivo. Isso aqui
+também é tenta de arrumar. Isso aqui é
+fácil. Isso aqui é mel na chupeta. Agora
+isso aqui, ó. Deixa eu ver se ele já fez
+o editar. Ainda que ele não fez. Ele não
+fez o detalhe.
+Aqui é dado real, não? Aqui é dado fake.
+Dado fake ainda. Aqui ele não
+implementou. Meteu em breve.
+Questionário. Olha isso. Isso aqui é
+dado real.
+[risadas]
+Gente, isso aqui é assustador.
+Aqui a brincadeira começa a ficar séria.
+Carteira, parte de pagamento. Vamos ver
+pacotes. Ó, isso aqui é dado real. Aqui
+já é dado real. Calculadora. Vamos ver
+se tá funcionando. Caraca,
+aqui na plataforma a gente tem dois
+tipos de cálculo. Aqui é integrado com o
+stripering, né? Então o cara basicamente
+vem aqui, só que ele não habilitou
+ainda, ele não fez a parte da compra. A
+pessoa consegue comprar nessa minha
+plataforma vistoria por unidade
+realizada, vistoria remota presencial.
+Tá faltando um tipo aqui ainda. Ou por
+pacote.
+Aqui o L ficou feito meu. Quebrou
+configurações.
+jáão, já cagou tudo mudado aqui, né? Já
+ter meu CPF. que pariu. Tem que
+editar depois aqui na
+Ah, que doideira. Aqui ele não colocou
+aquele ofuscated, sabe? De ficar de boa.
+Aqui ele já fez. Carteira tá
+funcionando, meu perfil tá funcionando.
+mano. Deixa eu fazer um filtro
+aqui, ó. Vamos ver. Eh, quero filtrar
+por, cadê protocolo? É, eu vou pegar o
+protocolo 23 158. 23 15.
+É, não buscou aqui. Ele não buscou não.
+Aqui ele não buscou. E aqui, ó, outra
+outra cagada. Nada sério. É o seguinte,
+acho que essa busca aqui, ó, deixa eu
+ver. V49, ó, já tá fazendo a request de
+busca, tá vendo? Vamos ver o payload, o
+header. Beleza. Ah, tá. Ele fez o BFF.
+Que que esse BFF? Ele não chama minha
+API diretamente. Então, eu não sei aqui
+qual a rota que ele tá chamando.
+Basicamente ele tá interceptando a rota
+da PI para proteger a rota da PI. Uma
+de uma decisão boa para não esfur
+aqui a rota da PI. Bem bem bem bem
+legal. É isso aí. Tá certo. Só que ele
+fez certinho, cara. Vamos ver o código.
+Vamos ver o código, gente. Ah, nem sei
+se vai dar para terminar essa aqui, ó.
+Deu uma diminuída aqui no Opalão, hein.
+É, mas não vai dar o projeto todo nem
+Wave chinês tá sendo invadido. Tô sendo
+invadido. Não, vamos olhar aqui, ó.
+Vamos ver como que ele estruturou aqui o
+front.
+Ó, ele componentizou,
+ele escreveu os milestons. Não, isso
+aqui acho que é resto.
+Script não. Hooks nem usou. Lib. Beleza.
+Ele criou a lib. Criou as APIs aqui.
+Type, beleza. Ó, aqui tá bocado ainda no
+dashboard, mas ele já criou os tipos.
+Reset password.
+Tá. Look, people. Uma coisa que eu já
+não gostei, ó. Eu não gosto disso. Ele
+criou, por exemplo, aqui em português e
+aqui em inglês. Cara, ou é inglês ou é
+português. Esse negócio aqui para mim é
+coisa estagiária. Tropic não é tudo isso
+não. Ó, créditos. Aí ele coloca aqui.
+Aqui ele coloca créditos aqui ele coloca
+essa balance panel. Calculator painel.
+Não tem lógica, pô. Aí créditos viu. Aí
+fodeu. Isso aqui é com estagiário. Isso
+aqui é coisa estagiário. Não deveria.
+Para ser o modelo mais inteligente do
+mundo. Aqui é falha. Falha grave. Falha
+grave. Ó. Legal. Ele componentizou que é
+comum, mas ele deveria ter criado um Ah,
+ele criou um shell também aqui. Deixa eu
+ver por que que ele criou um comum e o
+shell. Essa parte aqui é mais técnica,
+gente. E frescura também para ser
+sincero, Porque só dele fazer UI,
+olha que legal, ó. Ó, ele criou todos os
+componentes específicos do do Mas isso
+aqui também o o Opus faz também de boa.
+Mas o que eu achei legal é o seguinte,
+ele fez é uma decisão que ele tomou. Uma
+decisão que ele tomou. Isso é legal.
+Isso é legal. Tá rodando ainda ou já
+falei aqui? Tá rodando ainda. Wave 2
+totalmente integrada e verificada
+visualmente no browser. Cinco telas
+conferidas contra os mocaps 2. Estados
+graciosos cta em breve. Onde não há end
+point wave 3. A wave 3 ele tá entrando
+no detalhe da vistoria. Ó,
+cara do céu, será que eu vou migrar uma
+solução inteira em uma noite?
+Bá, bá. É os guri,
+é os guri, papai. merda, que
+loucura. Em algum momento isso aqui vai
+ficar barato, cara. Em algum momento
+isso aqui vai ficar barato. E aí, a hora
+que ficar barato, fodeu, velho.
+Ó, isso aqui tá demorando tanto. Por que
+que tá demorando tanto assim? 64
+Demora do BFF ainda no ar. Pá,
+pá, pá. Fix 2 Wizard, correção,
+contrato. Pô, gente, tô com sono, ó. Vou
+eu vou juntar o vídeo de amanhã. Mas
+assim, é nítida a diferença de de
+qualidade entre os modelos. É nítida
+para quem tá usando isso aqui. É nítido.
+Deixa eu ver aqui. Vamos ver a
+comparação aqui na antropic lá. Eh,
+fable 5.
+Vamos pegar aqui, ó. Cara, é por causa
+disso aqui, ó. Agente que coding, tá
+vendo, ó? Deixa 29. Não, não é esse
+aqui, não. Esse aqui, ó. Agente que
+coding. Esse aqui, ó. É, tudo bem que é
+um teste padrão, mas olha a diferença de
+ponto de do quanto ele é superior ao
+Opus 4. É muito alto. Ã, nossa.
+Essa parte aqui de de cyber security
+chega a ser um absurdo também. Saúde,
+cara. Olha a diferença dele pro GPT 5.5,
+cara, que é o melhor modelo hoje do da
+Open AI. Antes só porque ela é muito
+inteligente, porque ela pegou um nicho
+de mercado, ela focou em Enterprise,
+cara, B2B, ela tá pegando os devs, então
+a parte de codar, de de escrever código
+e também tá criando o próprio cloud por
+si só. Cara, o cloud é um sistema
+operacional, velho. O cloud hoje é um
+sistema operacional de A, caraca, olha
+isso. Já era, eu não vou conseguir
+terminar. Ainda tem mais duas horas e
+pouco. Eu vou ter que terminar só
+amanhã, senão vou ficar pobre no
+processo. Caraca. Vamos ver a evolução.
+Vamos ver, ó. Tá, estamos, estamos aqui.
+Eu achei rápido também, hein, cara. O
+nível que ele tá ali de velocidade tá
+absurdo. Vamos ver aqui. Vamos atualizar
+minha telinha.
+Ã, aqui não tava funcionando até,
+ó. Já tá funcionando,
+ó. que pariu, Olha isso,
+cara. Olha isso, olha isso, olha isso.
+Esses dados são reais, gente.
+Questionário de teste sem resposta.
+Mídias. Olha isso. Ele já carregou as
+imagens do blob. Linha do tempo. Mosaic
+bot. Processo iniciado. Aqui ele pegou
+também.
+Olha o link de acompanhamento. Será que
+funciona? E o Inspect link, a shortcut
+aqui tá apontando para pro sistema
+antigo,
+Gente, sim, de verdade. Eu sei que às
+vezes a gente fala: "Ah, é só front, é
+só front, mas vocês não estão entendendo
+o tamanho desse front, não é pequeno,
+isso aqui é coisa para caraca, cara". E
+eu não dei praticamente contexto nenhum.
+Eu peguei os projetos, deixei lá lado e
+falei assim, ó, tá aqui o projeto um, tá
+aqui o projeto dois, o novo, migra,
+corta de um de um framework Angular
+antigo, cara, que passou um monte de
+estagiário, um monte de zerruela lá e
+pessoas boas também para um pô para um
+um next, cara. É,
+eu não sei se é loucura da minha parte,
+mas isso aqui para mim é assustador.
+O Opos não faz desse jeito aqui, não
+faz. Olha, ele já desenvolveu, ele já
+desenvolveu o fluxo do workspace. Isso
+tá funcionando, não, né? Aí já já ele
+vai implementar a rede perito e ter
+agenda. Ele colocou os workspaces aqui
+em cima também carregando. Olha a
+navegável, cara. É o nível de detalhe
+que ele tá pegando. É absurdo.
+Vale a pena o custo no final das contas.
+Vale a pena isso aqui para fazer isso
+daqui, ó. Se eu usasse, imagina, vamos
+pegar aqui um dev front hoje aqui na
+empresa. Vamos calcular números.
+Números, números. Números. Vamos pegar
+aqui, ó. Vou colocar no Excel. Minha
+calculadora não tá abrindo por algum
+motivo. Vou pegar números, hein?
+para atualizar aqui. Um,
+ou melhor, vamos usar o próprio Cloud
+para isso. Deixa eu só ver se ele já
+explodiu agora. Ai, ai, Jesus. Ai, meu
+Deus. Já, já vou pagar. Ó, vamos lá.
+Faça um cálculo para mim.
+Um dev front custa hoje aproximado,
+aproximadamente
+12.000. Isso que é o valor que eu pago
+aqui do salário, que ele trabalha 168
+horas por dia ou por por mês, horas
+úteis.
+Eu estou migrando um front
+end de tecnologia inteiro para
+usando o Fable 5 em vou colocar aqui um
+dia, um dia. Considere
+24 horas rodando o modelo sem parar.
+Qual é o custo? Eh, o dev,
+provavelmente, cara, ele não faria em
+menos de duas semanas, gente. Demoraria
+com com Iá, demoraria com Iá. Com I uma
+semana, mas ele vai demorar mais uma
+semana, cinco dias.
+Compare os custos para mim, ó. Vamos
+ver, vamos ver, vamos ver, vamos ver,
+vamos ver, vamos ver. Ai, usei o fable.
+Aía, já terminei de gastar o crédito.
+que pariu, meu Deus.
+E aqui ele não tem dimensão, ele só tem
+a dimensão o seguinte. Aqui, ó, eu não
+passei a dimensão da volumetria de
+inputs e outputs que ele gastaria. Mas
+vamos ver, vamos ver o que que ele fala
+aqui. Vamos ver o que que ele fala,
+ó. Se preparem, hein? Vocês querem para
+usar para usar o brinquedo aqui, apontem
+muito bem para onde vocês querem fazer
+para ter o máximo de aproveitamento
+possível, porque ele consome muito, mas
+entrega muito também.
+Entrega muito.
+Eu tenho uma segunda conta da antrópica
+da minha esposa.
+Ó, vamos lá. Premissas. O dev a R$ 12.68
+horas dá R$ 71,43 a hora. O dólar hoje
+custa R,19. Ok. Custo do dev em 5 dias ú
+R$ 2857. Custo do FEB 24 horas direto
+via PI, dependendo do volume de toque
+estimativa para um agente de código
+rodando sem parar. Moderado 1 milhão de
+entrada 6 milhões de saída por hora. Pá
+pa pá, daria 1300 e vezes mais saí da
+hora.
+Ah, em 24 horas daria R$ 1.620 da hora.
+Olha isso como é barato.
+Eh, pesado, tá? 4.000.
+Pesado com prompt casing de 1300 a
+8.000. Prompt casing é que a própria
+cloud faz a gestão do ele cacheia o o
+input e o output que ele manda lá. E aí
+esse cash aí economiza absurdamente. Mas
+eu não acho que não é 90% off, nem
+Pelo seu plano até 22/06
+aqui. Não tô, vou ter que pagar hoje já.
+Eh, conclusão, hoje, janela grátis de
+0000, economia de 100%, entrega de cinco
+vezes mais rápido, depois 23,6, pá, pá,
+1500 tá, 50% mais barato, pronto em um
+dia em vez de cinco. E não é 5 dias,
+cara. Não é 5 dias, deve vai demorar
+muito mais, provavelmente devo demorar
+mais também aqui, mas que seja, cara,
+dois dias, dois dias trabalhando com
+Fable, sem parar, tôando pau aqui, que
+custe R$ 5.000, cara. R$ 5.000 para uma
+empresa de investimento em tecnologia,
+não é nada para um modelo. Então, assim,
+ô, por isso que os caras vai fechar isso
+aqui, porque realmente é bom. Realmente
+é bom. Realmente é tipo assim, é
+nitidamente eh muito superior. Aqueles
+20% a mais ali é muita coisa.
+Aqui já estourou. Aqui já já entrou. Já
+tô pagando já agora. Quer ver? Ah, ainda
+não. Será que travou? Tá consumindo já?
+Ainda não. Caraca, cara.
+Travou agora. Travou agora. Ele ele
+engasgou. Ah, ele atualizou o Galide,
+gente. Vamos ver o Galide ali no 4.8.
+Quanto vocês estão aqui comigo? Vamos
+ver. Ah, vender. Meu cérebro vai ser
+para vendas de cliente. Ah, são, quais
+são as áreas? Pode ser essas daqui.
+Definiu as áreas aqui para mim. Fal de
+vendas. Ah. Agora sim. E-mail. Ah,
+WhatsApp. Ah, planilha. Ah, pronto.
+Última coisa. Tem informação sensível aí
+dentro? Não. não. Preço
+sigiloso.
+Cérebro, ó. Criar o cérebro. Criar o
+cérebro. Vamos ver, hein? Cérebro.
+Pronto. Ó, mas ficou ruim a interface
+porque o botão ficou lá embaixo, ó. Não
+sei o que fazer aqui. Coisa besta. Criar
+e ligar fontes. Ó,
+entendeu?
+Isso aqui foi feito com com com com
+esqueci o nome. Flame flame flame flable
+flable flable planilha.
+Tá, eu quero ingerir. Vamos ver
+WhatsApp. Patos decisions. Ó, o que tem
+o que essa fonte é extra. Ok, beleza.
+Salvar a receita,
+tá? Eu quero ingerir, eu quero ingerir
+informação. Vamos ver. Upload.
+Nome da fonte. Teste. Teste. Aqui. Vamos
+ver. Parar secreto. Eu tenho que
+adicionar aqui. Campos. É o que essa
+fonte é o extrai? Campo nome.
+Quando entra algo no nome sai o fato do
+se o que é nome. E aqui ficou confuso,
+hein? Vai ser aberto.
+Teste. Ah, tem que colocar ali em cima.
+Acho que aqui não precisa colocar. Deixa
+eu ver. Salvar a receita. Teste ativo.
+Aí eu posso fazer o upload. Vamos ver.
+Tá. E aí, onde eu passo o upload? Ah,
+Burro, burro, burro. Dá zero para
+ele, pô. É aqui, ó, o que é? Quero
+colocar uma conversa. Se eu quero enviar
+pra fonte WhatsApp e eu vou pegar um
+arquivo de WhatsApp aqui e vou ingerir.
+Vamos ver. Vamos ver se ele é bom mesmo.
+Vamos ver que que ele fez aqui. Vou
+pegar aqui desenvolvimento
+e cloud code
+brain. Arquivo transcription de
+WhatsApp. Vou pegar isso aqui, ó. Pum.
+Olha gente, olha isso. Olha, ele fez a
+filinha. Vamos ver se é bom mesmo. F5.
+Quero ver. Ih, perdeu a fila.
+Não é tão bom aqui. Ele devia, ele não
+poderia ter perdido a fila aqui, ó. Ele
+não pensou nisso. Ele não pensou em
+fazer um job. Ele não pensou em fazer um
+job para processar em background. Ah,
+não. Pera aí, pera aí, per no cérebro
+errado. Qual que é o nome do cérebro que
+eu criei? Vendas cri. que pariu.
+O o Opus não faz isso. O Opus não teria
+pensado em fazer um job. Eu teria que
+falar para ele aqui. Não, que ele fez um
+job.
+Ó lá, ele já ingeriu. Legal. Tem que ver
+se funciona, né? Vamos ver se funciona.
+O que você sabe sobre o Edson Renê? Só
+falta ter conversado alguma besteira com
+ele. Edson Renê. Papá, empresa segmento,
+objetivo de vendas, está de
+desenvolvimento. Última atualização,
+utilizou o passou. Pá, pá, próximo,
+utiliza cara. Legal. Agora eu não sei se
+isso aqui já tava ou não, mas aí eu
+tenho que debugar, faz parte. Pô, gente,
+vale a pena, hein? Ele vai terminar, não
+tem como. Ele vai terminar.
+Bá b ba bá. Ele vai terminar, cara.
+Ah, vamos ver. Acho que já acabou meus
+créditos. Agora já era. Agora foi para
+casa do
+Ele travou. Eu tô achando que ele acabou
+meus créditos. Ele falou assim, ó, não
+tem mais dinheiro para gastar, irmão. Já
+era. Só amanhã agora.
+Ó, como foi honestidade. Deixa eu ver.
+Aí ele migrou tudo. Migração, entregue e
+disponível para testar. Abra e faça
+login com as suas credenciais e navegue,
+gente. Olha isso aqui, ó. Ele terminou.
+Ali falou que terminou, mas ele não
+terminou tudo. Faltou algumas coisas.
+Faltou, por exemplo, a aba de de
+questionário da ferramenta, que ela é
+diferente. Mas assim, se você for
+analisar pelo promp vagabundo que eu
+deixei elento, foi uma bela de uma
+implementação. Ó, aqui ele não
+implementou aqui, ó. Aqui deveria
+clicar. Eu consegui editar esse
+questionário aqui porque ele é uma
+ferramenta dragop. Ah, mas pelo nível
+que ele fez aqui, deixa eu ver uma
+coisa, ó. Ele não ele não não finalizou
+o criar workspace. O nova vistoria ele
+também não liberou. Ele deixou, mas ele
+deixou bloqueado. Isso é bem legal. Ele
+não fez o insert, cara. Mas pro nível de
+detalhe que ele pegou aqui, para mim é
+surreal. O prompt que eu mandei é
+surreal. É surreal. Gente, seguinte, ó.
+Vamos encerrar esse vídeo aqui, mas uma
+coisa já tá clara para mim. Modelo é
+caro, é lógico, é duas vezes mais do que
+o OP 4.8. Extremamente eficiente, não
+tenho nem o que falar, vocês viram aqui,
+mas acho, mas o ponto de atenção é o
+quanto isso está evoluindo rapidamente,
+o quanto a gente tá acelerando o
+processo do Miá. Meu prompt ali foi
+exelento e mesmo assim teve um resultado
+absurdo. Então fica aí a a reflexão para
+vocês do potencial que esse tipo de
+solução tem. Ou melhor, para você que é
+sético contra, não tem mais como você
+ser cético. Acabou, velho. Parte. Ah,
+mas não tem segurança, cara. Isso isso é
+a maior balela do mundo. Esquece. Isso é
+ele deve. Agora, para você que é
+empresário, para você que é
+empreendedor, cara, o mundo, ô mulher,
+vou falar do Brasil. O Brasil tá parado
+ainda. O Brasil tá pensando, os
+empresários estão pensando ainda em como
+criar landing page. É a hora de vocês
+despontarem. É um momento de
+consolidação. Então, cara, se vocês
+literalmente eh deixarem a empresa de
+vocês mais eficiente com a chance de
+vocês consolidarem um setor que seja
+regional, que seja numa determinada área
+ou nacional, é absurdo. É absurdo.
+Pessoal, é isso. Esse me vídeo, ó,
+apenas um like porque agora é 2:30 da
+manhã e eu tô aqui gravando isso para
+vocês. Esse conteúdo aqui não tem. Desse
+jeito aqui não tem não.

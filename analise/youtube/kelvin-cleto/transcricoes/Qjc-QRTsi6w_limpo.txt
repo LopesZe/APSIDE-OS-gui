@@ -1,0 +1,573 @@
+Agências de marketing não são escaláveis
+porque elas são altamente dependentes de
+pessoas para entregar resultado. E é aí
+que a infraestrutura de inteligência
+artificial, uma infraestrutura de
+crescimento de ar entra com tudo. Todos
+os mercados que existem, essa
+dependência humana muito grande para
+entregar um trabalho, aquele aquela
+força de trabalho humana gigantesca para
+se fazer alguma coisa, a IA entra muito
+para ajudar. E nesse vídeo aqui eu quero
+mostrar para vocês como aplicação de
+inteligência artificial de com processo
+e há mais processo vai trazer um ganho
+absurdo para uma agência de marketing,
+transformando ela em até escalável, num
+negócio escalável. Vamos começar esse
+vídeo. Antes disso, deixa eu me
+apresentar para você. Para você que não
+me conhece, meu nome é Kelvin. Eu sou um
+programador empreendedor serial. Fundei
+a General Clans em 2015. Fiz a venda
+dela agora em 2025. Foi uma das
+principais insur é uma, é uma das
+principais insurtecs do Brasil, porque
+ela ainda funciona. Fundei aí um SPECT,
+uma plataforma, um SAS para realizar
+inspeções e de sinistro, de vistoria de
+casa e por aí vai. E fundei Acelera 360.
+Acelera 360 é o meu programa de
+aceleração empresarial. Basicamente lá
+eu consigo ajudar você a tirar a sua
+ideia do papel. Eu te ajudo a
+empreender. Beleza? Vamos começar.
+Então, tô compartilhando minha tela com
+vocês. Bora. Vamos primeiro entender a
+estrutura de eh hierárquica, né, de uma
+agência de marketing convencional.
+Então, a gente geralmente tem lá o CEO,
+o dono do negócio, que geralmente é o
+sócio, CVO, ele é CEO CVO, que é o o
+cara da visão, é o cara do negócio. Aí a
+gente tem áreas de apoio, né? Então,
+jurídico, RH e financeiro, que
+geralmente são feitas pelo próprio dono
+da da empresa de marketing. Toda empresa
+tem isso aqui. Ela pode ser feita de
+forma terceirizada, igual, por exemplo,
+que faltou também a contabilidade, ou
+ela é de é feita de forma interna.
+Geralmente a gente chama isso aqui de
+área de apoio. Ela apoia a operação
+jurídico quando tem algum contrato,
+algum processo, alguma coisa do tipo. RH
+para fazer contratação, financeiro para
+contas a pagar, contas a receber,
+contabilidade pra gente deixar ali nossa
+empresa com o fiscal no brinco, tá?
+E a gente tem o core business, que é o
+que realmente a a agência entrega,
+atendimento e suporte ao cliente. Isso
+aqui é muito muito muito muito feito.
+Isso aqui geralmente as empresas, as
+agências de marketing, elas criam grupos
+no WhatsApp. Então o principal canal
+aqui de atendimento é o WhatsApp. Elas
+já não já começa aqui. A maioria das
+agências não t suporte para fazer isso
+daqui, tá? Isso aqui é um gargalo
+operacional. Já vou até deixar aqui, ó.
+Caralo em vermelho operacional demanda
+gente, demanda atenção, porque são
+vários clientes, empresas, experts,
+pessoas físicas, jurídicas e viram uma
+confusão. Comercial também é um
+problema. Comercial faz parte do core
+business de qualquer negócio. Afinal,
+uma empresa que não vende, uma empresa
+que não se preocupa com vender, ela é
+uma empresa fadada ao fracasso, tá? E
+geralmente as empresas, os a galera de
+marketing tem uma dificuldade comercial
+contra concorrência e tudo mais.
+E aqui a gente tem área produtiva, né? A
+produção, a execução. Então, ou é a eu
+acho que é mais um gerente de projetos
+aqui do que um chefe de marketing. Mas
+quando é um negócio muito grande é o
+CMO,
+vamos deixar aqui como gerente de
+projetos.
+O cliente quando ele entra ele vem aqui
+dentro. Estrategista dificilmente tem.
+Não vou nem colocar como gargala porque
+geralmente tudo é gargala. Eh, mas ele
+tá na na área na na árvore principal
+aqui, um revisor que é para revisar esse
+esse conteúdo que é gerado, estratégia e
+tudo mais. E aí aqui esse braço
+principal ele é terceirizado geralmente,
+né? Nas tradicionais, quando ela não é
+muito grande, ele é terceirizado.
+Apesar que quando é muito grande também
+é gestitor de tráfego, COP, redor. COP é
+diferente de redator, tá gente? Esse o
+COP é o cara mais focado em escritas com
+eh eh ganchos para prender atenção do do
+de quem tá lendo ou de quem tá
+assistindo, focado tipo para venda
+mesmo. O redator é o cara que gera
+conteúdo mesmo. Estrategista, geralmente
+também um outro estrategista é
+terceirizado. Social mídia, designer,
+filmaker, editor de vídeo. Esses braços
+aqui são todos terceirizados. Então, a
+agência de marketing tem aqui meio que
+uma, esse cara aqui, ele é responsável
+também por organizar essa terceirização
+aqui, entendeu? Garantir entrega e aí
+vira uma loucura. Então, toda vez que
+entra no modelo tradicional aqui uma
+pessoa física, ela entra como um expert,
+né, como um especialista ou uma PJ, uma
+empresa para uma agência de marketing,
+ela tem que fazer o onboard daquele
+cliente. Então, boas boas-vindas, seja
+muito bem-vindo, que bom que você
+entrou. uma reunião de kickof, que ela é
+bem longa para entender o negócio,
+entender o perfil daquele cliente,
+entender o que que ele tá querendo, qual
+que é a melhor rede social, qual que é o
+melhor caminho para ele. Deixa eu só
+confirmar se tá gravando. Tá gravando.
+Qual que é o melhor caminho para ele?
+fazer um setup operacional, criação e
+organização de pasta, driver, notion,
+click, trelo, salvar todos os acessos
+ali na na da daquele cara na pasta na
+numa num programa de gestão de senhas,
+eh acessos da rede social dele, acessos
+da da do meta, acesso do drive dele e
+por aí vai, cria grupo de comunicação de
+forma direta. Geralmente isso aqui é no
+WhatsApp, isso aqui é um de um
+gargalo, isso aqui é uma falta de
+processo. Eh, alinhar ali com quem vai
+aprovar e em quanto tempo aprova com o
+próprio cliente.
+Aí depois entra numa etapa mais de
+diagnóstico estratégica. É uma etapa
+interna onde a empresa de marketing vai
+fazer uma auditoria dos canais atuais,
+análise de dados, histórico de campanha,
+análise de concorrente, coleta de
+informação, benark, vixe, por aí vai. e
+a criação desse plano tático, que é um
+calendário de conteúdo, de publicação,
+estrutura de campanha e por aí vai. Isso
+aqui tudo demanda a gente. Só que quando
+a gente tá falando de uma empresa
+pequena, e cara, uma empresa pequena,
+deixa de falar, quando ela é bem
+estruturada, esses caras faturam no
+mínimo 100.000 por mês, tá? A gente tem
+ali uma equipe, essa equipe principal
+aqui, ó. Opa, essa aqui, ó, o CEO, esse
+essa pessoa do comercial, que geralmente
+é o próprio CEO, mas tem um um CMO
+junto, tem um estrategista, um revisor e
+às vezes tem um cópia aqui dentro ou um
+gestor de tráfego aqui dentro, tem umas
+quatro pessoas, mais ou menos esse time
+aqui. Então, a terceirização é muito
+grande. Aí o que acontece quando entra
+um cliente para fazer esse setup aqui? É
+muito pesado, é muita energia, é muita
+energia e ela e quanto mais cliente
+entra, mais complicado fica para fazer
+esse atendimento e o suporte ao cliente,
+saca? E aí que começam a gerar os
+gargalos, ficar olhando no WhatsApp,
+ficar cobrando, ficar fazendo a gestão
+de estratégia, utilizando e eh eh
+análise, analisando os concorrentes,
+analisando canais de eh canais parecidos
+para copiar a estratégia, para fazer ali
+uma modelagem. Cara, isso aqui vira um
+caos. Deixa eu pegar aqui para ficar
+gravando melhor para vocês. Isso aqui
+vira um caos.
+Esse aqui é o típico modelo de negócio
+que é ideal para uma uma infraestrutura
+de inteligência artificial. Qual que é o
+foco de uma infraestrutura de
+inteligência artificial? Automatizar,
+copiar essas pessoas e criar agentes e
+automações. Eh, trazer o conceito de
+alinhar ferramenta. Então, por exemplo,
+ferramentas, criativos com IA,
+ferramentas de tráfego pago, agentes,
+entendeu? e processos para trazer
+velocidade
+na entrega. Então, por exemplo, uma
+agência dessa de marketing, ela consegue
+atender até oito clientes, por exemplo,
+com velocidade, sem derrubar nenhum
+pratinho. E aí ela faz um como se fosse
+um overbooking, ela pega mais clientes e
+aí ela faz todos cagados. Ela, vamos
+supor que ela pega 15 clientes sem IA.
+Com uma infraestrutura de A, o mesmo
+time vai conseguir pegar 30 clientes.
+Esse é o segredo da infraestrutura, é
+conseguir estruturar e a mais processo
+para ter o quê? Grandes resultados,
+crescimento operacional, entendeu?
+Esse é o grande segredo. Então é,
+vou vou pegar aqui, ó, IA
+mais processo. Processo tem que tá
+desenhado. E eu já vou mostrar aqui para
+vocês, ó, como que é um modelo escalável
+com infraestrutura de crescimento de A e
+mais processo focado em resultado. Tem
+que dar resultado porque senão não se
+paga, tá? Senão não se paga. Então esse
+é o foco principal. E há mais processo
+dá resultado pro negócio. E a e o modelo
+de agência de marketing, inclusive essas
+agências de aí, elas, cara, se desenhar
+isso aqui muito bem desenhado, tem uma
+atração absurda. Kelvin, como você sabe
+disso? Porque primeiro que eu vim do
+mundo da tecnologia, segundo que eô já
+tô acostumado a trabalhar com automação
+de processo e tudo mais, segundo, nesse
+meu movimento de vir pra inteligência
+artificial, montar acelera e tudo mais,
+eu fiz o lançamento lá da infraestrutura
+de A e a gente já fechou alguns clientes
+e os principais clientes que eu fechei
+foram agências de marketing, entendeu?
+Então, cara, a gente tá conseguindo
+trazer assim muita velocidade rápida
+para eles, só ajustando o processo. E,
+cara, processo a gente não tá falando de
+a, a gente não tá falando de a, mas a
+refinando esse processo, deixando ele
+bem ajeitadinho, justo e colocando e a
+cara é chega a ser assim absurdo o poder
+de escala que a gente consegue trazer
+para uma empresa como essa, tá? A gente
+fechou um cliente que ele faz 500 K de
+faturamento mensal. Ele já é um, ele já
+não é uma, uma, uma pequena empresa, uma
+média empresa, fatura mais de 4.8
+milhões por ano. E, cara, ele tem
+problemas assim absurdos de qualidade,
+de entrega. Ah, sobe coisas com erro de
+português. Eh, ele não consegue dar
+atendimento a todos os clientes ao mesmo
+tempo. Ele tem clientes muito mistas,
+ele não consegue entregar um resultado
+de qualidade, ele não consegue ter
+gestão e controle sobre o próprio time,
+sabe? Ele tem um problema sério com essa
+parte da terceirização. Ele tem problema
+sério com com relação a contratar e
+mandar pessoas embora e perder o
+conhecimento base que foi feito para
+aquele expert da daquele expert ou
+daquela empresa. E com a IA a gente,
+cara, tem que uma semana que eu anunciei
+isso, a gente fez, eu sou eu sou a favor
+de sempre pegar as frutas baixas, né, e
+resolver o problema rápido pro cliente
+já sentir a diferença. Eu coloquei um
+time lá, rapidamente a gente já
+conseguiu trazer resultado, tá? Então
+vamos pegar aqui, vamos analisar. Você
+que quer empreender com o IA, aqui tá um
+modelo perfeito para você poder usar.
+Você que tem uma empresa, inclusive tem
+uma agência e quer pegar esse modelo
+aqui, entra em contato com a gente,
+clica no link na descrição desse vídeo,
+vai tá lá, acelera e se e preenche e que
+a gente a gente vai vender isso daqui,
+tá? Pronto. Pronto. Ó, plugin play. Pá,
+vamos lá.
+Eh, modelo escalável com infraestrutura.
+Ah, tá. Eu eu vou fazer menos CTAs
+agora. Eu recebi uma reclamação aí da
+galera que tá me seguindo, tá tá
+entendido? Vou entregar conteúdo de
+valor e vou vou ficar parar vou vou
+parar de ficar fazendo esses gatilhos de
+venda aqui para vocês. Mas ó, você que
+quer empreender,
+acelera para você. Eu vou te ajudar a
+tirar sua ideia do papel. E você que é
+empresário e quer comprar isso aqui
+prontinho, infraestrutura de ar no teu
+negócio, aí para você realmente acelerar
+com resultado, a gente tem um programa
+para você lá dentro específico também.
+Pronto, plugin play. Mas vamos lá, vamos
+lá, vamos lá. Então, como que ficaria um
+modelo escalável de uma agência de
+marketing com uma infraestrutura de
+crescimento com IA? Então, assim que o
+cliente entra, né? Então, vamos falar de
+processo no onboarding.
+Esse onboard é automatizado. Então, o
+que que a gente vai fazer lá? Por
+exemplo,
+o cliente, como que ele entra? Fechou o
+contrato, assinou o contrato, ele é
+cadastrado. No caso, que a gente tá
+usando é o Notion. Ele, opa,
+a gente faz o cadastro lá do cliente no
+Notion, por exemplo, fechou o contrato,
+contrato novo, puf, automaticamente já
+dispara, a gente usa o zapper para fazer
+uma automação, dispara o onboard para
+aquele cliente, já cria o drive daquele
+cliente, já deixa tudo organizado dentro
+da empresa para aquele cliente e já
+marca, já manda um link do Calend para
+fazer o para marcar a reunião de
+kickoff. Legal. Olha, olha que loucura.
+Já não tem uma pessoa para fazer isso,
+já foi feito de forma automática.
+Fez o kickof, qual que é a lógica do
+kickoff? Fazer todo o processo de
+entrevista, de entendimento daquele
+cliente, das necessidades, como a
+empresa dele funciona, coletar o máximo
+de informação possível. Então aqui foi
+alinhado que é o seguinte, tanto a PF
+quanto a PJ vai ser feito usando o
+Google, Google Meeting, a ligação, a a
+ligação ela é gravada e depois tudo isso
+é transcrito e a gente já começa a
+alimentar as e as, né? Então são é um
+agente de COP específico nichado para
+aquela PF, para aquela PJ. Por que um
+agente de COP específico? Porque quando
+tiver um funcionário de COP ou um
+terceiro de COP, o conhecimento não tá
+na cabeça dele. O que vai tá na cabeça
+dele é o quê? A o jeito que ele quer
+fazer a cópia, ele pode instruir usando
+esse agente aqui. Então imagine que eu,
+o Kelvin é um cliente dessa, dessa
+agência de marketing. O Kelvin entra
+aqui como pessoa física, assinou o
+contrato, putz, recebeu o link de
+onboard, a estrutura por de trás na
+agência já foi criada. Recebi o link do
+Calender, fez o agendamento, caio pro
+Kickof, chego no Kickoff, reunião via
+meeting, aí tem lá todo um um
+playbook que o analista tem que seguir,
+né? Por quê? Para coletar o máximo
+possível de informação. E aí ele já vem
+alimentando, principalmente esse cara
+aqui, ó. Todo esse conteúdo depois vai
+ser limitado pro para criar um segundo
+cérebro, que é uma hquele.
+Que que é uma ha? Ó, eu não tenho do
+nada disso. Eu não sou programador, não
+sou da área técnica. é um banco de dados
+daquela pessoa. Então, seria uma banco
+de dados do Kelvin. Kelvin vai fornecer
+vídeos, história, artigos,
+documentários, tudo da vida dele, foto
+de infância, problemas que ele já
+passou, tudo, tudo, tudo, tudo, tudo. Aí
+a gente vai treinar o agente de COP, o
+agente de estratégia, o agente de
+criativo, um agente redor, esse daqui
+não entra por agora. Um agente
+supervisor de conteúdo do cliente. Já
+explico porque tem esse agente aqui. Um
+agente cópia do expert e tudo, o resto
+todo vem paraa RAG de forma
+descentralizada,
+desorganizada,
+tudo vem para cá, assim, uma maçaroca de
+informação. É um datalake, um banco
+gigantesco lá do Kelvin. Do Kelvin. Se
+fosse a empresa do Kelvin, seria a mesma
+coisa. Vamos supor, fosse a General
+Clanks, seria a mesma coisa. Qual que é
+o produto que a General Clans fornece?
+qual que é a estrutura, o que que ela
+quer com rede social, qual que é o
+posicionamento dela do mercado, análise
+SWAT concorrente, qual que é o modelo de
+comunicação que ela quer, tudo, tudo,
+tudo, tudo. E aí já se cria essas cópias
+de agente aqui. Quando que a gente
+avança pro setup operacional, setup
+operacional é algo mais interno. A
+criação de organização de pasta já foi
+feito no drive, no notion. Eh, você cria
+só os acessos. Os acessos eles ficam
+manuais de forma organizada. a gente usa
+uma plataforma chamada indica pro nosso
+cliente chamada One Password. Então o
+que que essa One Password faz? Ela ela é
+uma forma de guardar usuários e senhas
+de forma segura para não ficar
+compartilhando para cá e para lá. Então
+cara, muito isso aqui. Isso aqui traz
+profissionalismo pra empresa, tá?
+configurar dashboards e métricas. Tudo
+isso aqui, a hora que cria o acesso já
+tem, vai ter agentes, não tem ainda, mas
+vai ter agentes para fazer a
+configuração do Meta do Google Ads e por
+aí vai. Criação de grupo eh de
+comunicação direta no WhatsApp. Aqui é
+criado, o grupo ainda é criado. Aí quem
+que entra no grupo? Olha aqui, ó, o
+agente para mapeamento de conversas. Ele
+entra lá no grupo. Por quê? Porque para
+não ter que ficar uma pessoa olhando o
+grupo toda hora, o agente já faz isso,
+entende? Pega as tarefas e já joga onde?
+No nosso sistema de gestão, no aqui que
+é o grande diferencial. Processo.
+Processo com IA. Olha que lindo, ó. Mel
+chupeta, hein? Mel na chupeta. Beleza,
+Kelvin. Quero ter acesso a isso aqui.
+Caipa dentro da acelera. O link tá na
+descrição desse vídeo,
+tá? A gente entra daí depois no
+diagnóstico, uma estratégia. Mesma coisa
+aqui. O time vai trabalhar o cabeça da
+da agência é o cara que vai fazer o
+estrategista, se for que seja, se amou,
+vai fazer isso. Só que todo esse monte
+de informação, toda essa massaroca de
+informação vai vir para onde? Pras hags,
+pros agentes sendo treinados para ter
+que fazer uma vez só e não ter que fazer
+de novo, entendeu? mantém sempre esses
+agentes e esse monte de material fica
+guardado. Deixa eu te contar uma coisa,
+a coisa mais importante que você tem
+hoje é a sua individualidade, é sua
+capacidade de raciocínio, as suas
+ideias, porque de resto tudo tá na IA. A
+IA já, essas LLMs foram usadas, foram
+treinadas com todos os dados da
+internet. Então, cara, são extremamente
+inteligentes. O ponto principal é pegar
+a sua individualidade, a individualidade
+do expert, empregada da empresa e jogar
+lá dentro e utilizar ela de forma
+inteligente,
+orquestrada. e integrada para dar
+resultado.
+Eh, criação de plano tático, isso aqui
+acaba sendo ainda manual, mas a questão
+do calendário de conteúdo, estrutura da
+campanha, isso pode ser utilizado a IA,
+tá? A gente ainda não tá utilizando aqui
+porque no momento ainda não faz sentido.
+Definição de persona, mensagem. Isso
+aqui tudo é feito por IA, ó. Isso aqui é
+feito por IA. Isso aqui a gente faz por
+IA. Isso aqui a gente faz raspagem na
+internet, scrapping,
+ele faz esse estudo aqui. Daí o
+resultado, logicamente é feito por uma
+pessoa. E aí, a hora que entrar na
+execução, olha isso aqui, rapaziada, já
+mostro, já mostro. Presta atenção. Qual
+que é o foco principal? Expertou
+empresa, ter agentes específicos de
+marketing mais automações específicas e
+um conjunto de ferramentas que é
+compartilhado alinhados a resultados.
+Qual que é o motivo de alguém querer uma
+empresa de marketing, né, tipo uma
+agência de marketing, crescimento no na
+internet. Para quê? Para o
+posicionamento, engajamento, venda.
+Então existe todo esse monte de coisa,
+ele tem que tá ligado em geração de
+leades para vender alguma coisa ou não.
+Então essa massaroca de informação que é
+feita aqui no diagnóstico estratégico
+faz esse mapa estratégico do negócio, do
+negócio da pessoa, identificação do
+nicho, quais são as ofertas principais
+que pode ter, né, upells e down cells. E
+e em cima disso
+eh descobrir ali quem é o ICP, quem é o
+cliente ideal daquela pessoa, fazer uma
+análise de objeções e crenças
+limitantes, gatilhos de compra, canais
+de comunicação, todos voltados para quê?
+paraa hora que cair num motor criativo,
+numa engine criativa, fazer toda a
+coleta de dados, por exemplo, de forma
+automática, análise de base de
+performance automática ali nas
+campanhas, ter agentes de criativo,
+geração de COP, criação de de novos
+criativos, lead magnética, tipo, clica
+aqui que eu vou dar acessos para você
+esse Miro que eu tô, eu vou
+disponibilizar esse Miro para você. Aí
+você me dá o seu nome, seu e-mail e seu
+seu telefone e eu te dou isso daqui de
+graça, porque daí eu você é um lead para
+mim. Tudo isso para quê? Para gerar
+cliques, para cair numa LP, conversão,
+fazer uma pergunta, fazer uma filtragem
+inicial aqui desses leads. Isso cai no
+CRM. O que cai no CRM é lead frio, lead
+morno. O foco é aquecer esses dois caras
+para jogar para lead quente. Lead quente
+vem aqui, faz a venda, faz a conversão
+inteligente, pi, pós-venda e cliente
+final. Tá vendo? No final das contas,
+todos os os todos os clientes de uma
+agência de marketing querem ter essa
+máquina de expansão de vendas no digital
+aqui, ó. quer quer ter esse processo
+aqui, sacou? No final é isso que eles
+querem. A qual que é o grande ponto?
+Todos param aqui no tráfego. Por quê? E
+aí o tráfego não dá resultado. Tráfico
+por tráfego não dá resultado, não é só
+colocar dinheiro. Então assim, olha um
+outro ganho de eficiência que uma a
+inteligência artificial gera para
+empresa de agência de marketing, né? Ela
+entregar mais um um um overdelivery para
+cada cliente dela, cara. Isso permite
+ela cobrar cada vez mais e crescer o
+negócio, entendeu? Então assim, ó, isso
+aqui sim é como uma inteligência
+artificial. Olha que merda, ficou no na
+tela errada. Isso aqui sim é entregar
+resultado. Isso aqui sim é você usar IAD
+de formas que façam o quem está
+comprando ter retorno, ter ROI, retorno
+sobre investimento. Entenderam? Se você
+quiser conhecer mais essa
+infraestrutura, já te falei, o link tá
+aqui na descrição desse vídeo, clica lá.
+Se você gostou desse vídeo, você vai dar
+um joinha, você vai curtir, vai comentar
+aqui, vai me seguir também e ou me chama
+lá no meu Instagram também e dá um oi lá
+para mim lá que vai ser um prazer trocar
+informação com você sobre isso. Se você
+quer empreender, esse aqui é o caminho
+com IA. Quer empreender com IA, esse
+aqui é o caminho. Monta isso, monta uma
+consultoria estratégica e faz esse tipo
+de trabalho que eu tô fazendo. Eu tô
+provando na prática que isso aqui
+realmente é possível, tá? Ó, foi um
+prazer ter você aqui. Espero que você
+tenha gostado do conteúdo e tchau.

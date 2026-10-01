@@ -1,0 +1,483 @@
+nos últimos meses, melhor, nesse ano de
+2025, uma coisa ficou clara para quem tá
+no campo da inteligência artificial e
+não só consumindo conteúdo. O modelo de
+serviço literalmente está acabando e ele
+tá sendo substituído por sistemas de
+inteligência artificial que estão
+impulsionando o crescimento das pequenas
+e médias empresas, tá? Que que eu tô
+vendo aqui? Eu tô vendo operações serem
+destravadas quando elas param
+literalmente de vender horas, horas de
+serviço mesmo, então como serviço comum.
+E elas começam a vender infraestruturas.
+A tese aqui, ela é muito simples, ó.
+Você não deve vender inteligência
+artificial, chatbot, automação ou
+literalmente aceitar um projeto de
+desenvolver um sistema para um cliente.
+E é mais sobre você vender uma
+arquitetura que vai sustentar o
+crescimento de um mercado. Então você
+vai criar uma sua própria infraestrutura
+para um mercado e essa sua
+infraestrutura vai sustentar o
+crescimento dos players daquele mercado,
+tá? Então assim, ó, você vai construir
+essa infraestrutura uma única vez, você
+vai instalar ela e esse sistema ele vai
+trabalhar para você, significa que ele
+vai gerar recorrência. Se você entender
+isso, ou melhor, quem literalmente
+dominar isso em um mercado específico,
+em um nicho específico, vai liderar em
+2026. No último vídeo aqui do meu canal,
+eu expliquei o por vocês não deveriam
+montar uma uma agência de inteligência
+artificial ou vender e desenvolver
+sistemas, porque isso é voltado a vender
+serviço precificado em horas. E nesse
+vídeo aqui eu vou mostrar para vocês um
+blueprint completo, um mapa de como você
+deve construir um negócio de
+inteligência artificial que fatura R$
+100.000 R$ 1000 por mês em 2026. O Lucas
+Margente, ele é fundador da Margente. O
+Lucas ele saiu da CLT, ele era
+trabalhava na conta azul, na parte de
+segurança da informação, e ele começou a
+empreender num modelo de serviço,
+vendendo horas. E, pô, legal, ele rompeu
+a barreira e entendeu que ele pode gerar
+dinheiro através do próprio trabalho
+dele e conseguir os clientes. Mas ele
+bateu num platô. os próprios contratos
+que o Lucas estava fechando começou a
+consumir tanto tempo dele que ele não
+conseguia crescer mais. Ele tinha que
+ficar atendendo somente aqueles aqueles
+contratos e não conseguia pegar novos
+contratos. Esse é o problema de qualquer
+empresa de serviço. Hoje quando ele
+entrou paraa Acelera 360, nós
+transformamos o modelo de negócio do
+Lucas de serviço para infraestrutura de
+crescimento com inteligência artificial.
+Ajudamos ele a escolher um nicho, a
+entender os gaps daquele nicho, a
+construir todas as alavancas necessárias
+para suprir aqueles gaps, a criar a
+infraestrutura de crescimento com
+inteligência artificial dele, a lançar.
+E hoje o Lucas basicamente tá fazendo aí
+R$ 150.000 R$ 1000 por mês de
+faturamento. Ele é um dos principais
+players de inteligência artificial de
+growth AI para eh, ai, sumiu a palavra
+da franqueadoras. Basicamente, ele criou
+uma máquina onde ele o processo de todas
+as franqueadoras e ele faz a
+franqueadora faturar mais, vendendo mais
+franquia, com mais velocidade e
+principalmente produtizado. Ele vende
+para uma franquia, depois ele vende para
+outra, depois ele vende para outra,
+depois ele vende para outra. Ele cobra a
+implantação dessas empresas e ele recebe
+uma recorrência. Sabe o que significa?
+Ele tem uma carteira, ele não tá mais
+preso em ficar vendendo horas. Hoje eu
+tenho o prazer de falar que o Lucas ele
+é meu sócio, ele faz parte do meu
+ecossistema. A margente é acelera e
+assim como Lucas, nós temos outros mais
+de 30 outros parceiros que estão
+distribuindo infraestruturas de
+crescimento com inteligência artificial,
+a tal da Grow AI em nichos como clínicas
+de estética, clínicas demartológicas, eh
+eh dentistas, né, clínicas
+odontológicas, eh empresas de
+e-commerce, indústria texil, indústria
+química e por aí vai. Antes de começar o
+conteúdo, eu vou deixar aqui um convite
+para você tá comigo ao vivo numa sala
+fechada no dia 18/12
+de 2025. Esse é o último ciclo
+estratégico da Grofei. Então, nesse
+encontro, nessa sala, é onde nós vamos
+iniciar o nosso processo de parceria
+para 2026. Pessoal, tô criando essa sala
+fechada literalmente para destrinchar
+todo esse modelo de infraestrutura de
+crescimento com inteligência artificial
+para você, para que você entenda ele de
+forma completa, porque se fizer sentido
+para você e também fizer sentido pra
+gente, nós podemos ser parceiros de
+negócio em 2026. Então, se você quer
+transformar o teu modelo de negócio, se
+você quer chegar em 2026 com aplicando
+um modelo validado, passar por essa
+metamorfose, você tem que estar comigo
+nessa sala. Você vai clicar no link que
+tá aqui na descrição desse vídeo, você
+vai preencher o formulário e vai se
+inscrever. Então, se você quer construir
+algo que cresce sem você virar escravo,
+você tem que estar comigo no dia 18/12.
+Mais uma vez, o link tá aqui na
+descrição desse vídeo, tá? Agora vamos
+começar o conteúdo. Então o que que você
+vai aprender aqui comigo hoje? Você vai
+aprender os três pilares de um negócio
+de inteligência artificial que faz R$
+100.000 por mês. Qual que é o primeiro
+pilar? Primeiro pilar é infraestrutura e
+não ferramenta. Kelvin, o que que é
+ferramenta? Vamos lá. ferramenta é o
+seguinte, eh, eu faço um sistema para
+você, meu cliente, eu desenvolvo uma
+automação, eu desenvolvo um
+chatbotzinho, eu faço uma IA aí que
+processa alguma coisa para você e você
+precifica isso por hora. Significa que
+todos os meses você sempre tem que
+vender, sempre tem que vender. E
+provavelmente, o melhor é quase 100% de
+certeza que você vai entrar nesse fluxo
+de ficar atendendo clientes e demandas e
+problemas e não vai conseguir crescer,
+não vai conseguir desenvolver o teu
+negócio, tá?
+Eh, ferramenta é custo. Todo mundo olha
+como custo. E por olhar como custo, o
+seu cliente sempre vai te perguntar
+quanto que custa. É isso aí que você vai
+vender, ele falar: "Ah, quanto que custa
+isso? Ah, custa tanto nossa, mas fulano
+faz por tanto, tá muito caro. Dá para
+melhorar o preço, sabe? Depando, você
+entra na linha do commodity, do comum,
+do genérico. Não dá para você construir
+algo grande desse jeito aqui, tá? Já uma
+infraestrutura, uma infraestrutura de
+a Growth AI, eh você foca em criar e
+instalar um sistema que vai aumentar as
+vendas do seu cliente em 20%, que vai
+aumentar a margem do seu cliente em mais
+5%, que vai fazer o seu cliente crescer
+mais 30% no ano, por exemplo, de 2026.
+Você vê como é completamente diferente.
+Aqui em cima você desenvolve uma
+ferramenta e você não está atrelado ao
+resultado do teu cliente. Já com a
+infraestrutura de crescimento, com
+inteligência artificial, você
+literalmente está atrelado aos
+resultados. Sabe que eu comentei que a
+gente ajudou o Lucas a identificar o
+nicho, os gaps e as alavancas para
+resolver aqueles gaps? São essas
+alavancas aqui que fazem você realmente
+precificar de forma coerente, que fazem
+o seu cliente pagar bem para você, tá?
+Vamos lá. Infraestrutura, ela é
+investimento. Ela é considerada como
+investimento. E por ser considerada como
+investimento, o teu cliente vai te
+perguntar qual que é o ROI, qual que é o
+retorno sobre investimento. Ele não tá
+ligando se ele vai pagar 20, 30, 50, R$
+100.000. Por quê? Porque ele tá ligando
+para quando que esse valor volta para
+ele, ele começa a ganhar ainda mais.
+Então eu invisto 50.000, pá, nos
+próximos 3 meses a minha operação tá
+rendendo mais a ponto dos 50.000 voltar
+e as próximas operações
+é ter um resultado melhor. Você vê como
+é completamente diferente de você vender
+ferramenta. Num lado você cai num mar
+vermelho de commodity, no outro lado
+você literalmente cria um oceano azul de
+possibilidades e principalmente vira um
+aliado do teu cliente. Eu garanto para
+você que no nosso modelo de
+inteligência artificial, o cliente ele
+sempre vai querer que você faça cada vez
+mais para ele, que você gereção,
+tá? Isso muda literalmente tudo. E qual
+que é o segundo pilar? Tá? Mais
+verticalizado e menos generalista. Não
+seja uma pessoa generalista. Então você
+tem que nichar, você tem que escolher um
+mercado. Isso aqui é a base da nossa, do
+nosso modelo de negócio. Domine um
+nicho. Esse é o caso, por exemplo, do
+Mateus Mota, também um dos nossos
+parceiros, que tem a Zomed, ele lançou a
+Zomed e a Zomed, que é uma uma operação
+dentro da Zal Hub, ela é literalmente
+nichada para hospitais de médio e grande
+porte. E foi isso, por exemplo, que fez
+o Alan mandar um print pra gente aqui do
+saldo da conta bancária dele. Isso aqui
+é só de dividendos, tá? Então,
+novamente, pessoal, você vê como que é
+algo sustentável, algo que cresce, algo
+que empodera até no processo de vendas.
+Isso aqui vai fazer você conseguir
+construir uma carteira recorrente.
+Então, mesmo que você não venda no
+próximo mês, aqueles clientes que você
+conseguiu, eles estão empilhados, te
+gerando ali, por exemplo, um MRR de
+50.000, de 100.000, de 150.000. de
+200.000. E neste processo você vai ter
+saúde financeira, o teu negócio vai ter
+saúde financeira para que você possa
+avançar pro próximo pro pra próxima
+etapa, tá? E por que que ser eh nichar é
+bom? Simplesmente porque você ser
+especialista
+faz com que você possa cobrar mais. Por
+exemplo, clínicas elas pagam R$ 50.000
+R$ 1000 para especialistas em clínicas e
+elas não pagam R$ 50.000 para o cara que
+faz uma inteligência artificial genérica
+ou faz ou desenvolve um sistema para
+aquela clínica.
+A venda ela fica mais fácil. Então
+assim, você mostra três cases do nicho,
+o cliente ele fecha na hora com você
+porque você vai, além de ter os cases,
+vai estar atrelado ao resultado, tá? E
+você não precisa ficar convencendo, você
+só precisa demonstrar. Você só precisa
+mostrar para ele o que você vai fazer
+para trazer o resultado que ele está
+esperando, tá? A entrega, ela também
+fica extremamente mais rápida. Toda vez
+que você nicha, você vai conseguir
+produtizar este modelo de negócio. Então
+você vai reutilizar frameworks,
+processos, agentes. O primeiro cliente
+ali, ele vai demorar uns 60 dias para
+você entregar. O quinto cliente, ele vai
+demorar 15 dias, ele é muito mais
+rápido, entendeu? Então você consegue
+ter todo o aprimoramento do teu processo
+de entrega no primeiro ano, igual o
+Lucas eh da Margente fez, igual os
+outros nossos 30 parceiros fizeram. É
+possível. Hoje eu tenho parceiros que
+conseguem fazer implantações de 20 a 30
+dias. É muito, muito, muito rápido. E
+vamos lá.
+O terceiro pilar é você focar em um
+modelo AI first, não como um modelo IA
+como serviço. Novamente, se você focar
+em serviço, você está com o seu fim
+decretado. E o que que é esse tal desse
+modelo AI first? Seguinte, esse modelo
+AI first, eu vou explicar para você que
+vai estar comigo no dia 18/1
+às 20 horas. Lá nós vamos detalhar para
+você, porque o AI first, este paradigma,
+ele é base, eh, como que eu posso dizer?
+Base do alicerce da infraestrutura de
+Calma que o vídeo não acabou. Vamos lá.
+Deixa eu explicar o seguinte, Kelvin. Eu
+entendi aqui que o pilar é mais vertical
+e menos generalista, mas eu não consigo
+escolher um nicho. Então, nesse vídeo
+aqui, eu vou entregar para você o ouro
+sobre você verticalizar.
+Como você tem que escolher o nicho?
+Primeira coisa, ó, você tem que escolher
+um nicho para que você que você possa
+gerar demanda real ou um nicho que você
+possa vender essas soluções com de
+inteligência artificial com margem de
+lucro boa para que seja sustentável e
+principalmente um nicho que você possa
+construir uma autoridade sólida no
+mercado, tá? O que que é um nicho? Um
+nicho nada mais é do que a combinação de
+público mais dor específica mais
+contexto de compra. Por exemplo,
+clínicas que sofrem com agendamento 100%
+manual, escritórios de advocacia que
+demoram dias para revisar contratos,
+e-commerces que gastam R$ 7.000 R$ 1000
+por mês com suporte e atendimento
+humano. Você entende que não é sobre
+vender inteligência artificial para esse
+nicho e sim vender uma transformação que
+a IA pode gerar neste nicho, neste
+mercado em específico. E deixa eu te
+mostrar aqui, ó, para você entender qual
+que é a diferença de mercado, segmento,
+nicho e subnicho. Por exemplo, nesse
+caso aqui do escritório de advocacia,
+qual que é o mercado? Mercado é
+jurídico, mercado jurídico, legal,
+marketing. OK. E o segmento, escritórios
+de advocacia. Dentro do mercado
+jurídico, você tem uma amplitude de
+segmentos. Esse daqui, especificamente,
+é escritório de advocacia. Eh,
+escritório de advocacia. Qual que é o
+nicho? Olha aqui agora, ó. Escritórios
+especializados em análise e revisão de
+contrato. Isso é o nicho. É aqui que
+você tem que atacar. e o subnicho,
+escritórios que têm gargalos e lentidão
+na revisão de contratos e demoram dias
+para revisar. Isso é um subnicho,
+entendeu? Com atributos específicos
+daquele nicho. Isso aqui é muito bom. Só
+que toda vez que você vai descendo, a
+quantidade de players que você pode ter,
+a quantidade de clientes, mercado
+endereçável, vai diminuindo
+drasticamente, tá? E quais são os
+critérios para escolher o nicho?
+Basicamente aqui no nosso, nesse
+blueprint, eu separei cinco principais
+critérios que você tem que utilizar para
+que você possa escolher um nicho. Você
+já entendeu diferença de ferramenta de
+infraestrutura, você entendeu o pilar de
+que tem que verticalizar e não ser
+generalista. E o dia dai first, você
+somente vocês que tiverem comigo no
+evento, tá? Só lembrando, o link tá aqui
+na descrição desse vídeo. Então vamos
+lá. Como verticalizar? Quais critérios
+você pode usar para escolher esse nicho?
+O nicho, o eles têm que ter uma dor
+urgente e visível. Tem que ser um
+problema literalmente daqueles players.
+Por exemplo, uma dor de venda, dor de
+atração de lead, dor de melhorar o
+processo por ser processos muito
+manuais. Então é um problema que tem que
+estendo agora. É um problema que o dono
+já sente no bolso ou no tempo dele. Como
+que que é sentir no tempo dele? o dono,
+o dono daquela empresa, daquela, daquele
+negócio tá afogado e ele já não consegue
+mais sair daquela situação que ele tá.
+Ele tá comendo, tá corroendo o tempo
+dele, entendeu? Isso aqui é muito
+importante.
+Esse nicho tem que ser de um mercado
+ativo, tem que ser de um mercado que
+está crescendo.
+Entenderam? Como que você pode pesquisar
+isso? Você pode pesquisar nos principais
+órgãos, pode pesquisar relatórios do
+Sebrai, por exemplo, relatórios da
+Receita Federal, análise de mercado,
+acessar o site estatística e dar uma
+olhada nos relatórios de crescimento por
+mercados globais, porque o que acontece
+fora do país também se replica dentro do
+país. Isso aqui é muito importante. Esse
+poder de compra real,
+faz sentido você tentar vender para quem
+não tem dinheiro para pagar pela
+inteligência artificial? Não faz. Então
+você tem que olhar se aquele nicho, se
+aquele player tem poder de compra real.
+Por exemplo, todo mundo sabe que médicos
+tendem a ganhar bem porque o ticket do
+produto dele é alto. Logo, médico tem
+poder de compra, clínicas médicas t
+poder de compra, advogados, a mesma
+coisa. É por isso que geralmente eh
+esses nichos de médi spa em geral,
+mercado de mé spa é um mercado
+concorrido, mar vermelho, só que ele é
+mar vermelho para quem está oferecendo a
+mesma oferta. Mar Vermelho para agências
+de marketing, Mar Vermelho para agências
+de IA, Mar Vermelho para
+automatizadores,
+Mar Vermelho para fábricas de software,
+mas tá longe de ser Mar Vermelho para eh
+empresas de infraestrutura de
+tá? Então tem que ter poder de compra,
+timing e brecha de oferta. Tem espaço
+para você entrar agora com algo
+diferente? Tá tendo algum tipo de
+mudança prevista em legislação? é um
+órgão, é um mercado muito regulamentado,
+é um mercado muito fragmentado.
+Novamente, estamos no momento da Iá,
+logo o timing e a brecha de oferta, ela
+acaba sendo perfeita. E o principal de
+todos, validação rápida. Não significa
+que você vai escolher o nicho e vai
+casar com ele. Pelo contrário, você tem
+que validar de forma rápida, testar
+rápido, corrigir rápido. E se for um
+nicho morto, por exemplo, agências de de
+viagem, um nicho que é péssimo e você
+escolheu sem querer, aqui na validação,
+você consegue corrigir, tá? E deixa eu
+mostrar aqui, ó, quais são os principais
+erros que as pessoas cometem. Inclusive,
+muitos dos parceiros que entraram na
+Acelera cometeram esses erros no
+passado. E aqui a gente acaba corrigindo
+eles porque eles não podem errar
+novamente na escolha do nicho. Então,
+escolher nicho só por paixão, porque
+gosta e ignorar todos os dados, escolher
+setores enormes sem nichar, sem
+subnichichar, por exemplo, ah não, o meu
+nicho são empresas, o meu nicho são
+CNPJs, o meu nicho são todas as clínicas
+de estéticas faciais, cabelo, implante
+de cabelo, médico, e por aí vai. Não tem
+lógica fazer isso. Copiar oferta alheia
+sem entender o contexto, querer vender
+para cinco nichos ao mesmo tempo sem
+foco. É, é atirar para tudo quanto é
+lado. Esse aqui é o maior dos erros,
+entendeu? E forçar nichos que não
+responde. Então, só porque você gosta da
+ideia, você, ah, eu tive uma ideia
+mirabolante, você criou o produto, você
+entendeu do produto, aí você acha que
+isso realmente é fantástico? Deixa eu te
+falar, quem realmente vai falar se é
+fantástico ou não é o mercado. Quem vai
+falar se é bom ou não é o mercado. Por
+isso que você valida primeiro. Primeiro
+você acha quem quer comprar e depois
+você cria o produto para aquela pessoa,
+tá? Então assim, ó, se você quer ganhar
+dinheiro, se você quer fazer dinheiro,
+escolha um mercado ignorado, mas não
+saturado, onde ninguém consegue provar o
+valor como você, tá? Então esse vídeo
+pessoal basicamente é sobre isso. O
+blueprint é um pouco maior, mas eu não
+vou fazer a liberação de todos aqui,
+porque senão esse vídeo vai ficar
+gigantesco. Se você curtiu o meu vídeo,
+já clica aqui no joinha, já comenta aqui
+também e se para você fez sentido o que
+eu apresentei aqui e também nos meus
+demais vídeos e você tem interesse em
+ser um parceiro Acelera 360, esteja
+comigo nessa sala fechada que eu vou
+fazer no dia 18/12. Para isso é só você
+clicar no link aqui na descrição desse
+vídeo, preencher o formulário e cair lá
+no grupo do WhatsApp.

@@ -1,0 +1,559 @@
+bilhões de reais. Esse é o tamanho do
+mercado de seguros no Brasil. São
+corretoras de seguros cadastradas na
+SUSEP. Não sei se você sabe, mas as
+corretoras de seguro são o braço de
+distribuição de seguro das seguradoras.
+Seguradora só faz o seguro. Ela é a
+fabricante. E quem distribui isso são as
+corretoras. Sabe quantas corretoras tem
+uma infraestrutura de crescimento com
+inteligência artificial? Quase nenhuma.
+Só não é nenhuma, porque eu decidi
+entrar no rolê. Olhei para esse cenário,
+eu falei: "Cara, é aqui que eu tenho que
+montar o Inxoro OS, que é uma
+infraestrutura de crescimento de
+inteligência artificial, um sistema
+operacional para corretoras de seguro,
+para potencializar, fazer esses caras
+fazerem mais dinheiro." Resumo da ópera,
+o meu primeiro cliente, R$ 81.000 R$
+1000 de implantação, mais R$ 3.500 de
+recorrência, fora um comissionamento por
+ativação de base, por cliente novo
+vendido. Então, nesse vídeo aqui, eu vou
+mostrar para você este case. Vou mostrar
+como eu estruturei a minha oferta, vou
+mostrar como eu entendi o mercado para
+que você também entenda esses conceitos
+e possa empreender com inteligência
+artificial. O foco é claro. O foco aqui,
+ó, B, tá? O foco é simples. Eu quero que
+você entenda este modelo de negócio,
+entenda o que que é um modelo de negócio
+que permite você alavancagem. Eu não
+vendi chatbot, eu não vendi ferramenta,
+eu não vendi prompt, eu não vendi
+inteligência artificial, eu vendi
+crescimento, eu vendi mais faturamento,
+eu vendi a possibilidade do meu cliente
+poder escalar sem gastar dinheiro com
+tráfego pago e utilizando a própria base
+de leads adormecidas que ele tem lá na
+operação. Bora começar esse vídeo. Bora
+que lá vem pedrada. Presta atenção,
+velho. Quer empreender mesmo? Pega papel
+e caneta para você anotar que o conteúdo
+hoje é pedrada. Antes, vamos começar com
+o conteúdo, mas antes de eu chegar para
+você e mostrar aqui um pouco do Inxuro
+OS, você tem que entender o mercado.
+Vamos olhar pro mercado. Isso daqui é um
+mapa estratégico que eu montei, um dos
+materiais aqui da Acelera 360 para o
+mercado de corretoras de seguro, que é o
+mercado que eu ataco, tá? Então, o que
+que é uma corretora de seguro? Definição
+básica aqui. São empresas que
+intermediam, são empresas intermediárias
+que conectam o cliente com a seguradora.
+A seguradora, basicamente, ó, vou
+explicar para vocês aqui.
+Seguradora vem aqui,
+seguradora
+dura, escrevi errado. Aí, ela vai lá e
+fabrica o seguro. Ela cria o seguro, só
+que a seguradora não pode vender. Então,
+a seguradora precisa da corretora de
+seguros e a corretora vende aquele
+produto pro cliente final aqui na ponta,
+que a gente chama de segurado.
+segurado.
+E como que a que a corretora ganha? Toda
+vez que ela vende um seguro para o
+segurado,
+ela fica com um percentual de
+comissionamento de comissão, comissão,
+comião.
+Colocar o acento aqui. Fica um
+percentual de comissão. Esse percentual
+de comissão ele varia de produto para
+produto. Mas vamos pegar aqui, ó,
+seguro, seguro automóvel de 10 a 30%.
+colocar 25% que é a média de mercado de
+10 a 25% e o LTV desse desse desse
+segurado aqui é absurdo. Então assim, no
+primeiro ano ele contrata e cara, se
+esse cara continua com o carro, ele
+continua no segundo, no terceiro, no
+quarto, pro resto da vida com aquela
+corretora. a não ser que a corretora
+faça alguma coisa. Esse mercado tem este
+padrão de comportamento. Agora vamos
+olhar aqui pro tamanho do mercado. Por
+quê? Primeira coisa que você tem que
+entender, se você quer montar uma
+empresa de voltada paraa tecnologia,
+presta atenção nisso aqui, ó, que eu vou
+falar para vocês. Se você quer montar
+uma empresa voltada para tecnologia,
+que gere vai para você fazer 20, 30, 50,
+R$ 100.000 R$ 1000 por mês de
+recorrência, você tem que escolher um
+mercado que permita você fazer isso, um
+nicho que permita você fazer isso.
+Então, a primeira coisa que você precisa
+fazer é escolher um mercado que está
+crescendo e um nicho dentro desse
+mercado, um subnicho, no caso mercado de
+seguros, nicho corretoras de seguros que
+vendem automóvel, residencial, que é o o
+nicho que eu escolhi para atuar com o
+Insure OS. É desse jeito que vai fazer
+você gerar grandes recorrências, ou
+melhor, gerar uma carteira de clientes.
+Então, nesses clientes que eu fecho, eu
+fecho implantações de R$ 70 a R$ 90.000,
+mais recorrências que começam em R$
+3.500, mais comissão por vendas. Já você
+vai entender o por que eu consigo fazer
+isso. Uma pausa no vídeo aqui para te
+falar alguns números. Nós investimos
+mais de R 1 milhão deais em 2025 em
+inteligência de mercado, infraestrutura
+física mesmo. A gente tem mais de 150 m
+quadrados aqui em Alfavil de Baruiri,
+São Paulo para apoiar os nossos
+parceiros e alunos a empreender com
+inteligência artificial. De 2025 para
+cá, a gente validou mais de 300 ofertas
+de infraestrutura de A e mais de 30
+nichos diferentes. Então, nós temos
+alunos e cases em diversos nichos com
+diversos resultados. E podemos ajudar
+você a tirar sua ideia do papel em até
+90 dias, a empreender com inteligência
+artificial, a escalar o teu negócio
+atual com inteligência artificial.
+Então, se você quer participar do
+Acelera 360, vou te convidar a clicar no
+link que tá aqui na descrição desse
+vídeo, a preencher o nosso formulário e
+conhecer mais sobre o nosso programa de
+parceria. Bora, vem participar do nosso
+grande ecossistema, clica aqui agora
+porque estamos no melhor momento para se
+empreender. Não perca essa oportunidade.
+O meu foco, deixa eu pegar minha
+canetinha aqui. O meu foco, por exemplo,
+não tá em vender IA. O meu foco tá em
+entender o mercado, entender o nicho,
+qual que é, quais são as dores e gaps
+desse nicho. No meu caso aqui, ó,
+corretoras. Então, onde as corretoras,
+por exemplo, estão deixando vazar, onde
+elas estão deixando vazar dinheiro, onde
+elas estão perdendo grana, eu olho para
+isso aqui, entendeu? onde elas estão
+perdendo grana. E aí o meu papel como um
+empreendedor de tecnologia, um cara aqui
+que tá criando uma infraestrutura de
+crescimento com inteligência artificial,
+é ajudar ela a resolver este problema
+aqui. Como que ela vai resolver este
+problema aqui? Sim, com inteligência
+artificial. Mas aí eu coloco aqui uma
+infra
+de A e eu já vou explicar para vocês o
+que que é isso. Então, como ela eu não
+ela não tá perdendo esse dinheiro aqui,
+ela não tá deixando de fazer de pegar
+esse dinheiro, eu precifico em cima
+disso. Eu pego uma parte disso aqui e
+ofereço para ela falando: "Cara, olha,
+eu resolvo o teu problema, mas eu quero
+uma um pedacinho disso aqui." É desse
+jeito que eu precifico, é desse jeito
+que eu cobro. Eu cobro pelo valor que eu
+gero, pelo resultado gerado, pelo
+resultado obtido. Eu entro no game. E é
+por isso que eu consigo precificar.
+Então, para fazer isso, você tem que
+entender uma coisa. Antes de chegar em
+solução, em ferramenta, em LP, em COP,
+em agente de inteligência artificial,
+antes de tudo isso, o que eu tenho que
+entender é o mercado. O que eu vou
+entender o mercado. Então, que eu tenho
+isso aqui são vários nichos, né, que a
+gente tem aqui mapeado na Acelera. Eu
+vou te mostrar da corretora de seguros.
+Deixa eu aproveitar aqui para fazer um
+convite para você. Para você que quer
+empreender com inteligência artificial,
+para você que quer montar a tua empresa,
+para você que quer tirar sua ideia do
+papel, eu posso ajudar você na Acelera
+360. Acelera 360 nada mais é do que um
+ecossistema de empreendedores feito por
+empreendedores para empreendedores que
+querem empreender com tecnologia. Então,
+se você é dono de agência, gestor de
+tráfego, se você é deve, quer
+empreender, quer tirar sua ideia do
+papel, quer empreender com inteligência
+artificial, clica no link que tá aqui na
+descrição desse vídeo e se inscreve na
+Acelera 360. Lá eu ajudo você que não
+emitiu sua primeira nota fiscal, por
+exemplo, a emitir a sua primeira nota
+fiscal em até 90 dias. E para você que e
+para você que quer escalar tua empresa,
+eu vou ajudar você a escalar o teu
+negócio com infraestruturas de
+crescimento, com inteligência
+artificial. Se você quiser saber mais da
+Celera 360, clica aqui no link na
+descrição desse vídeo e se inscreva que
+meu time vai entrar em contato com você
+para te apresentar a nossa empresa.
+Agora bora lá, vamos entender esse
+mercado aqui, ó. Olha isso. São 151.000
+corretoras registradas no Brasil. São
+140.000 ativas. Então é um mercado, ó,
+que tá potencializado aqui, ó, para esse
+ano, crescimento de 12.2%,
+então é um mercado que tá crescendo,
+sabe? É um mercado que tem várias dores
+específicas e é nessas dores que eu
+bato. Então, quais são as dores
+principais, por exemplo, desse nicho?
+Aquisição de cliente, o K é alto,
+dependência de publicidade cara,
+concorrência feroz com Insurtex, US e
+Asus Pier, distribuidoras eh diretas de
+seguradoras comem margem. As
+distribuidoras aqui às vezes são
+corretoras cativas. Custo de aquisição
+cresce de 8 a 12% ao ano. Taxa de
+conversão baixa em campanhas
+tradicionais. CAC médio de R$ 150 a R$
+400 por cliente. Vocês estão vendo aqui
+que o custo de aquisição por cliente é
+uma dor? E aí tem outras dores, né? tem
+várias dores, é um documento bem
+completo aqui, inclusive com estratégias
+de go to marketing, mas eu não vou
+entrar eh eh nesse mérito. Inclusive,
+isso é um dos 80 nichos que a gente tem
+mapeado aqui. O mesmo eu tenho para
+assessoria de crédito, para eh
+recuperação tributária, corretoras de
+seguro, planejadoras financeiras,
+educação, automotivo, jurídico, salvo de
+estética. Bom, para cada nicho aqui a
+gente tem um mapeamento completo de
+diagnóstico de mercado, como que como
+que eu ataco, como que eu faço
+estratégias de go to marketing. Bom, se
+você quiser conhecer mais sobre isso
+aqui, entender mais, clica no link que
+tá aqui na descrição desse vídeo e entra
+na acelera. Mas vamos pegar aqui, ó, já
+que a dor do K é uma dor alta e no final
+das contas eu quero resolver este
+problema de vendas com inteligência
+artificial, com growth. Então, olha aqui
+a minha oferta. Aumente o nome da minha
+da minha plataforma Inxuro OS, né?
+Aumente o faturamento da sua corretora
+em mais de 30% em 90 dias, sem gastar 1
+de tráfego pago. Então ele aumenta o
+faturamento em mais de três eh em mais
+de 30% em até 90 dias sem gastar R de
+tráfego pago. Só que qual que é o meu
+nicho? Corretoras de seguro. Então uma
+operação EIF que extrai dinheiro da sua
+base de clientes, aumenta a renovação e
+multiplica as vendas com inteligência
+artificial, processo e humano. Como que
+eu faço isso? É uma corretora para quem
+tem mais de 5.000 clientes na base.
+Então o meu nicho é seguros no mercado
+de seguros, corretoras de seguros
+que muito importante tem mais de 5.000
+clientes na base. É para qualquer
+corretora, não é para uma corretora
+pequenininha? Não. Você poderia
+empreender pra corretora corretora
+pequenininha? Sim, porque a gente tá
+falando de mais de 140.000 corretores
+cadastrados no Brasil. faz uma continha
+besta. Olha isso aqui, ó.
+Se em média a gente tá falando que esse
+cara me paga 3500 por mês mais as
+comissões, vou colocar mais 2.000 de
+base aqui no mínimo, ou melhor, 3.500 +
+2.000 adicional de comissão, a
+recorrência mínima, por exemplo, que
+você conseguiria fazer seria de 5500. Se
+você tivesse 12 clientes, você já
+estaria fazendo 66.000 1000 de
+recorrência por mês, só fazendo isso
+daqui, tá? É SAS, não é IA. É IA
+aplicado de forma estratégica, é
+infraestrutura de crescimento com
+inteligência artificial. Entende o jogo?
+Legal. E como que eu faço isso? Aí eu
+mostro as dores para esse para esse meu
+cliente. Corretora tá travada, tá
+dependência dependência de tráfego pago,
+base mal explorada. Imagina o seguinte,
+pro cara ter aqueles 5.000 clientes ali
+na base, ele deve ter ali uns 50.000
+leads. 50.000 leads tranquilamente
+com a minha estratégia de reativação de
+base com inteligência artificial.
+Imagine que eu consiga puxar mais 2% de
+venda dessa base de dados aqui. Se a
+gente tá falando de 50.000
+leades antigos ou ex-clientes, 2% são
+mais 1000 vendas.
+A corretora ganha por comissão. Você
+lembra, né? Vamos colocar uma comissão
+média aqui de 15%
+e vamos colocar que a a média do preço
+do seguro é de R$ 2.500.
+Então, por venda a R$ 2500 de um seguro
+que não é nada hoje pro mercado, 15%,
+fica pra corretora R$ 375.
+Se eu puxar 2% de vendas vai dar 1000
+vendas. Então eu vou colocar aqui 375
+vezes 1000 vendas. Eu gero R$ 375.000
+a mais para essa corretora aqui, só
+convertendo 2% da base. Ah, consegui
+atingir só 50% dessa expectativa aqui.
+Então eu consegui só 1%. Dá 70. Ô, fiz
+errado aqui. É vezes 375
+x 0.5
+Então, na pior das hipóteses, eu gero
+mais R$ 187.000.
+no bolso dessa corretora, só
+retrabalhando
+a base.
+Como que eu precifico isso? Eu cobro em
+cima do que eu gero de resultado pra
+implantação. Eu cobro em cima do que eu
+gero de resultado por mensalidade mais o
+comissionamento, entenderam? Então, só
+de comissão aqui, se eu fosse falar, eu
+pegando aqui vai 2, 3%, eu já tenho uma
+boa grana mais adicional aqui de média
+por mês. Consegue entender? Não é sobre
+IA. Eu não vendia a IA, mas eu vendi o
+resultado. Então aqui o problema não é a
+falta de lead, é o dinheiro escondido na
+sua operação. Que que eu vou fazer? Vou
+fazer reativação de base, vou fazer
+renovação inteligente, vou fazer
+crossel, vou fazer opcel, vou fazer
+escala com inteligência artificial. O
+cara vai, o cara quer comprar o seguro
+de carro comigo, eu vou vender o seguro
+de celular, seguro de casa. O cara
+comprou o seguro de casa, eu vendo
+seguro de celular e o seguro de carro,
+seguro de bicicleta. Eu tento vender
+outras coisas a mais. E como que eu vou
+fazer isso? Simples. Eu crio toda uma
+estratégia, vamos pegar aqui, ó, de
+e-mail, de ligação, de reativação de
+base, de vendas. Cara, eu posso fazer
+toda uma estratégia, toda uma jornada
+para reativar esse cara. Então, por
+exemplo, uso o o Go High Level como CRM.
+Nesse caso, coloco as automações aqui de
+qualificação, de followup, de time, de
+gatilho. Faço integrações com APS de
+seguradora, doc zap para fazer cotação
+automática para facilitar o processo de
+venda. Não cotou, quer quer comprar
+automático, já compra por aqui, senão eu
+jogo pra mesa, entendeu? Faço todo o
+processo de pipeline de vendas, eu
+estruturo isso aqui e esse documento
+aqui me ajuda a fazer o quê? A
+produtizar. Significa que imagina assim,
+ó. Se eu fui lá e ajudei uma corretora e
+resolv gerei resultado para aquela
+corretora. Você concorda que o que eu
+fiz para uma corretora eu instalo na
+outra? E aí que a gente entra num modelo
+de negócio que eu digo para você de
+inteligência artificial, que é
+produtizar o que eu fiz na minha
+primeira corretora. Eu faço na segunda,
+eu faço na terceira, eu faço na quarta,
+eu faço na quinta, eu faço na sexta, eu
+faço na sétima, porque eu consigo
+produtizar
+todo o processo, entendeu? No final das
+contas, o que que eu não sou, tá? Deixo
+claro para quem chega aqui na minha
+landing page, eu não vendo uma, eu não
+sou só uma ferramenta de automação, eu
+não sou mais um chatbot de inteligência
+artificial, eu não sou um software
+isolado sem suporte, eu não sou uma
+promessa sem método. Eu sou tecnologia,
+mas processo, mas acompanhamento humano,
+agente de inteligência artificial
+especializado em seguros, playbook
+comercial pronto para usar. Então eu
+implemento o processo naquela empresa e
+eu trago resultados mensuráveis. Tanto
+que a primeira etapa da minha entrega é
+o quê? Fase zero, estratégia, discovery
+e planejamento. É aqui que eu entendo
+como meu cliente eh o que que o meu
+cliente precisa para reativar a base
+dele. É aqui que eu entendo como ele faz
+isso. É que depois eu faço fase do fase
+um, reativação de base. Fase dois,
+nutrição inteligente multicanal. Fase
+três, qualificação por voz com
+inteligência artificial. Vou fazer
+ligação também qualificação por voz. Ah,
+aqui eu uso o quê? Eleven Labs. Fase 4,
+classificação mais score com
+inteligência artificial. Fase 5,
+distribuição inteligente pros closers,
+se tiver. Fase seis, BI, proprietário
+pro meu cliente.
+E aqui, gente, vocês falam: "Nossa, mas
+não tem como você fazer isso". Eu ainda
+mostro para ele uma calculadora de ROI.
+Fal assim: "Cara, se o investimento for
+R$ 81.000
+e a sua taxa de comissão média for de
+R.000 e o seu ticket médio for de R$
+e eu fizer 80 vendas novas por mês da
+sua base de reativação, significa que eu
+gero mais tanto de comissão para você, o
+percentual de comissão mais tanto ainda.
+Minha taxa de efetivação sobre as
+vendas, que é 4% dos 20% dele, então vem
+um dinheirinho para mim. A minha
+mensalidade fica em 11.000,
+Só que ele tem aqui um payback de 3
+meses de investimento
+no projeto de ou perdão, perdão, em três
+meses ele recupera aquilo que ele
+investiu no projeto, considerando só o
+lucro que ele vai ter na operação. Então
+é, cara, vai custar X, vai, porém você
+tem esse retorno em três meses. E
+logicamente, como eu estudei o mercado,
+como eu estruturei, eu dou para ele a
+garantia disso, a garantia de que eu vou
+gerar aquele resultado, ou eu posso dar
+o dinheiro dele de volta, ou eu posso só
+receber o restante. Eu recebo lá 30%, e
+o restante parcelado, ele só paga o
+restante assim que eu gerar o resultado.
+Eu dou para ele essa garantia para que
+ele confie em mim. E desse jeito a gente
+vai fechando um, fechando outro,
+fechando outro. Então você que quer
+empreender com a inteligência
+artificial, você que quer montar o teu
+negócio, você tem que estruturar um
+modelo de negócio assim.
+Kel técnico para isso? Não, o técnico,
+quem é programador ou o desenvolvedor de
+software, ele tem grandes vantagens
+porque ele consegue criar toda essa
+ferramenta, desenvolver os agentes e
+tudo mais, mas você pode ter outros
+caminhos para fazer isso. Por exemplo,
+lá na Acelera, a gente tem toda uma
+infraestrutura já pronta para você
+literalmente conseguir. Você vai vender,
+você escolhe o nicho, você estrutura a
+oferta, você aplica o nosso playbook e
+assim que você vende, você pode usar a
+nossa própria infraestrutura de a e
+fornecer pro teu futuro cliente. Então,
+tipo, eu tiro toda a sua barreira de
+entrada. Ou você pode vender primeiro e
+depois você pode pagar para alguém
+desenvolver para você ou usar automações
+ou até mesmo usar ferramentas que já
+tenham esse tipo de solução pronta. Por
+quê? Porque o segredo não tá na
+ferramenta, tá na estratégia que você
+vai conectar por de trás, entendeu? Tá,
+tá em todo o conjunto da obra. Por isso
+que se chama infraestrutura de
+crescimento com inteligência artificial.
+De novo, vou deixar um convite para você
+aqui, porque esse canal aqui é sobre
+empreendedorismo, é sobre inteligência
+artificial, mas também é sobre business.
+Então, se você quer ajuda para
+se você realmente quer eh emitir a sua
+primeira nota fiscal em até 90 dias,
+acelera para você. Você vai clicar no
+vídeo. Se você é dono de agência, já tem
+um negócio, sai da automação, sai de
+venda de agente de a sai da venda de
+horas ou de escopo fechado e entra num
+modelo de negócio que vai permitir você
+fechar esses primeiros contratos. Talvez
+você ainda não saiba eh pit de vendas eh
+modelo de venda consultiva para fazer
+vendas high ticket desse jeito aqui. Mas
+não tem problema. Isso é um processo que
+dá para aprender, começa um pouco menor,
+mas entra num modelo de negócio que
+permita você alavancar. Porque com um
+com um cliente gera recurso financeiro
+para você investir em tráfego pago, para
+você atrair mais clientes e fazer isso
+virar uma bola de neve, entende? Talvez
+se você esteja aí, se você estiver num
+platô de faturamento, não tá conseguindo
+romper, talvez seja seu modelo de
+negócio. Sugiro você analisar com mais
+carinho tanto esse vídeo que eu mostrei
+aqui quanto outros do meu canal aqui
+para te encaixar num modelo de negócio
+que permita você fazer desse jeito.
+Saiba de uma coisa, não é sobre
+inteligência artificial, não é sobre a,
+é sobre resultado, é sobre gerar
+resultado na linha, na ponta. E do mesmo
+jeito que corretoras estão travadas,
+você tem outros e outros e outros
+nichos. São mais de 24 milhões de CNPJ
+que estão travados precisando de
+agentes, não agentes de A, mas sim você
+se tornar um agente transformador e
+apoiar estes nichos e essas empresas a
+se transformarem para um modelo AI
+first, onde a inteligência artificial
+vai gerar resultado para eles. Elases
+precisam disso. Então esse é o melhor
+momento para você empreender. Esse é o
+melhor momento para você se posicionar.
+em um modelo de negócio escalável, esse
+é o melhor momento. Acho que você sempre
+pediu para tá. Então agora o momento é
+de você aplicar. Fechou? Espero que a
+mensagem tenha sido passada. Espero que
+você tenha entendido. Comenta aqui o que
+você acha. Deixa aqui o seu joinha
+também. Deixa aqui o seu like ou
+dislike, mas tá entregue. Tchau para
+vocês e até o próximo vídeo.

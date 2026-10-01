@@ -1,0 +1,352 @@
+Nesse vídeo aqui eu quero te mostrar uma
+coisa muito assustadora, mas ao mesmo
+tempo excitante que tá acontecendo no
+mercado agora. E talvez você nem esteja
+percebendo. A inteligência artificial,
+ela não tá só mudando o mercado, mas ela
+tá criando uma nova classe de
+milionários. É, chega a ser,
+chega a ser um absurdo. E eu vou mostrar
+isso aqui para vocês, tá? Cara, na
+semana passada eu tava conversando com
+um seguidor meu, o Alex. Talvez ele
+venha até aqui comentar nesse vídeo, tá?
+Esse aqui é o Alex. Eu não tenho a foto
+desse cachorro aqui, né, para preservar
+ele, mas ele tem 17 anos de idade, é um
+seguidor, não é meu aluno da Acelera,
+cara. Ele tem zero experiência, ele
+nunca montou uma empresa na vida real. O
+pai e a mãe dele não são empresários e
+inclusive ele é de um local meio que
+humilde em Minas, tá? Moral da história,
+ele faturou R$ 50.000 R em um mês. É
+isso mesmo. Aí aqui agora, antes de eu
+falar para você o como ele faturou isso,
+eu quero te
+indagar aqui sobre dois caminhos. Qual
+caminho você acha que ele conseguiu
+fazer esse faturamento, né? Então tem
+temos dois caminhos. O primeiro caminho
+para ele ter feito esse faturamento, ele
+desenvolveu alguns agentes inúteis, ou
+melhor, ele pegou alguns fluxos e
+automações de N8N e saiu oferecendo
+automação para os empresários e para as
+empresas. ou ele criou alguns chatbots
+no WhatsApp e tudo mais, ou melhor, ele
+criou um microSAS no Lovable. Ele usou o
+Love para criar um microSAS e saiu
+vendendo na internet. Focou em vender
+para quem quisesse comprar, independente
+de quem que era o cliente e tudo mais e
+qualquer coisa. Ele falou: "Meus, meu
+ICP é o mundo inteiro, todo mundo pode
+comprar de mim porque todo mundo quer ir
+a ele apontou para isso. Você acha que
+ele foi para esse caminho aqui
+ou ele foi pro caminho dois? Qual que é
+o caminho dois? Ele identificou uma dor
+real e forte em um único nicho. Ele viu
+que poderia resolver essa dor com IA e
+montou uma infraestrutura de crescimento
+que vendeu. Que que vocês acham? É
+lógico, já tá aqui, ó. Duas vendas de
+25.000 cada. É lógico que é o dois, tá?
+Esse caminho um aqui é o caminho que a
+galera tá seguindo. Primeiro, quem tá
+seguindo esse caminho? empresas que
+estão tentando colocar os times de
+tecnologia para criar a gente, sair
+automatizando e fazendo acontecer. Vai
+fracassar. 95 das empresas, % das
+empresas falham em acelerar receita com
+inteligência artificial. Revele estudo
+do MIT. Desenvolvedor não sabe como tem
+que acelerar a receita. Você tem que ter
+um tipo de profissional específico que
+ou é o desenvolvedor que tem a mente
+empreendedora, aquele cara que quer
+empreender, ou é a pessoa da operação ou
+diretor que tem a mente visionária, que
+tá indo atrás da inteligência artificial
+e tá vendo o que dá para fazer, pedindo
+pra equipe de TI fazer. Se isso não
+acontecer, vai acontecer isso daqui. E
+se você tá seguindo este caminho aqui,
+ó, um, deixa eu te falar, você vai
+fracassar, tá? Não siga esse caminho um,
+mas fica nesse vídeo porque eu vou te
+mostrar o que o Alex fez e eu vou te
+mostrar o caminho correto, tá bom? Então
+o Alex,
+basicamente ele seguiu o caminho dois,
+ele identificou uma dor absurda e ele
+criou uma infraestrutura de crescimento
+que resolve um problema de fim a fim. E
+a infraestrutura dele é muito simples,
+cara. uma infraestrutura que integra
+agentes de IA mais CRM mais um workflow,
+que é um processo específico mais
+inteligência de oferta. Que que é
+inteligência de oferta? É o modo como
+ele vende essa oferta para experts. Olha
+que olha esse filtro aqui, ó. Olha o
+nicho dele. Experts, que já tem mentoria
+lançada e já tem mais de 50 alunos. Esse
+aqui é o nicho dele. O ticket dele é R$
+25.000. E o que que ele resolve com essa
+infraestrutura de IA dele? Ele diminui o
+ch de novos clientes. Então que aquele
+cara, que que é ch? É o cancelamento. O
+cara contrata, paga lá, vamos supor, R$
+20.000, mas ele cancela nos primeiros 7
+dias ou nos primeiros 30 dias.
+essa infraestrutura de a diminuir esse
+churn. Chern é despesa total, aumenta as
+vendas, mas recuperação de carrinho e
+melhora o processo de onboarding e
+suporte com inteligência artificial.
+Então ele ele juntou esses três caras
+aqui e ele deu um preço, R$ 25.000 de
+implantação, mais R00 por mês de
+sustentação. Esse moleque tem 17 anos de
+idade. 17 anos de idade,
+Alex. Ó, Parabéns.
+E é isso que você tem que fazer. É isso
+que você tem que entender. Essa aqui é a
+verdadeira virada de jogo. É isso aqui
+que você tem que entender. Não é sobre
+fazer IA, não é sobre saber IA, não é
+sobre dominar crew AI, Lchain, a Google
+ADK. Não é sobre você entender sobre
+N8N, teros todos os fluxos de automação
+e tudo mais. Não se trata disso. É sobre
+você saber aplicar. onde você aplicar
+isso, como posicionar e transformar em
+algo indispensável.
+Esse é o segredo, entendeu? Então o que
+eu quero dizer para você aqui nesse
+vídeo é não foque no dinheiro rápido,
+não foque no que a galera, por exemplo,
+dessas ã ã que estão ensinando você a
+programar ou a desenvolver esses agentes
+de estão falando: "Ah, vende automação,
+ganha dinheiro com nisso, você vai
+conseguir fazer 1000, 2000, R$ 3.000".
+não foca nisso, entendeu? Esse é o jogo
+errado. A barreira de entrada é
+extremamente baixa, a saturação é
+altíssima. Que que é saturação? Vai tá
+lotado de gente rapidinho. E os grandes
+players como Open AI, Microsoft, Google
+vão comoditizar
+essas funções de marketing, vendas e
+suporte o mais rápido possível. E aqui
+eu trouxe até algumas notícias para você
+ver. A Open AI quer disputar currículos
+com LinkedIn, por exemplo. Meta quer
+automatizar totalmente a publicidade de
+A até 2026. Google vai mudar para sempre
+a vida de agências, marcas e veículos de
+notícia com o Google IO. Então assim, é
+o que tem de acontecer. A meta tá
+colocando, por exemplo, formulário no
+WhatsApp, já o negócio vai ficar louco.
+Se você focar nisso, cara, seu ciclo de
+vida vai ser muito curto no
+empreendedorismo. Você vai se frustrar e
+você não vai conseguir fazer dinheiro.
+Kelvin, mas então aonde eu tenho que
+focar, meu Deus do céu, onde tá em
+oportunidade realmento,
+de inteligência artificial. Inclusive,
+no dia 4 de outubro, eu vou apresentar
+para vocês a minha infraestrutura. Olha
+o tamanho já do meu do meu é do meu do
+meu blueprint, hein? isso aqui tá
+um absurdo. Ó, a minha infraestrutura de
+A, eu vou apresentar ela para vocês
+aqui. Ela tá aqui, ó, no dia 4. Então,
+lá no meu workshop, chama, a minha se
+chama Growth AI. Eu vou explicar para
+vocês como que funciona desde a camada
+de atração. Agentes, por exemplo, de
+cópia de landing page, agentes para
+criação de landing page, agente para
+criação de tráfego pago de campanha de
+acompanhamento. CP, o que eu entrego pro
+meu cliente, COP pronta para nichos
+específicos, camada de aquisição, meus
+agentes de produto de venda direta,
+nuvem de agentes no caso, né? Nuvem de
+agentes para agendamento de call. Então,
+no dia 4 de outubro eu estarei fazendo
+um workshop ao vivo. Ao vivo, hein? O
+preço do ingresso é R$ 67.
+que pariu. E lá eu vou te mostrar
+como você pode aproveitar essa
+oportunidade de inteligência artificial
+para que você crie o seu negócio e
+fature aí pelo menos R$ 100.000 por mês
+com IA. Você vai clicar no link aqui na
+descrição desse vídeo, vai comprar o
+ingresso e vai cair para dentro desse
+workshop, hein? Então lá eu vou, deixa
+eu mostrar aqui para vocês, ó,
+rapidamente, ó, só, só o cheirinho. A
+gente vai passar sobre como você
+escolher o seu nicho. A gente vai falar
+sobre análise de mercado, identificação
+de gap, proposta única de valor. Então,
+como você cria sua máquina de valor? A
+gente vai falar sobre posicionamento
+estratégico, a gente vai falar sobre
+ofertas vencedoras, a gente vai falar
+sobre preços e margens, a gente vai
+falar como você desenha sua
+infraestrutura de A. Eu vou te mostrar a
+minha infraestrutura de A. Você vai ver
+ela rodando, funcionando. Você vai ter
+clareza em como você tem que estruturar
+a sua infraestrutura de ar. E eu perdi a
+minha apresentação aqui.
+É isso. E você vai sair desse workshop.
+São mais ou menos umas 6 horas que eu
+vou ficar com você te ensinando tudo
+sobre o que eu estou fazendo, como eu tô
+ganhando dinheiro, como os meus alunos
+estão ganhando dinheiro. No final você
+vai ter capacidade de construir a sua
+própria infraestrutura de ar, ter este
+pensamento, ver o futuro e seguir esse
+caminho aqui, ó. Chega de seguir esse
+caminho, tá todo mundo te falando,
+gente, tá sendo bombardeado de
+propaganda, falando, cara, fique rico,
+faça 10.000 1000 por mês. Quem que você
+conhece dos seus grupos que você
+participa de mentoria, de comunidade no
+code, que faz 10, 20, 30.000 por mês, tá
+tendo sucesso, que já faturou 100.000
+por mês com isso, não tem, entendeu?
+Então, algum problema tem aí nessa
+promessa, né? Então, vamos lá.
+Então, assim, ó, foque na em criar uma
+infraestrutura de crescimento, assim
+como o Alex fez, ele criou uma
+infraestrutura de crescimento voltada
+para expert com lixada, entendeu? E é
+por isso que você vai conseguir cobrar,
+quando você foca na infraestrutura de
+crescimento, você vai conseguir cobrar
+ali de 50, de 20 a R$ 50.000, por
+exemplo, mais um upfront por um projeto
+único, um único projeto. Não tô nem
+falando da recorrência. O Alex, por
+exemplo, cara, olha que loucura o preço
+dele aqui, ó. Cadê? 25 pau mais 15.00 +
+15.000 aqui no ano. R$ 15.000, não, R$
+18.000 R$ 1000 no ano que ele pegou a
+mais de um único cliente. Então o ticket
+dele por cliente aqui foi R$ 43.000.
+Um único cliente, único cliente em um
+único mês ele pegou dois, entendeu?
+Fazendo prospecção
+ativa no Instagram. Que que é prospecção
+ativa no Instagram? Chama os experts
+Instagram e oferece. Você também
+consegue. Ele tem 17 anos. Você tem
+quantos? Entendeu?
+Então beleza. Aí aqui qual que é o
+conceito? Ó, quando você faz isso, você
+constrói a solução sob medida. Então
+você, deixa eu só explicar aqui um um
+passo antes.
+Pensa assim, ó,
+Kelvin, mas cara, isso não dá para virar
+uma plataforma? Deixa eu até colocar
+aqui, ó. Dá, mas a vida é feita de
+estágios.
+Qual que é o primeiro passo? estrutura
+sua infraestrutura de ar para um nicho
+específico, com uma dor específico e
+resolve o problema deles, entendeu?
+Resolve. Quer ver? Ó, tem até um um
+passinho aqui que eu não coloquei aqui
+nesse vídeo. Deixa eu pegar aqui no meu
+material. Então, ó, se você vai escolher
+um nicho específico, você vai
+identificar um gap naquele nicho,
+Kelvin, não consigo achar um gap. Tem um
+método para isso. Por isso que,
+inclusive, você tem que vir no nosso
+workshop no dia 4 que eu vou mostrar. E
+aí você vai começar, por exemplo, a
+trair esses caras, vai criar o seu
+primeiro funil, um funil de VSL, vai
+fazer prospecção ativa ou funil do
+YouTube, igual o meu que seja, tem n
+funiis para eu te apresentar e você vai
+fechar os seus primeiros clientes e vai
+fazer a implantação dessa infraestrutura
+de ar. O primeiro vai dar mais trabalho,
+o segundo vai ser mais rápido, o
+terceiro vai ser plugin play, o quarto
+então plugin play, quinto plugin play.
+Depois que você se capitalizou com isso,
+você vai pro próximo estágio envelopar
+tudo isso dentro de uma plataforma,
+montar um ecossistema em volta. Então,
+sim, dá para fazer, dá para criar um
+ecossistema, mas não é no D zero. No
+Dzer é você juntar todas as peças e
+resolver um problema fim a fim,
+entendeu? Então você constrói a solução
+sobre medida, instala uma vez e libera o
+valor contínuo sem depender de de
+retentores de mensalidade. Você não
+precisa ficar se preocupando com o turn
+aqui.
+Então, por exemplo, uma clínica
+odontológica que ela paga ali, você vai
+vender para ela por R.500
+por algo que tecnicamente ela pagaria R$
+200 por mês de mensalidade, R$ 300 por
+mês. Por que que ela paga mais? Porque
+ela tem a percepção de valor é outra.
+Então, a a percepção de valor não está
+na automação, mas no sistema completo de
+crescimento. Por que que ela paga?
+Porque você vai fazer essa clínica
+faturar mais. Você vai trazer três
+pilares para ela aqui, ó. Principais, ó.
+aumento de
+aumento de faturamento
+mais margem
+e possibilidade de escala.
+Essa aqui é a língua do empresário. São
+os três pilares. É a tríade do
+empresário, escala, faturamento e
+margem. Pronto,
+a infra de A você consegue trazer essa
+visão, entendeu? Então assim, deixa eu
+deixar aqui um ponto para vocês, ó.
+Timing tudo. Quem entra cedo, mesmo sem
+ser perfeito, ganha muito. Quem espera
+para entrar tarde, mesmo sendo
+excelente, ganha pouco. Quem chega
+primeiro, bebe água limpa. Entendeu?
+Faça como Alex. Começa a ganhar os seus
+primeiros R$ 50.000. Para de ficar
+tentando escalar e ganhar 2, 3, R$ 4.000
+com IA. Se Ah, tem um outro ponto. Quero
+ver, quero ver você no dia 4 comigo no
+meu workshop. Belezinha? Se você gostou
+desse vídeo, já dá um joinha, já dá um
+like, já se inscreve no meu canal, já
+comenta aqui também e me segue lá no
+Instagram também, fechou? Um abraço.
+Fica com Deus. Eu espero que vocês
+tenham entendido o recado e tenham
+gostado desse vídeo.

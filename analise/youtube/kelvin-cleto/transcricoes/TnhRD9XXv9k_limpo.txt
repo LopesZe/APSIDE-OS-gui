@@ -1,0 +1,986 @@
+Você quer empreender, mas estão te
+empurrando para fazer microssa. Estão te
+empurrando para fazer agentes de
+inteligência artificial, estão te
+empurrando para montar uma agência de
+inteligência artificial. Só que tudo
+isso aqui é raso demais. Isso aqui não
+se sustenta. Já ouviu aquela máxima do
+bom e barato não existe? É o mesmo aqui.
+Você já ouviu falar de alguma coisa que
+seja rápida de fazer e que dê muito
+dinheiro? Não, isso não existe. Isso aí
+é mais uma isca para te pegar. Mais uma
+isca para te pegar. Agora, se você quer
+empreender de verdade, você tem que
+pensar em criar uma infraestrutura de
+negócio, algo que realmente agregue
+valor pro teu cliente, juntar dados,
+CRM, gestão, treinamento, IA dentro do
+processo daquele seu cliente e aí sim
+com isso, você criar algo robusto
+suficiente para que o seu cliente ganhe
+eficiência operacional e você também
+ganhe cobrando por esse serviço. É tanto
+que eu falo sobre consultorias
+estratégicas inteligência artificial.
+Hoje, se eu fosse montar um negócio, eu
+focaria em montar uma consultoria
+estratégica, inteligência artificial, só
+que olhando com a visão de futuro de
+montar uma infraestrutura de negócio,
+não para um nicho específico. E para
+clarear um pouco mais para vocês, é
+sobre isso que a gente vai falar aqui.
+Hoje eu vou montar um negócio do zero
+com vocês. Eu vou fazer essa simulação.
+Vamos montar uma consultoria
+especializada em inteligência
+artificial. Vamos estruturar ela.
+Inclusive vou te mostrar como eu
+venderia, entendeu? Para que você
+realmente, você que quer criar algo
+robusto, que quer criar algo que faça
+sentido, possa executar isso também, tá
+bom? Ah, Kelvin, mais e software house,
+cara, tá 5 anos atrasado. 5 anos
+atrasado. Foca aqui. Vem comigo. Vem
+comigo. Então, vamos lá. Só vamos
+recapitular aqui o que a gente aprendeu
+na última, no último vídeo que eu fiz
+sobre ecossistema. Então, por exemplo,
+esse negócio de ecossistema é tão real
+que você pega, por exemplo, Microsoft,
+olha ela aqui, ó, com seu próprio
+ecossistema, Microsoft é uma empresa que
+tem só Windows. Não, pelo contrário,
+Windows representa 16% da Microsoft. Ela
+tem o SAS do Office, ela tem toda uma
+infraestrutura de serviço em nuvem, ela
+tem jogos, ela tem plataforma SAS igual
+LinkedIn, específica para mercado. Eh,
+ela vende notebook, vende o tablet
+surface, você tem linha de jogos, ela
+tem um monte de coisa aqui. Se você vem
+paraa Magalu, ecossistema Magalu, mesma
+coisa. O que que a Magalu tem? Tem a
+Logb, tem o canal Tec também aqui, ó,
+que é conteúdo educativo online, Magalu
+Entregas, Magalu Pay, Magalu Pagamento,
+Consórcio, Luía Seg, Luía Labs e por aí
+vai. Outra estrutura, outra outro
+ecossistema de uma empresa. Então, se
+você vê a Microsoft, eu já mostrei para
+vocês, Amazon, mesma coisa também, toda
+uma estrutura de ecossistema por trás,
+né? O ecossistema da Amazon. A gente tem
+lá eh Amazon Care, tem a Amazon Prime,
+tem o e-commerce da Amazon, tem a
+logística e, cara, tem um monte de
+coisa. Qual que é o X da questão aqui?
+Isso reforça como ter um ecossistema é
+muito mais robusto. Então, o conceito é
+que o teu cliente não te troque por
+apenas R$ 10, R$ 20 de diferença. Não é
+só preço, é valor. E eu vou te ajudar. a
+gente, na verdade, nós vamos fazer isso
+hoje. Então, eu vou pegar este conceito
+de de ecossistema, eu vou desenvolver
+aqui uma empresa do zero junto com
+vocês, aplicando a metodologia que eu
+uso lá na Acelera 360 e a gente vai
+tirar um negócio do zero aqui. Então,
+vamos lá, vamos começar aqui. Deixa eu
+deixar meu tablet de lado porque agora a
+gente vai trabalhar 100% aqui no
+computador. Então esse aqui é o
+framework que a gente aplica pros nossos
+alunos aqui da Acelera, né, para ajudar
+eles a estruturar os seus próprios
+negócios. Então qual que é o conceito
+principal deste framework aqui? Cara, a
+ideia a gente tem de balde, né? Qual que
+é o grande ponto? Qual a ideia que vale
+a pena tirar do papel? Qual a ideia que
+vale a pena se esforçar? Então, pra
+gente saber isso, a gente aplica aqui o
+link canvas, que basicamente ali vai me
+ajudar a entender a dor que a gente vai
+resolver. E daí a gente aplica também
+uma projeção financeira paraa gente
+entender as despesas e as receitas que
+aquele negócio novo pode gerar. É para
+ver se é um negócio que realmente para
+de pé, que faz sentido. Então isso aqui
+vai ajudar a gente a ter uma visão de
+custos e receitas e principalmente
+entender onde a gente tá hoje. Porque
+assim, não adianta você querer criar um
+negócio bilionário se você não tem um
+tstão no bolso, se você tá tentando sair
+do zero. Então se você tá saindo do zero
+com o teu negócio, o primeiro passo que
+você tem que buscar é construir caixa,
+atingir os seus primeiros 50.000 de
+faturamento. Esse é o seu foco, saca?
+Esquece fazer um negócio de 2 milhões, 3
+milhões, 10 milhões. Esquece. Foca em
+fazer os seus primeiros 50.000 de
+faturamento, depois os seus primeiros
+100.000 de faturamento, depois seus
+primeiros 500.000, depois seu primeiro
+milhão de faturamento e por aí vai.
+Então a gente tem que ser claro e
+conciso em cima daquilo que a gente faz.
+E aí a gente tem a ideia, teve a ideia,
+vamos validar antes de desenvolver.
+Então qual que é a ideia aqui? tive a
+ideia, vamos validar ela. E a melhor
+validação é venda. Inclusive eu te vou
+ajudar aqui vocês a vender até o final
+desse vídeo. Então, vamos lá. Vamos
+supor nossa ideia. Qual que é a nossa
+ideia aqui? Vamos montar uma
+consultoria. Consultoria especializada
+inteligência, inteligência artificial.
+Esse aqui é o nosso foco, tá, Kelvin? O
+que que é diferencial? O que que é uma
+consultoria especializada em
+inteligência artificial? É o seguinte
+conceito, é uma consultoria como
+qualquer outro, mas a diferença é que
+nós vamos olhar para aquele cliente, em
+vez de sair vendendo chatbot, em vez de
+sair vendendo a gente, em vez de sair
+fazendo tudo isso, a gente vai pegar o
+cliente e vai falar o seguinte: "Fulano,
+vem aqui, deixa eu entender o seu
+processo. Eu vou mapear o teu processo e
+depois que eu mapear o teu processo, eu
+vou encontrar qual que é a melhor
+solução de A. ou o melhor software, qual
+que é a melhor tecnologia para que você
+tenha realmente um ganho de eficiência
+operacional. Então, as pessoas pagam por
+aquilo que tem valor, entendeu? Então,
+cara, ou ela vai ter uma redução de
+despesa, ou ela vai ter uma um aumento
+no faturamento, ou ela vai ter uma
+otimização no processo, uma velocidade,
+uma maior velocidade no processo, ela
+tem que ter algum retorno. Então, cara,
+qual que é a ideia? Paramos de vender
+chatbot, paramos de vender essa merda
+toda e vamos vender o processo
+automatizado, um processo tecnológico,
+saca? Vamos vender a qualidade de poder
+colocar um sistema que realmente atenda
+a dor daquele cliente. Então, vamos
+estruturar esse sistema. Então, essa
+essa essa empresa, né? Eu gosto de
+começar pelo nome, já sei o que ela vai
+fazer. Então, qual que é o nicho dela?
+Que por que que tem que nichar, cara?
+Tem que nichar, não dá para você fazer
+algo genérico, uma consultoria genérica,
+não. Loucura. Então aqui a gente vai
+atender, eu vou usar que foi feita ontem
+na na aula da Celera. Profissionais de
+medicina ou donos de
+consultório médico. Esse aqui vai ser o
+nicho público médico. Dessa vez eu usei
+os barbeiros da última vez. Então isso
+aqui é um nicho específico para esse
+negócio
+aqui. Quer ver? Agora vamos dar um nome
+para essa consultoria. Tem que ter nome,
+as coisas tem que ter nome. Vou chamar
+ela de
+Cortix. Kv. Por que Corlitics? Porque é
+um nome muito tecnológico e bonito.
+Bonito.
+Soluções.
+Eh, soluções
+empresariais LTDA. Esse aqui é o nome da
+empresa. Vou abrir uma limitada para
+isso. Olha que nome legal. Aqui aqui já
+começa o branding. O meu branding já
+começa aqui, ó. Aqui é o meu primeiro
+ponto de branding. Mais um. Por quê?
+Porque não é o Kelvin Clet Gonçalves, me
+não sei o que lá. Ó, mais um pro brand.
+O nome tá muito bom. Vamos ver se o
+domínio tá livre. Tá livre. Quem quiser
+comprar, montem aí, ó. Corics, nome
+muito bom. E agora que que a gente faz,
+cara? Vamos já fazer um logo. Vamos dar
+uma cara para esse negócio. Tem uma
+ferramenta chamada Smash Logo. Muito
+bacana. Quer ver? Cor
+lic com y
+lic. Opa,
+Licx. Vou criar aqui um logo rapidinho.
+Vamos lá. Slogan. não sei.
+Ã, deixa eu ver. Eh, consultoria em Ia e
+automações para negócios. Consultoria em
+IA e automações para
+negócios. Agora aqui ele vai montar o
+logo para mim. Então, olha isso. A minha
+empresa já tem um branding. Só depois eu
+pegar o Canva para montar uma proposta
+comercial, para montar uma apresentação,
+para escrever lá missão, visão, valores.
+Olha que louco, ó. Então, tá aqui, ó. Ós
+gostei dessa, ó.
+Corltics. Olha que bonitona, hein? Ó,
+Corlitics.
+Corltics. Aqui. Vamos dar uma roubada
+nesse logo aqui. Quer ver? Dar um print.
+Começamos. Agora vamos fazer o seguinte,
+ó. Que que eu falei? Vamos fazer o
+Canva. Deixa eu pegar aqui o modelo de
+canva que eu tenho no framework. Vamos
+ver. Vamos pegar um modelinho aqui.
+Aqui. Vamos pegar esse do SDR.
+Vamos aqui. Aqui infraestrutura de
+negócio. E agora vamos desenhar o link
+desse dessa ideia dessa
+empresa. Olha, vocês vão ver como isso
+aqui vai trazer uma uma clareza, uma
+claridade em cima do conceito da ideia.
+Então aqui eu vou colocar aqui,
+ó, o nome da empresa
+Carlitics. Consultoria especializada.
+especializada em IA, focada em
+médicos barra hospitais, clínicas, etc.
+Profissionais da saúde, empresas da
+saúde, né? Tá aí aqui, primeira coisa,
+se você escolher um nicho, você vai ter
+que entender, você vai ter que entender
+qual que é o problema daquele nicho,
+qual que é o problema que você resolve,
+Kelvin, não sei qual que é o problema.
+você vai ter que estudar sobre aquele
+nicho ou sobre os concorrentes daquele
+nicho. Você vai ter que dar um jeito de
+descobrir isso, porque você tem que ter
+clareza em cima dos problemas, porque
+você vai ter que dar solução para esses
+problemas. As pessoas vão pagar pela
+solução, aqueles problemas estão
+causando dor para elas, entendeu? Então
+essa que é a ideia de você resolver, de
+você montar o Canva, você pensar um
+pouco mais no teu negócio de uma forma
+mais estruturada, né, para você
+conseguir eh deixar ele mais robusto,
+sacou? Entenderam? Entendeu o conceito?
+Então vamos lá, vamos preencher aqui o
+nosso o nosso o nosso Canva. Vou colocar
+aqui qual que é o problema que minha
+consultoria resolve.
+Deixa eu pensar aqui. Pequenos, pequenos
+médios
+negócios não são
+digitais. Então, baixa digitalização dos
+processos, saca? Falta de
+eficiência operacional em processos
+manuais e
+repetitivos. É um outro problema que
+esses caras têm.
+O agendamento de clínicas é uma
+porcaria. Então, por exemplo,
+eh a agenda eh falta falta de qualidade
+no processo de agendamento e no
+atendimento ao cliente é um problema
+sério, entendeu? Pós-venda praticamente
+zero. Então, ó,
+pós-venda não existe. Então, não existe.
+Já viu alguma clínica que te manda
+perguntando: "E aí, você tá bem?" tomou
+aquele medicamento lá, como que você tá?
+Melhorou, não
+melhorou? Não existe. E aqui você vem
+construindo todas as dores, ó. A a
+clínica não é falta de
+visibilidade.
+Visibilidade eh no eh ã em nos dados
+financeiros do
+negócio. Não tem
+BI. Você acha que uma clínica vai ter
+BI? Não vai.
+Não vai. Eles não sabem qual que é a
+taxa de retenção dos seus clientes. Eles
+não têm noção de qual que é o custo de
+aquisição deles. Então, clínicas
+geralmente brigam, elas não têm noção,
+elas não sabem, não sabem se posicionar
+no digital para trazer novos
+clientes, saca? Então, ela tem muita ela
+tem muita eh volatilidade com relação à
+receita. Então, olha aqui. Aqui eu vou
+desenhando todas as
+dores, todos os problemas que eu enxergo
+para esse nicho que eu tô atuando dentro
+da minha empresa. Qual que é a solução
+que eu vou dar, né? Qual que é a solução
+que a minha consultoria entrega? Então,
+qual que é o meu produto principal aqui
+da minha consultoria? O primeiro, o
+primeiro, primeiro produto, primeira
+solução que eu entrego é o
+diagnóstico de maturidade digital.
+Então, o que que é o diagnóstico de
+maturidade digital? É aqui onde eu vou
+eh analisar quais sistemas aquela
+empresa já tem, o que que ela pode ter,
+ganhos de eficiência operacional ou não.
+Aí depois eu entrego a
+consultoria
+estratégica em tecnologia. Eia aqui eu
+realmente desenho o processo para ela e
+falo o seguinte: "Olha, você pode ter x%
+de ganho de eficiência se você
+implementar, por exemplo, um CRM, se
+você implementar um chatbot para
+atendimento ao cliente, se você
+implementar tal sistema, tal ferramenta
+para fazer gestão dos seus processos, se
+você implementar o Power BI para fazer
+controle dos seus números e por aí vai.
+Então, olha como é simples, saca? Olha
+como é simples. Isso é um outro produto
+que eu entrego aqui também. Por exemplo,
+a gente também entrega, qual que
+soluções que a gente faz também? A gente
+implementa implementa soluções de
+mercado como CRM,
+ERP, automações, chatbots. Você não
+precisa desenvolver. Que desde quando
+falou que você precisa desenvolver? Você
+pode fazer uma bela de uma implementação
+de um click. Se a gente tiver falando do
+começo, então, se a gente tiver falando
+do do vai do início da sua operação
+aqui, ó, tô sem dinheiro nenhum aqui. Tô
+sem sem grana para começar o meu
+negócio. Meu nível de financeiro
+atualmente é baixo para fazer a Cor Lit
+rodar 100%. Então, cara, a venda aqui,
+ó, meu processo de venda, de validação,
+vai ser em cima desses produtos. Então,
+eu vou implementar o chatbot de mercado,
+eu vou ganhar menos, vou. Mas lembre-se,
+o foco inicial pro meu, para quem não
+tem nada no caixa, é criar corpo, é
+criar caixa, é criar robustez financeira
+para para conseguir dar um salto maior.
+O grande problema é que vocês querem ter
+saltos rápidos. Vocês querem faturar 1
+milhão, 2 milhões, 3 milhões, assim, ó,
+de forma rápida. E aí vocês caem nessas
+ilusões de ir para um microSAS, de ir
+para um curso online, de ir no produto.
+Não é tão fácil quanto parece. Eu digo
+isso porque a acelera começou nesse
+modelo do digital. A gente faturou muito
+rápido, sim, mas não é, não foi tão
+simples. A gente teve que colocar
+capital, tenho que entregar um conteúdo
+de alto valor aqui para você no no no
+YouTube, no Instagram, sabe? Tem gasto
+de energia para fazer isso aqui rodar.
+Tem pessoas já envolvidas sem time
+comercial. Então assim, comece
+entendendo o ponto que você tá hoje.
+Qual que é seu foco inicial? Estabeleça,
+por exemplo, qual que é a sua meta.
+Então, minha meta, eu tô tô
+zerado de caixa, K. Zerado de caixa.
+Então, sua meta inicial é, ó, faturar os
+primeiros
+50.000. Kelvin, mas parece um
+número tão distante 50.000, cara.
+Imagina o seguinte, que cada diagnóstico
+de A gente cobre eh R$. Cada
+diagnóstico de A gente cobre R$.500.
+Então vamos quebrar R$
+50.000 em R$
+15.500. 33.3 cliente. Vamos colocar 34.
+Então 50.000 em clientes significam 33
+clientes, certo? 33 clientes. Vamos
+colocar aqui que você vai fechar uma
+média de são seis, sete vendas no mês.
+Você vai fechar sete vendas no mês. 33/
+7 são 4.7 meses. Então aqui você vai
+demorar
+4.7 meses. Vai colocar aqui, ó, 5 meses
+para bater os seus 50, os seus primeiros
+50.000 de
+faturamento. E aí, qual que é o jogo
+aqui? O jogo aqui é o seguinte, nesse
+processo de você fazer os seus primeiros
+50.000, você não pode queimar todo esse
+dinheiro. Então você como dono do teu
+negócio, você tem que dar um jeito de
+deixar caixa pra tua empresa, porque
+você precisa respirar, sabe? Comos seus
+próximos 5 meses, você tem que fazer
+50.000 em 2 meses, 3 meses, um mês. E
+essa que é o rolê, porque o seu próximo
+salto é ir pros 100.000
+E depois seu próximo salto vai ser ir
+pros 500. Porque senão o que vai
+acontecer? Se você gastar tudo que você
+ganha, você não vai ter dinheiro, tudo
+que você fatura, né? Você ganha, não,
+que você faturou, você não vai ter
+dinheiro para reinvestir no seu negócio.
+E o que vai acontecer? Você vai virar
+escravo do teu business, da tua
+consultoria, saca? Sabe aquelas pessoas
+que só sabem fazer landing page e vivem
+fazendo landing page? É por causa disso,
+porque elas viram escravas. Kelvin,
+quero fazer em menos de 5 meses. É só
+você vender mais. Vende mais de sete
+clientes por mês. E na moral, a um
+ticket de R$. É fácil, hein? É fácil. É
+fácil. Não é difícil não. Hora que se
+pegar para vender isso aqui é fácil.
+Então, ó, vamos implementar só isso
+inicialmente aí. Vamos, vamos adicionar
+algumas outras coisas aqui, ó. Vamos dar
+um treinamento. A gente também vende
+treinamento. Treinamento e suporte.
+suporte para times comerciais
+operacionais. Então, já já incrementa no
+teu ecossistema. Olha que legal aqui, ó.
+Aqui começou a ideia do ecossistema, só
+que começou de uma forma muito primária,
+né? Mas, ó, você tem aqui soluções que
+você tem aqui na parte de soluções, você
+já tem lá o CRM, vamos supor, você
+coloca o Pipefy, aí você implementa para
+ele também um
+um click ou Notion para ele fazer gestão
+do processo dele. Aí você vai aqui em
+soluções, implementa também a edus para
+fazer controle do tipo treinamento do da
+equipe dele. Aí você implementa aqui um
+um aqui um nesse CRM aqui é o CRM, tá?
+Aqui nesse CRM aqui você coloca algumas
+automações. Automações com N8N, saca? Aí
+você coloca aqui um chatbot, usa o chat
+base ou desenvolve o seu próprio chatbot
+que seja. É, é indiferente. Você começou
+a construir aqui um ecossistema. Aí aqui
+você tem a parte de treinamento
+estratégico. Então o que que é um
+treinamento estratégico?
+Você vai ensinar o médico a pensar ou o
+dono da da empresa a
+pensar na em qual é a melhor tecnologia
+de inteligência artificial para ele, o
+que realmente faz diferença, como ele
+melhora o processo dele, como ele piora,
+como ele melhora, como ele melhora a
+eficiência dele, saca? Você começa a a
+treinar e ensinar aquele médico sobre a
+sua área de tecnologia, a sua área de de
+de consultoria. você entrega valor
+estratégico para ele, entendeu? Aí você
+tem aqui dados.
+Então, por
+exemplo, aqui em dados, em dados você
+pode entregar, por exemplo, um Power BI
+para fazer integrando com todos os dados
+aqui de cima dessas soluções para você
+montar para ele um analytics, para ele,
+para aquela empresa fazer a gestão dela.
+Vamos supor aqui em soluções, você pode
+ajudar ele a implementar um um RP de
+mercado também, um sistema de mercado já
+de médicos, específico dos médicos. Você
+pode inclusive fazer parcerias com esses
+sistemas para você indicar e ganhar
+comissão em cima dele. Você faz a
+implementação desse cara até você
+construir caixa para você criar a sua
+solução, o seu CRM.
+até você fazer caixa para você criar o
+seu sistema de gestão. O seu sistema de
+gestão. Esse é o segredo. Esse é o
+segredo, ó. Ter a visão estratégica.
+Quando você começa a bater o olho desse
+jeito e saber o que que você que você
+entrega, que que você pode entregar de
+valor e você faz esse mapeamento de
+solução dos problemas, até a COP fica
+mais fácil. Vamos lá, agora que você
+começou a entender, vamos continuar aqui
+no Link Canvas. Qual que é a proposta de
+valor dessa minha empresa de consultoria
+especializada em Ia? a proposta de
+valor, a proposta de valor atual para
+agora, o que que eu entrego pro meu
+cliente de grande diferencial aqui.
+Então, por exemplo, nesse caso da
+inteligência artificial, a gente vai,
+vamos supor, a gente, eh, aplicamos IA,
+automações e
+tecnologias e plataforma e soluções e
+implementamos soluções
+tecnológicas focadas em melhorar o
+processo, reduzir eh
+custos e aumentar a
+eficiência operacional das empresas.
+Então, olha como que já fica claro o que
+que eu vendo. Então, aqui proposta de
+valor é uma só, tá? O que que sua
+empresa faz? Que que sua empresa
+entrega? Qual que é o valor de
+contratar, por exemplo,
+a Corlitks? Nossa, esse nome ficou bom
+demais, hein, mano. Se eu fosse vocês
+vão comprar. Então, vamos lá. Aplicamos
+em automações, implementamos soluções
+processo, reduzir custos e aumentar a
+eficiência operacional das empresas que
+nos contratam. Olha que bacana, cara.
+Olha que bacana. Isso aqui é isso aqui é
+ouro, hein? Isso aqui que eu tô fazendo
+para vocês é é ouro demais, cara. Então,
+vamos começar aqui agora. Vamos pro
+próximo item. Vantagens vantagens
+injustas. Quais são as vantagens
+injustas que a minha empresa tem perto
+do meu concorrente? Aqui é muito
+pessoal, né? Então, uma coisa, por
+exemplo, que eu oferecia, que eu
+ofereceria, né? Então, entrega rápida,
+entrega rápida. Então, esse seria um
+diferencial usando
+soluções, soluções prontas e acessíveis.
+Esse é um de um diferencial.
+Solução pronta e acessível. Entrega
+rápida, cara. Rapidamente o cara
+consegue ver. resultado, tá? Foco em
+aplicação
+prática eh de IA e automação. Então
+assim, ó, cara, esse é um
+diferencial. Eu não tô lá focado em
+vender e chatbot, eu tô focado em
+aplicar IA e trazer retorno para esse
+meu cliente. Esse aqui que é meu foco
+principal, tá? Ã, a
+experiência ela é
+personalizada porque eu falo a linguagem
+do meu cliente, eu sou nichado, nichado
+para atender aquele cara. Então, tipo,
+eu tenho a língua do cliente. Esse aqui
+é um de um diferencial também. Eu,
+pelo menos, enxergo com uma
+vantagem justa, tá? Eh, e eu acho que
+seria isso. Eu acho que principalmente
+seria isso. Aí não tem muita vantagem
+justa aqui. Eu não posso falar de
+tecnologia, nada do tipo, porque assim,
+não não encaixa aqui nesse nesse nesse
+início nesse início do do dessa
+consultoria, saca? Vamos lá. Qual que é
+o segmento de cliente que eu atuo? Isso
+aqui ajuda muito a entender o seguinte,
+ó. A colocar essa ideia, essa empresa
+dentro de uma dentro de um cluster de de
+pessoas. Isso aqui é muito importante de
+um pool, um pool empresarial, tá? Vamos
+focar em quem? Vamos focar em clínicas
+pequenas e médias. Pequenas e médias.
+Então esse aqui é o foco. Vamos focar
+também em profissionais liberais.
+Profissionais liberais de
+medicina. Esse cara aqui é muito, muito
+bom também. É o outro nicho. Pequenos
+negócios que precisam de eficiência.
+operacional e são voltados para saúde.
+Então aqui seria
+tipo eh clica de estética. Eu acho que
+eu vou deixar junto aqui com como se
+fosse o mesmo desses caras aqui. Esse
+aqui seria o segmento de cliente assim
+inicial que faria mais sentido. Olha que
+legal que a gente já mapeou. Qual que é
+o problema que aquele meu cliente tem?
+Qual que é a solução que eu trago, que
+eu vendo minha proposta de valor? Olha
+que top que tá. Vantagens injustas que o
+meu negócio tem. Segimento de cliente.
+Olha como que essa ideia começou a se
+tornar palpável. Uma ideia que eu tive
+aqui com vocês, sacou? Uma ideia que a
+gente tá fazendo aqui nesse vídeo em
+tempo real. Olha que bacana que já tá
+ficando isso aqui. Depois eu posso fazer
+uma projeção financeira para ter mais
+detalhado, mas olha como já não é mais
+um negócio qualquer, já não é só uma
+ideia. Poderia ter um site, já poderia
+entrar aqui no Smash Logo e já comprar
+esse logo aqui também, ó. Comprar. Deve
+est quanto isso aqui? Nem sei,
+50, R$ 300. Ó, aqui é o business, ó. R$
+478. Já vem com todos os branding,
+prontinho. A intro de vídeo já vem com
+um monte de coisa aqui até pra rede
+social. Que bacana, velho. Super
+prático. Ainda mais pro começo. É
+perfeito. Então, vamos começar agora.
+Que que eu vou mapear? Quais são meus
+canais de venda? Então, esse aqui, qual
+que é, qual que é a vantagem disso aqui?
+Onde que eu vou vender? Por onde que eu
+vendo? Cara, o que eu focaria? redes
+sociais. Então, LinkedIn não, mas
+focaria no Instagram. Nesse caso, não
+focaria no LinkedIn. O médico não tá no
+LinkedIn. Médico tá no Instagram,
+entendeu? O médico tá no Instagram. Se
+você entrar aqui digitar ponto mé, se
+você entrar no seu Instagram e dig aqui
+em pesquisar e colocar assim, ó, ponto
+med, você vai ver o Medina, né? Ah, bom.
+Aparece um monte de médico aqui, ó.
+Deixa eu colocar aqui.
+Médico. Médico. Vamos ver. Ó lá. Dr.
+William na Bill, Doutor Ponto. Ó, eles
+coloca doutor na frente. Paulo Musa não
+funciona. DR
+ponto Dener Lip não, nada a ver. Bom,
+bom, resumindo, eu precisaria por assim
+e aí eu iria abordar esses caras desse
+jeito. Colocaria aqui para abordar
+médicos que tm menos de 20.000
+seguidores. Esses caras muito grandes
+geralmente não respondem. Então eu, por
+exemplo, iria para essa linha Google, ó.
+Prospecção ativa. Vamos lá.
+faria aqui, por exemplo, um canal de
+aquisição, eh,
+parceria, parceria com
+influencers na área
+médica,
+microinfluenciadores, seria um
+canal de
+aquisição na área médica. Você pegar lá
+o cara que
+tem 10.000 seguidores da área médica,
+esse cara pode ser um baita de um canal
+de aquisição para você.
+eventos e
+feiras do setor. Outro baita canal de
+aquisição, Google. Google é um
+aquisição. Google mesmo, saca? Entra no
+Google, digita lá clínicas e você vai
+encontrar marketing de
+conteúdo. Então você gerar conteúdo nas
+redes sociais para aparecer. canal.
+Focaria aqui principalmente no orgânico,
+tá? no começo. Então, por quê? Depend do
+meu tamanho, eu não daria para focar no
+tudo. Então, ó, que eu priorizaria, tá?
+Rede social, postagem, eu priorizaria.
+Parceria com
+microinfluenciadores, talvez deixar
+verdinho. Marketing de conteúdo
+orgânico. Esse aqui no começo, talvez eu
+despriorizaria. Esse também no
+começo. Esse daqui eu
+priorizaria muito. Google prospecção
+ativa de clientes. Acho que daria muito.
+Então aqui basicamente é esse conceito.
+Olha que legal. Aqui já tem, já começou
+a tomar forma. Olha como já tomou
+começou a tomar forma aqui o nosso, o
+nosso, o nosso, o nosso Canva, velho.
+Isso aqui é maravilhoso. Por exemplo,
+quais são as métricas chaves? Como que
+eu sei se eu tô tendo, por exemplo,
+retorno? Número de clientes. Número de
+clientes, saca? Número de clientes aqui
+é uma métrica extremamente chave para
+esse negócio aqui. Outra métrica chave
+pra minha consultoria, valor médio por
+projeto. Kelvin, mas esse aqui não tem
+recorrência, cara. Tudo no seu tempo. Na
+visão de ecossistema, a recorrência vai
+entrar. Ela só não vai entrar agora,
+entendeu? Ela só não vai entrar agora.
+Agora a gente tá no momento de
+levantamento de capital, levantamento de
+recurso. Então, valor médio de por
+projeto aqui seria um de um de um
+de um de um de um indicador. Eu
+colocaria talvez um outro indicador
+aqui, números de cliente
+recorrente com recorrência. Tentaria
+vender algum modelo de recorrência, mas
+eu não focaria muito nisso no começo.
+Esse aqui difícil, não sei se eu
+colocaria. Entendeu? Ã, um
+indicador muito importante, se eu fosse
+começar com mar marketing digital, seria
+o CAC, custo de aquisição por cliente
+LTV, que é o lifetime value. Então, o
+tempo que esse cliente fica aqui dentro.
+Então, eu olharia para esses dois, para
+esses dois caras aqui tranquilamente.
+Então, as métricas é como que você vai
+medir que essa aqui vai dar certo. Isso
+aqui é muito importante você fazer. Olha
+isso, gente. Olha como tá ficar bacana.
+Tá ficando bacana, tá? E qual que seria,
+por exemplo, a minha estrutura
+de estrutura de custo? Vamos olhar aqui.
+Estrutura de custo, ó. Quais seriam os
+custos que eu teria dessa ferramenta?
+Então aqui eu teria, por exemplo, o
+primeiro custo seria o custo de
+aquisição de cliente. Ó, aqui ou é
+tempo, meu tempo, ou é ou é ou é
+o a rede social. Cara, que como tem que
+medir isso aqui? Isso aqui é muito
+importante medir para você saber quanto
+que custa trazer um cliente para dentro.
+Isso aqui é muito importante. Eh, por
+exemplo, assinaturas, assinaturas de
+ferramentas eh SAS, como por exemplo,
+Notion e o Clickup. Você pode assinar um
+plano siner do um plano e enterprise do
+Clickup e fornecer isso pro seu cliente.
+Então aqui pode ser um custo ou
+assinaturas de ferramentas específicas
+do meu próprio negócio. Por exemplo,
+Google Agenda. É importante você ter um
+Google Agenda, você ter o custo então do
+Google Workspace, o seu CR, o seu
+próprio CRM de gestão, você tem aqui
+ferramentas específicas, eh,
+profissionais, técnicos e parceiros
+também teria aqui, então parceiros de
+negócio teria custo. Então, por exemplo,
+preciso de um cara para fazer um fluxo
+de N2N. Em vez de eu então ter alguém
+contratado, eu terceirizo. Então,
+profissionais terceirizados aqui seria
+um outro custo, saca? Ã, tá? Depois eu
+nem vou detalhar muito que isso aqui dá
+mais trabalho. E quais seriam assim, por
+exemplo, as minhas fontes principais de
+receita dessa ideia seria os projetos.
+Então, hora
+homem, ou melhor, horas de
+projetos de projetos de consultoria.
+Essa eu acho que seria a principal fonte
+de receita inicial, sabe? Eh, eu teria
+comissionamento aqui também, comissão e
+afiliação. Por quê? Eu tô indicando CRMs
+que já existe, eu tenho sim aqui um
+dinheirinho na mesa, saca? Treinamentos.
+Então, se eu vou dar acesso ao
+treinamento, eu tenho posso ter custo de
+horas de treinamento ou acesso
+treinamentos, liberação de acesso. Eu
+acho que inicialmente seriam isso. Eh,
+horas de horas de projeto. E aqui
+poderia também ter horas de
+implementação. Horas de implementação
+aqui também, horas de
+desenvolvimento, saca? Eu colocaria ali
+se eu conseguir no começo talvez não,
+porque não dá para abraçar o mundo, mas
+eu colocaria um bracinho aqui de solução
+de desenvolvimento para software house,
+sacou? Entendeu? Então, qual que é o o
+grande X da questão aqui para você fazer
+a construção do Link Canvas, né? Você
+ter essa visão do teu negócio mais
+clara, entendeu? Você ter você ter a tua
+visão clareada do seu do seu produto, do
+da sua ideia.
+Agora aqui claramente eu já sei até como
+vender. Então, por exemplo, se eu fosse
+montar uma máquina de vendas aqui, ó,
+olha que legal que eu faria no
+digital, por exemplo, aqui na máquina de
+vendas, ó. Vamos estruturar uma máquina
+de vendas aqui. Máquina de vendas. É, eu
+tenho um modelo de funil de vendas.
+Deixa eu pegar aqui para mostrar para
+vocês. Deixa eu aqui, ó. Vou
+pegar esse funil aqui, de exemplo e
+vamos trazer ele para cá.
+Então, por exemplo, vou montar aqui o
+funil. Ei, caraca, cara. Tô meio ruim
+aqui de usar o
+o miro, hein? Contrl
+C. Vamos aqui embaixo,
+ó. Vamos lá. Conttrol V. Tá.
+Tá aqui. Então esse aqui vai ser o
+funil da Cor Littics e não da acelera
+lic. Aí vamos lá. Não faz sentido, por
+exemplo, ter LinkedIn medium. Não faz
+sentido. Prospecção ativa no LinkedIn
+faz sentido. Fluencer, prospecção ativa
+no WhatsApp faz sentido. Code e-mail faz
+sentido. YouTube pode fazer sentido. Mas
+eu posso ter aqui, por exemplo, o topo
+no aqui na máquina de venda, no topo de
+funil, eu tenho um produto low ticket,
+que é o cara que vai gerar lead. Então
+eu tenho um produto low ticket, que é um
+diagnóstico. Constrói em bubble,
+constrói em qualquer ferramenta low
+code. Olha que legal do low code para
+você fazer isso. Vai ficar facinho, ó.
+Então aqui vamos pegar aqui um low
+ticket. Qual que é o conteúdo que a
+gente vai criar na nossa máquina de
+vendas? Esse cara aqui, ó. Esse cara
+aqui pode ser tranquilamente um gerador
+de leite. Eh, descubra o seu médico.
+Você tem uma clínica, você é um médico,
+descubra o seu o seu nível de maturidade
+digital, cara. fornece de graça. Pro
+cara ter o resultado na do nível de
+maturidade digital, ele tem que colocar
+o nome, o e-mail, CPF dele, o nome, o
+e-mail, telefone. Então,
+nome, e-mail e
+telefone. E ele já gera aqui para você,
+ó, lead orgânico. Orgânico entre aspas,
+né? Mas ele já vai gerar lead aqui pro
+topo do teu funil, sacou? Olha que legal
+você fazer um vídeo, por exemplo, igual
+eu tô fazendo aqui pro YouTube,
+explicando para ele o quanto é
+importante mapear processo e entender
+qual parte do processo dele faz sentido
+ou não implementar, por exemplo, um
+chatbot, uma IA, esse tipo de coisa.
+Então assim, não é só IA por IA, e sim é
+você implementar algo que realmente vai
+dar retorno. Esse é o jogo, esse é esse
+é o foco dessa empresa aqui, entendeu?
+Olha que
+diferente, saca? Aí, por exemplo, como
+que eu vendo? Ó, se eu entrasse aqui na
+etapa de venda, que que eu ia ter que
+fazer? Vamos lá. legal a ideia.
+Montei o site, montei o logo, até tudo
+bem. O site eu ia comprar, por exemplo,
+lá no TM Forest, um template. Pronto. Se
+eu fosse vender, primeiro passo antes da
+venda é a construção de um negócio que a
+gente chama aqui, ó, de estrutura de
+credibilidade. Criar um CNPJ, criar os
+as redes sociais, criar um e-mail
+profissional. Então, ia contratar, por
+exemplo, um um @coralitics.com.
+PR no Google Workspace é super barato
+Google Workspace R$ 80 por e-mail, sabe?
+Por caixa de e-mail. Montar uma proposta
+comercial bem bonita, um PDF formatado,
+interativo, bem legal, saca? Ó, que
+problema você resolve a solução
+explicada de forma clara, os benefícios,
+preços e modelos de negócio, quees ou
+prova social na proposta comercial, uma
+apresentação institucional, quem que a
+gente é, qual problema a gente resolve,
+como que a gente resolve nosso
+diferencial, resultados e próximos
+passos. Plan de
+credibilidade, dominar o PIT. treinar
+sobre como apresentar isso, mandar eh
+política de privacidade, termos de uso
+dentro da próprio site. Proposta com
+assinatura digital, catálogo de produtos
+ou serviço, logo mais identidade visual,
+igual eu fiz ali, minimalista,
+padronizada, saca? Olha como é simples
+você estruturar um business, não é todo
+esse bicho, essa essa esse monstro que
+vocês acham aí, tipo assim, você pode
+falar: "Porra, mas fazer um microssas é
+muito mais fácil". Só que assim, fazer o
+microsas, qual que é a vantagem? Qual
+que é o o a robustez que tem você
+desenvolver um microas? Vai faturar
+quanto? Vai fazer 4.000 a mais por mês,
+5.000 a mais por mês fazendo um
+microSAS? Vai ficar se se matando,
+tentando diminuir o turn da sua
+ferramenta? Não tem lógica. Vai montar
+uma agência de IA. Uma agência de A. Que
+que é uma agência de I, velho? Vai sair
+vendendo chatbot, dá dinheiro. Dá
+dinheiro também. Mas você você concorda
+que aqui já é mais robusto? Aqui tem
+visão de longo prazo e aqui logo no
+curto prazo você já consegue receita.
+Mesma coisa. A única diferença é a
+visão. A visão focada o quê? Em você ter
+uma infraestrutura de negócios, você ter
+aí que entra a pegada da infraestrutura
+de negócio, que é você tem várias coisas
+que complementam e que criam como se
+fosse uma teia de aranha onde prende o
+teu cliente nisso, saca? né? É uma
+entrega de valor muito grande. E a E aí
+sim faz sentido. Isso aqui é tão
+que eu, deixa eu mostrar uma coisa aqui
+para vocês que a gente recebeu hoje lá
+no no na Acelera. Quer ver? Tá aqui. É
+um um dos nossos alunos. Olha o
+testemunho dele. A gente vai trazer ele
+inclusive aqui para para vou trazer ele
+aqui no YouTube para falar sobre isso.
+Sou dev já 7 anos. Parará parará pará.
+Até aqui tudo bem. Ó, escalar este
+serviço prestei com muito tempo, não
+encontrei essa eh então encontrei essa
+escola e em pouco tempo usando as
+técnicas do Kelf, eu consegui cinco
+clientes e duas parcerias e consegui
+faturar os meus primeiros 60k. Então
+assim, é factível. Se você tiver
+estratégia, se você tiver visão de
+negócio, do que fazer, funciona. E tem
+que ter peito, porque assim, não
+adianta, isso aqui não é coisa para você
+trabalhar 4 horas por dia, isso aqui
+consome, Você tem que saber
+fazer. você tem que saber escalar. E é
+isso que eu ensino lá na Acelera 360. É
+isso que eu que eu ensino na nossa
+escola, que ela começou sendo a escola
+do dev empreendedor, mas ela não é mais
+a escola do dev empreendedor, agora é a
+escola do empreendedor do futuro. Se
+você quiser saber mais sobre o processo
+da acelera, sobre como funciona a
+acelera, o link tá aqui na descrição
+desse vídeo. Clica lá e cai e e conhece
+um pouco sobre a nossa sobre a nossa
+proposta de valor. Então é isso,
+rapaziada. Vou encerrar. Eu tô doente.
+Vocês acreditam? Eu tô com gripe,
+que pariu. Tô com corpo tudo dolorido
+aqui. Tá fazendo esse vídeo aqui no amor
+para vocês, hein, O mínimo que
+você tem que fazer é me seguir aqui, ó.
+Clica aqui em se inscrever, ativa o
+sininho, comenta aqui nesse vídeo se
+você gostou. Se você não gostou,
+Falou, rapaziada. Tchau.

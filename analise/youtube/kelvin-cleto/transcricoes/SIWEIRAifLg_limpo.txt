@@ -1,0 +1,396 @@
+Código limpo, as sete regras que todo
+profissional segue. Todo programador
+profissional segue. O código limpo,
+galera, ele é a chave para quem quer ser
+um bom programador. Se você quer ser um
+programador
+[&nbsp;__&nbsp;]
+mentira, mentira, meu. Sabe para quem
+que liga pro seu código limpo, pro seu
+clean code, o sior
+chato que vai revisar seu código no
+GitHub, aquele cara que quer te criticar
+para falar que você não é um bom
+programador. E os devs que vão analisar
+o seu GitHub para uma entrevista. Só
+serve para isso, porque o cliente, o
+diretor, o CTO, ele tá cagando pro teu
+código limpo. O, a empresa, ela quer que
+o código funcione, que ele gere valor.
+Essa é a verdade. Kelv, você vai meter
+fogo no parquinho, vai falar. Não, cara,
+eu vou falar para vocês a verdade,
+porque nesse vídeo aqui eu vou falar
+para vocês realmente as sete regras. As
+sete regras que um programador
+profissional, que um enterprise
+architectury, que um programador de
+software de da vida real mesmo que tá
+trabalhando, segue. Você vai aprender
+isso, não essas gracinhas de código
+limpo, porque metade disso é falácia. E
+eu não tô falando para você não estudar
+sobre Clean Code, pelo contrário, eu
+acho que a sua obrigação ler sobre isso
+e saber todos os termos, todas as boas
+práticas que eles pregam, mas é mais
+importante ainda você ser crítico
+suficiente e entender para que ela
+realmente serve e como aplicar ela da
+melhor forma possível, o que o que faz
+sentido ou não. Não essas gracinhas de
+tipo você ter uma uma função com menos
+de 10 linha. Isso aí não existe, cara.
+Isso aí não existe. Em algumas situações
+isso se aplica, em outras elas não se
+aplicam. E o que eu quero explicar para
+vocês é vocês serem críticos o
+suficientes para isso. E para isso eu eu
+vou eu vou falar para vocês sete regras.
+São sete regras que assim, se você
+seguir essas sete regras, o seu código
+vai ser maravilhoso, ele vai ser legível
+e você vai se tornar um profissional
+muito melhor se você a segui-las. que
+essas regras se aplicam a qualquer
+linguagem de programação. Então, meu
+intuíto não é falar para você para do
+C#ARP, do Java especificamente, e sim
+falar para todos os programadores,
+porque isso é uma dor de mercado. Número
+um, entenda sobre os padrões de projeto,
+mas evite, evite as paternites. Galera,
+que que acontece? Você tem que aprender
+todos os padrões de projeto. Entenda
+eles a fundo, apliquem ele nas pox. Mas
+a hora que um profissional senta para
+analisar um software de verdade, fala:
+"Cara, vamos desenvolver uma aplicação
+real do mundo real". Tem coisa que não
+faz sentido. [&nbsp;__&nbsp;] eu vou dar o maior
+exemplo para vocês. CQRS, Comand Query e
+Response Segregation. Acho que é isso o
+significado. Você vai lá, cria as
+commands, daí você cria os handlers e
+tudo mais. Cara, tem projeto que
+implementa isso aí e faz só um crude
+básico. Qual que é a lógica de fazer
+isso? O nome disso aí é paternite. É a
+pessoa que aprendeu este conceito, este
+pattern. E aí ela aplica isso em tudo.
+Se você é um, se você quer ser um
+profissional [&nbsp;__&nbsp;] domine padrões, mas
+domine a fundo a ponto de você saber
+para que ele existe e qual problema ele
+resolve, entendeu?
+Ah, K, mas isso não tem nada a ver com
+Clean Code. Tem sim, porque você não tem
+noção. O Clean Code são são regras para
+você manter o seu código limpo e
+legível. Aí se você coloca a [&nbsp;__&nbsp;] de um
+CQRS lá, qualquer outra pessoa que vai
+mexer e não conhece esse padrão se
+perde. O negócio manda comando para cá,
+manda comando para lá, vira uma loucura,
+sem necessidade, entendeu? Então, cara,
+entendam a fundo o padrão de projeto,
+saca? Aplique só aquilo que faz sentido.
+Vocês querem matar uma mosca com a [&nbsp;__&nbsp;]
+de uma de uma submetralhadora, não tem
+lógica. Não tem lógica nenhuma,
+entendeu? É a mesma coisa com
+microsserviço. Tudo é microsserviço. Eu
+peguei esses dias para ajudar um amigo
+meu. Ele falou: "Cara, não sei o que tá
+acontecendo. Tá acontecendo um
+comportamento estranho na minha
+aplicação." Cara, nós ficou sem zoeira,
+acho que uns dois dias debugando,
+colocando log para descobrir o que diabo
+que tava acontecendo na aplicação de
+tanta mensagem na fila e o negócio sumia
+assim e nós não descobria. Você é um dev
+profissional. O cara fala: "Cara, eu sou
+[&nbsp;__&nbsp;] Você não faz umas bostas dessa.
+Você implementa só aquilo que precisa".
+Regra número dois, código lindo, bonito,
+não paga boleto. Eu acho que eu vou
+escrever, eu vou escrever um livro. Eu
+vou escrever um livro dessa parada. Já
+viu essa? É que os caras vai refaturar.
+Não, mas isso aqui fica mais elegante.
+Vamos criar uma interface e vamos
+colocar isso aqui no registrar aqui no
+DP injection. pra gente não dar um new
+ness, cara. Isso não existe, saca? De
+novo, entra próximo a à regra número um
+da overineer, que é é desnecessário. Eh,
+o código, ele não precisa ser
+maravilhoso, ele tem que ser legível.
+Ele tem que ser legível. Legível é
+diferente de ser bonito. É totalmente
+diferente de ser bonito. Como que você
+deixa um código legível? Você tem que
+aplicar, por exemplo, nomear as coisas
+com jeito do jeito certo, parar de criar
+variável eh X igual a tal coisa.
+Variável, as minhas variáveis eram
+assim, X Y Z. Aí acabável o X Y
+X. Assim, eu, por exemplo, não concordo
+que você não tem que comentar um código.
+Não tem lógica. Para um código se tornar
+legível, você tem que comentar ele. Sim.
+Os códigos precisam estar bem
+comentados. eh a nomes de variáveis,
+nomes de função, mas principalmente a
+organização da das pastas do seu projeto
+tem que ter coerência. Parem de inventar
+nomes eh eh escrotos, eh nomes que não
+t contexto do do negócio, com com o
+domínio em questão, saca? Essa parte ela
+é muito importante. Isso aí realmente
+faz sentido. Mas o ponto é que o código
+ele não precisa ser maravilhoso, ele não
+precisa ser elegante, isso aí é coisa de
+dev, velho. Dev louco, saca? E eu já
+tive isso aí. Isso aí é uma doença e o
+código ele tem que ser legível. O
+objetivo do código é fazer aquilo que
+ele se propõe a fazer, que ele foi
+escrito para fazer. Mas ele não precisa
+ser bonito, ele tem que ser legível,
+sabe? E e quando você pega uma
+determinada maturidade na no
+desenvolvimento software, quando você
+realmente trabalha e eh em em aplicações
+Enterprise, você consegue entender isso.
+Regra número três, código difícil de ler
+é um código ruim e todo mundo sabe
+disso. Vocês já viram aquelas pessoas
+que aprendem lâmbida e escreve a [&nbsp;__&nbsp;]
+de uma lâmbida em quatro linhas que
+ninguém consegue entender aquilo lá. Daí
+para entender aquilo, tem que fazer duas
+pós-graduação e um mestrado em em lambda
+da functions. Então, entendam uma coisa,
+o código, o principal objetivo até mesmo
+do cara que escreveu o Clean Code, que
+eu não me lembro o nome dele agora, é o
+código ser fácil de interpretar. E além
+dessa questão da elegância que eu falei
+no item dois, tem a questão da
+complexidade. A gente pode fazer coisas
+mais simples, a gente não precisa
+parecer que é gênio. Sabe por quê?
+Porque quanto mais simples, melhor pra
+empresa, melhor para você, melhor pra
+manutenção, melhor para todo mundo.
+Evita erro. Evita erro na manutenção. O
+problema não é a hora que você tá
+desenvolvendo, é depois. Você tem que
+desenvolver o código pensando daqui se
+meses, quando você chegar bêbado para
+mexer nesse código e você conseguir
+entender. Aí, cara, quantas vezes eu
+escrevi funções e, cara, escrevi códigos
+que eu olhava depois eu falava assim:
+"Caraca, que que eu tava na cabeça
+quando eu escrevi isso aqui? Meu Deus do
+céu, e agora? Não sei o que eu fiz, vou
+ter que refazer." Não tem lógica,
+entenderam? E e às vezes a gente faz
+isso por preciosismo, porque a gente
+aprendeu aquilo e quer aplicar, mas não
+tem, às vezes não tem sentido. Muit das
+vezes não tem sentido. Então não faça
+isso. Não faça isso, porque os
+principais profissionais não fazem isso.
+Regra número quatro, refatoração. Ela é
+uma arte, mas você não precisa refaturar
+tudo. Tem dev que não sabe dar
+manutenção em um código sem reescrever
+ele inteiro. Isso aí é uma
+doença. Tudo é doença agora. Tudo é
+doença. É, mas que que acontece? Você
+tem que aprender a refaturar só aquilo
+que faça sentido ser refaturado. E
+existe um motivo para você refaturar. ou
+o código ele tá completamente
+inelegível, ou o código ele tá lento,
+ele não tá com uma performance legal, ou
+realmente o código é uma tripa
+gigantesca que escreveram que ferrou com
+tudo. Mas o que vocês têm que entender é
+que você não precisa reescrever tudo.
+Analise realmente os critérios e vê se
+faz sentido reescrever. Quantos e
+quantos deves já passaram aqui na
+empresa e falaram assim para mim: "Ah,
+mas esse código não tá legal, vou
+reescrever inteiro". Ele não tem que tá
+bonito, ele tem que tá funcional. Se ele
+tiver funcional, tá ótimo. E aí você faz
+o ajuste ali naquele código. Se e se
+você pega, os maiores profissionais
+fazem isso, tá? Cara, que é [&nbsp;__&nbsp;] mesmo,
+ele faz isso. Ele olha ali e ele pontua,
+fala: "Cara, eu vou fazer o ajuste
+aqui". Ele ainda deixa comentado
+falando, ó, deve ser reescrito desse
+jeito, desse jeito e desse jeito,
+pontuado, sabe? Como se fosse um tiu,
+entenderam? Eh, em em algumas situações
+realmente você precisa refaturar tudo,
+reescrever tudo, joga tudo fora e refaz
+de novo. Mas vamos ser sincero, 80% das
+vezes não precisa. E é esse esse tipo de
+mentalidade que você tem que ter. Porque
+a partir do momento que você entende que
+o código ele não tem que ser lindo, ele
+não tem que ele não tem que ser
+elegante, ele tem que ser funcional e
+legível, você tira todas essas frescuras
+da frente e você começa a ter excelentes
+resultados.
+Regra número cinco, evite qualquer coisa
+relacionada à fila, mensageria,
+microsserviço e qualquer coisa que
+distribua pedaços do teu código para
+vários lugares, entendeu? Porque isso
+gera um [&nbsp;__&nbsp;] de um problema, uma [&nbsp;__&nbsp;] de
+complexidade. Sim, existem soluções que
+realmente precisam ter um sistema
+distribuído, um sistema baseado em
+microsserviços, com banco de dados
+separados, com estruturas separadas e
+tudo mais.
+Mas mas o que acontece é que te
+ensinaram e pregam que isso é a coisa
+correta a se fazer. você separar os
+contextos, os domínios da aplicação em
+vários microsserviços, essa história
+toda. E isso é desnecessário, é bonito,
+é lindo, é maravilhoso. Eu tenho um
+prazer de desenvolver uma plataforma
+quando eu implemento uma fila, uma
+mensageria, mas não é necessário na
+maioria dos casos. Regra número seis,
+uma das mais
+importantes. Você pegou uma plataforma
+para dar manutenção, entrou numa empresa
+que o software está sendo desenvolvido
+ainda, mas já tem toda uma estrutura que
+foi feita e você, vamos supor, viu que
+aquele software tá uma caca, tá um nojo,
+tá uma nossa, tá umaçaroca que ninguém
+entende mais. Em vez de tentar
+reescrever o sistema ou de aplicar o o o
+famoso clean code e e e jogar metade
+fora e fazer tudo de novo, faz o
+seguinte, estende o sistema, propõe a
+extensão, que é você começa numa nova
+PI, um novo pedaço daquele sistema, uma
+nova biblioteca ali que que permita com
+que você escreva os códigos novos em
+novos padrões. features novas e novos
+padrões e começa a matar esse cara. Só
+que você não faz isso só por fazer. Você
+faz um
+planejamento, um estudo se isso
+realmente é factível, os pontos
+positivos e os pontos negativos de fazer
+isso, saca? Faz algo com estratégia, com
+pautado num estudo profundo, saca? Em
+cima daquela plataforma. Esse também é
+um outro problema sério. Aconteceu na
+minha empresa de a gente pegar eh, cara,
+um dev um dia foi lá, a gente mandou uma
+feature para ele, do nada ele foi lá e
+falou: "Cara, não tá do jeito que é o
+padrão do mercado". Ele foi lá e criou,
+ele criou na cabeça dele um outro pedaço
+aplicando o DDD, porque ele era um cara
+que apaixonado por DDD. E ele fazia
+aquela aquela aplicação chamar uma API
+que chamava a estrutura no código do
+padrão que ele gostava, porque aquele
+padrão para ele era o que fazia sentido.
+Nossa, velho, não sei nem o que eu falo
+num negócio desse. Regra número sete,
+essa aqui é agora vocês agora ou vocês
+vão me dar like ou
+dislike. Não pode ter função com mais de
+10 linhas. Quem falou?
+Quem falou? Quem falou? Quem falou com
+uma função com mais de 10 linhas é
+difícil de entender. Isso não existe.
+Isso não tem lógica um negócio desse. Aí
+a pessoa pega a [&nbsp;__&nbsp;] de uma função e
+cria 200 função para diminuir a
+quantidade de linha. Não é assim que
+funciona. Não é o pé da letra as coisas,
+entendeu? A ideia de fazer essa redução
+no tamanho do código é por conta de ter
+legibilidade, de ser mais legível. Só
+que você consegue fazer isso de outras
+formas. Você não precisa também criar
+200 funções. Vocês são e é vocês, ó, tô
+já tô te julgando até me desculpa, mas
+as pessoas elas e levam tudo ao pé da
+letra e não é assim. Elas não conseguem
+ser críticas com base em cima de uma
+informação que alguém passou, saca? E
+não tem lógica isso. Então eu tenho no
+meu sistema tem várias funções que tem
+muito mais de 10 linhas. Tem tem umas
+função lá que tem até umas 100
+linha que o que deixa uma função
+complexa não é em si a quantidade de
+linhas. Tudo bem que uma função gigante
+é mais difícil de você entender, mas vai
+mais pelo como você nomeia as variáveis,
+como você escreve aquele código. O o vai
+e vem também ele é muito complexo. Então
+assim,
+eh, escrevam uma função. Quando vocês
+forem escrever, né, uma função assim,
+não se julguem pelo pela volumetria de
+linhas, e sim se ela vai estar legível.
+Se você depois que você entrar e voltar
+e olhar para aquele código, você falar:
+"Cara, eu consigo entender isso". Porque
+o que as pessoas fazem, elas se colocam
+esse limitador, não, não pode ter mais
+10 linhas, vamos criar uma outra função
+aqui, vamos fazer isso, vamos, vamos.
+[&nbsp;__&nbsp;] Aí ele pega o código, separa no
+mundo de 10, 200 pedaços, joga um código
+para cá, joga outro código para lá e e
+no final das contas fica mais complexo.
+Essa é a minha visão para vocês. Espero
+que vocês tenham gostado. Já se inscreve
+aqui no canal, já ativa o sininho e de
+novo, como eu sempre prego para vocês,
+esse aqui é um canal para devis para
+pessoas da área de tecnologia que fala
+sobre carreira e também
+empreendedorismo. e eu coloco aqui para
+vocês a minha perspectiva real de tudo
+que eu aprendi no no decorrer desses
+anos, é, desenvolvendo e
+empreendendo. E essa questão do, por
+exemplo, do
+do da overender, né, da parternit, era
+algo que eu tinha, porque quando eu
+desenvolvi a minha primeira ferramenta,
+meu primeiro SAS, eu fiz ele
+maravilhoso. Só que três meses depois eu
+cortei metade de tudo aquilo que eu
+implementei, porque eu não conseguia ter
+velocidade de desenvolvimento. E é isso
+que acontece na maioria das ferramentas.
+Belezinha? Espero que vocês tenham
+gostado de mais um vídeo. Um abraço e
+até a próxima. Núo esquece de se
+inscrever, [&nbsp;__&nbsp;] Me dá essa moral aí.
+Falou. Ah.

@@ -1,0 +1,319 @@
+Nesse vídeo eu vou te explicar com o
+máximo de clareza possível como você
+pode começar um negócio, seja aí a sua
+empresa de tecnologia, seja sua
+consultoria, sua agência de marketing,
+que seja um negócio com
+inteligência, mesmo com poucos recursos.
+Eu acho que esse é o principal ponto.
+Então, se você acha que para criar, por
+exemplo, um ecossistema, igual os vídeos
+que eu fiz anteriormente, você vai levar
+anos desenvolvendo, você vai precisar
+desenvolver IA, CRM,
+chatbot, eh, o portal SAS, um monte de
+parafernalha, você tá com a cabeça de
+executor, você tá pensando errado, tá? É
+por isso, é por esse pensamento que 99%
+das pessoas não começam um negócio,
+porque elas acham que precisam criar
+tudos e elas não conseguem sair do lugar
+que elas que elas estão, porque elas
+ficam com essa cabeça de dá muito
+trabalho, ah, não dá para fazer aí [&nbsp;__&nbsp;]
+é muito complexo, precisa de muito
+dinheiro, precisa disso. Para, para,
+para. Se você tá com esse pensamento,
+esse vídeo é para você, tá bom? Esse
+vídeo é para você. Então, vamos lá, ó.
+Muita gente trava nisso aqui, Isso aqui
+é uma mensagem do Lucas Guis de Souza.
+Lucas, valeu pela mensagem. Ótimo vídeo.
+Ele comentou isso lá no meu vídeo do
+ecossistema. Eh, mas o problema na minha
+cabeça é desenvolver tudo isso. No
+exemplo que você deu, vou ter que
+desenvolver CRM, financeiro, chatbot e
+tudo ou terceirizar tudo isso. Eh,
+porque se for para desenvolver o
+ecossistema todo, é inviável pelo tempo.
+Realmente, nesse pensamento de
+desenvolver tudo é inviável. Não dá para
+fazer, porque, quer dizer, até dá, mas
+você vai precisar de um caminhão de
+dinheiro para você só desenvolver e tudo
+mais. Mas isso aí é o pensamento de
+executor. Esse é o pensamento errado.
+Você, quando você começa a empreender, o
+teu trabalho é pensar em resolver os
+problemas. E um dos problemas é: "Cara,
+como que eu começo um negócio sem gastar
+rios de dinheiro, sem gastar um caminão
+de dinheiro?" E é sobre isso que eu vou
+ensinar para vocês, tá? Porque o que que
+realmente importa no começo? O que
+realmente importa quando você começa a
+empreender não é o produto em si, não é
+o ecossistema todo. Você como
+empreendedor já tá vendo o ecossistema,
+você já tá vendo aquela solução
+completa, tá? Você já tá, já tem essa
+visão lá na frente. O que importa no
+começo é você validar essa dor. Então
+assim, você para validar, você vai ter
+que vender. Você vai ter que vender
+primeiro para um cliente inicial. Você
+vai ter que conseguir o seu primeiro
+cliente que vai topar, se participar
+dessa experiência, dessa loucura aí com
+você. Você já vai começar com o mínimo
+viável, um MVP, entendeu? Com o mínimo
+produto viável. Que que qual que é o
+mínimo do seu ecossistema? Qual que é a
+parte que tem mais valor para o cliente?
+Então, no caso do do médico, cara, eu
+vou ter um CRM, eu vou ter isso, eu vou
+ter uma IA para fazer a namines, vou
+ter, vou ter vou ter um SAS que o cara
+vai fazer toda a gestão da empresa dele,
+o financeiro vai est lá dentro do
+controle de estoque. Mas, mas para
+começar eu vou resolver o problema de
+atendimento dessa clínica, desse médico.
+Para começar, eu vou resolver o problema
+de atendimento. Então, a sua estrutura
+toda vai tá desenhada, você sabe onde
+você quer chegar, mas você vai começar
+com aquela partezinha pequenininha.
+E o CRM você pode usar um de
+mercado, esse é o segredo. Usa um de
+mercado. Parte financeira, usa o conta
+azul e faz uma integração entre eles.
+Sabe parte de BI, uso Power BI, eu uso
+um Excel automatizado, uma planilha
+muito bem estruturada. Você tem aí
+ferramentas, ó. Você pode usar Zapier
+para fazer integração, Google Sheets,
+você pode usar o Notion, você pode usar
+o Trel, você pode usar o Clickup,
+ferramentas no Code, APIs prontas, o que
+for. Tem um monte de ferramenta no
+mercado que você pode usar, já trazer
+elas, vários open sourars excelentes que
+você pode
+trazer, você
+estrutura, você encaixa isso, você
+encaix eh eh
+eh encaixota tudo isso junto. Você junta
+isso e fala: "Cara, esse aqui é meu
+ecossistema, meu ecossistema para
+médico. É, [&nbsp;__&nbsp;] eu tenho um CRM pro
+médico, que é um CRM open, eu tenho meu
+chatbot específico para médico, eu tenho
+vários scripts prontos aqui de de para
+chatbot que pode ajudar ele nisso,
+naquilo, naquilo outro, pode auxiliar
+ele no processo de fazer um laudo de
+perícia médica. Ele, eu tenho um script
+específico, eu tenho um agente lá no
+chat EPT mesmo, específico para geração
+de conteúdos nas redes sociais, algo que
+ajude ele no posicionamento. Tem mais eu
+como pessoa que tô aqui para entender
+qual que é o processo de demanda nesse
+médico, para ajudar ele a se
+digitalizar. E o meu objetivo como
+solução para médicos é trazer uma
+eficiência de 30% na operação desse
+médico e gerar mais de e é um aumento de
+receita de mais 20%. É um exemplo. Como
+que você vai gerar essa receita? [&nbsp;__&nbsp;]
+eu vou ajudar esse médico a se
+posicionar no digital. Eu vou criar um
+site, uma land page para ele. Eu vou
+criar um Type Forms para ele receber
+solicitações. Eu tenho mais um chatbot
+aqui para fazer os atendimentos, para
+para fazer agendamentos de consulta,
+para ele não perder agendamento de
+consulta. Eu vou retrabalhar toda essa
+base de clientes e de leades dele
+fazendo umas campanhas de disparo de
+WhatsApp, de SMS. E isso vai trazer
+muito valor para esse cara. E eu vou
+cobrar desse médico R$.000 R para fazer
+isso. Você entendeu que você construiu
+todo um ecossistema e não
+sozinho, pegou várias coisas prontas. E
+essa é a tua, essa tem que ser a tua
+mentalidade de empreendedor. Essa tem
+que ser a tua mentalidade. É tipo, cara,
+eu preciso sair do papel, sabe? O que é
+feio? O feio é você desenvolver seis
+meses uma ferramenta, estruturar, [&nbsp;__&nbsp;]
+criar, sabe, um monstro e chama sócio
+daqui, chama desenvolvedor dali, gasta
+dinheiro e na hora de vender você não
+consegue vender, porque aquilo que você
+gastou para desenvolver você não
+validou, não é uma dor real, ninguém
+pagaria por isso, entendeu? Não é uma
+dor de mercado, realmente. Você não
+conseguiu nem tracionar e fora o tempo
+que você gastou o dinheiro. Isso não é
+isso, isso não é isso não é isso não é
+bom. Isso é feio. Entendeu? Agora agir
+desse jeito que eu acabei de falar aqui
+é agir com inteligência. É você já
+começar no D Zero. No Dzer é exagero,
+mas é você começar rápido. É você testar
+rápido. É um MVP, entendeu? É o mínimo
+produto viável. É o teste. Você tá,
+[&nbsp;__&nbsp;] você começou. E no processo de
+começar, quando você começa a pegar seus
+primeiros clientes, quando você começa a
+ter seus primeiros leads, quando o seu
+primeiro cliente começa a dar resultado,
+você já gera prova social. Você com seu
+primeiro cliente, você consegue sentar
+com ele, olhar, analisar, entender qual
+que é a dor real dele e adaptando o teu,
+a tua solução para resolver realmente
+uma dor e descobrindo outras dores
+também. Por exemplo, eu tô aqui em Porto
+Alegre, tô gravando esse vídeo do quarto
+de hotel, por exemplo, e eu vim aqui
+porque eu tô fazendo uma implantação
+sistema num cliente. Um cliente é uma
+solução que a gente tem bem grande, uma
+solução composta por várias ferramentas
+e a gente tá aqui, tô tentando entender,
+tô andando nas operações em cada área
+para falar: "Puta, aqui o sistema
+tende." E conversando com as pessoas e
+conversando com a operação, eu estou
+tendo inputs, além não só da ferramenta,
+mas de outras dores que já estão
+surgindo ideias do que que eu vou
+desenvolver como solução para vender a
+mais. Olha que legal, essa é a parte boa
+de você trazer o seu primeiro cliente,
+de você colocar a cara tapa, de você
+entrar no jogo, entendeu? De você falar:
+"Pô, cara, vou começar."
+E cara, tem que começar assim, é um
+PowerPoint, um sonho e coragem pro
+telefone, prospectando, quem tem
+dinheiro já começa com tráfego pago e
+vamos embora. Monta só uma landing page,
+pau. É assim que eu comecei meu negócio.
+É assim que você deveria começar o teu
+negócio também. Eh, não sabe, tira essa
+ideia de ser um executor. Tira, tira,
+tira isso. Você tem que ser um cara de
+estratégia, só um cara de negócio,
+entendeu? O segredo não é você ser o
+cara que faz tudo, entendeu? É você
+saber montar. Você saber montar e depois
+você saber o que desenvolver depois.
+Esse é o grande segredo. Essa é esse é o
+maior ouro que eu acabei de entregar
+aqui para vocês. O grande segredo é você
+saber montar. Vou dar um exemplo para
+vocês. Eu comecei a acelerar. Eu comecei
+gravando o vídeo, vídeo aqui pro
+YouTube. Comecei gravando vídeo pro
+YouTube, gerando conteúdo para
+desenvolvedores, explicando para ele o
+seguinte: "Dev, você tem que empreender,
+porque eu era deve". E eu falei: "Cara,
+[&nbsp;__&nbsp;] eu empreendi, então, [&nbsp;__&nbsp;] por
+que que você não empreende também?" É um
+mercado, pessoal só falando para você ir
+pra gringa, para fazer dinheiro, [&nbsp;__&nbsp;]
+Não, empreende, cria o seu software, vai
+para cima e tudo mais, vende pá. E
+comecei a ver que os devs começaram a me
+seguir, a gostar do meu conteúdo. Aí eu
+falei, "Quer saber? Eu vou montar uma
+escola para dev empreendedor. Foi aí que
+nasceu Acelera 360. Isso foi em de março
+para abril. Pô, a gente vendeu para
+[&nbsp;__&nbsp;] Foi meu primeiro produto
+digital. Nossa, tem mais de 60 alunos. E
+aí depois começou a me parecer a
+aparecer pessoas dentista, advogado,
+médico, empresários, pessoal de agência
+de marketing. Falou assim: "Cara, eu
+quero ir pro digital. Eu quero ir pro
+digital, não, eu quero empreender com
+tecnologia, eu quero empreender com
+IIAI, eu quero aprender com isso e eu
+não consigo ou eu tô com a minha
+empresa, eu não consigo crescer, como
+que faz? Aí eu falei: "Porra, vem aqui".
+Comecei a mudar, pivotar, acelera,
+aumentar minha boca do funil, que é
+agora não é mais para deve empreendedor,
+agora é para empresário, é para
+empreendedor, é para quem quer
+empreender, é para quem quer entender
+como constrói um modelo de negócio
+palpável, entendeu? para quem quer
+entender sobre planejamento estratégico,
+sobre construção de máquina de venda,
+porque esse é o maior segredo. O segredo
+de todo de todo, principalmente produto
+digital, não é o código em si, não é o
+produto. E se é como você vende ele. O
+segredo é vender, é você reter, é você
+diminuir o seu turn, é você escalar.
+Esse é o segredo de uma empresa, de
+qualquer empresa. O segredo é esse.
+Pensa só quantos negócios você já ouviu
+falar que levantou capital com um
+PowerPoint apenas.
+produto não é tudo isso, então, né? Não
+é verdade, pô? O cara me deu uma ideia e
+esse é o segredo. Esse é o segredo. Daí
+depois, a hora que ele levanta capital,
+ele vai ter que tirar do papel. E cara,
+não é e ninguém espera o negócio tá
+pronto para vender, não. Ele vai tirando
+do papel e já vai vendendo, porque ele
+tem que tá sendo cobrado, tá sendo
+cobrado para aquele dinheiro que ele
+pegou, para aquele empréstimo, entendeu?
+E é assim que funciona e vai indo. E aí,
+qual que é o trabalho principal? É, é,
+é, é fazer o produto. Não é fazer o
+produto, é vender, é estruturar, é
+planejar, é a visão, entendeu? Entendeu?
+É, esse é o segredo principal, gente.
+Não pense como executor, pense como
+estrategistas. Se você quer fazer um
+negócio que cresça, comece a ter esse
+pensamento, entendeu? Não tenha cabeça
+de desenvolver tudo. Pensa que você é um
+arquiteto que constrói, você é o cara do
+crescimento, você é o cara que fala:
+"Porra, eu vou fazer esse negócio sair
+do papel. Teu trabalho, teu trabalho é
+tirar essa ideia do papel e fazer isso
+aí voar. E se você precisar de ajuda com
+isso, a gente tem acelera 360 lá para te
+ajudar, porque lá você vai ter acesso
+direto a mim e ao time, principalmente
+ao time que me ajudou a construir os
+meus negócios. Então, cara, é como se
+você tivesse um corpo de diretoria
+inteira para ajudar você a tirar o teu,
+a tua ideia do papel, ajudar você a
+fazer a sua empresa crescer. Se você
+quiser saber mais sobre isso, você vai
+clicar aqui no link que tá na descrição
+desse vídeo e se submete lá que a gente
+vai analisar e cai para dentro. Fechou?
+É isso, galera. Esse é o vídeo de hoje.
+Esse é o meu conselho que eu dou para
+vocês, tá bom? Ó, um abraço.

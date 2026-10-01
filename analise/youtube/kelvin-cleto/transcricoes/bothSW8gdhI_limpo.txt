@@ -1,0 +1,542 @@
+Fala galera, eu vou explicar para vocês
+hoje o que que é um AI operational
+system, o que que é um sistema
+operacional de inteligência artificial.
+Isso aqui agora é obrigatório. Toda a
+empresa vai precisar ter isso aqui para
+operacionalizar. Vocês estão vendo que
+loucura que tá acontecendo no mundo?
+Seos Force lançando o seu sistema, o seu
+Aios. A Nvidia lançando o seu Aios.
+Cara, o cloud, o cloud está absurdamente
+literalmente Ele tá
+operacionalizando tudo. Então, tá sendo
+possível fazer o que com o cloud? Com o
+cloud
+da Antropic, nós conseguimos criar, a
+gente consegue criar os AI employees, os
+empregados,
+os empregados com IA, cara, isso é
+bizarro. Só que qual que é o grande
+ponto? O que que é um AI operational
+System? O que que é um sistema
+operacional com inteligência artificial?
+O que que é esse tal desse Aios? Isso
+aqui é um software? É igual Windows que
+você tem que instalar? Não, ele não é
+igual ao Windows. Isso aqui é um
+conceito. Isso aqui é literalmente um
+modelo que você tem que começar a
+pensar. Se você é empresário, você tem
+que começar a implantar. Se você é
+empreendedor, você tem que começar a
+vender isso daqui, porque esse daqui é o
+novo normal. E as empresas que não
+implementarem este modelo, as empresas
+que não irem para esse caminho, elas vão
+deixar de existir. O mundo tá mudando
+drasticamente. Olha esses dados aqui, ó.
+Se liga. Todas as bigtechs estão
+brigando agora por esse nome aqui, ó. AI
+first, ou melhor, AI first OS ou não, AI
+Operational System. A gente tá falando
+de sales Force, a gente tá falando de
+Open AI, a gente tá falando de
+Microsoft. Microsoft, ó, embuti agentes
+autônomos no Office 365. Nvidia, mesma
+coisa, lançando a Siemens, mesma coisa,
+entendeu? Então, o jogo ele tá mudando
+para Iá ser o quê? a infraestrutura
+operacional de uma empresa. Para você
+que não me conhece, muito prazer. Meu
+nome é Kelvin Cleto. Eu sou o fundador
+da Acelera 360, o principal e sistema
+para empreendedores focados em
+empreender com inteligência artificial
+do Brasil. Então, se você quer
+empreender, se você quer tirar sua ideia
+do papel, o momento é agora e a acelera
+pode te ajudar. Nós ajudamos você a sair
+do zero com o seu negócio até emitir a
+sua primeira nota fiscal em 90 dias.
+mesmo que você não seja técnico. Então,
+pr você que quer empreender com IA, para
+você que quer colocar IA na tua
+operação, o link da Acelera tá aqui na
+descrição desse vídeo. É só você clicar
+e se inscrever na Acelera 360 que a
+gente vai te chamar aí. A gente vai te
+chamar e a gente vai te explicar como,
+ó, você sai do ponto A que você tá aí
+hoje e chega no ponto B. Esse caminho
+aqui, ó, a gente vai te ajudar. Você
+sabe qual que é o ponto B? resultado,
+emitir nota fiscal, faturar, fazer
+dinheiro com inteligência artificial. E
+aproveitando, já me segue aqui, tá? Que
+esse meu canal é sobre isso. Esse meu
+canal é sobre modelo de negócio. Esse
+meu canal é como você faz dinheiro com
+inteligência artificial. Aqui eu não
+fico falando de ferramenta, não fico
+falando de código, eu fico falando sobre
+como você, ó, estrutura tudo que você
+vai aprender aí por aí nesses canais em
+dinheiro, em contrato. Bora agora deixa
+eu continuar o conteúdo. E qual que é o
+grande conceito por detrás disso aqui? O
+grande conceito por de trás disso aqui é
+você operacionalizar um negócio com o
+mínimo
+possível
+de pessoas.
+Por quê? Porque pessoas
+é o gargalo da escala. gente é o gargalo
+de negócios escaláveis e empresas de
+serviço, de forma geral,
+empresas de serviço
+não poderiam ser escaláveis,
+porque conforme aumenta o serviço,
+aumenta a quantidade de pessoas para
+entregar esse serviço. E com este
+modelo, com um sistema operacional feito
+com inteligência artificial, a gente
+consegue fazer isso. E qual que é o
+grande conceito desse negócio aqui? nada
+mais é do que você ter vários agentes
+que são funcionários de IAS,
+orquestrados
+por uma solução.
+E esses agentes de A,
+esses agentes de A, não é um agente de A
+para responder no WhatsApp, não, não é
+isso. É tipo assim, ó. É o funcionário
+do financeiro,
+é o AI do administrativo,
+é o AI da onde? Do RH de contratação do
+recursos humanos.
+É as EAIS da squad
+agêntica.
+de tecnologia.
+E aqui tem um orquestrador. O que que é
+um orquestrador? É o que vai organizar
+a operacionalização e a conversa desses
+agentes para que eles trabalhem em
+conjuntos. E aqui na empresa a gente tem
+a gente, o ser humano, a pessoa mandando
+mensagem e trocando mensagem com esses
+agentes, pedindo informação pro
+financeiro, ou não só pedindo
+informação, financeiro executando e só
+falando, falando assim: "Olha, acabei de
+pagar uma nota aqui, hein? Ó, tem boleto
+para cobrar. Tô cobrando. Então, não é
+um agente que vai, não é um OpenCloud
+que você vai mandar mensagem falando
+assim: "Oi, como que tá aí?" Não é um
+OpenCloud falando assim: "Ah, oi, como
+que tá aí o meu o meu CRM? Como que tá
+aí o meu financeiro? Como que tá isso?"
+Não, porque aqui ele é reativo.
+Esse modelo, [limpando a garganta]
+este modelo aqui é um modelo que é
+ativo, próativo.
+Ele literalmente toma as decisões e
+executa. E logicamente com uma alçada,
+ele não pode sair aprovando despesas à
+torta direita, ele não pode sair
+contratando pessoas à torta direita.
+Alguém tem que vir aqui mandar uma
+mensagem para ele falar assim: "Olha,
+abre uma vaga para mim. Precisamos
+contratar uma pessoa. Aí quando chega no
+agente, orquestrou, veio o pedido, opa,
+esse aqui é pro RH. Manda pro RH. O RH
+faz o pedido, abre a vaga, recebe, posta
+lá no LinkedIn, começa a receber
+informação lá no LinkedIn, ele já
+responde lá no LinkedIn, ele filtra, ele
+qualifica o cara por e-mail, recebe o
+documento, o Doc X, ele faz o crio, ele
+pode responder aquela pessoa e ele toma
+toda a ação, ele vai
+entrevistando a pessoa ali por chat, por
+WhatsApp, que seja, mas ele vai fazendo
+todo o processo de filtragem até ele
+jogar esse cara aqui para aquela pessoa
+que pediu e falar assim: "Olha, você
+tava pedindo uma pessoa aqui para
+contratar para,
+pô, não sei, para fazer alguma coisa na
+empresa. Tá aqui, já selecionei. Essa
+aqui tem o perfil da empresa. Ela é
+alinhada com a nossa cultura. Agora
+você, já marquei a entrevista para você,
+a entrevista para você participar, para
+você conversar com essa pessoa, vai ser
+na quinta-feira às 14 horas. Tá aqui o
+descritivo da da pessoa.
+que pariu. Isso aqui é loucura.
+Isso aqui é loucura. Só que isso aqui é
+real. Isso aqui já é possível. Como isso
+aqui é possível? Cara, se você, por
+exemplo, pegar o
+Paper Clip,
+se você pegar o cloud, o cloud,
+o cloud no modelo multiagents aqui, ó,
+você já consegue fazer isso, gente.
+Nossa, meu Deus, que loucura. Uma
+pausinha rápida aqui para falar para
+você que a gente tá vivendo um momento
+de transformação. É uma nova economia, a
+economia da inteligência artificial. Eu
+realmente não sei o que espera esse
+futuro, mas eu sei de uma coisa, eu já
+tenho clareza sobre isso, que para um
+mundo novo que tá vindo aí, o velho não
+serve. Então, a gente tá no melhor
+momento possível para se empreender. A
+gente tá no melhor momento possível
+porque a gente está vivendo uma ruptura.
+E se você quer empreender, a acelera tá
+aqui para te ajudar. A gente vai apoiar
+você nesse processo de você criar a sua
+ideia, de você te escolher um nicho, de
+você entender os gaps desse nicho, de
+você mapear mercado, de você vender, de
+você fazer a emissão da sua primeira
+nota fiscal. Esse é o nosso objetivo
+como empresa. Acelera 360 é um
+ecossistema voltado em gerar resultado
+para quem quer tirar a ideia do papel,
+para quem quer colocar inteligência
+artificial de forma real no mundo para
+ajudar empresários. É sobre isso. Então,
+se você quer empreender, te convido a
+clicar aqui agora e se inscrever na
+Acelera. Bora que a gente tá no melhor
+momento possível para isso. Isso aqui é
+doideira. Isso aqui
+[limpando a garganta]
+traz pra realidade o seguinte.
+que uma empresa de serviço não precisa
+mais ter 10,
+20, 30, 40 pessoas para operar.
+Isso aqui traz algo ainda além. Presta
+atenção nisso aqui, ó. Presta atenção
+nisso aqui. Agora vamos pegar uma
+contabilidade.
+Uma contabilidade,
+certo? uma contabilidade. Essa
+contabilidade, ela vai implementar um AI
+first. Mas vamos olhar primeiro pro
+cenário da contabilidade hoje. Vamos
+dividir aqui assim, ó, entre o core da
+contabilidade
+e áreas de backoffice.
+Para vocês entenderem o por que tem que
+implementar esse negócio, porque que
+isso aqui vai ser obrigatório. Qual que
+é o core de uma contabilidade? fazer a
+contabilidade de uma empresa. Então
+aqui, ó, realizar a contabilidade,
+pagar os impostos,
+emitir as guias, as darf e por aí vai.
+Isso aqui é o core business. A parte
+contábil de um negócio é core business.
+E o que que entra com backoffice aqui
+numa contabilidade? Uma contabilidade
+também precisa de um setor
+administrativo. Uma contabilidade também
+precisa de um financeiro, de uma área de
+financeiro. Uma contabilidade também
+precisa de um RH.
+Uma contabilidade também precisa de um
+jurídico,
+precisa de várias áreas. E o dono da
+computabilidade, o dono da
+contabilidade, ou melhor, aqui, ó, como
+core business também, a gente tem o quê?
+Área de vendas. Kelvin, mas vendas não é
+backoffice, área de apoio? Não, vendas é
+sempre core business. E vendas depende
+do quê? De marketing.
+Toda a contabilidade, toda empresa
+precisa disso aqui. Só que isso daqui é
+o que realmente o dono da contabilidade
+faz muito bem. Entenderam? E vamos pegar
+aqui se essa contabilidade ela faz lá
+100.000 por mês, 100k por mês
+a uma margem de 30%. 30%.
+Beleza? Tão acompanhando? O dono da
+contabilidade faz isso aqui muito bem. E
+aqui ele coloca uma pessoa para
+geralmente fazer essas funções. Aqui
+geralmente, ó, o administrativo e
+financeiro é feito pela mesma pessoa.
+Então aqui é uma pessoa que faz a dupla
+função. Às vezes faz a tripla função, às
+vezes a quatro a a o jurídico ele não
+consegue fazer porque isso aqui é
+terceirizado. Tem que ter um um
+conhecimento próprio para isso. Vendas.
+Vendas não existe. É indicação, é
+tiração de pedido. Marketing. Que
+marketing? Marketing é contrata uma
+agência de marketing lá e para fazer
+para rodar tráfego pago quando faz.
+Agora isso aqui ele sabe fazer. Agora
+imagina o seguinte, imagina uma
+como núcleo aqui, ó. Como núcleo, ela
+instala um sistema operacional. Ela
+instala. Kelvin, o que que é esse
+sistema operacional? Esse sistema
+operacional é o paper clip ou o cloud
+code. Não importa o que que vai, onde
+vai ser feito essa parada. Essa, esse
+sistema operacional são vários agentes
+de A,
+Presta atenção nisso aqui. Um agente de
+A para fazer o administrativo,
+um agente de A para fazer o financeiro,
+um agente de A que faz o RH,
+um agente de A que cuida da parte
+jurídica, emissão de contratos,
+assinatura de contratos, um agente de
+IA, uma squad de IA que faz o marketing,
+uma squad de IA, e aí estão vários
+agentes de marketing e ainda uma squad
+de A que faz a parte das vendas e
+atendimento. Olha, olha que doideira
+aqui.
+Tudo isso aqui
+orquestrado por um coordenador, por um
+head, por um orquestrador.
+Tão entendendo isso aqui, ó, vou colocar
+num quadrado
+nichado
+com a narrativa de um administrativo de
+uma de uma empresa de contabilidade
+nichado com o processo com um processo.
+Isso aqui dentro de um processo, isso
+aqui dentro de uma base de conhecimento
+paraa contabilidade. Por quê? Porque o
+marketing da contabilidade é diferente,
+as vendas do processo de contabilidade é
+diferente, a RH de contratação de uma
+contabilidade é diferente. O modo como é
+feito administrativo de uma
+contabilidade é diferente, o core da
+contabilidade é diferente. Nossa, meu
+Deus. Vocês entendem que esse sistema
+operacional, o contábil OS,
+o Contab OS,
+quando ele é plugado aqui nesta
+contabilidade tradicional,
+ela pula de 30% de margem para 50,
+60%. Ela ganha possibilidades de
+escalabilidade,
+ela consegue trazer mais vendas. Por
+quê? Porque a estrutura já vem com
+agentes. Olha aqui, a estrutura do EAOS,
+ela vem com a parte da IA,
+ela vem com os processos
+e ela vem já com a estratégia de
+crescimento.
+É isso aqui, ó. Ela já traz tudo isso
+aqui junto, fazendo com que uma
+contabilidade tradicional
+dê um salto tecnológico e com isso aqui
+esta mesma contabilidade consegue ser
+competitiva
+perante uma conta azul. Que eu não sei
+se você tá acompanhando as notícias, mas
+a gente tá passando por ondas de layoffs
+massivas pra gente de tecnologia. O
+momento atual é o momento onde você tem
+que criar ou focar em implementar um
+sistema operacional com inteligência
+artificial. Para você que não me
+conhece, meu nome é Kelvin Cleto. Eu sou
+o fundador da Acelera 360. Eu já vendi
+empresa de tecnologia. Eu tô há mais de
+10 anos empreendendo. Eu tenho mais de
+18 anos na área de tecnologia. E agora
+eu fundei a 360, que é um ecossistema
+voltado para empreendedores e
+empresários que querem escalar os seus
+negócios com inteligência artificial ou
+tirar as suas ideias do papel. Então, se
+você quiser conhecer mais sobre acelera
+360, o link tá aqui na descrição desse
+vídeo.
+Conta azul, acho que não faz
+contabilidade, né, gente? Não sei. Com a
+contabilizei,
+que inclusive é parceira da Acelera 360.
+Para você que não conhece a Celera 360,
+nós somos um ecossistema de feito por
+empreendedor para empreendedores. Nós
+ajudamos você a empreender com
+inteligência artificial, você a
+estruturar sua oferta, você a lançar sua
+ideia, você emitir a sua primeira nota
+fiscal. Então, imagina o seguinte, em 90
+dias a acelera 360 se compromete a fazer
+você tirar a sua ideia do papel e a
+fechar o seu primeiro cliente. Olha que
+doideira. Se você quer empreender com
+inteligência artificial, se você quer
+tirar sua ideia do papel, se você tá
+cansado e quer aproveitar essa
+oportunidade aqui, ó, para fazer
+acontecer, clica no link que tá aqui na
+descrição desse vídeo. Bora empreender,
+porque estamos no melhor momento
+possível para isso. Se você é empresário
+e quer também, ó, implementar um modelo
+de inteligência artificial que vai te
+gerar mais faturamento, mais margem,
+mais escala pro teu negócio, clica aqui
+também e se inscreva na Acelera 360. Vai
+ser um prazer mostrar para você como o
+nosso ecossistema vai poder te ajudar.
+Bora empreender, hein? Estamos no melhor
+momento possível para isso. A hora é
+agora. Bora clica aí. Então, gente, isso
+aqui é o futuro. Na verdade, isso aqui é
+o presente. Isso aqui é um sistema
+operacional com inteligência artificial.
+É um sistema, é um AI first OS ou um AI
+operational system. Ah, Kelvin, mas eu
+conheço o sistema operacional como
+Windows. Nada a ver, velho. Sistema
+operacional é um sistema que você
+operacionaliza alguma coisa. Esse é um
+conceito.
+Até agora você conhecia isso como
+Windows. Agora a gente tá falando de um
+modelo
+de você operacionalizar literalmente uma
+empresa. Ele é um sistema operacional
+para empresa. E olha aqui, ele é
+construído por agentes de inteligência
+artificial, por um orquestrador de
+agentes de a para você trabalhar no
+modelo de multiagentes. Esses agentes
+não são agentes reativos, são agentes
+ativos. Pode sim ter agentes aqui de
+pesquisa no meio do processo, mas em sua
+maioria o objetivo deles é se tornar
+funcionários, executar literalmente o
+que um funcionário executa. Ele traz
+processo junto. Ele precisa ter
+processo. Então ele precisa ser nichado,
+ele precisa ser focado porque senão ele
+não consegue fazer, senão ele não
+consegue gerar esse tipo de resultado.
+Tão pegando? Tão pegando? E o que você
+pode fazer? Você que não é dono de
+contador, de contabilidade, você que é
+empreendedor, você pode criar isso
+daqui. Você pode criar porque isso aqui
+não deixa de ser o quê? Olha aqui, ó, o
+que eu falo há 1000 anos já aqui. Uma
+infra
+estrutura
+de crescimento.
+Nossa, minha letra é horrível. Com ai
+é uma infra. É uma infra de a, cara.
+É uma infra de A. E a gente tá no melhor
+momento possível para você fazer isso
+daqui. Escolhe o nicho, pesquisa o
+nicho, estrutura o nicho, constrói isso
+aqui. Constrói com quê? Com OpenCloud,
+com o cloud code nativo. Dá para você
+construir isso aqui diretamente com o
+Open Cloud. Não dá. É, open cloud não
+dá, mas dá para você usar o Paper Clip.
+Paper Clip é bizarramente
+entendeu? e construir tudo isso daqui,
+toda essa orquestração,
+toda essa indine focada num único nicho,
+focada em gerar mais faturamento, mais
+margem, mais escala e vai vender esse
+negócio, vai escalar, porque isso aqui é
+produtizado. Se você instala numa
+contabilidade, você instala na outra,
+que você instalar na outra, que você
+instalar na outra, que você instalar na
+outra. Se você faz isso aqui para uma
+advocacia previdenciária, você faz para
+uma, você faz para outra, você faz para
+clínica, você faz para uma, você faz
+para outra, você faz para outra, você
+faz para outra. Estamos num momento de
+virada. É a nova economia. É isso aqui
+que está derretendo as ações das maiores
+empresas de tecnologia
+do mundo. Por quê? Porque a barreira
+tecnológica está caindo drasticamente. É
+só você olhar. Vocês viram a notícia da
+da Oracle? 36.000 demissões do dia pra
+noite, investimentos absurdos em
+inteligência artificial. Tá tudo
+caminhando para isso aqui, ó. Só que
+empresas grandes têm capital de
+investimento. Por exemplo, a
+Contabilizei, ela conseguiu criar uma
+empresa, uma XTEC, uma, não sei se o
+contábil tec, não sei como que é o a o
+termo aqui, é terminologia. E ela usa
+muito IA para operacionalizar. Ela
+entrega serviço de contabilidade, só que
+ela operacionaliza muita coisa com quê?
+Com IA. Ela tem o seu AI first OS lá
+dentro, ela tá caminhando para isso, mas
+ela tem riso. E o contador que faz 100k
+por mês tem essa capacidade? Não tinha,
+agora ele tem. Por quê? Porque você
+consegue construir isso daqui com baixo
+investimento, entendeu? Com um baixo
+investimento.
+Por quê? Porque você também pode usar a
+própria IA,
+o próprio cloud,
+o próprio antigravity,
+então não importa o modelo, a você pode
+usar a própria, o próprio conceito de
+orquestrar agentes de A e criar uma
+squad de desenvolvimento com segurança
+também, tá? Não adianta nem ficar
+copando a segurança e desenvolver isso
+daqui,
+porque a barreira tecnológica mudou.
+produtiza isso aqui e vende para isso
+Isso aqui é sobre modelo de negócio.
+Isso aqui é sobre tirar ideias do papel.
+Isso aqui é sobre executar. Isso aqui é
+sobre aproveitar a oportunidade.
+A gente tá no melhor momento possível
+para isso, para você empreender, para
+você atacar o mercado, para você fazer
+acontecer.
+E se você quiser fazer acontecer, clica
+no link que tá aqui na descrição desse
+vídeo, que vai ser um prazer te apoiar
+nesse processo, porque a gente tá
+fazendo isso aqui na Acelera, a gente tá
+apoiando mais de 300 empreendedores, a
+gente tá metendo pressão, estamos indo
+para esse caminho aqui, sistemas
+operacionais com inteligência
+artificial, infraestruturas de
+crescimento com IA, é tudo a mesma
+coisa. E eu falo isso há um bom tempo. E
+se você tá me conhecendo aqui agora
+nesse vídeo, é só olhar o histórico aí
+que eu já cansei de me apresentar para
+vocês. Entenderam? Bora empreender.
+Tamos no melhor momento possível para
+isso. Espero que você tenha entendido a
+oportunidade e bora que é tudo nosso.

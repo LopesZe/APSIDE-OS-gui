@@ -1,0 +1,764 @@
+Esse daqui é o playbook que eu usei, na
+verdade, que eu documentei para criar a
+infraestrutura de a do meu negócio. E
+essa infraestrutura, basicamente, ela é
+dividida em três pilares que eu vou
+explicar aqui para vocês e vou mostrar
+como eu apliquei. O primeiro pilar é o
+cérebro. Eu não tô falando de planilha,
+PDF que você joga na janela da IA, não.
+Eu tô falando de dados estruturados
+reais, assim, ó, cérebro, um banco de
+dados bem estruturado, onde você vai
+jogar reuniões, quais foram as objeções
+que os clientes apresentaram, o que que
+você trata, reuniões com seus
+funcionários, conversas no Teams, no
+Slack, tudo, tudo tem que ser extraído,
+integrado, processado, organizado e
+armazenado, mas não é armazenado para
+você ler. Então, não tô falando de
+obsidian, eu tô falando de um
+armazenamento feito para uma agente de
+inteligência artificial consumir.
+Segundo pilar, os agentes. Então,
+skills, skills gerais, skills, não sei o
+que que é skill, Kelvin, peguei o vídeo
+agora assim, não sei o que que é. São
+habilidades, arquivos, markd, textos
+falando: "Olha, você é uma gente que faz
+isso, isso, isso, isso, você pode fazer
+aquilo, aquilo, aquilo outro". Que
+skills são essas? Skills gerais do teu
+negócio, skills estratégicas pro dono do
+negócio, pro empresário. Que que é uma
+skill estratégica? É uma skill do CEO,
+uma skill do CFO, uma skill que ajuda
+ele na estratégia, no planejamento, na
+na parte tática, no análise de dados,
+identificação de padrões, problemas e
+tudo mais. e skills por setor. Isso
+mesmo, por setor. Skills do setor
+financeiro, skills para conciliamento,
+eh, conciliação bancária, skills que se
+integram, por exemplo, com conta azul,
+que sabe se integrar com conta azul, que
+sabe se integrar com edad para emissão
+de nota fiscal automática, com RP.
+Quantos setores você, quantos setores
+você tiver, você vai ter que ter skills
+definidas para cada setor. E aí a gente
+entra em modelos. Qual que é o modelo
+que faz mais sentido para você? Quais
+são os assistentes que você usa?
+OpenCloud, Paper Clip, por aí vai.
+ferramentas agênticas, integrações, por
+exemplo, com as APIs aqui que eu falei.
+E o terceiro pilar mais importante, o
+dono do negócio. Então, nesse vídeo
+aqui, eu vou mostrar para você todo esse
+playbook. É um playbook que eu tô aí um
+ano e dois meses aqui no YouTube falando
+para vocês sobre infraestrutura de
+crescimento com IA e eu tô implementando
+no meu negócio e a IT vem mudando
+drasticamente e agora em 2026, cara, tá
+assustador o que dá ou não para fazer
+com IA. No começo do meu canal, eu
+falava pros empreendedores falarem
+assim, ó: "Cara, vai você ajudar o
+empresário a gerar mais resultado, a
+trazer mais faturamento, mais margem e
+mais escala pra operação dele". Hoje em
+2026, cara, tá assustador, mas o próprio
+dono do negócio, ele precisa entrar
+nesse mundo. Porque se ele não entrar
+nesse mundo, sabe o que vai acontecer?
+Ele não vai conseguir aplicar. Então,
+para você que tá me assistindo aí, deixa
+eu te falar uma coisa. Eu tive que
+enfiar a cabeça. Eu sou técnico,
+logicamente, mas você não precisa ser.
+Você só tem que usar no teu dia a dia,
+aplicar. E siga esse playbook aqui,
+porque você vai ter clareza do que você
+tem que fazer. Bora começar esse vídeo.
+Vamos lá, ó. Para você que não me
+conhece, muito prazer. Meu nome é
+Kelvin. Eu sou um programador,
+ex-programador que um dia decidiu
+empreender. Montei a minha primeira
+empresa aos 22 anos. Hoje eu tô com 34,
+a General Clins, que é uma insurtec do
+mercado de seguros. Hoje ela é uma das
+principais insurtex do Brasil. Vendi
+50.1% dela pro grupo IS, um grupo
+gigantesco também em 2022. E eu fiz o
+meu exit no ano passado. Hoje eu tô à
+frente da Acelera 360. Para você que não
+conhece a Celera, ela nasceu sendo um
+ecossistema voltado para ajudar
+empreendedores a empreender com IA. E
+hoje nós estamos ajudando empresários e
+empresas a fazer essa transformação
+digital, ajudando eles a criar a própria
+infraestrutura de crescimento com
+inteligência artificial. Se você quiser
+conhecer mais sobre Acelera, te convido
+a participar do nosso workshop que vai
+ser prático no dia 30/05. Nós vamos
+fazer um workshop, onde eu vou ensinar
+vocês o passo a passo de como
+implementar IA no dia a dia e ter escala
+no processo. É isso que você vai
+aprender. Você vai aprender a aplicar IA
+e gerar resultado real. Vou começar pelo
+dono do negócio. Kelvin. Por que que o
+dono cara, eu quero terceirizar por que
+o dono tem que fazer. Vou explicar meu
+caso prático para vocês. Mas qual que é
+o grande ponto, tá? O dono hoje, que que
+ele fala? Ele fala assim: "Cara, a gente
+tem que usar II first." Ele consome
+cursos sobre OpenCloud, sobre cloud, ele
+vai comprando mentorias, ele vai
+comprando ferramentas e ele vai falando
+assim: "Cara, ó, eu preciso de tudo
+isso." Ele não consome, né? Logicamente
+ele fica perdido e ele não consegue
+fazer, ele não consegue aplicar. Aí ele
+chega para uma agência de A ou para uma
+consultoria ou para um funcionário dele,
+fala assim: "Ó, cara, precisamos usar
+IA, precisamos implementar IA,
+precisamos ser uma empresa AI first". Só
+que, só que neste modelo aqui ele não
+aplica. Se ele não aplica, o que que
+acontece? Ele quer que as pessoas façam
+para ele aquilo que ele não faz no dia a
+dia. Então ele não sabe quais são as
+fronteiras. Esse aqui é o grande
+problema. Por isso que o terceiro pilar
+é o dono. Se você não aplicar, se você
+não usar, se você não tentar fazer, você
+não vai conseguir terceirizar, porque
+você não vai saber as fronteiras e
+principalmente o que é possível ou não.
+Aqui o que tá acontecendo muito, que eu
+tô vendo, são as os as pessoas que são
+céticas aí, ó. Nossa, com c aí matou o
+rolê, hein? Céticas, pessoas céticas.
+Fica que é uma pessoa cética. Ah, não,
+isso não dá para fazer, isso não
+funciona. Ah, mas gasta muito token,
+mais isso, mais aquilo, mais aquilo,
+outro. Aí que é o grande problema, o
+cético. O cético ele trava, ele vai
+travar. Então, quando você terceiriza
+pro seu funcionário fazer para você o
+seu resultado, você fica sentado
+esperando assim: "Cadê o resultado?", o
+resultado vai ser zero. Por que que o
+seu resultado vai ser zero? Porque
+ninguém vai estar tão comprometido com o
+negócio como o dono. Então, se você
+contratar uma consultoria, contrate uma
+consultoria que coloque você no processo
+on the middle, você aprendendo também,
+participando e executando e mexendo. Se
+você vai contratar qualquer empresa que
+faça isso, entenda uma coisa, isso não
+tira sua responsabilidade de aplicar.
+Para você que tá vendendo paraa
+empresário, coloca ele no processo,
+porque senão não adianta, o resultado
+não vai vir, porque a IA é nichada, a IA
+é verticalizada. E você vai entender
+isso agora, ó. Já dá o seu like nesse
+vídeo, comenta aqui também e se o
+conteúdo for bom, como é, compartilha,
+me ajuda a crescer, pô. Tô crescendo.
+22.000 seguidores, tem que crescer mais.
+Qual que é o cenário? O cenário é o
+seguinte, ó. Precisamos ser AI first.
+Deixa eu entender as fronteiras e usar
+no meu dia a dia. Foi isso que eu fiz.
+Primeira coisa, cara, o que que dá ou
+não para fazer? Porque eu pergunto pro
+programador, ele fala que não serve para
+nada, que só ah, não, me gera código
+ruim, tudo quebrado. Eu pergunto pr as
+pessoas, pessoas, ah, isso não dá para
+fazer ainda e a não é inteligente. Quer
+saber? Nem um nem outro. Deixa eu usar.
+Eu tenho um dia a dia, eu tenho muitas
+tarefas. Eu vou começar a colocar elas
+para rodar. Então o que que eu comecei a
+fazer? Eu uso, aí não funciona. Aí eu
+ajusto. Às vezes eu refaço, uso de novo,
+não funcionou ainda, não tá do jeito que
+tá. Tem que ajustar. Opa, cara, esse tem
+que refazer. O ajustou e vem direto.
+Faltou uma perninha aqui, ó. Esse
+ajustou pode vir direto para cá, ó. Pode
+vir para cá pro uso e aí vai indo. Você
+tem que usar. Esse é um conceito chamado
+dog food, que é o quê? Cara, fala comida
+de cachorro. Você tem que comer esse
+negócio que você tem que, sabe, aquilo
+que você quer que as pessoas façam,
+aplica no teu negócio, faz, usa.
+Entendeu? Por quê? Porque aqui você vai
+identificar as fronteiras e vai nascer
+uma visão do que é ou não possível.
+Neste processo, você vai criar skills
+sua, ferramentas próprias e por aí vai.
+Vou dar um um exemplo muito besta para
+vocês aqui. Eu estou gravando este vídeo
+aqui e eu estava com a aqui, ó, ela já
+gerou. Eu estou gerando as thumbnails.
+Então isso daqui foi algo que não não dá
+para fazer. A IA não consegue, ela não
+tem a capacidade de gerar thumbnails
+para mim. Claro que tem. Olha aqui, ó.
+Eu tô para esse vídeo que você está aqui
+me assistindo, eu gerei aqui várias, ó,
+de infraestrutura, pá pá, não sei o que
+lá, no playbook. Precisei codificar?
+Não, eu falo assim para ela, ó, eh, gere
+mais quatro, é, quatro opções
+diferentes,
+entendeu? Por quê? Porque eu criei uma
+skill chamada meu YouTube, entendeu? E
+essa, perdão, minha thumbnail. E essa
+skill, ela, essa habilidade ela foi
+construída. Você tem que aprender a
+fazer isso daqui. Kelvin, você vai
+ensinar a fazer isso no workshop? Vou
+vou ensinar vocês a construírem skills
+pro seu dia a dia. Mas entenda uma
+coisa. Toca aqui, ó. Você entende que
+isso aqui antes qual que era o processo?
+Vou até tem até um funil aqui para você
+entender. Ó, o meu processo no começo,
+ou melhor, o meu processo de vendas, ele
+é gigantesco. Ó o tamanho dele aqui, ó.
+Vou mostrar até para vocês. Esse vídeo
+no YouTube que vocês está assistindo,
+ele faz parte do quê? Do meu funil. Link
+do webinário no canal. Link do
+webinário. Clica aqui agora e se
+inscreva no workshop que vai ter. Você
+vai clicar, você vai preencher um
+formulário, vai preencher uma landing
+page, tudo feito por IA. Vai cair lá
+dentro do CRM. O CRM já foi configurado
+pela minha IA. E você vai seguir, vai
+estar lá comigo lá no domingo, vai
+aprend no no sábado, no dia 30, vai
+aprender, eu vou te ensinar e se fizer
+sentido para você lá, eu vou te ofertar
+algo. Por quê? Porque é uma empresa, é
+isso que é um negócio. Entenderam?
+Então, olha que interessante, o YouTube
+para mim é importante. Ele é um gerador
+de receita, logo eu tenho que focar
+nele. Ele é um ponto de ã pode ter um
+gargalo e ele tem que fluir de forma
+automática. Então, a pessoa que fazia as
+thumbnail, os nome dessa, dessa
+funcionário, dessa pessoa se chama thumb
+maker. Eu pedi para fazer com, ah, não
+dá para fazer, não fica tão bom. Eu
+falei: "Opa, chaco pai, deixa eu ver se
+não dá para fazer". Pô, por qu tão
+fazendo até vídeo com IA. Quem falou que
+eu não consigo fazer uma thumbnail? Não
+tem como. Não tem como. Lá vai eu.
+Cloud. Eu uso cloud, minha ferramenta
+principal hoje. Minha IA principal.
+Ainda tenho também a Open AI, mas a Open
+AI é mais meu psicólogo. A o cloud mesmo
+é o que eu uso para quebrar. Conceito
+dog food. Olha aqui, ó. Ah, que que eu
+que que que que tá sendo feito? Cadê?
+Deixa eu voltar aqui. Pô, que que tá
+sendo feito? Pô, vou tentar fazer. Ah,
+hoje eu não tenho tempo para fazer para
+você, Kelvin. Opa, deixa que eu me viro.
+Vou lá. Vai. Ficou bom, ficou bom,
+entendeu? Quer ver? Ó, pedi para ela
+gerar aqui. Cadê? Opa, essa aqui não.
+Esse aqui é o cerebral brain.
+Aqui tamnei lá já gerou, ó. A 16.
+Olha isso, velho. Construir sozinho em
+60 dias. Entenderam? Olha isso. Isso
+aqui é jogo. Olha aqui. Lout tá seguindo
+um padrão, entendeu? Uma estratégia.
+Aprendido. Então, foi nascendo o quê?
+Uma visão. Uma visão do que é e do que
+não é possível. O que que é isso? Isso
+aqui começa a dar para você as
+extremidades do que dá ou não para
+fazer. E Kelvin, o que que é uma
+infraestrutura de É quando você começa a
+juntar esses pedaços em um fluxo, em um
+processo, em uma infraestrutura própria
+pro teu negócio, do teu jeito, do modo
+como você trabalha. E essa
+infraestrutura própria te dá resultado,
+te traz mais faturamento. É por isso que
+eu ensino os meus alunos e parceiros a
+mergulhar num processo, a entender o
+processo e saber o que que mexe ou não
+ponteiro paraos clientes deles. Então,
+olha aqui, com a maturidade na IA começa
+a ser o quê? A necessidade de mapear
+novos processos. Por quê? Porque você
+começa a perceber que o jeito que as
+coisas são feitas não vai ser, não, não
+serve mais, não vai ser mais desse
+jeito. Você precisa reestruturar os teus
+processos. E é aqui que nasce o AI
+first. É aqui que nasce. Então ele
+começa nascendo do dono usando. Eu tenho
+o meu cérebro de a agora, agora que eu
+comecei a fazer ele, agora que eu
+comecei a estruturar, pego uma mensagem
+no, comecei a pegar mensagens no Teams.
+Por quê? Porque meu time conversa no
+Teams. Então eu comecei a mapear suporte
+do cliente, suporte do aplicativo, tem
+uma empresa de uma consultoria chamada
+KCG. Comecei a processar, comecei a
+integrar com o Clickup, pegar a
+informação do Clickup, que é uma
+ferramenta que a gente usa, tá aqui um
+SAS, comecei a pegar as conversas no
+WhatsApp e comecei a fazer isso como?
+Com integração, você pode fazer como
+código, mas eu não sei codar, Kelvin,
+tenta fazer com o cloud sem você saber
+escrever uma linha de código. Ah, mas
+vai gerar código vulnerável. Usa para
+você de forma interna, sem expor pro
+mundo, sem colocar, sem expor. Isso.
+Usas no seu computador, sem dar pros
+seus funcionários. Inicialmente lá, ele
+começa, você fazendo, integra com N8N, o
+Google Drive, vai pegando tudo. Aí você
+cria um processamento. Que que é esse
+processamento dessa informação que eu
+peguei? Quais são? Por exemplo, vou
+pegar aqui o meu cérebro, ó. Ã, aqui vou
+mostrar isso aqui que aqui tá resumido
+para vocês entenderem. Então, aqui eu
+tenho um grupo de alunos. Que que saiu
+ali? Pô, o Felipe ele tava o eh fal, ó,
+o Ah, não, aqui é resultado. Resultado
+que eles geraram, ó. Isso era importante
+também. Quais são as celebrações que
+teve? Quais foram as objeções que teve?
+Quais são os questionamentos? Por quê?
+As principais dúvidas. Eu ia lá e
+automatizava. E aí comecei a fazer,
+comecei a entender, ó, eh,
+desalinhamento entre público de building
+public e target real e alvo real. Como
+que eu faço para atrair leades do meu
+lixo? Daí o Kelvin Clet respondeu, igual
+eu te falei para vocês. Tá vendo que foi
+um aprendizado meu que eu mandei num
+grupo no WhatsApp? Ô, aí o que que eu
+fiz? Olha que loucura. Eu criei o
+cérebro aqui, certo? Aí, gente, nos
+agentes eu falei: "Pô, tem um cérebro
+que tem todo o meu conhecimento. Eu
+tenho um time de customer success que é
+de experiência usuário." Que que eu fiz?
+Falei: "Cara, agora que eu já o meu
+cérebro tá criado, vamos expor ele pro
+mundo? Fui lá e falei: "Pô, vou criar um
+um SDR chatbot".
+Falei: "Puta, não, não vai ficar legal".
+Então, eu coloquei o meu time de CS no
+Telegram. Cadê? Como que eu escondo
+aqui? Eu queria mostrar só uma partinha
+para vocês. Eu queria mostrar tudo.
+Coloquei no Telegram num modelo piloto
+assistido, não piloto automático.
+Coloquei a CS para conversar. Ela vai lá
+e fala assim: "Ó, agora me ajuda a
+responder, a tirar a dúvida desse
+aluno." Aí a dúvida desse aluno é com
+base em quem? No que eu já fiz de vídeo,
+de aula, de treinamento e por aí vai,
+entendeu? Então, olha que processo
+interessante. O OpenCloud para mim não,
+pro meu, pra minha empresa, não é o meu
+assistente pessoal. Eu tenho um
+específico para mim e eu tenho um da
+empresa. O da empresa é o que me gera
+Marroy. Entenderam? Então como que eu
+cheguei nesse nível? Porque eu aprendi,
+entendi e aí eu fui aprendendo
+ferramentas, o próprio SAS consegui
+criar, vou vou criando, você vai criando
+o SAS, vai entendendo as fronteiras. Por
+exemplo, esse daqui é um que a gente tá
+desenvolvendo aqui, né? que vai ser
+liberado pro pros nossos alunos, que é
+um agente em balde, bem bem específico
+mesmo, com base de conhecimento, ele já
+vem com tratamento de objeção,
+persuasão. Isso aqui, gente, foi gerado
+com IA. O design foi gerado com IA. Eu
+usei uma ferramenta chamada Open Design.
+E como eu consegui fazer isso? Olha
+aqui, ó. Geri uma ferramenta, um
+protótipo chamado com Open Design. Eu
+montei esse protótipo, tá vendo, ó? Eu
+montei esse protótipo inteiro aqui. É
+uma já é uma próxima versão dele que a
+gente tá fazendo catálogo. Eu montei um
+protótipo navegável, tá vendo como que
+ia funcionar o cérebro dele. Então eu
+fui vindo com meu conhecimento e fui
+pedindo, pedindo, pedindo, pedindo. Hora
+que ele montou esse design, eu falei:
+"Nossa, é isso". Eu joguei, comecei a
+fazer a construção da ferramenta,
+desenvolvimento, pá, pá, pá, pá. Vocês
+estão entendendo o nível? E eu só
+consigo fazer isso como?
+Porque eu me propus a fazer uma
+implementação AI first no meu negócio.
+Então tudo eu penso agora o seguinte,
+cara, como que eu faço cuá? Dá para
+editar vídeo cuá? Como que eu faço?
+Estudo, entendo. Aí depois eu entendi.
+Time tá aqui, ó. Começa a expandir. Você
+vai usar essa skill, você vai usar isso.
+Aí depois a gente entra naqui, ó, nessa
+maturidade de organizar os processos.
+Então vamos pegar um exemplo muito
+prático aqui. Mostrei para vocês esses
+soltos, né? Vamos pegar um exemplo muito
+prático. Eh, não vamos ficar falando de
+ah automação de CRM, não. Vamos, vamos
+fazer o seguinte, ó. Isso aqui é uma
+empresa, certo? Isso aqui é uma empresa.
+Isso aqui é um CNPJ. Show. O CNPJ, que
+que é um CNPJ, gente? É uma máquina de
+dinheiro.
+Show. Então tem que dar dinheiro. Quanto
+de e como que funciona o dinheiro que
+uma empresa faz? A gente tem lá o quanto
+a gente fatura, que é aquilo que a gente
+vende, e o quanto sobra no final do mês.
+Aqui, ó. Quanto sobra no caixa depois de
+tudo pago? Então aqui o empresário ganha
+dinheiro aqui. Isso aqui é onde o
+empresário ganha dinheiro. Nesse aqui é
+onde entra o dinheiro. No meio do
+processo vem saindo dinheiro. É o que
+sobra tá aqui. Então o jogo da
+infraestrutura,
+infraestrutura de A é usar inteligência
+artificial para aumentar mais o
+faturamento. Essa é a primeira opção,
+trazer mais dinheiro. Como que eu
+aumento o faturamento? Vendendo mais.
+vendendo mais. E como que eu vendo mais
+com o IA? Melhorando os meus fundos de
+venda, fazendo, criando uma agência de
+marketing interna, tudo com agente de A.
+Tem diversas opções, tá? Faturando mais
+ou aumentando a margem. Mais margem. O
+que que é mais margem, gente? É você
+diminuir custos operacionais com IA. O
+que eu fiz com o YouTube do meu funil,
+do meu thumbnail, é aumentar minha
+margem. Por quê? Porque eu não preciso
+pagar mais para alguém fazer. O que eu
+fiz, o que eu faço de edição de vídeo é
+aumentar minha margem. as landes que eu
+construo, as automações de CRM, geração
+de de de
+ai, esqueci o termo agora, e-mail
+marketing, é aumentar minha margem. Eu
+vou aumentando a minha margem. Por quê?
+Porque eu diminuo meu custo operacional.
+Então, se eu diminuo o custo
+operacional, eu aumento margem. Então, e
+se eu trago mais produtividade pro time,
+eu também aumento minha margem, porque
+eu faço mais com menos gente ou com a
+quantidade igual de pessoas. E a outra
+possibilidade que a gente tem aqui é
+trazer escala pro negócio, permitir com
+que o negócio seja escalável. Escala.
+Como assim mais escala? Vou dar um
+exemplo para vocês. Uma contabilidade.
+Uma contabilidade geralmente ela atende
+de forma regional. Agora, se eu
+estruturo o processo da contabilidade de
+uma forma que ele fique eficiente com e
+a a parte e eh as estruturação de
+demonstrativos, integração com o sistema
+de com RP, eh automação de de contas a
+pagar, quas a receber, se não faz isso
+não é contabilidade, emissão de nota
+fiscal. Se eu estruturo isso e eu o que
+o que que eu faço? Eu consigo
+transformar a minha empresa em
+escalável. Por quê? Porque daí eu não
+preciso mais atender só na minha região,
+eu posso atender contabilidade se aqui
+em Sorocaba e eu começar a atender
+clientes em qualquer cidade do Brasil,
+entenderam? Montando canal de aquisição
+para isso. Então, com infraestrutura de
+a forma da gente unificar a IA mais o
+processo da empresa para gerar mais
+faturamento, mais margem e mais escala.
+Entenderam? Eu falo que a infraestrutura
+é a intersecção entre inteligência
+artificial, processos e e estratégia.
+Por quê? Porque também tem você tem que
+ter estratégia de onde você aplica.
+Pensa aí você, quantos cursos você já
+fez? Quantos conteúdos você consome? Que
+que você tá está pesquisando com I? Você
+vai começar a ver que você está
+arrebentando de consumir conteúdo e não
+tá aplicando nada. Isso não tá tirando
+resultado. Ou você já contratou alguém,
+já desenvolveu um software, já comprou
+um software, já fez um só que o
+resultado não vem. O resultado não tá
+vindo. Então tá vindo porque tem algum
+problema. E aí esse playbook serve para
+isso. Tô mostrando para você a vida
+real. Isso aqui é vida real, tá? Mais
+uma vez convido você para ir no meu
+workshop que vai se chamar a Nova
+Economia da Inteligência Artificial no
+dia 30/05. O link tá aqui na descrição
+desse vídeo. Ele vai custar R$ 47. Vai
+ser uma tarde inteira, das 1 da tarde às
+8 da noite, onde eu vou mostrar para
+você como você vai configurar o seu open
+cloud, como que você vai mexer no cloud,
+como você vai criar skill, como você vai
+mapear o seu processo. E eu vou mostrar
+o meu processo mapeado e o que eu tô
+fazendo. Você vai sair de lá com clareza
+de como você vai gerar resultado real
+com infraestrutura de ar, como você vai
+montar sua própria infra infra melhor,
+como você vai montar sua própria infra.
+Então, deixa eu mostrar aqui para vocês,
+ó. Isso aqui é o que é o meu negócio.
+Então, o Instagram para mim é um canal
+de aquisição. O YouTube é um canal de
+aquisição. Eu rodo tráfego pago. Esse
+aqui são meus funiços. No final das
+contas, o que que acontece? Eu tenho a
+Acelera 360, eu gravo vídeo no YouTube,
+eu posto no Instagram, eh, vocês clicam
+em algum link ou no webinário, no
+workshop ou aplicação direta. Isso cai
+numa landing page. A hora que cai nessa
+landing page, você se inscreve, cai no
+meu CRM, caiu no meu CRM, o meu time
+comercial entra em contato com vocês ou
+vocês caem num vídeo num no num entra
+num processo de workshop onde eu gero
+resultado, mostro para vocês o que dá
+para fazer e no final eu faço uma oferta
+e para quem faz sentido entra para
+dentro da escola ou entra para dentro da
+acelera 360. Então esse é o meu
+processo. Agora onde eu uso IA, que que
+eu fiz? Me mapeando. Todo dia eu tenho o
+quê? Processo de postar DM, mais res com
+link com lead magnétic. Dia sim, dia
+não. Store com questions and answers,
+perguntas e respostas. Caixinha de
+pergunta. Caixinha de pergunta,
+resposta. Respondeu. Pergunta fake, mas
+CTA webinário, beleza? E link do evento
+na bio, link do webinário na bio, no meu
+Instagram e perfil. Isso aqui é um canal
+de aquisição. Instagram, YouTube, como
+que funciona? Eu faço vídeos, gero
+resultado, gero, mostro para vocês a o
+que eu faço no dia a dia, vocês se
+conectam comigo e aí vocês clicam no
+webinário, no link do Instagram do canal
+ou no webinário via vídeo. Es, eu rodo
+criativo, eu vou testando criativo, eu
+vou criando criativo estático via vídeo
+e tudo mais. E aí tudo isso aqui joga
+sempre para uma página. Essa página tem
+uma popup, ela tem um checkout. Página,
+vou mostrar aqui para vocês. Página pá.
+Aqui essa é uma página. A página tem
+popup. Garantir o meu ingresso. Preenche
+nisso aqui. Clica em checkout. Cai no
+checkout. O checkout é o link de
+pagamento, paga aí, entra, recebe, cai
+no grupo do WhatsApp e por aí vai.
+Beleza? Você clicou aqui, preencheu os
+dados e não pagou. A gente tem o
+processo de trabalhar. Tem o e-mail,
+póspup, garante seu ingresso,
+boas-vindas, sequência de followup. Que
+que é followup? Eu vou ficar enchendo
+teu saco. E aí, vai vir? Não vai vir,
+vamos, não vamos. O mesmo pro WhatsApp.
+Tudo isso aqui é um processo. Isso aqui
+começou sendo feito 100% manual. Eu só
+tinha um CRM, um número de WhatsApp e eu
+fui aprendendo. E aí eu comecei a
+implementar, falei: "Cara, capa do
+YouTube, o cara demorava dois dias para
+fazer landing page, cada landing page
+que eu fazia, pagava de R$ 800 a R$.
+Comecei a fazer tudo isso aqui, ó, feito
+com IAP, tudo feito com IAP, no meu
+estilo, a nova economia da IA, eu tenho
+outras aqui, ó, a última chamada, eh, a
+Senada Partners e por aí vai. Então,
+várias un landing pages, cada uma com a
+sua estrutura, cada uma com a sua cópia.
+com as imagens e por aí vai. Isso aqui
+custava de 800 a 1500. Eu, como que eu
+faço isso agora com IA? E agora? Consigo
+fazer land page com IA? Consigo fazer
+cópia com IA, consigo fazer vídeo com
+IA? Consigo fazer criativo com IA?
+Consigo fazer automação com IA? Tá. Que
+que tá faltando? O processo. O processo.
+Então, cadê meu mouse, gente? Perdi
+aqui. O processo. Qual que é o processo?
+Processo é o Kelvin grava um vídeo pro
+YouTube, o Kelvin mesmo gera thumbnail.
+Eu publico no YouTube. Publiquei no
+YouTube, eu tenho uma automação que pega
+a transcrição do vídeo e joga no
+cérebro. O cérebro aprende. Aí eu tenho
+uma outra automação que gera os e-mails
+para fazer a notificação para as pessoas
+falando: "Olha, saiu um novo vídeo do
+YouTube, eu tenho uma outra que gera
+cópia para fazer postagem no LinkedIn.
+K, mas eu não vejo você postando no
+LinkedIn, é porque o LinkedIn não me dá
+retorno, então ela tá desativada". Mas
+agora, como eu comecei a falar para B2B
+diretamente de novo, se você é
+empresário, dono de empresa, no
+Workshop, a gente vai reativar e vai
+começar a abrir outros canais. de
+aquisição. Então aí isso vai entrando,
+vai entrando, vai fazendo. Vou dar um
+exemplo. Eh, a gente usa o conta azul
+aqui. O funcionário manda uma despesa
+para reembolso no WhatsApp e a gente já
+tipifica, entende aquele tipo de despesa
+e lança no conta azul. A hora que o faz
+sair determinada venda que o pagamento
+não é feito pela QFi, quebra a emissão
+da nota fiscal. A gente tinha um
+processo de ficar eh emitindo nota
+fiscal manualmente. A gente criou um
+agente, integrou com a SPED, que é uma
+um SAS que emite nota fiscal
+configuradinho e tudo mais. Eles pedem
+para um agente e ele gera a nota fiscal
+e já faz o disparo direto. Isso tira o
+quê? Peso operacional. Aí a inteligência
+artificial traz resultado. Aí a intelig
+traz resultado. Aí o cloud traz
+resultado. Então assim, se você acha que
+pagar R$ 500 no cloud é caro, entenda
+uma coisa, hoje eu tenho uma um custo aí
+de aproximadamente uns 8.000, 8000 e
+pouco por mês de cloud. Por quê? Porque
+eu coloco o Cloud Max 20X na mão de cada
+colaborador, dos que fazem sentido,
+logicamente, e eles usam o cloud com as
+skills do meu negócio. E aí vai
+aparecendo outros problemas e esses
+problemas você tem que ir resolvendo.
+Por isso que o dono hoje ele tem que
+estar usando, porque aí você vai
+conseguir mapear o seu processo, você
+vai conseguir mexer no seu processo e
+você além de dono, você vira um cara, um
+papel que chama evangelizador. Você vai
+evangelizar isso do teu empresa. Kelvin,
+mas o que se se o cloud fechar e se
+ficar caro o token e se acontecer isso?
+Entendo uma coisa, esse não é o momento
+de pensar desse jeito. Eles não vão
+fechar, eles não vão quebrar. Pode
+acontecer, pode, mas é uma possibilidade
+remota, porque a gente tá no mundo
+capitalista. Se eles fecharem, tem
+outros para substituir, tem o openi. E
+outra, eles estão numa briga agora de
+quem vai fazer a quem que vai dominar o
+mercado. Isso nos beneficia porque o
+token ele vai baratear, entendeu? Ah, e
+se fica caro, tem opções de montar LLMs
+gratuitas. Você tem o Open Cloud, você
+tem o você pode subir o Kimica do E
+qualquer outro LLM. Isso não entra no
+mérito. Foca hoje em gerar resultado pro
+teu negócio. Para de ficar consumindo
+cursos e cursos e cursos e não sei o que
+lá mais. E começa a seguir o processo
+que tem que ser executado. Começa a dar
+cadência na implementação, na aplicação,
+em consumir e fazer. Kelvin, meu dia tá
+lotada, não consigo. Aí que você tem que
+fazer mesmo. Por quê? Porque se você tá
+até a boca de trabalho, tem um problema.
+Tem um problema sério. Tem muita coisa
+que você faz de forma manual. Cara, eu
+conectei a no meu e-mail. Eu jogo o
+e-mail para dentro do meu cérebro e
+alguns e-mails até respondo automático.
+Por quê? Porque eu preciso liberar tempo
+para fazer isso aqui. Porque isso aqui
+gera resultado para mim. Isso aqui sim
+gera resultado. Isso aqui gera resultado
+de autoridade. Isso aqui gera leads.
+Isso daqui isso aqui eu digo, criar
+vídeo aqui no YouTube gera eh
+networking. Conheço pessoas que eu
+jamais acessaria de forma tão simples
+quanto o YouTube, porque elas me chamam
+para me conhecer, conhecer as minhas
+empresas, conhecer o meu trabalho. Elas
+compartilham da visão comigo e isso vai
+gerando a roda, vai fazendo a coisa
+crescer. É por isso que eu consegui
+crescer o meu negócio tão lar tão
+rápido. Em 2025 com Acelera, a gente
+basicamente ele bateu 2.7 milhões
+no primeiro ano de operação. Entendem?
+Então mais uma vez usem IA, abusem da
+IA, usem e abusem no seu dia a dia e vão
+para cima que 2026 tá só começando. O
+mercado tá louco, tá doido. É isso. Já
+manda esse vídeo aqui para alguém, já dá
+o seu like aqui. Então é isso, esse
+vídeo foi sobre isso, espero que você
+tenha gostado e vamos com tudo, ó. Mais
+uma vez, o workshop, quero você no meu
+workshop, vai ser dia 30, vem. Não, não
+fica de fora, não vai perder. Bom,

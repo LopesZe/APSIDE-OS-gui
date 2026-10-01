@@ -1,0 +1,387 @@
+estamos diante se não da maior uma das
+maiores oportunidades da história para
+se empreender e ganhar dinheiro é isso
+mesmo que você acabou de ouvir tá tá
+nascendo um novo modelo de negócio
+nascendo não o modelo de negócio no caso
+distribuição de software tá tá mudando
+tá sendo transformado e com essa
+transformação você tem a oportunidade
+agora de empreender com o ia vertical
+é assustador tá então se você quer fazer
+dinheiro na internet se você quer
+aproveitar uma onda tipo as dos
+infoprodutos tipo a do dropshipping Essa
+é a hora literalmente
+isso vai fazer pessoas ficarem
+milionárias do dia pra noite e também
+vai fazer milhares de pessoas ficarem
+desempregadas É nisso que eu acredito eu
+realmente estou
+convencido de que a gente está diante de
+uma nova onda e essa onda pode muito bem
+sim ser aproveitada por você que quer
+empreender para para você que quer quer
+empreender mas eu quero Até deixar um
+ponto aqui adicional que é o seguinte eu
+quero destacar para você que é
+desenvolvedor e tá você é desenvolvedor
+programador tá assistindo esse vídeo
+aqui agora você é o cara que tá
+trabalhando tá triste tá se sentindo
+amarrado tá com o seu dom da criação aí
+e de criar porque todo programador tem
+esse dom né de criar de inventar e de
+admirar aquela obra que ele criou
+falando caraca Foi eu que fiz então você
+talvez o dinheiro já nem faça tanta
+falta para você porque você já ganha bem
+Cara essa é a oportunidade que você tem
+de empreender porque você é o tipo de
+profissional que mais tem capacidade
+hoje que está preparado para surfar essa
+onda fica comigo até o final desse vídeo
+que eu vou te explicar
+Porque deixa eu deixar até um ponto aqui
+ó se o que eu apresentar aqui para você
+agora der pelo menos um Insight
+Acer pelo menos uma fagulha de ideia já
+valeu a pena já valeu a pena vamos lá eu
+vou explicar agora aqui para
+vocês deixa eu pegar
+aqui pera aí
+gente então tô compartilhando minha tela
+com vocês com o meu
+minha segunda tela primeiro antes de
+explicar o o por que a a i vertical é
+algo tão tão feroz né é uma nova onda
+vocês vão ter que entender um pouco do
+modelo
+e de distribuição de software Então
+vamos lá a gente começa aqui ó em
+1990 ou 1999 com esse buom da tecnologia
+o buom do do desenvolvimento de software
+né então tem aqui seus Force aí de 99
+até meados de
+2010 Vou colocar até um traço antes Aqui
+as plataformas tinham modelo de Venda de
+licença e
+instalação saca esse era o padrão a
+internet não era tão robusta a ponto de
+ter um modelo de distribuição de
+software como é hoje e aí esse mercado
+ele acabou meio que
+colapsando só que ele se reinventou
+então o modelo de venda de software foi
+mudado em vez de vender o CD que você
+comprava lá a licença e comprava o CD e
+instalava no computador instalava no
+servidor o modelo de software passou a
+distribuição de software mudou para o
+software as a service em vez de você
+comprar a plataforma você aluga ela
+certo então vamos
+lá primeiro você tem
+aqui a época do CD cdzinho Nossa que CD
+sem vergonha certo onde você faz o
+setup mais a instalação mais a
+instalação com licenciamento né então
+você compra aqui a licença isso aqui se
+transformou deixa eu apoiar aqui para
+poder escrever no modelo
+SAS que é o software as a service Então
+você desenvolve
+então a empresa né desenvolve a
+ferramenta a plataforma certo só que em
+vez de vender a plataforma você aluga
+você cobra lá um setup de implantação
+cobra R de implantação
+mais uma
+mensalidade ou uma licença anual saca
+que no final das contas D dá na mesma
+isso aqui gera um processo de
+recorrência Cara isso aqui transformou a
+indústria do software tá então Então
+você entra aqui em meado 2017 isso aqui
+possibilitou também criação de dezenas
+de Startup você tem plataforma sas o
+surgimento da plataforma SAS é esse self
+funded aqui é Empresa SAS que surgem com
+o próprio investimento né então tipo não
+tem nenhum ventory capital investindo é
+o cara monta a plataforma vende eu
+montei a minha ferramenta sim monta ela
+desenvolve vende e cobra mensalidade com
+o próprio dinheiro que vai entrando você
+vai se auto Auto investindo né se
+reinvestindo e o modelo de ventry
+capitals que é o cara vai monta o pit
+apresenta levanta dinheiro para
+desenvolver e vender
+então e aí a gente tá nessa nova bolha
+que surgiu em 2022 da ia beleza Tá bom
+agora que que começou a acontecer então
+vou pegar aqui essa isso aqui já morreu
+tá isso aqui morreu Então vamos pegar
+aqui ó
+o mundo
+SAS e o mundo
+certo legal no mundo SAS a PL as
+soluções os softwares que são
+desenvolvidos tipo pega por exemplo aí o
+clickup é uma plataforma de gestão me
+genérica saca e esse clickup ele
+ele organiza E você tem que ir lá e
+imputar a informação nele então a pessoa
+ainda ela existe o que que ela Traz Ela
+traz um aumento de performance Ela traz
+algumas automações Ela traz sim
+agilidade operacional certo beleza então
+esse é o principal foco do SAS ele
+gerencia ele automatiza algumas coisas
+mas ele Depende muito do input humano
+ainda e da atualização humana legal Aí
+surge os modelos de
+os llms
+beleza esse bundo de llm Então aqui tem
+o chat
+GPT de
+psique o creck do El musk que é muito
+bom hein testei hoje falar nisso é Creek
+será que é com dois ess não sei não tem
+problema o creck e whatever várias llms
+aqui que são modelos
+generalistas que são modelos que são
+treinados com maçarocas e maçarocas de
+dados e são generalistas e funcionam
+muito bem funcionam muito bem mas você
+que usa o chat PT sabe que dá trabalho
+inclusive ele é tão generalista e dá
+tanto trabalho que surge Aqui o tal do
+engenheiro de
+prompt engenheiro de prompt
+que é alguém que sabe escrever e
+perguntar de uma maneira que ele consiga
+extrair o máximo de eficiência possível
+de uma llm certo até aqui tudo bem aí o
+que que começou a acontecer chegou o
+buom da ia e essas empresas de SAS
+começaram a colocar ia dentro do SAS
+delas então por exemplo se você entrar
+no clickup você vai ter o ai assistant
+você vai ter o no no pipefy o o Pipe ai
+por exemplo que basicamente também é um
+llm lá dentro que você entra e faz
+perguntas e respostas Ou pede para ele
+escrever um texto tudo mais ele ainda
+acaba sendo só um
+assistente
+entenderam aí que tá a grande
+oportunidade aí que tá a grande
+oportunidade porque nesse meio do
+caminho nesse cruzamento nesse
+nascimento de i generalista e o sas aqui
+existe esse
+pedaço que ele
+é o pessoal tá chamando até de a i
+as a
+aias que é o é o é a ia
+a vertical vertical ai é ao contrário né
+o vertical vem para cá e o a vem para cá
+é a ai vertical Tá o que que é eiia
+vertical o que que é essa parada é um
+modelo é uma llm então é um modelo de
+treinado de
+forma
+específica para
+resolver um único tipo de
+problema dentro de um
+problemas que o mercado
+tem por exemplo vou dar um exemplo muito
+simples para vocês uma
+llm que PR
+contabilidade Dad que ela
+faz ela faz ai esqueci o nome
+agora sumind da cabeça um problema
+que tem na minha empresa que é uma
+desgraça Man min demora mora meses para
+meses não mas dias para fazer
+tipificação
+de despesas e receitas ela lança o tipo
+da despesa e da receita então tem uma
+menina hoje ó Então vamos lá existe uma
+pessoa lá na parte do
+financeiro que ela recebe a lista de
+todas as despesas do
+mês e ela recebe também a lista de todas
+as receitas do
+mês e ela enquadra isso daqui em centro
+[Música]
+custo tipo da
+despesa tipo da
+despesa ela Ajusta a descrição da
+despesa entre outras coisas existe uma
+pessoa que faz isso aqui essa pessoa
+ganha
+2.800 e ela consegue trabalhar 16 168
+horas por dia acho que vocês já
+começaram a entender onde eu quero
+chegar ela trabalha 168 horas por dia e
+por dia ou 168 horas por mês e por dia
+ela trabalha 8 horas mas o efetivo deve
+ser em torno de umas 5 horas me0 6 horas
+o efetivo tipo assim trabalhada mesmo
+então assim ela consegue fazer isso numa
+determinada limitação e ela tem um custo
+por isso O que acontece se eu criar um
+agente de a específico que ele é
+responsável somente só por
+somente
+tipificar determinar Qual que é o tipo
+da despesa ele recebe a imagem ou ele
+recebe o texto ele fala essa Isso é uma
+despesa do tipo
+locomoção Ajusta a observação centro de
+custo
+tal e ele vai lá e preenche depois no
+Excel
+entenderam Esse é um tipo de a vertical
+por que que eu acredito que esse aqui tô
+convencido na verdade que esse aqui é o
+novo mundo porque o Vale do Silício
+inteiro os grandes fundos de
+investimento estão já investindo bilhões
+em empresas que estão criando os tus
+dos Cadê e a as na verdade eles eles
+cortaram esse a aqui E esse termo tá
+mais popular chama SAS que é service as
+software entenderam legal agora Kelvin
+eu não tenho bilhões para investimento
+eu não tenho eh
+tempo ou eu não sou um desenvolvedor por
+exemplo para criar uma solução por isso
+que eu falei que para desenvolvedor é
+muito melhor que que eu faço então V eu
+vou desenhar dois cenários aqui para
+vocês ó o cenário para
+Dev e o cenário para meros
+mortais brincadeira pessoal é que eu sou
+da tecnologia também eu adoro isso tá
+bom vamos lá ó pra
+Dev Cara você deve
+consegue tranquilamente tem um monte de
+llms Open sources lá no no no github
+treinar baixar treinar em Python você
+pode fornecer você pode na verdade você
+primeiro escolhe ó aqui ó O Segredo O
+único problema para
+resolver depois que você resolver esse
+problema você embala
+ele dentro de uma
+llm resolve ele com llm mais aqui um
+código de Api para você poder para poder
+consumir isso ou um front end ou um
+front mais um
+front E aí você distribui
+isso em forma de SAS como SAS ou como
+recorrência né com recorrência
+ias sacou Então você pega lá putz vamos
+pegar esse caso aqui ó pega uma llm faz
+o treinamento dela para para resolver
+esse tipo de problema aqui de despesas e
+receitas você embala Isso numa api e
+você simplesmente começa a vender começa
+a distribuir você que tem uma plataforma
+SAS que de lançamento de despezas
+integra aqui com a miia que isso vai
+fazer automático você que tem uma
+empresa assim assim assado você pode
+usar o meu Fronte aqui que eu faço isso
+para você de forma automática entenderam
+isso aqui pro dev o Dev vai Dev você vai
+ter muita mais facilidade para fazer
+isso meu exemplo aqui pode ter sido
+besta mas imagina o seguinte uma um
+agente GPT um agente GPT não um agente
+de de a ou múltiplos agentes trabalhando
+junto para conseguir fazer
+jurisprudência eh identificar
+jurisprudências em casos jurídicos
+integrado com juz Brasil integrado com
+plataformas do governo que da Justiça
+que liberam as informações sobre
+resultados de ações para advogados cara
+é absurdo saca E por que que isso aqui é
+tão poderoso tá eh ou melhor antes disso
+deixa eu voltar na linha de raciocínio o
+Dev tem essa oportunidade de desenvolver
+os mos Mortais você não sabe desenvolver
+tudo bem mas você consegue
+treinar o próprio GPT o
+agente no no GPT no chat ept no Croc
+você consegue criar um agente lá dentro
+ele vai ser tão robusto não vai mas ele
+você consegue pegar uma dor específica
+por exemplo escrever copy cara é difícil
+para saca Por mais que você tente
+usar o chat PT você tem que passar horas
+horas e horas e horas para você refinar
+o chat APT para fazer ele realmente
+gerar Algo que faça sentido e aí você
+pode pegar por exemplo o curso do
+Leandro Ladeira você pode comprar o
+curso do do do an Araújo condensar
+Aquele monte de informação dentro do seu
+agente GPT e vender um agente GPT que
+faça cop em vez de você vender de uma
+vez só também você aluga Então você como
+que você aluga você fala faz o cara te
+pagar por mês enquanto ele pagar por mês
+ele tem acesso ao seu ao seu ao seu
+agente se ele parar de pagar você
+cancela a assinatura Simples assim é
+muito
+fácil é muito rápido e por que que tá E
+por que que isso é tão atrativo né Por
+que realmente é um mercado que tem Tem
+essa atratividade Por que eu acho que é
+realmente uma onda que dá pr fazer muito
+dinheiro com isso porque é o
+seguinte vamos entend por que as
+empresas el compr alguma coisa a empresa
+ela só compra se ela ti
+aumento de receita então a receita dela
+aumentar a empresa ou ela vai comprar se
+ela tiver uma redução
+custos muito
+agressiva ou ela aumenta a receita ou
+ela abaixa os custos ou ela reduz
+riscos Esses são os principais gatilhos
+de compra que uma empresa tem se a gente
+tá propondo criar um modelo de a um
+agente que literalmente consegue
+substituir uma pessoa
+Você tem uma redução de custo efetiva a
+ponto dele pagar sem
+pensar entenderam conseguiram entender
+por isso que esse é um modelo muito
+agressivo é um modelo de negócio muito
+agressivo utilizando EA e por isso que
+isso aqui vai transformar o mundo do
+SAS porque as empresas de SAS que hoje
+também são verticais tendem a criar os
+seus próprios llms treinados e
+específicos para resolver um determinado
+problema e você ter a oportunidade de
+surfar Essa onra é isso galera eu acho
+que aqui eu dei uma explicação Geral do
+que é essa nova oportunidade realmente é
+uma nova oportunidade tá eu tô realmente
+convencido sobre isso então assim se
+você quer empreender essa é a hora essa
+é a hora ó deixa eu te falar já se
+inscreve no meu canal aqui eu falo sobre
+empreendedorismo fala pro pessoal da
+tecnologia ativa o Sininho para você
+receber novos vídeos e E mais uma vez
+muito obrigado pela tua audiência tchau

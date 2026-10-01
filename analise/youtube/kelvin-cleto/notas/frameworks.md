@@ -1,0 +1,143 @@
+- **Framework/método:** Aprendizado por projetos práticos e resolução de problemas reais
+- **Framework/método:** Modelo das cinco áreas da vida para equilíbrio; classificação da tecnologia como meio ou fim
+- **Framework/método:** Liderança como coach e mentor do time, focada em desenvolvimento de pessoas
+- **Framework/método:** Business value development — decisões guiadas por valor de negócio, entrega e resultado
+- **Framework/método:** Product strategy — visão de negócio, mensuração de valor e priorização por impacto
+- **Framework/método:** Três habilidades de valor: explicar/defender ideias → negociar soluções → liderar discussões
+- **Framework/método:** Jornada pessoal como modelo: aprendizado contínuo, mentoria, superação de falhas e foco em valor
+- **Framework/método:** Ciclo de aprendizado ativo (estudar, aplicar, analisar, corrigir), adaptação do PDCA
+- **Framework/método:** Critérios de adoção de microsserviços (banco isolado por serviço + consistência eventual)
+- **Framework/método:** Segmentação clara entre frontend/backend com cronologia de aprendizado (fundamentos antes de frameworks)
+- **Framework/método:** "Dev radar" — gráfico de radar para avaliação de habilidades (backend, frontend, empreendedorismo, cloud, testing, estratégia de negócio, devops, soft skills) em escala de 0 (não sabe nada) a 5 (mestre Jedi)
+- **Framework/método:** Validação rápida — vender a ideia antes de investir em desenvolvimento
+- **Framework/método:** Plano de negócio flexível com validação prévia e aceitação de ajustes constantes
+- **Framework/método:** Três passos sequenciais para identificação de oportunidade (Observar → Conversar → Validar)
+- **Framework/método:** Stack de carreira longa (backend Java/C#) e diretrizes de apresentação para profissionais experientes
+- **Framework/método:** Modelo de currículo técnico otimizado para passar na triagem e facilitar a entrevista
+- **Framework/método:** Dimensionamento de oportunidade com TAM, SAM e SOM
+- **Framework/método:** Critérios de seleção de sócio técnico (competência + comprometimento + espírito empreendedor + alinhamento de visão)
+- **Framework/método:** Lista de erros críticos com mitigações: acordos de sócio, validação rápida, início lean, gestão profissional e decisões por dados
+- **Framework/método:** Três passos da adaptação à era 4.0: mapear o processo → tirar o peso → abrir a torneira, sempre depois da mudança de mentalidade
+- **Framework/método:** decide em 3 segundos e executa; luto tem início, meio e fim — depois, vida que segue.
+- **Framework/método:** gancho → conteúdo → CTA; mapear dor do cliente → ICP → gerar ganchos → roteiro de 40 segundos.
+- **Framework/método:** 30 livros comprados, meta de 2/mês (durou até julho/2024).
+- **Framework/método:** uma linguagem por 6–7 meses + projetos próprios (sistema de pizzaria, nota fiscal) + fóruns/Stack Overflow = "musculatura" de programador.
+- **Framework/método:** operacional → tático → estratégico; construir a empresa "como quem constrói pra vender".
+- **Framework/método:** juntar caixa de ~6 meses no emprego → abrir com dedicação total → "efeito rebote" de vendas (mês 1 e 2 quase nada, mês 3 os leads do mês 1 voltam).
+- **Framework/método:** 4 fases × 25% do caminho, aplicáveis a qualquer coisa da vida.
+- **Framework/método:** 5 atitudes: 1) aprender conceitos com problemas reais; 2) estudar ≥1h por dia; 3) feedback mensal/quinzenal da liderança; 4) desafiar todos os conceitos; 5) pensar em empreender depois.
+- **Framework/método:** 3 mudanças: 1) pensamento crítico além do código (ser de negócio); 2) usar IA a seu favor (treinar agentes próprios — ele tem agentes que geram entidades, commands, handlers); 3) aproximar-se de produto/negócio e desenvolver soft skills.
+- **Framework/método:** prompt → arquivos gerados → aceitar → hot restart → refinar por trecho; usar IA no projeto existente (segue a arquitetura) rende mais que gerar do zero.
+- **Framework/método:** Skill Radar (técnico × negócio × comunicação × resolução de problema); 3 gatilhos de compra: aumento de receita, redução de custo, gestão de risco.
+- **Framework/método:** escolher 1 problema → treinar LLM → embalar em API/front → distribuir como SaaS/recorrência; gatilhos de venda: receita/custo/risco.
+- **Framework/método:** 4 etapas (ideia+validação → mão na massa → 1º ano → venda); estratégia em cascata 5 anos → ano → semestre → mês → ligações/dia; replanejamento trimestral, acompanhamento quinzenal; gestão no Excel até R$ 4 mi/ano.
+- **Framework/método:** 3 tipos (def / estratégico / empreendedor) como casulo → chrysalide → borboleta.
+- **Framework/método:** 7 regras: 1) domine padrões mas evite paternites; 2) código bonito não paga boleto; 3) código difícil de ler é ruim; 4) refatoração com critério; 5) evite fila/mensageria/microsserviço desnecessários; 6) estenda em vez de reescrever; 7) limite de 10 linhas não existe.
+- **Framework/método:** 3 fases: ideia+validação → desenvolvimento (MVP, só features essenciais) → operacionalização (venda); meta de 10 leads com R$ 500 de tráfego pra validar.
+- **Framework/método:** trilha de transição: 1) CLT, 2) freelas (só falta vender), 3) consultoria, 4) micro-SaaS nichado ou infoproduto; evitar B2C no começo.
+- **Framework/método:** 1) prompt de comando → 2) agentes especialistas conversando → 3) agente verificador/revisor → 4) limite de iterações → 5) retorno estruturado (JSON) → 6) código processa e decide.
+- **Framework/método:** negócio ideal = margem acima de 30% + escalável (cresce sem você) + recorrente (mensalidade); só abrir o segundo quando o primeiro rodar sem você.
+- **Framework/método:** 1) ideia nichada nos 3 quesitos → 2) estruturar a ideia → 3) definir critério de validação → 4) expor e vender → 5) estrutura mínima → 6) lançar → 7) aprender com o cliente → 8) escalar em 2026.
+- **Framework/método:** ideia → validação rápida (2–3 semanas) → venda → execução → escala; turma fundadora = 1 ano de comunidade + aulas ao vivo + mentoria + "board member".
+- **Framework/método:** 1) scaffold com IA → 2) LLM como cérebro, canal só como interface → 3) persistência de contexto via Assistants API → 4) configuração do agente em markdown → 5) treinar prompt/vender → 6) evoluir para nuvem de agentes (SDR, suporte, atendimento).
+- **Framework/método:** 4 pilares do mercado tradicional — 1) automação (eficiência operacional, n8n/make), 2) atendimento (chatbot + IA + WhatsApp, NPS), 3) vendas (disparo promocional automatizado na base, aquisição e retenção — "eles querem abrir a torneira e não resolver o ralo") e 4) gestão/estratégia (LTV, CAC, churn — "eles nem sabem o que é churn"); depois: ideia → lançar → validar → vender → escalar.
+- **Framework/método:** Code to Cash — 4 perguntas: 1) o que te incomoda (a dor), 2) quem pagaria por isso, 3) o que dá para codar em uma semana, 4) o que já existe pronto para usar; validação = 5 vendas ou 20 interessados com as duas energias (tráfego + prospecção ativa); depois: validar → vender → executar → melhorar.
+- **Framework/método:** explorar o potencial da solução → mini script de validação ("estou mapeando um problema comum em X, você sente essa dor também? e se eu te mostrasse uma solução simples, faria sentido?") → pré-compra (proposta escrita com "Ok, é isso que eu preciso", formulário de interesse com CTA ou contrato simples) → só então desenvolver; o ponto é se o problema é prioritário e pagável, não se é "interessante".
+- **Framework/método:** ideia → Lean Canvas → projeção financeira → validação (melhor validação: 1 venda) → executar 3 coisas ao mesmo tempo (desenvolver, refinar, vender) → 3 pilares de venda → ancoragem de valor ("imagina se eu cortasse 3 horas da sua semana") → oferta nichada ("atendimento de clínica médica usando chatbot que substitui a atendente").
+- **Framework/método:** 1) padronizar linguagens → 2) devpack com tudo genérico pronto → 3) APIs + SDKs + barramento de eventos → 4) design system reutilizável → 5) arquivos LLMs.md para a IA indexar → 6) dev só faz o específico do projeto (reaproveitando o resto).
+- **Framework/método:** etapas — ideia/validação (no-code, rápido e barato) → MVP com vendas → crescimento (high code); no-code serve para MVP, ferramenta interna, POC, solução de curto prazo, micro-SaaS de "um dinheirinho" e integração; a escola não ensina no-code nem código, ensina ganhar dinheiro com o que você já sabe.
+- **Framework/método:** hierarquia (CTO/CPO/COO → gerente → tech lead → squad) + cronograma de faixas 0–3, 3–6, 6–12, 12–24 meses; regras: não tirar a autoridade de quem está acima, não deixar o sênior levar o crédito ("os de cima precisam saber que é você segurando o rojão"), gerar valor primeiro para o chefe, depois para o chefe do chefe.
+- **Framework/método:** ideia → nicho → LP + produto mínimo (chatbot no n8n) vendendo a solução (não o chatbot) → prospecção ativa com ICP → intenção de compra → call → piloto de 2 meses → aí sim execução e refinamento com o cliente ("você constrói o produto com o cliente, não para você"); rejeita 6 meses desenvolvendo o produto perfeito — o maior problema é o perfeccionismo.
+- **Framework/método:** fundamentos → projetos fictícios reais → currículo/GitHub/LinkedIn → prospecção ativa em startups → entrevista com pesquisa da empresa → entrar e dar o máximo.
+- **Framework/método:** nicho → ecossistema vertical = SaaS + agentes + automações + dados + conteúdo/playbook, com ticket de R$1.000–1.300/mês em vez de R$29,90.
+- **Framework/método:** olhar o movimento do mercado → 3 pilares → começar pequeno com visão de ecossistema → reinvestir o caixa do negócio em novos produtos.
+- **Framework/método:** mapeamento (BPM) → relatório de gargalos com custo e payback → proposta com 15% de desconto se implementar com você → fábrica de software como braço.
+- **Framework/método:** 1) mapear processo em BPMN → 2) blueprint visual + plano de etapas com payback por etapa → 3) precificar e vender módulos juntos ou separados.
+- **Framework/método:** CAC < ticket × margem, payback em meses, churn vs. os três pilares (margem, escala, recorrência).
+- **Framework/método:** framework da Acelera: ideia → validação por venda → Lean Canvas → projeção financeira → estrutura de credibilidade (CNPJ, e-mail profissional, proposta, apresentação) → funil com produto low ticket no topo.
+- **Framework/método:** visão de ecossistema → MVP da parte de maior valor → ferramentas de mercado + integração → vender/validar → com o 1º cliente, prova social e descoberta de novas dores → desenvolver depois.
+- **Framework/método:** verticalizar por nicho → abordagem de consultoria ("deixa eu mapear teu processo e mostrar onde a IA entra") → disparar para todos os lados, o primeiro que pescar define o nicho.
+- **Framework/método:** criativo → forms de diagnóstico (qualificação + elevação de dor) → mapa do lead que já alimenta a proposta → call estratégica → proposta de R$50–100 mil.
+- **Framework/método:** objetivo → quem+dor → oferta → modelo de distribuição → projeção de clientes até a meta.
+- **Framework/método:** solução = agendamento + acompanhamento até a consulta + confirmação por ligação/WhatsApp + pesquisa pós; precificação por SaaS (fixo + variável por minuto/mensagem) ou consultoria.
+- **Framework/método:** os 5 passos do plano (objetivo, quem+dor, oferta, modelo, projeção/plano de ação); ideia não precisa ser unicórnio.
+- **Framework/método:** recorrência (aluguel mensal) + equity (venda do percentual) → ferramenta de entrada + venda cruzada fim a fim → parceria com quem tem audiência.
+- **Framework/método:** cadeia de valor em 5 camadas; escolha do modelo: consultoria produtizada em 6 meses (notas fiscais até dez/2025) em vez de SaaS, que exige pivots sucessivos.
+- **Framework/método:** 4 blocos da consultoria — 1) estrutura de credibilidade, 2) máquina de vendas, 3) diagnóstico + mapa + plano de ação (alavanca = problema + solução + prioridade + investimento + ROI), 4) implementação/escala.
+- **Framework/método:** copiar modelo validado de startup americana → nichar vertical → vender por prospecção ativa (Google Maps, Instagram, eventos) sem depender de audiência própria.
+- **Framework/método:** ideia → link canvas/dor → projeção financeira de despesas e receitas → "a ideia pé em pé?" → validar vendendo sem ter (copy, conteúdo, anúncio) → só então produzir e escalar.
+- **Framework/método:** por área da empresa → agentes + treinamento + ferramentas + suporte = infraestrutura alugada que dá ROI (vendas, qualificação de lead, churn menor), em vez de vender peça isolada.
+- **Framework/método:** infraestrutura de vendas em camadas — captação → comunicação/funis → camada vertical (contexto do negócio) → CRM/eventos → agentes (venda, follow-up, repescagem) → fechamento com ROI garantido.
+- **Framework/método:** mapear área da empresa → diagnosticar o gargalo específico do nicho → começar pela alavanca de vendas → vender o diagnóstico → implantar infraestrutura com ROI.
+- **Framework/método:** onboarding → diagnóstico → setup → execução, cada etapa com agentes + ferramentas + processo desenhado, com foco em resultado (ROI) e overdelivery que sustenta aumento de preço.
+- **Framework/método:** empacotar (portal + dashboard + CRM + automações + LLM de nicho) → vender solução end to end com ROI calculado antes da proposta.
+- **Framework/método:** diagnóstico → modelagem → implementação em 30 dias; ecossistema Acelera (educação) + KCG (contratos grandes) + rede de alunos/distribuidores (escala); IA + processo com foco em resultado.
+- **Framework/método:** diagnóstico 360 → quick wins → AI first ponta a ponta (topo com agentes de campanha → atendimento/agendamento 24×7 → sales AI com SPIN no fechamento) → dashboards de score individual e geral.
+- **Framework/método:** AI first (processo → IA → pessoas) dentro do ciclo de adoção; infraestrutura = processo desenhado + agentes fim a fim + sistemas + BI + notificação.
+- **Framework/método:** escada de 5 passos (posicionamento/oferta → demonstração → distribuição → vendas modulares → ativos replicáveis) do ponto A ao ponto B.
+- **Framework/método:** diagnóstico → precificação por ROI → 4 pilares (atendimento, campanhas, estoque, decisão) → funil completo (topo/meio/fundo) → réplica em outros varejistas (control C/V).
+- **Framework/método:** 2 steps + 3 fases (customizado → produtizado → ecossistema); infra = IA (chatbot, agentes) + processo (funil, playbooks, treinamento) + pessoas potencializadas, tudo focado em crescimento tangível (faturamento/margem do B2B).
+- **Framework/método:** dor real de 1 nicho → infraestrutura de crescimento (agentes + CRM + workflow + oferta) → preço com implantação + mensalidade → prospecção ativa → estágio 2: plataforma.
+- **Framework/método:** 4 etapas do jogo — (1) escolher o mercado, (2) resolver problema real, (3) fazer o cliente ganhar dinheiro com a solução, (4) construir previsibilidade; alavanca (ads/mentoria) antes de operação.
+- **Framework/método:** janela de 18 meses → adotar IA por nicho → 2 modelos de venda (venda única ou implantação + recorrência); missão de salvar 10.000 empresas.
+- **Framework/método:** 5 filtros de nicho → análise de gap (pesquisa + entidades + experts + entrevistas) → tese (dor × solução × conta de ROI) → envelopar e vender (oferta + promessa) → entregar como infraestrutura (IA + ferramenta + processo).
+- **Framework/método:** proporção 80/20 (negócio > técnica) + estudo de nicho/dor/precificação; alavanca de resultado mensurável (ex.: recuperação de carrinho) para vender.
+- **Framework/método:** mapa das 48h — escolher nicho (dor urgente + margem + volume) → validar com conversas/anúncio → criar oferta/produto imaginário → prospectar até fechar → estruturar entrega com ferramentas prontas/parceiro → escalar preço.
+- **Framework/método:** escada de 6 níveis (não pular etapas) → dor de nicho com volume (+20 mil empresas) → consultoria produtizada/infra vendida antes de existir → precificar por ROI → reinvestir parte do lucro em ads → depois sim produtizar SaaS.
+- **Framework/método:** plano de 90 dias em 3 marcos — mês 1: caixa com freelas + estudo de nicho + credibilidade; mês 2: 1 contrato de infra (R$15k + R$1,5k) via ads; mês 3: 2 contratos via ads → R$60 mil.
+- **Framework/método:** escolher mercado primeiro (tamanho + crescimento + dor que paga) → só então construir produto/equipe; contraste de casos próprios (subnicho travado vs. mercado amplo).
+- **Framework/método:** escada de alavancas — oferta → solução/venda consultiva → gestão/liderança → governança/processos/cultura → visão estratégica (CEO); multi-receita no mesmo nicho (SaaS + squad as service + consultoria).
+- **Framework/método:** CNPJ + credibilidade → nicho (indústria/distribuidora de R$3–40 milhões) → outbound (leads + cold email + ligações + eventos, 30:1) → diagnóstico → alavancas quantificadas com payback → acompanhamento (implementação com parceiros).
+- **Framework/método:** cima para baixo — nicho → imersão/gaps → conta de valor (potencial × %) → preço (10–20% do gerado) → desenho do produto → venda consultiva → constrói ao vender.
+- **Framework/método:** tese em 3 blocos (erros da agência → novo modelo de BU de tecnologia → alto valor percebido/end to end); nichar → terceirizar/estruturar tecnologia → plugar na base existente.
+- **Framework/método:** AI first (processo desenhado para IA, humano no loop) + 5 pontos de extinção/renovação + roadmap de 90 dias (área crítica → visão 100% IA → piloto medido).
+- **Framework/método:** verticalizar (nicho + dor + máquina de vendas nichada) → infraestrutura de crescimento (funil + IA humanizada + CRM) → precificar por resultado; ticket-alvo: implantação + recorrência.
+- **Framework/método:** divisão de ferramentas — N8N = integração simples; GHL = CRM/implantação white label; Google ADK = agentes; produto final = infraestrutura de crescimento vendida por valor.
+- **Framework/método:** IA vertical (nicho + dor crítica + agentes/CRM/BI nichados + playbook replicável) sobre mercado fragmentado → monopólio do nicho; timeline de adoção como argumento de timing.
+- **Framework/método:** shift startup vs. corporação → spec driven + orquestração de agentes → 4 habilidades do fundador 2026 (especificar, orquestrar, entender processo/nicho, vender/distribuir) → infraestrutura de crescimento em agentes.
+- **Framework/método:** modelo de precificação dos 3 fatores (valor gerado × risco reduzido × complexidade de transformação) sobre preço por valor: preço = impacto financeiro anual × 5–20%; prerequisite: arma secreta (nicho único); sequência agência → infra de crescimento → dados → SaaS.
+- **Framework/método:** diagnóstico da armadilha (serviço = hora, sem alavancagem) → 3 pilares do vídeo (por que agência é armadilha / colapso do baixo ticket / o que fazer em 2026) → growth com IA: nicho → dores → infra que gera caixa → preço por ROI (implantação + recorrência + comissão).
+- **Framework/método:** blueprint dos 3 pilares (infra/vertical/AI first) + definição de nicho (público+dor+contexto) + 5 critérios de escolha + 5 erros.
+- **Framework/método:** roadmap de 6 etapas — 1) nicho dourado (4 critérios) → 2) gap analysis → 3) AI First OS → 4) funil → 5) pitch de 6 etapas → 6) curva alavancada de margem/tempo por cliente.
+- **Framework/método:** 3 problemas do SaaS (distribuição, churn/PMF, ativo tecnológico) vs. rota da infraestrutura → OS → base de dados → SaaS no fim; jornada 1–3 (nicho/OS → mercado → primeiro cliente) em 2026.
+- **Framework/método:** Cérebro (dados estruturados) → agentes/skills → distribuição ao time; dono como "evangelizador" que usa no dia a dia para saber as fronteiras do possível.
+- **Framework/método:** Mapear o processo do próprio CNPJ (máquina de dinheiro: faturamento − custos = sobra) e aplicar IA nos ponteiros; infraestrutura = intersecção IA + processo + estratégia.
+- **Framework/método:** Skills por função (diretor, researcher, copy, estúdio) + gates de aprovação + cérebro da empresa; evolução de usar no Claude → plataforma SaaS (Growi) para escala dos parceiros.
+- **Framework/método:** Pipeline ingestão → digestão → fatos → armazenamento → consumo; contexto do cérebro (papéis, tipo de informação) guia a identificação de fatos; loop de re-ingestão (novas conversas realimentam o cérebro).
+- **Framework/método:** Blocos (atendimento, lead, agenda, dashboard, Stripe, nota fiscal, calendário, CRM) → encaixar via prompt → resultado em faturamento, margem e escala; Acelera pivotou para ser fabricante dos blocos.
+- **Framework/método:** "Dog food": vender só o que se consome; building blocks da Acelera = sacola de Lego que o empresário monta; "seja um builder".
+- **Framework/método:** Spec-driven enxuto ("modelo startup") com gates humanos (HTC = hum to check); desenho visual (Open Design) → arquitetura → código; Claude como "sistema operacional de IA".
+- **Framework/método:** Delegar problema, não tarefa ("contrata-se um vendedor para vender mais, não para operar CRM"); diagnóstico gratuito de operação como CTA novo.
+- **Framework/método:** IA estratégica → resultado rápido → dinheiro no caixa → reinvestimento na visão de longo prazo; mapear o negócio (comercial, operação, tecnologia) e alocar IA na área de maior alavanca.
+- **Framework/método:** Arquitetura agêntica em loop com papéis de funcionários + "building blocks" (Legos) da Acelera 360 para montar a infraestrutura própria.
+- **Framework/método:** Playbook de infraestrutura: mapa estratégico → blueprint → engine criativa → tráfego pago/orgânico → funil → CRM → closer → follow-up → pós-venda; agentes de raciocínio (Claude) coletam e organizam, agentes de ação executam tarefas específicas (LP, etc.).
+- **Framework/método:** Arquitetura de domínios isolados e conectados por mensageria (microsserviços/microfrontends) "na ponta para empresa pequena"; modelo fabricante + montador.
+- **Framework/método:** Prototipar → design system → harness/fronteiras do agente → specs em milestones → multiagente → HTC (humano testando e lapidando); "dog food total" (faça para si e venda para os outros).
+- **Framework/método:** Operar → mapear gargalo → resolver com IA → especializar/nicho → cobrar por resultado; empacotamento de oferta como alavanca de preço ("morango do amor").
+- **Framework/método:** Produtizar + reembalar conhecimento dentro de uma infraestrutura de IA alinhada a vertical e a geração de resultado; "menos venda de horas, mais produtização".
+- **Framework/método:** Nicho → máquina (cérebro + 5 frentes) → cobrança (setup + recorrência + performance); benchmark de times inxutos (Cursor US$ 1 bi com 300 pessoas, Lovable, Bolt, BaseT44 com 6 pessoas) e cases de alunos (3k/mês → contrato de 34 mil; moleque de 18 anos).
+- **Framework/método:** 3 perguntas do modelo de negócio + transição horas → sistema vertical com precificação por resultado (setup de 10% do valor gerado + recorrência de 10–20%).
+- **Framework/método:** Ciclo consultoria → mercado → produto → infraestrutura; ciclo de aprendizagem (tentar → errar → analisar → aprender → acertar); resposta ao nicho pode vir no dia 90, não no dia zero; transformar a operação existente (BPO, contabilidade) em vez de trocar de modelo de negócio.
+- **Framework/método:** Empresa AI-first vende resultado (não horas), é escalável desde o início sem headcount proporcional à receita, e não entra na linha de alocação de tempo de recursos.
+- **Framework/método:** Inteligência dispersa → método replicável → sistema executável → infraestrutura vertical que se autootimiza; contexto vertical (dados, histórico, LGPD, integração profunda com o cliente) é o que não pode ser copiado.
+- **Framework/método:** Infraestrutura escassa → abundante → novos modelos de negócios; para o consultor: transformar habilidade em método replicável vendido como infraestrutura de crescimento com IA, medindo e ajustando a cada cliente.
+- **Framework/método:** Infraestrutura de IA = sistema operacional de IA (mesmo conceito); unificar atração → conversão → integração → entrega → feedback com IA verticalizada por nicho.
+- **Framework/método:** OTE + escada de comissão por faturamento + 10% do lucro líquido distribuído no fim do ano + bônus coletivo (viagem) — todos ganham quando a meta bate.
+- **Framework/método:** verticalizar → mapear processo e gargalos do cliente → implementar IA na veia (junto com adaptação de processo) → gerar dados → copiar/colar no próximo cliente do mesmo setor com reuso crescente (30% → 60% → 70% → 80% → 90% do 1º ao 6º cliente).
+- **Framework/método:** mapear processo → priorizar gargalo caro → estruturar método/novo processo → transformar em produto → automatizar com IA → precificar por potencial gerado.
+- **Framework/método:** escolher nicho (4 critérios) → diagnóstico + validação → gargalo crítico → oferta AI-first → funil (prospecção/diagnóstico estratégico) → implementação com reuso progressivo → dados/fosso → setup + recorrência → ciclo virtuoso (autoridade → mais vendas → mais dados).
+- **Framework/método:** eliminação dos 3 caminhos inviáveis → escolha de mercado por 5 critérios → infraestrutura de crescimento vertical → produto com receita recorrente.
+- **Framework/método:** fluxo de dinheiro (MoneyFlow) — mapear tráfego → lead → atenção → classificação → agendamento → comparecimento → avaliação → proposta → fechamento → pós-venda → recompra; colorir vazamentos; atacar os vermelhos com processo + IA → preço por valor gerado.
+- **Framework/método:** leitura do relatório → fórmula (processos manuais + dinheiro + software ruim) → verticalizar → vender serviço de crescimento com infraestrutura, como parceiro que não é internalizado.
+- **Framework/método:** 5 camadas (atração → captura → relacionamento → conversão → medição) + rastreamento de eventos anônimo→identificado + medição econômica por unidade de esforço (resultado por view, por custo).
+- **Framework/método:** CIO em 3 palcos (Conhecimento → Implementação → Operacionalização), com produto derivado da verticalização.
+- **Framework/método:** não é método de negócio — é cronograma de vida: 16–22 aprender e trabalhar → 22+ empreender com capital de conhecimento.
+- **Framework/método:** 4 etapas da transição AI-first: diagnóstico → organização dos dados (cérebro) → evangelização/treinamento dos sócios → automação com agentes; evolução consultoria → produto vertical a partir do 6º cliente.
+- **Framework/método:** 5 passos — Mercado → Dinheiro (arquitetura de circulação) → Vazamento → Infraestrutura → Expansão; depois: fluxo ideal → cenários de falha → mecanismos (aquisição, triagem, confirmação, copiloto comercial, CRM).
+- **Framework/método:** Diagnóstico → mapeamento de processos → implementação da própria metodologia com recorrência; escada de valor: diagnóstico (grátis) → mapeamento (R$30–40k) → implementação → produto → infraestrutura; duas frentes de valor: vendas (faturamento, ROI rápido) e pós-venda (margem e retenção).
+- **Framework/método:** SPIN adaptado (onde está → onde quer chegar → o que bloqueia → quanto custa por ano) + custo da alternativa + urgência + qualificação de decisor no SDR.
+- **Framework/método:** 5 critérios de escolha de mercado — urgência (dor cara e semanal), poder de compra, demanda já existente (já gastam tentando resolver), acessibilidade ao decisor e repetibilidade; "construa uma vez, refine a cada cliente, replica".
+- **Framework/método:** 5 camadas da infraestrutura de IA — dados no centro → contexto/harness (agentes, base de conhecimento, instruções versionadas) → orquestração (WhatsApp, e-mail, CRM, site) → governança (KPIs, dashboards, logs, revisão humana).
+- **Framework/método:** Detecção da reunião → STT → organização/timestamps → extração e classificação (JEV/SLM) → regra lógica de negócio (atualiza CRM, dispara ação) → LLM só para a sugestão final.
+- **Framework/método:** Método de campo — escolher mercado → nicho → mapear players e aonde eles estão (feira presencial) → conversas de dor → ICP → precificação por mercado → PoC → contrato.
+- **Framework/método:** Sequência do Ivan — engenharia de dados → padronização de entrada → sistema sobre o ERP → DRE/custo por produto → decisão por número; consultoria Kistra: mapear 3 gargalos de ganho rápido na indústria familiar antes de escalar.

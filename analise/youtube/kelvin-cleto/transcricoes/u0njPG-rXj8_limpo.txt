@@ -1,0 +1,633 @@
+O cloud está virando o sistema
+operacional das empresas. Isso é louco,
+gente. Estamos vivendo um momento
+absurdamente incrível. E eu vou
+compartilhar com vocês um trabalho que
+eu tô fechando com um cliente de energia
+solar para você entender como eu vou
+estruturar o sistema operacional dessa
+empresa usando o cloud. Simplesmente
+isso. Vamos usar o cloud para ser o
+sistema central de inteligência
+artificial desse negócio. E é isso que
+você tem que entender. A gente tá num
+momento assim louco. Você tá vendo o
+movimento da cloud da da Player não, da
+cloud não, da Antropic com o Cloud
+Finance, o cloud marketing, cloud sales
+vai provavelmente vai ter, vai ter cloud
+para tudo quanto é lado. Atrop está
+literalmente desenvolvendo o hardness, a
+inteligência, as skills para atuar em
+partes específicas. Só que, só que isso
+que eles estão criando não resolve o
+problema dos pequenos e médios
+empresários brasileiros. E aí tem uma
+grande lacuna, porque o empresário, ele
+está atolado com a estratégia do
+negócio, a visão do negócio, sendo
+bombardeado por assuntos relacionados à
+inteligência artificial. Você que é
+empresário que tá assistindo esse vídeo
+aqui, provavelmente sabe disso. O ponto
+em questão é, se nós entendermos a
+operação de um determinado negócio, se a
+gente tiver o pensamento aliado alinhado
+a resultado de um negócio, o que que é
+resultado para uma empresa? Faturar
+mais, ter capacidade de escalar o
+negócio e aumentar a margem. E a gente
+pegar ferramentas do dia a dia,
+ferramentas de a do mercado, OpenCloud,
+Paper Clip, o próprio Cloud Code, Codex
+ou qualquer outra dessas funcionalidades
+e implementar, somente implementar,
+fazer o trabalho de implementar, mas não
+implementar qualquer coisa, implementar
+tudo aquilo que vai trazer resultado
+real.
+Vocês emplacam projetos. Eu tô
+emplacando projetos. Então, vou falar
+para vocês aqui de um projeto que tá
+sendo maravilhoso porque a gente entrou
+agora, a gente assinou o contrato, é uma
+empresa do segmento de energia solar,
+então eles fazem instalação de placas
+solares, sabe? Essa galera que vende
+placa solar para condomínio, eh, B2B,
+[limpando a garganta] B2C diretamente,
+não importa. Eles têm um time
+gigantesco, tanto administrativo, um
+time de vendas grande. Eles têm uma
+empresa de marketing que faz o trabalho
+para eles e provavelmente vocês sabem
+qual que é, que eu não vou falar aqui.
+Resumindo, qual que vai ser o nosso
+trabalho, o trabalho acelera com essa
+empresa. Nós vamos trazer produtividade
+para eles. Esse empresário, esse case
+que eu vou trazer aqui para vocês, olha
+que interessante. O case é o seguinte:
+Kelvin, eu sei, eu tô estudando, eu tô
+fazendo, só que eu não sei o que fazer,
+como implementar isso. Eu preciso da sua
+ajuda. me ajuda a colocar, a implementar
+esse tal do AI first. Falei: "Calma,
+vamos entender." Entendi o negócio,
+olhei os gaps e ele vende bem. Olha que
+interessante, ele vende bem. O cara
+dominou o digital, show. Só que o
+operacional dele não dá conta, não dá
+conta de entregar o quanto ele consegue
+vender. Então ele tem um gargalo
+operacional na assinatura do contrato,
+na estruturação do projeto de placa
+solar, no administrativo do negócio, no
+acompanhamento dos closers, no
+acompanhamento do CRM, em ver como que
+tá o financeiro dele. Cara, é uma
+loucura. E é nesse negócio, é nesse
+exato segmento que eu vou explicar para
+você uma de uma oportunidade. Por
+quê? Porque o mundo é para todo, ou
+melhor, essa oportunidade é para todo
+mundo, tem empresa para todo mundo.
+Vamos transformar as empresas no modelo
+IF. Para você empresário que tá
+assistindo esse vídeo aqui, te convido a
+conhecer a Acelera 360 e entender como a
+nossa empresa, como a minha empresa,
+pode ajudar o teu negócio a escalar com
+a inteligência artificial. Então, vamos
+lá. Como eu me coloco à disposição de
+vocês aqui para gerar conteúdos de
+valor? Eu preciso que vocês entendam
+como uma empresa funciona. Então, vamos
+olhar isso aqui. É qualquer empresa,
+qualquer CNPJ funciona desse jeito aqui,
+ó. Vamos lá. Qual que é a estrutura? Uma
+empresa é segmentada em core business ou
+front office e backoffice. Que que
+significa isso? Core business. Qual que
+é o critério pra área ser do core
+business? Primeira coisa, tem que tá
+ligado à receita, entrada de dinheiro,
+precisa impactar a aquisição, conversão
+ou a retenção de clientes, move
+indicadores como receita, K, LTV, taxa
+de conversão. Então, Core Business,
+áreas do Core Business são responsáveis
+por geração de demanda, qualificação de
+lead, conversão automatizada e retenção
+e reativação. Então, vendas é core
+business, é marketing, é core business,
+é gestão dos pipelines é core business,
+é experiência do cliente, customer
+success, é core business, é precificação
+e oferta é core business, é, então
+assim, o core business é tudo
+relacionado ao dinheiro. E o backoffice,
+que que é uma área de backoffice? Vamos
+entender quais são os critérios. É uma
+área que não impacta diretamente na
+venda. atua como infraestrutura
+operacional, reduz risco, eh garante
+conformidade e organização. Indicadores
+principais: custo, eficiência, risco do
+negócio. Que área é é considerada
+backoffice no negócio? Financeiro,
+jurídico, RH, contábil, processo
+interno, tecnologia. Tecnologia.
+Tecnologia geralmente é considerado área
+de backoffice, é área de apoio,
+entendeu? Então assim, aqui no
+backoffice a gente consegue automatizar
+tarefa, a gente consegue ter redução de
+custo e a gente consegue trazer
+eficiência operacional. Então, qual que
+é a junção dessa área aqui, Cor Business
+ele depende do backoffice para escalar e
+ter estabilidade, gerar estabilidade
+para um negócio. E o backoffice depende
+do core business para existir. Por quê?
+Porque aqui é onde traz dinheiro e aqui
+é onde a gente escala. Então olha que
+legal, quando eu peguei esse cliente,
+olha que interessante, vamos colocar
+aqui. Isso é importante, gente. Esse
+cliente chegou outra vez aqui do
+YouTube, falou assim: "Kelvin, eu
+preciso implementar IA no meu negócio
+para eu ir pro próximo nível".
+Próximo nível, ele fatura 6 milhões por
+ano para vocês terem uma base aí de
+valor, né? Então dá mais ou menos aí uns
+R$ 500.000.
+Ele tá vendendo muito bem, gente. Esse
+cara aqui tá vendendo bem. Então aqui no
+Core Business
+parte de vendas de forma geral, tanto
+comercial quanto marketing, tá
+funcionando bem. Qual que é o gargalo na
+verdade aqui em vendas? Ele gera bem
+demanda. Então, se a gente separar
+vendas aqui em atração,
+atração, captação,
+captação,
+ea aqui, ó, e conversão,
+cara, ele tá indo muito bem. E olha aqui
+que interessante. CRM dele aqui, ó, é o
+como, tá? É o Como? Ele usa o como hoje.
+Kelvin, mas isso até agora você sempre
+falou de HL. Gente, eu sou análogo à
+ferramenta. Meu foco é resultado para
+negócio. Esse cara veio aqui, eu vou
+falar para ele jogar do como dele bem
+configuradinho, bem azeitadinho. Vou
+falar para ele, não, joga tudo fora e
+vai pro GHL. Não, cara, não faz sentido.
+Não tem lógica. Fui entender o negócio
+dele. Qual que é a tua margem? Qual que
+é o teu faturamento, qual que é o teu
+negócio, deixa eu entender como que tá,
+me mostra sua operação, deixa eu
+entender. Vamos ver como que eu te ajudo
+com IA. Porque foi esse o objetivo. Hora
+que eu entendi aqui em vendas, eu
+analisei e falei: "Cara, isso aqui é 7
+de 10". 7 de 10 tá indo bem para
+Dá para melhorar? Sempre dá para
+melhorar. O 10 de 10 é impossível. A
+hora que eu olho para backoffice, tem
+uma parte aqui do core business dele
+também, é a parte do projeto, né? A
+parte da de estruturação do projeto ali
+tava ruim. Agora a hora que eu olho pro
+backoffice, cara, um caos total, um caos
+total. E olha que interessante, é aquilo
+que eu falo sempre para vocês,
+Kelvin, eu eu sei do Open Cloud, eu tô
+fazendo aqui o cara, isso que é
+Aqui a gente que é empresário, a gente
+quer resolver com a força da própria mão
+sempre. Por quê? Porque geralmente o
+colaborador ele não tem aquele senso de
+dono, ele não tem o Panth, ele não
+consegue enxergar isso aí tá tudo bem,
+faz parte. Porque o cara que consegue
+enxergar assume cargo de diretoria ou às
+vezes monta próprio negócio e é assim
+que funciona. Qual que é o ponto
+principal aqui? Ele tava consumindo.
+Travou, travou. O que que eu faço? Para
+onde que eu vou? Como que eu uso? Eu
+sei, eu sei usar o OpenCloud. Eu sei, eu
+entendi. Eu uso o cloud, mas só eu uso.
+Meu time não usa. E o que que tá
+acontecendo? Olha, olha que doideira. E
+aí, gente, entra o meu trabalho. Falei
+para ele, falei: "Cara, você não precisa
+eh eh desenvolver um software, tirar o
+CRM, reescrever". Tá tentando, ele tava
+tentando fazer o próprio CRM dele. Olha
+que loucura. Não precisa fazer isso.
+Vamos entender quais são as suas linhas
+de receita, suas linhas de despesa, seus
+custos operacionais. Deixa eu olhar pro
+teu negócio. Vamos abrir o teu negócio e
+aí eu te explico e a gente vê quais são
+as possibilidades que nós temos aqui,
+tá? E aí, vamos lá. Então, olha aqui.
+Essa aqui são como que funciona a
+estrutura de uma empresa que vende placa
+solar? Você que quiser escolher esse
+nicho, esse nicho é maravilhoso. Esse
+nicho é lindo, porque é o seguinte, todo
+mundo que vende placa solar vende do
+mesmo jeito e operacionaliza do mesmo
+jeito. Então assim, qualquer
+diferenciação que você dá num negócio,
+você faz esse negócio crescer demais. É,
+é lindo. Core business de uma área de de
+uma de uma empresa dessa, área de
+marketing, canal típico, tráfego pago,
+metaedads, indicação, parcerias locais
+ou orgânico. Esse cara domina o
+orgânico. É muito legal porque o
+orgânico ele gera demanda orgânica e eu
+achei isso aqui incrível. O que que é
+gerar demanda orgânica? Ele grava vídeo.
+A atividade principal dessa área de
+marketing numa empresa. Faz as LPS com
+simulação, captura lead,
+pré-qualificação, pá pá e tudo mais.
+Aqui, ó, é terceirizado. Aqui estão
+fazendo o básico bem feito, tá? Então
+isso aqui, isso aqui é terceirizado. Vou
+colocar em amarelo.
+Terceirizado. Terceirizado.
+Isso aqui ele terceirizou. Vendas.
+Contatos. Eh, o processo típico dessa
+área aqui. Contato inicial, coleta de
+conta de energia, simulação de economia,
+apresentação de proposta, negociação e
+fechamento. Atividade aqui, diagnóstico
+do cliente de consumo, proposta técnica.
+Aqui, ó. Isso aqui foi o primeiro
+gargalo que eu identifiquei aqui, ó.
+Proposta técnica tá sendo um gargalo e
+explicação de Roy, outro gargalo. Por
+analisando o negócio dele, que que eu
+identifiquei, cara? Contratos B2B
+para ele são mais vantajosos. E esses
+contratos B2B aqui não é uma venda
+simples de economia. Você tem que vender
+a clareza, o ROY, do mesmo jeito que eu
+explico para vocês aqui, do mesmo jeito
+que eu vendo. Venda o retorno sobre o
+investimento. Tem que vender o ROY. E
+quando você joga isso para um time de
+closer lá, pro time de vai pro consultor
+financeiro, pro Gente de contas, ele não
+consegue fazer isso desse jeito aqui.
+Ele não consegue apresentar o Roy. Isso
+é muito difícil. Métrica, taxa de
+conversão, ticket médio, tempo de
+fechamento e tudo mais. A hora que você
+entra aqui no no customer success,
+identifiquei um outro gargalo absurdo
+aqui, ó. Vou colocar aqui, ó. Deixa eu
+organizar bonitinho, ó. Vou colocar aqui
+onde eu identifiquei gargalo. Gargalo
+vai est em vermelho, gente. Gargalo.
+Gargalo.
+Isso aqui é para vocês entenderem como
+que eu faço. Eu olhei o negócio, fui com
+papel gargalo aqui. Aqui gargalo
+completo. Praticamente não tem CS. O
+cara não tem um customer sucess. E qual
+que é a atividade de um CS de um gerente
+de relacionamento nesse setor? Simples,
+acompanhar a instalação, fazer o
+pós-venda, criar relacionamento com o
+cliente, dar suporte, solicitar
+indicação. Caraca, isso aqui é o maior
+gargalo, que é o seguinte, olha, do
+mesmo jeito que a gente fez isso aqui
+para você, me indica mais 10 pessoas que
+fazem isso aqui é um funil. Isso aqui é
+um funil de atração. Isso aqui vende
+muito. Isso aqui vende muito. Vou
+colocar em negrita aqui também, ó.
+Gargalo. Por que gargalo? Porque não
+tem. Não tem. Então aqui tá deixando
+vazar dinheiro, muito dinheiro. A
+métrica pesquisa de NPS, volume de
+indicações e recompra. Revender pro
+próximo cliente. Ele faz isso. No, não
+faz isso, Kelvin. Mas aqui você tá
+mexendo em vendas. Sim, nessa parte sim.
+Eu não tô mexendo na atração aqui, ó,
+pelo digital, igual eu falo para vocês,
+criar uma máquina de vendas. Por quê?
+Porque tá bom, sete de 10, eu tenho, eu
+consigo trazer mais dinheiro para ele,
+nesse caso, em outros locais. Entende a
+sensibilidade de você entender um
+cliente? Kelvin, é muito manual fazer
+isso, isso não é produtizado.
+Olha, presta atenção. Hoje com o cloud,
+com o Codex, com qualquer LLM bem feito,
+você consegue ter um potencial absurdo
+de entrega. Pensa, você tem que respirar
+a tecnologia. O dono da empresa lá que
+vai ser o seu possível cliente também
+tem que respirar a tecnologia. Só que
+não necessariamente é porque ele respira
+que ele tem que implementar isso. Aí
+você entra e pode fazer esse trabalho,
+um trabalho consultivo estratégico para
+uma empresa. Kelvin, quanto você cobra
+mais ou menos? Cara, depende do tamanho
+do cliente. 30, 40, 50, 100.000.
+Depende. Depende do trabalho, depende do
+cliente, depende do quanto eu gênero de
+resultado. E caso você queira entender
+mais sobre resultado, acessa meus outros
+vídeos que você vai conseguir entender
+mais sobre isso, tá? Entrega e operação
+técnica. Olha aqui, projeto técnico,
+cara, gasta muito tempo aqui fazendo
+projeto técnico, muito tempo. Aprovação
+na concessionária que não tem que fazer,
+compra de equipamento, isso aqui a gente
+consegue melhorar. Instalação, não tem
+que fazer. Manual, homologação e
+ativação 100% manual. Aqui atividade,
+engenharia elétrica, logística,
+instalação em campo, gestão de prazos,
+pá, pá, pá. E o que que é o backoffice?
+O que que é o backoffice numa empresa
+que vende energia solar? É muito
+simples. Financeiro, jurídico. Jurídico
+dele aqui também é terceirizado. Vou
+marcar aqui como terceirizado.
+Jurídico é terceirizado. O financeiro
+dele aqui terceirizado em partes.
+Tem uma empresa que ajuda ele no
+financeiro, mas ela é praticamente
+interna. Gestão, o RH, contratação,
+nesse caso aqui ele não tem. Vai, a
+gente vai propor para ele fazer
+terceirização. Tecnologia, nesse caso
+também ele não tem. E o administrativo.
+E olha aqui o que cada área dessa faz.
+Controle de fluxo de caixa,
+parcelamento, financiamento, gestão de
+fornecedores. Cara, aqui ele tem uma
+inadimplência altíssima
+de implência altíssima. Altíssima,
+altíssima, altíssima. Um de um
+gargalo que a gente identificou. Por
+quê? Porque o time não dá conta de fazer
+a gestão disso. O time não dá conta de
+fazer o controle. Esse terceiro aqui só
+faz emissão de nota fiscal. Jurídico.
+Jurídico nem mexemos. Terceirizou. Aqui
+não tem muito o que fazer. Aqui é só
+processo. Gestão. Gargalo absurdo. A
+gestão não tá sendo feita. Deixa eu
+anotar aqui, ó. Cadê meu vermelhinho?
+Gargalo. Pum. Gargalo.
+Gargalo. Gargalo absurdo aqui. RH nem se
+fala. gargalo também.
+Tecnologia, gargalo. Além de não ter,
+precisa. Olha que maravilhoso, gente. 6
+milhões de faturamento, hein? 6 milhões
+de faturamento. Administrativo, gargalo,
+controle das documentações, organização
+interna, suporte ao time. Cara, não tem
+nada. Por quê? Porque a pessoa que
+montou essa empresa aqui é um excelente,
+excelente técnico. E ele foi crescendo o
+negócio dele, crescendo, crescendo,
+crescendo, crescendo, crescendo. Só que
+ele parou num teto. Por quê? Porque o
+negócio tá tão crítico que se ele vender
+mais, ele quebra o negócio. Ele chegou
+no teto do teto do teto e agora a gente
+entra para fazer o quê? Vamos dar
+flexibilidade, ou melhor, vamos dar
+produtividade para ele. Flexibilidade
+não, produtividade. A gente vai dar
+produtividade. Kelvin, mas como assim
+você vai implementar o cloud code? O que
+que você vai fazer certificado? Vou
+explicar para vocês aqui. Seguinte,
+gente. Hoje o cloud ele permite a gente
+fazer o quê? Ele permite a gente
+construir skills. Ele permite a gente
+assinar uma assina uma subscription lá
+de 5x, 20x lá, uma sub, uma subscription
+subscription, uma assinatura boa,
+usar os tokens num volume excelente. E
+esses tokens eles duram bem, eles têm um
+ciclo de renovação muito interessante, é
+muito saudável usar ele. Então, olha que
+doido, com o cloud Code, que que a gente
+vai fazer? a gente vai entender o
+processo da operação dele, a gente vai
+entender como ele faz os projetos, como
+ele faz o atendimento do cliente dele,
+como ele organiza os processos
+administrativos, como que ele faz
+processo de conciliação bancária, como
+ele faz o processo de cobrança de inad
+implantes, como ele, no caso não tem
+customer sucess, mas a gente vai
+implementar um processo de customer
+success com ele. Então a gente partiu
+pro primeiro passo de entender o
+processo. Kelvin, como você faz isso? a
+gente vai entrevistar os stakeholders,
+os os principais funcionários, as
+pessoas chaves do negócio dele. A gente
+vai absorver, vamos entender isso. A
+gente vai fazer um processo de criar as
+skills, as skills principais da operação
+dele. Vamos colocar uma licença de cloud
+para cada colaborador. Vamos, talvez a
+gente vai usar o cloud team, então
+estamos o Antropic Latin lá, um modelo
+de de time. Estamos entendendo ainda
+quais vão ser os custos. Aproximadamente
+ele vai ter um custo de mais R$ 6.000 de
+licenças do cloud, de mais R$ 6.000. Só
+que vocês não tm noção, não é? É do dia
+paraa noite R$ 6.000, Não, a gente tá
+fazendo um plano transitório gradativo.
+Significa que a gente vai começar com
+licença 5x, que custa, se eu não me
+engano, R$ 490, R 450. Vamos colocar na
+mão de seis colaboradores e esses seis
+colaboradores vão começar a usar as
+nossas skills no dia a dia. Eu tô
+colocando uma pessoa exclusiva para
+treinar estes seis colaboradores de como
+usar no dia a dia, como resolver os
+problemas deles do dia a dia. Nessas
+skills, a gente criou skills específicas
+de guard raios. O que que significa
+essa, que que significa esses guard
+raios? É, é uma proteção. É uma
+proteção. O modo como a gente tá
+configurando o cloud para eles, o modo
+como, na verdade, a gente tá
+configurando, vai implantar isso, a
+gente vai proteger, a gente vai blindar
+de certas informações poderem vazar ou
+ter compartilhamento de chave. A gente
+tá resolvendo isso para eles. Kelvin,
+como que você vai fazer isso? Eu estou
+estudando, assim como você deveria usar
+também, estudar. E a gente vai criar um
+cérebro do negócio. Então, todos os
+clouds ou todas as instâncias dos
+usuários vão estar conectadas neste
+cérebro. E este cérebro está lá no
+GitHub. a gente tá usando o GitHub
+inicialmente. Vamos depois talvez migrar
+para um banco eh vetorizado em algum
+momento. Sim, em algum momento a gente
+vai, mas nesse de zero não. Por quê?
+Porque a gente montou um planejamento de
+90 dias. E aí a gente tá fazendo isso.
+Pasmem, pasmem. A minha projeção só
+fazendo esta implementação. E não é que
+ele não sabe fazer, é porque ele não tem
+tempo de fazer e ele não vai saber fazer
+igual eu faço. É lógico. Por quê? Porque
+eu respiro esse negócio aqui. Eu sou um
+cara de tecnologia. Então a gente tá
+estruturando, a minha empresa faz isso.
+Inclusive, se você é empresário e quiser
+também entender como fazer uma
+transformação digital aí na teu negócio,
+implementando em de verdade, clica aqui,
+ó, no link tá na descrição desse vídeo.
+Vem conhecer a Celera 360, vai ser um
+prazer. E para você que é empreendedor,
+eu já não preciso mais falar para você,
+né? Para você que quer empreender, na
+verdade, já cansei de falar, acelera
+também teu lugar, vem, vem conhecer aqui
+que a gente tem o nosso educacional para
+isso, né? Vamos, vamos tirar essa ideia
+do papel que já passou da hora, né, meu
+jovem? Então, vamos lá, só para vocês
+entenderem aqui, gente, quando você se
+posiciona no mercado sendo um resolutor,
+será que existe essa palavra? Acho que
+existe. Você é uma pessoa resolutiva,
+pessoa que entende do negócio. Deixa eu
+entender onde você faz dinheiro. Deixa
+eu, cara, como que eu posso te ajudar?
+Me explica teu negócio aí. P O cara veio
+aqui para mim querendo entrar na
+acelera. Falei: "Não, acelera não vai te
+entregar resultado. Acelera não vai te
+entregar resultado. Não adianta você
+entrar na acelera para isso, entendeu?
+Me explica mais, pô. Vamos marcar uma
+segunda reunião, deixa eu me aprofundar
+no processo." Pum, fizemos ali o
+aprofundamento, mapeamos, entendemos.
+legal. Ó, temos essa solução para
+você. O melhor caminho é fazer isso
+daqui. Por quê? Porque é o dinheiro
+rápido. Aí você pode abrir de novo a
+torneira do seu comercial aí e colocar
+mais lead para dentro com força. Por
+quê? Porque você começou a ter isso aqui
+estruturado. Entenderam? Entenderam a
+lógica? É assim que funciona. E agora eu
+quero que vocês entendam uma coisa. É
+bizarro o que que dá para fazer com o L.
+Bizarro. Bizarro. Hoje para você quer
+quer estudar, cara, chega de estudar.
+Instala só esse negócio no seu
+computador. Foca em criar um brain, um
+second brain, segundo cérebro. Gravei um
+vídeo sobre isso antes de ontem. e
+simplesmente usa, erra, começa a colocar
+no teu dia a dia, vai fazendo, vai, vai.
+É um conceito dog fooding, consome você
+tira o seu trabalho primeiro, igual eu,
+minha CS tá, o pessoal aqui de
+custom Mercedes tava mexendo saco no
+WhatsApp, fui lá, treinei o cérebro e
+dei na mão da menina lá,
+resolveu, matou, entendeu? O N1, N2,
+mexi no saco, pá, fizemos o pessoal lá
+dos devam de UX. Ah, precisa de UX, não
+precisa nenhuma. Vamos implementar
+o o cloud design muito bem. Pegou a
+sacada, pessoal, estamos na era, na era
+da IA. A gente não pode mais fugir
+disso. Ah, vamos, você vai ficar
+amarrado com o cloud. Cara, essa dor de
+ficar dependente de uma empresa ou de
+outra é muito antiga. Eu já passei por
+isso na tecnologia já. Nossa, era uma
+injeção de saco, Colocar padrões
+de projeto para não criar
+interdependência do tipo do banco de
+dados que era SQL, isso que tinha ficado
+desconectado. Depois criar, caraca,
+esquece, já era. Esses caras estão
+dominando, estão derretendo. É a mesma
+coisa que você falar que você não quer
+criar uma dependência da Eure ou da WS.
+A melhor coisa é você criar dependência
+de uma empresa séria. Por qu? coloca no
+teu preço, entrega a qualidade junto. É
+isso que você consegue fazer com o
+cloud. Então, olha o que eu vou fazer.
+Eu vou colocar as licenças de cloud, eu
+vou organizar as skills, eu vou
+sanitizar o cérebro dele, vou deixar o
+cérebro dele lá saudável e vou
+acompanhar e vou treinar o time dele
+para fazer e vou cobrar. Quer melhor
+coisa que cobrar? Cobrar é bom demais,
+velho. Cobrar é bom demais. Ó, para você
+que tá aí, estamos no melhor momento
+possível para se empreender. Já passou a
+época, o que eu venho falando para vocês
+de infraestrutura, de infraestrutura de
+ar, de infraestrutura de crescimento com
+cada vez mais eu vejo Antropic
+caminhando para isso. Cada vez mais eu
+vejo a o PNI caminhando para isso. Só
+que eu acho o Cloud muito melhor do que
+eu sou apaixonado assim, eu sou vou ter
+que tirar a certificação Cloud. Vou ter
+que tirar a certificação Cloud daqui a
+pouco. Eu vi que lançou a certificação,
+vou ter que tirar. Então galera, bora
+fazer, bora fazer acontecer. Espero que
+você tenha entendido, Kelvin, mas você
+não mostrou o detalhe, pô. Aí você que é
+demais, né, papai? Aí você tá querendo,
+tá querendo, tá querendo mastigado e
+colocado na boca. Aí não, aí não
+funciona.
+Fechou, galera. Esse vídeo foi sobre
+isso. Convido vocês mais uma vez aí a
+conhecer a Celera 360 e entender um
+pouco mais sobre como nós podemos aí
+ajudar tanto você que é empresário como
+você que é empreendedor. E para de ficar
+perdendo tempo e foca em aplicar porque
+provavelmente você já tá entupido de
+conteúdo. É nós. Tchau para vocês.

@@ -1,0 +1,604 @@
+A maioria das startups de inteligência
+artificial estão condenadas desde o dia
+um, desde o dia do seu nascimento. Elas
+são péssimo negócio. Se você quer
+empreender, existe um caminho mais
+fácil. Existe um caminho que possibilita
+você realmente ter sucesso e não se
+frustrar tentando montar uma startup de
+inteligência artificial. Eu sei que tá
+cada vez mais fácil você criar até eh
+softwares. A barreira de desenvolvimento
+ela tá caindo drasticamente e talvez
+passe pela sua cabeça de montar uma
+startup de inteligência artificial, uma
+ferramenta de inteligência artificial e
+ainda vender no modelo SAS e seguir o
+sonho do tão sonhado unicórnio de
+receber investimento, de fazer milhões,
+de ficar bilionário. Tá, mas calma, a
+realidade não é essa. Esse aí é o
+morango que te vendem, tá? Esse é o
+morango do amor.
+Esse é o conto de fada. Vamos, vamos
+começar a ess nessa aula aqui que eu vou
+te explicar isso. Deixa antes eu me
+apresentar. Para você que não me
+conhece, muito prazer. Meu nome é Kelvin
+Clet, tenho 33 anos. Eu sou um
+programador empreendedor serial. Fundei
+a General Cleans em 2015, uma das
+principais insurtec do Brasil. Vendi
+50.1% dela em 2022 e saí. Fiz o meu exit
+agora em 2025 e na sequência eu fundei a
+acelerar 360. Para você que não conhece
+a Celera 360, ela é uma edtecchone.
+Basicamente eu ajudo pessoas a tirar as
+ideias do papel, a empreender, a emitir
+a primeira nota fiscal. Então, se você
+quer ser o empreendedor ou se você é um
+empreendedor que tá estagnado, andando
+de lado, a acelera pode ser para você.
+Você vai clicar no link que tá aqui na
+descrição desse vídeo, se você quiser
+saber mais sobre ela. Bora começar esse
+vídeo. Deixa eu explicar um pouco para
+vocês o porqu maioria das startups de
+inteligência artificial são um péssimo
+negócio, tá? existe uma ilusão das
+startups de inteligência artificial. Tá
+ficando cada vez mais fácil a gente
+criar software, criar soluções, mas
+mesmo assim existe ainda uma barreira
+tecnológica e a maioria das pessoas elas
+passam meses desenvolvendo algo
+inovador, algo que nossa, meu Deus do
+céu, é incrível. No final das contas
+essas pessoas acabam parando com uma
+ferramenta, implorando para ter usuários
+de forma gratuita. ela não se sustenta.
+Isso porque na prática essas ferramentas
+elas não resolvem um problema tão
+urgente assim. Elas não resolvem um
+problema que as pessoas pagariam por
+ele.
+Isso acontece porque na nossa cabeça a
+ideia é maravilhosa. Meu Deus do céu, a
+ideia incrível. E a gente na primeira
+ideia quer já começar a desenvolver,
+quer começar a criar. Isso é um de
+um erro. Isso é um de um erro. e
+criar um software, criar um SAS, eh, vai
+um software ASA Service para pessoa
+pagar mensalidade. É um caminho
+complexo. Parece fácil, mas não é fácil,
+não. É extremamente complexo. Olha aqui,
+eu trouxe cinco problemas que eh do são,
+na minha opinião, são os principais
+problemas ali de fundadores de startup
+em termos geral. Primeira coisa,
+primeiro problema, construir algo antes
+de validar. Então, que que significa
+isso? Eu vou construir um software. Veio
+uma ideia na minha cabeça, criar um
+sistema de inteligência artificial que
+gera posts automático. Nossa, que ideia
+maravilhosa. Esse é o maior problema da
+face da Terra. Todo mundo tem esse
+problema. Aí a pessoa vai lá e constrói,
+desenvolve, cria antes de validar. Ela
+fica amarrada em criar o produto antes
+de validar a oferta, antes de oferecer
+pro mercado e ver se realmente esse
+problema é um problema, se as pessoas
+pagariam por este problema. Esse é o
+maior dos problemas, né? Baixa urgência
+do problema. Então, às vezes na sua
+cabeça pode ser um problema gigantesco.
+Todo mundo tem esse problema, mas na
+real, no mundo real, na vida real,
+ninguém pagaria por essa merda,
+entendeu? longo ciclo de
+desenvolvimento. Isso aqui acontece
+muito com programadores, com
+desenvolvedores.
+Ai, eu tive uma ideia, vai criando um
+sistema robusto, um ah, mas agora falta
+isso, mas falta aquilo. Quer criar um
+problema, quer criar algo extremamente
+complexo. Deixa eu te falar uma coisa,
+tá? Somente, acho que nem 10% dos
+projetos complexos tem sucesso. A
+maioria desses projetos complexos não
+sai às vezes não não não sai da do
+mundo, não não entra em go live, não
+entra em produção, de tão de tão
+complexo que ele fica, ele acaba se
+tornando insustentável, tá? Margens
+esmagadoras por CACs altos. Então assim,
+o custo de aquisição do cliente é
+gigantesco e aí a margem que sobra no
+final das contas não paga o próprio
+projeto. E a maioria dos fundadores de
+startup pensam em e criar uma
+empresa que depende muito de capital
+externo para escalar, depende de gente
+colocando dinheiro para escalar. Por que
+que isso aqui acontece? Isso aqui
+acontece porque vocês tentam pular
+etapas. Então imagine que você, não sei
+se é o seu caso, tá assistindo esse
+vídeo ou é, pode ser, você tá aqui, você
+é CLT, então existem esses níveis de
+dificuldade aqui, ó. Então imagine que a
+gente tem essas seis opções, CLT ou PJ,
+daí ou você passa depois fazend
+freelancer, aí você depois começa a
+prestar consultoria, aí você produtiza
+sua consultoria quando começa a ganhar
+mais escala. Aí tem um modelo aqui de
+SAS B2B, que é você vender de empresa
+para empresa e um modelo que é B2C, que
+é você de vender de empresa pro mercado
+aberto para pessoas comuns comuns assim
+como eu.
+Aqui é o nível um de dificuldade. Você
+CLT com o único cliente, você arrumou o
+cliente que é a sua empresa. Aí a hora
+que você quer empreender, vou montar uma
+startup de IA, vou criar um SAS
+de empregados de IA, ai AI employes.
+Employes, empregados. Vou colocar aqui
+em português.
+Empregados de meu, todo mundo vai criar
+os empregados de inteligência
+artificial. que pariu. Vamos
+automatizar tudo. Vamos dominar o mundo.
+Pá, pá, pá. Aí você vem para onde? Olha
+onde você se posiciona. Você se
+posiciona aqui ou no B2B ou no B2C. Você
+vem para cá, cara. As pessoas vêm para
+cá. Olha o tamanho do salto de
+dificuldade do nível um pro nível 10. E
+é por isso que falham, sem antes validar
+a ideia, sem antes saber se as pessoas
+pagariam por isso, sem antes saber se
+esse é um problema realmente urgente,
+Sabe? com ciclo de vida longo de
+desenvolvimento e de maturação. Tem que
+ter o produto primeiro, tem que
+desenvolver o SAS para as pessoas
+usarem. Tem que ter preços extremamente
+baixos, low ticket total, margens
+baixíssimas.
+o mundo da IA, quer dizer, o
+mundo da IA, ó, as tudo que coloca IA
+realmente vende, tá vendendo demais,
+mas, pô, tem um caminho muito mais
+fácil.
+Na real, as pessoas não compram a IA,
+compram automação. Os empresários, a
+empresa, por exemplo, quer vender pra
+empresa, quer vender pro mercado B2B,
+empresa não quer comprar IA, não quer
+comprar chatbot, eles não compram isso.
+Eles compram mais faturamento, eles
+compram a possibilidade de escalar, eles
+compram a possibilidade de ter mais
+margem, de reduzir o time deles. É isso
+que eles compram. Então, é isso que
+vocês tm que vender. Então, existe sim
+um caminho alternativo, um caminho mais
+simples. Qual que é esse caminho mais
+simples? Ó, dupliquei aqui, deixa eu
+tirar. Qual que é esse caminho mais
+simples, Kelvin? Eu vou explicar para
+vocês. O caminho mais simples é vocês
+pegarem uma dor que de um mercado, de um
+nicho específico, um nicho que tenha
+alto grandes eh volume de players, por
+exemplo, mais de 20.000 empresas desse
+segmento, pegar, por exemplo, segmento
+de saúde, MED spa, clínicas, eh
+advogados,
+mercado tradicional em geral que tá
+sofrendo com isso, negócios
+tradicionais, por exemplo, esquadrilhas
+de alumínio. Eu coloquei aqui empresas
+que vendem esquadrilhas, projetos de
+esquadrilhas de alumínio. Que por que
+que você colocou esquadrilhas de
+alumínio? Porque é o caso que eu até
+trouxe para explicar para vocês. Foi uma
+empresa que eu chamei, que eu tô
+sofrendo muito. Eu tô alugando um
+escritório de 110 m². Agora a gente tá
+aumentando a operação da Acelera.
+Estamos crescendo para caramba. Muito
+aluno, tem mais de 200 empreendedores,
+programadores e pessoas tradicionais que
+querem ou pessoas que não são
+programadores, não técnicos quererem
+empreender. E cara, estamos crescendo,
+graças a Deus. E aí eu fui chamar
+esquadrilha de alumínio, uma empresa
+esquadrilha de alumínio para fazer um
+orçamento pra gente. Cara, os caras não
+me responderam. Os caras demoraram
+meses, eh, meses, não, demoraram dois
+dias praticamente para me passar um
+orçamento. Eu já tinha fechado com outra
+empresa. E eu vou explicar, então. Olha
+que loucura. Um negócio tradicional.
+Você tem que escolher um negócio
+tradicional.
+Esse negócio tradicional, imagina o
+seguinte, vai lá, investe 5.000 por mês
+em ads. Os caras tão gastando com Google
+Ads para aparecer para Deus e o mundo.
+Essa empresa, por exemplo, deve gastar
+na média de uns R$ 2.000, R$ 3.000 por
+ads hoje, né? Quando você, quando essa,
+esse negócio tradicional injeta em
+Google Ads, por que que ela tá injetando
+em Google Ads? Porque ela quer mais
+leades,
+ela quer mais clientes.
+E o que que o mercado empurra para eles?
+as agências empurram tráfego
+pago,
+empurram o SEO,
+empurra o SEO, empurram posicionamento
+nas redes sociais. É isso aqui que o
+mercado tá tá o mercado tradicional tá
+tá tá empurrando posicionamento
+nas redes. Você tem que ter
+visibilidade.
+Só que o que que acontece? Vai lá
+empurra 5.000 por mês. Ticket médio de
+venda, por exemplo, meu projeto lá ficou
+em 10.000. Vou jogar aqui 8.000 por por
+cliente de de uma esquadrilha de
+alumínio, certo? 8.000 por mês. Só que
+um lead igual eu que clicou e era
+altamente quente em comprar não comprou.
+O meu projeto ficou 10.200 mais ou
+menos. Eles perderam 10.200. Então
+imagine que a margem que essa essa
+esquadrilha em questão tem é de 30%.
+Margem de negócio tradicional de 20 a
+30%.
+Olha
+isso aqui, gente.
+Esse exemplo que eu acabei de dar para
+vocês, eles perderam de um lead
+quentíssimo
+de 2 a R$ 3.000.
+Então, significa que
+eles tm, imagine que eles têm uma perda
+de 70% de todos os leaders por falta de
+resposta ou demora no orçamento. Isso é
+um problema real. Isso aqui é um
+problema real.
+Então, em vez de não montar um SAS, por
+exemplo, se eu quero empreender, se você
+quer empreender, se você aí eu já tô
+empreendendo, se você quer empreender e
+quer montar um SAS, não faz sentido você
+dar esse salto no empreendedorismo,
+pular etapas. Faz sentido você ir para
+um modelo mais simples. Você pode criar
+uma infraestrutura de crescimento com o
+IA e vender para empresas do mercado
+tradicional e ganhar dinheiro já nas nos
+primeiros meses, a 90 dias no máximo,
+você já consegue faturar
+e precifica como precifica com base no
+valor que você gera pro negócio. Então,
+por exemplo, vamos criar aqui uma
+solução que nós venderíamos para essa
+empresa de esquadria. E se eu vendo para
+uma esquadrilha eu vendo para todas. Nem
+sei quantas tem, mas deve ter mais de
+50.000, certeza. Só aqui no Google aqui
+tem uma milhões. Então vamos pegar aqui.
+Primeira coisa, o que que seria essa
+infraestrutura de A? Cara, vamos pegar
+um CRM.
+Vamos desenvolver o CRM? Não, vamos usar
+um de mercado. Tem vários. Pipefy,
+pipe drive, ó. Pipefy,
+pipe drive.
+Ah, mas não tem o meu logo. Contrata um
+white label GHL.
+Eu, por exemplo, uso GHL. Ensino meus
+alunos a usar o GHL. Por quê? Porque o
+GHL é bom. Eh, tem outro, tem o client,
+tem N, tem N aqui, ó. CRL.
+Coloca uma IA de atendimento
+no WhatsApp.
+Olha que besta, gente. Uma Ia de
+orçamentação
+para fazer orçamento rápido, para pedir
+as informações, pegar as medidas. Manda
+a planta, manda a planta, já faz, já faz
+a precificação, já calcula. Isso aqui é
+tudo cálculo por metro, é calculado por
+met². Então é muito simples você fazer
+um motor de cálculo aqui, ó. Você é
+muito simples você fazer um motor de
+cálculo para fazer orçamentação, mas um
+motor de cálculo de orçamento para para
+orçamento. Olha aqui, que legal.
+E esse motor de cálculo também, ele pega
+o endereço e faz o motor de cálculo de
+frete fret. Pega o endereço da pessoa,
+já pô, qual que é seu endereço? Tal
+lugar, ah, tanto de tantos quilômetros
+de distância, já calcula tudo. Ó, aqui,
+ó. Vamos criar uma um produto aqui.
+Vamos criar um produto aqui junto com
+vocês, ó.
+produtinho e a de atendimento do
+WhatsApp. Ah, vou desenvolver em qu
+aqui, ó. Desenvolv que vocês quiser,
+velho. N8N.
+Eh, Google ADK. Google ADK é bom, hein?
+Google Adk. conecta no WhatsApp
+usando API oficial mais o ou um dos dois
+ou API AP AP API oficial e não oficial.
+Aí você já coloca isso aqui, ó. CRM
+integrado. Pum aqui, pum aqui. Como que
+eu precifico isso, cara? É só você
+calcular o seu preço em cima do ROY que
+você que essa máquina vai gerar. E aqui
+que tá o grande segredo. Isso é uma
+infraestrutura de crescimento com
+inteligência artificial. Isso é um
+modelo de negócio palpável. Isso aqui
+não é SAS, mas pode cobrar mensalidade
+para sustentação. Isso aqui é um projeto
+que no mínimo eu cobraria 20.000 de
+implantação, mais uns R$ 2.000, R$ 3.000
+por mês para sustentar. Eu cobraria
+isso. Ah, mas como que o cara paga?
+Simples. Mostra para ele que você vai
+gerar resultado. Mostra pro pro pro seu
+cliente que você vai gerar resultado.
+Cria uma oferta em cima disso aqui. Se
+você tem uma empresa de esquadrilha e tá
+perdendo lead, clique aqui. É um
+exemplo, né? Não é não vai ser uma
+promessa tão fraca assim, uma oferta tão
+fraca. Mas já temos o desenho desenhado,
+o a estrutura desenhada. A gente pode
+chamar isso aqui de essa aqui a infra
+para empresas de esquadrilha. Infra de
+IA para empresas de esquadrinha. Kelvin,
+mas isso aí, nossa senhora, dois fluxos
+do N8N mais um CRM, isso aí você chama
+de inf. É lógico, um pacota, é um modelo
+de negócio, gente. Parem de ser besta.
+Ah, mas eu cobraria. Nossa, peguei um
+cara no vídeo que falou para mim assim:
+"Nossa, você cobra tudo isso? Eu faço um
+fluxo GN8N por R$ 3.000, por R$ 2.000."
+Cara, parece que as pessoas gostam de
+cobrar barato, parece que vocês gostam
+de sofrer, parece que vocês gostam de
+ficar pobre, parece que vocês gostam de
+não prosperar, vocês quer ficar na etapa
+aqui, ó, do freelancer. Não faz sentido.
+Isso aqui basicamente é um modelo de
+consultoria produtizada. Por quê? Porque
+você desenvolve um produto e aqui você
+coloca também, ó, vou vou vou vou
+acrescentar a minha ferramenta. Você
+pode eh acrescentar com um treinamento
+semanal
+para o time de atendimento ensinando
+técnicas de vendas. Olha que legal,
+cara. Coloca isso aqui dentro dentro da
+sua infraestrutura, compondo a sua
+infraestrutura.
+Você pegar, então imagine que a gente
+vai fazer uma precificação besta aqui,
+ó. você pegar e cobrar 20.000 de
+implantação para isso, 20k de
+implantação, que é impossível praticar
+esse preço. Meus alunos praticam, então
+não é impossível. Se você colocar isso
+aqui, ó, cinco, cinco clientes, cinco
+clientes que você pega, 2 4 6 8 10, você
+faturou quanto só na implantação?
+100.000. Se você cobrar 2.000 de
+mensalidade, 2 4 6 8 10.000
+por mês de recorrência, mais 10k por mês
+de recorrência.
+Se você juntar logo dentro dessa
+estrutura um treinamento para ajudar o
+cliente, essa esquadrilha que você tá
+vendendo aqui, a vender mais e começar a
+dar resultado, esse cara não vai te
+trocar, você não vai ter chur, você não
+vai ter cancelamento. Logo, esses 10.000
+por mês desses cinco clientes vão
+representar 120.000
+no ano.
+Então, se você colocar 100.000 de
+implantação mais 120.000 de recorrência
+que você vai ter num ano, logo você tem
+R$ 220.000
+de faturamento no ano. Você tá vendo
+como é fácil você empreender cinco
+clientes? Me deixa eu te perguntar, você
+acha que você não tem capacidade de
+conseguir cinco clientes? Você acha que
+você não tem capacidade de conseguir
+cinco clientes? Não é mais fácil você
+seguir esse caminho alternativo que tá
+muito mais alinhado com uma consultoria
+prodotizada do que para um para um SAS
+B2B? Muito mais fácil fazer isso,
+aproveitar a necessidade do que você
+inventar uma ferramenta, uma nova
+startup de inteligência artificial num
+modelo B2C para você espalhar ele pro
+mercado. É muito mais fácil, é um
+caminho muito mais fácil, é um caminho
+muito mais previsível, é muito mais
+lógico, vocês vão ter muito mais
+sucesso.
+É assim que se empreende. Você tem que
+empreender com o planejamento
+estratégico para vocês conseguir sair de
+onde vocês estão. Kelvin, merda, eu
+tô fazendo isso, não tô conseguindo
+conseguir cliente. Então você tá com
+problema na venda, você tá com problema
+na tua oferta, no modo como você tá
+oferecendo, em como você tá abordando o
+cliente, em como você tá fazendo. Isso
+aqui não é uma venda que você chega e
+passa o preço, isso aqui é uma venda
+consultiva. Você coloca o cara na calça,
+você faz um diagnóstico, você mostra
+para ele, fala assim, ó: "Meu amigo,
+você está perdendo dinheiro, você tá
+perdendo todos os meses R$ 15.000, você
+vai me pagar 20 para você parar de
+perder 15, Kelvin, será que ele perde
+isso mesmo? Esse cara aqui perdeu. Esse
+cara aqui perdeu. Eu ele perdeu R$ 3.000
+um projeto de R$ 10.000. Ele perdeu no
+mínimo R$ 3.000. Fora o que ele gastou,
+que ele gasta com Google Ads, com Google
+eh, com CEO, com tráfego pago, com
+agência por mês. Fora isso, esses caras
+estão gastando isso. Essas empresas
+estão desperdiçando dinheiro. Então, é
+por isso que você, É por isso que eu
+falo aqui, cara, esquece o SAS. Ah, mas
+isso não tem equity. de equity.
+Você não tirou a ideia do papel até
+agora. Muitos não tiraram a ideia do
+papel até agora. Que de equity?
+Essa história de equity é Isso
+aí, isso aí é é a é o conto da
+carochinha do mercado.
+Depois
+que você fez dinheiro, imagine você com
+dinheiro, aí você pode transformar isso
+num sá. Depois que você validou isso
+daqui, que isso aqui começou a dar,
+sabe, fazer dinheiro com isso e você
+começou a detectar outras dores, você
+pode criar um SAS para empresas de
+esquadria de alumínio, um SAS para
+advocacias, um SAS para clínicas de
+estética, clínicas odontológicas, um SAS
+para Tex Shop, entendeu? máquinas de
+crescimento que tragam ROI, que tragam
+retorno sobre o que as empresas
+tradicionais, os negócios tradicionais
+estão fazendo para traga retorno para
+eles, pro negócio tradicional. Aí o cara
+paga para você, ele paga feliz porque no
+final das contas você gera dinheiro para
+ele, entendeu? Você tem, vocês tem que
+parar de pensar um pouco em você e
+pensar um pouco mais no mercado. Eu até
+montei uma tabela aqui, ó. SAS, tempo de
+receita. Montou um SAS hoje, tempo de
+receita no mínimo de 6 a 12 meses. No
+mínimo, no mínimo, pro negócio começar a
+rampar.
+Infraestruturas de crescimento com IA,
+modelos de consultoria estratégica,
+modelos de consultoria estratégica de IA
+também que não tem nada a ver com
+infraestrutura. Mesma coisa.
+Consultoria, mesma coisa, menos de 90
+dias. Em menos de 90 dias você consegue.
+Validação de mercado, sá, você consegue
+sua pó de produção, colocando a gente
+para dentro e botando para rodar.
+Infraestrutura antes da produção, você
+pode vender antes de ter. Você pode
+vender antes de ter. Você vende o sonho,
+você vende a ideia. Você pode usar o GHL
+para vender antes de ter. Você pode usar
+um Miro para vender antes de tempo e
+mostrar pro cara que ele tá jogando
+dinheiro fora. É simples assim. Ticket
+médio, SAS, low ticket, geralmente o
+pessoal faz aí plataforminhas de 50 a
+ou high ticket, depende, mas aí é SAS
+nichado, B2B, tem que ser muito grande,
+igual que eu montei com a com a General
+Cleans. Infraestrutura setup mais
+mensalidade de 1500 a 6.000. O setup é
+calculado em cima do retorno sobre o que
+você traz de retorno para aquela empresa
+no ano sobre o RO o valor gerado. Lucro
+lucratividade inicial, SAS negativo.
+Primeiro você coloca dinheiro para
+depois você tirar. Infraestrutura. Ih,
+tem reunião, gente. Infraestrutura alta,
+então tem mais de 50 a 70%. Então você
+consegue ter uma lucratividade muito
+alta. Talvez o primeiro cliente sem
+pate, o segundo você já alavanca. É
+incrível. É incrível. Escalabilidade
+alta no SAS, mas depende de funding.
+Infraestrutura alta com revestimento.
+Que que significa isso? Presta atenção.
+Fechou o primeiro cliente, fechou a
+primeira esquadrilha. Você resolveu o
+problema daquela esquadria, você pega
+10, não, 10% não, você pega uns 30% do
+do do lucro e você reinveste em tráfego
+pago, começa a pegar outro cliente. Aí
+com aquele dinheiro você calcula o seu
+CAC. Imagina seu CAC, custo de aquisição
+de cliente R$ 2.000. Você vai lá e pega
+outro, puf, com o dinheiro que você
+investiu, você já trouxe mais 20.000
+para dentro. Olha isso. Pá, de novo, vai
+empilhando, pá. Pensa, presta atenção.
+Se você focar num nicho, se você
+resolver o problema de um nicho
+específico de uma esquadrilha, você
+resolve de todas as esquadrilhas. Se
+você resolver de uma sexy shop, você
+resolve de todas. De um advogado, você
+resolve de todos. De um advogado cívil,
+de todos. De um advogado trabalhista,
+saca? Tem muito nicho, tem muito
+mercado, são mais de 22 mil, 22 milhões
+de empresas no Brasil. Então assim, se
+você quer empreender, siga para um
+caminho que faça sentido.
+Não quebre a cara. É possível você
+empreender, é possível você ganhar, é
+fazer dinheiro com empreendedorismo, é
+possível você sair da CLT, é possível
+você fazer isso sem ser técnico. E se
+você quiser a minha ajuda, você pode
+entrar na Acelera ou acompanhar todos os
+meus vídeos e aplicar. Tem muita gente
+que tá aplicando o que eu tô falando
+aqui no meu YouTube, entendeu? No meu
+canal do YouTube. Então é só aplicar.
+Esse conteúdo, foi gratuito para você.
+Agora, se você quer empreender, você
+quer minha ajuda, ajuda da minha equipe
+para tirar sua ideia do papel, você cai
+para dentro. Clica no link aqui na
+descrição desse vídeo e vem conhecer,
+acelera, vem conhecer a nossa proposta.
+Não paga nada mesmo, de graça. A gente
+faz uma consultoria para você, tá bom?
+Já clica em me seguir, já dá um joinha
+se você gostou desse vídeo, já comenta
+também e um abraço.

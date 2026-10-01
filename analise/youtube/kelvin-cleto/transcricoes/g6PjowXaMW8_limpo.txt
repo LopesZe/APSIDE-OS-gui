@@ -1,0 +1,743 @@
+Nesse vídeo aqui eu vou te explicar como
+que eu destravei 10 milhões de
+faturamento por ano na primeira empresa
+que eu montei que deu certo. Não foi a
+primeira empresa que eu montei, foi a
+primeira que deu certo, porque antes
+dela eu tinha quebrado já umas três ou
+quatro assim de tentativas extremamente
+frustrantes. Então, se você é
+empreendedor ou se você quer empreender
+ou se você é empresário, ainda não bateu
+esse faturamento, fica nesse vídeo aqui
+comigo, porque eu vou destrinchar este
+case do meu negócio. Foram 10 anos
+empreendendo para bater 10 milhões de
+faturamento por ano. Foi uma boa de uma
+jornada com muito sofrimento, mas com
+muitos aprendizados assim, absurdos. E
+eu não sei se é coincidência ou não.
+Hoje eu tava assistindo um vídeo que o
+Bruno Fajão fez, inclusive eu vou
+comentar sobre esse vídeo aqui, onde ele
+fala sobre a oportunidade de 10 milhões
+por ano. E quando eu assisti, eu falei:
+"Caraca, casou". É literalmente a
+jornada que eu criei. Quando eu olhei
+ali pela perspectiva que ele apresentou,
+eu falei: "Nossa, cara, que bizarro".
+Mas agora vamos começar então. Vamos lá
+então. Deixa eu compartilhar minha tela
+aqui com vocês. Então eu vou explicar
+para vocês nesse vídeo como este cara
+aqui. Eu já tava com 24 anos, eu
+infelizmente não trilhei, eh, não, não
+filmei a minha jornada toda. Mas eu vou
+te mostrar como eu saí aqui, ó, de
+alguém que montou, pô, esse aqui foi meu
+primeiro escritório, cara, de alguém que
+montou uma empresa Bootstrap. Kelvin,
+que que é Bootstrap? Boot strap é uma
+pessoa que vai lá e faz com as próprias
+mãos, com o próprio investimento. Eu
+montei do zero. Eu saí dos literalmente
+do zero. Eu nunca recebi R$ 1 de
+investimento para montar o meu negócio.
+Então para você que tá aí achando que
+precisa de investimento, ah, mas eu
+preciso de dinheiro para montar, toma
+vergonha na tua cara, [&nbsp;__&nbsp;] Vai
+trabalhar, levanta dinheiro, guarda e
+depois você monta teu negócio. É assim
+que funciona, igual eu fiz. e dá certo.
+Então, vou te mostrar como eu saí daqui,
+ó, que é meu primeiro escritório, meu
+primeiro funcionário, meu exsócio que
+acabou saindo no meio da jornada, a
+nossa primeira geladeira para ter o
+terce vendido, né? Então, bater 10
+milhões, a gente, eu vendi 50.1% pro
+grupo IS em 2022, agora em 2025 eles
+fizeram a aquisição total da empresa. Eu
+fiz o meu exit e o case vai ser da
+General Clans, que ainda é uma das
+principais insurtecs do Brasil. Que que
+você sabe o que que é uma insurtecch? Me
+insurtech é uma empresa de tecnologia
+voltada 100% pro mercado de seguros. E a
+gente atua num nicho extremamente
+específico que é de regulação de
+sinistro. E o vídeo em questão do Bruno
+Fajon, ó, depois que você terminar esse
+vídeo, vai assistir esse daqui, ó, a
+oportunidade de 10 milhões por ano. Tá
+aqui, ó, o Bruno Fajão, cara, esse cara
+é bravo, adoro ele, adoro os vídeos
+dele. Que que ele fala aquilo? Ele fala:
+"Cara, existe uma lacuna no mercado.
+Você tem empresas ali que faturam e
+100.000 por mês ou perdão, 100.000 por
+ano. Aí ele coloca aqui empresas que
+faturam até 1 milhão por ano, 10 milhões
+por ano, 100 milhões por ano e um B. E
+aqui ele fala: "Cara, aqui é onde tá as
+estrelas, né?" Então, e aqui ele faz um
+gráfico de competição por por nicho, eh,
+por faturamento. E aqui ele fala:
+"Porra, entre 1 milhão de faturamento
+tem uma competição absurda, que é a
+galera que que é impulsionada pelo
+mercado digital. Aqui tem uma competição
+mais pelos onde tá os venture capital
+querendo montar negócios de bilhão. E
+aqui existe uma lacuna que é de 10
+milhões a 100 milhões. Cara, eu concordo
+muito com ele. Só que eu tenho uma, por
+exemplo, eu ainda a a General, a perdão,
+a Acelera, que é a empresa que eu quero
+colocar aqui nesse nesse ponto em 100
+milhões de faturamento, ele falou que é
+fácil. Eu
+eu já não acho não. Já acho que apesar
+que a curva aqui tá subindo, ó. Tá
+subindo, vai. Tá subindo. É [&nbsp;__&nbsp;] para
+[&nbsp;__&nbsp;] isso aqui. Então vamos lá.
+Quando ele explicou, ele falou: "Cara,
+eh, para criar uma empresa de 100
+milhões, de 10 milhões por ano de
+faturamento, é só você criar um SAS
+extremamente inchado." E foi isso que eu
+fiz aqui nessa jornada. Só que não foi
+uma jornada simples. E eu vou abrir ela
+aqui para vocês, ó. Só que a minha
+empresa em 2015, quando eu surgi com a
+General Clans em agosto de 2015, eu
+criei lá uma solução para regulação de
+sinistro. Se você não sabe o que é
+regulação de sinistro, pesquisa aí no
+mercado. Eu trabalhava numa empresa que
+era uma reguladora. Eu fui desligado
+dessa empresa porque eles decidiram
+internalizar todo o processo de eh
+terceirizar todo o processo de
+tecnologia e me demitiram. Eu era
+arquiteto de software. Aí eu falei:
+"Cara, eu já estudei o mercado, eu já
+entendo como que funciona isso, existe
+uma necessidade aqui nesse mercado. Eu
+vou criar uma plataforma de regulação de
+sinistro e vou vender paraas outras
+reguladoras de sinistro". Minha cabeça
+pensou desse jeito e foi e eu fui
+incentivado por uma grande amiga que
+trabalhava na área também, a Amanda. E
+ela falou: "Porra, por que que você não
+monta?" Fui lá, juntei com mais um
+desenvolvedor meu e sócio e começamos a
+a desenvolver a plataforma. Falei:
+"Montei, montei a General Cleans." E aí
+de 2015, olha aqui, 2022 a gente bateu
+os 7.1 1 milhões. Então a gente saiu de
+um funcionário para 2022 bater 7.1. 2023
+a gente bateu 9.5 milhões. Na verdade
+não foi 10 milhões, foi quase, né? 9.5.
+E trilhamos uma jornada de sucesso até a
+empresa ser adquirida e tudo mais. Só
+que não foi fácil. Olha isso aqui, ó. E
+nesse vídeo eu vou mostrar para vocês o
+que que precisei fazer para conseguir
+bater esse faturamento, porque foi um
+processo, foi um processo de aprendizado
+e de muitos erros e de muitos acertos
+também que fez eu chegar nesse nesse
+faturamento, tá? E por que que você
+deveria me ouvir, cara? Porque eu fiz,
+eu fiz. Eu tenho um case real e você
+pode aprender muito com isso. Eu não
+ganhei dinheiro. Eu não fiz dinheiro, na
+verdade, quem ganha dinheiro é criança
+ou mendigo. Eu não fiz dinheiro com
+marketing digital. Agora que eu comecei
+a acelerar, estou impulsionando o meu
+canal com marketing, o essa empresa com
+um marketing digital no modelo chamado
+Founder Led Growth, que é quando o
+empreendedor, o fundador mete as caras
+aqui na internet e bota pressão e faz
+acontecer. Então, vamos lá, ó. 2012 eu
+montei a minha primeira empresa. Eu
+tinha 22 anos aqui, ó, 20, 21 ou perdão,
+tinha uns 20 anos mais ou menos. Eh,
+montei o RP Brasil, deu errado. 2013
+montei o Copia e Cola, um SAS, deu
+errado. 2015, me formei empreendedorismo
+na Babston College. E aqui eu montei a
+General Cleans. Foi aqui que ela nasceu.
+Em 2022 eu vendi 50.1% delas. 7 anos
+depois. Foi aqui, ó, aos 30 anos que eu
+consegui romper o meu primeiro milhão.
+Eh, 2024 eu aqui com com o grupo IS, a
+gente eh tava crescendo muito. E 2025 eu
+fiz meu exit dessa empresa e montei a
+KCG Group, que é uma consultoria de
+software. Tenho squad service, trabalho
+muito com inteligência artificial lá
+também. Tem um tasto chamado UNSPECT e
+acelera 360. Para você que não conhece,
+Acelera 360, é a minha escola de
+empreendedorismo handone. Lá eu ajudo
+pessoas a empreender, a tirar as ideias
+do papel, a executar de forma prática. É
+mão na massa, [&nbsp;__&nbsp;] Eu faço acontecer
+lá, eu faço a galera ter resultado.
+Então, se você não consegue crescer o
+teu negócio, se você não consegue tirar
+sua ideia do papel, vem com o pai que eu
+vou te ajudar. Clica no link aqui na
+descrição desse vídeo e cai para dentro.
+Então assim, você deveria me ouvir
+porque eu sou do campo de batalha,
+[&nbsp;__&nbsp;] porque eu faço e aconteço,
+entendeu? E eu vou contar para vocês
+como que foi esse processo. Olha,
+absorva o máximo possível e tente pegar
+os cenários que eu vou mostrar e aplicar
+no teu negócio e entender em que momento
+que você tá. Então, vamos lá, ó. De
+2000, eu separei aqui em três períodos
+principais, foram muito grandes, de 2015
+a 2020, uma janela de 5 anos. De 20 a
+22, uma janela de 2 anos. E aqui de de
+23 a 24, tá? Em 25 eu não vou
+considerar.
+Quando eu fundei a General Clans aqui,
+gente, aqui era um cara, um programador
+que queria empreender.
+Eu não entendia nada de vendas, nada de
+nada, nada de empreendedorismo. Eu só
+falava o seguinte: "Cara, eu vou ficar
+rico com essa [&nbsp;__&nbsp;] Eu vou montar uma
+empresa e eu vou ficar rico, que para
+mim o caminho era esse de sempre
+empreender e fazer o próprio negócio
+para poder romper. Eu sempre fui
+criativo e tudo mais. E foi aqui que eu
+decidi montar um SAS para um nicho
+específico,
+que é o o nicho de regulação de
+sinistros no mercado de seguros.
+Gente, eu fiquei de 2015 a 2020 tentando
+fazer essa [&nbsp;__&nbsp;] crescer. Olha quanto
+que eu faturava. Eu saí no primeiro ano,
+eu faturei 65.000. Em 2019, ó, eu
+esquece esse 2020 aqui, batendo 2
+milhões. Não vamos considerar esse
+ponto. 2015 a 2019, com R$ 811.000 de
+faturamento. Eu não tinha conseguido
+romper R 1 milhão. Aqui R$ 811.000 por
+mês e por ano é deve ser uns R$ 60, R$
+70.000 por mês. Olha que loucura. Olha o
+quanto de energia. Por isso que eu falo
+para vocês, não é fácil montar um SAS, é
+difícil para [&nbsp;__&nbsp;] Então isso aqui eu
+nasci um SAS inchado. Eu falei: "Cara,
+eu não tinha nem concorrente direito".
+Por que que eu não tinha concorrente?
+Porque era um nicho extremamente
+específico, tinha que ter muito
+conhecimento daquele nicho para saber o
+que realmente tinha que ser feito. No
+começo nem eu sabia. Eu sabia criar o
+sistema e aquilo que eu tinha analisado,
+mas eu não entendia as dores desse
+mercado. Eu não entendia as nuances
+desse mercado. Só que eu fui atrás de
+cliente com a minha fui na na força da
+minha própria mão. Atrás de cliente,
+atrás de cliente, atrás de cliente. E eu
+fui conseguindo meu primeiro cliente de
+graça, meu segundo cliente de graça,
+terceiro comecei a cobrar, quarto,
+quinto, sexto, sétimo. Aqui ó, eu tava
+com 29 clientes já. Então, em 2019, SAS
+pagando uma mensalidade, tudo mais,
+maravilhoso. Então, assim, eu tinha um
+nicho específico, um setor, um mercado
+específico muito grande, só que o meu
+nicho, olha que loucura aqui, ó. Qual
+que era o tamanho do meu mercado?
+Gigantesco. O mercado de seguros é
+gigantesco, mas para quem eu realmente
+conseguiria vender? A gente tem, na
+época que a gente tinha 146 seguradoras
+de mercado, mais ou menos, e umas 1000
+reguladoras de sinistro, que é um player
+do mercado de seguros. Eu poderia vender
+pra seguradora, poderia ganhar muita
+grana aqui, mas você acha que eu tinha
+porte? Você acha que a seguradora ia
+comprar um SAS de um moleque mais um
+outro doido que montar? Não. Então eu
+não consegui atingir esse público aqui.
+Então eu vim para cá, ó, atingi as
+reguladoras que era uma terceirizada,
+que são terceirizadas por por
+seguradoras. Então as reguladoras são
+contratadas pelas seguradoras aqui para
+fazer um tipo de prestação de serviço de
+regulação. E o que que eu vendia? Eu
+vendi uma plataforma, cara, um sistema,
+uma plata de CLIN, é uma plataforma.
+Aqui é uma apresentação real, tá? É uma
+plataforma online que realiza o controle
+de todas as etapas do processo de
+regulação de sinío e tudo mais. Então,
+de 2015 a 2019, eu fiquei tentando
+vender ferramenta, fiquei tentando
+vender software, software de regulação
+de sinistros. Isso aqui me limitou
+demais. Limitava demais. Por quê? Porque
+naquela época eu não tinha visão que eu
+passo aqui para vocês de vender uma
+solução, uma solução que traga ROI para
+quem tá pagando, que traga retorno sobre
+investimento, uma precificação calculada
+em cima do valor gerado. Eu não sabia
+fazer isso. Então o meu SAS foi
+precificado ou errado. O jeito que eu
+vendia meu SAS era do jeito errado. O
+modo como eu ia atrás do cliente era
+completamente errado. Então eu cometi
+vários erros. Só que aqui em 2019 eu
+consegui um o pré-pandemia, né? Eu criei
+uma solução chamada vistoria remota. uma
+uma ferramenta específica e eu consegui
+um cliente corporate, um cliente grande,
+um cliente SA que foi depois veio a me
+comprar aqui a
+E aí em 2020 a gente começou uma
+parceria com essa com esse grupo, né?
+Começamos a expandir o processo e foi
+aí, ó, foi aí que eu rompi
+o meu primeiro milhão. Eu nem vi
+rompendo porque eu já pulei de 2019,
+2020, ó, para 2 milhões de patronamento
+por ano. E aqui já vem a primeira lição
+para vocês. Nada acontece para quem não
+começa. Então, se você quer empreender,
+[&nbsp;__&nbsp;] começa. Só faz, vai para cima,
+vai ajustando, vai, vai controlando.
+Acessa pessoas que já fizeram o caminho
+que você quer seguir. Por quê? Porque
+você começa a aprender a encurtar o seu
+prazo. Eu demorei eh 5 anos aqui para eu
+conseguir romper 1 milhão. Você pode
+demorar muito menos. Se eu tivesse
+seguido outros caminhos no no processo,
+tivesse ido atrás de empresas ou de
+mentores para me ajudar, provavelmente
+eu teria feito isso aqui muito mais
+rápido. Mas eu era muito cabeça duro
+aqui na época. Então aqui eu tava
+vendendo solução, só que de 19 para 2020
+eu comecei a entender uma coisa que eu
+trabalhei muito duro nesses anos aqui.
+De 2020 para 2025 a gente veio crescendo
+ano contra ano, ano contra ano. Se você
+for analisar o resultado aqui, ó, aqui
+eu bati 800, aqui 2 milhões, aqui veio
+para 3.2, pulou para sete, depois pulou
+para olha que doideira. Olha o tamanho
+do time aqui, de 31 para 50
+colaboradores, depois a gente chegou até
+55, depois veio enxugando a empresa para
+deixar ela mais justinha. Só que qual
+que é o grande ponto em questão aqui? É
+o que eu ia, o que eu aprendi quando eu
+fechei um cliente grande, que é comecei
+a olhar para eles, falei: "Cara, que que
+esses caras vendem?" Eles começavam a,
+eles vendiam um conceito de solução. Eu
+falei: "Cara, como assim uma solução?" O
+modo como a atingia os clientes deles,
+os clientes corporate era no modelo de
+me conta aí, me explica um, me explica
+qual que é a sua dor hoje em venda de
+seguros. E aí ela lá ela levava uma
+proposta que era eu vou resolver essa
+dor de seguros porque eu tenho isso, eu
+tenho uma área que faz vendas, eu tenho
+um sistema de vendas, aí eu tenho tal
+coisa, aí eu tenho concierge. Ela ela
+ela tinha todo um ecossistema.
+Então, quando a dor chegava, eles
+acessavam o cliente, eles não eles não
+levavam plataforma para vender, eles não
+levavam ferramenta, eles, pelo
+contrário, eles vi iam no modo
+consultivo. Fulano, deixa eu entender o
+processo, a sua dor hoje. Deixa eu
+entender o que que você tá precisando
+para ver se eu posso te ajudar. Olha
+aqui, já dois dois conceitos para você.
+Eu aprendi aqui o conceito de solução
+e depois eu aprendi o conceito de venda
+consultiva. Eu não, antes eu eu eu
+acessava os clientes, falava assim:
+"Fulano, eu tenho aqui uma plataforma de
+regulação de sinistro. Você quer? Você
+tá com problema de regulação de
+sinistro? Tá, eu posso te ajudar. Essa
+plataforma faz o quê?" "Ah, ela tem
+envio de documento, ela envia e-mail,
+ela envia isso, ela envia aquilo, ela
+envia aquilo outro". Aqui, depois que eu
+comecei a ganhar experiência, eu entendi
+que a galera vendia solução e fazer o
+processo de venda consultiva. Então,
+aqui em 2020 eu comecei a acessar os
+clientes. Por que que eu cresci? Porque
+eu comecei a acessar os clientes e
+entender o que que você precisa hoje na
+sua empresa de regulação de sinistro. Me
+conta quais são as suas dores. Aí a
+pessoa conta pá, tá? Eu tenho a solução
+pro teu problema. Eu tenho uma
+ferramenta, eu tenho aqui um
+ecossistema, na verdade uma ferramenta
+não, tenho um ecossistema que reduz em
+até 40% o tempo de regulação de
+sinistro. Eu automatizo todo esse
+processo de sinistro. Eu te dou maior
+controle e acompanhamento sobre o seu
+processo. E como que eu faço isso? Eu eu
+reduzo o tempo de processamento de
+sinistro, eu diminuo a necessidade de
+recursos humanos, eu tenho um time de
+tecnologia que fala o segur, olha que
+louco. Entenda uma coisa, essa é a
+importância de você ter um nicho, [&nbsp;__&nbsp;]
+é assim que você, é por isso que você
+tem que ter o nicho, porque eu comecei a
+conversar com o mercado de seguros de
+igual para igual, porque eu tinha a
+mesma capacidade que eles. A única
+diferença é que eu tava olhando não para
+vender seguro, eu tava olhando para
+resolver uma dor de regulação de
+sinistros. Então eu tinha todo o
+linguajar, todo o trejeito do mercado e
+e eu tinha a parte técnica e aí eu
+comecei a despontar a General Clans para
+literalmente ser uma Insurtech, uma
+empresa de tecnologia 100% voltada pro
+mercado de seguros, um time de TI que
+fala o segurez e um time de TI que tá
+entendendo a dor do mercado de seguros.
+Eu trouxe o conceito de tecnologia mais
+negócio aliado a resultado. Esse era o
+meu pit. Eu não era simplesmente uma
+empresa que vendia plataforma,
+ferramenta. Eu era uma empresa que
+vendia a solução para aquela dor daquele
+cliente. E eu vim e comecei a estruturar
+aqui nessa época o ecossistema
+integrado. Eu falo isso para vocês em
+outros vídeos aqui para vocês já
+construírem um ecossistema de a para
+vocês empreenderem. Se você nunca viu
+nenum vídeo meu sobre isso, clica nas
+minhas playlists, acessa aqui os vídeos
+do canal e entenda uma coisa. Entenda
+sobre isso. Entenda o conceito de
+ecossistema, o conceito de
+infraestrutura, tá bom? [&nbsp;__&nbsp;] esqueci de
+falar. Me segue aí, [&nbsp;__&nbsp;] Clica no
+joinha. Já dá um comentário aqui também
+se você tá gostando do vídeo. Então,
+olha que transição. Só que isso não
+aconteceu do dia paraa noite. Para você
+que tá assistindo esse vídeo, o que que
+você tá vendendo? Você tá, você tá
+querendo vender ferramentas
+pro seu cliente ou você tá querendo
+solucionar a dor do teu cliente? Porque
+é diferente. Quando você vende pro teu
+ferramenta, a sua ferramenta é o fim.
+Quando você vende a solução, a
+ferramenta ela é o meio do processo. É o
+meio que você utiliza para solucionar a
+dor daquele cara. E essa construção toda
+é o que é necessário para você bater os
+10 milhões. É o que é foi estritamente
+necessário, porque aí eu comecei a
+acessar outros grandes clientes, eu
+comecei a criar uma, as pessoas
+começaram a me conhecer, [&nbsp;__&nbsp;] o Kelv
+soluciona essa parte da regulação a
+General Cleans é uma das é a melhor
+shortc para isso. Começou o boca a boca,
+começou a pipocar no mercado
+e aí o pai veio, ó, crescendo, entendeu,
+cara? Isso é muito louco porque olha que
+doido. Eh, eu tenho, eu ensino isso aqui
+pr os meus alunos lá na Acelera, né?
+Então, a minha oferta inicialmente era a
+ferramenta. E o que que acontece? Isso
+aqui são alavancas, ó. Você tem que ter
+um processo de alavanca de crescimento.
+A sua, esse conjunto de, de alavancas
+aqui, basicamente é o que vai dar o teto
+do teu resultado. Então, assim, uma
+alavanca é um negócio que você usa para
+potencializar. Então aqui nessa ponta
+você tem que empilhar vários desses
+pontos aqui para que você suba o seu, a
+sua qualidade, a sua quantidade de
+entrega e e consequentemente suba o teu
+faturamento do teu negócio. O teu
+negócio não pode estar limitado. Quando
+eu tava trabalhando com uma oferta de
+ferramenta, isso tinha um platô de
+faturamento que eu conseguia atingir.
+Quando eu pulei pra solução, eu rompi
+esse platô e puf para cima. Aí eu
+comecei a crescer. Então é isso aí que
+você tem que olhar pro teu negócio, é
+isso que você tem que pensar quando você
+tá começando a empreender. E de 20 a 22
+eu vim crescendo freneticamente. Tanto
+que em 22, ó, eu tava faturando, eu
+pulei para 7 milhões de faturamento. E
+aqui foi uma loucura. Por quê? Comecei a
+contratar muita gente, muita gente.
+Pergunta se eu sabia gerenciar. [&nbsp;__&nbsp;]
+nenhuma. Eu era muito louco. Era muito
+louco. Não sabia. Não era um líder
+ainda. Não tinha me desenvolvido para
+isso. Eu não sabia estruturar. Só que
+quando eu bati 16 aqui, ó, de 20 para
+22, eu tava com 16 funcionários. Quando
+eu cheguei aqui n 22 funcionários, o
+negócio já tava perdendo o controle.
+Então eu tive que destravar uma nova
+alavanca no meu negócio, que é a gestão.
+Eu tive que destravar isso para quê?
+Para que eu pudesse escalar. Precisei
+criar líderes. De 21 para 22, que
+começou a acontecer? Começamos a crescer
+mais ainda, muito mais, muito mais,
+muito mais. E eu parei no platô de novo.
+Comecei a precisar ter governança, a ter
+processos bem definidos, a implementar
+cultura no meu negócio. Mas aqui eu já
+tava batendo 7 milhões de faturamento,
+ou melhor, era 4.9 mais ou menos de 2021
+para 2022 ali. E aí eu tive que e eh
+parar um pouco, olhar pro meu negócio e
+falar: "Cara, por que que eu não tô
+crescendo? Que que tá acontecendo?"
+Comecei a ver, eu não tinha nenhum
+processo de planejamento estratégico pro
+próximo ano. Eu não tinha governança nos
+meus processos, eu não tinha nem
+processo definido de desenvolvimento,
+era go horse total. Senta aí, chicote na
+chicote na mão e pau no time. Vamos
+embora, vamos para cima. Tinha muito
+retrabalho, tinha muitos problemas,
+tinha um monte de coisa. Eu não tinha
+uma cultura bem definida. Então eu tive
+que implementar isso para eu ir romper o
+o próximo platô de 5 milhões e romper
+para 7.1. E de 2022 para 2023, aqui eu
+tenho, por exemplo, ó, os kidos kars que
+a gente fazia no planejamento
+estratégico. Isso aqui foi feito 2022
+para 2023. Olha que maravilhoso, cara. e
+entende que é um processo.
+Por isso que eu falo para vocês, [&nbsp;__&nbsp;]
+quer começar a empreender? Acha um nicho
+[&nbsp;__&nbsp;] um nicho que pague, um nicho que
+tem um tamanho de mercado. Estuda os
+gaps desse nicho, dos players desse
+nicho. Entenda qual player desse nicho
+que realmente tem tickets para pagar o
+quanto que vale, faça uma projeção
+financeira, projete uma infra, uma infra
+de IA. Eu falo para prender com IA hoje
+por causa do hype, mas projete uma
+infra. Crie algo robusto para solucionar
+uma dor daquele cara. cobre um preço que
+seja alto, começa a ir atrás dos seus
+clientes, pega um modelo mais high
+ticket para você cair para modelo
+consultivo. O mercado tradicional tá
+passando por uma transformação absurda
+por causa da IA. Então a gente tem uma
+oportunidade monstruosa. São milhões,
+9.9 milhões de empresas que você pode
+acessar de vários nichos. Escolhe um
+nicho bom. Escolhe um nicho bom que
+tenha ticket alto, ataca, estuda esse
+nicho, entende, começa a falar a língua
+dele, saca? Eh, entre em grupos, busque
+experts desse nicho para você começar a
+entender as dores, leia comentários do
+YouTube, faça pesquisa, porque isso é o
+que vai fazer a diferença no momento que
+você sentar com o cliente que você
+prospectou e e apresentar uma solução
+paraa dor dele. Entenda sobre como
+funciona vendas consultivas. É isso que
+eu ensino na acelera, pô. É isso que eu
+ensino meus alunos. Por isso que meus
+alunos sem resultado. Por isso que tanto
+quem quer empreender consegue
+empreender, tirar a ideia do papel.
+empresários que entram na Celá querendo
+escalar o o faturamento ou escalar o
+negócio, tão platô consegue se
+destravar. Porque eu já percorri esse
+caminho. Eu já percorri esse caminho. Ó,
+se você não faturou ainda 9.5 milhões,
+eu ia falar 10, mas eu falar 9.5, clica
+na [&nbsp;__&nbsp;] do link que vai para dentro, dá
+acelera. Então assim, é isso aqui que eu
+fazia, ó. Me qual que era o meu
+planejamento a longo prazo pros próximos
+5 anos, que são os kids? [&nbsp;__&nbsp;] atingir
+o valor de 170 milhões até 2027, ser
+referência como plataforma de solução
+para mercado de seguros alcan 16 milhões
+de faturamento, alavancar, ser parceiro
+estratégico, eu traçava meus planos. E
+quais eram os Kes para cada um? Bater
+9.5 milhões de 2023, finalizar o olho de
+2023 com receita recorrente,
+correspondendo à 50% das despesas
+operacionais da empresa. Olha que
+doideira. Aqui faltou um ponto
+importante. Eu não faturei tudo com SAS.
+Nesse processo de 20 a 22, eu abri novas
+fontes de receita. Eu abria como se
+fossem BUUS, né, unidades de negócio. Eu
+tinha uma divisão de squad as serves que
+eu alocava recursos que entendiam de
+seguros para seguradoras. Eu tinha
+divisão de SARS, eu tinha um outro
+produto, uma square específica para para
+produtos específicos. E eu começava a
+abrir linhas de receita diferente, mas
+todas no mesmo nicho, todas resolvendo
+os problemas das mesmas dos mesmos
+players, outros problemas. E aí eu
+comecei a deixar o meu ecossistema
+robusto, entendeu? Eu não ia, eu
+poderia, por exemplo, eh, tá focado no
+mercado de seguros e, [&nbsp;__&nbsp;] [&nbsp;__&nbsp;]
+clínica médica tem o mesmo problema, vou
+pra clínica, não faz sentido. É, é
+gastar energia. Agora, quando você toca,
+você centraliza tua energia num único
+ponto, o teu resultado é maior. O teu
+resultado é maior. Então, eu abri uma
+linha de receita com SAS, que foi o
+começo, o inicial, a gente fazia tipo
+assim 350.000 de recorrência, por
+exemplo, por mês de do SAS gigantesco,
+eh, com todas as plataformas, né? Eu
+tinha uma linha de receita específica de
+square a service que que eu alocava. Eu
+prestava consultoria, sempre prestei
+consultoria, acho, gosto muito de
+consultoria, consultoria de de
+tecnologia, ajudando empresas no mercado
+tradicional de seguros a fazer uma
+transformação digital. Então, alocava um
+um que a gente chamava de city was a
+service, que era muito bacana. Então,
+foi necessário eu passar por essa
+transformação até eu chegar no ponto de
+falar: "Cara, comecei a amadurecer". Por
+que que a gente tá fazendo isso? Porque
+a visão não tava em 10 milhões, a visão
+tava no valation do negócio e bater 160
+milhões. Então, como a visão tava em no
+val, um dos meus pilares era a minha
+receita recorrente tem que aumentar de
+forma proporcional, porque a consultoria
+dá muito mais dinheiro que SAS, é muito
+mais rápido, você dá muito mais
+faturamento, porém as margens na
+recorrência são absurdamente altas.
+Então, olha isso, eu tive que
+desenvolver visão estratégica,
+esqueci, vou colocar aqui, ó. Eu tive
+que desenvolver visão estratégica.
+de mercado para fazer isso.
+E somente aqui no mais ou menos aqui no
+meio, entre 2023 e 2024, foi aqui que eu
+decidi ir para eh ir 100% pro
+estratégico da companhia. Foi aqui, ó.
+Foi aqui que eu falei: "Cara, beleza,
+agora eu sou um CEO. Eu ainda não me
+acho um cara [&nbsp;__&nbsp;] nisso. Eu tenho que
+melhorar muito ter que aprender demais,
+mas eu sou bom. Para que eu falei, cara,
+eu vou ser estratégico, eu vou aprender,
+eu eu tenho que ir pro estratégico,
+porque eu ainda era muito operacional e
+tático, operacional e tático e não
+estratégico do meu negócio, mas eu
+precisei chegar em um faturamento bem
+alto, tive que tirar do chão. E isto
+aqui é pequeno, tá? Isso aqui é
+extremamente pequeno. Vocês não têm
+noção que isso aqui, o quanto uma
+empresa dessa é pequena. Tanto que a
+minha projeção para acelera é 100
+milhões pros próximos 5 anos.
+Conseguiram entender? É aprendizado. Só
+que para você aprender, você tem que
+começar. Para você aprender, você tem
+que iniciar. Você tem que tirar a sua
+primeira ideia do papel. Você tem que
+meter pressão. Você tem que ir para
+cima. Você tem que errar. Quantas vezes
+eu errei? Quantas contratações mal
+feitas eu fiz? Quanto dinheiro eu gastei
+para até eu conseguir chegar nesse
+patamar aqui. Se você quer empreender,
+esse é o momento. Nós estamos vivendo
+uma oportunidade de ouro. É uma
+transformação absurda. Tem o hype da IA,
+mas tirando hype, a inteligência
+artificial por si só é altamente
+disruptiva e ela vai afetar todas as
+empresas de todos os segmentos, menos as
+que são 100% manuais, né? Mas assim,
+empresa que tem escritório de quarto
+condicionado vai ser afetada. Ponto.
+Vamos estabelecer isso. Então, meus
+amigos, comecem, comecem. É possível, dá
+para fazer. Eu fiz, você pode fazer,
+qualquer um pode fazer, desde que
+queira. Não sigam caminhos fáceis, não
+sigam voos de galinha, não sigam ofertas
+milagrosas, não sigam para caminhos que
+de ah, não, faça isso, higa, esse. Se
+você quer empreender, tem que meter
+pressão. Não é fácil, não é rápido, não
+é três em se meses, mas dá para ser
+muito mais rápido do que o tempo que eu
+demorei aqui para você criar um negócio
+que seja sólido. Fechou? Esse é meu,
+esse é meu vídeo de hoje para vocês, ó.
+Já me segue aqui, já curte. Se você
+quiser entrar na Acelera, o link tá aqui
+na descrição desse vídeo e comenta aqui
+também. Bora participar. falou, tchau
+vocês, seus cachorros. Ó, e bora
+empreender, [&nbsp;__&nbsp;] Vamos meter pressão.
+Vamos para cima, porque dá para fazer.

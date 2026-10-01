@@ -1,0 +1,341 @@
+Estamos no meio de 2025. A inteligência
+artificial já virou um carnaval. Todo
+mundo tem, tá? Tem agente de
+inteligência artificial. Todo mundo cria
+um monte de automação no NN. Tem galera
+criando microas SAS fornecendo pro
+mercado. Um monte de gente falando que
+tá ganhando rios de dinheiro com
+inteligência artificial. Mas eu vou te
+falar a verdade, é mentira. Não é todo
+mundo que tá ganhando toda essa grana
+com inteligência artificial. Não é tão
+fácil. E sabe qual que é o grande ponto?
+Por que que tá esse barulho todo? Porque
+é um mercado que a previsão para até
+2030 é um investimento global, gasto
+global na verdade de mais de 1.8
+trilhões de dólares. Então assim, é um
+mercado gigantesco, tem uma de uma
+oportunidade real mesmo, porque não é
+uma tsunami, não é uma onda, é uma, cara
+mudança assim absurda de no mercado em
+si, sabe? que é uma parada tipo
+revolução industrial mesmo. E você tem
+que entender para que você possa ganhar
+dinheiro com isso. Pelo menos 1 milhão
+desses 1.8 trilhões tem que entrar no
+teu bolso até 2030, pelo menos
+com essa oportunidade. Se você ainda não
+é empreendedor ou se você é empreendedor
+e quer entender como que você pode
+morder uma fatia desse mercado, você vai
+ficar comigo até o final desse vídeo.
+Para você que não me conhece, meu nome é
+Kelvin, eu sou fundador da General
+Clance, uma das principais insurtecs do
+Brasil, do USPECT e da Celara 360, maior
+programa de aceleração empresarial. Se
+você quer empreender, se você quer tirar
+a sua ideia do papel, eu posso te ajudar
+com a celular da 360. Depois se você
+quiser saber mais, o link tá aqui na
+descrição desse vídeo. Mas bora começar
+esse conteúdo aqui. Nesse vídeo aqui, eu
+vou falar para você o seguinte. Eu vou
+falar da mentira, da inteligência
+artificial que estão contando para você.
+Eu vou falar do que realmente funciona e
+o que você tem que fazer. Simples assim,
+direto e reto. Para começar pela
+mentira, você tem que entender um pouco
+sobre e a cadeia de valor da
+inteligência artificial. Cadeira de
+valor da inteligência artificial,
+resumindo, se se divide aí em cinco
+camadas, ó. Primeira camada delas é a
+energética. Que que é a camada
+energética? eh, usina hidrelétrica e eh
+geração de energia solar, tem que ter
+energia, tem que ter eletricidade para
+que os data centers rodeos os
+algoritmos, para que os data centers
+consiga manter criar Skynet, por aí vai.
+Então, aí tem uma um dinheiro
+absurdo, só que a gente não consegue
+entrar lá. Aí tá quem domina o mundo.
+Segunda camada, infraestrutura
+computacional. Aí a gente tá falando de
+Nvidia, a gente tá falando de que cria
+GPU, a gente tá falando de Amazon, a
+gente tá falando de Microsoft, essas
+galera que tem esses data centers
+gigantesco para colocar lá os algoritmos
+de a rodando e com aquele modo de dado
+lá processando e o negócio funcionando.
+Segunda camada é essa. Difícil para
+também, a não ser que você seja
+aí multibilionário.
+Terceira camada, camada de modelos. É aí
+que na terceira camada que a Open AI tá
+alocada, que a cloud tá alocada, eles
+têm os modelos de inteligência
+artificial lá treinado. Eh, a
+Microsoft também tá locada ali com o
+computer vision, modelo de A, desde
+visão computacional até LLN. E a quarta
+camada é a camada da especialização.
+Então, são derivações desses modelos com
+furning, com treinamentos específicos
+para nichos específicos. Isso aí tem
+muito equity, tem muito dinheiro aí e
+você pode entrar nesse nessa camada já
+nessa camada, você pode entrar na camada
+três também, você pode criar o seu
+algoritmo de IA aí se você for um crânio
+ou juntar um time que consiga fazer
+isso. Eu não tenho essa capacidade,
+entendeu? Tem que estudar muito para
+isso e o meu rolê não é isso aí não.
+Então você pode entrar na modelo, você
+pode entrar na camada de especialização,
+que é a quarta camada, onde a gente tá
+falando aqui de eh fine tuning, dados,
+datasets de treinamento específicos
+para, por exemplo, lama 3 e por aí vai.
+Então são vai variações dos modelos
+nichados. Tem muita grana aí. Você pode
+fazer isso se você conhecer um nicho que
+você e tiver o volume de dados
+necessário para treinar e treinar esse
+algoritmo, E o quinto, onde tá
+todo mundo alojado, as aplicações, todo
+mundo que consome via API, a Open AI, a
+Cloud, manus. A Manus não tem a API, né?
+Todo mundo que consome os modelos via
+IA, seja modelos especializados ou
+modelos gerais direto, saca? Inclusive
+eu tô ali. Qual que é o grande ponto? A
+galera da aplicação são rappers, são
+cascas. E nessa pegada de casca, a
+galera acha que é simplesmente criar um
+agente, treinar com qualquer coisinha
+ali, vamos supor, um agente de COP,
+conectar ali e sair vendendo. E não é
+assim, isso não sustenta. Isso só dá
+certo para quem tem audiência, para quem
+sabe ter audiência, para quem já, tipo,
+Fint, Thiago Fint lançou lá o Furion.
+Cara, fú nada mais é do que um agente de
+COP que monta produto através de
+produtos de infra produtos de produtos
+digitais através do que ele imputa de
+informação. Pô, isso aí para ele dar
+dinheiro. Por quê? Porque ele tem um
+de um canal. O canal dele quer ser
+outlier, quer sair viajando o mundo e
+ganhando milhões de dinheiro, seguindo o
+caminho fácil de infopruto. E consome
+isso porque quer aprender a gerar, gerar
+conteúdo. Simples assim e para ele vai
+dar certo. Só que você, se você tentar
+fazer isso, a mesma aplicação que o
+Fint, não vai dar certo, você não vai
+conseguir, a não ser que você saiba
+gerar audiência. E a galera tá fazendo
+isso, a galera tá criando agente GPT, a
+galera tá criando essas aplicaçõezinhas
+rasas, os talos micro SAS, que não
+resolvem realmente uma dor e saindo
+vendendo. E por isso que a maioria tá se
+frustrando empreendendo. Se você tentar
+fazer isso também, você vai se frustrar.
+Deixa eu te dar um recado antes de
+continuar esse vídeo. 2025 pode ser só
+mais um ano onde você tá só estudando aí
+mais tecnologias, escondendo atrás
+daquela frase: "Ah, eu não tô preparado
+ainda para empreender, para montar meu
+negócio. Eu preciso saber mais". Ou pode
+ser o ano da virada para você. Pode ser
+o ano que você vai botar para quebrar,
+que você vai terminar emitindo os seus
+primeiros, as suas primeiras notas
+fiscais. Eu posso te ajudar a você
+terminar esse ano com as suas primeiras
+notas fiscais emitidas através da
+Acelera 360. Se você quer tirar sua
+empresa do papel, se você quer tirar sua
+ideia do papel comigo te ajudando e com
+todo o time que ajudou a criar os meus
+negócios, você vai clicar no link que tá
+na descrição desse vídeo, porque eu vou
+abrir uma nova turma para o meu programa
+de aceleração empresarial chamado
+Acelera 360. Eu espero lá. Agora vamos
+continuar esse vídeo aqui. Então assim,
+galera, o que realmente é é o problema
+eu, rapper é você criar uma casca, uma
+aplicação casca. Não. O problema é você
+criar uma casca que não entrega valor
+real pro mercado. Vamos lá. Eu vou agora
+te apresentar uma saída real. Vou te
+apresentar o que realmente funciona para
+você começar a empreender e morder um
+pedacinho. Meu objetivo é simples, tá?
+trazer para você, apresentar para você o
+que funciona para você terminar esse ano
+ainda com as suas primeiras notas
+fiscais emitidas pelo seu próprio CNPJ.
+Bora virar empreendedor, vamos
+empreender, vamos morder uma partinha
+desse dinheiro, mas você tem que ter
+estratégia, você tem que ser
+inteligente. Eu posso falar para você
+montar um SAS. Eu gosto de SAS, eu
+adoro. Eu tenho um, o Inspect, que é a
+minha plataforma de inspeção. Só que
+você sabe o nicho que você vai atuar,
+você sabe qual que é o problema que você
+vai resolver? Você tem clareza real, ó,
+sobre o valor que a sua solução vai ter
+pro pro negócio do seu cliente, o cara
+que vai te pagar, não, né? Então esquece
+essa merda, não vai montar SAS, não vai.
+Vai demorar. Você vai montar SAS, vai,
+você não vai conseguir tracionar. Você
+vai pivotar uma vez, pivotar duas,
+pivotar três até você acertar. Você tem
+esse tempo. Eu tô falando para você
+emitir as suas primeiras notas fiscais
+até dezembro de 2025. Beleza? São seis
+meses, então esquece essa opção, joga
+fora. Vamos então pra opção que faz
+sentido. Monta uma consultoria
+produtizada,
+uma consultoria estratégica inteligência
+artificial. Sabe o que significa isso?
+Significa o seguinte: tá todo mundo
+querendo empreender, tá todo mundo, tá
+todo mundo querendo de IA i, tá todo
+mundo falando de eficiência operacional,
+redução de custo, isso, aquilo, aquilo,
+outro. E tem um monte de soluções,
+modelos, LLMs e e o O empresário
+não tem nem ideia. Sabe o que o
+empresário quer? O empresário quer
+redução de custo, o empresário quer
+aumentar a margem dele, o empresário
+quer vender mais, entendeu? Do mercado
+tradicional. E ele sabe que a IA pode
+ajudar ele nisso, mas ele não sabe qual
+IA. Então, sabe aqui, ó, aquilo que eu
+falei para você, ó, criar uma solução
+que traga o valor, que apresente o valor
+real pro empresário para que ele pague
+aquilo, que tem a clareza, que ele tenha
+clareza sobre o Roy, sobre o retorno do
+investimento dele, eu vou gastar 50.000,
+mas isso vai me voltar a 150. Então,
+vamos dar isso para ele. Cria uma
+consultoria especializada em a uma ou
+artificial. Você, qual que é a sua
+proposta? você vai ajudar um nicho
+específico, um tipo específico de
+empresas a falar quais, analisar, na
+verdade quais são as melhores IAs, como
+eles devem implementar essas IAs e essas
+soluções para que eles tenham um aumento
+efetivo nas vendas ou uma redução clara
+no custo operacional deles para que eles
+tenham uma melhora significativa no
+processo operacional. deles, entendeu?
+Desse jeito você consegue empreender.
+Ah, Kelvin, quanto que eu consigo fazer
+de média? Cara, você consegue aí de 20 a
+50.000 tranquilamente projetinhos
+claros. Eu tenho alunos da Acelera, o
+Alan, o Ronaldo, o Abner. Tem uns cinco,
+seis casos que já que galera já
+empreendeu, já começou a montar as
+empresas deles, as consultorias deles.
+Os caras estão fechando contrato de 80,
+90, entendeu? Mas isso aí é para depois.
+Primeiro você tem que aprender a vender.
+Então assim, ó, monta uma consultoria,
+saca? Uma consultoria estratégica,
+inteligência artificial, vai dar certo,
+funciona. Esse é o caminho mais fácil,
+entendeu? Muito mais fácil que microSAS,
+muito mais fácil que você tracionar o
+Microsas. É o mais fácil para quê? Para
+você viver do empreendedorismo, para
+você já conseguir criar algo que se
+sustenta. É escalável? Não é. Não é
+escalável. Dá trabalho, dá trabalho, dá
+trabalho, mas vai vai te dar essa
+liberdade de você ter o que é seu, de
+você aprender a fazer o seu dinheiro.
+Você tem que entender uma coisa, ó. Você
+não precisa de mais um curso te
+ensinando a fazer SAS e a Microsas. Você
+ensinando a criar um agente de
+inteligência artificial. Você não
+precisa de mais um curso ensinando você
+a fazer mais uma automação do N8N. Você
+precisa, ter a cara e a coragem
+de montar o CNPJ, montar a tua proposta
+de valor, montar a tua apresentação e
+cair pro mundo para vender e fazer isso
+aí, esse seu negócio acontecer,
+entendeu? Se envolver com pessoas que
+estão empreendendo, estão na mesma
+jornada que você tá querendo cheg no
+mesmo jornada que você tá ou a jornada
+que você quer trilhar, você tem que ir
+atrás dessas pessoas, sabe? se alimentar
+disso, de criar este ambiente, essa
+atmosfera de fazer acontecer e fazer
+acontecer. Pô, estamos no meio do ano,
+ó. Estamos estamos em junho. Estamos
+entrando em julho já, cara. Você você
+quer empreender desde quando? E por que
+que você não começou ainda? Entendeu? O
+que que tá acontecendo? Por que que você
+tá em fuga fugindo? Ah, mais uma
+ferramenta, não sei o que lá. Você tem
+que entender isso, tem que começar.
+Começa, começa. Então assim, eu não tô
+falando para você também criar aí coisas
+que não vende, não é isso. Por isso que
+por isso que a pessoal tá quebrando,
+estão criando coisas que não vende, tem
+que criar o que vende, o que pagam,
+saca? Você tem que criar uma dor real.
+Por isso que você tem que ir pra
+consultoria especializada, por isso é
+consultoria estratégica em A, monta uma
+consultoria, cara, vai dar certo, saca?
+Sai dessa dessa de ficar
+montando esses negocinho vagabundo,
+cara. Não vai se não faz sentido. Não
+vai paraa frente, não vai paraa frente.
+Então vamos lá, hein? Para fechar esse
+vídeo aqui, ó, o hype em algum momento
+vai passar, tá? Esse mercado todo vai se
+assentar, provavelmente vai ser aqui
+para 2026. Vai só vai ganhar dinheiro
+quem tiver estratégia. Tem a estratégia.
+Já morda um dinheirinho esse ano.
+Termine esse ano com as suas primeiras
+notas fiscais emitidas. rompa e começa a
+empreender, porque esse caminho de
+empreendedorismo é maravilhoso.
+Esse é um caminho maravilhoso. 2025
+ainda pode ser o seu ano, hein? Oló, se
+você gostou desse vídeo, já clica no
+joinha aqui, já comenta nesse vídeo, já
+me segue aqui no canal, me segue lá no
+Instagram também, me dá uma força, @usou
+Kelvincleto e um abraço. Tchau para
+vocês.

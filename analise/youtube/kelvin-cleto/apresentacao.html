@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kelvin Cleto — Análise do Canal (206 vídeos)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --marinho:#1F2133;
+  --verde:#00E65B;
+  --azul:#0066FF;
+  --roxo:#6E00FF;
+  --grad:linear-gradient(90deg,#00E65B 0%,#0066FF 50%,#6E00FF 100%);
+  --borda-esc:rgba(255,255,255,0.08);
+  --borda-cla:rgba(0,0,0,0.08);
+  --sombra-esc:0 4px 24px rgba(0,0,0,0.4);
+  --sombra-cla:0 4px 24px rgba(0,0,0,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{font-family:'Inter',sans-serif;background:#000;overflow:hidden}
+
+.slide{position:absolute;inset:0;display:none;flex-direction:column;padding:5vh 7vw;justify-content:center}
+.slide.active{display:flex}
+.dark{background:var(--marinho);color:#fff}
+.light{background:#fff;color:#000}
+.dark .accent{color:var(--verde)}
+.light .accent{color:var(--azul)}
+.grad-bar{position:absolute;top:0;left:0;right:0;height:6px;background:var(--grad)}
+
+header{position:absolute;top:3.2vh;right:7vw;display:flex;align-items:center;gap:14px}
+header img{width:110px;display:block}
+.icon{position:absolute;bottom:3vh;right:7vw;width:34px;opacity:.9}
+.icon-sm{width:26px}
+
+h1{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(30px,4.6vw,62px);line-height:1.08;margin-bottom:2.4vh}
+h2{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(24px,3.2vw,44px);line-height:1.12;margin-bottom:3vh}
+h3{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(16px,1.6vw,22px);margin-bottom:8px}
+p,li{font-size:clamp(14px,1.35vw,19px);line-height:1.55}
+.kicker{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(12px,1vw,15px);letter-spacing:.18em;text-transform:uppercase;margin-bottom:2vh}
+.dark .kicker{color:var(--verde)}
+.light .kicker{color:var(--azul)}
+.sub{opacity:.75;font-size:clamp(14px,1.3vw,18px);line-height:1.5}
+
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:2.2vw;margin-top:1vh}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.6vw;margin-top:1vh}
+.card{border-radius:12px;padding:2.2vh 1.6vw}
+.dark .card{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc);box-shadow:var(--sombra-esc)}
+.light .card{background:#f8f9fa;border:1px solid var(--borda-cla);box-shadow:var(--sombra-cla)}
+.card p{font-size:clamp(13px,1.15vw,17px);line-height:1.5}
+
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4vw;margin-top:3vh}
+.stat{border-radius:12px;padding:2.4vh 1vw;text-align:center}
+.dark .stat{border:1px solid var(--borda-esc);background:rgba(255,255,255,.04)}
+.light .stat{border:1px solid var(--borda-cla);background:#f8f9fa}
+.stat .num{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(26px,3vw,44px);line-height:1}
+.stat .lbl{font-size:clamp(11px,1vw,14px);opacity:.7;margin-top:8px}
+
+ul.clean{list-style:none;display:flex;flex-direction:column;gap:1.15vh;margin-top:1vh}
+ul.clean li{padding-left:30px;position:relative}
+ul.clean li::before{content:"";position:absolute;left:0;top:.5em;width:14px;height:14px;border-radius:50%}
+.dark ul.clean li::before{border:3px solid var(--verde)}
+.light ul.clean li::before{border:3px solid var(--azul)}
+ul.clean li b{font-weight:600}
+
+.quote{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(20px,2.6vw,36px);line-height:1.3}
+.big-quote{font-size:clamp(24px,3.4vw,50px);line-height:1.22;font-weight:700}
+
+.tag{display:inline-block;border-radius:999px;padding:5px 14px;font-size:clamp(11px,.95vw,14px);font-weight:600;margin:0 6px 8px 0}
+.dark .tag{background:rgba(0,230,91,.12);border:1px solid rgba(0,230,91,.45);color:var(--verde)}
+.light .tag{background:rgba(0,102,255,.08);border:1px solid rgba(0,102,255,.4);color:var(--azul)}
+
+table{width:100%;border-collapse:collapse;margin-top:1vh}
+th,td{text-align:left;padding:1.1vh 1vw;font-size:clamp(12px,1.15vw,17px);line-height:1.4;border-bottom:1px solid}
+.dark th,.dark td{border-color:var(--borda-esc)}
+.light th,.light td{border-color:var(--borda-cla)}
+th{font-family:'DM Sans',sans-serif;font-weight:600;opacity:.75;font-size:clamp(11px,.95vw,14px);text-transform:uppercase;letter-spacing:.08em}
+td b{font-weight:600}
+
+.timeline{display:flex;flex-direction:column;gap:1.2vh;margin-top:.5vh}
+.tl-item{display:grid;grid-template-columns:170px 1fr;gap:1.2vw;align-items:start}
+.tl-item .per{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(12px,1.05vw,15px);padding-top:2px}
+.dark .tl-item .per{color:var(--verde)}
+.light .tl-item .per{color:var(--azul)}
+.tl-item .txt{font-size:clamp(12.5px,1.1vw,16.5px);line-height:1.45}
+
+.flow{display:flex;align-items:stretch;gap:10px;margin-top:2vh;flex-wrap:wrap}
+.flow .step{flex:1;min-width:130px;border-radius:12px;padding:1.8vh 1vw;position:relative}
+.dark .step{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.light .step{background:#f8f9fa;border:1px solid var(--borda-cla)}
+.step .n{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(13px,1.1vw,16px);margin-bottom:6px}
+.dark .step .n{color:var(--verde)}
+.light .step .n{color:var(--azul)}
+.step p{font-size:clamp(11.5px,1vw,14.5px);line-height:1.4}
+
+.price{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4vw;margin-top:2vh}
+.price .p{border-radius:12px;padding:2.6vh 1.4vw;text-align:center}
+.dark .p{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.light .p{background:#f8f9fa;border:1px solid var(--borda-cla)}
+.p .val{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(20px,2.3vw,34px);line-height:1.1}
+.p .cap{font-size:clamp(11.5px,1vw,15px);opacity:.7;margin-top:8px}
+
+.note{margin-top:2.4vh;padding:1.6vh 1.4vw;border-radius:12px;font-size:clamp(13px,1.15vw,17px);line-height:1.5}
+.dark .note{border-left:4px solid var(--verde);background:rgba(0,230,91,.07)}
+.light .note{border-left:4px solid var(--azul);background:rgba(0,102,255,.06)}
+
+.nav{position:fixed;bottom:0;left:0;right:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);z-index:50}
+.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:14px;color:#fff;background:rgba(255,255,255,.12);border:none;border-radius:12px;padding:9px 20px;cursor:pointer}
+.nav .btn:hover{background:var(--azul)}
+.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(255,255,255,.12)}
+.nav .counter{color:#fff;font-size:13px;font-family:'DM Sans',sans-serif;letter-spacing:.06em}
+.progress{position:fixed;top:0;left:0;height:6px;background:var(--grad);z-index:60;transition:width .25s ease}
+.hint{position:fixed;bottom:60px;right:22px;color:rgba(255,255,255,.55);font-size:12px;z-index:50}
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<!-- 1 — CAPA (escuro) -->
+<section class="slide dark active">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Análise de canal · Inteligência de conteúdo</div>
+  <h1>Kelvin Cleto<br><span class="accent">206 vídeos analisados</span></h1>
+  <p class="sub">Tudo que o canal diz sobre negócios com IA — e o que isso significa pra APSIDE hoje.</p>
+  <div class="stats">
+    <div class="stat"><div class="num accent">206</div><div class="lbl">vídeos transcritos</div></div>
+    <div class="stat"><div class="num accent">76,6h</div><div class="lbl">de conteúdo lido</div></div>
+    <div class="stat"><div class="num accent">2,5 anos</div><div class="lbl">de evolução (2024→2026)</div></div>
+    <div class="stat"><div class="num accent">4,3 MB</div><div class="lbl">de transcrição limpa</div></div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 2 — QUEM É / MÉTODO (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Contexto do estudo</div>
+  <h2>Quem é ele e como fizemos a análise</h2>
+  <div class="cols">
+    <div class="card">
+      <h3>Quem é Kelvin Cleto</h3>
+      <p>Programador, ex-CEO da <b>General Clans</b> (de R$ 65 mil em 2015 a R$ 9,2 mi/ano, exit de 50,1% em 2022). Desde mar/2025 virou professor e operador de "negócios com IA" com a escola <b>Acelera 360</b> e a plataforma <b>Grow AI</b>.</p>
+    </div>
+    <div class="card">
+      <h3>Como analisamos</h3>
+      <p>Legendas automáticas pt dos 207 vídeos do canal → limpeza → <b>19 lotes cronológicos</b> analisados um a um → notas por vídeo, sínteses por época, frameworks e citações extraídos.</p>
+    </div>
+  </div>
+  <div class="note">O que você recebeu: <b>analise-conteudo.md</b> (síntese e conclusão) + <b>videos-detalhe.md</b> (índice dos 206 vídeos, nota a nota). 1 vídeo ficou sem transcrição (bloqueio do YouTube).</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 3 — TESE FINAL (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Resumo executivo · a tese final</div>
+  <p class="quote big-quote">Em 2026, IA virou <span class="accent">commodity</span>. O que vale é vender <span class="accent">transformação de processo com responsabilidade pelo caixa do cliente</span> — por nicho, com implantação + recorrência + % do resultado.</p>
+  <div class="note">Em 1 linha: inteligência, ferramenta e código são baratos; <b>confiança, contexto e resultado</b> continuam caros. Quem vende peça isolada compete com template de R$ 99.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 4 — 4 MUDANÇAS DE TESE (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Por que isso interessa · a tese mudou 4 vezes</div>
+  <h2>De "como ser dev melhor" a "vender resultado com IA"</h2>
+  <div class="cols">
+    <div class="card">
+      <h3>1 · 2024 – início 2025</h3>
+      <p><b>Carreira e mindset.</b> "Código bonito não paga a conta." Conteúdo de dev empreendedor.</p>
+    </div>
+    <div class="card">
+      <h3>2 · fev–jul/2025</h3>
+      <p><b>A IA chega como pânico</b> e vira pauta de negócio: "código virou commodity". Nasce a Acelera 360.</p>
+    </div>
+    <div class="card">
+      <h3>3 · ago–out/2025</h3>
+      <p><b>A tese se fecha:</b> nunca venda automação solta (N8N, chatbot, microSaaS). Venda <b>infraestrutura de IA por nicho</b>, com precificação por ROI.</p>
+    </div>
+    <div class="card">
+      <h3>4 · nov/2025 – set/2026</h3>
+      <p><b>Consolidação:</b> AI-first, "serviço é o novo software" (Sequoia), sistema operacional de IA — e a virada: ele passa a <b>operar</b> o que vende.</p>
+    </div>
+  </div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 5 — EVOLUÇÃO FASES 1-4 (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Evolução em 7 fases · parte 1</div>
+  <h2>As primeiras 4 fases</h2>
+  <div class="timeline">
+    <div class="tl-item"><div class="per">Fase 1 · 2024–início 2025</div><div class="txt"><b>O dev que aprende a empreender:</b> carreira, mentalidade, erros que matam 90% das startups. Confissões (7 anos até decolar, R$ 720 mil perdidos).</div></div>
+    <div class="tl-item"><div class="per">Fase 2 · fev–mar/2025</div><div class="txt"><b>"Código virou commodity":</b> vídeo do Claude 3.7 explode (43 mil views), time de 10 vira 3. Lançamento ao vivo da Acelera 360 — 53 interessados, 4 vendas, primeira crise pública.</div></div>
+    <div class="tl-item"><div class="per">Fase 3 · mar–jul/2025</div><div class="txt"><b>A oficina de venda:</b> "o dinheiro é o melhor validador". Nasce a régua de 3 pilares — margem, escala, recorrência. Consultoria + ecossistema vertical.</div></div>
+    <div class="tl-item"><div class="per">Fase 4 · jun–out/2025</div><div class="txt"><b>Guerra à ferramenta:</b> N8N e chatbot são "caminho pobre". Fórmula de preço por valor nasce. Cases: clínica odonto R$ 900k → R$ 1,33 mi/mês; varejo R$ 78.900.</div></div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 6 — EVOLUÇÃO FASES 5-7 (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Evolução em 7 fases · parte 2</div>
+  <h2>As 3 fases finais (onde a tese está hoje)</h2>
+  <div class="timeline">
+    <div class="tl-item"><div class="per">Fase 5 · nov/2025–mai/2026</div><div class="txt"><b>AI-first e o fim do SaaS:</b> US$ 300 bi evaporados de software, YC caçando "AI Native Agencies", Sequoia: "services the new software". Case-torre: corretora R$ 81 mil + R$ 3,5 mil/mês. Nasce o "cérebro" da empresa.</div></div>
+    <div class="tl-item"><div class="per">Fase 6 · mai–jul/2026</div><div class="txt"><b>De quem ensina a quem constrói:</b> squads de agentes em produção, CRM montado ao vivo em 4 horas, conta do one-person business: R$ 1,2 mi/ano com 12 clientes. Lança a Grow AI (OS white label).</div></div>
+    <div class="tl-item"><div class="per">Fase 7 · jul–set/2026</div><div class="txt"><b>Commodity + campo:</b> "o gargalo não é inteligência, é contexto". MoneyFlow, visita a fábrica de R$ 90 mi (ele admite: na ponta, IA não resolve — dados e gestão resolvem), produtos próprios rodando.</div></div>
+  </div>
+  <div class="note">Padrão que atravessa tudo: <b>o que é abundante perde valor; contexto e responsabilidade ganham.</b></div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 7 — CONCEITOS 1 (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Dicionário · parte 1</div>
+  <h2>Os 6 conceitos que você precisa saber</h2>
+  <div class="cols3">
+    <div class="card"><h3 class="accent">IA vertical</h3><p>IA desenhada para <b>um problema crítico de um nicho só</b> (clínica, seguro, varejo). Sobre 9–25 mi de PMEs que as bigtechs não atendem.</p></div>
+    <div class="card"><h3 class="accent">Infraestrutura de crescimento</h3><p>Ferramenta + processo + IA a serviço de <b>faturamento e margem</b>. Sempre na frente de caixa (vendas), nunca no delivery operacional.</p></div>
+    <div class="card"><h3 class="accent">AI-first</h3><p>Processo desenhado <b>primeiro para a IA trabalhar</b>; o humano entra apoiando e decidindo. Escalável sem headcount proporcional à receita.</p></div>
+    <div class="card"><h3 class="accent">Sistema Operacional de IA</h3><p>A infraestrutura do nicho como produto: dados no centro → contexto → orquestração (WhatsApp, CRM) → governança. É o produto final dele (Grow AI).</p></div>
+    <div class="card"><h3 class="accent">MoneyFlow</h3><p>Mapear o fluxo de dinheiro do cliente etapa por etapa, <b>colorir os vazamentos</b> e atacar só o que derruba caixa. "Quanto mais perto do caixa, mais fácil."</p></div>
+    <div class="card"><h3 class="accent">Commodity</h3><p>Código, chatbot, fluxo de N8N, template: tudo que <b>qualquer um com IA entrega por R$ 500</b> e que compete só por preço.</p></div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 8 — CONCEITOS 2 (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Dicionário · parte 2</div>
+  <h2>Outros 5 que aparecem o tempo todo</h2>
+  <div class="cols">
+    <div class="card"><h3>Nicho dourado / "negócio chato"</h3><p>Setores sem glamour (clínica, indústria, óleo e gás) onde o dinheiro vaza e ninguém olha. Critérios: repetição de processo, crescimento, gargalo visível, capacidade de pagamento.</p></div>
+    <div class="card"><h3>Reuso progressivo</h3><p>Do 1º ao 6º cliente do mesmo nicho, a entrega vai de <b>20% reaproveitado a 90%</b> — margem sobe a cada cliente sem aumentar horas.</p></div>
+    <div class="card"><h3>Cérebro da empresa</h3><p>Memória permanente: WhatsApp, reuniões e transcrições ingeridos, digeridos e consumidos pelos agentes. "Uma IA que nunca esquece nada da empresa."</p></div>
+    <div class="card"><h3>Obsolescência competitiva</h3><p>Empresa que não se reposicionar em <b>6–24 meses</b> some. A janela é curta — e é o principal argumento de urgência dele.</p></div>
+    <div class="card"><h3>JEV (o vídeo mais visto: 220 mil)</h3><p>Classificador barato no pipeline: corta o custo de R$ 20–30 por reunião para ~R$ 5, usando LLM caro <b>só onde há raciocínio</b>. Sinal de que o público virou técnico.</p></div>
+    <div class="card"><h3>HTC — hum to check</h3><p>Gate humano em todo output de agente. Nada vale sem humano testando. Mesma lógica dos nossos gates de publicação.</p></div>
+  </div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 9 — MODELO COMERCIAL (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">O modelo comercial · os números</div>
+  <h2>Como ele cobra (repetido em ~10 vídeos)</h2>
+  <div class="price">
+    <div class="p"><div class="val accent">R$ 20–90 mil</div><div class="cap">Implantação (setup), única</div></div>
+    <div class="p"><div class="val accent">R$ 2–6 mil</div><div class="cap">Recorrência por mês</div></div>
+    <div class="p"><div class="val accent">10%–20%</div><div class="cap">Do resultado gerado</div></div>
+  </div>
+  <div class="cols" style="margin-top:2.5vh">
+    <div class="card">
+      <h3>Fórmula do preço</h3>
+      <p><b>Impacto financeiro anual no cliente × 5% a 20%</b>, ancorado no caixa dele (faturamento, margem) — nunca na sua hora de trabalho. Payback de 4–8 meses ou não vende.</p>
+    </div>
+    <div class="card">
+      <h3>ICP (cliente ideal)</h3>
+      <p>PME faturando <b>R$ 1–10 mi/ano</b> (foco R$ 2–5 mi), dono no comando, problema que custa ~6% do faturamento, que <b>já tentou gastar dinheiro</b> resolvendo.</p>
+    </div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 10 — FUNIL (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">O funil · passo a passo</div>
+  <h2>Do diagnóstico ao contrato (a escada dele)</h2>
+  <div class="flow">
+    <div class="step"><div class="n">1 · Diagnóstico</div><p>Formulário que qualifica e <b>eleva a dor</b> — o lead chega na call já convencido.</p></div>
+    <div class="step"><div class="n">2 · Call estratégica</div><p>SPIN adaptado: onde está → onde quer chegar → o que bloqueia → quanto custa por ano.</p></div>
+    <div class="step"><div class="n">3 · Conta de valor</div><p>Alavanca quantificada: problema + solução + prioridade + investimento + ROI.</p></div>
+    <div class="step"><div class="n">4 · Proposta</div><p>Escada: diagnóstico (grátis) → mapeamento R$ 30–40k → implantação → recorrência.</p></div>
+    <div class="step"><div class="n">5 · Reuso</div><p>Pronto pro próximo cliente do nicho — 60% a 90% do anterior reaproveitado.</p></div>
+  </div>
+  <div class="note"><b>Prova > teoria:</b> em todos os vídeos de venda, o argumento é case com número (print, extrato, antes/depois) — nunca promessa.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 11 — CASES (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Provas · os números que ele usa</div>
+  <h2>Cases que sustentam a tese</h2>
+  <table>
+    <tr><th>Case</th><th>Número</th><th>O que prova</th></tr>
+    <tr><td><b>Rede odontológica</b></td><td>R$ 900k → R$ 1,33 mi/mês em 90 dias</td><td>IA na frente de vendas muda caixa rápido</td></tr>
+    <tr><td><b>Varejo</b></td><td>R$ 78.900 + R$ 3.875/mês + 2,5% do resultado</td><td>Estrutura de preço de 3 camadas funciona</td></tr>
+    <tr><td><b>Corretora de seguro</b></td><td>R$ 81 mil de implantação + R$ 3,5 mil/mês</td><td>Conta de ROI ancorada no cliente</td></tr>
+    <tr><td><b>"O fim da agência"</b></td><td>Contrato de R$ 84 mil no lugar de R$ 5 mil/mês</td><td>Resultado > assinatura barata</td></tr>
+    <tr><td><b>Acelera 360 (o próprio negócio dele)</b></td><td>R$ 2,7 mi no 1º ano · meta R$ 10–12 mi em 2026</td><td>Ele opera o que ensina</td></tr>
+  </table>
+  <div class="note">Estatística favorita dele: <b>70% a 95% dos projetos de IA não geram retorno</b> — por falta de infraestrutura (processo e dados), não de ferramenta.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 12 — CONSENSO NEGATIVO (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">O consenso negativo · 10 "não faça"</div>
+  <h2>O que ele DESaconselha (e ele fala bem alto)</h2>
+  <div class="cols">
+    <div>
+      <ul class="clean">
+        <li><b>Vender horas</b> ou assinatura de R$ 1–5 mil/mês</li>
+        <li><b>Chatbot, fluxo de N8N, agente isolado, template</b> — commodity</li>
+        <li><b>Micro-SaaS/SaaS prematuro</b> — distribuição manda, churn devora</li>
+        <li><b>Aprender ferramenta</b> sem modelo de receita ("30 ferramentas e sem dinheiro")</li>
+        <li><b>Agência genérica</b> — briga por preço, culpa o tráfego</li>
+      </ul>
+    </div>
+    <div>
+      <ul class="clean">
+        <li><b>Perfeccionismo</b> — ele perdeu 7–8 anos travado no próprio negócio</li>
+        <li><b>Escalar contratando gente</b> — benchmark: 6–8 pessoas, milhões</li>
+        <li><b>Depender de um fornecedor</b> (o bloqueio do Claude virou argumento)</li>
+        <li><b>Cair em atalho de guru</b> (ele caiu no high ticket do Pablo Marçal)</li>
+        <li><b>Só consumir conteúdo</b> — "você faz parte dos 95% que não ganham?"</li>
+      </ul>
+    </div>
+  </div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 13 — VIRADAS (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Honestidade intelectual · o que ele mudou de ideia</div>
+  <h2>Viradas de opinião (e por que isso credencia)</h2>
+  <div class="cols">
+    <div class="card"><h3 class="accent">Commodity 3×</h3><p>"Código bonito não paga conta" → "código virou commodity" → "a IA virou commodity". A mesma lógica aplicada 3 vezes.</p></div>
+    <div class="card"><h3 class="accent">Planilha de negócio</h3><p>Dizia que dispensava plano de negócio; depois: <b>"errei ao não fazer"</b>.</p></div>
+    <div class="card"><h3 class="accent">Recorrência</h3><p>Cobrou os 3 pilares sempre → dispensou ("quem disse que precisa?") → voltou ao padrão setup + recorrência + %.</p></div>
+    <div class="card"><h3 class="accent">A fábrica de R$ 90 milhões</h3><p>Matizou a própria tese: na ponta industrial, <b>a IA não resolve</b> — dados, gestão e estratégia resolvem.</p></div>
+    <div class="card"><h3 class="accent">Anti-coach, mas vende curso</h3><p>Ataca o <b>atalho</b>, não a educação: workshop de R$ 47–67 e turma de R$ 1.997.</p></div>
+    <div class="card"><h3 class="accent">De professor a operador</h3><p>Deixou de só ensinar a vender infraestrutura e <b>passou a operar a própria</b> (Inspect, Grow AI, Sales Copilot).</p></div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 14 — APSIDE CONVERGE (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Aplicação · parte 1</div>
+  <h2>Onde ele CONFIRMA o que a APSIDE já faz</h2>
+  <div class="cols">
+    <div class="card"><h3>1. Diagnóstico como porta de entrada</h3><p>O funil dele começa em "diagnóstico que eleva a dor". É exatamente o nosso <b>Raio-X, diagnóstico GMB e comparativo antes/depois</b>.</p></div>
+    <div class="card"><h3>2. Verticalização</h3><p>O ICP dele ("clínica bonita com Google abandonado") é o nosso. Ele só levaria ao extremo: <b>um nicho, repetido várias vezes</b>.</p></div>
+    <div class="card"><h3>3. "Construa uma vez, venda pra 50"</h3><p>É a descrição do nosso sistema de <b>landing pages Raio-X</b> e do template de GMB por nicho. Estamos no caminho certo.</p></div>
+    <div class="card"><h3>4. Prova > teoria e sem briga por preço</h3><p>Case ANG publicado como motor de venda; "sem competir por preço" já é regra nossa — ele dá o sustentáculo: <b>preço vem do impacto</b>.</p></div>
+  </div>
+  <div class="note"><b>Resumo:</b> nosso funil é o mesmo dele em miniatura. A diferença está na escada de preço e no empacotamento.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 15 — APSIDE CONCLUSÕES (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Aplicação · parte 2</div>
+  <h2>7 conclusões operacionais pra APSIDE</h2>
+  <div class="cols">
+    <div>
+      <ul class="clean">
+        <li><b>Reempacotar o GMB</b> como "sistema de captação local" com conta de valor (quanto vale 20 ligações a mais/mês?)</li>
+        <li><b>Padronizar o diagnóstico como isca</b> do funil — com as skills que já existem, sem criar nada novo</li>
+        <li><b>Escolher 1 nicho e repetir</b> (clínicas já começaram) até o reuso chegar a 60–90%</li>
+        <li><b>Ancorar preço no valor do cliente</b> — R$ 497 vira piso, não teto</li>
+        <li><b>Publicar o case ANG com número</b> (avaliações, ligações, cliques) antes/depois</li>
+      </ul>
+    </div>
+    <div>
+      <ul class="clean">
+        <li><b>Não pular a escada:</b> ele mesmo ensina "escada de 6 níveis" — valida nossa regra de ouro (dominar entrega &gt; criar estrutura)</li>
+        <li><b>Janela de 18–24 meses:</b> o nicho de quem vende/agencia com IA satura; fica quem tem case real</li>
+      </ul>
+      <div class="note" style="margin-top:2vh"><b>O que NÃO copiar agora:</b> infraestrutura própria, OS, AI-first. Isso é a fase 7 dele — a nossa fase agora é a 3: dominar entrega, publicar prova, repetir o mesmo pacote.</div>
+    </div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 16 — CONCLUSÃO SÁBIA (claro) -->
+<section class="slide light">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Conclusão sábia</div>
+  <h2>O que sobrevive a todas as viradas dele</h2>
+  <div class="cols3">
+    <div class="card"><h3>O dinheiro está no problema chato</h3><p>Todos os números grandes (R$ 84k, R$ 81k, R$ 78,9k) vieram de clínica, corretora, varejo — setores sem glamour e com dor contátil. Onde ele fala de ferramenta, os números são de R$ 99.</p></div>
+    <div class="card"><h3>Ele só é convincente porque opera</h3><p>O canal é frágil quando ensina e forte quando mostra a esteira rodando. <b>Prova real substitui argumento</b> — quem só ensina é mais um entre 95% que consomem conteúdo.</p></div>
+    <div class="card"><h3>O aviso que ele dá contra ele mesmo</h3><p>"Vai terminar o ano sabendo 30 ferramentas e sem dinheiro." Ferramenta é mesa de entrada, não o jogo. O jogo é: nicho + problema caro + entrega acumulada virando vantagem.</p></div>
+  </div>
+  <div class="note">A diferença entre <b>R$ 497</b> e <b>R$ 30.000</b> não é técnica — é empacotamento, âncora de valor e insistência no mesmo nicho. E a fase dele de "mostrador" (dominar entrega, publicar prova, repetir até virar automação) é exatamente a nossa agora.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 17 — ONDE LER MAIS (escuro) -->
+<section class="slide dark">
+  <div class="grad-bar"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Material completo</div>
+  <h2>Onde está cada coisa</h2>
+  <div class="cols">
+    <div class="card">
+      <h3 class="accent">analise-conteudo.md</h3>
+      <p>Síntese executiva, evolução em 7 fases, dicionário, modelo comercial, 10 playbooks, aplicações à APSIDE e conclusão. <b>28 KB — comece por aqui.</b></p>
+    </div>
+    <div class="card">
+      <h3 class="accent">videos-detalhe.md</h3>
+      <p>Índice dos <b>206 vídeos</b>, em ordem cronológica: tese, pontos-chave, frameworks, números e citação de cada um. <b>449 KB — consulta por tema.</b></p>
+    </div>
+  </div>
+  <div class="note">Tudo em <b>analise/youtube/kelvin-cleto/</b> — inclui as 206 transcrições limpas, as notas dos 19 lotes e os extras (frameworks.md, citacoes.md, sinteses.md).</div>
+  <p class="sub" style="margin-top:3vh">APSIDE · análise feita em 01/10/2026 · use ← → para navegar</p>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<div class="hint">← → navegar</div>
+<div class="nav">
+  <button class="btn" id="prev">← Anterior</button>
+  <span class="counter" id="counter">1 / 17</span>
+  <button class="btn" id="next">Próxima →</button>
+</div>
+
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+function show(n){
+  i=Math.max(0,Math.min(slides.length-1,n));
+  slides.forEach((s,k)=>s.classList.toggle('active',k===i));
+  document.getElementById('counter').textContent=(i+1)+' / '+slides.length;
+  document.getElementById('progress').style.width=((i+1)/slides.length*100)+'%';
+  document.getElementById('prev').disabled=i===0;
+  document.getElementById('next').disabled=i===slides.length-1;
+}
+document.getElementById('prev').onclick=()=>show(i-1);
+document.getElementById('next').onclick=()=>show(i+1);
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown'){e.preventDefault();show(i+1)}
+  if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();show(i-1)}
+  if(e.key==='Home')show(0);
+  if(e.key==='End')show(slides.length-1);
+});
+show(0);
+</script>
+</body>
+</html>

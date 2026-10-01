@@ -1,0 +1,799 @@
+Existe uma grande diferença entre
+acompanhar uma transformação e
+entender para onde isso está indo
+A transformação está liderando o mundo
+. Hoje em dia, praticamente todo mundo, ou
+Ou melhor, todos aqueles que são
+conectado, usando um computador ou um
+celular, eles estão olhando para o
+inteligência artificial. Eu acho que
+Você também está sendo muito... presente.
+Fiquei chocado com isso. E todos
+está usando praticamente o mesmo
+ferramentas. Estamos falando sobre
+Todos têm acesso ao Cloud Code, para
+Codex ou código aberto. Se não estivermos
+falando sobre estruturas de desenvolvimento
+software, onde a linha de
+O desenvolvedor também está trabalhando nisso.
+igual, mas basicamente a abordagem é
+Configurar agentes, automatizar tarefas,
+Criar conteúdo, construir chatbots,
+Ah, e falando demais sobre
+produtividade. Se olharmos de longe,
+Parece que todos estão participando.
+essa mesma revolução, a revolução
+de inteligência artificial. Mas isso
+Isso não é verdade. Não é. Você sabe por quê?
+que? Porque todos estão olhando para o
+mesma transformação de lugares
+completamente diferente. Alguns são
+Ao ver essa transformação do
+inteligência artificial como uma forma
+para gerar mais conteúdo sobre o tema
+. Outros veem uma oportunidade para criar
+algum tipo de ferramenta. Outros
+Eles estão vendo isso como uma oportunidade.
+Para ganhar dinheiro rápido. Outros apenas
+Eles encaram isso como se fosse uma tendência.
+Uau, vou lançar um infoproduto!
+Sobre esse assunto, vou vender um curso sobre
+esse. E deste grupo, aqui, quem é
+Em inteligência artificial, existe
+um grupo muito pequeno que é
+começando a perceber que o que é
+O que está acontecendo não é apenas uma mudança no
+ferramentas e como as empresas
+Eles os usam, mas estão vendo
+que a mudança está na própria forma
+Criar uma empresa. A mudança é
+na infraestrutura empresarial,
+porque a inteligência artificial,
+quando aplicado à infraestrutura
+da empresa, na base, tem um
+poder revolucionário absurdo. E eu quero
+Comece este vídeo aqui, mostrando a você
+Um exemplo muito simples. Mas antes
+Para mostrar este exemplo, vou lhe perguntar:
+que você me siga. Clique aqui para seguir
+no meu canal. Assim
+Envie o vídeo para alguém e comente.
+vamos. Comente aqui. Me dê um, como?
+Foi dito? Um sinal da sua plateia. Dizer
+Algo como: "Uau, estou assistindo ao vídeo."
+"É muito bom." Então vamos lá
+lá. Imagine duas pessoas aqui que
+Eles decidiram começar. Esses dois
+As pessoas decidiram abrir um negócio. E
+eles decidiram embarcar na mesma jornada.
+mercado. Eles escolheram o mais
+clichê do mundo, o mercado do
+clínicas. Mas esta primeira pessoa,
+Ela aprendeu a montar agentes de IA.
+Ele aprendeu a configurar sistemas de automação. E
+O objetivo deles é muito simples. A abordagem deles
+Trata-se de vender para clínicas. Agentes,
+automações isoladas, aterrissagem
+páginas, por exemplo, ou eu vou até mesmo...
+Um pouco mais adiante. Essa pessoa
+decidiu configurar ferramentas para
+as clínicas, entregar um projeto,
+vender um projeto ao proprietário de
+clínica. E então ela vai para lá,
+entrega o projeto, configura o
+ferramenta, entrega o projeto e com
+o próximo cliente praticamente
+Tudo recomeça. Então, o
+O ciclo número um desta pessoa é
+Muito simples. Prospecto, consiga um
+Cliente, entrega, concluído. Então
+Consiga outro cliente e recomece.
+A entrega terminou. E todos os meses
+Consiga um cliente, um projeto.
+personalizado, um projeto diferenciado
+com o estilo desse cliente, com o
+que o cliente solicitou. Ah, isto
+O cliente em questão deseja uma página de destino.
+Basta vender uma landing page. Ah, isto
+Aqui, ele só quer automação.
+na área financeira. Venda apenas um
+Automação financeira. Ah, isto
+Ele quer que eu implemente o Clingo, que é um
+CRM Médico. Ele simplesmente vai lá e faz isso. Cada
+cliente de uma maneira diferente. Em
+mudança, esta segunda pessoa, não esta.
+Essa segunda pessoa, ela constrói
+Algo completamente diferente. A abordagem deles
+Sim, ela desenvolve um sistema.
+operacional. E aqui não estou falando sobre
+que você crie um software. Tire isso do seu...
+cabeça. Ela desenvolve um sistema
+Operação com foco em IA para clínicas
+médico ou estético. Um sistema que
+basicamente conecta-se a partir do
+aquisição, atenção, o
+agendamento, a recuperação de
+pacientes, acompanhamento e tudo mais
+Inteligência de gestão empresarial.
+Basicamente, este sistema não
+responde apenas a mensagens do WhatsApp de
+leads que entraram em contato. Esse
+Basicamente, o sistema organiza tudo.
+os dados dessa operação. Identificar
+oportunidades, aja na próxima
+passos, identifique os pescoços de
+garrafa na atenção, acompanha em
+tudo o que acontece em tempo real no
+clínica. Ajude toda a equipe de
+tomadores de decisão para tomar decisões melhores
+decisões. Você pode visualizar tudo
+funil de atração de leads
+até a conversão. Isso pode ajudar em
+As campanhas, você pode monitorar como
+As conversas estão acontecendo em
+WhatsApp. E basicamente este sistema
+está focada em transformar a
+processo tradicional, aquele processo que
+antes que se disperse completamente. E se
+Você pergunta a qualquer proprietário de
+Na clínica, você descobrirá que o processo
+Está espalhado entre as pessoas, em folhas de
+cálculo, em ferramentas. Um pedaço em
+Google Drive, outra planilha do Excel, em
+Uma infraestrutura única.
+Infraestrutura única. Então ele
+transforma o processo caótico nisto
+infraestrutura única. Então, com
+cada novo cliente onde for instalado
+Esse processo, esse tipo de coisa, funciona assim:
+olhar. Ele conquista seu primeiro cliente.
+Mais um cliente. No próximo
+cliente, reutiliza tudo o que eles fizeram em
+O primeiro, ele aprimora, ele aperfeiçoa e
+Ele faz o mesmo com o próximo. Então
+A cada nova implementação, o
+O método torna-se mais valioso. Por
+que? Porque existe aprendizado.
+absurdo nos dados, no sentido de
+operação, no comportamento de
+paciente para clínicas, em que
+Isso responde como as pessoas trabalham em
+aquela clínica, porque isso é padrão,
+É comum. Isso significa que com cada
+Nova implementação, os processos são
+Eles voltam mais maduros, bem, mais
+Não maduro, mais maduro, e isto
+A solução fica mais preparada para
+esse mercado específico. Então,
+Basicamente, essas duas pessoas usam
+inteligência artificial, mas não são.
+construindo a mesma coisa. Pelo contrário,
+Eles estão construindo coisas completamente novas.
+diferente. Uma dessas pessoas é
+literalmente vendendo ferramentas
+Ferramentas isoladas e soltas. O outro
+está construindo uma infraestrutura
+crescimento inteligente
+artificial verticalizado para um setor
+específico, que pode ser instalado,
+Operar e evoluir em meio a tudo
+esse mercado. Porque não sei se você percebeu
+Isso conta, mas use a inteligência.
+A inteligência artificial deixou de ser uma vantagem.
+Competitivo, não é um diferencial. Vestir
+A inteligência artificial é o padrão.
+. A vantagem mudou e a
+A maioria das pessoas está olhando para dentro.
+Lugar completamente errado. Não
+Trata-se de criar ferramentas,
+automações ou soluções
+Detalhes totalmente personalizados.
+Não é disso que se trata. Isto é sobre
+unificar processos com inteligência
+artificial e estratégia para gerar
+resultados. O foco deve estar em
+o resultado. É por isso que o
+O próximo grande ativo não será
+simplesmente um modelo de inteligência
+artificial, mas um contexto inteiro
+organizado sobre o qual irá operar
+modelo. Pessoal, não sei se vocês sabem, mas em
+a bolha do desenvolvimento, dizem.
+Assim como os modelos LLM já chegaram
+no limite da tecnologia, para o
+Desenvolvimento de software. Já estamos aqui.
+Falar muito, aliás, é uma questão de
+Passado, não é? O que é esse "arnês"?
+É a inteligência que opera isso.
+modelo. Isso significa que
+"Harness" nada mais é do que o contexto
+organizado com base no qual este modelo
+funciona. Então, tecnologia pura.
+No fim das contas, é o próprio LLM, veja bem.
+É o padrão, todo mundo tem.
+. Agora, este arnês, no caso de
+Para programadores, isso exige muito.
+inteligência. Ou melhor, você tem que
+Ter sabedoria. A sabedoria de
+Como estruturar um bom software, a partir de
+Como funciona o desenvolvimento, como
+A observabilidade funciona, mas como?
+Trabalho de padrões de desenvolvimento
+e os problemas na criação de uma solução.
+E os desenvolvedores criam isso
+aproveitar, ou melhor, os arquitetos de
+Essas soluções criam esse arnês.
+para criar modelos de IA
+programa melhor. E isso contribui para um
+diferença absurda na criação de software
+. Agora, aplique esse mesmo conceito a
+uma empresa: criar o mecanismo de controle do
+empresa, trazer o conceito estratégico
+o conceito do ICP ideal, de como
+Como esse cliente age, como funciona?
+ciclo de vendas, métricas de
+sucesso e criar essa inteligência de
+Os dados permitem criar soluções que
+Eles realmente transformam uma operação.
+Então, se você está fazendo isso,
+Sinto muito, você já se tornou uma mercadoria. O
+A tecnologia se tornará cada vez mais...
+acessível. Agora, inteligência
+Algo específico sobre isso continuará sendo raro,
+porque gerá-lo requer muito
+Erro, sabedoria precisa ser gerada.
+E a sabedoria vem da aplicação de
+Conceito: cometa erros, aprenda com eles.
+Corrija, reaplique e
+Permanecer nesse ciclo interminável. Ele
+O maior valor reside na aprendizagem.
+tanto para inteligência artificial quanto para inteligência artificial
+quanto à programação e ao
+negócios. Se você possui uma agência
+consultor, desenvolvedor, especialista ou
+Você tem experiência em algum setor?
+específico e você quer transformar o seu
+conhecimento e modelo de negócios em um
+infraestrutura de crescimento com
+inteligência artificial verticalizada,
+Há um link na descrição de
+Este vídeo. Clique e aplique. Meu
+Nossa equipe entrará em contato para entender melhor a sua situação.
+negócios e sua situação atual, e você
+Mostraremos o tipo de infraestrutura.
+que você pode criar e como transformar o seu
+modelo de negócios. Negócio? Ele
+O link está na descrição deste produto.
+vídeo. A grande maioria das pessoas
+Quem está assistindo a isso agora,
+Eles provavelmente já têm um.
+inteligência específica. Talvez já
+Conhecer um mercado em profundidade; Não
+Estou falando apenas de clínicas, talvez.
+Em qualquer mercado, não importa. Talvez
+Trabalhar em uma empresa de contabilidade,
+logística e armazéns de mercadorias
+raízes, da indústria, ou você é um
+prestador de serviços, ou melhor ainda, um
+professor, educador, escritor, não
+Isso importa. Você conhece os problemas,
+Você conhece as objeções, você sabe quais são as
+Tem gente comprando imóveis nessa região, você sabe onde?
+As empresas perdem dinheiro em um
+setor específico. Talvez você saiba, ou
+Ou melhor, talvez não, é certo que
+Você sabe coisas que nem eu sei.
+Tenho uma ideia. Quantos alunos têm
+entrou aqui em Celera, quantos
+Os parceiros vieram de setores que
+Olhei e disse: "Meu Deus, nunca!"
+Eu teria imaginado. Uma vez
+Conversei com um cara que tem um SaaS.
+Para as funerárias, meu amigo. Eu não tenho o
+Eu não fazia ideia, nem sequer sabia disso.
+Existiu, entende? Então, meu amigo,
+É incrível. Isso tem valor e
+Você sabe exatamente onde, ou melhor ainda,
+Dito isso, o principal ativo é onde
+Essa empresa ou esse setor está perdendo dinheiro.
+Entendeu? Você sabe onde as coisas dão errado,
+Ou melhor, onde geralmente
+Pode dar errado. Você sabe onde ele perde
+cliente, quais decisões realmente
+Produzir resultados. Então, o
+O problema é que essa inteligência,
+geralmente é literalmente
+desorganizada dentro das empresas.
+É fruto de anos de experiência.
+, em anos de conhecimento, em
+conversas, em documentos, em folhas
+cálculos, em reuniões, em processos
+que existem apenas na cabeça das pessoas, ou
+Ou melhor, na cabeça de cada um
+pessoa de uma operação ou de um
+setor específico. Se você começar a
+Para analisar, várias empresas têm isso
+problema. Você acha que todos os
+As empresas são grandes, organizadas,
+Eles têm documentação, eles têm uma base
+de conhecimento? Você é completamente
+enganado. E até mesmo os grandes
+empresas que têm uma base de
+conhecimento, o conhecimento do
+A base é geralmente completamente
+ultrapassado. E isto, para você que
+Você está começando um negócio, principalmente.
+Para você que está aqui assistindo a isto.
+Vídeo é ouro, é um tesouro. Porque,
+enquanto essa inteligência do
+empresas ou indivíduos, mesmo os
+Seu, continue desorganizado,
+não permaneçam na mente das pessoas
+ser transferido para um arnês, para um
+cérebro interno, você terá um
+chance. E uma oportunidade
+completamente diferente. Porque?
+Porque as empresas que não se organizam
+Portanto, implementar IA é inútil.
+Não vai funcionar, entendeu? Por que?
+que? Porque o funcionário, ou melhor,
+o dono da empresa ainda
+As pessoas precisarão estar presentes.
+Ele ainda terá que interpretar,
+Ele terá que decidir, ele terá que
+Para executar a tarefa, eles terão que explicar tudo.
+novo quando uma nova pessoa entra,
+Entendeu? Agora, quando isso
+A inteligência é organizada e
+acessível por meio de um modelo de IA integrado
+no processo, essa informação, ou
+Ou melhor, essa inteligência, ela
+transforma-se em um método. Você sabia disso?
+método que as pessoas normalmente
+Isso menciona algo como o método 6K? Aquilo é
+basicamente transformar a inteligência ou
+sabedoria em um método para os outros
+pode aplicar. E quando você fizer isso e
+Você o implementa em um sistema operacional.
+Com inteligência artificial, você consegue
+Conecte tudo isso com inteligência.
+artificial. Você pode dar vida a isso.
+método, você pode executar este método
+com inteligência artificial e ter
+pessoas que o coordenam. Então, isto
+deixa de ser apenas conhecimento e
+começa a se transformar em um grande
+infraestrutura. Eles estão tendo sucesso?
+entender? A ideia não é ficar em
+a ferramenta, o conceito é
+transformar conhecimento, ou melhor
+Dito isso, sabedoria em um
+infraestrutura que opera dentro de um
+setor, que possui autonomia própria
+e ajuda a empresa a gerar mais
+resultados sem depender de pessoas
+. Portanto, o caminho é o seguinte:
+Inteligência dispersa refere-se a pessoas,
+Entende essas figurinhas aqui?
+Isso é interpretado e transformado em
+Um método replicável e executável.
+Isso se torna um sistema que
+uma infraestrutura retorna. Então o
+A inteligência artificial não vai
+substituir uma experiência específica,
+Pelo contrário, vai acontecer — eu vou colocar isso em
+grande aqui—para melhorar, vai ser
+para aprimorar uma experiência que tem
+Foi literalmente organizado. Isso é
+o ponto de virada mais importante. Isso é
+o ponto que a maioria dos
+As pessoas ainda não entenderam. Ele
+O futuro não pertence simplesmente aos
+Pessoas que sabem usar a inteligência.
+artificial, porque, meu amigo, todos os
+O mundo aprenderá a usá-lo. O
+A inteligência artificial será ensinada.
+nas escolas, se não
+Mostre agora, ok? Então, o futuro
+Pertence às pessoas que conquistam
+organizar a inteligência dentro de um
+segmento, porque é uma ferramenta
+genéricos podem responder a certos
+tipo de pergunta. Agora, ou melhor,
+não a um certo tipo de pergunta, mas a
+um certo tipo de problema. Agora, um
+necessidades de infraestrutura vertical
+entender; Você precisará entender o
+problema, como funciona esse mercado,
+Como esse cliente compra, quais são
+as informações realmente importantes
+e relevantes, quais são os
+exceções que aparecem no
+operação diária, quais são os
+decisões que realmente produzem
+resultados, o que faz sentido fazer,
+O que não faz sentido fazer, e quais são essas opções?
+Esses são riscos que não podem ser ignorados.
+naquele setor específico, naquele
+empresa específica, nesse segmento
+específico. Qual é o processo que
+Qual deles deve acontecer antes do outro? Isso é
+O que transformará uma tecnologia?
+genérico em uma capacidade econômica
+específico. É isso que dará poder.
+para uma empresa. É isso que vai fazer
+um funcionário que foi contratado para
+Entrega em 8 horas. Não sei se eles sabem,
+Mas as empresas pagam às pessoas
+para trabalhar 8 horas, e eles trabalham
+quatro. E veja, é isto que vai acontecer.
+transforme essas 4 horas produtivas em
+30 horas produtivas por funcionário. Mas
+Isso só pode acontecer se a equipe de IA,
+Quer dizer, os agentes, sabe? A equipe
+de IA, o esquadrão de IA que é
+apoiar este funcionário, o seu papel
+Trata-se de executar de forma inteligente em um
+processo bem definido e gerar
+resultados, ou melhor, gerar
+ativos que realmente fazem sentido
+para que não haja retrabalho para isso
+funcionário. Essa pessoa tem que
+coordenar em vez de executar.
+Coordenada. Nossa, isso é possível?
+Isso pode ser aplicado a tudo? Não, trabalho manual.
+Não é possível, mas todo trabalho que
+Geralmente é feito em um escritório.
+suscetível a implementar isso. Não
+Isso é loucura? Na clínica
+Certo, quem decide é o médico.
+Vamos começar a trabalhar, não há muito o que fazer.
+. Agora, todo o processo, até o
+cliente, até que o paciente entre no
+sala de consulta, e até mesmo o que diz
+dentro do escritório deveria ser
+armazenados, estruturados e ser
+aprendível. Será que poderia ser essa palavra?
+Isso existe? Tem que servir como
+aprendendo para que o sistema
+auto-otimização. Cara, isso é loucura!
+total. Comente aqui. É uma loucura.
+Comente aqui se você acha que isso é
+Loucura total. E aqui está um.
+distinção muito importante. Esses
+Os termos ainda são muito usados.
+diferente no mercado. Mas para
+organizar um mapa que vou construir
+Aqui com você, vou separar isso.
+basicamente da seguinte maneira.
+Vou fazer uma pintura aqui e vou
+Dividir em dois lados. Existe um lado
+que tem empresas que priorizam a IA. E
+aqui do outro lado estão os
+Empresas ou negócios que são nativos da IA. Vamos
+separar esses dois conceitos. IA em primeiro lugar,
+Inteligência artificial nativa. Uma empresa que prioriza a IA pode
+ser uma empresa já existente. Então
+Acho isso muito importante. Já
+Isso existia, por exemplo, há 5 anos. Então
+que não é uma empresa nova, 10, 20, 30
+anos. Ele não nasceu na era de
+inteligência artificial. Ele não nasceu com
+inteligência artificial. Ele não nasceu.
+projetado para operar de forma inteligente
+artificial. Mas ele começou a
+reorganizar operacionalmente. Ele começou a
+reorganizar as partes mais importantes
+. Uau, comecei com o mais...
+aspectos importantes de seu funcionamento para que
+operar utilizando inteligência artificial.
+Trabalhar com IA. Então, porque
+Por exemplo, uma clínica pode usar
+inteligência artificial para melhorar seu
+processo de aquisição, cuidado,
+planejamento, recuperação
+vendas, recuperação de pacientes, ?
+VERDADEIRO? Neste caso, a recuperação,
+Digamos que seja uma recuperação de
+carrinho, mas com foco no paciente e
+principalmente na tomada de decisões
+. Agora, uma empresa de contabilidade,
+Por exemplo, você pode usar isso para
+reorganizar todo o processo de
+análise documental, documentos de
+Atendimento ao cliente via WhatsApp, tudo
+a análise, todos os arquivos
+contadores para seus clientes, acompanhamento
+das obrigações fiscais e da relação
+com o cliente em geral. UM
+Os imóveis, por exemplo, podem
+geração de leads, não apenas o
+aquisição de imóveis, classificação,
+Inteligência e monitoramento de negócios,
+Entendeu? Então, isto é um
+Empresa com foco em IA; Em outras palavras, é
+tradicional e depois transformado,
+começa a implementar inteligência
+artificial. Essas empresas não vão
+voltando no tempo, embora exista
+esse movimento nos Estados Unidos;
+Quando a empresa é muito grande, isso
+Está acontecendo. E as pessoas são
+Percebendo isso, vamos considerar como
+por exemplo, um BPO financeiro ou um
+consultor. Eles estão deixando aqueles
+grandes empresas como essas, com aqueles
+processos e criação de novas empresas
+para que eles compitam entre si.
+empresas. Mas estes são nativos da IA!
+, claro! No entanto, este não é o
+No caso dessas pequenas empresas aqui,
+Eles podem passar pelo processo de
+implementação de transformação
+inteligência artificial. Então,
+Eles instalam camadas operacionais, melhor.
+Dito isso, eles precisam instalar camadas.
+Operacional com foco em IA. E aqui está.
+Onde se encontra a nata da nata. Veja o
+Posicionamento, observe o que você está fazendo.
+Em vendas, observe a transformação que
+Você está oferecendo. Então você começa a
+transformar essas empresas para que
+usar inteligência artificial como
+uma prioridade dentro de seus processos
+o mais importante. Agora vamos falar sobre um(a)
+Negócios nativos da IA. Esses negócios nascem
+De uma forma completamente diferente.
+Sim, aqui está, aqui está uma empresa.
+Moderno, entende? Foi projetado a partir de
+sua concepção, desde sua ideia, tendo
+inteligência artificial como parte
+aspectos estruturais do produto, do serviço,
+da entrega ou de sua própria operação
+. Então, inteligência artificial
+Ele não vem aqui mais tarde para apoiar o
+processo ou sistema como um
+ferramenta. Pelo contrário, faz parte do
+negócio, participa do próprio negócio
+Mecanismo de entrega, você entendeu? Isto
+que permite que esse negócio exista e
+produzir muito mais, muito mais rápido
+muito mais barato e muito mais eficiente
+mais transformador. E vou acrescentar
+Outro ponto a considerar. A empresa existe
+tradicional, o dinossauro. Ele
+dinossauro. Este não tem nenhum.
+possibilidade de competir com isto ou com
+esta outra empresa. E aqui está um ponto.
+Você precisa ter muito cuidado. Deixe-me
+Apague isto daqui. Então eu adiciono
+Observe este ponto aqui. Porque existe
+Uma precaução muito importante. UM
+Uma empresa nativa de IA não pode ser apenas mais uma.
+Termo sofisticado para agência
+inteligência artificial, ou para um
+empresa que usa o Copilot em seu
+operação, por exemplo, ou uma agência
+marketing que usa código no
+nuvem e diz: "Não, bem, eu sou uma agência"
+"de marketing." "Eu abri uma agência"
+Aqui no marketing, criamos conteúdo criativo.
+com a nuvem." Isto, isto não é IA.
+nativo. Então use a inteligência.
+artificial para trabalhar mais rápido
+Isso não significa transformar.
+automaticamente uma empresa em IA
+nativo ou IA primeiro, nem para criar um processo
+transformação para o primeiro. Coloque um
+agente dentro da entrega ou
+É inútil. Então, por exemplo,
+Ah, eu uso código baseado em nuvem aqui.
+Para criar minha estratégia de negócios.
+Isso não significa que você seja IA em primeiro lugar.
+Portanto, para que um negócio nasça,
+ou que é transformado de forma que realmente
+nascer com inteligência artificial em
+O núcleo da empresa precisa do
+menos três coisas, então realmente
+pode ter o selo e dizer: "Ei,
+Ok, sim, vocês são uma empresa nativa.
+Qual vem primeiro? O primeiro é
+que a inteligência artificial deve
+participar do mecanismo central de
+A solução dessa empresa. Que
+Isso significa o seguinte: se minha entrega
+Se o objetivo é vender um imóvel, a IA deve ser...
+uma parte fundamental da venda de
+Esta propriedade. Isso precisa acontecer, agora.
+seja no recrutamento ou no processo de
+oferta. Portanto, a IA precisa ser a
+mecanismo central dessa solução, se
+Não, não faz parte disso; Caso contrário, não o teria.
+Entendeu o que eu quis dizer? Não pode ser apenas
+um acessório ou uma característica que
+pode ser substituído. Tem que ser
+parte da empresa. Se você remover o
+inteligência artificial disso
+O setor imobiliário nativo de IA não opera mais.
+Olha só essa loucura. Essa é a complexidade.
+. Qual é a segunda coisa que é
+obrigatório? A operação deve ser
+projetado desde o início, desde o
+nascimento, de modo que o colaborador, o
+A pessoa que estará lá dentro operará.
+juntamente com inteligência artificial.
+Então, trata-se de uma pessoa e do sistema.
+inteligente. Isso precisa acontecer. Não
+É uma loucura, isso não significa que
+Esta empresa, sendo IA nativa, não
+têm pessoas que não têm humanos,
+Porque não é possível nem faz sentido,
+Amigo, remova a parte humana. Mas
+O elemento humano tem que ser
+coordenado, ou melhor, coordenar e
+trabalhar. Sua entrega não pode ser realizada.
+Sem essa estrutura de agentes, o que aconteceria?
+Entendeu? Portanto, não se trata apenas de
+Pegar um processo antigo e colocá-lo em prática.
+uma ferramenta em cima. Então isso
+Se isso acontecer, você precisa repensar tudo, literalmente.
+Como isso deve ser produzido?
+Como resultado, esse trabalho, agora neste
+Este é o momento que estamos vivendo com a IA. para o seu
+capacidade máxima. Loucura, né?
+? E há um terceiro ponto aqui: o
+A arquitetura de negócios precisa ser
+diferente devido à inteligência
+artificial, porque se eu tivesse o
+mesmos resultados, se ela... ou melhor,
+Não há como tê-los... mesmo assim, o
+diferente. Então, o produto tem
+Isso é diferente. O resultado final
+O produto não precisa ser diferente.
+Mas a maneira de conceber isso
+O produto deve ser. A entrega
+Precisa ser diferente. Todos os
+estrutura de custos, velocidade,
+Amigo, a velocidade tem que ser
+completamente diferente. A capacidade
+A personalização precisa ser
+diferente, porque a IA o permite. O
+a maneira como é usado
+O conhecimento precisa ser diferente.
+Então é algo como: IA estrutural
+mais uma operação reformulada mais um
+nova arquitetura. A arquitetura é
+esse. Essas são as características de
+um negócio que é completamente nativo
+em IA. Agora, existe outra camada que
+Ele apoia tudo isso. O que torna isso possível?
+Os negócios são literalmente difíceis de...
+substituir? E é aqui que entra o que acontece.
+? O contexto adequado, o método. Esse
+Não pode ser copiado. Esse é o lema, não é?
+Inteligência vertical, dados, o
+histórico, dados que são usados ​​com
+autorização, certo? Existe o LGPD, existe
+muitas coisas com responsabilidade
+processos específicos, aprendizagem
+acumulado ao longo dos anos pelo
+fundadores que criaram isso, ou pelo
+pessoa que está fazendo isso
+pesquisa e absorção,
+estruturando isso, uma integração
+profundo conhecimento da operação do cliente.
+Isso é extremamente necessário. E se
+Se você entender isso, você será capaz de ver o
+mercado em um completamente
+diferente. Você fará parte disso.
+porção única, dessa porção única
+não, minúsculas, dessa porção
+minúsculo que está olhando para o
+inteligência artificial ao ponto de
+Transformar, desestabilizar o mercado.
+Então agora, quero falar
+diretamente com você. Você que me
+Você está vendo aqui, sim, você, você
+Quem está me observando aqui agora: tal
+Talvez um dia eu tenha minha própria agência.
+Seja ele programador ou talvez consultor,
+especialista, estrategista, gestor de
+tráfego, desenvolvedor, um profissional
+automação. Talvez já seja.
+apresentando resultados em alguns mercados
+ou possui um conhecimento absurdo de
+algum mercado, até mesmo um aposentado, um
+Diretor, eu não sei, o senhor entende? Exceto que
+Ele ainda está vendendo projetos.
+projetos isolados. Talvez ainda
+está vendendo horas. Talvez seja.
+Eles vendem escopo de integração.
+Não é pouco, é amplo. Escopo. Escopo. Tal
+uma vez que você esteja vendendo a implementação
+isolado. Talvez você esteja sentindo que
+aquilo que fazia parecer
+A especialização está se tornando cada vez mais presente.
+Está se tornando cada vez mais acessível.
+comum. O cliente está comparando
+Além disso, ele está questionando o preço, o
+O cliente está tentando fazer isso.
+Internamente, você está descobrindo
+ferramentas que prometem fazer isso
+E você está pensando em integrar
+Essas ferramentas, em vez de criarem suas próprias ferramentas,
+sistema operacional próprio. Não é isso.
+significa que sua experiência é
+perdendo valor. Pelo contrário, meu amigo,
+Significa que ele está analisando a situação de uma perspectiva diferente.
+ângulo diferente. Significa que tem
+que mudam a forma como isso é vendido.
+Significa que tem de mudar a forma como
+Entendeu? Então
+pode continuar vendendo aqueles
+tarefas, não há problema nenhum nisso
+Mas a questão é que eles vão ser
+progressivamente mercantilizados
+avançar. Ou você pode aproveitar tudo o que já está lá.
+conhecer e organizar isso em um
+infraestrutura que melhora a capacidade
+operações de um determinado mercado.
+Você ainda pode continuar vendendo.
+marketing ou pode vender crescimento e
+resultados para o cliente. Isso é o
+Grande oportunidade. Não se trata de abandonar tudo.
+o que ele aprendeu ou o que ele construiu,
+mas transforme sua empresa,
+Transforme seu modelo de negócios, seu
+agência, sua consultoria, sua
+conhecimento e experiência em alguma coisa
+que tem valor estrutural, isto é
+muito mais valioso. Você não precisa começar.
+Como empresa de software, não.
+precisa se tornar uma casa de
+software. Ele não precisa fingir que é o dono.
+uma tecnologia proprietária que nem
+Isso ainda nem existe. Não precisa
+construir uma plataforma gigantesca
+antes de começar a vender. Qual
+O que você realmente precisa é organizar o
+inteligência. O que você precisa é escolher
+um mercado específico. Você precisa
+Identificar um ponto problemático dispendioso,
+uma estrutura deficiente, e
+estruturar um mecanismo para instalar
+Esta primeira camada, vender, entregar e
+Estamos melhorando, entendeu? e
+transformando-se a cada implementação,
+Porque isso vai gerar resultados. Com
+A cada implementação, seu sistema irá
+Isso vai te deixar mais inteligente. Com cada um
+Novo cliente, você se tornará mais exclusivo.
+. Então, se você tem uma agência de
+Marketing, você é um desenvolvedor,
+consultor, agência de publicidade ou se
+Você possui experiência aprofundada em alguma área?
+mercado e você quer transformá-lo em um
+negócio vertical projetado com
+inteligência artificial em sua essência,
+Este vídeo. Você vai clicar e você vai
+aplicar. E você vai conversar com o nosso
+equipamento. Nós entenderemos o seu momento, o seu
+mercado, seu modelo de negócios e você
+Mostraremos o tipo de sistema.
+operacional que você pode construir. Espere
+Espero que você tenha gostado deste vídeo. Chá
+Convido você a clicar aqui e me dar um feedback.
+Curta e comente. Comentem lá, vamos lá.
+Comentar não custa nada, então aproveite.
+Para me seguir também. Eu faço vários
+Vídeos aqui sobre tecnologia,
+inteligência artificial e modelos de
+negócios, mas não fico na linha
+"Ah, você pode usar esta ferramenta,
+Você pode fazer isso, aquilo ou outra coisa."
+Meu foco aqui são os agentes.
+transformadores, mostrando o que meu
+visão do futuro e como você também pode fazer parte dele
+Você pode fazer parte dessa visão. ?
+Negócio? Um abraço para todos e
+Até a próxima. M.

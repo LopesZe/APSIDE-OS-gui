@@ -1,0 +1,263 @@
+A galera tá pirando com agentes de ar
+com inteligência artificial. Tá todo
+mundo empilhando já a ferramenta, cara,
+de tão rápido que eles estão criando. Tá
+saindo ferramenta aí e a cada do tr dias
+alguém consegue desenvolver uma nova
+ferramenta de inteligência artificial,
+um chatbot, um agente de a microsas e
+por aí vai. Só o que ninguém percebeu é
+que isso daí é tudo engrenagem. e
+engrenagem solta não move a roda. O
+segredo está nos ecossistemas. O segredo
+está em você resolver uma dor de um
+cliente, uma dor latente através de uma
+solução. E uma solução, ela não é
+composta por um chatbot de atendimento.
+Uma solução, ela não é composta por um
+pedaço do processo automatizado, não.
+Uma solução, ela é composta por n
+plataformas que estão integradas e
+trabalhando em conjunto para solucionar
+o problema de fim a fim. É aquela tal da
+solução end to end. É aí que tá o
+dinheiro. É aí que as pessoas pagam
+caro. As pessoas pagam caro para
+resolver todo o problema, não um pedaço
+do problema. Então, o que gera valor de
+verdade é o ecossistema que você cria
+pro seu cliente. Isso é o que gera valor
+de verdade. E é sobre isso que nós vamos
+falar nesse vídeo aqui. Nesse vídeo eu
+vou explicar um pouco mais para vocês
+sobre o conceito novamente de
+ecossistema, igual eu fiz em alguns
+vídeos anteriores. A gente vai avançar
+um pouco nesse assunto. Para você que
+não me conhece, meu nome é Kelvin, eu
+sou empresário, já montei mais de três
+negócios, já vendi uma das minhas
+empresas, eu tenho 33 anos, sou do setor
+de tecnologia, já fui programador. Então
+eu tenho propriedade para falar sobre
+isso e esse vídeo tá num lugar diferente
+porque eu tô aqui em Porto Alegre,
+inclusive a implantando o meu
+ecossistema, implantando o ecossistema
+de uma das minhas empresas. E a gente tá
+aqui analisando o processo do nosso
+cliente, entendendo todo o processo,
+desde quando o processo nasce até a
+conclusão dele, passando por todos os
+setores, entendendo se tá implantado
+corretamente, se tá aderente, se não tá
+aderente, sabe? trabalhando junto com o
+cliente, porque uma solução é construída
+junto com o seu cliente. Você não
+constrói uma solução e vai lá e joga
+para ele. Não é assim que funciona. É
+diferente. O rolê é diferente, tá? Então
+vamos começar esse vídeo aqui. Bora.
+Então anotei alguns pontos aqui, tá?
+Hoje, praticamente aí qualquer um ele é
+bom em prompt, então meia dúzia de
+linhas ali de tutorial, a pessoa já
+consegue criar um sistema e se ela
+assiste um tutorial, por exemplo, do
+Lovable ou
+do Supas, rapidamente ela consegue
+desenvolver uma plataforma, mas não é
+porque ela desenvolveu uma plataforma
+que ela vai se tornar o próximo Marcos
+Zuckerberg, não é aquela porque ela
+desenvolveu uma plataforma que ela vai
+conseguir sair vendendo e ganhando
+dinheiro. As pessoas falam que isso é
+possível, né? chamam até isso aí de
+microSAS,
+mas isso é só uma plataforma, isso é só
+mais um sistema, é só mais um chatbot. E
+a internet tá ficando inundada desse
+tipo de solução. A internet tá ficando,
+tá arrebentada em cima disso. Kelvin,
+quer dizer que eu não posso fazer um
+microsas? Quer dizer que eu não posso
+fazer um chatbot? Claro que você pode.
+Inclusive ele é é são são pontos muito
+legais até para você começar a entender
+como que funciona o mundo do
+empreendedorismo, ganhar um dinheirinho
+online, mas assim não é sustentável
+isso. Não dá para você construir nada
+grande com isso. E sinceramente a mesma
+energia que você gasta para fazer isso,
+você gasta para construir qualquer outra
+solução, porque o segredo não tá no
+código. Então, a diferença que essas
+ferramentas t é que elas são fáceis de
+construir, elas são só mais rápidas, mas
+se você entender que o seu diferencial
+não tá em escrever código, você vê que
+você já não tem diferencial nenhum. Sabe
+por quê? O grande diferencial é tá na
+retenção. Como que você retém o seu
+cliente? como você diminui o seu ch,
+como que você estrutura sua máquina de
+vendas, como que você vende, como que
+você implanta, como que você faz o seu
+cliente ficar com você, como você
+aumenta o ticket do teu cliente, saca? O
+segredo tá nisso, gente. O segredo tá
+nesse. Esse é o pulo do gato.
+Eita! Esse é o pulo do gato. Essa essa é
+a grande diferença que vai fazer você
+construir algo grande, entendeu? E você
+não consegue construir algo grande e
+pequeno, você não consegue resolver um
+problema grande com pouca coisa. Você
+vai precisar criar uma estrutura grande.
+As pessoas elas confundem eh criar
+ferramenta com criar solução. Então,
+quando você cria um agente, é igual você
+fabricar uma engrenagem. Você vai lá e
+cria, uma engrenagem, uma peça só
+do processo. Isso é um agente de A, isso
+é um chatbot, é uma peça da engrenagem.
+É quando você implanta um CRM, isso é
+uma peça da engrenagem, mas não é a
+solução. Isso é sua ferramenta. Isso é o
+que vai ajudar ali parte do processo.
+Qual que é a solução? Solução, por
+exemplo, é, você aumentar as
+vendas. A solução, por exemplo, é você
+diminuir o tempo de processamento de
+algum determinada etapa do processo
+daquele cliente em 40%. Isso é a
+solução, a solução final. E para você
+conseguir reduzir aqueles 40% e para
+você aumentar as vendas e para você
+diminuir as despesas em x%, você vai
+precisar de um conjunto de ferramentas,
+um conjunto de processos, um conjunto de
+coisas. E esse conjunto de coisas, isso
+sim é a solução. Esse conjunto de coisas
+eu chamo de ecossistema. Esse conjunto
+de coisa eu chamo de ecossistema. Esse é
+o tal do ecossistema, tá? Então o
+ecossistema, quer ver? Ó, coloquei uma
+frase bem legal aqui, ó. Eistema é
+quando você domina o problema de um
+nicho e constrói soluções ao redor
+disso. Então, quando você, por exemplo,
+eu dominei o problema de regulação de
+sinistro lá, Cajcle, então eu crio um
+ecossistema de regulação de sinistro.
+Agora eu estou criando um ecossistema de
+inspeção com a a vistoria, com a minha
+plataforma de vistoria, com com a agora
+eu tô criando um
+ecossistema para empresários, para fazer
+aceleração de empresários com Acelera
+360, entendeu? Então, se você não
+conhece Acelera 360, é um programa para
+empreendedores, é para quem quer
+empreender. É um programa de aceleração.
+Então lá você vai ter acesso diretamente
+a mim. Eu mesmo vou tá lá junto com todo
+o meu time que ajudou eu criar esses
+negócios que eu acabei de falar para
+ajudar você a criar o teu negócio. A
+gente vai ajudar você a tirar a sua
+ideia do papel. Então isso é um
+ecossistema. É um ecossistema que tem
+ferramentas, tem processos. eu
+tenho lá ferramenta para você fazer
+ideia, para você para você modelar suas
+ideias, para você fazer modelagem
+financeira, para você validar, para você
+vender, para você montar máquina de
+vendas, para você estruturar sua
+operação, para você executar isso, para
+você crescer, para você prospectar, para
+você fazer
+gestão. Tem para todos os níveis. Isso é
+um ecossistema, entendeu? Fora o
+networking que eu trago, tem já 60
+empresários que fazem partes da Acelera,
+faz parte do meu ecossistema, saca?
+Então tudo isso, tá vendo como qual que
+é a solução que eu trago? O que que eu
+resolvo, cara? Eu ajudo você a
+empreender, eu ajudo a tirar a sua ideia
+do papel, eu ajudo a fazer você ser um
+empreendedor, eu ajudo você a fazer o
+seu primeiro milhão, eu ajudo sua
+empresa a destravar, entendeu? Então,
+eh, essa é a solução que o que eu que eu
+dou, sacou? E é isso que você tem que
+pensar em criar quando você cria
+tecnologia. É nesse conceito que você
+tem que pensar em criar. Então assim, se
+você, ó, vou dar um exemplo, ã, nesse
+caso, né, do do ecossistema, então é
+você pegar agentes, automações,
+ferramentas de a, curso, conteúdo,
+atendimento, tudo isso, processo, você
+pega tudo isso e você empacota de um
+jeito, você mesmo vai explicar pro seu
+cliente como faz setup e tudo mais. A
+hora que o seu cliente entrar na tua
+linha dentro do seu ecossistema, você
+vai empurrando. Pô, você tá com problema
+de venda, tá aqui, ferramenta, processo,
+curso, pá, pá, tá com problema
+operacional, tá aqui, gestão, pá, pá,
+pá, tá com problema onde vai só vai
+encaixando, contratação, tá aqui, pá,
+pá, pá. E aí tudo isso tem um custo e
+esse aí é o seu ticket. Você acha que
+esse cliente vai sair do seu
+ecossistema? Não vai, não é tão fácil.
+Ele fica amarrado, como se fosse uma
+teia. E por isso que o segredo tá no
+ecossistema, diferente de um chatbot,
+diferente de um microst, diferente de
+qualquer outra coisa que você
+simplesmente vai lá e faz algo pequeno
+que não tem valor agregado final, não
+tem, sabe? Não tem sustância, não se
+sustenta, não
+segura, sacou? Ó, desenho um um exemplo
+aqui, setor médico. Então, ao invés de
+criar um agente para fazer, por exemplo,
+laudo para
+médico, você vai criar um agente que uma
+uma você vai criar, na verdade, uma
+solução que vai desde o agendamento CRM,
+do consultório, anamnese com
+inteligência artificial, geração de
+laudo, financeiro, marketing. Olha, olha
+o olha o caminho. você vai pro caminho
+inteiro da empresa e aí sim você
+consegue prender o teu cliente, entregar
+valor, criar algo que tem a margem e que
+construir um negócio que seja real,
+trazer depois você algo que possa
+escalar, algo que tem recorrência e que
+tem uma bela de uma margem para você
+trabalhar, para você não ficar
+trabalhando de graça. Então, o meu
+conceito, o meu conselho para você é o
+seguinte: pense mais em criar o seu
+ecossistema. agentes de ar eh são só
+ferramentas e é só ferramenta. Sinto
+muito, não compreendo. Eita! Eita! Não
+compreende o que, minha jovem, não estou
+falando com você,
+Siri, entenderam? Então esse é meu
+conselho para você. Gostaram do vídeo?
+Espero que sim. Já se você gostou, ó, já
+se inscreve aqui, já ativa o sininho, já
+comenta. Se você não gostou, comenta
+também, já me dá audiência, porque eu
+gosto disso. Ó, falou seus cachorros.

@@ -1,0 +1,376 @@
+Meu foco é empreendedorismo na área tec.
+Eu acho que os deves têm que empreender.
+Mas eu fui motivado a gravar esse vídeo
+para te ensinar. Esse hack é um hack que
+vai te ajudar a quebrar qualquer plano
+de carreira da face da terra, de
+qualquer empresa. Você vai crescer para
+caramba se você seguir o que eu vou
+falar aqui hoje. E eu, por que que eu
+decidi fazer isso? Porque eu fiz uma
+postagem no
+LinkedIn da seguinte maneira. Ele, esse
+cara me deu uma ideia, na verdade, né? O
+Almeida. Eu falei assim, ó:
+"Programador, escuta esse conselho aqui.
+Fica aí só codando, só foca nisso, vai,
+fica só entregando o task, fechando o
+ticket, refatorando o código e fazer o
+que te pedem. Já era. Não tenta entender
+no negócio, não tenta fazer nada do que
+eu falo aqui, porque se você fizer isso,
+você pode conhecer, começar a conectar
+os pontos, você pode começar a ver o que
+ninguém vê e aí, mano, você corre o
+risco de virar um, bom, não vou nem
+falar o nome aqui, né? Vão te chamar
+para liderar produto, vão confiar em
+você para definir estratégia, talvez
+até, opa, tá, tá, achei que tava no
+mudo. Talvez até te convide para ser
+sócio de uma startup, por aí vai. sua
+carreira pode crescer muito. E aí um
+comentário me chamou muita atenção,
+cara, que é do Almeida, né? Aí ele falou
+o seguinte, ó: "Faça isso na empresa
+errada e receba um fique na sua de
+presente, seguindo de um ghost de todo o
+resto da equipe, do seu gerente por
+querer ser o melhor que que os outros".
+Já passei por isso e já ouvi histórias
+de muitas pessoas assim também.
+Realmente isso aqui pode acontecer, tá?
+Mas, mas a gente tá no mundo para
+crescer, porque imagina a seguinte
+situação, não é porque o cara que tá
+acima de mim tá acomodado que eu sou
+obrigado a me acomodar também, não é
+verdade? Não é porque o cara de mim não
+quer crescer que eu vou deixar ele
+travar a minha carreira, né? Não é
+porque o time que eu tô é um time
+preguiçoso, um time sem vergonha, que eu
+vou deixar eles me atrapalharem. Pelo
+contrário, se eu tentar crescer e não
+conseguir, eu saio daquela empresa. Mas
+eu vou ensinar vocês como fazer isso, ó.
+Inclusive, gente, deixa eu mostrar para
+vocês. Ganhei meu primeiro hematoma do
+box. Só tomei uma chapuletada ontem que
+chegou a ficar roxa a testa. Vamos lá.
+Seguinte, então. Imagine que você entrou
+numa empresa, tá? Então, esse aqui é o
+hack, galera. Ó, na hierarquia da minha
+empresa X, a gente tem aqui CTO, CPO,
+CO, todos os SIS aqui, galera da
+diretoria, quem tá na janelinha tomando
+a decisão estratégica da empresa, cada
+um na sua área, né? O cara de produto,
+operações, tecnologia. Abaixa
+tecnologia, você pode ter ali um R, um
+gerente de qualquer qualquer outro nome
+que seja. Às vezes o arquiteto tá ligado
+embaixo do CTO, o principal engineir,
+depende da estrutura da empresa. Se não
+tá abaixo desse cara aqui, whatever.
+nessa situação. Pode ter um coordenador
+aqui. Aí tem um techer aqui embaixo. Aí
+nós meros mortais, nós não, né?
+Vocês estão aqui embaixo, ó. Dev player
+Dev Júnior, Dev Senor. Você entrou na
+firma. Entrou na firma. Que que você
+faz, ó? Ah, tá. Tá aqui Squad, ó. Squad,
+tem o PIO, tem é formada por um PIO, tem
+um senior Júnior, um sior, um pleno, um
+júnior, o X, o caramba, tem um monte de
+gente aqui que é formado por essa squat.
+Mas tá bom, eu vou dar o hack para vocês
+aprenderem a crescer. Que que eu falo?
+Que que eu falo, velho? Vocês entrar na
+firma, vocês entrou na firma, tá aqui,
+ó. Entrou na firma. Vocês quer andar com
+quem? Vocês quer andar só com os dev,
+velho. Só com os
+dev. Não pode. Se você quer crescer de
+verdade, pegou uma empresa grande e e
+uma empresa grande, essa hierarquia aqui
+é por divisão e tudo mais, é muito maior
+que isso aqui. Mas como que você cresce?
+gerando valor. Vai ter que trabalhar,
+irmão. Vai ter que trabalhar. Vai ter
+que fazer mais que todo mundo. Primeira
+coisa, você já vai ter que suportar o
+pessoal te chamando de puxa-sco. Ah, lá
+o puxa-sco. Ah, lá, não sei o que lá. Só
+que deixa eu te contar uma coisa,
+ninguém paga suas contas. Ninguém, só
+você. Ninguém tá preocupado com a sua
+carreira. Então, trabalho não é lugar
+para você ser amiguinho de ninguém, não,
+irmão. Trabalho é lugar para você tá lá
+para ganhar dinheiro. Dinheiro. E eu vou
+ensinar isso aqui para vocês. Então,
+vamos lá. Vou entramos aqui numa empresa
+fictícia e eu vou colocar aqui. Ii,
+que eu fiz, ó, já deletei o Dev
+Júnior. Dev Júnior é nem aqui ele
+fica, ó. primeiros 3ês meses.
+Primeiros 3ês
+meses. Aí aqui depois de três a 6
+meses. Aí depois eu vou entrar aqui,
+ó. Primeiro é de 6 a 12 meses. Já fez um
+ano de
+firma. E aí depois eu vou meter os 24
+meses aqui, ó.
+Entramos na
+empresa Dev
+Júnior. Mano, se você quer crescer, é só
+você seguir isso aqui, tá? Independente
+de qual cargo que você ocupe, eu vou
+explicar com dev, mas, mano, cara, não
+tem como isso aqui dar errado, porque a
+empresa quer pessoas que gerem
+resultado. Se você gera resultado,
+irmão, você e você é notado e você sabe
+se vender, se vender, tá? Porque tudo é
+sobre venda, tá feito. Primeira coisa,
+você vai ter que ser amigo de todo mundo
+mesmo, não tem problema. Só que você vai
+ser inteligente nos seus três primeiros
+meses. Você vai ficar na tua, irmão.
+Entra lá,
+entende? Quem que é o meu líder? Quem
+que é o líder do meu líder? Quem que é o
+líder do líder do meu líder? Sacou? Fica
+ali pescando, pescando, pescando.
+Primeiro mês, você entendeu os projetos.
+Git Hub já começou a fazer uns debug,
+uns corrigir uns bugzinho e o
+piriri pororó. Aí, irmão, você em vez de
+colar com todos os outros dev, porque o
+dev júnior não tá abaixo do snior, o
+júnior não tá abaixo do pleno, o pleno
+não tá abaixo do sior, o snior não tá
+abaixo de um especialista, vocês estão
+abaixo da hierarquia do techer. Então,
+quem manda em você é o tech. Quem que dá
+ordem é o techer, por exemplo, ou é o
+coordenador aqui em cima. Não é NPO, não
+é nada. Na squad é o pior. Mas você sabe
+quem de quem você tem que você tem que
+ir você tem que ir no dono dos bois. Tem
+que ir no dono dos bois. Então, por
+exemplo, primeiro mês fica quietinho. No
+segundo você já conheceu, né? Primeira
+coisa, já vem aqui, cumprimenta
+todo mundo, vai fazendo amizade com todo
+mundo, vai dando aquelas pernadas na
+empresa, ou se não der para dar as
+pernadas na empresa, vai no Teams e
+chama. Mas o melhor modelo que eu gosto
+é o seguinte, ó. Eu mandaria um e-mail
+direto para esse cara falando assim:
+"Oi, tudo bem? Muito prazer, eu sou o
+Kelvin, provavelmente você me contratou,
+né? Então, lógico, a pessoa contratou
+sabe quem é você". Então, assim, queria
+bater um papo com você de 30 minutos. 30
+minutos é possível? Se ele perguntar
+para você assim, é possível ou se ele
+ele pode perguntar o que que é? Ou ele
+simplesmente pode falar para você o
+seguinte: sobre que assunto que é. Quero
+conversar com você sobre o meu
+desempenho. Ponto. Você vai chegar para
+ele e vai falar o seguinte: "Eu quero
+virar tec leader um dia aqui. O que que
+você espera de mim? Que skills que eu
+tenho que desenvolver pro meu cargo
+atual? O que que eu tenho que fazer? O
+que que você tá esperando de mim? Qual
+que é o resultado que você espera de mim
+para eu evoluir aqui dentro?
+Sacou? Olha, você chama o cara paraa
+xincha, velho. Você chama o cara pra
+xincha. Aí se entrar numa situação do
+cara falar o seguinte, de ser aquele
+tipo de empresa
+que o te líder tá te boicotando,
+primeiro que ele não vai te boicotar,
+mas ele vai ficar de olho em você, mas
+mesmo assim se aproxima dele. Já já
+sabe, puxa o saco dele mesmo, sacou? É
+esse tipo de coisa que você tem que
+fazer. por exemplo, no final da da
+semana, você mandar para ele ou você
+chegar lá, por exemplo, na na
+retrospectiva, você levar algum tipo de
+dado analítico que ninguém tava
+esperando. Se torne a peça diferente da
+sua squad, esse é o rolê, sacou? Depois
+que você passou, por exemplo, depois de
+6 meses de firma, você já deu uma
+pernada aqui no Tech Leader. Aí você
+vem, dá uma pernadinha aqui para cima,
+pro cara acima dele, pro cara acima
+dele, chega no cara despretencioso, e
+aí, tudo bem? Como que você tá? Pá,
+cara, eu quero muito crescer e eu quero
+virar um um red de
+tecnologia, cara. E eu vejo você é um
+líder muito bom.
+Quais as habilidades que eu tenho que
+desenvolver para eu me tornar um líder
+igual a
+você? Mano, já manda na lata, irmão. Já
+mostra que você tem interesse em
+crescer, sacou? Porque se tiverem que te
+cortar, já vou te cortar e que se
+Nem é para você tá lá, entendeu? Se for
+um lugar ruim. Agora, se não é assim que
+funciona. É assim que funciona. É
+centrão. Mas sabe o que eu vejo os caras
+fazendo é o contrário. Os caras,
+sai mexendo em arquitetura, já sai
+boicotando as coisas, sai reclamando.
+Não é esse o rolê. O rolê é você se
+aproximar das pessoas. A empresa é feita
+por pessoas. A empresa é uma comunidade.
+Tem um monte de gente, tem uma
+hierarquia. Se você bater no chefe, o
+chefe vai te cortar. É assim que vai
+funcionar, entendeu? Ele vai arrancar a
+massa podre lá de dentro. Agora, se você
+é um cara gente boa, um cara que sabe
+trafegar, um cara que tá ali para somar,
+saca? Pegou numa semana que, mano, tá
+tudo Você já você já viu que vai
+atrasar sprint?
+Alonga, mas aí que tá. Você não pode
+deixar o po ganhar nas tuas costas o
+ponto falando que ele que fez. Você não
+pode deixar o Dev Sior ganhar nas suas
+costas, falar que ele que fez. Não, os
+caras aqui de cima precisa saber que é
+você que tá segurando o rojão. Você tem
+que falar: "Ah, mas o o seor vai ficar
+bravo comigo? Ah, mas o não sei que lá
+vai ficar bravo comigo. Mas o irmão, que
+se Cada um, cada um com o teu
+trabalho, entendeu? O que você não pode
+fazer é tipo assim, tirar a autoridade
+desse cara. Se você tiver abaixo desse
+cara aqui, você tirar a autoridade dele.
+Aí você não pode fazer. Agora, irmão,
+daqui, ó, depois de seis meses de firma,
+hora que você tiver aqui nesse nível
+aqui, ó, cara, você já tem que tá
+brother do tech, você já tem que tá
+conhecido do R, sabe? Você tem que
+chamar o cara aqui de cima para ser teu
+mentor, fala: "Cara, eu quero virar
+você, mano. Eu chamaria até o City,
+mandaria um e-mail, falar: "Cara, um dia
+eu quero ser CTO. Eu tenho 22 anos, mas
+eu quero ser city. Que que eu faço? Que
+que eu tenho que fazer? Que que eu tenho
+que evoluir? Que que você olha que que
+você faz, cara? Me conta o que que você
+faz, saca? Esse cara vai, esse o cityo
+vai enlouquecer, mano. A hora que ele,
+que ele vê que você fez isso. Ah, o
+sítio não deu bola. Mês que vem você
+tenta de novo. Dá uma, dá uma trombou o
+cara. Ô, fulano, vem aqui, vem aqui,
+cara. Sabe? Dá uma de intrometido e vai
+fazendo teu trampo e vai se
+intrometendo. Não se intrometendo, mas
+sabe? Olha, eu quero crescer, eu quero
+crescer, eu quero crescer. Mano, se você
+depois dos seus seis, se meses de
+empresa, você viu que ninguém deu bola
+para você nisso, sai fora, troca de
+negócio, porque é uma empresa que não
+quer que você cresça,
+saca? Ah, Kelvin, mas vou ter que
+trabalhar muito, cara. Se você quer
+chegar aqui em cima, se você quer sair
+aqui da linha do dev e subir para você
+ser um tático ou um estratégico, você
+vai ter que trabalhar muito. Não tem
+essa, ó. O mercado corporativo é selva.
+É selva. Não, imagina o seguinte, ó,
+você entrou aqui, certo? Cara, você tem
+opção de ficar trafegando só aqui no
+operacional pro resto da sua vida. Mas
+entenda que aqui há uma limitação. Você
+tem que ir pro próximo nível. Ah, Kelv,
+eu não quero ir. tudo bem para
+você. Então, você não tem que ir,
+tá? Ó, joia. Não tem problema
+nenhum. Eu nem ligo para isso. Eu quero
+que se Cada um com seu sonho.
+Agora, se você quer crescer, cara, você
+não pode deixar esse cara te travar. E
+ele não vai te travar. Até porque, mano,
+a hora que você começa a brilhar muito
+aqui em cima já tá te vendo, mano. Você
+tem que gerar valor para essa cadeia
+aqui, ó. Primeiro você começa gerando
+valor para quem tá acima de você, depois
+para quem tá acima de acima de você, até
+você começar a gerar valor para esse
+cara aqui de cima. Só que você você não
+vai conseguir construir isso aqui do dia
+pra noite, né, velho? Mas mano, você tem
+que dar umas cutucadinha. É igual dando
+uma piscadinha. Falei, vai dar pro
+sítio. Olha o sítio assim, manda uma
+piscadinha para
+ele. É assim que funciona, cara. É desse
+jeito aqui que funciona. Esse cara aqui
+quer pessoas abaixo dele. Primeiro que
+ele pode confiar e segundo que gera
+valor para ele, gera resultado. O cara
+que resolve problema, entendeu? Então
+aqui embaixo dele vai est as peças
+chaves da
+empresa. Ah, Kelvin, dá para fazer isso
+em toda empresa? Não, não dá. Tem
+empresa aqui, você vai travar aqui, esse
+cara não vai sair porque esse cara tá
+inconchável com esse que tá enconchável
+com o lado de cima. Essa empresa você
+tem que sair, você tem que detectar
+isso. Você consegue detectar isso aí nos
+seus primeiro ano, vai. Só que assim,
+você não precisa, o ponto é, você não
+precisa demorar 10 anos para você chegar
+aqui em cima, saca? Aqui em cima, sim,
+você vai demorar mais para chegar, sabe?
+Mas, mano, você tem que ir
+cavocando, cavocando, cavocando,
+cavocando e caçando vaga. Não tem o que
+fazer, saca? Você não precisa ficar
+esperando, você tem que ser, você tem
+que se tornar o diferencial dessa
+empresa que você trabalha. Esse é o
+grande ponto. Se você se tornar uma
+pessoa
+diferente, mano, não tem como você não
+crescer. Não tem como. Quando a empresa
+te limitar, você vai sair e vai arrumar
+um outro trampo assim, ó. Literalmente,
+porque empresas gostam de pessoas assim.
+Entenda isso. Empresa gosta de pessoa
+assim, desse jeito. Pessoa que gera
+valor, pessoa que dá resultado.
+Entendeu, cara? Esse é o melhor hack da
+face da Terra. Ah, mas Kelv, você
+puxa saco, irmão. Você vai ter que tomar
+uma decisão na sua vida. Ser amigo do da
+operação ou tá na empresa para ganhar
+dinheiro, jogar o jogo do
+corporativismo. Beleza? É esse o vídeo
+de hoje, hein? Dica de ouro. Falou, seus
+cachorros. Yeah.

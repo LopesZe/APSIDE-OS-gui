@@ -1,0 +1,375 @@
+estamos ao vivo mentira tá gravado Fala
+galera aqui é o Cleto na área tô na área
+de novo e agora é diferente hein eu vou
+parar de roteirizar essas paradas do
+YouTube aqui eu só vou sair gravando
+falando a minha opinião e nesse vídeo
+aqui eu vou
+comentar isso aqui ó esse vídeo que eu
+fiz sobre Qual a linguagem de
+programação escolher em
+2025 só não escolha Python ó agora que
+eu sei um pouco eu já não gostei do
+título que eu mesmo fiz para mim mas
+beleza vamos lá ó se liga ó teve um cara
+aqui que mandou uma dúvida ó você falou
+do C Sharp mas o resto que as empresas
+cobram por exemplo
+dnet irmão dnet já é uma stack da micr e
+o c sharp faz parte da da stack do da
+stack.net né então tem o J Sharp tem
+outras lá o vbnet por aí vai então é
+tudo dnet tudo Microsoft Deixa eu te
+explicar uma coisa pera aí minha cadeira
+caiu ai deixa eu travar ela aqui
+aí seguinte cara e nesse vídeo
+contextualizando quem não assistiu o
+vídeo quem assistiu show de bola quem
+não assistiu é um vídeo que eu fiz
+explicando sobre
+eh qual linguagem começar para quem quer
+começar a aprender em 2025 né e o que eu
+comentei com vocês nesse vídeo
+principalmente o que eu tentei passar
+para vocês é o seguinte vamos focar numa
+linguagem que seja robusta que tenha
+mercado que tenha tempo não não vamos
+focar nessas nos hypes né e o c sharp o
+Java são o PR o próprio rub já já já tá
+muito bem difundido Tem muito material
+na internet essas linguagens não vão
+morrer tem muito projeto feito nela tem
+muito projeto que tá sendo feito ainda
+tem muito desenvolvedor tem então tem
+mercado
+e quando você fala ali ó tipo por
+exemplo aws awf é infraestrutura
+SQL masq é banco de dados então se você
+aprende o tsql n que transaction
+SQL transaction acho que é mesmo deixa
+até pesquisar aqui para eu não falar
+besteira
+tsql O que
+significa caraca tô ficando ruim mesmo
+hein transact SQL isso aí linguagem
+interpretada usada pel sk server sk
+também quando você aprende a programar
+né você logicamente vai precisar
+persistir uma informação no banco de
+dados quando você começa a estudar você
+começa a ver então você tem vários
+bancos tem o skl Você tem o postgree
+Você tem o firebase Você tem o SQL
+server da da da própria Microsoft E você
+tem o mongo Então você tem ali banco de
+dados que são relacionais e banco de
+dados não relacionais e quando você
+começa a estudar então vamos supor vou
+aprender C Sharp você acaba entrando por
+exemplo na na parte de infraestrutura o
+básico né então você vai abrir por
+exemplo para azure então eu por exemplo
+sou 100% Microsoft então
+é serviços na azure eu utilizo azure
+devops para fazer o github da da do
+devops para fazer gerenciamento do
+código eu utilizo as boards lá para
+fazer todo parte do da gestão do projeto
+eu utilizo também o devops
+eh banco de dados aqui na minha empresa
+é o skl server mas a gente também tem
+aplicações em mongo eu também tenho
+aplicações em node entendeu então assim
+eh é outro nível agora para você que tá
+começando o caminho é você escolher uma
+linguagem só é isso que eu quero que
+você entenda escolha uma linguagem para
+aprender ela e focar pelos seus próximos
+se 7 meses sem parar e evoluindo nela e
+no meio do caminho você vai ter que D
+uma aplicação um front um back em algum
+lugar aí você vai acabar aprendendo um
+pouco sobre a WS você vai acabar
+aprendendo sobre a azure se você
+escolher a azure eh você vai se você for
+fazer e se você for estudar você vai
+acabar aprendendo sobre persistência de
+dados você vai ter que usar um banco de
+dados você vai aprender então aquele
+banco que você usar e aí lá no final lá
+no na hora que você depois de 6 meses aí
+sim você já vai tá ali com algumas eh
+stacks que você aprendeu Então vai tá
+com csharp para back se você escolher
+backend csharp SQL ou mais SQL Ah quero
+fazer um um quero aprender rápido usa o
+mongo aprende banco de dados não
+relacional só que eu eu eu prego muito
+isso vamos começar a aprender primeiro
+pelo banco de dados relacional aprender
+os conceitos de banco de dados depois
+você vai para não relacional porque se
+você começa no não relacional cara
+vé o negócio é lindo é maravilhoso mas é
+ele é pouco difundido no mercado ele é
+específico pouco difundido não falei uma
+besteira agora ele é específico para
+alguns tipos de aplicação sacou que se
+você não sabe ainda é nem faz sentido
+você saber porque você tá começando
+agora esse vídeo é para quem tá
+começando agora entendeu E o frontend a
+mesma coisa eu posso trabalhar em
+cara são vários frameworks que tem por
+aí mas eu escolheria por exemplo next é
+um Framework muito bom eh eu eu gosto do
+angular
+eh por não sei explicar costume eu acho
+e ele é muito difundido então assim o
+angular é um uma excelente um excelente
+Framework para você aprender mas se eu
+fosse começar no Fronte eu começaria
+pelo JavaScript JavaScript puro aprender
+realmente a fazer a gambiarra
+Nativa cara JavaScript é um tesão
+entendeu aprende o JavaScript pura p o
+conceito do negócio os
+fundamentos E aí com certeza você vai
+arrumar um Job um emprego você vai ser o
+garoto do Job ou a garota do Job da
+tecnologia entenderam É isso que vocês T
+que entender aprenda a do conceito
+e aí o negócio vai desenrolar esse
+negócio de você começar e arrumar
+emprego em um mês aprender programar em
+um mês dois meses é
+mentira Isso é para vendedor de curso
+isso não existe isso é mentira não faça
+isso não acredite nessa besteira se você
+provavelmente você tá entrando na
+tecnologia por por razões financeiras
+saca Então já tenha na sua mente que
+isso aí é Médio prazo você não vai
+consegir médio PR longo ainda porque
+assim nos primeiros anos você não vai
+conseguir ganhar mais do que R 4000 não
+vai não vai você não vai conseguir ter
+um salário astronômico A não ser que
+você seja um cara muito fora da curva é
+possível é possível tudo vai depender
+das do seu nível de dedicação do quanto
+você vai se dedicar e vai ser bom eu vi
+por exemplo esses dias lá no no no
+tiktok um cara que um moleque falou
+assim ah eu aprendi a programar em um
+ano e meio já me mudei aqui PR os
+Estados Unidos tô ganhando 4000 é
+mentira gente isso é mentira entendeu
+isso A não ser que ele pode até ser
+verdade mas ele tipo dedicou horas e
+horas todos os dias estudando e teve
+Provavelmente algum mentor para ir
+tateando o caminho dele do que ele
+deveria estudar ele teve experiências
+fazendo freelance então um cara que se
+colocou muita prova ali em um ano e meio
+para ele conseguir evoluir muito rápido
+e mesmo assim Eu ainda acho
+difícil mas quem sou eu para falar que
+alguém tá mentindo né esse é o ponto
+Então vamos lá entenda uma coisa foca
+100% em uma única linguagem de
+programação e aí você vai aprender os
+derivados os os as adjacências né você
+vai começar a aprender a hora que você
+começar a se colocar a prova de criar
+soluções mais robustas o que que eu
+fazia cara eu criava tipo assim sistema
+de pizzaria cara não importa que tenha
+eu vou desenvolver um sistema de
+pizzaria eu fiz sistema para pizzaria eu
+fiz sistema para comércio eu fiz
+integração com nota fiscal emissão de
+nota fiscal eu fazia tudo isso por quê
+Porque isso fazia eu me colocar num
+desafio eu participava de fóruns hoje
+Ten o Reddit né antigamente tinha uma
+carada de Fórum de tecnologia Você
+entrava lá e eu ia tirando as dúvidas
+por lá stack overflow comha solto também
+Sa mas o que você tem que entender é que
+você tem que se colocar a prova então
+pega seu conhe aprenda pega seu
+conhecimento coloca na prática tenta
+fazer E aí depois você inventa alguma
+outra coisa e fora daquilo que você
+aprendeu para você tentar fazer também
+aplicando aqueles conceitos Então desse
+jeito você vai começar a criar
+musculatura na programação é igual você
+entrar na musculação cara eu entrei no
+box agora você acha que eu tenho
+condição de subir no ring Nem tô
+lá jeb jeb direto esquiva vai anda passa
+o Pim pula a corda vai bate no saco tudo
+lá ele vai pá pá pá pá sacou e mês que
+vem mesma coisa se eu quero evoluir mais
+rápido eu treino terça e quinta se eu
+quero evoluir mais rápido eu vou ter que
+treinar segunda terça quarta quinta
+sexta não tem atalho não tem atalho é
+simples assim entendeu Ah mas eu quero
+algo mais rápido não vai dar certo as
+pessoas gostam de te de de iludir as
+outras pessoas mas eu vou ser sincero
+não dá certo não adianta você querer
+pegar atalho sacou vou responder uma
+outra aqui ó essa daqui eu até mandei
+mensagem para ele já ia gravar um vídeo
+sobre isso C Sharp daria para usar o
+Rider da Jet Brain sim dá é inclusive eu
+entrei lá no site da Jet Brain lá e ele
+ele e ele explica lá toda toda a SDK
+toda a ide e tudo mais então dá sim tá
+Dá para você programar isso pelo que eu
+li eu nem conhecia eu fui ler agora pelo
+que eu vi isso aqui é para
+desenvolvimento de jogos né bem
+interessante e pensando em tentar migrar
+do frontend para o
+back mas não queria ir para Python minha
+dúvida está entre go C Sharp e rubby
+cara as três são muito boas o gol ele é
+muito mais recente que o C Sharp e que o
+rubby né e eu iria para ser Sharp porque
+eu gosto muito mas o rubby também tem
+muito mercado cara muito mercado então
+assim eu descartaria o gol Iria ou para
+C Sharp ou para rubby e você pelo que
+você me falou ali você tá na Europa né
+então
+assim tem muito mercado aí pr steack
+Microsoft Então cara Vai sem medo ser
+Sharp zão veia saca ó eu não gosto do
+Java mas o Java também é excelente o
+Java também é excelente kelv Por que que
+você não gosta do Java que eu tenho
+trauma de Java Tenho trauma sou
+traumatizado porque na época da
+faculdade eu já era programador E aí
+tinha que passar nas na fazer aula de
+programação era em Java eu sempre
+trabalhei com steack Microsoft nunca
+tive problema com isso sempre ia lá
+instalar o visual Studio conseguia
+programar de boa ele já configurava a
+ide já pedia para instalar as sdc tudo
+certinho era muito mais fácil o Java não
+o Java eu tinha que ficar instalando a
+do Java não sei o que lá Java 6
+Java 7 javak configurar não sei o que lá
+e isso e aquilo e faz tal coisa E aí
+Instala netbeans aí faz tal coisa aí
+sobe aqui quer colocar uma um plugin tem
+que baixar e não sei o que lá a jvm e a
+jvm deixava a máquina uma carroça eu
+tenho trauma do Java Tenho trauma trauma
+então eu não quero nunca me esforcei
+para aprender mas assim Se surgir um
+trampo de Java eu vou pegar e vou fazer
+mano se eu precisar Ah vamos supor
+minhas empresas quebrou eu tenho eu sou
+pai velho eu tenho três filhos você acha
+que se aparecer um trampo de Java para
+mim eu não vou aprender na hora me é por
+quê Porque eu tenho o fundamento muito
+bem feito muito bem estruturado eu sou
+bom de lógica de programação eu sou bom
+de algoritmo entendeu eu entendo como
+funciona os padrões ó caiu até fumaça eu
+entendo como funciona os padrões de
+projeto eu tenho o conceito tenho uma
+base muito sólida eu tenho as Fundações
+muito os fundamentos da programação
+muito bem Entendeu sólidos então o que
+que eu que que eu vou fazer cara eu vou
+fazer um cursinho rápido aí e já vou
+cair para dentro da vaga e vou
+desenrolar Sem problema nenhum você
+acredita é assim que funciona É assim
+que funciona vocês tem que aprender a
+ficar bom você tem que ficar bom para se
+tornar um autodidata na programação
+porque programação é isso programação é
+Celer documento eu tava agora fazendo
+uma integração com agora que é uma
+ferramenta de é uma é uma empresa que
+eh ai como que posso falar eh
+vídeochamada tipo Eles T uma API de
+vídeochamada uma SDK de videochamada
+toda uma estrutura lá para fazer com
+webrtc cara
+documentação saca não difícil ter
+conteúdo na internet para fazer aquilo
+que eu quero fazer então velho é chat PT
+hoje em dia né me ajuda muito porque
+quando eu tô poc assim eu tô muito tô H
+tempo fora da programação mesmo assim eu
+pego o código vou fazer fazer uma poc
+estruturo chat ept para tirar dúvida e
+documentação leio toda a documentação
+P toda referência entendo entenderam eu
+não preciso ter ninguém pegando na minha
+mão mais há muito tempo então você tem
+que entender que para você ser um cara
+bom você tem que chegar nesse nível
+então se você não sabe nada de
+programação aprenda os fundamentos
+escolha sua linguagem aprenda os
+fundamentos e depois você vai ver que é
+fácil você ir trocando de linguagem de
+programação é muito fácil é muito fácil
+algumas são um pouco mais complexas tipo
+assim ó por exemplo o Python Ele é
+simples só que o Python Ele é simples
+Porque tem um monte de biblioteca pronta
+lá entendeu os caras principalmente o
+pessoal lá que curte fazer análise de
+dados cientista de dados e tudo mais
+então o Python tem muita coisa pronta
+para isso para i e tudo mais mas se você
+for construir uma uma uma biblioteca
+você vai sentir a mesma dificuldade a
+complexidade e não é nem pela escrita né
+porque ele é um pouco ele é bem menos
+verboso Ele ele é bem simples mas é o
+algorit em si né a lógica do negócio que
+tem a complexidade não é o jeito que
+você que escreve o jeito que você
+escreve ele é 10% da programação não é
+tão eu acho que a mais assim que eu
+sempre que eu tinha sempre quando eu
+olhei eu falei caraca mano esse bagulho
+é muito louco Era objective C saca mas o
+Swift também resolveu esse problema é
+mais ou menos também que também acha ele
+meio complexo mas assim não não não não
+e como eu posso explicar não não se
+assuste com o tipo que você escreve a
+linguagem com com a com a o tipo da
+linguagem né foca na do fundamento
+que vai dar certo vai dar bom pode
+confiar hein pode confiar então é isso
+galera esse vídeo aqui foi para fazer
+esse esse comentário sobre a qual
+linguagem de programação começar em 2025
+para dar um pouco mais de contexto para
+vocês que estão começando para vocês que
+estão querendo trocar de stack belezinha
+Ah esqueci ó a deveria ter falado no
+começo já me segue já clica aí em curtir
+clica no Sininho se inscreve no canal e
+me dá essa moral aí comentando nos
+vídeos porque isso é o que motiva esse
+estagiário aí youtuber aqui a continuar
+esse projeto Valeu galera um abraço

@@ -1,0 +1,703 @@
+Nesse vídeo aqui a gente vai falar sobre
+o paradigma da AI first. É isso mesmo. O
+jogo tá mudando completamente. Há 5 anos
+atrás, quem tinha uma colocava dinheiro
+em gestão de tráfego, em tráfego pago,
+era rei. Quem tinha pixel e algumas
+automações era rei. Mas o mercado vem
+amadurecendo, chegou a inteligência
+artificial ali de fininho, de fininho,
+de fininho. E esse ano, em 2025, a gente
+teve esse grande boom da inteligência
+artificial. E daqui para frente, meus
+amigos, quem não se adaptar, tchau,
+tchau e bção, vai literalmente sumir.
+Então, nesse vídeo, eu quero explicar
+para vocês sobre essa mudança de vai
+esse novo paradigma com a inteligência
+artificial voltada a negócio, voltado a
+mercado, voltado a empresas, para vocês
+entenderem como que isso encaixa. Esse
+vídeo aqui vai ser para você que é
+empresário, pr você que tem empresa,
+porque é muito importante,
+principalmente para você na verdade, né,
+que já tem um negócio aí, seja do
+mercado tradicional, seja do mercado
+tecnológico, para entender como que isso
+se encaixa daqui pra frente nos seus
+processos, nos processos do seu cliente.
+E para você que quer empreender, entenda
+este conceito principal, porque a partir
+do entendimento desse conceito aqui,
+você vai conseguir ter a visibilidade de
+como você pode atacar o mercado para que
+você faça a sua consultoria estratégica,
+inteligência artificial, para que você
+renove a sua agência de marketing,
+implementando este modelo de adaptar
+processos tradicionais à implementação
+de inteligência artificial. Já falei
+para vocês de agência que vocês têm que
+virar uma empresa de tecnologia. Para
+você que quer, por exemplo, criar um
+SAS, bom, para você quer empreender de
+forma geral, tá? A gente tá no hype da
+inteligência artificial. A gente tá no
+melhor momento e a não é uma bolha,
+porque isso aqui ainda nem começou.
+Vocês vão ver em 2026, ou melhor, em
+2027. Já falei sobre isso, o bicho vai
+pegar. E hoje eu não tô no Miro, hoje eu
+tô no Canva. Aproveitando esse material
+que eu tô usando aqui, eu vou
+disponibilizar ele para você
+literalmente de forma editável. você vai
+poder usar ele para você que você tá,
+você que tá empreendendo, você pode usar
+para vender. Então isso aqui você pode
+estruturar todo o teu pit para isso. Ou
+você que trabalha aí numa empresa, você
+pode usar isso aqui para defender a tua
+tese de implementação de AI first nesse
+negócio, tá? eu vou liberar ele
+para você editado. Para você ter acesso
+é só você tirar um print disso aqui,
+postar lá no Instagram, fal assim, ó, tô
+assistindo aula do brabo de inteligência
+artificial. Me marca @eou Kelvincleto
+que você vai levar esse material na
+hora. Que isso? Que isso, Chimê? Isso
+aqui não é um não apresentador de Isso
+aqui é um prefeito. Isso aqui que eu tô
+fazendo para vocês não tem [risadas]
+mais ninguém. Bora, vamos voltar pro
+conteúdo. Para você que não me conhece,
+muito prazer. Meu nome é Kelvin, eu
+tenho 33 anos, eu sou um programador
+empreendedor serial. Fundei a General
+Clans, uma das principais insurcks do
+Brasil em 2015. Fiz a venda dela em 2022
+e fiz 50.1% 2022 na verdade e fiz o meu
+Exit agora em 2025. E eu também fundei.
+Agora eu tô à frente da Acelera 360.
+Para você que não conhece a Celera 360,
+ela é uma escola de empreendedorismo
+totalmente hand zone. Então lá eu ajudo
+você a tirar sua ideia do papel. Lá eu
+ajudo você que já tirou sua ideia do
+papel a ir pro próximo nível a bater
+100.000, vai bater 1 milhão. Então
+assim, ó, até 10 milhões de faturamento
+por ano eu consigo ajudar. Se você
+quiser saber mais sobre Acelera 360, o
+link tá aqui na descrição desse vídeo, é
+só você clicar. E aqui nessa
+apresentação você vai ver que eu tenho,
+ah, pô, que que é essa KCG Group aqui?
+Que que é inspect? E o Spect é um SAS
+que eu tenho também, uma empresa
+específica voltada para vistorias e
+inspeções de risco. E a KCG é uma
+consultoria de software que eu também
+toco. Eu tenho uma operação de
+consultoria de software, tá? Mas a gente
+não veio falar sobre isso. Vamos falar
+sobre a first. Antes de explicar o
+paradigma, eu quero que você entenda uma
+coisa, que existe uma crise silenciosa
+que tá acontecendo literalmente agora.
+Olha aqui a minha tese. Empresas que não
+adotarem inteligência artificial de
+forma estratégica nos seus processos,
+elas nos próximos 18 meses, elas
+enfrentarão algo chamado obsolescência
+competitiva. O que que é obsolescência
+competitiva? É quando o concorrente dela
+se tornou tão relevante, tão relevante,
+que ela simplesmente deixou de ser
+relevante e vai sumir, vai deixar de
+existir, vai se extinguir. É basicamente
+o que aconteceu com os dinossauros.
+Kelvin, mas que que já aconteceu? Já
+aconteceu isso? momento. Sim, é só você
+olhar para Kodak, para Blockbuster,
+paraa Motorola. São empresas, a Motorola
+nem tanto, perdeu muita relevância, era
+uma das principais do mercado, mas quase
+deixou de existir, mas se reinventou.
+Então assim, o risco não é só de perder
+eficiência, o risco é literalmente de
+perder relevância no mercado a ponto de
+simplesmente depois não fazer mais
+sentido essa empresa existir. E eu vou
+explicar para vocês isso dando um
+exemplo da máquina fotográfica. Esse
+esse gráfico aqui é maravilhoso. Esse
+gráfico aqui é sobre a curva de adoção
+de um produto. Então o que que ele fala
+quando o mercado é muito inicial? Então
+a gente tem aqui, ó, lá em muito a stage
+mesmo, a turma dos inovadores. Que que é
+a turma dos inovadores? É a galera que,
+começou a mexer com LLM lá em
+2018, 19, 2020. A galera que, tá
+lá na universidade, viu e falou: "Nossa,
+isso aqui é incrível". Eles começaram a
+usar. Aí aqui quando aquilo vai ganhando
+o corpo, as pessoas vão usando mais, né?
+Então aqui é a época dos visionários de
+utilizar. É aqui existe um abismo que é
+o quê? Quando rompe esse abismo, quando
+uma tecnologia rompe essa esse abismo, é
+porque isso aí já tá entrando pro
+mercado. O mercado começa a adotar isso
+de forma massiva. Aí depois aqui a gente
+tem a onda, né? E depois a gente tem
+aqui os conservadores, que é, já
+é comum aquela galera que era cética,
+que falava assim: "Não, isso aí sabe no
+começo, aá não serve para nada". Em
+algum momento essa galera, provavelmente
+ali para 2026, para 2027 vai começar a
+usar. Então, todo mundo que é
+conservador vai começar a usar. E no
+final é são séticos. É tipo os últimos a
+entrarem, os últimos a entrarem na onda,
+tá? Isso aqui eu vou dar vou explicar
+para você dando o exemplo da máquina
+fotográfica. Então em algum momento
+alguém lá ou na universidade criou
+um negócio que era possível tirar foto
+de forma digital. A câmera tinha 0.1
+megaposa. Aquela pessoa fala: "Nossa,
+isso aqui é incrível". Ela sabe, ela
+sabe que aquilo pode evoluir, que aquilo
+pode virar uma tendência.
+Só que o mercado não tava nem vendo
+isso. O mercado tava usando máquina
+fotográfica de rolo, de de é rolo, tu
+fala, né? Nem nem lembro mais. Que
+coloca lá o rolo de fotográfico tipo da
+codak tirava foto totalmente analógica.
+Aí aqui quando ele entra nesse cenário,
+os visionários começam, a tecnologia
+começa a melhorar. Então aquela máquina
+fotográfica digital começa a ter um
+displayzinho um pouco melhor. Aí ela já
+tá com 1,5 megapel. Ela ainda não tira
+aquela foto maravilhosa, mas já tem
+aquela questão da portabilidade. Então,
+os visionários começam a utilizar a
+máquina fotográfica, por mais que elas
+não, ela não tire numa máquina
+fotográfica digital, por mais que ela
+não tire foto numa qualidade extrema, as
+pessoas começaram a adotar isso. Já quem
+os céticos, né, então os conservadores e
+os céticos fal, pô, isso aí não vai
+pegar não, não tem como. Já mais uma
+máquina fotográfica digital vai
+realmente e eh substituir uma máquina
+fotográfica analógica de rolo, de eu não
+sei se é rolo que fala, mas beleza. Só
+que aí tem esse abismo. O que que
+acontece? Quando os visionários começam
+a usar muito e o produto encontra o o o
+mercado, tem o product marketfit, isso
+aqui acontece acontece esse esse pulo
+desse abismo.
+Imagina o seguinte, a galera tava usando
+lá máquina fotográfica digital, 2 megap,
+2.1, 2.2, 2.3, começou a melhorar 3
+megapel. Todo mundo já começou a falar o
+seguinte: "Cara, esse negócio é bizarro,
+a minha portabilidade, eu não preciso
+ficar comprando mais rolo, eu não tenho
+problema em expor isso aqui, queimar
+minhas fotos. Por mais que não tenha
+aquela qualidade toda, ainda assim é
+muito bom e muito útil.
+Comecem a perceber o chat EPT aqui, tá?
+as LLMs, o cloud code,
+ferramentas de lovable para geração de
+sistema de de sites e e ferramentas
+usando e desenvolvimento de software
+usando a Olha, olha só, quando rompe
+esse abismo, o que que acontece? Esse
+negócio começa a ser pulverizado em
+massa.
+A Kodak tava nesse ponto. A Kodak não
+deu valor paraa progressão da máquina
+fotográfica digital. Ela ignorou. A hora
+que ela foi perceber, ela já se tornou
+irrelevante. É muito rápido. É assim, ó.
+Pum. É o mesmo com a inteligência
+artificial. Então, assim, empresas que
+não adotarem inteligência artificial nos
+seus processos, elas simplesmente vão se
+tornar irrelevantes do dia paraa noite.
+Você que é empresário, você que tem o
+teu negócio aí do mundo tradicional,
+você precisa implementar isso no teu
+processo. Você precisa implementar IA
+agora. Não importa que a IA não esteja
+100% funcional, não importa que ela seja
+que ela que ela ainda não consiga, não é
+uma ADI da vida, não importa, já coloca
+o pé na água porque você já consegue ter
+grandes resultados com ela. Para você
+que é empreendedor, entenda, nós estamos
+ultrapassando o abismo. Estamos nesse
+passo aqui, ó, de ultrapassar o abismo
+com o AIA. Agora é o melhor momento para
+você utilizar isso daqui. Se você quiser
+empreender com inteligência artificial,
+mesmo que você não seja técnico, mesmo
+que você não seja programador, cola na
+Acelera, clica no link aqui que lá nós
+vamos te ajudar a empreender. E quais
+são os cinco pontos de extinção ou de
+renovação para uma empresa, por exemplo,
+tradicional? É isso aqui que ela tem que
+pegar, é isso aqui que ela tem que
+apontar, ó. Primeiro ponto, processos
+100% operacionais. Então os processos
+ali são muito manuais ainda,
+principalmente processos da galera que
+trabalha em ar condicionado. Quem tá no
+show de fábrica aí não tem o que fazer.
+Aí só quando chegar robô mesmo,
+entendeu? Que é logo logo, não sei se
+vocês viram aí o lançamento daquele robô
+humanoide que cuida de que cuida de
+casa. Os caras criaram um robô que
+basicamente substitui ali uma uma
+faxineira, substitui uma uma mulher que
+cozinha. Pô, o negócio é um absurdo. Uma
+cozinheira, o negócio é doideira. Então
+assim, processos que são operacionais e
+são muito manual ainda, podem sim ser
+substituídos por IA. Se eles não forem
+substituídos de forma 100%, imagina
+assim 40%, 50% com IA. Já é muito, já é
+muita coisa, tá? Outro ponto, quem não
+aproveita a base de clientes, então
+bases de clientes mal aproveitadas,
+essas empresas que t muitos leads ou já
+teve muitos clientes, mas tem uma base
+fixa de clientes muito pequena, não tá
+aproveitando essa quantidade toda de
+leads aqui, cara, se não se renovar com
+o IA agora no processo de
+autoatendimento, de nutrição, de
+follow-up,
+já era, porque a máquina de venda, ela
+pode ser muito impulsionada com IA. Veja
+o que eu já falei sobre infraestruturas
+de crescimento com inteligência
+artificial. Nada mais é o growth e nada
+mais é do que uma máquina de vendas com
+IA. É bizarro. É bizarro. Então, Closer,
+SDR, pré-venda, essa galera toda, cara.
+é incrível. Terceiro ponto,
+gargalos em processo comercial. Então, a
+empresa que hoje tem gargalo no processo
+comercial tem que vir já renovando esse
+processo com inteligência artificial.
+empresas que têm segurança técnica ou
+falta de liderança tecnológica. Um outro
+ponto muito complicado a partir desse
+momento. Por quê? Porque a IA vai
+continuar evoluindo. Você ou seja você
+empresário, as empresas elas precisam
+ter uma segurança nessa decisão de
+liderança técnica. Elas precisam
+conseguir implementar inovação muito
+rápido. As coisas vão acelerar muito
+rápido, elas precisam ainda continuar
+competitivas. Então isso aqui, ó, é
+precedente para você montar sua
+consultoria estratégica inteligência
+artificial, sua consultoria estratégica
+inovação. Você precisa apontar para
+isso, para você apoiar essas empresas do
+do mercado tradicional, ajudá-las a
+passar por este vale da sombra da morte,
+porque senão elas vão deixar de existir.
+E o quinto passo é ter uma falta de
+visão estratégica e de futuro. Empresas
+que não tiverem uma visão estratégica de
+futuro sobre as mudanças tecnológicas
+que vão ocorrer nesse setor tradicional.
+Então aqui esses cinco pontos ou são de
+extinção ou de renovação, eles precisam
+ser tratados. E aí que a gente entra no
+nesse conceito, o paradigma da AI first.
+Então assim,
+EI first não é só você usar ferramenta
+de IA isolada, então é você reconstruir
+todo o teu modelo de negócio, melhor,
+todos os seus processos com IA no
+núcleo. Então o pensamento não é mais,
+ah, vou contratar a gente, vou fazer
+isso, vou fazer aquilo, vou escalar, vou
+melhorar meu processo. O pensamento é,
+cara, como que eu incorporo AI no núcleo
+da minha empresa? Como que eu trago a
+inteligência artificial para pensar nela
+primeiro para depois eu pensar em
+contratar? Então, tudo que você
+conseguir resolver com IA, você tem que
+resolver com IA. Esse é o pensamento. O
+seu pensamento, o nosso pensamento, o
+pensamento das pessoas, precisam estar
+formatados a partir de agora para
+a gente precisa pensar primeiro na IA no
+processo. Ela tem que estar no cerne do
+processo. O processo ele foi desenhado
+para trabalhar com pessoas. Então agora
+a gente tem que repensar os processos
+para ele ser trabalhado com IA. E aí
+quando a IA não conseguia atender, aí
+entra aquele conceito do in the loop.
+que é a pessoa, ela entra para apoiar a
+inteligência artificial ou para cobrir
+aonde a IA não consegue fazer. Cara,
+isso aqui é bizarro. Então assim, ó,
+para as empresas hoje elas que que já
+estão constituídas, elas têm que pensar
+no conceito AI first. Agora, as empresas
+que estão nascendo, elas já podem vir
+com um paradigma que se chama AI full
+stack company, que é ela já nasce com
+IAN Riz. Cara, olha que doideira. Essas
+empresas que vão nascer já com esse
+braço tecnológico, essas empresas elas
+são altamente disruptivas, elas
+literalmente trucidam mercados. Veja
+Uber comparado com táxi tradicional. É
+basicamente isso. Isso é uma disrupção
+de mercado. É tipo assim, os caras chega
+mesmo e daí é greve, gritaria, loucura e
+tudo mais. Isso vai acontecer para tudo.
+Educacional, logística, transporte,
+saúde, medicina, cara, tudo seguros,
+todos os mercados, todos os mercados vão
+passar por essa mudança. É todos os
+players que vão ser impactados. Bem
+provável que não. Tem muito player ainda
+que opera muito de forma manual. Esses
+só vão ser impactados quando o Elon Musk
+realmente conseguir a excelência lá nos
+robôs dele. Quando esses ainda estão
+salvos por enquanto, tá? Então vamos lá.
+São os três pilares aqui do AI first.
+Pessoas executam tarefas. Esse é o
+pensamento inicial. Qual que é o novo
+pensamento? A IA executa, pessoas
+inovam, tá? Ponto. Dois, decisões
+tomadas de forma 100% manual, com base
+em Excel, relatórios e tudo mais, mas
+ainda concerne nas pessoas. E agora muda
+pro quê? A IA, ela recomenda com base em
+dados, mas ainda é a pessoa que toma
+decisão. Mas em muitos casos, cara, as
+pessoas não precisam tomar mais decisão.
+Tem coisas que a IA consegue
+literalmente tomar uma decisão. Por
+exemplo, com base em regras, em
+histórico e tudo mais, em em premissas.
+a IA consegue tomar a decisão de aprovar
+ou não uma determinada despesa
+operacional de uma companhia. Cara, o
+setor financeiro das empresas tendem a
+desaparecer, desaparecer, tá? RH, mesma
+coisa. Contrata ou não contrato, já tem
+muitas empresas que usam o IA na base de
+contratação. Isso é um modelo, um para
+implementação do paradigma AI first pro
+RH. Só que isso tem que ser feito em
+toda a companhia, tá? Processos lentos
+acabam trazendo o quê? Velocidade e
+escala. E aqui eu montei um gráfico, por
+exemplo, para vocês entenderem,
+comparando uma empresa tradicional para
+uma empresa que implementa inteligência
+artificial na sua base de processo.
+Então, olha que loucura, limitação de
+crescimento. Uma empresa tradicional tem
+muita limitação de crescimento, então
+ela só consegue crescer se ela aumentar
+a gente. Com AI first, o que que
+acontece? Olha, a limitação, cai lá para
+baixo. Por quê? Porque ela já tá
+estruturada para funcionar o processo
+dela com base em A. Então o processo ele
+tá mais otimizado possível. Ele já tá
+desenhado para isso. Se a IA evoluir, o
+processo otimiza mais. Se aí a parada
+onde que tá agora, o processo otimiza
+menos, mas de qualquer jeito ele tá
+desenhado para ser outro otimizado.
+Agora pensa aí, você tende a evoluir ou
+tende a parar, entendeu? Perda de
+receita. Empresas tradicionais tendem a
+perder muita receita, empresas com EIF
+não. Por quê? Porque o processo acaba
+sendo otimizado, o preço vira eh acaba
+sendo mais competitivo que a do
+concorrente, as margens tendem a ser
+maiores, logo empresa competitiva, perda
+de receita vai cair. Ieficiência
+operacional, empresas tradicionais
+tendem a ter uma ineficiência
+operacional muito alta, logo a gente
+consegue automatizar muito esse
+processo. Ineficiência operacional cai
+drasticamente. vulnerabilidade
+competitiva. Olha aqui, empresas
+tradicionais no modelo tradicional é
+vulnerável competitivamente, a não ser
+que tenha um grande diferencial.
+Geralmente esses diferenciais são
+tecnológicos, porque dificilmente você
+vai conseguir ter um diferencial humano
+muito grande. A não ser que seja, por
+exemplo, igual o Zuenberg tá coletando
+talentos absurdos em AI, mas isso para
+mim não é diferencial. Já após a
+implementação da Oia, isso cai
+drasticamente. E dificuldade de inovação
+é a mesma coisa. A partir do momento que
+você implementa um paradigma de AI
+first, que você começa a pensar no teu
+processo, primeiro pensando em,
+como que a IA resolve isso? Acabou,
+irmão. A sua dificuldade de inovação,
+ela se reduz praticamente a zero. Então,
+olha como que isso aqui é drástico. E eu
+vou mostrar aqui para vocês dois cases.
+Na verdade, o case da Donomil, eu já até
+comentei aqui em um outro vídeo que até
+um aluno meu reestruturou o Dontome para
+pensar em no modelo mais AI first. Vocês
+podem pesquisar aqui lá na Odontomil, o
+o faturamento pulou de 900.000 1000 por
+mês nessa rede da DTO 1000 para 1.400.
+Isso em menos de 90 dias. Vocês têm
+noção do que é você fazer um salto de
+500.000 de faturamento em uma rede de
+franquias? É absurdo. É absurdo. E agora
+eu vou pegar esse caso aqui do João, que
+é o influenciador que entrou em contato
+comigo. Eu trabalhei com ele num desenho
+de AI first. Que que o João faz, cara? O
+João nada mais é do que um influenciador
+que aluga imóveis por temporada lá no
+João Pessoa, se eu não me engano. Acho
+que é João Pessoa, não lembro. longe
+para Qual que foi o conceito que
+preciso automatizar um monte, eu
+gero muito conteúdo e um monte de gente
+me chama no WhatsApp, me chama no
+Instagram e eu não consigo melhorar o
+meu processo, eu não consigo escalar
+esse meu negócio porque depende muito de
+mim. É o tal do OnePerson Business, ele
+conseguiu criar um negócio gerando
+conteúdo, no Instagram e tudo
+mais, mostrando as casas e as pessoas
+começavam a clicar e atrás dele. Tá, mas
+como que ele escala? Ele vai montar uma
+operação gigante, ainda mais hoje em
+dia. E foi aí que eu pensei neste modelo
+junto com ele. Olha que doideira.
+Desenvolvendo aqui um motor de reserva
+especificamente. Ah, tá. Tem um ponto
+adicionado, João. Ele não alugava só
+casas de hotéis e hotelarias e tudo
+mais. Ele alugava um, ele tinha uma
+particularidade que alugar uma casa de
+uma pessoa comum por temporada. Então
+eu, por exemplo, tenho uma casa de uma
+pessoa, eu deixava com ele, aí ele ia lá
+e alugava essa minha casa por temporada.
+Então, a gestão do calendário, eles
+fazem via WhatsApp, velho. Você que quer
+empreender, olha um nicho aqui, tá?
+Quantos Joãos não existem por aí? É só
+você pegar esse modelo e replicar.
+Contrl C, conttrl V. Kelvin, não consigo
+fazer. Clica no link e cai para dentro
+da acelera que lá eu te ajudo a fazer
+isso aqui. Então, vamos lá. A gente
+desenvolve um motor de reserva. Se motor
+de reserva pode ter um RPA de
+integração, pode estar conectado numa PI
+de compra de passagem, pode estar
+conectado numa p de hotel para fazer a o
+o booking dos hotéis. API do Booking,
+API do Airbnb. Ah, mas o Airbnb e o
+Booking não tem API, é só excluir eles,
+tá? Mas o motor de reserva por si só,
+ele já gerencia o calendário das casas e
+da e faz as reservas daquelas casas que
+não eh tem um sistema, por exemplo.
+Legal. Aí aqui a gente tem os agentes
+conectados nesse motor de reserva. Tem
+lá gente no WhatsApp, agente no
+Instagram, tem aqui um agente de
+assistente para fazer lembrante de
+agenda, um agente de recuperação de
+carrinho. Olha que loucura o conceito de
+e-commerce de fazer recuperação de
+carrinho implementado num cara que tá
+gravando vídeo na internet. Olha que
+doideira. Entendem isso? Entendem?
+Imagina, você acha que um cara desse não
+consegue ter mais resultado? É só ele
+meter pressão no vídeo. Tem uma máquina
+por trás rodando, entendeu? Um agente no
+WhatsApp fazendo ofertas personalizadas.
+Olha aqui, ó. Clientes antigos, clientes
+de viagem, leads, leads qualificados na
+base. Então, até o cliente tá em viagem.
+Eh, João, me indica, me indica, por
+favor, um restaurante para eu comer. Já
+pufada, ele já responde, ó. Vai nesse,
+nesse, nesse e nesse. Tá aqui o cupom
+João 10. que pariu.
+Isso é disruptivo. Isso é disruptivo.
+Caiu aqui, passou, agendou. Quero
+agendar de novo. Puf, passa pelo motor
+de reserva. Motor de reserva. Olha um
+outro agente na outra ponta
+intermediando com o dono da casa.
+Fulano, tem um cliente aqui que quer
+pegar no dia 10 a 12 de dezembro de
+2025. Tá liberada sua agenda? Ah, tá
+liberada. OK. Passa pelo motor de
+reserva, retorna um agente pro outro
+lado. Olha aqui, agentop
+em duas pontas. Loucura. Isso aqui é
+loucura, velho. Mas é Uma camada
+de fallback, uma camada de segurança,
+por se não demete, joga na mão do
+humano. O que que a gente pode
+implementar aqui? Chatwood. Pode
+implementar aqui próprio chatbot mesmo,
+o o WhatsApp na mão. Pode implementar
+aqui um um chat guru, pode implementar
+aqui uma mesa de atendimento,
+pode implementar qualquer coisa, mas
+olha a potência que isso aqui faz. Então
+o João consegue alugar, gerenciar 60
+casas por mês com uma máquina dessa, ele
+consegue fazer isso quatro vezes mais.
+Logo, olha o valor agregado, olha o
+potencial de crescimento. Conseguiram
+entender? Isso aqui é I first, é você
+repensar o processo para que ele
+funcione com inteligência artificial e
+também com tecnologia, né? Então
+inovação na aveia para que ele seja o
+mais otimizado possível. Kelvin, isso
+aqui é caríssimo, ninguém vai pagar por
+isso, irmão. Tá duro, dorme. Entendeu?
+Isso aqui é para quem quer crescer. Um
+projeto desse que custe 60.000 para
+implementar, 100.000 para implementar o
+ROY de um negócio desse. Dá em 6 meses,
+6 meses no máximo. E dependendo do
+volume de leads entrando, se paga mais
+rápido. Conseguiu entender? Porque isso
+aqui é máquina de vendas. Isso aqui é
+dinheiro entrando na veia, entendeu?
+Dinheiro caixa, geração de caixa.
+Quanto mais lead, melhor. Entenderam?
+Então assim, gente, para você, para você
+empresário que tá aqui no meu vídeo,
+para você que é empreendedor, como que
+você começa agora? Tá aqui, ó, um
+roadmap prático pros próximos 90 dias
+para você repensar o seu modelo de
+negócio implementando um paradigma AI
+first ou usando o paradigma. Primeira
+coisa, isso aqui, ó, para você que é
+empreendedor, passa pro teu cliente, ó,
+passa pro cliente que você tá
+prospectando, cria aí um lead magnetic,
+implemente aí i first em 90 dias no teu
+negócio e comece 2026 da melhor forma
+possível, em 60, né? Porque tá acabando
+m se não me engano deve ter uns 50 dias
+ainda livre. Então vamos lá. Primeiro
+escolha uma área crítica. exemplo, área
+de vendas, área de atendimento e área
+financeira. São as três principais áreas
+críticas de qualquer negócio, tá?
+Primeiro, depois escolheu essa área
+crítica, foque em pensar nesta área
+rodando 100% com inteligência artificial
+e pessoas apenas no acompanhamento. Por
+mais que você que não seja 100% viável,
+mas você vai olhar nesse processo com
+esse pensamento. Se você pensa até em
+colocar robô no lugar de gente, táar
+esse cérebro para pensar num modelo
+operacional 100% autônomo. Terceiro
+passo, rode um piloto de alto impacto
+que clientes e equipes sintam na pele.
+Implementa IA o mais rápido possível num
+pedaço desse processo que você pensou da
+forma mais rápida. Então, no
+atendimento, coloca um chatbot para
+rodar com 20% da operação e deixa pegar
+fogo, vê o que acontece e mede. É, é
+isto é assim, ó. É, p faz e mede e vê o
+que tá funcionando, vê o resultado e
+depois você vê onde que tem que ajustar,
+entendeu? Então, um exemplo aqui, ó.
+Atendimento e a reduzindo tempo de
+resposta de 24 horas para 2 minutos.
+Implementa só isso, pum, faz rodar, pum,
+e você começa a ver, a medir isso aqui.
+Você como empresário pode implementar na
+tua operação, na tua empresa, e você
+empreendedor pode vender.
+Eu tô atendendo vocês dois aqui, ó. Se
+os dois quiser ajuda, o link tá na
+descrição desse vídeo. Então assim,
+galera, você que assistiu, depois de
+entender esse conceito, você só tem dois
+caminhos. O primeiro é o caminho da
+extinção para você empreendedor, para
+você empresário. Você que é empresário,
+ó, se não implementar vai sumir. Você
+que é empreendedor, se ficar dormindo no
+ponto, vai perder essa nova onda. Aí
+depois vai ficar chorando, tá? Ou
+renovação. Implementa isso no teu
+processo ou começa a empreender. Você
+tem 18 meses para decidir, entendeu? A
+escolha vai ficar com vocês. Esse é mais
+um vídeo aqui do meu canal para
+ajudá-los
+a oxigenar a cabeça de vocês. Tô aqui
+das trincheiras. da Acelera 360. Agora
+são 8:20 da noite, eu girando esse
+conteúdo para vocês, tá bom? Espero que
+você tenha curtido. Se você quiser esse
+material, você vai lá no meu Instagram,
+comenta lá, Kelvin, eu assisti o vídeo
+do AI first, libera o material para mim
+que eu vou, vai ser um prazer poder te
+ajudar nesse processo, tanto para você
+defender essa tese aí no teu negócio ou
+para você poder fazer algum dinheiro
+implementando isso daqui, fechou? Um
+abraço. Não esquece de comentar, não
+esquece de seguir. Se não gostou também
+comenta aí ou sai fora. Tchau para
+vocês. Falou. Yeah.

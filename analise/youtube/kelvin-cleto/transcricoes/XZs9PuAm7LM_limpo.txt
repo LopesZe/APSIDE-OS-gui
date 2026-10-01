@@ -1,0 +1,458 @@
+Durante os últimos 30 anos, as empresas
+foram construídas da mesma forma. Você
+tinha um problema que você identificava
+e você criava uma empresa. Aí você
+criava essa empresa, você começava a ter
+problemas. Aí você contratava uma
+pessoa, não conseguia vender, contratava
+o vendedor. Começava a vender muito,
+contratava mais vendedor. Começava a
+precisar de um administrativo,
+contratava um assistente administrativo.
+Você começava a precisar de sistemas,
+você contratava um CRM. Precisava de
+gestão, você contratava um sistema para
+gestão. Mas tudo isso mudou. No fundo,
+no fundo, se você analisar uma empresa,
+ela é construída por empilhando pessoas
+e sistemas. Mas eu acredito que tudo
+isso tá mudando e tá mudando muito
+rápido. Afinal, é a primeira vez que a
+gente tem tecnologia que não só executa
+tarefas, mas também tem a capacidade de
+executar comportamentos. Durante os
+últimos 30 anos, nós construímos
+soluções para executar tarefas e
+automatizar algumas. Nos próximos 10, a
+gente vai construir soluções que
+executam comportamentos com a IA. E para
+você que acha que é a mesma coisa, não
+é, não existe uma diferença enorme entre
+executar uma tarefa e executar um comp.
+Eu vou te dar um exemplo. Quando você
+contrata um CRM, você abre o CRM, você
+precisa, você precisa aprender sobre o
+CRM. Você tem que entender como ele
+funciona e você precisa operar ele.
+Quando você contrata um RP, é a mesma
+coisa. Você precisa implantar aquele RP,
+você precisa aprender aquele RP, você
+precisa ensinar as pessoas a como operar
+aquele RP. Então, resumindo, quando você
+abre um sistema hoje, você precisa
+primeiro aprender a operar ele. Você
+precisa adaptar o teu processo para você
+usar ele e você precisa preencher ele.
+Agora, quando você tem uma um agente de
+a, uma solução bem treinada, você fala
+assim, ó: "Agendar follow-up", ele
+agenda. Ou melhor, fazer o followup, ele
+faz. Gere uma proposta para mim, ele
+gere. Ele gera. Anexa essa essa esse
+documento em tal lugar. Ele faz. Gere um
+contrato, dispare pra assinatura,
+aguarda a assinatura e depois que
+acontecer a assinatura, faça tal coisa.
+Ele faz. Você não opera um agente como
+você opera um software. Você conversa
+com um agente e esse agente simplesmente
+executa aquilo que você quer. E isso
+muda tudo. Basicamente, antes nós
+construíamos softwares, agora a gente
+literalmente tem a capacidade de
+construir funcionários dig e
+funcionários digitais que criam
+softwares pra gente. E existe um nome
+para isso, vibe building. Nesse vídeo
+nós vamos vibe buildar, nós vamos
+construir juntos somente com Prompt, um
+agente que basicamente vai ser um agente
+corretor de imóveis para você poder
+entender esse grande conceito. Então,
+basicamente, o que que ele vai fazer?
+Vamos pensar aqui, ó. Vai ser um agente
+que uma pessoa vai chamar ele no
+WhatsApp e aí o que que ele vai fazer?
+Ele simplesmente vai atender aquela
+pessoa e vai fazer um processo igual um
+corretor de imóveis, enviando foto,
+vídeo ou tudo que for necessário para
+poder avançar para o agendamento de uma
+visita. Agora eu vou fazer isso da forma
+mais simples possível, provavelmente em
+menos de 5 minutos. E você também pode
+fazer isso. Isso é vibe buildar. Qual
+que é a diferença entre vibe building e
+vibe coding? Deixa eu explicar para você
+rapidamente porque o Vibe Buildar é tão
+poderoso. Basicamente o Vibe Coding você
+conversa para você gerar um código. Esse
+código é um código de um software. Agora
+o Vibe Building, você conversa com a IA
+e ela tem blocos prontos já de código,
+estruturas prontas e você conversa para
+gerar processos, para gerar negócios,
+para gerar ações. Então você não se não
+precisa se preocupar com segurança, você
+não precisa se preocupar em como o
+e-mail vai ser disparado, em o que você
+vai usar para enviar um e-mail, por
+exemplo, no teu processo. Ela já sabe
+como enviar o e-mail, ela já sabe como
+criar o banco de dados. Os bloquinhos já
+estão prontos. É como se cada bloco
+fosse uma peça de Lego e você consegue
+montar o Lego do jeito que você quiser.
+Esse é o grande conceito. Vibe Building
+é para você construir negócios, para
+você construir a sua empresa, o seu
+negócio, para você empreendedor poder
+construir o seu negócio. Kelvin, mas eu
+não sou corretor. Como que eu usaria no
+meu negócio? Vamos supor que você é dono
+de uma clínica, você tá lá com problema,
+quer aumentar as vendas. Então você pode
+vibe buildar, pegar os bloquinhos
+específicos para tráfego pago, os
+bloquinhos específicos para gerar um
+atendimento com uma IA, os bloquinhos
+específicos para você poder criar
+dashboards para acompanhar o teu
+negócio, os bloquinhos específicos que
+geram criativos para você, que geram
+páginas, você pode fazer qualquer coisa,
+criar qualquer coisa com segurança.
+Então, de forma resumida, vibe coding é
+pedir código para IA. Vibe Building é
+pedir uma solução. Poderoso, né? Bora
+começar esse vídeo. Para você que não me
+conhece, muito prazer. Meu nome é
+Kelvin, tem 34 anos. Eu sou um
+programador que um dia decidiu
+empreender. Vendi a minha primeira
+empresa em 2022, montei ela em 2025, a
+General Cleans, uma insurtec. Vendi
+50.1% dela, fiz meu exit em 2025 e hoje
+eu tô à frente da Acelera 360. Para você
+que não conhece Acelera 360, basicamente
+nós somos um ecossistema feito para
+empreendedores e empresários que reúne
+tudo necessário para você construir a
+sua solução, a sua infraestrutura de nós
+somos os construtores dos bloquinhos de
+Lego para você montar do jeito que você
+quiser e transformar sua operação em AI
+first. Então, se você quer saber mais
+sobre Acelera 360, quer entender como
+nós podemos ajudar você, clica no link
+que tá aqui na descrição desse vídeo e
+se inscreva. Venha conhecer um pouco
+mais sobre o nosso trabalho. Agora vamos
+lá. E agora eu tenho uma mensagem para
+você. O que que as pessoa que tá
+assistindo aqui tem que fazer? Curtir e
+compartilhar. Fala,
+&gt;&gt; curtir e compartilhar.
+&gt;&gt; E clica no link
+no link
+&gt;&gt; e vem conhecer. Acelera.
+&gt;&gt; Vem conhecer a Celera.
+&gt;&gt; Tá dado o recado. Bora lá agora. Então,
+vamos lá. Eu vou mostrar na prática para
+vocês e vou explicar o seguinte, cara.
+Hoje quem usa muito esse conceito é o
+próprio cloud. O cloud basicamente ele
+uma ferramenta de vibe building. Você
+consegue construir muitas coisas lá
+dentro, só que você não consegue ainda,
+as pessoas não conseguem construir
+coisas extremamente robustas que
+precisam ali de muito código ainda.
+Programadores até conseguem. Então o
+nosso a nossa ideia de vibe building é
+essa daqui, ó. Basicamente a gente tá
+criando peças de Lego, então são
+pecinhas e a gente tá ensinando a Iá, o
+Cloud a montar e encaixar estas pecinhas
+para que você ou pessoas aqui da minha
+operação peçam para ir a montar os Legos
+do seu jeito e aí consequentemente elas
+vão conseguir montar aquilo que elas
+quiserem porque são a junção de várias
+pecinhas, criam alguma coisa, criam um
+funcionário digital, criam um CRM
+automático, criam um atendente no
+WhatsApp, criam o que você quiser. A
+imaginação aí é é o limite, né? Então,
+basicamente, o nosso conceito que a
+gente vem trabalhando é criar esses
+quadradinhos, essas pecinhas para fazer
+atendimento, geração de lead, agenda,
+tudo mais, e você pode montar estas
+pecinhas. Isso hoje é o que a Celera
+faz. Então, vibe building é: connecte os
+blocos e crie a empresa que você
+imagina. Desse jeito você vai conseguir
+ter a capacidade de automatizar tudo
+aquilo que faz sentido paraa tua
+operação, pro teu negócio. Isso é o que
+nós fazemos pros nossos clientes. Então,
+bora aqui, vamos, vamos, vamos, vamos
+trabalhar. Vou pegar aqui, ó, o meu
+cloud code para vocês entenderem como
+isso aqui funciona. Isso aqui é um
+exemplo rápido, né? Como que eu criaria
+um chatbot? Poderia criar ele no N8N,
+poderia criar ele no Lovab, poderia
+criar ele em qualquer lugar. Eu vou
+iniciar o meu cloud aqui. Isso aqui é o
+Visual Studio para quem não conhece. E
+eu tô usando o cloud Code. Então aqui
+seria o seguinte, ó. Monte um agente, um
+chatbot. Chatbot para mim.
+de eh que seja uma corretora de imóveis.
+Olha que interessante, conectada no
+WhatsApp.
+Vou ler meu WhatsApp via QRcode,
+onde o chatbot vai atuar. Ponto. É isso.
+Preciso resolver um problema. Qual que é
+o problema que eu quero resolver? Eu
+preciso de um chatbot que responde meu
+WhatsApp. um corretor de móveis ou eu
+tenho uma corretora de móveis e ele vai
+tá lá conectado no meu WhatsApp e vai
+fazer a corretagem. Ah, o que que ele
+vai fazer aqui? Ele vai construir.
+Então, eu não preciso me preocupar com a
+parte técnica, com esse monte de código.
+Vou deixar ele de lado aqui. Então, o
+que que eu preciso me preocupar? Com o
+que eu quero. Qual que é o problema? Eu
+preciso responder meus leads que têm
+interesse em imóveis que eu posto. Logo,
+eu poderia contratar um SAS que faça
+isso, um SAS de WhatsApp e configurar.
+poderia ir lá no lovable e vibe codar ou
+eu simplesmente poderia eh pedir para Ia
+encaixar
+encaixar as peças que fazem sentido para
+resolver o meu problema. Simples assim.
+Por quê? Porque desse jeito eu consigo
+criar qualquer coisa. Eu posso depois
+pedir para ela conectar num banco de
+imóveis e pegar as fotos. Eu posso dar
+este banco de imóveis para ela e pegar
+as fotos. Eu posso fazer dezenas de
+coisa. Lá, já apareceu aqui o QR code
+para eu ler. Eu vou pegar meu WhatsApp
+aqui, não deu nem tempo de explicar para
+vocês. Ixe, meu celular tá gravando a
+tela aqui agora. Ferrou. Deixa eu pegar
+ele aqui para eu ler esse QR code.
+Então, olha que interessante. Eu já
+conectei ela aqui agora no meu QR code.
+Vamos ver o que ela fez, ó. Bote montado
+e rodando. O Qcode foi aberto para
+preview. Leia o Qcode que foi feito. Ele
+criou o bot, já plugou. Ele tá
+utilizando a BOS. Então, olha aqui, ele
+plugou três blocos. Deixa eu ver se tá
+gravando corretamente. Legal. Ele plugou
+três blocos aqui, ó. WhatsApp BOS mais o
+cloud Brain, que é o cérebro com o
+corretor LO que ele criou aqui, e o
+imóvel dataset. Que que é esse imóvel
+dataset? É o banco de dados de casas. Eu
+já deixei esse imóvel dataset pré-
+pronto para esse exemplo aqui, mas eu
+poderia ter um bloco que seria o bloco
+conecta no Viva Real. Eu poderia ter um
+bloco que seria o bloco conecta no
+Airbnb e por aí vai. Eu posso ter
+quantos blocos eu quiser, porque o
+grande conceito é o quê? É criar
+bloquinhos. E olha a velocidade com que
+eu já criei um chatbot. Agora vamos
+testar. Vamos ver aqui. Eu vou abrir meu
+WhatsApp aqui no computador porque eu
+não vou conseguir abrir pelo celular.
+Mandei: "Oi, o L chegou que ele vai
+começar a fazer? Ele vai começar a
+conversar comigo. Oi, aqui é o Léo da
+imobiliária nova, da imobiliária nova
+economia. Tô aqui para te ajudar. Você
+tá procurando meu imóvel?" Sim, quero
+comprar uma casa em Sorocaba. Um. E olha
+que interessante. Ah, Kelvin, mas como
+que eu conecto no para fazer ele
+entender áudio? Não tem problema nenhum,
+é muito simples. É só configurar ele
+para ler áudio, colocar o bloco de áudio
+e ele cria código por trás. Sim, ele
+junta. Todos os blocos são códigos, mas
+são códigos já feitos, entendeu? Então é
+muito fácil criar alguma coisa e o
+limite é o limite da sua imaginação,
+porque se você aprender a criar blocos,
+você consegue estender
+ao infinito e além. Show, casa comigo
+mesmo. Você qual que é a faixa de preço?
+Ah, entre 500 e 1 milhão.
+Então, olha que interessante, ele já
+confiou aqui, ele configurou o prompt.
+Eu tô com um bote no meu WhatsApp
+rodando, Kelvin, mas tá rodando na sua
+máquina, gente. É porque aqui é um
+exemplo, mas eu tenho o bloco de
+delivery de colocar no servidor, é só ir
+criando blocos, não tem limite. E esse é
+o grande conceito do vibe building que a
+gente tá aplicando demais, porque ó lá,
+tenho duas duas bem pertinhos, um
+sobrado novo em condomínio fechado e bit
+royal um pouco, olha que legal, um pouco
+acima da do queão do Zé pá pá. Tá, quero
+saber mais sobre esse sobrado. Tem
+fotos.
+Eh, quanto mais blocos a gente tem, mais
+você pode criar, mais você pode juntar e
+resolver os problemas da sua empresa. E
+é isso que a gente tá focando aqui agora
+na Acelera. E é isso que eu tô
+acreditando muito. E é isso que eu acho
+que você deveria fazer também. Olha que
+interessante, ele já mandou as fotos
+aqui do imóvel, ó, para eu ver. Olha que
+louco. Isso aqui é um sobrado nibi,
+1.180, a casa nova com três suitches, é
+duplex, pá pá pá, aceita financiamento
+até permulta parcial. Quer que eu conte
+mais algum detalhe? Claro, tem foto do
+quarto. Quantos quartos
+são? Então, gente, só para vocês
+entenderem, eh, eu acho que tá tudo
+caminhando para isso. Tá tudo caminhando
+para esse momento aqui, a gente ter
+bloquinhos e a gente juntando. E é por
+isso que eu pivotei a acelera para focar
+para empreendedores e empresários e
+focar em criar essas soluções, esses
+blocos, para que vocês possam criar as
+coisas com segurança. E que coisas são
+essas? Coisas que aumentam o
+faturamento, que aumentam a margem, que
+aumentam a escala. É por isso que eu
+também ensino a como mapear o processo,
+porque não adianta você saber criar se
+aquilo que você vai criar não gera
+resultado para você. No final das
+contas, a IA tem que gerar resultado.
+Então, olha que interessante. São três
+quartos e todos são suits. Olha aqui um
+deles, cara. Tem vídeo? Tem algum vídeo?
+Então isso daqui foi criado com uma
+linha de código que mas ah, você tem,
+como que você criou esses blocos? Aí é
+um ponto importante. Eu sou técnico, a
+gente tem um time técnico aqui para
+auxiliar e fazer a criação desses
+blocos, mas no final das contas é um
+código, um código feito por
+desenvolvedores. E a gente treinou a IA
+para que ela soubesse usar aqueles
+padrões de encaixar os blocos. Para
+ficar mais fácil, é como se nós fôssemos
+uma fábrica de peças de Lego e você vai
+aprender a montar este Lego, só que em
+vez de você ler o manual, esse manual
+está na nossa inteligência artificial e
+você vai ter acesso a isso. Kelvin, o
+que que você diz sobre o software em
+geral? O que eu tô vendo, o que eu
+percebo é o seguinte, que cada vez mais
+e a gente vai trabalhar com o conceito
+de não ter mais tela, porque se o agente
+de A está respondendo e está fazendo,
+ele está executando, não tem porque você
+ver. Você só precisa pedir e acompanhar,
+mas você não precisa preencher os
+campozinhos. Então eu acho que tá todo
+mundo caminhando para isso aqui, cara.
+Eu acho que esse é um conceito muito
+forte. Isso tá gerando muito resultado.
+Isso funciona de forma real e efetiva. E
+é assustador. É assustador o que dá para
+fazer hoje. Qual que é a forma da gente
+estender isso? Isso para quem é técnico
+é mais fácil fazer se tiver esse
+conhecimento. Inclusive na programação a
+gente tem esses conceitos que são
+conceitos modulares de extensão de
+software. É levar isso pra IA, pro
+software que a IA gera, pr pra parte do
+código que a IA gera junto com a LLM.
+Isso aqui é um caso, mas você através
+disso você pode criar, ou melhor, você
+pode evoluir isso daqui, ó, para algo
+como isso, uma plataforma inteira para
+criação de você ter a sua própria
+plataforma. É por isso que as empresas
+de software, as grandes bigtecch de SAS,
+elas estão derretendo o dinheiro, porque
+é isso aqui que vai acontecer. Vou dar
+um exemplo aqui, ó. Aqui eu tenho o da
+Acelera 360, que tem um cérebro do
+cliente,
+uma importação de contatos e conversas
+que tá conectada
+com o nosso CRM. Então, as conversas
+aqui, ó, eu consigo visualizar todas as
+conversas que elas já estão conectadas
+diretamente ali com o CRM. Você pode ter
+n canais de conexão, você pode ter
+skills, você pode, por exemplo, conectar
+os teus agentes com o stripe, meio de
+pagamento, emissão de nota fiscal,
+calendário, eh, Go High Level, Hubspot,
+Pipe Drive, e você colocar agentes para
+operar tudo isso daqui para você de uma
+forma que seja 24x7, que gere resultado
+pra tua operação, que gere realmente
+resultado real pra tua operação. Então,
+olha que interessante, você pode ir do
+mais simples, a partir do momento que
+você entende como monto o Lego, você
+pode ir da montagem mais simples para
+montagem mais complexa.
+É simples assim, é muito fácil. E com a
+IA, esse é o grande conceito. Então, o
+conceito principal hoje é nós, para onde
+a gente tá indo, a gente tá montando os
+bloquinhos. A gente tá treinando a IA
+para saber encaixar esses bloquinhos,
+para que os nossos clientes, nossos
+parceiros possam usar esses bloquinhos
+para criar a empresa que eles sempre
+quiseram ter ou para implantar isso em
+outras empresas facilitando a entrega
+deles. Resumidamente, é isso. Então,
+esse é o conceito de vibe building e
+esse é o conceito que eu estou usando
+aqui hoje para operar com inteligência
+artificial. A gente tem muito código,
+sim, tem muito código, só que esse
+código ele é abstraído, ele fica em
+caixinhas, em quadradinhos que podem ser
+100% utilizados. Fechou? Esse vídeo foi
+sobre isso, apresentar esse conceito
+para vocês. Espero que você tenha
+entendido. Mais uma vez te convido para
+conhecer a Celera 360. Clica no link
+aqui da descrição desse vídeo e venha
+nos conhecer. Estamos vivendo uma nova
+economia. Essa é a melhor hora possível
+para você transformar o teu negócio,
+transformar aí você que é empreendedor,
+você que é empresário, porque a onda
+ainda não arrebentou. Tá na crista da
+onda. Vamos com tudo. Tchau para vocês.

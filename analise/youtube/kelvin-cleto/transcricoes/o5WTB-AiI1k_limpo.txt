@@ -1,0 +1,533 @@
+bora empreender galera vamos né galera
+seguinte ó hoje é uma aula sobre vendas
+Sabe por que é sobre vendas porque o que
+que eu comecei a
+perceber você até tem a ideia de tirar
+algo do Papel você sabe codar você sabe
+programar ou desenvolve usando low code
+inclusive no code por aí vai você hoje
+já é factível você Endo programar ou não
+desenvolver uma solução que realmente
+resolva uma dor mas as pessoas T
+dificuldades em primeiro quanto que eu
+cobro por isso que eu desenvolvi Então
+essa é a primeira coisa que as pessoas
+têm dificuldade em saber o preço daquilo
+e a segunda coisa é como que eu vendo
+saca Então é isso que eu vou mostrar
+para vocês
+Hum vamos falar de
+vendas vou compartilhar minha tela com
+vocês aqui
+Então esse daqui é o ponto que as
+pessoas têm mais dificuldade
+ó deixa eu colocar aqui ó primeiro ponto
+projeção Financeira em saber como
+precificar e na
+validação porque a validação de uma
+ideia ela vem aqui ó a melhor validação
+é quando você vende e deixa eu te contar
+eu aconselho você igual eu explico pros
+meus alunos na escola do Dev
+empreendedor a vender mesmo sem ter
+desenvolvido kvin como é possível você
+vender algo que não tá pronto eu vou
+explicar para vocês já já mas vamos lá
+então aqui ó na validação antes de
+desenvolver validação antes de
+desenvolver a gente vai vender Então
+você tem vários jeitos você pode vender
+usando tráfego pago rodar campanha e
+tudo mais você pode por exemplo validar
+também considerando uma pesquisa de
+mercado Eu particularmente não gosto
+muito analisando concorrente eu gosto
+mais do da venda da venda tá como que
+vende Eu tenho um Framework aqui ó tudo
+sobre vendas eu não vou mostrar tudo
+para vocês mas eu vou entrar nessa parte
+aqui ó Então imagina o
+seguinte como que a gente vai
+vender como vender algo na validação o
+melhor modelo é
+prospecção ativa prospecção ativa então
+A ideia é que você prospecte o seu
+cliente ideal Kelvin o que que é o meu
+cliente ideal eu vou explicar para vocês
+dando o exemplo do Dev empreendedor ou
+da escola do Dev empreendedor então para
+quem me acompanha sabe o que que é a
+escola do Dev empreendedor para você que
+não me acompanha eu montei uma escola
+para ensinar programadores a empreender
+para ajudar você a tirar sua ideia do
+papel para ajudar na verdade não é não é
+só deve né o nome tá nichado é porque tá
+muito nichado pra Dev mas pode ser para
+qualquer pessoa da área de tecnologia
+mas eu niche pra Dev Esse é um primeiro
+segredo nicha você nicha tá vendo ó
+então e aí eu escrevi por exemplo o meu
+cliente ideal Quem que é o cliente ideal
+do kelv o João de 30 anos deve pleno que
+ganha ali uns 12.000 por mês ele odeia o
+gestor dele ele sempre teve ideias mas
+nunca tirou do papel já tentou lançar
+algo sozinho e não conseguiu vender ele
+tem um fogo interno de provar que
+consegue de falar cara eu consigo
+empreender ele acompanha conteúdo de
+negócio Segue o primo rico conhece um
+pouco de marketing mas falta clareza O
+João tá num momento de virada de chave
+ele quer mais e está buscando uma rota
+prática sem balela de como transformar a
+sua ideia em um produto ele não quer
+mais ser só deve ele quer ser dono esse
+aqui é o meu cliente ideal é o meu
+cliente dos sonhos é o João tá vendo que
+eu especifiquei ele completamente como
+eu fiz isso tem um Framework para você
+fazer isso ou você pode pesquisar na
+internet por ICP que é você desenhar o
+perfil do seu cliente ideal saca mas é
+muito importante você saber quem é a
+pessoa que vai comprar a sua ideia quem
+que é a pessoa que vai clicar no botão e
+comprar ou te responder falando assim
+cara eu quero saber sobre isso e o
+melhor caminho para você validar uma
+ideia então você teve a ideia ideia Você
+já estudou o seu nicho você definiu o
+seu nicho vamos supor que é um chatbot
+para médicos Esse é o seu produto certo
+a ideia da bolante que você teve você
+foi lá montou uma Landing Page para essa
+sua ideia você fez o básico fez um
+chatbot me kref só para você falar que
+já tem o produto para lançar desenvolver
+esse chatbot usando o n8n mesmo não tem
+problema fez uma Landing page
+maravilhosa resolvendo a dor do seu
+cliente vendendo vendendo a solução pros
+atendimentos e você não tá vendendo
+chatbot você tá vendendo algo que vai
+agilizar o processo do médico ou da
+clínica médica não tenha mais problemas
+com atendentes Ah você pode ter um
+atendimento 24 por7 que vai trabalhar
+para você e não vai te colocar no pau
+não vai te processar alguém que vai
+trabalhar sempre feliz é isso que você
+vende a solução você Já desenhou tudo
+isso aí chegou a hora de prospectar
+Então você já tem até o perfil da pessoa
+que vai comprar quem vai comprar de Você
+é médico então quem que você vai ter que
+achar no seu Instagram médicos entendeu
+Então imagina o seguinte ã eu vou
+acessar o meu Instagram
+aqui Vamos pesquisar vou vou escrever
+aqui médico e vamos procurar pessoas que
+são médicos que são os possíveis
+compradores ó já detectei um ponto
+Doutor geralmente coloca Dr ponto então
+eu vou fazer isso Dr ponto e vou
+pesquisar
+um monte de gente ó tá tá você vai
+fazendo isso aqui ó tá tá tá tá vendo ó
+ginecologista Vai pesquisando você vai
+abrir essa galera toda aqui no seu
+Instagram e vai olhar e ver se esse cara
+que você tá vendo aqui por exemplo Dr
+walid nabil ele é ele é o
+seu João ele é o seu João se ele for o
+seu João se ele tiver as características
+do seu João do se
+cliente perfeito você vai seguir o
+roteiro da prospecção Kelvin Como que eu
+faço isso então vamos lá eu coloquei
+aqui alguns canais Instagram LinkedIn
+WhatsApp direto ou ligação ou
+e-mail entra Pesquisa o cara no Google
+doctoralia por exemplo que é um bom
+canal tem todos os e-mails de médico lá
+você sabe onde tá sua galera o do seu
+nicho e você vai seguir abordando eles
+então por exemplo ó uma como que é essa
+abordagem por exemplo para
+soluções para profissionais liberais no
+meu caso médico meu chatbot para
+atendimento médico Qual que é a primeira
+mensagem que eu vou mandar fala Fulano
+tudo bem aqui não é Fulano né você
+substituir pelo nome do cara eu tô
+fazendo algumas eh eu tô falando com
+algumas pessoas do segmento
+médico para entender o problema que eu
+tô tentando resolver eu posso te fazer
+uma pergunta rápida Eu não tentei vender
+aqui eu tô tentando atrair a atenção
+dessa pessoa para ela me
+responder esse é o segredo você não
+tenta abordar falando assim fala Fulano
+tudo bem Eu desenvolvi um chatbot assim
+assim assado que resolve isso isso isso
+isso isso isso e custa tanto tem
+interesse não é assim que se faz
+prospecção tem que ter paciência você
+vai chamar 100 pessoas fazendo essa esse
+script você pode criar variações desse
+script mas o conceito é esse você criar
+uma abertura
+Inicial O cara te respondeu respondeu
+você vai atacar uma dor não vai falar do
+seu chatbot ainda me responde uma coisa
+a minha dúvida é responder clientes no
+WhatsApp sobre eh horário de atendimento
+médico sobre que especialidade que você
+atua toma tempo seu ou da sua assistente
+como que é isso isso te atrapalha no seu
+dia a dia sacou que eu já bati numa dor
+que eu já mapeei você tem que mapear as
+dores né aqui no meu Framework eu deixo
+claro ó rotinas dolorosas você mapear
+quais são as dores que aquela pessoa que
+você tá resolvendo a dor tem no dia a
+dia porque a gente vai usar isso aqui
+nessa hora de você fazer a prospecção
+entendeu E é uma prospecção para validar
+então a gente tá a gente tá usando isso
+aqui primeira coisa é para saber se
+aquela pessoa compraria a minha ideia o
+meu produto entendeu a ideia aqui
+realmente é você vender você ter
+clientes você na verdade não precisa
+vender do dinheiro que é na tua conta
+mas pode ter a primeira intenção de
+compra que é tipo assim cara me manda
+uma proposta sobre isso quero entender
+mais entendeu Aí a segunda é o cara
+respondeu aqui já começou a criar um
+diálogo entendeu Se existisse um sistema
+que automatiz isso para você pelo
+WhatsApp mesmo pelo seu próprio WhatsApp
+resolveria o problema que que você acha
+olha olha não falamos de preço não
+falamos você não apresentou a sua
+proposta nem nada você tá criando a
+conversa sacou é esse que é o ponto ah
+Kelvin Mas e se ele vier como objeção
+você já tem que ter primeiro que você já
+tem que ter mapeada as suas objeções por
+as pessoas vem com objeção porque elas
+têm crenças então por exemplo o que que
+são as crenças dela é o que ela já
+tentou E não funcionou ou o que ela
+realmente acredita por exemplo cara eu
+não acho que a vai funcionar para mim eu
+já tentei outras soluções e nenhuma eu
+tive resultado eu acho a isso
+complicado demais o custo é muito alto
+tô cansado de promessa por exemplo as
+objeções do da escola do Dev
+empreendedor Cara eu tô cansado de curso
+Eh cara Eu geralmente faço curso me
+ensinam só a criar o software Mas eu
+ainda não sei como tirar do Papel mesmo
+vender entendeu Putz eu não sei eu não
+eh eu nunca vi uma escola que fizesse
+isso por que que a sua vai resolver o
+meu problema ah eu não tô no momento
+agora eu ainda tenho que aprender mais a
+parte técnica Então eu tenho por exemplo
+as minhas objeções muito bem definidas
+por quê Porque essas objeções são
+crenças que a pessoa constrói os
+vendedor de curso acabou com rolê eu
+cheguei tarde demais arrancaram todo o
+dinheiro do mercado aí agora eu tenho
+que vir aqui entregar conteúdo
+verdadeiro para você acreditar em
+mim tá vendo que eu tô eu tô tentando te
+vender sem vender a escola é isso que
+você tem que fazer sacou inclusive se
+você ficou interessado saber da escola
+do Dev empreendedor
+O link tá na descrição desse vídeo mas
+vamos lá deixa eu entregar um conteúdo
+de valor para vocês PR vocês ver que Eu
+manjo de verdade cara eu não que não é
+aqui não é fantasia não aqui é vida
+real mandou a mensagem três Ó quanto
+você pagaria por algo assim respondeu já
+evoluiu a conversa quanto você pagaria
+por algo assim aqui eu tô na etapa da
+validação tá ó não tenho preço não tenho
+nada mas eu já tô perguntando para ele
+quanto você acha que vale eu tô
+validando uma ideia e pensando em cobrar
+97 por mês que que você acha você
+entendeu que evoluiu a conversa e aqui
+qual que é a ideia você pegar esse cara
+e marcar uma macal com ele por quê
+Porque você tá na etapa da validação
+você precisa entender se o que você
+resolve realmente a dor daquele cliente
+por isso que não faz sentido você ter a
+ideia e fazer o que todo mundo faz que é
+o seguinte ó O que todo mundo faz é isso
+aqui ó se meses
+desenvolvendo
+desenvolvendo e criando o produto
+perfeito por quê Porque se você fizer
+isso às vezes esse produto perfeito na
+tua cabeça não é o que o cliente aqui
+vai comprar tem um outro ponto seis
+meses fazendo algo aí tem o outro ponto
+custo custo de infraestrutura e tem o
+maior dos problemas o maior dos
+problemas é esse aqui ó ó o maior dos
+problemas é esse aqui ó
+perfeccionismo a sua ideia tem que tá
+perfeita tem que tá com a Landing page
+perfeita tem que tá com tudo perfeito
+cara não é assim não é assim é
+simplesmente faz lança igual eu fiz aqui
+e vende e vê se alguém compra E aí
+quando compra você vai lá e estrutura e
+aí você entrega você refina você faz
+algo realmente entendeu ó por
+exemplo eu já tenho uma estrutura já
+montada mas cara isso aqui tá sendo
+construído não não tá tem nada pronto
+ainda saca por exemplo eu coloquei aqui
+mesa de ideias pra gente pro pessoal
+começar a criar ideias e quem não tem
+ideia fazer mesa de negócio para
+negociar Dev Labs projetos prontos aqui
+para ajudar a galera a sair do zero
+entendeu eventos ao vivo eu tô dando
+aulas ao vivo por que que eu tô dando
+aula ao vivo porque eu ainda não
+construí o curso completo Mas você acha
+que eu vou gravar todo o conteúdo e
+fazer algo que eu nem sei se vai vender
+não não tem lógica só que agora já vendi
+né então é esse o ponto olha aqui quanto
+você pagaria por algo assim valida o
+preço vê se alguém compra a ideia aqui é
+você ter um negócio chamado
+ó intenção de compra você tem que gerar
+intenção de compra entendeu como que eu
+Gero uma intenção de compra ó como que
+eu sei que a pessoa tá interessada ó o
+cara fala assim legal isso hein legal
+isso hein pode me ajudar me explica
+mais outro tipo de ção de compra que
+pode ter aqui por exemplo Quanto custa o
+cara tá interessado Ele quer saber o
+preço outra intenção de compra
+Ah mas faz tal
+coisa outra intenção de compra é isso
+aqui é o motivador que você precisa para
+você cair para dentro de execução e
+processar para você avançar para essa
+etapa aqui ó deixa eu deletar isso aqui
+senão eu vou esquecer de deletar
+depois depo depois para você vir para cá
+aí depois que você validou aí sim você
+continua a execução você faz o
+refinamento começa a estudar os seus
+primeiros clientes porque a ideia é que
+você Ten o seu primeiro cliente que vai
+ser o ke user é o seu cliente chave é o
+cara que vai usar o seu sistema e vai te
+dar input você vai est do lado dele você
+vi aqui fazero um refinamento do lado do
+seu cliente você não constrói o produto
+para você você constrói o produto com o
+cliente o produto é junto com o cliente
+esse que é o segredo entendeu para você
+não se perder Nos seus devaneios mentais
+Ahí se for uma empresa aqui ó aí é a
+mesma coisa só que olha aqui como que é
+é mais formal Olá Fulano tudo bem E
+outra se você tá abordando empresa o
+link o Instagram não é muito bom o
+melhor é e-mail ou LinkedIn LinkedIn é
+bom demais só que não vai fazer uns
+LinkedIn vagabundo XX lento né tem que
+ser algo profissional por exemplo vou
+dar um exemplo aqui para vocês só que
+cara eu vou ter que mostrar eu não
+vou mostrar nome Pera aí eu vou arrastar
+paraa outra página aqui para não mostrar
+nemhum nome qual que é a
+chance de eu responder uma mensagem
+igual a essa daqui
+ó deixa eu ver se eu
+não não exponho ninguém para não tomar
+nenhum
+processo que ultimamente tudo dá
+processo
+ah copia pera aí gente sou estagiário
+aqui aqui
+ó Olá kelv tudo bem obrigado por me
+aceitar hoje enfrentamos um grande
+desafio com o déficit de profissionais
+na área de TI aí Aqui um ifem gigante
+isso aqui já dá para ver que é chat PT
+está realmente difícil encontrar bons
+talentos como você tem lidado com essa
+questão Já compartilhei o nome
+da empresa
+agora mas aí fal assim ó nós podemos te
+ajudar com soluções sobre medida assim
+assim assado saca que não não gerou
+conexão nenhuma não gerou interesse
+nenhum meu de responder porque eu tô
+vendo que é uma venda eu já já me
+afastou ele poderia ter usado uma
+abordagem diferente saca ele poderia ter
+querido tentar entender falar assim cara
+eu tô meu nome é ó eu até escrevi um um
+um matador aqui oi Fulano tudo bem muito
+prazer meu nome é ciclano e eu sou cou
+da empresa tal uma tal coisa uma empresa
+focada em desenvolver tecnologia para o
+segmento tal eu tô empenhado em trazer
+inovação para esse segmento e fazer a
+empresa fe esse Setor P pá e a sua
+perspectiva seria essencial nessa
+jornada seria valioso entender
+diretamente com um líder como você como
+enxerga a importância os desafios e as
+expectativas futuras de tau área você
+tem disponibilidade para bater um papo
+comigo porque eu quero te ouvir Eu quero
+ouvir alguém de mercado para acertar o
+meu produto eu capturei uma
+de cliente fazendo isso no
+Linkedin entendeu olha como é uma
+abordagem mais humana não é chat PT
+entendeu Mas voltando aqui ó vamos lá PR
+empresa Olá Fulano tudo bem Estou
+conversando com algumas empresas do seu
+setor para entender como estão lidando
+com o problema tal você tem esse
+problema aí poderia me contar como que
+você lida com isso ou melhor você
+poderia até alterar Como que você faz
+esse processo Será que você pode tem 5
+minutos para conversar comigo porque eu
+quero entender cara eu tô desenvolvendo
+um produto para resolver e eu tô fazendo
+uma pesquisa de mercado eu quero
+conhecer e saber como você lida com isso
+se você já tem uma solução para isso se
+você tiver uma solução para isso me
+apresenta também saca que é uma
+abordagem de não de ela é interessante
+ela não é interesseira essa que eu rolê
+aí a segunda mensagem eu tô criando uma
+solução que faz tal coisa ainda eu tô na
+fase de validação da minha ideia mas se
+essa solução entregasse Este resultado
+aqui te
+ajudaria olha olha aqui olha aqui
+entendeu Você tá estudando mercado é
+diferente exemplo real eu estou criando
+um chatbot que automatiza o atendimento
+de clientes e WhatsApp em teste tem
+reduzidos tempo de resposta em 80% se
+algo assim resolvesse esse gargalo
+Valeria investir é sim ou não uma
+solução como essa gerando Este resultado
+quanto que você acredita que seria justo
+investir por investir por mês essa essa
+última parte aqui eu Tiraria eu acho mas
+é é bom é bom é bom para estudar é bom
+porque aqui você valid do seu
+preço se o cara te pedir mais informação
+você vai oferecer para ele um piloto
+controlado que que significa isso cara
+beleza Que bom que você ficou
+interessado Vamos marcar uma Call aí na
+Call você faz o seguinte explica para
+ele a situação e fala ó você usaria
+vamos vamos vamos fazer um piloto e ó
+deixa eu te falar um piloto de dois
+meses durante dois meses você vai usar
+minha ferramenta depois de dois meses
+você vai me pagar tanto por mês só se eu
+entregar aquilo que eu tô falando para
+você ok olha olha isso gente é gol na
+certa é gol na certa Ah é gol com todo
+mundo não não faz gol todo mundo
+você tem que chutar 100 vezes no Gol
+para você fazer uns 10 gols mas é assim
+que funciona entendeu é assim que
+funciona É assim que você consegue fazer
+essa etapa de validação sem desenvolver
+entendeu ah e tráfego paga cara tráfego
+paga é uma máquina de dinheiro tem que
+ver se vale eu particularmente não eu
+não tô usando pra escola Dev
+empreendedor não tô não vale a pena para
+mim porque é um ralo de dinheiro só
+funciona pro Sobral em partes o tráfego
+pago só funciona com estratégia bem
+feita e produto definido senão não
+funciona e produto digital funciona até
+um pouco mais tem que ter uma LP bacana
+tem que ter um um um um criativo bacana
+tem que ter uma proposta Clara entendeu
+pra validação de uma ideia não funciona
+não funciona jogar dinheiro fora
+entendeu entendeu Espero que você tenha
+entendido Tentei ser o mais suscinto
+possível ó Putz deu 20 minutos não dava
+para ser menos que isso porque é um
+assunto um pouco mais denso mas tudo
+isso aqui é estudávamos
+esse livro aqui ó esse livro Porque é
+importante Ah não esse aqui não não
+acho compro os três os três são
+bom os três a coletan A trilogia do
+Russell brunson Os Segredos dos experts
+o segredo do tráfego e os Segredos do.
+comom das empresas.com Por que que esses
+livros são interessantes para isso eu eu
+acabei de falar porque porque tudo isso
+aqui é marketing é venda tudo isso aqui
+é como você é pr você aprender a
+entender sobre uma pessoa sobre o
+comportamento de compra porque o que
+acontece é que eu não vou abrir todo o
+conteúdo para vocês aqui porque vocês
+não estão na escola do Dev empreendedor
+por causa disso porque lá eu ensinei
+tudo vocês tem que entender Por que as
+pessoas compram de quem as pessoas
+compram E como que você cria uma
+estrutura de credibilidade para você
+vender para você potencializar sua venda
+entendeu entendeu quer saber mais sobre
+a escola do Dev empreendedor já vou te
+vender clica no link cai para dentro do
+vídeo onde eu explico essa minha escola
+esse meu projeto se fizer sentido para
+você não perde tempo cai para dentro Vai
+ser um prazer ter você lá porque eu vou
+te ajudar muito vou tirar você do chão
+eu vou ajudar você a tirar essa ideia
+que tá travada aí e lançar essa parada
+Ah mas eu preciso evoluir mais
+Tecnicamente para com essa merda não tem
+nada a ver com isso não tem nada a ver
+com isso tem nada a ver com código não
+tem nada a ver com criar o sistema tem a
+ver com vender uma ideia beleza Valeu
+galera um abraço tchau vocês Falou seus
+cachorros

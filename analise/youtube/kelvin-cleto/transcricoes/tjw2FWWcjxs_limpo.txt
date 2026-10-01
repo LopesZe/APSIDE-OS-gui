@@ -1,0 +1,613 @@
+Fala galera, ó, meu primeiro build em
+public. P public, public, não sei. Ó,
+esse vídeo aqui eu tô feliz, sabe? Por
+tô dando risada antes de começar o
+vídeo. Eu vou mostrar para vocês o que
+eu tô desenvolvendo. Cara, eu tô
+chegando num resultado absurdo e eu
+ainda gosto muito de programar e de
+criar. E, caraca, cara, tá com o cloud
+tá mais fácil. Eu vou mostrar a
+infraestrutura que eu tô criando aqui
+dentro da Acelera 360 para distribuir
+pros parceiros da Acelera. E eu aceito
+suas críticas, a sua crítica, tá? aí o
+seu comentário, fala: "Pô, cara, dá para
+ser assim, dá para ser assado?" Eu vou
+mostrar para vocês aqui o conceito de
+building blocks que eu tô criando. Eh,
+ele usa muito microsserviço,
+microfrontend. Eh, cara, nossa,
+antigamente isso aqui era muito difícil
+de fazer. Nossa, vocês não tem noção.
+Para quem não é técnico, talvez não
+tenha ideia da complexidade, mas criar
+um sistema distribuído é complexo. Mas
+tá muito fácil.
+Estamos vivendo novos tempos, hein? Bora
+começar esse vídeo. Ah, para você que
+não me conhece, muito prazer. Meu nome é
+Kelvin. Eu tenho uma empresa de
+tecnologia chamada KCG Group. Tô à
+frente da Acelera 360. Acelera é um
+ecossistema feito para empreendedores e
+empresários. Aqui a gente tem soluções
+pré-fabricadas, eh cursos de formações
+de de tecnologia de como você
+desenvolver em IA, como você usa o
+OpenCloud, como você usa um monte de
+coisa. Só que nada muito técnico. É
+técnico, não é técnico. É porque a gente
+tá vivendo um momento louco. Eu nem sei
+mais o que que é ser técnico ou não. Mas
+bora começar esse vídeo, gente. Deixa eu
+compartilhar minha tela com vocês.
+Inclusive, eu tô desenvolvendo aqui, mas
+deixa eu que esse aqui não é o foco do
+vídeo. Deixa eu explicar o grande
+conceito e aí eu vou mostrar o desenho
+para ir eh e eh eh como que eu posso
+dizer? Eh tangibilizando para vocês, tá?
+Então vamos lá. A gente tem um ponto que
+é o seguinte.
+A galera que entrava aqui na Acelera no
+começo
+fala assim: "Pô, cara, eu quero
+empreender, eu quero criar as coisas". O
+Dev que entrava anteriormente fala
+assim: "Pô, eu quero, eu quero
+empreender." O Dev, ele tinha um
+problema, ele sabe fazer, ele sabe
+fazer. Opa. O dev, o dev, ele sabe
+fazer, ele sabe fazer, mas ele não sabe
+vender, ele não sabe vender, ele não
+sabe vender. Então, basicamente, no
+começo da acelera, a gente não ensinava
+a fazer porque isso aqui ele sabe fazer,
+mas a gente ensinava ele a vender.
+Então, porque isso aqui ele não sabe
+fazer, ele não sabia vender. Então, o
+começo da acelera foi esse. Só que no
+processo de transição, a gente começou a
+atingir o empreendedor. Quem que é o
+empreendedor? É o cara que já tá
+fazendo. Ou o dono operador. Vou colocar
+dois perfis aqui. O dono operador. O que
+que é o empreendedor ou o dono operador?
+Esse cara aqui, ele tá sendo impactado
+pelo lovable, faça você mesmo sozinho. E
+a gente sabe que não é muito bem assim.
+Esse cara aqui é o cara que tá estudando
+cloud, cloud code, desenvolvimento,
+desenvolvimento N8N e várias outras
+coisas aqui. Só que ele não consegue
+criar. Ele não consegue, ele não sabe
+criar. Por quê? Porque falta muita base
+técnica para ele ainda. E o que que ele
+e o que ele consegue fazer é, cara, dois
+quagésimos do que realmente precisa ser
+feito. Falta segurança da informação,
+falta de eh eh falta complice, falta
+auditabilidade, falta escalabilidade,
+falta interoperabilidade e coisas que,
+cara, no final das contas ainda é
+preciso para criar uma boa solução, tá?
+Uma boa solução. Só que esse cara aqui
+sabe vender, olha que interessante, ele
+sabe vender. Esse cara aqui vende bem
+demais. E por quê? Porque ele já ele já
+entendeu, ele já rompeu aquela questão
+de, pô, cara, como que eu faço, como que
+eu vendo? Ele já rompeu isso, ele sabe
+que as pessoas pagam, ele sabe que tem
+demanda, ele sabe tudo isso. Só que
+quando ele vende e não entrega, o que
+que acontece? Ele quebra. E aqui nesse
+nesse mundo aqui do empreendedor e do
+dono operador, tem o eu empresário, tem
+o dono da agência de marketing, tem o
+gestor de tráfego, tem o dono da clínica
+médica. Cara, tem uma cacetada de de
+gente que se enquadra aqui, é o
+empreendedor e dono operador. 22% desse
+público aqui são agências de marketing,
+né, que entram aqui na celebra. E aí a
+gente começou um novo momento que é, pô,
+vamos construir, vamos entregar aqui
+para este cara o quê? A gente vai
+entregar a formação. Que que é que que é
+a formação? Formação é velho, vou te
+ensinar lá o cloud code, vou te ensinar
+a programar. Programar não, vou te
+ensinar a prtar direito e eu vou te
+entregar soluções. O que que é essas
+soluções aqui? É o N8N, é o agente do
+N8N, cara. Não é porque, não
+consigo fazer isso, velho. Eu não
+consigo só vender o agente do N8N. Eu
+não consigo vender só skill. Por quê?
+Porque só isso aqui é muito pouco. Só
+isso aqui é muito pouco, cara. Dá
+resultado? dá resultado, mas é muito
+pouco. Não dá para fazer um negócio
+grande com isso. Soluções das das da
+empresa ali que ela tá fazendo tem que
+permitir com que ela escale, com que ela
+cresça. A gente não sabe o dia de
+amanhã, velho. A gente não sabe se o
+negócio vai explodir ou não. E pensando
+nisso, eu falei: "Velho, já sei como,
+olha, olha, olha o que eu tinha que
+responder, na verdade. Como que eu crio
+crio soluções? Como que eu crio soluções
+que sejam soluções escaláveis,
+robustas
+e que permitam a evolução
+e que quem vai mexer nessa solução não é
+o programador. Não é o programador. Quem
+vai mexer nessa solução é o é o
+empresário, cara. como o empresário que
+tem o perfil de dono operador, que é
+diferente, porque o empresário
+empresário, esse cara aí tá procurando
+gestão, cultura, liderança, tá atrás de
+Thales Gomes, tá atrás disso, daquilo,
+aquilo outro. Esse cara aí não é o meu
+verdadeiro perfil. Esse cara aí ele vem,
+quando ele vem, ele vem lá na minha
+consultoria de software. É outro perfil.
+Esse perfil do empresário aí é o cara
+que é o don't for you. Ele me me paga
+para fazer para ele e ele quer o negócio
+rodando. Só que tem outros dois perfis
+que é a maioria dos perfis que é o Do
+Itelf, que é o cara que só entra para
+aprender e faz ele mesmo. E tem o cara
+que quer faz, quer que a gente acompanhe
+ele a fazendo, que é o Don F, que é a
+maior parcela das pessoas. E aí eu
+fiquei pensando, falei: "Cara, como?
+Porque tem muita parte técnica que não
+dá para abstrair". E aí surgiu o grande
+conceito adaptado dos building blocks.
+Cara, o que que é isso aqui? Falei:
+"Porra, já sei, velho. Eu vou criar
+peças de Lego. Então, eu, eu não, eu
+pessoa física, né? Eu também, mas meu
+time aqui, a gente vai ser os
+fabricantes dos pedaços. A gente vai
+fabricar peças de Lego e a gente vai
+montar skills no cloud para e sabem
+montar essas peças de Lego aqui. E aí a
+pessoa que entrar na acelera, o
+parceiro, ela consegue pegar essas
+peças. Ela pega as peças
+que ela quer para resolver o problema
+dela.
+E aí sim, cara, olha que maravilhoso,
+ela monta, em vez dela criar, ela monta,
+ela encaixa. E aí ela e a gente ensina
+ela também a modificar.
+Como que a gente ensina? com as
+formações. Então é muito mais fácil a
+pessoa modificar, porque aí eu consigo
+travar as possibilidades de dar errado
+do que ensinar ela criar do zero.
+Ensinar criado zero é extremamente
+complexo e aí precisa de um
+autoconhecimento de desenvolvimento de
+software, não só de desenvolvimento, de
+arquitetura. E é difícil, cara, é
+difícil. E aí surgiu os building blocks.
+E agora vou mostrar isso aqui para
+vocês, porque tá muito bonito,
+velho. Tá muito bonito. Caraca, tá lindo
+isso aqui. Olha que doido. Ó, esse vídeo
+merece ser compartilhado, hein, cara,
+porque tá bonito. Você tá dando trabalho
+para para fazer. Então, vamos lá.
+Vamos, vamos explicar os building
+blocks. Antes disso, de explicar os
+building blocks, eu vou ter que explicar
+o conceito. Vamos pensar num sistema. O
+que que você tem? Você tem lá o login e
+a senha, certo? Então, o nome disso é
+autenticação/autorização.
+Que que é autenticação e autorização?
+Autenticação é o login, usuário, senha,
+CPF, senha, qualquer merda. E
+autorização. Este usuário pode fazer
+isso, pode fazer aquilo. Legal. Que que
+o que que todo o sistema tem também,
+cara? tem o pil de arquivo, o padquivos
+e gestão desses arquivos. Que que todo
+sistema tem, cara? Se eu tô criando um
+sistema para uma empresa, provavelmente
+aquela empresa tem um catálogo de
+produtos ou serviços. Cara, toda empresa
+tem isso. Qual que é o seu produto? Qual
+que é o seu serviço? Qual que é o preço
+dele? Que que toda empresa tem hoje?
+Toda empresa tem a parte do atendimento.
+Toda a empresa tem a parte do
+atendimento, do WhatsApp, do que tá
+conectado no CRM, do Instagram e por aí
+vai. Que mais que toda empresa tem,
+cara? Toda empresa tem processos barra
+gestão de processos. Olha que loucura
+isso aqui, gente. E para cada bloquinho
+desse aqui, geralmente a gente tem até
+sistemas para isso, pô. Você vai colocar
+processo, tem o Clickup, você tem o
+Wi-Fi, você tem qualquer outra coisa,
+não interessa. Várias ferramentas de
+processo. Você tem também aqui no
+WhatsApp, você tem o Zapi que conecta no
+WhatsApp, você tem canal Multital, você
+multitantet não, multi multi eh eh
+conexão, multicanais, você tem várias
+coisas prontas já na internet. ou você
+pode ser openers ou você pode contratar
+catálogo de produto, serviço, a mesma
+coisa. O pilúde, a mesma coisa. Então
+assim, olha que louco. Cada pedaço desse
+aqui, ele é um building block, é um
+bloco. Ele é um bloco, entendeu? É um
+bloco que eu tô criando pré-fabricado. O
+que mais que tem aqui? Agentes de A.
+Agentes de IA. E aí que é maravilhoso,
+porque esses agentes de A, ele é um
+bloco central, é um bloco da
+arquitetura. O que que significa isso?
+Deixa eu colocar aqui. Vou colocar aqui
+a gente de A. Depois eu coloco. Mas ele
+é um bloco que permeia tudo. E isso aqui
+tudo vou agrupar aqui. Eita.
+Eh, arranja no create pr. Isso aqui tudo
+é a nossa infraestrutura pronta.
+Aí tem o CRM também, cara. O CRM eu não
+vou desenvolver que dá muito trabalho.
+CRM bom mesmo. Aí aqui a gente pode usar
+o GHL, tá pronto, mas ele tá integrado
+com todos esses bracinhos aqui. Que mais
+que um outro sistema tem, cara? O
+sistema tem que se integrar com outros
+sistemas. Então ele tem o quê? APIs,
+APIs/webhooks.
+Isso aqui é uma estrutura de um sistema
+de um sistema grande, sistema
+robusto. E o que que mais que ele tem em
+comum? Aí aqui tem outras coisas,
+arquitetura, fila, mensageria,
+distribuição, um monte de outras coisas
+que é irrelevante, é irrelevante para
+esse processo. E aí eu comecei a
+desenhar ele e comecei a prototipar e
+principalmente a a deixar as peças
+pré-fabricadas, né? Deixa eu pegar elas
+aqui para vocês verem. Cara, tá muito
+lindo isso aqui, velho. Ó, fala para
+você, velho. Tá bonito. Tá bonito.
+Então, vou pegar aqui. Vamos começar
+pelo sistema de autenticação.
+Então, vamos lá. Vamos começar pelos
+protótipos, né? Pelos protótipos.
+Legal. Sistema de autenticação, cara.
+Cada um coloca o seu nome, cada um
+coloca a sua logo. Tem o o meu o meu
+parceiro vai ter o próprio sistema dele.
+Todo tudo multitenant. Que que é
+multitenant? Multitenant, deixa eu
+explicar, faltou esse conceito. Que que
+é multitenant? Então, a premissa aqui,
+ó, é ser multitalenant.
+Multitenant nada mais é do que ter
+inquilinos. Então, eu tenho uma
+aplicação um aqui, onde você, por
+exemplo, que tá me assistindo aí é dono
+dessa aplicação. Ela funciona para você,
+mas você pode criar ou alugar para a
+pessoa, a empresa um,
+você pode alugar para a empresa dois e
+por aí vai. Então, isso aqui é um
+multitant e você aqui em cima como dono
+gerencia essas contas. Olha que
+Primeiro, primeiro ponto positivo disso
+aqui, cara. Essa estrutura virá ativo do
+meu parceiro que tá aqui em cima, ó. Ele
+sabe vender. Então, olha que doido. Ele
+pode pegar os pedaços e ele pode criar
+qualquer software robusto em cima disso
+ou usar isso aqui mesmo como o próprio
+software, a própria solução, o próprio
+SAS. Meu Deus do céu. Que no final das
+contas tudo é um SASudo, pode falar o
+nome que for, é um SAS, não adianta. Ah,
+mas esse é IAAS, esse é pa esse é JZ,
+gas, las tudo é software alugado. Ponto.
+Aí aqui o cara vai e loga. A hora que
+ele loga, ele tem a visibilidade das
+aplicações.
+Só porque eu vou mostrar não funciona. É
+impressionante o negócio desse aqui.
+Carregou, travou, mas já foi. Então ele
+logou. O que que ele consegue ver? Ele
+tem a visão inteira dos usuários. Qual
+que é a saúde e a segurança da
+informação? Sem a forte. Eh, convidar
+uma pessoa para participar da empresa.
+Quem que é a equipe daquela empresa? A
+Marina, o Rafael, cada um aqui tem um
+perfil dentro. Então, Rafael é gerente
+de vendas, comercial, que aplicação que
+ele tem acesso? Ele tem acesso aos seus
+copilot, leitor. Cada bloquinho desse
+aqui, ó, isso aqui é um bloco, tá vendo,
+ó? É o building block, central de
+atendimento, painel financeiro, CRM,
+gestão de processo, os dados dele aqui
+dentro, a segurança dele. Ah, dá para
+redefinir. Isso aqui é um SSO. Ah, que é
+o que que é SSO? Esquece. SSO. É o
+bagulho que loga. É um negócio que loga.
+É só isso que você tem que saber. Isso
+aqui loga e tem segurança de senha e tem
+tudo certinho. Beleza? Aí a gente entra
+paraa plataforma. Olha que lindo isso
+daqui. Isso aqui, isso aqui, isso aqui é
+um micro front end. Meu Deus, cara. Isso
+aqui era muito difícil fazer. Que que é
+o microfrontend? Cada um desses daqui é
+um sistema em algum lugar ou no mesmo
+servidor. Porém aqui ele mostra tudo
+junto. Por quê? Pra experiência do
+usuário. Pô, é igual um RP. É o que eu
+vou entrar no módulo de oferta. Aí ele
+vai e entra. Eu já vou mostrar o módulo
+de oferta para vocês. O Jed, ele vai e
+entra. Aí o o autenticação e
+autorização. O chat, ele vai e entra. O
+pipe, ele vai e entra. E tá. E o que que
+é o pipe? O pipe é o processo. Ô gente,
+comenta aqui, tá? Vê que que qual que é
+a opinião de vocês. Me dá aí umas dicas
+que que falta também. Eh, eh, pô,
+Kelvin, ficou legal, mas senti falta
+disso. Me dá essas dicas. O pipe, cara,
+o pipe é o seguinte, olha o conceito,
+processo, tudo é processo, tudo é
+processo. Vendas é processo, comercial,
+processo, marketing, processo, eh eh
+administrativo, processo. E nada mais é
+que processos tem subprocessos e
+processos se compartilham. Resumidamente
+é isso. Então eu tenho aqui o processo
+do onboard do cliente. No final das
+contas, a visualização é em camb, pode
+arrastar. Beleza. Aqui sem novidade,
+isso aqui é irrelevante, padrão. Agora
+isso aqui não é novidade. Olha a lógica.
+o início do processo, a entrada é um
+robô triando aí, beleza? Aí a
+documentação, a documentação tem uma
+responsável, tem campos eh eh
+parametrizáveis para essa etapa, tem
+ações, tem timer, fallback, pull, fila
+manual, aí tem esse processo se divide
+em dois subprocessos, que é em paralelo,
+é o BPM numa visualização diferente. E
+aí isso aqui se tangibiliza lá no
+CAMBAN. Legal. Tá? E e o Jed, o que que
+é o Jed? O Jed é toda vez que uma
+empresa precisar, cadê? Vamos pegar aqui
+também como que eu coloco em
+visualização.
+Ã parã, cadê? Aqui. Toda vez que uma
+empresa precisar pedir documento, então
+imagina o seguinte, pô, vou vender o
+meu, o meu aluno lá, o meu parceiro, vai
+vender agente de A para
+advogado. advogado precisa de
+Jed. Que que é Jed? Gestão de
+documental, gestão de documento,
+documento recebido, documento analisado.
+Ó lá, tá vendo, ó? Em conferência ou
+aguardando envio e documento OK. Então,
+empresas que têm marcos regulatórios,
+que tem, que exigem uma gestão
+documental robusta, precisam de um Jed.
+Olha que louco. Já pensou levar um Jed
+para uma para um para uma pequena
+empresa? Meu, isso é o poder, esse é o
+poder real da IAC, cara. Pô, isso aqui é
+dá trabalho para fazer, entendeu? Bem
+feito, né? Não que não esteja dando
+trabalho, mas vai mas vai mas tá mais
+fácil. Aí a gente entra aqui o Jed, pô,
+você consegue ver a documentação que
+recebeu o o preview dela. Aí aqui a
+extração, os dados, todo Jed tem
+extração, tá? Tipo uma OCR, extração do
+dos metadados. Detalhes histórico,
+timeline. Olha aqui a auditoria. O
+track, ó o registro da auditoria aqui.
+Visibilidade dos documentos. Pá, pá, pá.
+Povo o documento, puf. Reprovou o
+documento, puf. Entendeu? Fala, meu
+filho.
+&gt;&gt; Limpo. Dá um beijo. Dá um beijo. Dá um
+beijo. Dá um oi pro pessoal aqui. Ó lá.
+Aqui aparece aqui na câmera. Aí gente.
+[risadas]
+Então o Jed é isso. Eh, tá aí. Imagina o
+seguinte, imagina que meu aluno foi lá e
+pô que ele, por mais que eu fale que
+food service é ruim, o cara vai lá e
+vende a gente de a pro food service.
+Então o que que ele vai juntar? Os
+blocos que ele vai juntar. o bloco de
+agente de a, o bloco de usuário de
+autenticação mais o bloco de oferta de
+offer. O que que é o offer? Ou catálogo,
+por exemplo, é onde ele vai, cadê? Deixa
+eu dar o play aqui pra gente fazer a
+prévia. Onde que dá? Pera aí, gente.
+Aqui, ó. Pá, nesta aba. Olha aqui. É
+aqui que ele vai cadastrar produto. O
+cara, esse meu cliente vende o quê?
+Produto ou serviço? Todos multitênantes
+sempre, tá? Produto ou serviço? Produto.
+Que produto que é Xburger, é isso,
+aquilo, aquilo outro. O catálogo, cara,
+é como se fosse um catálogo de
+e-commerce nesse caso, sacou? Só que não
+é um catálogo de e-commerce, é um
+catálogo genérico. Ah, mas Kelvin, e se
+eu precisar colocar um campo a mais
+aqui? É, essa parte é fácil. Por quê?
+Porque estando estruturado, do jeito que
+tem que ser estruturado, acrescentar
+campo ou acrescentar funcionalidade é
+muito mais fácil do que criar do zero,
+entendeu? E o chat core, o que que é o
+chat core? O chat core, o conceito dele
+é chat core, o core dos chats, entendeu?
+Mas basicamente, ó, logou. Ah, tô
+autorizado já. Tô autorizado. Beleza.
+Logou. Aí, logou. Ele tem o quê? Ele tem
+todos os números da empresa, daquele
+cliente dele, centralizados num único
+lugar. Aqui eu uso Evolution API por
+trás. Por quê? Porque tá pronto. Criar
+uma camadinha aqui, linda, maravilhosa
+de gestão. Quais são as minhas conexões?
+Pá, essa, essa, essa e essa. Reconectar,
+abrir. Toque de autorização. Aí agora o
+diferencial, roteamento. que lindo.
+Isso aqui é lindo, gente. Que que é isso
+aqui? Isso aqui é o seguinte, são os web
+hooks. Então essa esse bloco é
+responsável por receber uma mensagem de
+de vários canais. Ele guarda e ele
+também distribui para vários web hooks e
+ele traqueia. O que que é traquear? Ele
+rastreia. Rastreia habilidade, entendeu?
+Rastreia habilidade, gente. Tá muito
+legal. Tá muito legal. Tá sendo muito,
+fazia tempo que eu não que eu não, que
+eu não quebrava tanto a cabeça assim
+para um para cara, que que eu, como que
+eu facilito a vida? Eu tô pensando em
+fazer um building public, tô pensando em
+começar a codar esse negócio aqui, eu
+pegar um módulo e eu sair codando no
+tipo, sabe, compartilhando com vocês
+aqui. Acho que vai gerar muito conteúdo
+legal. Comenta aqui o que que você acha.
+Então assim, qual que é a grande sacada
+aqui do do desse rolê? O é criar eh
+coisas prontas, como se fosse um
+framework. Vai ser código aberto só pros
+parceiros da Acelera, né, pai? Porque
+aqui o mundo é capitalista, né, meus
+amigos. Mas olha que interessante, eu
+resolvo a dor do empresário, eu resolvo
+a dor do empreendedor, do dev também,
+mas a dor do dev é vender. Então assim,
+de qualquer jeito, eu vou acabar
+resolvendo a dor do dev, porque a gente
+tem módulos, mas eu vou gravar formações
+de vendas, eh, lançamento, as
+estratégias que eu uso, esse tipo de
+coisa. Isso aí é padrão. Isso é padrão.
+Mas o que me chamou atenção, e aqui não
+tem nada a ver com tirando da acelera de
+lado, cara, foi a facilidade de de
+logicamente eu tenho um conhecimento de
+arquitetura, estrutura, que não posso
+falar que não me serve porque hoje é a
+base de eu conseguir construir nesse
+nível, cara. Mas é difícil fazer isso. É
+difícil você estruturar um sistema com
+esses com a gente chama de domínio, né?
+com os domínios bem separados, isolados
+e conectados através de uma mensageria.
+Aqui é só para quem é técnico. Mas
+entendam uma coisa, isso aqui é coisa de
+empresa grande. Isso aqui é coisa de
+empresa grande levando na ponta para
+empresa pequena. para fazer um
+sisteminha nessa estreminha não, uma
+estrutura como essa aqui antigamente,
+para deixar bem robusta mesmo,
+premium não deixava menos de 700 pau.
+Não deixa, não tem como, não tem como
+por conta da complexidade e por conta
+também da escalabilidade, entendeu?
+Então, ah, que dá, você tá faz, dá para
+fazer isso em quanto tempo aqui? Eu acho
+que para isso ficar redondo, filé, vai
+mais um mês mais ou menos assim de de
+estruturação. A gente vai lá,
+logicamente a gente vai continuar
+evoluindo. E esse eu acho que é o grande
+diferencial. Porque da Acelera? Porque
+meio que eu vou ser um fabricante, aí eu
+vou usar minha squad de desenvolvimento
+para continuar evoluindo isso daqui e
+além dos feedbacks, dos pontos, receber
+e inputs dos meus parceiros falando:
+"Kelvin, ah, eu adiciono esse negócio tá
+legal. Eu posso abrir uma votação, eu
+posso ter como se fosse um time privado
+aqui, que ele é compartilhado para
+atender todo mundo, sempre focado em
+criar eh coisas reutilizáveis para todos
+os negócios. E nesse modelo de building
+blocks é maravilhoso. Por quê? Porque se
+eu estipulo eh o contrato, tipo assim,
+um jeito de desenvolver e de se integrar
+de forma pública, não, mas privada, aqui
+os próprios parceiros desenvolvedores
+podem criar os próprios módulos e aí
+aqui dentro da própria acelera, eu
+consigo fazer como se fosse um
+marketplace. Nossa, eu explodi a cabeça
+agora. Agora foi longe assim, Isso
+é comunidade. Isso é comunidade. Ó, quer
+entrar para acelerara? O link tá aqui na
+descrição desse vídeo. A gente tá
+fazendo a abertura da nova turma da
+desse nosso novo momento, né? A turma
+fundadora desse modelo de building
+blocks aqui que vai ter acesso a tudo
+isso daqui. Então é só você clicar o
+link na clica no link aqui na descrição
+desse vídeo porque é um novo momento.
+Estamos vivendo um novo momento. Então
+isso aqui é coisa de primeiro mundo.
+Isso aqui é coisa de primeiro mundo.
+Clica aí para você conhecer mais sobre
+isso. E também eu vou fazer um workshop
+chamado nova economia que vai agora vai
+ter que acontecer no dia 27. Era no dia
+20, mas eu tive que remarcar porque
+amanhã, que é dia 20, as minhas filhas
+vão fazer a dançada da festa junina e eu
+tinha esquecido, tanto que eu tô
+trabalhando, mas eu não posso faltar com
+elas. Então tá sendo remarcado dia 20
+pro dia 27. Ó, o link tá aqui na
+descrição desse vídeo também do
+workshop. Então esse vídeo foi sobre
+isso, gente. P e essa parada aqui é uma
+parada que eu gosto muito. Por que que
+eu gosto muito, cara? Porque onde eu me
+sinto à vontade. Ó o jeito que eu tô
+falando com vocês aqui emocionado. Eu tô
+ainda sou deve. Eu ainda adoro, adoro,
+adoro criar. Deve. Não,
+[limpando a garganta] eu sou um criador.
+Eu sou um builder. Builder, builder.
+construtor. Cheguei nessa que meu filho
+tá me chamando. Tchau para vocês.

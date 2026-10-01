@@ -1,0 +1,1017 @@
+Rapaziada, o que eu vou mostrar para
+vocês agora pode mudar completamente a
+forma como vocês olham pra inteligência
+artificial. Olha só que doideira. Nos
+últimos 12 meses, os seis maiores fundos
+de investimento do mundo, a gente tá
+falando de SEOIA, A1Z, A Combinator,
+entre outros, publicaram teses
+praticamente idênticas, quase idênticas.
+É uma loucura. Seis fundos diferente,
+todas convergindo pra mesma conclusão. E
+a conclusão é uma só. Quem vende
+ferramenta vai virar não só commodity,
+tá pegando uma parcela minúscula. Esses
+caras estão olhando para quem revende
+prestação de serviço com tecnologia.
+Então, quem pega inteligência artificial
+não para vender IA ou para criar
+software ou para criar ferramenta, eles
+estão olhando para quem pega
+inteligência artificial para vender
+trabalho, para vender prestação de
+serviço. Então, isso é o que vai
+construir as empresas trilionárias dessa
+próxima década. A Secoia, por exemplo,
+ela chama isso de service the new
+software. Esse esse é o artigo dela.
+A16Z deu o nome de software e labor, que
+é tipo o software vai comer o trabalho,
+a prestação de serviço. A Combinator
+chama isso de Full Stech Companies, as
+empresas que usam inteligência
+artificial para serem altamente
+escaláveis, mas não são empresas de
+software, são empresas de prestação de
+serviço que são operacionalizadas por
+software. E essa é a tese que eu bato
+muito. Eu chamo isso de infraestruturas
+de crescimento com inteligência
+artificial. Chamo isso de AI first OS.
+Nesse vídeo aqui eu vou te mostrar
+exatamente o que que eles querem dizer.
+Vou trazer um caso real de
+infraestrutura de aplicado, por exemplo,
+para clínicas odontológicas, para que
+você possa entender porque que chatbot
+solto, automação isolada, fluxozinho de
+N8N, não vale nada comparado com isso. A
+gente tá falando de um outro conceito.
+Fica comigo aqui até o final desse vídeo
+que aqui eu vou abrir tudo. Presta
+atenção numa coisa. Aqui no YouTube, na
+internet, tá cheio de gente te ensinando
+a fazer SAS, microSAS, agentes de código
+sem precisar saber programar e até mesmo
+usar ou para quem é programador como
+escalar. Mas não tem ninguém falando
+para você como você transforma tudo isso
+em dinheiro. Na verdade tem, tem eu vou
+falar sobre modelo de negócio, eu vou
+falar sobre como você vira um
+empreendedor, um empresário, sobre como
+você olha para uma oportunidade e tem
+uma visão de futuro. Então, nesse vídeo
+aqui, eu não vou te mostrar como codar a
+infraestrutura, mas eu vou te mostrar o
+que que é, como você calcula o preço,
+como você faz dinheiro. Então, se você é
+empreendedor, ou melhor, se você também
+é empresário e tá aqui querendo entender
+como você se beneficia dessa
+oportunidade, como você transforma a tua
+empresa numa empresa de serviço
+escalável, esse vídeo é para você. Seja
+você programador, seja você de
+tecnologia, seja você empreendedor,
+entusiasta, seja você advogado, médico,
+dentista, entendeu? Eu tô falando sobre
+literalmente você criar um sistema
+operacional, uma infraestrutura que vai
+a empresa inteira, aquela empresa,
+aquele teu cliente vai rodar em cima
+dela. A gente tem que criar, a gente tem
+que focar em criar infraestruturas. A
+gente tem que focar em criar a base para
+que as empresas de prestação de serviço
+possam escalar com o quê? Com
+inteligência artificial. O empresário,
+aquele cara que fatura 2 milhões de
+faturamento anual, ele não quer
+ferramenta, ele quer o problema dele
+resolvido. E ponto, o dono da clínica
+odontológica, ele não quer o chatbot de
+inteligência artificial no WhatsApp. Ele
+quer parar de perder 3.000 por mês com
+paciente que não aparece na consulta.
+Ele quer a cadeira dele cheia. A dona da
+loja de e-commerce que tá indo lá agora
+pro TikTok Shop ou montou o e-commerce,
+ela não quer automação de e-mail, ela
+quer recuperar 70% do carrinho dela que
+tá abandonado. Isso aí que ela tá
+querendo, entendeu? E é sobre isso que
+nós vamos falar aqui hoje. Eu vou
+mostrar para você, para você entender de
+uma vez por todas. Vou pegar o case de
+uma clínica odontológica para mostrar pr
+você de cabo a rabo como seria essa
+infraestrutura. Então vamos, vamos
+começar esse vídeo. Antes da gente
+começar esse vídeo, como sempre, para
+você que não me conhece, muito prazer.
+Meu nome é Kelvin Clet, eu sou um
+programador que um dia decidiu
+empreender. Fundei a General Cleans, a
+minha primeira startup que deu certo,
+uma Insurtec em 2015. Vendi 50.1% dessa
+empresa em 2022. Fiz o meu Exit em 2025
+e hoje eu tô à frente da Acelera 360.
+Que que é Acelera 360? É um ecossistema
+feito por um empreendedor, para
+empreendedores, para você, para pessoas
+como você que querem empreender, para
+empresários como você que querem
+utilizar tecnologia para potencializar o
+seu negócio. Se você quiser conhecer
+mais sobre Acelera 360, o link dela tá
+aqui na descrição desse vídeo. Mas Kelv,
+o que que ela faz? Basicamente, ou eu
+vou ajudar você a tirar sua ideia do
+papel, ou eu vou ajudar você a escalar o
+teu negócio com inteligência artificial.
+Quer empreender de verdade? Quer escalar
+o teu negócio com o IA? Vem participar
+da Acelera 360. O link tá aqui na
+descrição desse vídeo. Não venda
+ferramentas, construa sistema
+operacionais. Já introduzi, já falei
+para vocês. O maior fundo, os maiores
+fundos de venture capital do mundo estão
+convergindo para a mesma direção. Então
+significa que já não é mais tendência.
+Isso aqui é um negócio e ó, opa,
+inevitável.
+Inevitável. 6 VCIS. Mesma tese. Olha
+aqui o I16Z. Software está devorando o
+trabalho. O software nesse nesse sentido
+aqui é o seguinte. O software tá
+executando o trabalho, logo ele vai
+devorar as empresas de prestação de
+serviço. A gente tá falando de um
+mercado que é de seis a nove vezes maior
+do que o mercado de software, que é da
+execução da prestação de serviço. É o em
+vez de você entregar a ferramenta que
+faz, entrega, pronto, entrega o
+resultado.
+Cara, como isso é lindo. Aqui a sequia,
+beleza? Já entendem. Inclusive, ó,
+gravei o vídeo ontem explicando este
+relatório, esse artigo aqui, leiam lá. E
+o Full Stack AI company, nome
+Combinator, mas tudo é a mesma coisa.
+Software, então vai entregar o quê?
+Prestação de serviço. Gente, isso aqui é
+tão real que olha o G4, não sei, vocês
+conhecem o G4, conhecem, né? Todo mundo
+conhece o G4. G4 hoje é um dos
+principais fundo, ô fundos, ó, é um dos
+principais ecossistemas de educação
+desse país focado em gestão para
+empresas, para empresários. Eles estão
+apontando tudo pra AI e faz total
+sentido. Tem um monte de programador até
+puto, porque ah, isso aí é fácil fazer,
+isso aí nada mais é do que um
+orquestrador, do que isso, do que
+aquilo, que aquilo outro, agentes. É, é
+só isso mesmo. Só que qual que é a
+diferença? Eles não estão focados em
+vender o quê? ferramenta. Eles não tão
+fazendo isso aqui, ó. Eles não tão
+vendendo o agente de IAC. Eles não tão
+vendendo o agente. Eles não tão vendendo
+o orquestrador. Eles não estão vendendo
+uma automação. Eles estão vendendo o
+quê? O resultado. Igual expliquei para
+vocês no começo do vídeo. O advogado tá
+querendo mais caso. O dentista quer, não
+quer ter mais no cadeira. Na ferramenta
+você cobra pelo quê? Ó, presta atenção
+nisso aqui. Por hora ferramenta você vai
+cobrar pelo quê? Vai cobrar por licença,
+licença de usuário,
+licença. Vai cobrar por eh token,
+vai cobrar por projeto fechado, escopo.
+Você saca? Saca que não faz sentido.
+Agora quando você vai para resultado,
+você pode cobrar um percentual do
+resultado. E aqui, aqui que você
+consegue transformar IA
+em dinheiro, em contratos de 20. a 50k
+de implantação, por exemplo, com
+recorrência. Ou seguindo a tese que as
+empresas aqui estão falando aqui, você
+consegue fazer o seguinte, criar a sua
+própria empresa de serviço e começar a
+oferecer serviço, vender o serviço e
+criar o seu que vai potencializar o teu
+negócio, que talvez seja aonde você vai
+chegar nos próximos anos. Ó, novamente,
+dia 28/03, workshop Grow FI, você não
+pode perder, você tem que estar lá
+comigo, clica aqui agora, garanta já a
+tua vaga, senão você vai ficar sem. E
+esse é o último workshop que eu vou
+fazer. Então isso é tão real que olha
+aqui o G4 tá fazendo isso. Construímos
+nosso próprio sistema operacional com AI
+e vamos abrir para você. Aí o G4 tem uma
+vantagem. Qual que é a vantagem do G4? O
+G4 hoje tem uma base lá de 80.000 80.000
+empresários, né? Se eu não me engano, é
+isso que eles falam, 80.000
+empresas e empresários.
+E aí eles vão vender o AIOS OS para
+esses empresários. Vocês acham que o G4
+vai vender a ferramenta EiOS? É lógico
+que não. Que que eles vão, qual que vai
+ser o modelo de negócio aqui? Bem
+provável, eles não abriram ainda, mas
+bem provável que é o seguinte. Eles vão
+falar o seguinte, ó, cara. Eh, quanto
+você paga aí pro seu atendente? Ah, eu
+pago 2500 CLT, 2.5. Opa, que letra
+horrível, gente. Eu pago 2.5K por mês,
+só que ele é CLT 5K pro empresário.
+Então ele tá te custando 5.000, ele te
+custa 60k ano, fora risco trabalhista,
+outros problemas, falta, doença,
+qualquer outra coisa que esse cara paga,
+você vai me pagar 30.000 por ano, vai
+economizar, você vai ter um save aí de
+50%, faz sentido para você? Faz. OK,
+então beleza. Fecha o contrato pá é iOS.
+É assim que você tem que vender, igual o
+G4 tá fazendo. Só que o G4 vem de
+gestão. Você aí tá faca e o queijo na
+mão. Talvez é de tecnologia. É um cara
+que tá respirando isso e tem mercado
+para todo mundo. A gente tá falando no
+mercado gigantesco. Então a oportunidade
+ela é real, tá? No dia 28/03, semana que
+vem, eu acho que já, a gente [música]
+vai fazer o último workshop Growth AI
+System, onde eu vou explicar lá para
+você, você vai ter visão do mapa claro,
+você vai sair de lá com mapa claro de
+como você consegue sair aí do ponto A
+que você tá hoje prestando serviço ou
+não conseguindo empreender, travado num
+negócio que não tá fazendo sentido, que
+você não tá conseguindo ter dinheiro
+para você criar a sua empresa, para você
+surfar esta onda, criando aí, escolhendo
+o seu nicho, entendendo os gaps do seu
+nicho, criando a sua oferta de
+infraestrutura de a, estruturando a sua
+infra de, entendendo como escolhe um
+nicho, como vender isso. Então, lá no
+Grof eu vou mostrar isso. Vai ser um
+workshop de mais de 5 horas, vai ser um
+workshop online. Se você quiser
+empreender, se você quer empreender com
+inteligência artificial, se você quer
+aproveitar essa oportunidade, tá cansado
+de ficar aí vendendo escopo fechado,
+vendendo hora, tá cansado de ficar
+vendendo ferramenta, cansou, chega,
+entendeu? Tem que estar no workshop
+growi, bora clica aqui no link [música]
+e garanta já sua vaga, porque é o último
+workshop grow que vai acontecer. Agora
+vamos entender aqui o cerne de um
+sistema operacional. Antes de falar do
+sistema operacional, você tem que
+entender uma coisa. Uma como uma empresa
+opera, como qualquer empresa opera,
+grande ou pequena, de forma macro, todas
+funcionam do mesmo jeito. Você tem duas
+divisões. Você tem o core business, que
+é a parte que gera dinheiro, área de
+vendas, marketing. E marketing, muitas
+empresas nem consideram core business,
+considera backoffice. Então isso aqui
+depende do depende do na minha opinião,
+sempre é core business. Vendas e
+marketing sempre é core business.
+atendimento ao cliente e a entrega que é
+o time de operações. E você tem as áreas
+de backoffice. Que que é área de
+backoffice? Ela que apoia, que sustenta
+o negócio financeiro, RH, pessoas,
+jurídico, compli e administrativo. Isso
+é muito legal. Por quê? Porque o core
+business não pode ser terceirizado. O
+core business de um negócio nunca
+pode ser
+terceirizado.
+E aí é muito legal porque você já vê
+marketing aqui, ó. E aí você já com esse
+conceito você já consegue entender
+porque a maioria das empresas que
+contratam agências de marketing não gera
+resultado, porque elas terceirizam o
+marketing e o marketing ele é core
+business. Isso é muito louco. E
+marketing tem que ser interno, tá bom?
+Só que
+o backoffice pode,
+inclusive o backofice é o mais comum de
+ser terceirizado. Você contratar, por
+exemplo, um BPO financeiro, contratar
+empresas de recrutamento em seleção,
+pessoas de ASA Service. Você contrata
+ela de forma paralela, administrativa e
+tudo mais. Isso aqui, empresas grandes e
+empresas pequenas, tessa divisão. Acho
+que eu tenho até um outro desenho aqui
+com mais áreas para você para mostrar
+para vocês, ó. Então, áreas de apoio,
+backofice, área de apoio, recursos
+humanos, financeiros, marketing,
+controladoria, marketing aqui, não é, na
+verdade, marketing é aqui, ó, corb que
+eu tinha colocado para cá, compras,
+tecnologia, eh, área de PMO, PED, eh,
+PID, né, que é pesquisa e
+desenvolvimento. São áreas que
+geralmente são consideradas backofice,
+saca? Empresa grande, tem time dedicado
+para vendas, tem time dedicado para
+marketing, tem time dedicado de CS, tem
+time dedicado de financeiro, tem time
+dedicado de RH, tem time dedicado
+jurídico. E a empresa pequena é o dono.
+O dono é venda, o dono é marketing, o
+dono é CS, o dono é financeiro, o dono é
+RH, o dono é jurídico. E o pior de tudo
+é o seguinte, que quando você pega, por
+exemplo, um dentista
+e ele decide abrir um consultório,
+esse cara é um dentista que decidiu
+abrir um consultório. Ele não é um
+empresário dentista, ele não tem as
+skills de empresário, então literalmente
+ele é o dono. Então, cara, ele nem às
+vezes ele nem pensa em contratar, ele
+não pensa em escalar, ele só quer fazer,
+ele só quando ele abriu aquele
+consultório, ele só queria fazer 50k por
+mês,
+ele só queria fazer 100k por mês,
+entendeu? Esse cara, dificilmente, ele
+tem um processo de vendas, dificilmente
+ele sabe realmente vender, dificilmente
+ele sabe fazer o marketing dele. Esse
+cara aqui é o cara que vai lá e contrata
+a a agência de marketing. Esse cara aqui
+é o cara que vai lá e compra a automação
+no WhatsApp, entendeu? Por quê? Porque
+ele começou a fazer 100k por mês, 50k
+por mês e ele travou e ele tá deixando
+na mesa, ele não tá crescendo, ele tá
+cheio de problema e ele quer resolver
+aqueles problemas dele e ele acha que
+ele vai conseguir resolver os problemas
+dele de caixa colocando dinheiro em
+marketing, tráfego pago. Aí depois ele
+acha que ele consegue vender mais,
+colocando o CRM. Aí depois ele acha que
+ele consegue vender mais, colocando um
+atendimento no WhatsApp e ele começa a
+perceber que ele não consegue e que ele
+só tá aumentando os problemas dele. E é
+aí que tá o nosso ouro. Ouro. Por isso
+que eu falo para vocês, ó.
+Não faz sentido vocês venderem
+automação. Não faz sentido vocês
+venderem só o tráfico. Não faz sentido
+vocês venderem só a o o chatbot ou o
+agente. É aí que tá o ouro. Olha que
+louco aqui, ó. Pela primeira vez na
+história, você consegue dar para uma
+clínica de três cadeiras. uma clínica,
+por exemplo, odontológica, aqui nesse
+caso, que vai ser o nosso exemplo de
+três cadeiras, que significa uma clínica
+que tem três, o cara montou a clínica e
+colocou três cadeiras, uma é do dentista
+que abriu e as outras duas ele aluga.
+A mesma infraestrutura operacional
+que um grupo empresarial de 100 milhões,
+que um grupo de empresarial que tem 100
+milhões, que vale 100 milhões, tem não
+com 50 funcionários, mas sim com
+inteligência artificial. Então, por
+exemplo, time de marketing, agentes de
+conteúdo, mais automação, time
+comercial, agentes no chat, mais CRM
+inteligente, time de gestor analista,
+data agents, agente de dados, mais
+dashboards para análise. Atendimento CS,
+customer experience, não é verdade?
+Atendimento é voice agent, agente de
+ligação mais WhatsApp, AI. financeiro,
+automações, mais alertas, mais agente
+aqui também dá para colocar a gente.
+Administrativo, workflows, mais
+integrações, mais agentes aqui também dá
+para colocar a gente também. Então isso
+aqui, aqui, gente, é um sistema
+operacional, é o negócio inteiro
+rodando. Tá vendo? Tá vendo a diferença?
+E cv, mas é muito complicado. Para, já
+falei, tira isso da cabeça. Isso aqui é
+o que vai fazer o seguinte. Isso aqui é
+o que faz
+uma um clínica
+eh de três cadeiras
+ou um escritório de advocacia de um
+advogado só, o eu presa, o eu prestador
+de serviço, eu empresário, ter
+um time que somente empresas que faturam
+20 vezes mais que ele consegue ter.
+Então isso aqui é dá um boost, dá uma
+potência para aquela empresa absurda.
+Isso aqui é uma infra de ar. Isso aqui é
+uma infra de ar. E aqui, isso aqui é tão
+que é o seguinte. A gente tá
+falando de um cenário que tá ocorrendo.
+Vocês viram aqui? É um cenário real. E
+você pode fazer isso, você pode
+desenvolver, você pode ser o cara.
+Presta atenção no que eu vou falar aqui
+agora. para que você possa fazer isso
+aqui e isso aqui ter dar ou melhor ter
+não dar resultado
+para o empresário,
+você precisa
+nichar.
+Por quê? Porque para criar um AI first
+OS, um sistema operacional, você tem que
+unir três coisas. Você tem que unir
+inteligência
+artificial
+mais
+processos
+estratégias
+de crescimento.
+E aqui, ó, juntando esses três,
+você tem o seu sistema operacional de um
+nicho específico. Você tem o seu IFOS,
+esse aqui é o suprassumo do rolê.
+E aí o que que acontece aqui? Para você
+juntar esses três, você tem que ser um
+especialista
+do nicho. Não é igual o SAS. Não dá para
+usar a regra de pareta agora 8020 que o
+SAS usava, que é o quê? Ah, não. O
+negócio atende 80%, os outros 20
+Não dá para você resolver um
+problema pontual. Não dá para você focar
+em resolver só um problema pontual. Não
+tá, não estamos mais nessa época. Não dá
+para você ser só um CRM de com AI
+genérico.
+Por que que não dá? Porque o CRM com IA
+genérico não vai atender
+mais.
+Ele é só uma ferramenta. Ele não vai
+gerar o boost necessário, o resultado
+necessário para potencializar o negócio.
+Tão conseguindo entender?
+E por necessitar fazer isso, a o modelo
+de precificação aqui muda
+completamente,
+porque em vez de você cobrar uma
+brincadeira dessa por licença, por
+acesso, por usuário, por consumo, você
+cobra uma fatia do resultado. E para
+você que quer empreender, esse é o
+melhor cenário possível. Para você que é
+empresário também, ó, você que é
+empresário, tá me assistindo, não sei,
+advogado, médico, não importa, cara.
+Você, se você quer colocar isso aqui no
+teu consultório, na tua empresa, clica
+aqui no formulário da Acelera e se
+inscreve, porque eu mesmo vou fazer a
+callal com você. Eu vou atender a tua
+empresa e ou eu vou fazer com o meu
+próprio time interno ou eu vou colocar
+algum parceiro da Acelera para atender
+você. Hoje a gente tem mais de 280
+parceiros aqui, ó,
+que estão preparados para te atender. Eu
+coloco a mão no fogo por isso daqui,
+porque esses parceiros,
+eles seguem o meu padrão de qualidade,
+eles seguem o meu conceito, eles são
+focados em
+Beleza? Tá bom, Kev, eu entendi, eu
+entendi. Deixa eu mostrar para vocês
+agora o caso. Vamos pegar clínica,
+clínicas odontológicas, ó. Clínicas
+odontológicas. Gente, minha letra tá
+demais, né? Mas dá para entender, ó.
+Clínicas odontológicas. Vamos pegar
+clínicas odontológicas aqui. Você já
+entendeu que tem que unir a processo
+mais estratégia e você tem que fazer o
+quê? Você tem que nichar. Você já
+entendeu isso? Legal. Maravilhoso. Agora
+a gente vai pegar o clínicas
+odontológicas. Então aqui, ó, o nicho tá
+escolhido. Kelvin, como que escolhe o
+nicho? Entra no dia 28 do TR no workshop
+Grofe. O link tá aqui. Aí mapeia os
+gaps. Kelvin. Como que mapeia os gaps?
+Entra no dia 28. Eh, aí aqui estrutura o
+mecanismo.
+Kelvin, como faz isso? Entra no dia 28.
+Aí agora a gente vai estruturar a oferta
+e vamos fazer a venda. Como que faz
+isso? Entra lá no workshop no dia 28
+para fazer a venda da primeira do meu
+primeiro os. Isso aqui que essa oferta
+aqui é você fechar contratos de alto
+valor, cobrar setup para implantação
+mais recorrência. Kelvin, mas como que
+cobra tanto assim? do mesmo jeito que o
+G4 vai cobrar aqui. Vocês entenderam?
+Vocês entenderam a lógica do cálculo que
+eu mostrei aqui? Entenderam? Por
+funcionário, por custo, por redução.
+Isso aqui é por resultado gerado, sacou?
+Então, beleza. Então, vocês entenderam a
+lógica aqui. Eu já, eu já fiz isso aqui.
+Eu já escolhi o nicho, eu já escolhi o,
+eu já entendi o gap, eu já estruturei o
+mecanismo, já estruturei a oferta e eu
+criei o sistema operacional aqui.
+Kelvin, mas como que entrega? Como que
+entrega?
+Como que entrega? Como que desenvolve?
+entra no dia 28 e me faz essa pergunta
+online ao vivo, que eu vou te explicar.
+Beleza? Vamos lá. Vou pegar aqui, ó.
+Isso aqui é um uma estrutura que a gente
+tem aqui na na Acelera.
+Eu vou pegar o nicho aqui específico de
+odontologia para vocês entenderem, tá?
+Saúde e estética, clínicas, clínicas
+odontológicas. Então, vamos lá. Clínicas
+odontológicas. Eu vou mostrar para você
+aqui, ó. Grow AI. Lembra que eu falei
+para vocês que eu chamo de growi? Deixa
+eu até voltar aqui, ó. Por que por que
+Grow Fei? Presta, presta atenção aqui
+agora.
+aqui comigo. Olha isso aqui, ó. Eu posso
+fazer igual o G4 fez, ou melhor, você
+pode fazer igual o G4 fez. G4 colocou
+aqui na deles. Colocou, ó, o que que ele
+colocou ali na dele, né? Só para vocês
+entenderem. Depois assiste o vídeo lá.
+Eles têm uma camada de apresentação que
+é uma interface para usuário, dashboard,
+notificação, acesso mobel, uma
+orquestração com integrando CRM,
+automação, gerenciando fluxo, pipelines
+e processo. Ele tem aqui a camada de
+inteligência, agentes autônomos que
+tomam decisões, executam tarefa, pá, pá,
+pá, dados unificados e as integrações
+com as ferramentas ou APIs. Eles
+plugaram aqui, eles centralizaram eh
+mais em o CS, customer success, tá aqui
+o time do comercial, tá aqui o time de
+marketing, vai gerando criativo por
+aqui, piriri porá eles. E eles têm
+também algumas tarefas que são de
+backoffice financeira, administrativa e
+tudo mais. Qual que é o grande ponto?
+Vamos olhar aqui de novo para essa para
+essa divisão aqui, ó. Na geração de
+receita, que que vale a pena focar, ou
+melhor, que que vale a pena focar na
+parte da sustentação financeira, RH
+jurídico administrativo, ou na geração
+de receita? Se você tá começando a
+empreender, por exemplo, logicamente
+criar um sistema operacional
+para marketing, vendas, atendimento e
+entrega
+de um nicho, acelerando o quê? A geração
+de caixa. Por quê? Porque isso aqui é
+tangível,
+significa então que é super mensurável.
+E isso aqui tá relacionado à injeção
+direta de dinheiro dentro dentro do
+dentro do negócio. Logo, é muito mais
+fácil você vender algo que coloca mais
+dinheiro no bolso do cliente do que algo
+que otimiza, tá? Principalmente para
+clientes pequenos, para micro, para
+small business, para pequenas e médias
+empresas. Legal? Agora vamos pegar aqui,
+ó, como que seria, como que seria um
+sistema operacional
+para odontologia? Como que seria uma
+infra de A?
+Uma infra de A, como que seria um AI? Ai
+first.
+Ai caramba, parou de funcionar minha
+caneta. Acabou a bateria aí. Tá indo. E
+travou meu miro tá travando. Acho que eu
+arrisquei muito ele. Ele tá travando. Ai
+first os. Legal. A gente tem dois focos
+aqui, ó. A gente pode focar na parte que
+gera dinheiro
+ou no backoffice.
+Onde eu vou focar? Vou focar aqui no
+administrativo, no financeiro. Não. Vou
+focar na parte de vendas. Então vamos
+lá. Primeiro passo que vocês tem que
+entender. Vou pegar aqui, ó. Esse aqui é
+vou pegar o nicho de clínicas
+odontológicas, igual eu tava falando
+para vocês. Clínicas odontológicas.
+Kelvin do céu, mas esse nicho ele é
+muito eh visado, não tem outro. A gente
+aqui tem mais de, se eu não me engano,
+80 nichos todos mapeados aqui, ó. Tudo
+mapeado. Automotivo, educacional, pá,
+pá, pá. Mas não entra no caso aqui.
+Vamos voltar lá pro nosso nicho de saúde
+estética,
+clínicas odontológicas, para ficar mais
+fácil para vocês entenderem. Primeiro
+passo, tem que entender que qual que é o
+retorno que existe de implementar um
+sistema operacional para clínicas
+odontológicas. Vamos olhar aqui, ó.
+Então isso aqui é a pesquisa de mercado
+do nicho. Então, por exemplo, olha que
+interessante isso daqui.
+Eh, a clínicas odontológicas típicas no
+Brasil, o show rate é de 75 a 80%. Só
+que a taxa de comparecimento a é de 20 a
+25%, ou melhor, de não comparecimento
+nesse caso. Significa que um a cada
+quatro ou cinco agendamentos é falta num
+consultório de dentista. Segu, olha que
+loucura, a cada quatro agendamentos é
+uma falta.
+Logo, o que que significa isso para uma
+clínica de duas eh dois duas cadeiras,
+por exemplo, significa que duas cadeiras
+são 20 consultas por semana, 10 por
+cadeira. Logo, uma taxa de 20% é igual a
+quatro consultas vazias na semana. Se o
+valor da consulta é de R$ 300 a a R$ 500
+em média, eles têm uma perda de R$ 1.600
+por semana. Uma perda, uma perda de R$ 4
+x 500 R$ 1600 por mês. Perda por mês,
+quatro. dá$800 por mês. Qual que é uma
+perda anual? R$ 82.560.
+Então, primeira coisa aqui, ó, olha
+aqui. No Dental Offlow OS, o foco é em
+gerar resultado para nossos clientes. É
+uma infraestrutura de A para gerar
+resultado. Para eu saber quais
+resultados eu consigo gerar, eu preciso
+entender do nicho, K. Mas eu não conheço
+nenhum nicho. É por isso que aqui na
+Celara a gente já mapeou. No teu caso,
+você pode fazer um estudo de mercado.
+Perda anual 82.560
+para um consultório de duas cadeiras. Um
+consultório de duas cadeiras é
+absurdamente minúsculo. É isso aqui que
+ele perde só por no show. Então, se eu
+tivesse olhando só para no show, se a
+minha infraestrutura resolvesse só o
+problema de no show, se o cara perde 82K
+ou caramba, se ele perde 82K a uma média
+de 20% de no show, eu reduzi isso aqui
+para 5%,
+logo quantos por c economia eu vou
+trazer para ele? E aí que entra a
+infraestrutura? Ó aqui, ó, com digital
+flow tem até exemplo aqui, ó, redução
+para 8%, então de 20% a gente, com a
+nossa infraestrutura a gente cai de 20
+para 8. Então, só nessa etapa aqui, ó, o
+cara ganha 12 pacientes a mais por mês.
+Logo, a gente faz um ganho, a gente gera
+um saving para ele de 57.
+sem gastar com
+tráfego,
+opa, tráfego pago,
+sem gastar R$ 1 com tráfego pago. Tá,
+mas Kelvin, mas como que eu consigo
+fazer isso? Como que você consegue gerar
+esse save aí? Isso aqui é uma métrica de
+ROY, tá? De retorno sobre investimento.
+Então, o quê? Primeira coisa, analisar
+aonde eu consigo potencializar o
+negócio. Foi o foi o que o G4 fez. Eles
+vão fazer isso daqui, ó. Eles
+construíram toda a parte do G4S aonde da
+RO para eles. E a propó, a promessa
+deles é o seguinte: olha, eu vou mostrar
+para vocês o sistema operacional com IA
+que fez a gente bater 500 milhões de
+faturamento ano. E como que eles
+conseguiram bater 500 milhões de
+faturamento? simples, eles conseguem
+bater 500 milhões de faturamento, tendo
+um customer success,
+tendo um time de marketing automatizado,
+tendo também dinheiro em caixa, tendo a
+a melhorando o processo de entrega,
+melhorando o processo de NPS, eh tendo
+um time de vendas que vende mais, que
+converte mais, taxas de conversão
+superiores a 20% e por aí vai. É a mesma
+coisa para um dentista, entendeu? É a
+mesma coisa pro dentista.
+Aqui, ó, a gente tem um estudo de
+mercado do que estão oferecendo hoje,
+quais são as promessas que tem no
+mercado hoje, tá? Mas qual que é a
+infraestrutura proxis? Qual que é a
+growth? Qual que é a entrega? Eu vou
+mostrar aqui alguns pilares para vocês,
+ó. Vamos pegar aqui. Olha aqui, tem a
+camada de apresentação,
+a camada de orquestração, a camada de
+inteligência e a camada de integração.
+Então, na apresentação, onde o que o
+cliente vai ver, o que o nosso, o que o
+imagine que eu tô vendendo um dental, o
+dental flow dental os para o dentista,
+pra clínica odontológica. Eu vou dar uma
+camada de apresentação onde que ele vai
+conseguir ver tudo. Primeiro WhatsApp e
+SMS é uma camada de visualização. O
+chatbot ele vê por lá, as respostas vê
+por lá. Um dashboard, uma camada de
+apresentação. Um Google Data Studio, um
+Metabase, um dashboard feito no Power
+BI, é uma camada de apresentação. Posso
+construir um front end usando o cloud
+code de SAS para consolidar um
+dashboard? Posso. Pode estar por lá
+também. O front do CRM acaba sendo uma
+camada de apresentação. Acaba. Acaba a
+camada de apresentação é toda vez que
+alguém vê alguma coisa, que alguma coisa
+é apresentada, seja uma mensagem, seja
+um dashboard, seja qualquer coisa. Aí a
+gente tem uma camada de orquestração. O
+que que é essa camada de orquestração? É
+o que vai orquestrar o processo
+acontecendo. Você lembra que o que eu
+falei para vocês aqui, ó? que a gente
+tem que unificar eh
+estratégia de crescimento, inteligência
+artificial e processo. Então, vamos lá.
+A gente tá falando aqui, ó, de processo.
+Aí a gente entra aqui na camada de
+orquestação. Go high level. Vou
+desenvolver um CRM. Para que que eu vou
+desenvolver um CRM? Não faz sentido.
+Vamos usar um white label que dá para
+colocar o nosso logo. Faz mais sentido.
+CRM por CRM não vende nada. Ah, mas e se
+o cliente for usar o Go High level
+direto? Que vá com Deus não faz sentido
+nenhum. Lembra uma coisa? A gente não
+entrega ferramenta, a gente entrega
+resultado. E para ter resultado tem que
+ter processo atrelado. Aí entra aqui,
+tem workflow, gatilhos condicionais,
+templates de comunicação, e-mail, SMS,
+WhatsApp, tudo pronto. Integração nativa
+já com as mais 50 integrações. Como que
+a gente tem mais de 50 integração? O
+próprio GHL já tem isso. Se o GHL não
+entregar, a gente integra com o compose
+que já tem isso. Tem coisa pronta no
+mercado. Kelvin, eu não sou técnico, eu
+não sei. É por isso que você tem que
+entrar, ou você entra na acelera para
+acelerar o teu tempo, ou você pesquisa
+no Google, no Perplex e se vira sozinho.
+Ou você compra tempo entrando acelera,
+ou em qualquer outra comunidade que te
+ajude a fazer isso. Mas no Brasil hoje
+que fala sobre empreendedorismo com
+tecnologia não tem. Ou você faz você
+mesmo. Aí a camada de inteligência, que
+que entra na camada de inteligência? Que
+que entra o agente de a Open AI aqui
+mais o Dialog Flow, por exemplo, ou você
+desenvolve o código nativo, ou pede pro
+próprio cloud code fazer um voice agente
+usando o Tilho, usando o Labs. Que que é
+voice agente? Por ligação, processo por
+ligação. Um content agente. Que que é o
+content? É o agente focado em gerar
+conteúdo pro pra clínica odontológica
+para rodar campanha, entendeu? GPT4 +
+Canva PI, data agente SKL Query + BI,
+camada de dados, consolidando dados dos
+pacientes, das consultas, dos
+procedimentos, das receitas. das
+automações, camada de integração,
+integração com software dental. Você não
+tem que substituir um software dental de
+mercado, você tem que integrar com ele.
+Aquele software ele digitaliza, ele não
+entrega resultado, ele é uma ferramenta,
+entendeu? Kelvin Mas olha que aí, deixa
+eu te deixa eu explicar mais aqui para
+vocês entenderem. Deixa eu pegar aqui,
+ó. Ã, aqui, ó. Isso aqui que eu falo
+para estratégia, né? Por exemplo,
+automação,
+fluxo de confirmação de consulta, funil
+magnético. O cara vai lá, o gatilho,
+consulta marcada no CRM, um timing T -
+48 horas. 48 horas antes da consulta
+agendada, a gente vai enviar uma
+sequência de WhatsApp automático. Oi,
+fulano, tudo bem? Você tem consulta
+amanhã às 14 horas com dentista, tal,
+confirma sua presença? Sim, não, talvez.
+Esse sim, não, talvez pode ser mais
+fluído com um agente de A. Kelvin, aonde
+eu coloco esse agente de A? Jesus
+Cristo, tenha piedade na minha vida. Se
+você tiver pensando isso, mas se você
+tivesse pensando isso, eu vou te falar
+as opções que você tem aqui. Você pode
+usar o GHL, que ele tem o conversional
+agent. Já tem os agent pronto lá dentro.
+É bom. É bom. Resolve tudo. Não resolve
+tudo,
+mas resolve o que você precisa. Você
+pode fazer igual eu. Que que eu tenho,
+que que eu fiz? A gente desenvolveu a
+nossa solução que é a growth AI. A gente
+tem a nossa própria solução aqui dentro.
+No caso você entra acelera, a gente
+pode, você pode revender ela, você pode
+distribuir ela, a gente te mostra como
+que a gente fez aqui. Você, você vai ter
+o open compra. Então eu posso posso
+mostrar, mas eu desenvolvi usando o
+Google ADK. Eu integro com GHL e a gente
+usou o Google ADK. Nesse caso, você que
+é empresário, tá me assistindo, vamos
+colocar grow aí, ó, fazer isso aí rodar.
+Ou eu vou fazer ou eu vou colocar os
+meus parceiros aqui, alunos e parceiros,
+para implementar para você, porque eles
+já devem ter pronto pro seu nicho
+específico. Qual que é o grande X da
+questão aqui? Não é a ferramenta, é o
+processo. Você tá vendo o processo aqui?
+Se responder sim, confirma. Se responder
+talvez, qual seria o melhor horário para
+você? Reagenda. Se responder desmarcar,
+desmarca. Depois tem -24, tem -2, tem
+men 0.
+Você tá entendendo que o processo tá
+pronto? Templente aprovado. Resultado
+esperado. Olha o resultado esperado só
+de implementar esta parte do processo.
+Baseline, 80% de taxa de comparecimento,
+target 92. Que o a que que é baseline? É
+o padrão. E o target é o nosso alvo. O
+alvo pra gente atingir com isso aqui é
+92% de taxa de comparecimento. Impacto
+só de implementar isso aqui de 2 a 3.000
+por mês.
+Vocês estão entendendo? Isso aqui é um
+sistema operacional. Isso aqui é uma
+infraestrutura de crescimento. Automação
+com followup mais educação de case. Para
+aumentar o quê? para aumentar o cara
+vim, ele tem que querer vi, ele tem que
+querer estar no consultório. Então a
+gente vai mostrar isso para ele, sacou?
+Toda a estrutura pá pá pá pá pá pá e
+processo atrás de processo. Isso é um
+dos documentos, né? Isso é um dos
+documentos de implementação da Grow AI.
+Tão conseguindo entender? Tão
+conseguindo acompanhar? Eu sei que é
+extenso, gente. Eu sei que é extenso,
+tá? E para e Kelvin, mas como que eu
+vendo isso hoje pro mercado? Por
+exemplo, igual G4 vai vender.
+Empresário, eu vou te mostrar um sistema
+que vai fez eu chegar a 500 milhões.
+Como que você vai vender? Você vai
+bater? Por que que a sua clínica tá
+perdendo 1600 por mês? E como recuperar
+isso em 7 dias
+sem gastar dinheiro com tráfego pago, só
+melhorando o teu processo interno. E se
+colocar dinheiro com tráfego pago,
+aumenta para mais e cobra um percentual
+disso. Quanto que dá para cobrar por
+isso, Kelvin? Isso aqui, opa, que não.
+Eh, isso aqui a gente consegue cobrar,
+dependendo do tamanho do consultório, a
+gente cobra uma implantação superior a
+15.000,
+mas mas não, mais uma recorrência que
+vai de 15.00 a R$ 3.000
+por mês, dependendo do tamanho do
+consultório,
+entendeu?
+Por isso que é todo cliente que tem que
+ser cliente da infraestrutura. Não, não
+é todo cliente. São consultórios que
+faturam, ou melhor, que tem mais de
+duas, três cadeiras. Isso para esse
+nicho. E quais nichos dá para fazer
+isso? Aqui, ó, tem muito nicho que dá
+para fazer isso. Vamos ver se tem nicho
+que dá para fazer isso. Vamos pegar aqui
+financeiros investimentos, planejadores
+financeiros, consultorias de
+investimento, assessoria de crédito,
+recuperação tributária, eh corretoras de
+seguro. Vamos olhar aqui outros. Eh,
+serviços para casa, energia solar,
+reforma de resistência, telhados e ruf
+em pintura residencial,
+paisagismo, piscina, limpeza
+residencial, detentização, agavac, que é
+eh ar condicionado, refrigeração de ar
+condicionado, portas, janelas, automação
+residencial, blá blá, são várias, são
+várias. A gente tem milhões de nichos.
+Eh, entenda uma coisa, deixa eu explicar
+para vocês aqui. A gente tá num momento
+em que esse aqui é o futuro e aí você
+pode ficar aí na linha de ferramenta e
+tá tudo bem, automação, vendendo hora,
+vendendo prestação de serviço. Ou você
+pode começar a olhar mais para negócio,
+ou melhor, você pode também ficar
+querendo mais curso de GHL, mais curso
+de cloud code, mais curso disso, mais
+curso daquilo, mais curso de ferramenta,
+mais curso, cara, eu quero aprender
+codar, eu quero aprender a escrever
+código, eu quero aprender escrever os as
+os skills do cloud code. Ou você pode
+começar a olhar para negócio, pô, onde
+que tá vazando dinheiro? Como que eu
+crio? Como que eu resolvo esse problema
+dessa deste início específico, como que
+eu viro agente transformador desse
+nicho? Você entende que é duas seas? Uma
+seara você é a operação e eu tô falando
+para outra seara você ir ser um
+empresário, um empreendedor de verdade,
+fazer dinheiro e ajudar seu agente
+transformador do mercado. É isso que
+você tem que fazer. Fechou? Vou encerrar
+esse vídeo por aqui que já ficou muito
+longo. Vou fazer mais um convite. Eu
+quero você comigo no workshop Grow AI
+System que vai acontecer no dia 28/03.
+Não perca, porque vai ser o último. Por
+que que você tem que estar lá? Porque lá
+eu vou te ensinar a transformar a
+inteligência artificial em contratos
+superiores a 20.000. E para você que é
+empresário, por que que você tem que
+estar lá? Para você entender o que que
+você pode transformar o teu negócio.
+Convido você que quer empreender, que já
+entendeu a oportunidade a clicar aqui e
+e a se inscrever na Acelera 360, a
+participar do meu ecossistema. Para você
+que é empresário, quer implementar a
+minha Grow AI, seja por mim, seja por um
+parceiro meu, se inscreve na Acelera
+também, pergunta se vai cair pro meu
+time, falar assim: "Eu quero a Grove Ai,
+prometeu para mim, eu vou entrar na call
+contigo e vou te mostrar GR e você vai
+entender como funciona." Fechou? Estamos
+junto. Fiquem com Deus. Estamos no
+melhor momento possível para se
+empreender. Bora que a hora é agora.
+Tchau.

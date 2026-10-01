@@ -1,0 +1,1070 @@
+Se você presta serviço, qualquer tipo de
+serviço, é consultor, é dev, gestor de
+tráfego, ou se você é um especialista em
+algum mercado, esse aqui vai ser
+literalmente o único vídeo que você vai
+precisar ver esse ano. Aqui nesse vídeo
+eu vou desenhar com você na sua frente
+aqui nessa no Miro, um negócio de
+inteligência artificial de uma única
+pessoa. A conta completa que nós vamos
+fazer vai ser de 1.2 milhões de
+faturamento com 12 clientes sem você
+contratar ninguém. A gente vai desenhar
+a vertical, vamos desenhar a máquina, a
+gente vai desenhar o modelo de cobrança.
+Tudo aqui no quadro. E pra você ver que
+isso não é papo de internet, eu vou
+começar esse vídeo aqui mostrando
+pessoas que estão fazendo literalmente
+isso agora. Pessoas assim como você,
+consultores, deves de tecnologia,
+especialista em marketing, eh gestores
+de tráfego pago que começaram querendo
+cobrar, a maioria deles aqui querendo
+cobrar R 800, no máximo R$. Por mês,
+pensando em focar em criar chat bots,
+faziam ali 3, 4, c alguns até R$ 6.000
+R$ 1.000 por mês. E quando a gente
+sentou e eles entenderam essa esse
+mecanismo, foi o que eu expliquei para
+eles. Fal, cara, cobrar dois, três, R$
+4.000 por mês não é ser empresário. Isso
+aí é você tá construindo um bico. Você
+tá sendo um freelancer, um freelancer
+que cobra até um pouquinho talvez mais
+caro ali com uma recorrência baixa. Não
+dá para você contratar nem pessoas com
+isso. Então não tem como você criar uma
+empresa fazendo isso, entendeu? E o que
+que nós fizemos? a gente pegou tudo
+neles que era commodity e reestruturamos
+isso numa oferta, numa estrutura de
+infraestrutura, uma única vertical, uma
+dor focada, uma oferta com setup e com
+recorrência. Então, cobra um valor de
+implantação de setup e um adicional de
+recorrência. E aí o contrato começou a
+seguir 10.000, 22.000, 2.200 € por
+exemplo, 42.000 num contrato e por aí
+vai. Clínicas médicas, clínicas
+odontológicas, setor industrial, outros
+indo para empresas de prestação de
+serviço. Isso aqui é o seguinte, de dois
+a três meses depois, quando se tem
+consistência, o resultado é absurdo,
+porque a gente tá falando, tá falando de
+algo que permite empilhamento de
+carteira e é isso que você vai entender
+aqui. A gente vai construir este tipo de
+negócio, tá? E o que faz essas pessoas
+terem resultado não foi a inteligência
+artificial, não é, ou melhor, não é a
+inteligência artificial, foi parar de
+ficar vendendo peça a peça, pedaço a
+pedaço, e passaram a começar a vender
+sistemas, sistemas que geram resultado
+paraos seus clientes, entendeu? E foi
+assim que esses moleques aqui,
+basicamente, eles destravaram. E eu
+tenho absoluta certeza que se um moleque
+desse de 18, 19 anos, e eu não tô
+menosprezando a idade, tá, destravou
+isso, a bagagem que você já tem aí de
+conhecimento que ela já vale muito além
+do que você provavelmente tá cobrando
+hoje ou talvez você nem esteja cobrando.
+E antes de explicar qualquer coisa para
+você, eu quero fazer dois combinados só.
+Só dois combinados. Vamos lá. Qual que é
+o primeiro? Eu não vou te prometer o
+bilhão aqui nesse vídeo. Tudo que eu vou
+mostrar aqui tem conta, tem fonte e a
+gente vai fazer aqui na tela, tá? O
+segundo combinado que eu quero fazer com
+você é o seguinte. No final desse vídeo
+aqui eu vou te fazer um convite. Tem um
+convite, já tá avisado. Até lá vai ser
+100% método. Então você já pega aí seu
+papelzinho, sua caneta e anota tudo. No
+último vídeo que eu mostrei aqui no
+canal, que eu fiz aqui no canal, eu
+mostrei para vocês qual que seria a
+fórmula de novos milionários, que
+basicamente, só relembrando, é
+infraestrutura vezes vertical vezes o
+resultado gerado. Hoje eu vou abrir aqui
+para vocês três peças, uma por uma. Peça
+número um, a vertical. Então, como que
+você escolhe o jogo certo? Porque quem
+atende todo mundo não atende ninguém.
+Basicamente ali apanha de preço de todo
+mundo. Peça dois, qual que vai ser a
+máquina? Então, como que você embala o
+que você já sabe em um sistema
+operacional no modelo AI first? Então, o
+que é, como que desenha e por que isso
+que tá separando aí quem constrói
+sistemas operacionais de quem só tá
+empilhando automação no N8N ou fazendo
+aí solta. E a peça três, como que você
+faz a cobrança. Então, como que você
+precifica por resultado? Como que você
+cobra setup, recorrência e a conta do
+Payback? Deixa eu ver se tá aparecendo.
+Tá aparecendo, tá aparecendo o quadro,
+senão fica ruim. E toda a decisão que eu
+tomar aqui nesse vídeo, que você vai
+acompanhar, passa pel uma régua para
+fazer isso que a gente precisa executar,
+por exemplo, numa determinada decisão,
+aumenta ou diminui a sua dependência de
+gente. Então, num negócio de uma única
+pessoa, não é só você fazer sozinho ali
+no desespero, é você criar toda uma
+arquitetura onde a inteligência
+artificial ela vai executar por você e
+você vai tomar as decisões. Então, se
+uma escolha aqui obrigar a gente a
+contratar para crescer, a gente vai
+reprovar essa decisão. Simples assim.
+Então essa vai ser a régua inicial das
+nossas decisões, tá? E por que que isso
+é possível hoje, né? Por que que a gente
+consegue nesse exato momento é conseguir
+montar uma empresa One Person, fazer
+1.2, 1.3, alguns fazem 1.8 milhões com
+apenas uma pessoa? Antes de você
+entender isso, você tem que olhar pra
+pro nosso histórico. Então vamos lá.
+2023 começou aqui a onda da inteligência
+artificial. Chat EPT virando mainstream,
+os criadores fazendo dinheiro rápido com
+inteligência artificial. 2024 começou a
+etapa dos makers, né? A galera fazendo
+automação, testando N8N, testando make.
+A comunidade comunidades começaram a
+surgir, agências curiosas meio que
+imaturas ainda usando. O mercado ainda
+não entendia o que era possível. Isso
+aqui foi a fase dois. Fase três, o boom.
+Isso aqui foi ano passado, gente, o boom
+dos agentes de inteligência artificial,
+agente bote, fluxo, começaram a
+explodir. O mercado ficou inundado por
+soluções iguais. Ferramenta começou a
+ser percebida como commodity. Então aqui
+as empresas começaram a perceber que IA
+por IA não mudava nada. Se você for
+analisar aí você analisar as métricas do
+mercado inclusive as pesquisas que a
+galera faz, não sei quanto, 90 e
+poucos por dos projetos de inteligência
+artificial não geram resultado nenhum.
+Isso por quê? Falta maturidade no
+processo. Processo é muito maior que
+qualquer ferramenta e uma inteligência
+artificial não passa de uma ferramenta.
+E esse ano nós estamos na nova geração
+de negócios. Então aqui a IA precisa
+rodar no core operacional. Sistemas
+precisam integrados, precisam ser
+integrados para que eles substituam ali
+todo o processo de automação que tá
+solto. Automação solta não gera
+resultado. A arquitetura verticalizada,
+nichada, vira um grande diferencial
+real, tá? Então as empresas começam a se
+tornar first. Então a gente tá no
+comecinho, ai é hype, é onda, esquece
+isso aí, não cai nessa balela. Então
+olha que loucura, aquela landing page
+que você cobrava 5.000 em 2024, se você
+é vendedor de landing page, aí hoje o
+cloud monta sozinho. O fluxo que você
+cobrava 10.000 R$ 1.000 por fluxo lá de
+automação em 2024, 2025. Hoje o Cloud tá
+montando sozinho. O agente que você
+cobrava 14.000 em 2025, hoje o Cloud tá
+montando sozinho. O software que você
+cobrava 100.000, 200.000 por projetos,
+hoje o cloud monta sozinho, depende do
+tamanho do software, mas ele monta
+grande parte. O cloud hoje já assina 4%
+de todos os comits públicos do GitHub.
+Isso aqui é realmente assustador. Sabe o
+que significa isso? Significa que
+executar tá ficando cada vez mais
+barato. Antigamente programar precisava
+de um p raciocínio. Hoje em dia não.
+Hoje em dia você precisa na tomada de
+decisão. Hoje em dia você precisa pensar
+na parte nem na arquitetura basicamente,
+mas assim sim no produto como um todo. E
+eu duvido que você saiba o que que ficou
+caro, porque a execução ficou barato.
+Mas você sabe o que que ficou caro? Você
+saber o saber aonde apontar, onde
+executar, onde implementar uma
+inteligência artificial. e construir uma
+infraestrutura que opera no lugar do seu
+cliente, porque esse é o grande
+conceito. E é aqui, exatamente nesse
+grande ponto, que mora o erro que eu
+mais vejo, não só aqui na Acelera, mas
+no mercado. E ele começa simplesmente na
+visão, a lente da ferramenta, olhar para
+uma inteligência artificial como mais um
+aplicativo para você poder adicionar no
+seu trabalho. Quem tá olhando pela quem
+tá olhando a IA pela lente de ferramenta
+para fazer otimização de tarefa, tá
+olhando completamente errado. Essa lente
+produz a implementação clássica de
+qualquer de qualquer não só da IA, né,
+mas de qualquer coisa de tecnologia. A
+IA solta, a ferramenta empilhada, o
+agente pendurado lá no WhatsApp sem
+função, a automação sem nenhum processo,
+sem uma inteligência que decide
+basicamente aonde, ou melhor, aonde não,
+onde ela opera. Então, uma inteligência
+artificial que fica solta, ela vira mais
+um aplicativo aí na tua operação. É mais
+um aplicativo de prateleira, assim como
+CRM mal implementado, assim como um RP
+mal implementado, assim como qualquer
+outro software implementado. O teu
+cliente ele vai olhar pra tua, pr pra pr
+a entrega que você tá fazendo, ele vai
+se perguntar o seguinte: "Pô, por que
+que por que que eu te pago se o cloud tá
+fazendo? Por que que eu preciso pagar
+para você fazer isso para mim se o cloud
+faz para mim?" E se a tua resposta ela
+for técnica, você já perdeu a resposta
+certa é o resto que eu vou te mostrar
+aqui nesse vídeo. Então vamos lá. A
+resposta disso é basicamente formada por
+três peças. É uma fórmula, né? Então a
+maioria das pessoas ela começa
+completamente errado. Então se você tá
+pensando em empreender, tá pensando em
+criar um negócio, provavelmente você
+deve estar pensando assim: "Pô, vou
+começar vendendo inteligência
+artificial". Cara, você vender
+inteligência artificial em 2026 é
+basicamente você vender arroz, arroz de
+de cozinha gritando para todo mundo:
+arroz, arroz, arroz, arroz. Ninguém vai
+querer esse negócio. Tipo, não é assim
+que vende. Você é mais um vendendo
+arroz, assim como qualquer outro
+supermercado. Para que que eu vou
+comprar dessa pessoa gritando arroz na
+rua se eu posso ir lá no supermercado e
+pedir? Não sei se você entendeu a
+metáfora, mas resumidamente é isso, tá?
+Então assim, quem vende para todo mundo
+vira genérico para todo mundo. Você vai
+ser só mais um vendendo arroz e
+provavelmente menos desqualificado,
+menos qualificado do que qualquer outro
+vendendo arroz todo. E eh vendendo
+arroz, por exemplo, no mercado. O
+caminho certo é completamente o
+contrário. Deixa eu explicar para você.
+Você vender a é loucura. Você tem que
+nichar, nichar, nichar, nichar, nichar.
+Olha essa frase aqui, maravilhosa, ó.
+O nicho é onde você literalmente
+constrói uma infraestrutura de
+inteligência artificial, uma AI first,
+que vai ser percebida como mágica,
+porque ela resolve de verdade o problema
+que trava o faturamento. Então assim, o
+primeiro passo é você nichar oferta
+extremamente específica para uma dor
+cara em um mercado caro. E como que você
+nicha? Você entra neste framework que eu
+tenho desenhado. Assim, cara, como que
+eu escolho um nicho? Não é uma resposta
+complexa de você responder. Pelo
+contrário, ela é uma resposta simples.
+Então, vamos lá. Como que você escolhe
+um nicho? Porque tem milhões de nicho.
+Primeira coisa, se você tem que
+implementar IA e resolver uma dor de um
+nicho, a inteligência artificial ela vai
+ter uma grande efetividade quando ela é
+plugada com automação. E você tem que
+atuar especificamente em procurar um
+nicho que tem muita repetição de
+processo. Então, nichos que tm tarefas
+repetitivas padronizadas ou com alto
+volume de execução. Exemplo, atendimento
+ao cliente, followup comercial, coleta
+de dados.
+Só isso? Não, pelo contrário, o nicho
+também precisa ter o quê? Potencial de
+crescimento econômico. Não adianta você
+focar num nicho que é falido, não tem
+lógica nenhuma. Então você tem que
+escolher um nicho que tem um potencial
+de crescimento econômico. Um nicho que
+que tá escrito aqui? o nicho, nichos que
+estão em crescimento ou com demanda
+recorrente no mercado. Eu coloquei
+deitado, velho, ficou até difícil de eu
+ler. Ou com demanda recorrente no
+mercado. Então, se você focar em nichos
+que estão que tem tendência de expansão,
+muitas empresas nascendo e
+principalmente, cara, nicho que tem
+injeção de capital, saúde, educação,
+construção, energia. Por quê? Porque
+quando tem gestão de capital significa
+que estão projetando crescimento para
+aquele nicho, tá? Qual que é a outra
+variável? O nicho que tem muitos
+gargalos visíveis. Então, um mercado que
+vive com um problema claro e que trava o
+crescimento. Por que que isso é
+importante? Porque, cara, é aqui, é na
+dor que você vai fazer a construção da
+sua oferta. Essa é a primeira peça,
+nichá. Então, mercado que o o player
+específico perde muito tempo com
+atendimento, não consegue escalar
+vendas, depende de pessoas demais, tem
+uma operação travada. Quer ver um nicho
+de exemplo? Boss financeiros. BPOs
+financeiros, cara, é um de um nicho
+que tem gargalos operacionais
+gigantescos, que tem muito processo
+repetitivo, que tem um potencial
+econômico gigantesco, porque as empresas
+que contratam BPO financeiro, elas já,
+ou melhor, as empresas tendem a
+terceirizar o financeiro para BPOs
+financeiros e capacidade de pagamento. O
+nicho tem que ter dinheiro para pagar. O
+player daquele nicho tem que ter
+dinheiro para pagar. Se você tentar
+vender para quem não tem dinheiro, não
+tem como você fazer uma oferta high
+ticket. E principalmente, não é só a
+questão de você fazer oferta high
+ticket, é a questão da sua capacidade
+geradora de dinheiro para aquele
+cliente. Então, se aquele cliente
+daquele nicho cobra bem, você ele tem a
+capacidade de te pagar bem. E significa
+que se você potencializar o negócio dele
+com poucos clientes, você já gera um
+alto valor de faturamento. E já você vai
+entender o por que isso é importante,
+porque faz parte da do nosso modelo de
+precificação aqui com infraestruturas de
+crescimento, com inteligência
+artificial. Então, nicho onde mora, onde
+onde os donos têm uma margem boa e uma
+urgência em crescimento. Esse é muito
+importante também, ó. Tem que ter margem
+boa. Por quê? Para ter capacidade de
+pagamento. Então, serviços com ticket
+médio alto, profissionais liberais
+premium. Por isso que a galera foca
+muito em médico, porque acha que médico
+tem dinheiro, mas maioria dos médicos
+hoje aí tá apertado, mas mesmo assim
+ainda ganha bem. Galera de consultório
+ganha bem sim. B2B ou empresas que
+vendem a alto valor. Então isso aqui é
+muito importante. A intersecção desses
+quatro blocos aqui é o que faz você
+definir e falar: "Cara, vale a pena eu
+atuar nesse nicho". Então deixa eu abrir
+todos os players desse nicho. Deixa eu
+entender como que é a cadeia para que eu
+faça uma boa escolha. E aí para ajudar
+você a escolher esse nicho, eu vou te
+dar quatro perguntas para você
+responder. Já anota aí. Já pega o papel
+e a caneta que eu falei para você pegar
+e já anota. Primeira primeira primeira
+pergunta que você tem que responder,
+onde que o dinheiro já tá sendo gasto
+naquele nicho? Então assim, você não vai
+evangelizar o mercado. Não faz sentido
+você perder tempo tentando evangelizar o
+mercado com inteligência artificial. Vai
+para um mercado que já tá indo atrás
+disso. Então onde ele já tá sendo gasto
+e onde já se pagam por geração de
+resultado, isso já acontece. É só você
+olhar para nichos especificamente que
+investem um alto dinheiro em marketing
+digital. Qual que é a segunda pergunta?
+O que que esse mercado já tá comprando
+hoje? Olha para ver qual que é a oferta
+atual desse mercado. Então, por exemplo,
+vou pegar um exemplo esdruxo. É o BPO
+financeiro. O que que o BO o que que o
+BPO financeiro já compra hoje? O que que
+o dono do BPO financeiro já compra hoje?
+Bem provável que ele já tá comprando
+mentorias de e melhoria de processo. Bem
+provável que ele tá comprando e eh
+mentorias de vendas, ferramentas para
+vendas. Bem provável que ele tá
+investindo em tráfego pago. Então, olha
+com carinho e fala assim: "Porra, aonde
+que esse mercado já tá comprando hoje?
+Software, agência, consultoria, o que
+que ele assina que te diz ali o que que
+ele valoriza?" Isso vai agilizar para
+você no processo de construção de
+oferta. Terceira pergunta que você tem
+que responder: qual que é a dor mais
+cara de todas as dores? Porque é o
+seguinte, uma empresa tem várias dores,
+uma empresa tem dezenas de dores.
+No seu mapeamento você vai encontrar
+várias, só que você não tem que olhar
+aquela que só incomoda, você tem que
+olhar aquela que trava a receita, que tá
+travando o faturamento. Por exemplo,
+aqui na Acelera, cara, no show de lead
+um negócio que trava muito a nossa
+receita. Então é a principal dor que a
+gente ataca ferozmente para conseguir
+diminuir no show de lead ou lead que não
+responde, entendeu? Isso aí é o quê?
+Orçamento travado. É como se fosse um
+estoque. Então isso é muito importante.
+Quarta pergunta que você precisa
+responder: quem que já vende para ele?
+Olha aqui agora. E como ele vende? Qual
+que é o ciclo daquele seu concorrente?
+Concorrente não, porque você tá vindo
+com uma nova oferta. você tá, você tem
+que ocupar um espaço que não foi
+ocupado, quem que já tá vendendo para
+ele e como tá vendendo, como que eles
+estão achando tem concorrente aí
+ganhando dinheiro já nesse nicho,
+entendeu? Isso eu tenho certeza disso.
+Só que isso não é um problema para você.
+O pessoal fala assim: "Porra, é, tem, já
+tem gente, porque esquece, se não tiver
+gente, é um nicho ruim, então já tem
+gente ganhando dis dinheiro aí. Isso é
+um sinal e um sinal positivo. Se tem
+gente pescando lá é porque tem peixe.
+Ninguém pesca em lugar que não tem
+peixe. Ah, Kelvin, mas nossa, o mercado
+ainda não tá preparado paraa
+inteligência artificial. Olha esse dado
+aqui, ó. Não sei se você sabe. Olha essa
+informação aqui, ó. 40% das empresas
+brasileiras usam inteligência artificial
+todos os dias. Parece muito, mas na
+verdade é um sinal de que a maratona
+está só no aquecimento. Sabe por esse
+dado aqui é um absurdo? Porque olha o
+seguinte, apenas 8% das empresas do
+Brasil tem um nível avançado de A. Esses
+34% que usa de forma intermediária é uma
+mentira. Isso aqui é uma falácia. Eu
+acho que até os 8% também seja. Sabe por
+quê? Porque o mercado ainda é muito
+imaturo na utilização de inteligência
+artificial. Só que sabe o que que
+realmente isso aqui significa? Significa
+que o mercado já tá querendo
+inteligência artificial. Ele não precisa
+ser convencido de que ele precisa da IA.
+Ele precisa de alguém que realmente
+implemente no negócio dele. Essa é sua
+fila e não venda para ele uma IA. Ele
+quer que implemente e principalmente ele
+quer que aquela IA implementada resolva.
+Pegou? Pegou? Ô cara, tô com três telas
+aqui, gente. Esqueci que a minha câmera
+tá aqui do lado. Pegou aí peça dois
+dessa resposta. Vamos lá. Peça dois.
+Deixa eu voltar aqui. Aqui a máquina.
+Legal. Eu entendi sobre o nicho. Agora a
+gente vai falar sobre a infraestrutura.
+de a aquilo que tem que ser realmente
+vendido, entendeu? Então é o que você tá
+vendendo. Primeiro você vai ter que
+entender o que que você vende. E aí para
+explicar isso aqui, eu vou pegar o meu
+bloquinho para você poder entender, tá?
+Então isso aqui é a pirâmide do
+conhecimento. Aqui na base da pirâmide,
+ó, a gente tem o quê? Aqui, ó, nessa
+base, esqueci que aqui, ó, tem o
+conhecimento. Deixa eu te contar uma
+coisa. O conhecimento a IA já tem.
+Então, não faz sentido você
+vender o conhecimento. No topo da
+pirâmide, a gente tem a sabedoria. Cara,
+o que que é a sabedoria? A sabedoria é o
+conhecimento
+aplicado na prática. E conhecimento na
+prática, para gerar sabedoria, você tem
+que errar muito. Você provavelmente já
+tem muito conhecimento aplicado na
+prática com erros que você provavelmente
+já pagou, entendeu? Por exemplo, vou dar
+um exemplo de de um do aluno lá em cima
+que eu mostrei no começo. Cara, é gestor
+de tráfego. Aquele gestor de tráfego.
+Bom, vocês vão entender minha letra
+aqui, não precisa entender. Entenderam
+aqui, ó? Deixa eu escrever bonitinho que
+eu me senti mal agora. Gestor, gestor de
+tráfego. Tem um outro aluno meu que é
+especializado em esqueci o nome da eh eh
+nossa, sumiu o nome da cabeça agora,
+aqueles contratos. licitação. Licitação.
+Então assim, cara, são pessoas que já t
+muito conhecimento aplicado na prática,
+estudaram muito, sabem o que funciona, o
+que não funciona, entendeu? Então assim,
+isso que eles têm da prática, então a
+prática,
+o a inteligência artificial não tem de
+forma alguma. A Iá não tem isso. Aá tem
+o conhecimento de como roda uma
+campanha. Aíá tem o conhecimento de como
+de como funciona uma licitação, mas não
+tem os macetes, não tem o jeito,
+entendeu? Então assim, aquilo que vou
+dar um exemplo, o modo de qualificar um
+paciente, o modo de subir uma campanha
+de tráfego, o modo de entrar num edital,
+eu não sei quais conhecimentos você tem,
+quais sabedorias que você desenvolveu na
+sua vida, mas eu tenho certeza que você
+tem muitos. Até por isso, no começo do
+vídeo, eu falei, se você é um prestador
+de serviço, se você é um dev, eu tenho
+absoluta certeza que você já pagou muito
+para desenvolver, você pagou isso com
+erros. Isso a inteligência artificial
+não tem. Então agora o que você tem que
+fazer? Você tem que embalar.
+Você vai embalar isso aqui numa máquina.
+Essa é a máquina. E você vai entender
+como que isso aqui funciona. E essa
+embalagem nessa máquina que nós chamamos
+de produtivização.
+Vou dar um um exemplo muito simples para
+você. Este gestor de tráfego aqui em
+cima, ele tinha dois caminhos. Eu vou
+abrir aqui, ó. Dois caminhos. Primeiro
+caminho era continuar prestando o
+serviço como gestor,
+cobrar como gestor, talvez montar uma
+agência de marketing. O segundo caminho
+era embalar todo esse conhecimento dele
+em um sistema
+operacional. É um cara que entende muito
+de e-commerce, é um cara que tem as
+técnicas de e-commerce. Então ele ele
+ele focou em estruturar todo esse
+conhecimento num sistema operacional. No
+centro desse sistema operacional, vou
+dar um vou descer aqui, só no centro
+desse sistema operacional, ele criou o
+cérebro. O que que tem nesse cérebro? O
+conhecimento dele, o contexto do nicho
+dele, dados, o playbook, o como que ele
+toma decisões, como que ele analisa os
+dados. Então, nesse aqui a gente chama
+de núcleo.
+Esse núcleo aqui, basicamente, é a
+camada de inteligência.
+Vamos resumir como ponto MDS e agentes
+de inteligência artificial, tá? Então
+aqui vai ter toda a sabedoria dele
+codificada. No seu caso, teria a sua
+sabedoria aqui dentro, o modo como você
+aprendeu tudo aquilo que você
+desenvolveu. E aí você pluga nessa
+sabedoria aqui dentro cinco frentes.
+Oferta, estruturação de oferta,
+principalmente aquisição,
+aquisição, tudo isso para um nicho, tá,
+específico. Vendas,
+vendas, entrega,
+entrega e operação.
+Não são cinco caixinhas soltas, não é
+uma estrutura específica de
+oferta, uma máquina específica de
+aquisição, uma máquina específica de
+venda, a parte da entrega, a parte da
+operação, não é tudo integrado, tudo
+integrado e rodando. Isso aqui é um
+sistema operacional, entendeu? E esse
+sistema operacional, ele tem aquilo que
+eu falei para vocês. Por exemplo, o
+nicho. No caso desse gestor de tráfego
+aqui, o nicho dele é e-commerces. Eh,
+eh, lojas, pessoas que têm e-commerces e
+gastam lá em média, se eu não me engano,
+eh, acima de R$ 10.000 por mês de
+tráfego pago. O que que ele faz? Ele
+condensou o conhecimento dele de
+estruturação de oferta. Ele criou todo o
+playbook de aquisição de vendas.
+como que é feito o delivery, a entrega
+da máquina dele e toda a estrutura
+operacional, como que ele
+operacionaliza, tudo isso conectado no
+cérebro e ele vende isso num modelo de
+sistema. Então ele pega lá a conta, a a
+BU do cliente, conecta aqui dentro e os
+agentes dele começam a trabalhar. Isso
+faz com que ele possa atender 10, 15, 20
+clientes. E como ele precifica isso?
+Vocês já vão entender, Kelvin. E como
+operacionaliza isso? uma única pessoa eh
+consegue operacionalizar, aí a gente
+entra naquela régua, lembra da régua que
+eu falei para você? Tudo que tiver que
+contratar pessoas fica fora. Se toda
+tudo que aquilo que eu for implementar
+na minha operação
+para escalar eu depo, eu depender de
+pessoas, eu deixo de lado. É uma decisão
+que é adiada. Tudo que não for, ela é
+priorizada. Então, por exemplo, uma
+única pessoa, opa, uma única pessoa,
+nesse caso, o One Person, o trabalho
+dela é coordenar.
+Ela faz a parte da aprovação, né? Então
+aqui aprovação, vou colocar aqui, ó, a
+curadoria do que tá sendo feito. Isso
+aqui tem que ser feito por uma pessoa,
+não adianta. Por quê? Por conta da
+sabedoria. Então ela tem que fazer
+ainda, não vai operacionalizar 100%
+automático, porém toda a execução. Então
+aqui eu vou colocar aqui assim, ó, é a
+parte da sabedoria dele,
+coordenação e e a curadoria. Agora esse
+pedaço aqui é execução.
+Toda execução ele automatizou e fez um
+processo de implementação com
+inteligência artificial. Isso aqui sim é
+um organismo. Então, por exemplo, pô, no
+processo dele, vou dar um exemplo aqui,
+né? tem eh os clientes dele precisa
+fazer a qualificação dos leads. Ele foi
+lá e criou o mecanismo para fazer a
+qualificação. Pô, os meus clientes para
+eu gerar resultado, eu tenho que ter uma
+máquina de follow-up. Então ele foi lá e
+estruturou um processo de follow-up.
+Geração de relatórios.
+Mesma coisa. Relatório. Produção.
+Produção. Tem que produzir. Tem que tem
+que produzir estático.
+Estático. Criativos estáticos, né? Tem
+que produzir copy, copy, tem que
+produzir vídeo por IA, por exemplo,
+vídeo GC,
+GC, entre aspas, é um exemplo. Tudo isso
+aqui foi produtizado. Então, basicamente
+aqui ele tem um painel e ele administra,
+ele faz o processo de administração. Pô,
+isso aqui vai, isso aqui não vai, isso
+aqui tá certo, isso aqui tá certo. Isso
+permite com que ele consiga
+operacionalizar aquela máquina e fazer o
+atingimento do primeiro e e 1 milhão
+dele. Ele já bateu aí 100.000 de MRR, na
+verdade ele tá com 1.2 milhões, tá?
+Então isso aqui não é teoria da minha
+cabeça, tá? Então se você for analisar,
+cara, o momento que a gente tá vivendo é
+bizarro. Pega lá a Cursor que que vende
+inteligência artificial, ou melhor,
+plataforma de desenvolvimento de
+software. Esses caras aí atingiram 1
+bilhão de dólares de receita anualizada
+com 300 pessoas. Vocês têm noção que
+esses caras basicamente ali fizeram mais
+ou menos tr milhões de dólares por
+cabeça dentro da operação? Isso é muita
+loucura. Isso é 10 vezes mais do que
+qualquer software tradicional. Por quê?
+Porque eles criaram um sistema, o
+Lovable, mesma coisa, absurdamente.
+Bolt, mesma coisa. Base 64, base 44,
+foi, se não me engano, o marido e a
+esposa que montaram isso, essa essa
+ferramenta, sistematizaram uma operação
+com seis pessoas e estão vendendo
+bilhões. Então, assim, isso aqui não é
+história. Isso aqui é o seguinte. Isso
+aqui é você jogar o jogo de sistemas
+operacionais
+com a sua sabedoria. Então, por isso
+que, e eu vou falar uma coisa mais,
+hein? A galera de agência, eu falei, pô,
+as agências vão sumir, cara. Eu entendi
+que não dá para você operacionalizar
+100% uma agência num alto rendimento,
+eh, ou de forma interna, você sempre vai
+ter que ter uma pessoa. E o empresário,
+ele tá muito ocupado para montar um
+time, então ele precisa achar um
+profissional muito bom. Se ele quiser
+internalizar isso, pelo menos um
+profissional tem que ter. Agora você
+pode ser uma agência estruturada que
+vende serviço, mas operacionaliza como
+software desse jeito aqui. Agora a gente
+vai pro terceiro, pra terceira peça.
+Como que cobra? Você entendeu aqui, ó?
+Ah, pô, K, mas esse desenho bonito, isso
+aqui é só um desenho de um framework de
+AI first os. Mesma coisa, mesmo
+conceito, ó. Só que o desenho mais
+detalhado ali para você. Aqui tá a
+inteligência operacional do mercado,
+como seriam os entregáveis. Aqui seria
+atração de leads, eh, conversão, onboard
+em ativação, que é a parte da operação.
+Eu gosto muito de trabalhar com vendas.
+Por quê? Porque é onde você, onde o
+cliente vê o resultado. E para ser
+sincero, toda vez que você foca na área
+de comercial para pro pequeno
+empresário, não pequeno micro, o cara
+que tá faturando entre 1 a 5 milhões de
+faturamento, é maravilhoso, porque
+basicamente ele tem que vender. Agora
+vamos pra terceira peça. A terceira peça
+é simples, é a precificação, a cobrança.
+Pô, como que funciona? cálculo de
+padaria. Vamos entender como precifica
+isso. Primeira coisa, ó, deixa eu voltar
+para minha lozinha aqui para você pegar
+antes dois conceitos simples,
+simplesinhos, ó. Quando a gente tá
+falando desse tipo de solução,
+não é para você cobrar um SAS eh igual
+um SAS eh horizontal, cobrar R$ 90,
+R$ 200, R$ 300. Cara, que loucura.
+Imagina o seguinte, você vai lá e faz o
+cara, você criou uma máquina monstruosa
+com a sua sabedoria, com as suas dores,
+você pagou o preço dos seus erros, você
+sabe como o mercado funciona, você sabe
+que pode gerar valor e aí você
+basicamente faz o cara pular de 100k de
+faturamento e a hora que ele implementa
+a tua metodologia, ele vai para 130.
+Significa que é 30k a mais por mês. Por
+mês, hein?
+Faz a continha aqui, ó. 12 meses, 30,
+10, 300, 360 por ano é 360.000
+por ano que você gera para ele de
+resultado.
+Eu vou te perguntar uma coisa. É justo
+você cobrar R$ 200 por mês, que daria R$
+2400 por ano?
+Ano?
+É justo? Não, né? Por quê? Isso aqui é
+um erro grave de precificação,
+gravíssimo. A gente vai fazer uma
+precificação, eu vou ensinar vocês aqui
+a fazer um um cálculo de precificação
+por valor gerado
+ou resultado gerado.
+Tangibilizado e calculado. Não é
+chutado. Precificação não é chute,
+cálculo. Então vamos olhar aqui, ó.
+Deixa eu voltar pro meu aqui. Então
+vamos lá. Cálculo besta de padaria aqui
+que a gente vai fazer, tá? Imagina o
+seguinte, seu cliente, seu futuro
+cliente, ele fatura R$ 100.000 por mês.
+Aqui, ó, faturamento do cliente, você
+faz ele faturar R$ 100.000 por mês. A
+tua infraestrutura, a tua máquina, o teu
+conhecimento ajudou ele destravar R$
+30.000 adicionais por mês. Significa que
+ele vai ter o acréscimo anual de R$
+Então imagina assim, pô, ah, a agenda do
+cara não fura, você diminui o o no no
+show dele, você tem col implementou lá
+um agente de A que faz o lead ser
+respondido em minutos, eh, que tem um um
+modelo de conversa que a conversão é
+maior, você envia o orçamento no prazo,
+envia o contrato no prazo, então você
+conseguiu destravar mais 30.000 de
+faturamento. Pasmem, isso aqui não é
+difícil. Isso é difícil pro empresário,
+porque ele tá imerso em muito problema.
+Então ele tá procurando um parceiro para
+ajudar ele a resolver o problema dele. E
+o problema dele é que ele quer faturar
+mais, entendeu? Ele quer faturar mais.
+Então vamos supor aqui que você
+destravou esses 360. Que que você, como
+que você precifica? Você vai cobrar um
+setup, uma mensalidade ou perdão, um
+setup, um valor de implantação de
+configuração inicial que representa 10%
+do valor gerado. 10% do valor gerado,
+36.000. E você vai cobrar uma
+recorrência média, que é uma mensalidade
+depois da implantação de 5400, que é o
+quê? De 10 a 20% do valor do setup.
+Essa, esse aqui é o cálculo. Esse aqui é
+o cálculo que você tem que fazer.
+Cobrando isso daqui, com apenas 12
+clientes, você consegue ter um acumulado
+de setup de R$ 432.000,
+uma recorrência, um empilhamento de
+carteira de R$ 776.600.
+R$ 600 no ano em 12 meses e você bate
+1.2 milhões de faturamentos por mês ou
+por ano? Por mês, por ano, por ano com
+uma única pessoa, 12 clientes, você
+consegue operacionalizar 12 clientes.
+merda, K, não consigo cobrar isso.
+Muito caro. Eu não tenho ideia como o
+preço ficar desse jeito. Aumenta o
+volume de cliente, 3.000, diminui para
+3.000, é só você fazer o cálculo
+proporcional. Vai ser 15, 16 clientes a
+mais e já vai dar também 1.2 milhões de
+faturamento. Meu cara, mas é para criar
+isso é muito complexo, é muito grande.
+Ó, deixa eu te explicar. Isso daqui é
+alavancagem.
+Com esse modelo de precificação, você
+pode contratar a gente, você não
+precisa, mas você pode. Mas você pode
+usar o dinheiro do setup dos clientes
+para financiar a construção e a robustez
+da sua infraestrutura. Imagina o
+seguinte, o primeiro cliente, ele vai te
+dar dor de cabeça, tá tudo bem, tempo de
+implantação lá em cima, demora para
+instalar, demora para configurar, só que
+aí o segundo cliente não, o segundo
+cliente já tá mais pronto. Por quê?
+Porque o primeiro já pagou o pato. Ele
+pode até pagar um pouquinho mais barato.
+Aí entrou o segundo cliente, tempo de
+implantação diminuiu, opa, margem
+começou a subir, aí começou a dar
+dinheiro. E o terceiro cliente, opa,
+mais. e o quarto, e o quinto, e o sexto,
+e o sétimo e o oitavo, você tá nichado.
+Essa seta é produtizado. Conttrol C,
+conttrl V, contrtrol C, conttrol V.
+Poucos ajustes, porque o que serve para
+um serve para todo mundo. No final das
+contas é um SAS, no final das contas é
+um software as a service. Isso aqui se
+chama empilhamento de carteira. Em algum
+momento, a margem ela estabiliza
+e o tempo de implantação também
+estabiliza. É nesse exato momento que
+você rompe. Agora eu vou explodir a tua
+cabeça, vou te dar um outro exemplo.
+Esse exemplo aqui foi simples, uma
+precificação simplificada. Quer ver um
+exemplo do que a gente tá
+operacionalizando aqui de verdade? É
+esse modelo de precificação aqui, ó.
+setup, igual você entendeu,
+mais recorrência,
+mais bônus por performance.
+Então, imagina o seguinte,
+imagina que você é um consultor
+estratégico. Você pegou a empresa toda
+cagada, cara, toda cagada. Você desenha
+um quadro
+de bonificação
+por atingimento de resultado. Se eu
+bater mais 20k é x. Se eu bater mais 40k
+adicional é x 1.02%.
+Se eu bater mais 100k é x 1.05%.
+E mais de tantos K. Então você cria uma
+bonificação por performance em cima de
+um percentual. Opa, coloquei a setinha
+errada, mas vocês entenderam. Em cima de
+um percentual, pô, tô escrevendo aqui,
+deixa eu ver se tá gravando a tela
+certa, tá? Em cima de um percentual
+significa que a sua recorrência, ela vai
+ter um fixo
+mais um variável
+sem teto. Esse é o jogo. Pô, que
+empresário pagaria isso? Eu que te
+pergunto o contrário. Imagina o
+seguinte, que empresário pagaria pra
+gente ajudar ele a pular de 100 para 150
+de faturamento, para 200 de faturamento
+por mês, para 300 de faturamento por
+mês? Sabe o que que o empresário quer?
+Parceiro.
+Ele quer um parceiro. Ele quer um cara
+que abrace o risco junto com ele. Isso
+aqui é sinônimo de você abraçar o risco.
+Você cobra X, mas você escala também
+conforme você faz o seu cliente escalar.
+Do ser, de um lado gera o interesse em
+você em querer realmente fazer e do
+outro gera o interesse do cliente querer
+fechar com você. Kelvin, você pegou os
+principais cases, isso não funciona.
+Deixa eu te perguntar, deixa eu te
+mostrar uma coisa. Aquilo lá não é
+exceção. Aquilo lá, ó, olha isso aqui,
+ó. Isso aqui é o padrão da casa por
+case, ó. Bruno Berg, Thiago Meyer. Olha
+aqui quanto esses casas ganhavam por
+mês. 3k por mês. Olha isso aqui, ó.
+contr eles criam contratos de maior
+valor, fechar contrato de maior valor,
+um plano correto para executar, eles
+estavam procurando um plano. Então,
+antes, em junho, quando eles entraram
+aqui, largaram o emprego sem dinheiro.
+Alguns meses depois, Tomely, conhecendo
+o cliente. Tomely, cadê? Cadê? Tomely,
+olha aqui, quatro fábricas de tecido.
+Tomely, olha que maravilhoso. Projeto de
+34 do carro fechado. E vai, e vai. Tome
+nesse daqui, ó. Olha isso, que
+maravilhoso. Tem dinheiro que paga isso
+aqui? Não, né? Não tem. Maravilhoso. 18
+anos de idade. Se um moleque de 18 anos
+faz, você não vai fazer. E qual que é o
+teto da onda, Kb? Tá, quando isso vai,
+cara, eu não tenho ideia. Eu só sei de
+uma coisa. A onda nem começou ainda. Vi
+base 64, Lovable e qualquer outro. O
+padrão, sabe qual que é o padrão? É o
+seguinte, ó. uma uma pessoa mais
+inteligência artificial no começo da
+operação e depois um time extremamente
+mínimo quando escalar e só contrata
+quando realmente precisar de gente.
+Times inxutos e extremamente eficientes.
+Essa é a receita, entendeu? Esse é
+literalmente a real do negócio de uma
+pessoa só. É isso daqui, ó. Uma única
+pessoa, mas inteligência artificial no
+começo e depois escala para um time
+mínimo, quando realmente for preciso,
+tá? Então o jogo ele não é você
+contratar primeiro, o jogo é você botar
+para tourar na inteligência artificial,
+entendeu? E fazer cada pessoa valer 10,
+20, 30 vezes o que ela faria de dinheiro
+sozinha. Então esse é o grande segredo
+de você implementar e de você criar o
+OnePerson Business. E aqui eu trouxe
+para vocês uma embalagem extremamente
+necessária e precisa ser feita. Então a
+gente tá passando por um processo de
+transformação muito rápido. Então fecha
+aqui comigo para você gravar bem.
+Infraestrutura de inteligência
+artificial vertical e resultado gerado.
+Esse é o jogo certo. Uma vertical com
+uma dor que seja cara para aquela pessoa
+e você vai resolver. Você vai criar a
+máquina que vai ser o teu conhecimento
+embalado num sistema operacional no
+modelo AI first. Você vai colocar uma
+camada de inteligência no núcleo. São
+cinco frentes que vão estar plugadas
+nessa camada. E como que você vai fazer
+a cobrança disso? Já te falei, você vai
+fazer um setup inicial mais uma
+recorrência ou setup mais recorrência
+mais um bônus ali por performance, tá?
+Para acelerar e aumentar o teu ticket
+médio por cliente, tá? E não foque em
+ficar empilhando ferramentas, não foque
+em estruturar agentes de inteligência
+artificial eh eh soltos. Intelig Isso aí
+é coisa de prateleheira. Isso é igual
+aquele software de CD, não serve para
+nada. E você coloca a régua para tudo.
+Inteligência artificial executa, você
+decide. Você nunca, ou melhor, você não,
+nunca vai ficar sem uma pessoa para
+tomar a decisão. Isso é muito
+importante. Precisa ter um ser humano
+ali ajudando a tomar a decisão do
+negócio. E anota isso aqui, ó, para você
+nunca esquecer. Quando a sua entrega ela
+aparece uma tarefa executada,
+o cara vai encarar você como um simples
+fornecedor. Pô, esse cara é um
+fornecedor. Agora, quando a sua entrega
+daquele seu serviço, ela se torna parte
+de uma infraestrutura, ela se torna
+infraestrutura daquela empresa, você
+passa a ser parte da operação. Aí ele
+não consegue te trocar mais. Agora vem
+aquele convite que eu te prometi lá no
+começo desse vídeo. Então se você já é
+um prestador de serviço, é um
+desenvolvedor, já tá operacionalizando
+aí o teu negócio, se você já tem um
+conhecimento de mercado, não importa
+qual mercado seja, e o que tá te
+faltando é estrutura para você criar sua
+própria infraestrutura de inteligência
+artificial, eu te convido, ó, clica no
+link que está aqui na descrição desse
+vídeo e faça a sua aplicação para
+Acelera 360. Meu time vai chamar você no
+WhatsApp, vai analisar a sua inscrição e
+vai marcar uma reunião com você, tá?
+Agora, se você tá começando agora do
+absoluto zero, você ainda não entende
+nada, guarda esse vídeo aqui para você,
+aplica esse passo a passo que eu te
+expliquei e volta só hora que você tiver
+um mercado ou no máximo dois mercados na
+sua mina para você falar assim, ó, cara,
+é isso aqui que eu tenho que fazer,
+porque aqui na Celara 360 a gente te
+ajuda a construir como se fosse um
+operador completo, não como uma plateia.
+Então você não vai entrar aqui para você
+ficar assistindo o vídeo. O ideal é que
+você já tenha um mercado para aplicar ou
+um conhecimento base pra gente converter
+isso para uma infraestrutura de
+crescimento com IA para ajudar você a
+criar o seu sistema operacional. Então
+não perca essa oportunidade, ó, se você
+é essa pessoa, clica aqui agora e se
+aplique. Fechou? Espero que você tenha
+absorvido, espero que você tenha gostado
+muito desse vídeo. Já dá seu like aqui
+também, dá seu joinha, já me segue aqui
+também no meu canal. Um abraço e até
+mais.
+Yeah.

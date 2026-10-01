@@ -1,0 +1,438 @@
+O colapso que a inteligência artificial
+tá causando no mercado de software é
+muito maior do que você imagina. Nesse
+vídeo eu vou explicar o cenário, o
+panorama atual para você. Inclusive eu
+vou mostrar para você como você pode
+aproveitar para que você possa
+empreender com a inteligência
+artificial, se posicionar, colocar tua
+prancha na água, se preparar para você
+fazer, ou melhor, fazer não, né? fazer
+assim, fazer dinheiro para É
+possível, estamos no melhor momento para
+isso. Então, seja você dono de agência
+de marketing, gestor de tráfego, dono de
+agência de inteligência artificial,
+desenvolvedor, ó desenvolvedor que me
+assista, preste atenção no que eu estou
+falando. Aprenda a vender e aproveite a
+oportunidade porque o dinheiro tá
+trocando de mão. Eu vou mostrar isso
+para você e vamos começar esse vídeo.
+Chega de especulação. Para você que não
+me conhece, muito prazer. Meu nome é
+Kelvin Clet. Eu sou um programador que
+um dia decidiu empreender. Vendi a minha
+empresa, a primeira empresa que eu
+montei, que deu certo no ano passado,
+fiz o meu exit e tô à frente da Celera
+360. Para você que não conhece a Celera
+360, nós somos um ecossistema feito por
+empreendedores para empreendedores.
+Então, se você quer empreender com
+inteligência artificial, se você quer
+escalar o teu negócio, para você que tá
+começando a sua jornada, quer emitir a
+sua primeira nota fiscal em até 90 dias,
+clica no link que tá aqui na descrição
+desse vídeo e venha conhecer, acelera.
+Agora bora começar esse conteúdo porque
+tá pedrado, hein, cara. Estou
+conversando, trocando uma ideia com
+vários founders e inclusive alguns que
+já foram aí do zero ao bilhão algumas
+vezes. Eh, Juliano Dutra, ex um dos
+fundadores do iFood, ex-fundador do
+iFood, gringo, Rodrigo Lopes da Docket.
+E o panorama da inteligência artificial,
+ele é um só. Então, vamos lá. Seguinte,
+o colapso da inteligência, nome, na
+verdade, não é o colapso da IA e sim, o
+colapso que a IA está causando, tá?
+Vamos entender as ideias principais aqui
+que a gente tá passando. A gente
+literalmente tá vivendo uma das maiores
+transições de tecnologia da história.
+Então, a maioria tá interpretando errado
+tudo que tá acontecendo. Eh, tão achando
+que, ah, não, aí a eh, pô, eu consigo
+criar empregados com inteligência
+artificial, eu consigo criar automações
+com inteligência artificial. E as
+pessoas estão olhando para IA como
+ferramenta, cara. E a IA não é mais
+ferramenta. A IA ela é infraestrutura,
+infraestrutura de crescimento das
+empresas. O problema não é que a
+inteligência artificial vai tirar o
+emprego das pessoas, o problema real é o
+colapso do modelo antigo do software. O
+modelo antigo é o SAS, cara. E olha que
+loucura, cara. Quem diria que o SAS ia
+sofrer, tá? Então, como o mundo do
+software funcionava antes? O conceito
+principal é o seguinte, a era SAS é a
+era do produto padronizado. Um único
+software era desenvolvido por uma
+empresa de tecnologia e essa empresa de
+tecnologia, em vez de vender este
+software, ela alugava, que é o software
+Assice. Ela alugava este software e aí o
+que acontece? Ela gastava milhões para
+desenvolver
+e alugava por
+barato, por usuário, por transação, por
+não importa. o sistema acabava ficando
+barato e ele podia ser consumido tanto
+por pequenas
+e médias empresas. Só que esse SAS ele
+tinha que ser para atender todo mundo,
+ele tem que ser construído ou ele tinha
+que ser de eh de um num modelo mais
+genérico, por exemplo, um pipe pie, um
+pipe drive, um um miro da vida, que é um
+sistema, o miro, ó, e que é um um
+nossa, sumiu a mente, a ideia da cabida
+que é um sistema mais genérico de camban
+para gestão de processo, um CRM de forma
+mais genérico que atenda n negócios e
+ele acaba não atendendo todos os
+negócios de forma específica. e sim as
+coisas comuns desses negócios. Então é
+meio que a maioria eram 80, 20, 70, 30,
+dificilmente a gente consegue calcular
+esse percentual, mas qual que é o
+conceito? O software, o SAS ele resolve,
+ele automatiza ou ele gerencia ou ele
+digitaliza eh 80% dos problemas e os 20%
+ficam descobertos e tá tudo bem, as
+empresas acabam se adaptando a isso,
+elas se adaptavam a isso, tá? Então, CRM
+genérico, RP genérico, sistemas ali que
+obrigavam as empresas até a mudar os
+processos e se adaptar à aquele SAS ou
+colocar dois, três, 4, 5, 6 SAS, né? Só
+que isso acontecia por quê? Porque
+antigamente,
+antigamente, há dois anos atrás, um ano
+atrás, lá na época dos incas, o software
+customizado custava centenas de
+milhares. ter um time de tecnologia
+custava muito caro e apenas grandes
+empresas conseguiam ou podiam bancar
+este time de desenvolvimento. Então,
+para ter um time de desenvolvimento não
+era só necessário desenvolvedores, era
+necessário ter uma liderança técnica, um
+time de tecnologia, um PO, eh,
+acompanhamento, ter um time de produto
+para conseguir desenhar aquilo ali, até
+porque o cliente final não conseguia nem
+pedir a a o software para ah para uma
+empresa ou controlar ou gerenciar um
+time de desenvolvimento. Então, construí
+um sistema custava 500.000, milhão,
+cara, pr Entendeu? Consequência
+disso, pequenas e médias empresas eram
+forçadas a usar SAS genéricos para
+atender as suas operações. Só que eu não
+sei se você sabe, eu não sei se você
+sabe desse dado. Você pega o Brasil num
+universo de 24 milhões de empresas, 20
+milhões são pequenas e médias,
+talvez até mais. 22 milhões,
+provavelmente. Talvez até mais, não sei.
+É, é muita empresa média em pequena
+média. A maioria, maioria, se eu não me
+engano, só alguns por são grandes, tá,
+Kelvin?
+Isso até quando isso até agora. Isso até
+esse momento, até ano passado. E agora?
+Agora o que que muda com a inteligência
+artificial? Você pega inteligência
+artificial, o gestor, ou melhor, o don
+da empresa faz um curso de lovable, um
+curso de no code, um curso de cloud code
+e a inteligência artificial vai permitir
+com que ele, sabendo usar crie sistemas
+personalizados muito mais rápidos. Ah,
+Kelvin, mas e a segurança da informação?
+Ah, Kelvin, e a governança. Ah, Kelvin e
+o versionamento. Ah, isso, cara, deixa
+tudo isso de lado, porque isso vai ser
+resolvido através dos caminhões de
+dinheiro que essas empresas estão
+recebendo para resolver isso. São
+problemas que estão mapeados e elas vão
+resolver. A Lovab vai resolver isso,
+Bolt vai resolver isso, Cloud Code vai
+resolver isso. Essas empresas irão
+resolver este problema de segurança.
+Fique tranquilo. Ah, mas hoje tem esse
+problema, tá tudo bem, não tem problema
+nenhum. A empresa pequena não tá nem
+ligando para isso, para ser sincero, ela
+não tá nem ligando para isso. Na
+verdade, nem os devs estão ligando para
+isso. A segurança que o dev sabe, vamos
+ser sincero, você que é dev, tá me
+assistindo aqui, a segurança que você
+implementa aí é https e256 na senha.
+Vamos falar a verdade aqui nesse vídeo.
+Então, vamos lá. Automações. Mas e agora
+o seguinte, automações LLMs, APIs,
+automações com N8N, com make, com KFC,
+com com qual cáca. Kafca é mensageria,
+cara. comestra, kestra lá, os caras
+conseguem fazer automação usando low
+code. Resultado disso é o quê? Soluções
+customizáveis ficaram 10 vezes mais
+baratas. Significa que o desenvolvedor
+mediano consegue e o cara que quer
+empreender igual a mim, que empreende e
+eu e a galera que eu ensino a
+empreender, consegue desenvolver
+software mais rápido. Aproveitando, você
+que quer empreender, seja você
+programador, deixa eu te falar, existe
+um modelo de negócio validado para você
+implementar, que eu vou explicar nesse
+vídeo até um pouco para você, que são
+que a gente eu chamo de infraestrutura
+de crescimento com IA. O ponto é, você
+tem que tá na Acelera, porque na Acelera
+eu vou ajudar você a empreender, eu vou
+ajudar você a emitir a sua primeira nota
+fiscal em até 90 dias, ou vou ajudar
+você escalar a tua operação do teu
+negócio em até 90 dias. Para você que
+quer empreender, você tem que conhecer
+Acelera. O link tá aqui na descrição
+desse vídeo. Para você que tem dono de
+agência de marketing, gestor de tráfego,
+agência de a, não importa, você quer
+empreender com tecnologia, o link também
+tá aqui na descrição desse vídeo. Clica
+aqui e saiba mais sobre Acelera 360,
+porque nós podemos te ajudar. Então a
+consequência que a e a traz é o
+seguinte, tá barato, tá barato para
+caraca. Então antes um sistema
+customizado custava R.000. Agora um
+sistema customizado custa quanto? R$
+50.000, R$ 80.000, às vezes até menos
+R.000. Ah, Kelvin, mas não é um sistema
+de alta qualidade. Ferramenta é
+ferramenta.
+Ferramenta é ferramenta. Por isso que eu
+falo para vocês, você que não me tá me
+começando a me acompanhar agora, assista
+outros vídeos do meu canal para você
+entender a diferença entre ferramenta e
+sistema, soluções que eu falo para você
+focar, focar em resultado. Agora, se
+você ficar focando em ferramenta, é isso
+aqui,
+mar vermelho. Para que que isso aqui é
+bom? Para quem quer vender hora montando
+consultoria de software. Por quê? monta
+uma consultoria de software no code e
+acelera. Esquece a arquitetura, esquece
+desenvolver softwares distribuídos,
+esquece querer fechar grandes projetos,
+enterprise para fechar isso aqui. Não
+vai nessa linha, entendeu? Isso aí é
+loucura. Loucura. Foca, você que quer aí
+consultoria e tudo mais, foca na linha
+de no code aqui que para você vai ser
+sucesso, tá? E aí, qual que é o panorama
+principal? Democratização da tecnologia,
+entendeu? Qual que é a mudança principal
+de chave? tecnologia antes restrita às
+grandes empresas, agora acessível para
+pequenas e médias. Times de tecnologia,
+empresas que nunca compraram software
+começam a comprar software customizado,
+começam a comprar sistemas.
+Entenderam? Sistemas. Sistemas. Presta
+atenção nisso aqui. Soluções passam a
+caber no orçamento. Sabe por quê?
+500.000 era muito. 80.000
+30% de entrada mais cinco boleto, vai
+embora para ter uma solução 100%
+aderente? Faz sentido. Ó lá,
+parcelamento, infraestrutura mais barata
+e a reduz o custo de desenvolvimento. E
+aqui que entra o verdadeiro colapso, não
+é o colapso do emprego. Isso aqui a
+gente sabe que vai acontecer. Agora
+existe um outro colapso que é o
+seguinte, ó. O SAS genérico vai colapsar
+empresas. É por isso que a galera tá
+tirando dinheiro dessas empresas como eh
+seus forces, Não tem como, cara,
+isso aí ficar em pé, porque hoje o cara
+meio que constrói o CRM dele com IA.
+Então, a ferramenta por ferramenta
+vai cair por terra. Ferramentas
+padronizadas, software feito para todo
+mundo, não vai casar mais. A gente tá
+entrando na verticalização,
+verticalização de ferramentas, entendeu?
+Verticalização de soluções,
+verticalização de sistemas,
+verticalização de AI. É isso mesmo.
+Aproveitando, deixa eu até falar para
+você aqui, ó. Dia 14/03 agora vai rolar
+o workshop Growth AI System. Lá eu vou
+ensinar você que quer empreender com
+inteligência artificial a escolher o
+nicho, a estruturar os gaps daquele
+nicho, a montar um mecanismo de
+inteligência artificial para resolver
+aquele nicho. Então você que tá querendo
+aí entender como que eu fecho contratos
+de 20 a 50.000 de implantação, como que
+eu implemento um modelo de negócio que
+tem ainda além do setup de implantação
+recorrência 2, 3, 4, R$ 5.000 por mês.
+Como que a gente criou este modelo de
+negócio e como a gente validou isso?
+Para você, você tem que estar comigo lá
+no Workshop Grow AI. O link também tá
+aqui na descrição desse vídeo lá. A
+gente vai te ajudar a escolher o nicho,
+a estruturar o mecanismo, a construir a
+oferta. Vou te ensinar a vender. Então
+você vai sair com um mapa claro de como
+você pode empreender com a inteligência
+artificial. Não, ainda tá meio recioso
+de entrar na acelera, quer quer se
+aprofundar mais nesse conteúdo, no no no
+nesse conteúdo, nesse material, clica no
+link que tá aqui na descrição desse
+vídeo também e compre seu ingresso
+workshop. Vai ser um prazer ter você lá
+e poder te mostrar mais dessas
+oportunidades aqui. E por que que agora
+essas empresas elas tão eh por que que
+os tas aqui tá quebrando? Porque as
+empresas elas podem ter soluções
+personalizadas, sistemas feitos pelo eh
+pelo seu próprio fluxo, né, desenhado e
+uma cobertura tecnológica que beira
+100%. Só que qual que é a grande
+dificuldade aqui? Qual que é a grande
+dificuldade aqui? É a ferramenta. Lógico
+que não. Ferramenta é ferramenta. O
+ponto aqui, ó, é crescimento. É como
+transformar tecnologia
+em crescimento. É aí que entra. Beleza.
+A gente tá vivendo um momento onde a
+tecnologia tá sendo eh democratizada,
+mas poucos ainda estão construindo
+soluções. Por quê? Porque a galera
+constrói ferramenta. Agora, solução não.
+Solução é solução para um problema de
+fim. afim.
+E aí que entra você empreendedor para
+você empreender. Foca em construir uma
+infraestrutura de ar para empresas, foca
+em resolver problemas específicos de um
+nicho de fim a fim. Foca em substituir
+SAS genérico, foca em empreender. E eu
+vou deixar para você uma mensagem que é
+o seguinte, ó. Estamos vivendo um
+momento raro da história em que a
+tecnologia poderosa se torna acessível,
+mas poucos vão se dar ao trabalho de
+usá-la. Então você tem que focar em
+dominar um nicho e estruturar um nicho.
+Kelvin, mas o que que eu posso fazer?
+Cara, eu só olha isso aqui, ó. Só
+entenda a crise silenciosa que tá
+acontecendo nas empresas, nos B2Bs, nas
+empresas tradicionais. Três pontos
+principais, ó. Se você resolver isso
+daqui, você tá feito. Gargalo de
+crescimento. As empresas tradicionais,
+que que é empresa tradicional, Kelvin?
+Contabilidade,
+agências de veículo, contadores ou
+contador, já coloquei médicos,
+nutricionistas,
+e-commerces, lojas, de forma geral, de
+forma geral, indústria têil, indústria
+química, eh distribuidoras de produto,
+corretoras de seguro, vendedores de
+consórcio, eh, loja de colchão. Cara,
+não importa. Deixa eu te contar, eles
+têm gargalo em crescimento porque os
+processos são 100% manuais e são
+limitados e isso impossibilita a escala
+do negócio, entendeu? Então o volume
+aumenta, a operação vira o caos, base
+mal aproveitada. Muitos deles têm
+volumes absurdos de leads e ex-clientes,
+é, que nunca foram bem trabalhados e
+eles não têm braço suficiente para
+tratar esses leads ou estratégias de
+reaquecimento
+de base. Olha o que eu tô falando aqui.
+E gargalos operacionais e comerciais.
+dificuldades absurdas de qualificação de
+lead e processos de venda completamente
+manuais e ineficientes. Então, se você
+pega este conhecimento que eu acabei de
+passar aqui para você, essa visão, isso
+aqui é uma visão, isso aqui é a minha
+visão, a minha leitura de mercado. Com
+essa crise silenciosa que está
+acontecendo, que também é uma visão
+minha, você vai entender, vai construir
+uma infraestrutura que resolva esse
+problema aqui. Pode resolver só o
+problema da base mal aproveitada de
+clientes com o Iar CRM, processo
+estratégico de aquecimento e de venda.
+Você vai gerar mais o quê pro cliente?
+Mais faturamento, mais margem,
+possibilidades de escala e logo você
+pode precificar o seu preço da sua
+infraestrutura baseado no que você gera
+de receita, onde você gera de
+faturamento. Aí você consegue cobrar
+contratos de 20, 30, 40.000. Isso aqui é
+real. Isso aqui, ó, isso aqui que eu
+mostrei para vocês, isso aqui é validado
+pelos meus alunos da Acelera. São mais
+de 280 alunos em mais de 30 segmentos
+diferentes. Então não é tese mais. Isso
+aqui foi validado pelo ano de 2025
+inteiro. Não tem como dar errado. É só
+você focar, achar o nicho, entender os
+gaps, estruturar o seu mecanismo de a
+aplicar, estruturar sua oferta, vender,
+aplicar, gerar o resultado e aí você, ó,
+alavancar.
+Estamos no melhor momento possível para
+isso. Fechou? Esse vídeo foi sobre isso.
+Foi um vídeo para gerar, trazer para
+vocês essa visão. Tô de férias. Tô de
+férias, rapaziada. com a minha família,
+mas eu falei: "Pô, vou gravar o vídeo
+porque é um do insight, é um
+colapso absurdo, é o melhor momento. E
+mais uma vez eu deixo o meu convite para
+você conhecer aera 360. Você que tá
+pronto para empreender ou já tá
+empreendendo aí, quer escalar o negócio,
+já vem direto paraa Celera 360, vem
+fazer parte do nosso ecossistema. E para
+você que quer entender mais sobre este
+modelo de negócio de infraestrutura de
+crescimento, vem participar do nosso
+workshop. O link tá aqui na descrição
+desse vídeo. Tchau para vocês e até a
+próxima. Ui.

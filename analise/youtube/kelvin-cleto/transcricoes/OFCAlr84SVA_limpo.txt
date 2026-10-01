@@ -1,0 +1,335 @@
+Por que que só programar? Porque que
+programar já não basta mais pro mercado?
+Gente, e eu vou trazer para vocês uma
+visão, lógico, a minha perspectiva de
+vida também como programador, mas mais
+como empresário, para que vocês entendam
+o cenário atual da área de
+desenvolvimento de software. Eh, cada
+vez mais as e as generativas, né, as
+LLMs, elas estão ficando mais
+inteligentes. Então, pô, esses dias eu
+tava usando o cursor, o cursor é com o
+cloud Sonet 3.7 7. E é absurdo a
+velocidade com que eu consigo
+desenvolver. Ah, mas o código é
+macarrônico. Ah, mas é isso, mas é
+aquilo. A questão, a questão principal
+não é o código ser macarrônico, não. A
+questão principal é a seguinte: 80% dos
+devs são medianos. A gente tem 20% dos
+deves que são e não vai 10, 5 ou 10% que
+são assim realmente muito [&nbsp;__&nbsp;] e tem ali
+uma parcelinha minúscula de gênios,
+saca? O ponto principal é você olhar
+pros 80% dos deves medianos. Imagina o
+seguinte, imagina um
+mercado lotado de dev medianos
+utilizando ferramentas como clouds sonet
+ou principalmente melhor, imagina
+processos de desenvolvimento de software
+e desde a gente tá falando desde da
+gestão desses projetos até o time de até
+um time de engenharia, um time de
+especialista, construindo
+arquiteturas que sejam eh robustas e
+estruturalmente elas podem crescer de
+forma organizada, mas utilizando o
+cursor ou copilot qualquer outra e
+inteligência artificial acelerando o
+processo de desenvolvimento, o código
+não vai sair macarrônico. O código não
+vai sair macarrônico. Aí o que vai
+acontecer é que você vai ter um time de
+produtos sólido, um time estrutural do
+um um um time de que faz parte ali meio
+que vai da vertical de desenvolvimento
+sólido e você não vai ter mais essa essa
+quantidade massiva de desenvolvedores
+para codar. Se você for analisar hoje o
+teu time, o time que você trabalha, a
+squad que você trabalha, você consegue
+ver que tranquilamente você pode cortar
+30% desse time que vocês ainda vão
+continuar tendo a mesma entrega, senão
+até mesmo uma entrega superior. Agora
+imagine você tendo enraizado o processo
+de desenvolvimento junto com com a
+LLM, a potência que vocês vão ter, saca
+você saca que não é mais só programar,
+que não é escrever código, que escrever
+código por escrever a [&nbsp;__&nbsp;] da IA vai
+fazer. Ah, mas ela não faz um código
+bonito, cara. Mas isso é acertável. Isso
+isso é isso é isso é ajustável, entende?
+Se você, cara, eu tô mexendo com o
+cursor, cada dia que passa eu começo a
+ter mais facilidade em saber o que que
+ele faz de errado, o que que ele faz de
+certo e eu consigo ter uma assertividade
+muito maior usando ele, entende? E aí, e
+aí se você parar para pensar qual que
+vai ser o seu grande diferencial, qual
+que é o seu grande diferencial como
+programador, o que que você realmente
+entrega de valor pra empresa? código,
+eh, o horário das 8 às 17,
+eh, design pattern, é esse o seu
+diferencial, fazer poker planning, saca?
+É isso, é, é, é isso que vocês entregam
+diferente, porque, cara, é a maioria é o
+que os devs vendem como
+diferencial, entende? Entende? Porque só
+programar não não resolve o problemas,
+porque só programar não realmente não
+faz você é ser um um profissional
+qualificado no que tá por no nesse mundo
+que tá por vir, ou melhor nesse mundo de
+agora, vai nesse
+2025, porque a gente tá no começo de
+2025 e você tem Sun Outman, você tem
+aquele CEO da Nvidia e você tem [&nbsp;__&nbsp;] a
+as empresas, as bigtechs, vai quem faz
+parte ali das fengs.
+falando que adotando o IA sem parar e e
+mostrando que eles estão fazendo uma
+aposta, logicamente que, cara, não é
+mais só você escrever código e e sim o
+valor principal tá no problema, na
+solução que eles estão dando, no
+problema que você resolve. Eles estão
+dando valor para um time de tecnologia
+que primeiro adota a inteligência
+artificial como principal ferramenta na
+construção de produtos, mas
+principalmente na visão que aquele
+colaborador tem perante ao negócio,
+saca? Eles estão procurando pessoas que
+sentem na mesa assim e falam assim:
+"Porra, eu tô aqui para fazer tal
+empresa crescer. Vamos fazer essa [&nbsp;__&nbsp;]
+crescer". pessoas que têm uma visão na
+operação, a pessoas que têm uma visão e
+não na operação de desenvol de escrever
+código, mas na operação que a empresa em
+si se compromete a entregar pro cliente
+dela, saca? Então, o que que eu vejo? Eu
+vejo claro assim com clareza, que você
+tem você você que tá me assistindo, você
+tem primeiro uma oportunidade gigantesca
+para criar o teu negócio. Tava
+conversando esses dias com um grande eh
+empreendedor, cara brabo mesmo, cara,
+que já levantou aí mais de 100 milha,
+montou, [&nbsp;__&nbsp;] montou uma empresa
+monstruosa e tudo mais. Ele falou:
+"Cara, eu realmente acredito que a
+inteligência artificial hoje possibilita
+qualquer um a montar um negócio rápido,
+escalar ele e vender, montar empresas
+que sejam vendáveis, né, que que que
+tenha equity paraa venda de uma forma
+muito rápida e de uma forma muito
+estruturada e sem vender mentira.
+Então isso abre um precedente para você
+pensar em você tirar sua ideia do papel,
+em você construir a sua consultoria de
+software, em você montar o seu SAS que
+tenha valor, em você montar um agente
+ASA Service que tenha realmente valor,
+em você criar sua
+tecnologia com um time mais enxuto e que
+tenha uma alta
+margem, porque esse é o jogo. O jogo é
+você criar uma uma empresa que tenha
+margem, que seja escalável e que gere
+recorrência. Então assim, você que é
+desenvolvedor, você tem a capacidade de
+fazer isso se você romper essas suas
+crenças limitantes de que você não sabe
+vender, de que você não sabe fazer
+gestão, de que você só programa e tudo
+mais. Agora, se você não quiser seguir
+para esse caminho, o seu caminho, como
+profissional da área do desenvolvimento
+de software é desenvolver também as suas
+soft skills, como se você fosse
+desenvolver, por exemplo, a soft skill
+para você ser um empreendedor. Olha que
+loucura. você vai ter que ter uma visão
+de negócio, você vai ter que ter uma
+visão alinhada, aliada ao resultado da
+empresa, você vai ter que se intrometer
+na área de produto, você vai ter que se
+instrometer na área de gestão, porque
+isso é o que vai fazer você ser um cara
+diferenciado, você ser um resolvedor de
+problemas. Entende que pros dois
+caminhos a partir de agora você vai ter
+que ser você vai ter que se desenvolver.
+Não existe mais essa do esse esse
+estigma do programador não saber falar,
+não quis não quer se comunicar com uma
+outra equipe, do cara ser eh eh um cara
+com, sabe aquele cara que fica no porão
+na numa salinha trancada só criando o
+código. Isso aí tá morto. E você tem que
+abrir o olho para isso. Você tem que ter
+clareza. Você tem que olhar pro, você
+tem que olhar pro futuro com uma visão
+de empresário e olhar que as empresas
+vão investir muito dinheiro para quebrar
+essa essa essa dificuldade hoje de criar
+sistemas independentes de programadores,
+que é o que vai acontecer. Ah, o
+programador vai ser vai se extinguir,
+não, eu não acredito nisso. Só que o que
+eu acredito é que só os caras mais [&nbsp;__&nbsp;]
+que vão prevalecer, saca? E num mercado
+onde você tem uma enchurrada de
+programadores medianos e e ser mediano
+não é ser ruim, tá? É ser mediano, é só
+você tá na média, tá na média, tá na
+média. Você é mediano, você tá [&nbsp;__&nbsp;]
+você tem uma, cara, uma competição
+absurda. E qual que vai ser o seu
+diferencial sobre isso nessa nessa,
+nesse cenário? Qual que é o seu
+diferencial?
+Que que você tem de diferente pra
+empresa que você tá manter você no
+cargo? Porque pense, saiba uma coisa,
+empresa não é família, empresa não é mãe
+ninguém. Os diretores que estão à frente
+da visão da empresa, da estratégia da
+empresa, estão olhando para vocês como
+custo, entendeu? vão olhar para para
+qualquer um como custo, na verdade, e
+vão tentar enxugar esse custo mais
+rápido possível, porque eles também tm a
+visão dos três pilares, que é manter ter
+uma margem alta, ter escala e
+recorrência e um negócio não se escala
+com gente, entendeu? Então assim, ó, ó,
+ó, ó. Aí eu escuto alguém falando assim
+para mim também, eu mandei, postou até
+putz, ah, não, a progrento de software
+tá longe de acabar porque tá todo mundo
+usando IA agora de qualquer jeito, mas
+eh vai ter um monte de sistema pra gente
+corrigir. Quer dizer, então, que a sua,
+você tá amarrado em ser aquele cara que
+a que corrige bugs de plataformas
+bostinha, porque quem tá usando IA igual
+louco é um monte de microempreendedor,
+um monte de doida aí que tá criando
+software e a a microsserviço, porque é o
+que estão vendendo para eles. Eles estão
+começando o o hoje o mundo do
+empreendedorismo tá recebendo uma
+churrada de empreendedores que não estão
+preparados para empreender porque estão
+ensinando eles o caminho errado. estão
+ensinando eles só parte do caminho, que
+é criar alguma coisa e lançar. Porque o
+porque as pessoas estão atrás do quê? De
+ter só mais uma renda extra. Elas não
+estão querendo realmente criar uma
+empresa em cima da quer criar uma renda
+extra. Criar uma renda extra, velho,
+aquilo ali é bosta. Bosta. Só que se
+você olhar pras empresas que realmente
+entendem que eh eh elas eh tão ali para
+perdurar, elas não estão usando desse
+jeito. E esse que é o problema. Você não
+vai trabalhar pro cara, pro
+pro cara que fatura 50.000 por mês com
+SAS dele. Não é esse cara que você vai
+trabalhar, você quer trabalhar pra
+empresa que fatura 400, 500.000, 1
+milhão por mês. Você é esse cara que
+você trabalha. Você não trabalha pro
+cara que faz 50.000 por mês. Porque o
+cara que faz 50.000 por mês, ele não vai
+pagar o salário que você recebe hoje,
+não é verdade? Ele vai pagar o salário
+que, cara, salário de 4.000 para um
+desenvolvedor, saca? Entende o problema,
+gente? De verdade, vocês têm que olhar
+com uma nova perspectiva paraa área do
+desenvolvimento, uma perspectiva
+futurista, porque se vocês não tiver
+essa visão, vocês estão fadados ao
+fracasso, saca? Vocês a
+nós programadores somos os novos
+engenheiros. Tipo, você vê engenheiro de
+Uber, sabe que você vai ver programador
+de Uber também. Por quê? Porque, cara, a
+demanda é
+absurda. A demanda é absurda, não, né? A
+demanda ela vai diminuir, né? a
+quantidade de de ou melhor a oferta vai
+diminuir e a demanda é absurda. Então
+você vai ter uma demanda muito maior que
+a oferta. E aí? E aí ferrou. E aí
+ferrou, entendeu? Eu nem sei se demanda
+e oferta é a mesma coisa. Bom, [&nbsp;__&nbsp;]
+Entenderam? Entenderam o que eu quis
+dizer aqui? Ah, tá. Kelvin, o que que
+você me indica? O que eu te indico é ou
+você segue pro caminho do
+empreendedorismo, ou você quebra todos
+esses paradigmas de que você não sabe se
+comunicar, de que não interessa o
+negócio, de que, ah, eh, [&nbsp;__&nbsp;] e o time
+de produto e o time e o PIO, eu vou
+fazer o trabalho do PIO, [&nbsp;__&nbsp;] todo
+mundo se preocupa com você, se preocupa
+com você e evolui e se evolua para est
+preparado para esse novo mercado, porque
+é um mercado onde pessoas têm muitas
+soft skills, saca?
+O mercado de programação já é assim, se
+você não se percebeu. Hoje você pega o
+programador antigamente, se ele soubesse
+só o C#ARP, vamos supor, cara, ele já
+era bom, agora não. Agora ele tem que
+saber C#ARP, tem que saber Docker, tem
+que saber Cubnets, ele tem que saber
+SQL, Nor Sequel, ele tem que saber do de
+Reds, ele tem que saber sobre LLM, ele
+tem que saber sobre MCP, ele tem que
+saber um monte de coisa. É só você
+prestar atenção. A única diferença é que
+além de tudo isso, vai te cobrar também
+a partir de gestão. Vão te cobrar
+gestão, não, mas vão é, vão te cobrar
+você saber, porque você tem que saber
+mexer, lidar com pessoas. Você vai ter
+que cobrar, vão te cobrar a parte da
+comunicação, vão te cobrar visão
+estratégica, visão de produto, vão te
+cobrar uma visão de mercado, saca? É, é
+isso, é isso, é o amadurecimento do
+mercado, saca? Na, e agora a gente, o
+problema é que a gente tá vivendo um
+amadurecimento muito rápido e uma, na
+verdade, a gente tá num processo de
+transformação, não é nem de
+amadurecimento, o mercado tá maduro
+suficiente. Mercado de desenvolvimento é
+um mercado maduro, só que agora ele tá
+num processo de transformação para ele
+se tornar mais inxuto e ter o mesmo
+resultado que tem hoje. Em vez de ter um
+time de 50 pessoas, vamos ter um time de
+15 pessoas, entendeu? Essa é a minha
+visão. Essa é a minha visão. Entendeu?
+Por que programadores não devem mais só
+codar? Concorda comigo?
+ou discorda. Se discorda também,
+[&nbsp;__&nbsp;] É a minha opinião.
+Ó, já se inscreve no canal, já ativa o
+sininho e já comenta aqui porque eu
+quero saber a tua visão sobre isso.
+Belezinha? Um abraço, ó. Co?

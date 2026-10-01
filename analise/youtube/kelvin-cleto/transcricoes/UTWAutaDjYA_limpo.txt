@@ -1,0 +1,272 @@
+Sexta-feira. Sexta-feira, 16 de abril,
+tô aqui no aeroporto de Porto Alegre e
+eu decidi gravar esse vídeo aqui para
+você que tá querendo
+empreender, para falar para você qual
+que vai ser o, qual que pode, na
+verdade, ser o seu maior problema sendo
+da área de tecnologia e tentando
+empreender.
+Então, em 2015, quando eu montei o meu
+negócio, eu fui mandado embora. Eu era
+da área da
+tecnologia.
+Eu era arquiteto de
+software. E aí logo quando eu fui
+mandado embora, eu decidi montar a minha
+empresa e eu tinha um problema muito
+sério, onde eu, [&nbsp;__&nbsp;] ali, basicamente
+eu foquei
+100% em na parte técnica para criar a
+minha solução. Então, o meu foco foi
+sempre em desenvolver a melhor
+plataforma possível, da melhor forma
+possível, com arquiteturas baseadas em
+2015 eu desenvolvi uma estrutura
+orientada a microsserviços.
+Eh, [&nbsp;__&nbsp;] a gente a gente a gente ainda
+utilizava WCF na
+época e eu gastei muito da minha energia
+criando a arquitetura perfeita, o
+software perfeito, porque na minha
+cabeça, que ainda era muito técnica, o
+mais importante era ter uma plataforma
+que tivesse uma alta
+escalabilidade, que fosse altamente
+distribuída, que aguentasse a porrada de
+milhões de trans de requisições ao mesmo
+tempo, porque a minha formação me fez eh
+aprender isso, né? O meu trabalho me
+fazia prestar atenção nisso, porque isso
+que era era o que era importante. E
+assim que eu comecei
+a o meu negócio, eu tive que fazer de
+tudo, porque eu comecei a empresa
+sozinho e eu comecei a vender, por
+exemplo, e comecei a pegar os meus
+primeiros clientes. E aí aconteceu uma
+coisa incrível. A minha plataforma era
+tão bem feita, tão estruturalmente
+bonita, que eu demorava muito para
+desenvolver uma solução. Eu demorava, eu
+demorava muito para criar uma feature,
+para soltar uma nova versão em produção.
+Eu demorava demais e isso tava me
+bloqueando, porque naquele momento só
+tinha eu. Eu não tinha funcionário, eu
+não tinha equipe, eu não tinha
+estrutura, não tinha nada. Eu montei a
+minha empresa sozinho e no início só eu
+desenvolvia. Na verdade, eu tinha até
+mais um sócio que me ajudava no processo
+desenvolvimento, mas o meu
+perfeccionismo fez eu criar uma coisa
+extremamente
+robusta que começou a me travar no
+processo de
+entrega. 4, 5 meses depois, eu já tava
+uns três clientes e eu tava demorando
+muito tempo para entregar, por exemplo,
+as minhas features. Isso tava me
+travando demais.
+E eu lembro de ter que ter tomado uma
+decisão, de ter tomado uma decisão, na
+verdade, que foi muito difícil, que foi
+a decisão de, cara, [&nbsp;__&nbsp;] a
+arquitetura do software, [&nbsp;__&nbsp;] toda
+essa essa estrutura que eu criei de
+escala, de distribuição, [&nbsp;__&nbsp;] toda
+essa toda a minha parte técnica que para
+mim era muito interessante para
+priorizar a velocidade na entrega. Então
+eu acabei cortando várias etapas do meu
+sistema, várias várias várias design
+patterns, várias vários processos
+arquiteturais que eu utilizei. criei,
+acabei adotando um monolitro gigantesco,
+acabei estruturando, eh, de uma forma
+que fosse mais simples e mais simples
+possível para poder disponibilizar uma
+plataforma e soluções, na verdade,
+desculpa, para poder disponibilizar uma
+plataforma mais rápida e fazer entregas
+mais rápidas pros meus clientes, porque
+através de cada feature eu conseguia ter
+um cliente mais rápido, então eu
+consegui aumentar a receita da minha
+empresa. muito mais rápido. E foi ali
+que eu percebi que o perfeccionismo era
+algo que me impedia de fazer crescer. o
+perfeccionismo, eh, por conta da minha
+experiência técnica, da minha skill
+técnica, me
+fazia perder o jogo do empreendedorismo.
+E essa foi a primeira grande mudança que
+eu de mentalidade em si que eu tive como
+empreendedor. Ali, ali eu olhei e falei:
+"Cara, eu preciso deixar de lado toda
+essa parte que eu tenho, toda essa minha
+skill técnica que eu tenho
+e começar a focar mais no negócio,
+porque o que interessa pro meu cliente,
+o que interessava pro meu cliente, o que
+interessa até hoje pro meu cliente, não
+é um código do sistema, não é se o
+sistema tá bonito, se o sistema tá bem
+escrito. Isso aí ele tá pouco se [&nbsp;__&nbsp;]
+com isso. que interessa para ele é,
+cara, o quanto meu sistema tá trazendo
+de resultado paraa operação dele, o
+quanto ele contratar a minha empresa e
+utilizar a minha tecnologia traz de
+resultado para ele, traz de ganho
+operacional, traz de aumento de receita,
+sabe? E não se meu código ele tá bonito
+não. O código bonito, na verdade, ele
+interessa para mim. Ele interessava, na
+verdade, para mim. O o código bonito
+interessa para você que é dev, você que
+é dev, você que é técnico, para você que
+interessa o código bonito, para você que
+interessa o design pattern que você tá
+usando, a arquitetura que você tá
+usando, se você tá utilizando o Dnet 9
+ou Dnet 8 ou 7, para você que te
+interessa a qual framer que você tá
+usando. Agora, para quem usa o sistema,
+para quem usa a tua plataforma, para
+quem
+usa a tua
+solução, o que vai interessar para ele é
+o quanto o seu sistema funciona ou não.
+E a medição de que se o seu sistema
+funciona ou não, se ele é bom ou não, é
+o quanto ele traz de
+resultado para uma companhia. o quanto
+ele traz de resultado pro para quem
+compra ele, para quem paga ele, porque
+no final das contas a tecnologia ela é
+linda, ela é maravilhosa, é muito legal
+falar de inovação, mas uma inovação que
+não traz resultado, ela não serve para
+nada.
+é doído. Você provavelmente que é
+técnico, ouvi isso, mas para para você
+tá no meu canal, para você tá consumindo
+meu conteúdo, você tá interessado em
+empreender. E no mundo do
+empreendedorismo, o que interessa pra
+gente é o quanto a gente vai faturar
+mais ou quanto a gente vai economizar,
+entendeu? No mundo onde você tá focado
+em empreender, você tá focado em quanto
+você fatura. E o teu cliente também tá
+pensando nisso. Ele tá pensando no
+quanto ele vai faturar, no quanto de
+dinheiro ele vai ganhar, no quanto de
+retorno ele vai ter, contratando a tua
+ferramenta ou contratando a tua solução
+ou contratando a tua consultoria, por
+exemplo.
+Então, deixa o perfeccionismo de lado,
+cancela o
+perfeccionismo, ele não serve de nada.
+Se eu fosse
+perfeccionista, ou na verdade, na
+verdade eu tento não ser perfeccionista
+em alguma coisa e às vezes a gente acha
+que ser perfeccionista é uma é uma
+qualidade e não é um [&nbsp;__&nbsp;] de um
+defeito. Não é uma merda. Por exemplo,
+se eu tivesse focado no meu
+perfeccionismo, eu não estaria gravando
+aqui esse vídeo. Tô no meio do
+aeroporto, voltando para casa e me deu a
+ideia de gravar esse vídeo. E eu
+simplesmente fui, liguei a câmera e tô
+aqui gravando. E tá tudo bem.
+E eu não vou editar nem nada, vai subir
+para vocês do jeito que tá
+aí. Por quê? Porque o que interessa é
+muito mais o conteúdo que eu forneço
+para vocês do que necessariamente ter
+esse vídeo 100% editado. Começa a olhar
+mais pro resultado, começa a olhar mais
+pra coisa, pro resultado que você
+entrega, do que necessariamente para
+bonito aquilo que você tá fazendo. Isso
+é muito importante, isso faz total
+diferença, na verdade, porque para você
+que começa a empreender, o você o seu
+tempo é muito curto. Provavelmente para
+você que me consome, que tá indo muito
+mais na linha de montar uma solução
+Bootstrap, você você mesmo fazer sem
+você ir atrás de capital, sem você ir
+atrás de venture capitals ou até mesmo
+sem você ter muito recurso financeiro
+para fazer investimento no teu próprio
+negócio, o que vai diferenciar você de
+ficar vivo ou ficar morto é a velocidade
+com que você entrega, com que você faz
+as coisas. Esse vai ser, esse é o seu
+principal diferencial.
+E para você ter velocidade na entrega,
+você vai ter que focar muito bem no
+resultado, no resultado da tua empresa,
+no resultado do teu produto, aquilo que
+realmente traz resultado pro teu
+cliente. Isso é rápido, rápido, rápido,
+rápido, muito rápido, muito rápido,
+muito rápido. Esse é o grande
+diferencial de qualquer empreendedor.
+Ele tem que ser rápido.
+E sabe quando você vem do mundo
+corporativo e tenta empreender, você vem
+cheio de vícios e cheio de manias e
+cheio de dogmas que te colocaram que te
+obriga a querer criar algo eh perfeito
+em cima de um processo perfeito e que
+acaba sendo desnecessário quando você tá
+montando o teu negócio, quando você tá
+montando a tua operação, quando você tá
+fazendo rodar, sabe? É muito mais fácil
+você ter um monte de processo quando
+você tem um batalhão de pessoas para
+executar. Agora, quando você começa a
+fazer sozinho, quando você começa a
+rodar sua operação sozinho ou com mais
+um, isso acaba sendo um um monte de
+amarra que você coloca em você mesmo,
+que te trava operacionalmente para que
+você execute rápido. Então, o conselho
+que eu te dou é esse, deixa o teu
+perfeccionismo de lado. Eu tive que
+deixar ele ele de lado em um momento e
+doeu muito. Não foi fácil. Parece,
+[&nbsp;__&nbsp;] é muito fácil falar isso, mas
+esse essa é uma parada que ela é muito
+tem que ser sentida. Você tem que tomar
+essa ação de deixar isso de lado. Você
+tem que tomar essa ação de, [&nbsp;__&nbsp;] eu
+vou começar a fazer e vou deixar todos
+os os principais pontos que hoje não me
+trazem resultado nenhum de lado para
+focar no resultado, que é entregar essa
+solução pro meu cliente, entregar esse
+produto pronto pro meu cliente da forma
+mais rápida possível. E tá tudo bem se
+der problema no meio do caminho. A gente
+é empreendedor, a gente corrige a rota,
+entendeu? Então assim, o meu conselho, o
+conselho que eu deixo para você aqui
+nesse vídeo é esse. Não tenha, não seja,
+na verdade perfeccionista, não seja, não
+seja. Eu fui muito perfeccionismo, um
+perfeccionista. Inclusive, às vezes eu
+me pego nesse processo de querer criar a
+solução perfeita. Não seja simples, seja
+rápido, seja veloz, entregue resultado e
+bota para [&nbsp;__&nbsp;] que vai dar certo. Então
+essa essa é a mensagem que eu deixo para
+você aqui de Porto Alegre. M.

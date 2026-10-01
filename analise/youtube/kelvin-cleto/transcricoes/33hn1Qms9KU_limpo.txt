@@ -1,0 +1,985 @@
+Essa inteligência de transição
+Artificial não resolve. Pessoal, escutem
+esse. Acho que finalmente entendi.
+como uma única pessoa pode operar um
+negócios de mais de um milhão usando
+inteligência artificial. Então, em
+Neste vídeo, quero revelar a vocês o
+arquitetura completa que é
+tornando possível esse tipo de feito.
+Vamos usar o tablet para discutir isso e
+que eles entendam o propósito deste vídeo.
+Parece muita coisa, mas deixe-me dizer uma coisa,
+Isso equivale a 83,3 mil por mês.
+cobrança. Isso não é grande coisa.
+Há muitas pessoas que ganham muito mais.
+Dinheiro, só isso. Não sei se eles sabem.
+Talvez eles ainda não estejam em sintonia.
+. Mas enfim, vamos em frente. Nesta
+Vou mostrar um vídeo para vocês. Vou revelar
+a arquitetura que torna isso possível
+utilizando inteligência artificial. O
+As pessoas chamam isso de "Uma Pessoa", sabe?
+Hoje em dia, eles podem basicamente abrir o ChatGPT,
+Claude ou qualquer inteligência
+artificial e peça a ele para investigar o
+mercado, construir uma oferta,
+estruturar uma campanha, analisar uma
+uma chamada ou até mesmo estruturar uma
+Entrega completa para você. Então
+Em teoria, inteligência
+O artificial basicamente já sabe
+executar praticamente todas as
+funções necessárias para construir um
+negócio, criar uma empresa.
+Então, responda o seguinte:
+Por que não podem pedir a ele hoje para...
+encontrar uma oportunidade única para
+O que você acha que vai gerar resultados reais? E
+O resultado, como já disse várias vezes, é que...
+Você já viu isso em muitos vídeos aqui.
+Eles sabem que o resultado é faturar, é colocar
+Ter dinheiro no bolso significa ter alguma margem de manobra.
+Portanto, não se trata apenas de faturamento, é
+fatura, cobrir despesas e ainda sobrar alguma coisa.
+Aí reside o lucro líquido, que em um
+dinheiro no caixa da empresa
+depois de eles retirarem o salário; ?
+Por que ele não pode fazer isso? E não pode.
+Fazer isso não se deve à falta de inteligência.
+O problema não é o conhecimento de que
+Ela tem um modelo de IA e um mestrado em Direito.
+qualquer. Esse não é o problema. Ele
+O problema não é a falta de inteligência.
+. O problema está na arquitetura.
+em torno dessa inteligência
+artificial. Estou falando de construção.
+uma infraestrutura capaz de conectar
+contexto, inteligência e execução
+Para pesquisar o mercado, encontre
+oportunidades, criar ofertas,
+gerar aquisição, organizar vendas,
+estruturação de equipes, estruturação
+entregas e operacionalizar um todo
+Negócios com inteligência artificial.
+Portanto, execução mais operação.
+Operação significa pôr mãos à obra,
+pessoas. A operação consiste na gestão do equipamento,
+Você entende? Agora, antes
+interpretar mal o que eu quero dizer com
+Uma Pessoa, quando falo de Uma Pessoa,
+Não me refiro a uma empresa com apenas um
+pessoa única vendendo, operando e
+correndo. Não tem nada a ver com
+que. Não estou dizendo que você não precisa disso.
+ter equipe, parceiros ou qualquer outra coisa
+coisa trabalhando em conjunto com você. Por
+Por exemplo, no meu negócio aqui, eu não sou
+apenas; Tenho uma equipe, tenho clientes,
+Tenho parceiros, tenho contratos
+específico, sabe? Eu tenho um
+Operação funcionando nos bastidores, mas eu
+Eu administro este negócio sozinho. E isto não é
+A primeira empresa que gerenciei, mas
+Acelera foi um choque de realidade. O
+Comecei em 2025 e chegamos a 2.700.
+milhões no primeiro ano. Este ano,
+Provavelmente vamos dobrar esse número.
+figura. É um contraste absurdo entre o
+primeira empresa que fundei e esta aqui
+aqui. Agora, o que mudou de um para o outro?
+Outra empresa que fundei foi a
+capacidade de uma única pessoa para
+Concentrar toda uma operação. Hoje,
+uma pessoa no centro de um
+infraestrutura, com a infraestrutura
+adequado, pode basicamente direcionar,
+Tem capacidade para lidar com um inteiro
+organização. Pode ter a capacidade de
+pesquisa de mercado, análise
+, de estudo operacional, de
+análise de lacunas, criação de
+implementação, monitoramento e
+gerenciamento. Há alguns anos, isto
+teria exigido, não existia, sim,
+teria exigido isso de várias pessoas.
+General Clans, que eu fundei, é um
+empresa de tecnologia também; o
+Comecei em 2015 e vendi essa empresa para
+Grupo IS. Nós até tínhamos um.
+Operação com 52 pessoas: equipe de
+gestão, coordenação, equipe de
+operações de desenvolvimento, UX e UI,
+experiência do cliente e, hum,
+marketing, vendas, administração,
+financeiro, jurídico; uma quantia
+um número enorme de pessoas para fazer isso funcionar
+uma empresa que faturou 9 milhões
+ano. Com a mesma cobrança que aquela
+primeira empresa, se inteligência
+A inteligência artificial teria sido tão avançada
+Assim como hoje, há 4 ou 5 anos, teríamos
+alcançou a mesma receita
+provavelmente com 40% da equipe. Isto
+Tenho isso muito claro para mim. Então, o maior
+oportunidade de inteligência
+artificial, entenda uma coisa: não
+Quer dizer, eu vou substituir
+todas as pessoas e administrar um negócio
+sozinho, mas permite um único
+A pessoa opera como uma organização
+completo, que lida com um todo
+organização. E sim, pode ter braços.
+de execução, ou melhor, braços de
+execução coordenada por agentes de
+inteligência artificial para que ela
+Talvez eu tenha mais, hum, como posso dizer?
+?, rápida expansão e também não
+Para se autodestruir no processo, certo?
+Porque nestes últimos meses, ou mais
+bem, no ano passado, quando surgiu
+Celera em março de 2025, basicamente.
+Ultrapassamos a marca de 1 milhão.
+faturamento entre outubro e novembro
+de 2025. Depois disso, já atingimos o
+primeiro ano 1 ponto alguma coisa, ou melhor
+, no primeiro ano até dezembro, em
+os primeiros 9 meses. Está correto? 1
+apontar algo, mas nós fechamos o
+Receita total de 2,7 milhões. De
+Todo esse valor, 1,2 milhão veio
+da nossa estrutura educacional de
+aceleração de negócios e 1,5 milhão
+Eles vieram de empresas de consultoria e
+Infraestrutura, infraestrutura de... uau, eu
+Fiquei preso aqui. Infraestrutura disso para
+diferentes setores, sabe? Não
+Terminei de definir um nicho aqui. ?
+Porque? Porque foi uma experiência.
+realizando ofertas, testando ofertas e
+tudo isso para levar ao mercado e trazer isso
+conhecimento para os parceiros aqui dentro
+da Celera. Então eu frequentei clínicas
+clínicas médicas e odontológicas
+transplante capilar, indústria química,
+têxteis, nós prestamos serviços de consultoria aqui.
+para empresas que prestam serviços
+serviços, agências de marketing,
+consultoria. Nossa, isso foi loucura. E em
+Nós também investigamos esse processo.
+Testamos centenas de ofertas, operamos
+Em dezenas de mercados, nós acompanhamos
+centenas de proprietários e operadores de empresas que
+Eles começaram a construir negócios em
+diferentes verticais. Então foi isso.
+nosso trabalho. Basicamente aqui
+Fizemos um investimento próprio durante os testes.
+Mas todo esse movimento de 2025...
+Ele revelou algo que, nossa, ele nunca tinha visto antes.
+Ficou muito claro e tornou-se mais pronunciado, ou melhor,
+Dito isso, foi esclarecido em janeiro de 2026: que
+o modelo tradicional, o modelo
+construção tradicional
+Empresas, não... já mudou, para ser
+Sincero, não é? Então, os novos
+As empresas estão nascendo de uma certa maneira.
+diferente. E é isso que eu quero que você faça.
+Preste atenção neste vídeo.
+Então, neste vídeo vou mostrar a vocês
+O que realmente mudou.
+Então, o que é o verdadeiro pescoço?
+da garrafa da inteligência
+artificial e a infraestrutura que
+Estamos construindo aqui.
+para permitir que novas pessoas criem
+e lançar seus próprios negócios
+inteligência artificial. Então, para
+Para você que é empreendedor, para você que
+Você está aqui assistindo a este vídeo e
+Você quer expandir sua operação... Bem,
+Tentei vir para um lugar diferente. Já
+Há morcegos voando por aqui, a luz
+É ruim, mas ignore isso e preste atenção.
+Preste atenção neste vídeo e no meu iPad.
+aqui, porque vamos fazer um
+Conteúdo excelente. E se você não me seguir,
+Ei, cara, clica em seguir agora!
+porque o YouTube está desativando o
+pessoas. Não sei se isso vai funcionar para você.
+Independentemente de você me seguir ou não, ouça, clique.
+Siga-me e comente neste vídeo.
+Estamos juntos. Vamos. Olhar,
+Pense nisso comigo. Deixe-me sair do meu
+tablet para um lado. Há uma questão que surge.
+Isso começou a me incomodar muito. Se o
+A inteligência artificial está avançando.
+mais rápido do que praticamente
+qualquer outra tecnologia que tenhamos
+Dado isso, por que ele ainda não pode?
+simplesmente administrar um negócio inteiro
+Você consegue fazer isso sozinho? Pense nisso, hoje.
+Você vai lá, abre o ChatGPT, abre o Claude,
+Você abre o Gemini ou qualquer outro
+ferramenta e você entra lá e pergunta
+inteligência artificial próxima
+. Quero que você pesquise um mercado.
+para mim. Quero que você analise o
+concorrentes, quero que vocês encontrem um
+Ótima oportunidade e eu quero fazer negócio.
+preparar. Então ela vai, ela começa a
+pesquisar o mercado, analisar o
+concorrência, entende o mercado,
+estruturar o produto, escrever o
+oferta, crie o anúncio
+automaticamente e estrutura o
+Página inicial. Isso sem você dizer uma palavra.
+Nada, basta dizer: pesquise o mercado.
+Quero uma boa oportunidade. Ela vai e
+Configurar o processo de vendas. Configurar
+CRM para você. Então começam os leads
+Ao chegar, ela analisa a chamada, cria
+um plano de entrega, organiza tudo
+indicadores, definir indicadores em
+teoria, em resumo, inteligência
+A artificial já sabe fazer várias coisas.
+Por que ele não consegue fazer isso? Oh,
+Em teoria, ela já tem tudo
+informação, então você já sabe como fazer isso
+quase todas essas coisas com calma.
+Se você conectar alguns MCPs e fizer isso, ela
+Ele terá sucesso. Então, por quê?
+Você ainda não consegue abri-lo literalmente.
+a ferramenta e escrever? Encontre um
+mercado, construir um negócio, obter
+um cliente, faça a entrega e
+veja só como tudo isso
+funciona. Explique-me. O problema é
+que não é tão autônomo, e nem é
+devido à falta de conhecimento. Não é porque
+falta de conhecimento, porque deve
+lá tem todo tipo de informação
+dentro. O problema não é que isto
+A inteligência artificial ainda não atingiu
+Para fazer uma boa pesquisa, um
+boa estratégia de vendas ou saber
+Escreva um anúncio. E vice-versa
+Isso também é verdade. Imagine que você é
+Você oferece serviços de consultoria ou é o proprietário de?
+Uma empresa, por que você não se junta a ela?
+Imagine entrar no mundo da inteligência.
+artificial e dizer: "Olha, eu tenho um
+Aqui na clínica, eu tenho o negócio XYZ e
+Quero que você analise todo o meu negócio, a mim.
+Identifique as lacunas, preencha-as e
+Você simplesmente se senta e observa como
+"Todo o negócio está funcionando." Isso vai acontecer?
+trabalhar? Logicamente, não vai acontecer.
+trabalhar. E o problema não é a falta.
+inteligência. O problema não é que
+esse modelo, esse novo
+inteligência artificial que eu ainda não conheço
+uma boa estratégia de vendas, uma
+boa técnica, ou não sabe como escrever um
+anúncio, ou não sabe como criar uma landing page
+página. Esse conhecimento já existe em
+São ótimos modelos, não é? Não
+Estou falando de SLM, estou falando de modelos.
+gigantesco. Mas o verdadeiro problema
+A questão é que a inteligência artificial não
+Ele conhece o seu negócio, mas não conhece o seu.
+contexto, não sabe onde você está
+Inserido, sua sabedoria, o que você sabe
+Ou você não sabe como fazer isso. Ela não sabe
+profundamente seu mercado ou o mercado
+em que você deseja atuar. Ela não sabe
+Quais ofertas você já experimentou?
+ou que o mercado já testou, por exemplo
+e o que funciona. Ela não sabe o
+objeções do seu potencial cliente ou do seu
+cliente atual. Ela não compareceu ao seu evento.
+Ela não entende por que as ligações de vendas são importantes.
+Qual campanha funcionou e qual foi a outra?
+Não. Ele não pode fazer isso porque não tem.
+a sabedoria que um bom especialista, um
+Possui um bom gerenciador de tráfego; o
+experiência, as nuances do mercado.
+Ela não entende os padrões, ou melhor, não entende.
+Dito isso, ela não realiza, ela não sabe o
+padrões que você usa para fazer
+decisões. Ela não tem o contexto.
+necessário para operacionalizar
+eficiente. E foi aí que nós
+Aqui em Cara chegamos a um
+Uma conclusão muito importante sobre isso.
+Se o maior gargalo do
+A inteligência artificial hoje não é a
+Não a capacidade de fazê-lo, mas o contexto.
+Como contextualizamos e organizamos isso?
+sua execução em um fluxo para gerar
+resultados? Certo, Kelvin, mas...
+Qual é o contexto? Traduza para mim.
+Quando você analisa uma empresa tradicional,
+Você tem o departamento de marketing,
+Você tem o departamento de vendas,
+Você tem o departamento de atendimento ao cliente.
+Cliente, você tem operações, você tem, uh
+Ah, vendas, eu já disse isso, eu já mencionei isso.
+finanças, direito, e muitas outras áreas.
+setores. Setor de produtos,
+pesquisa e desenvolvimento,
+Dependendo do tamanho da empresa,
+Você tem vários setores. Mas atrás
+Em todos esses setores, existe uma camada
+invisível que poucas pessoas
+Eles param para observar. Cada pessoa dentro
+Essa empresa basicamente transporta carga.
+Entendo parte do contexto. Cada
+A região possui informações próprias sobre
+negócio, do cliente, da sua área. O
+profissional de marketing, por exemplo,
+saberão quais campanhas são
+trabalhando, quais mensagens são úteis ou para
+Quanto menos eu sei disso, mais eu deveria saber, e o que...
+O público está reagindo. O
+O vendedor sabe o que
+objeção que surge, quais são as
+pontos problemáticos do cliente ou que
+perspectiva, seja ela boa ou ruim, o que
+Está aparecendo, por que a pessoa está assim?
+Por que ele não compra, ou por que ele compra, o quê?
+Quais leads são mais qualificados?
+leads de alto desempenho em vendas
+avançar. A área ou pessoa que realiza
+a entrega sabe se o cliente está
+Se não está avançando, o que é?
+O que funciona, o que não funciona, quais são os
+Bloqueios, do que você precisa?
+conformar. A estrutura de liderança é
+informações e observar mais
+amplia a estratégia da empresa e se
+Os indicadores estão sendo cumpridos.
+Então, de forma geral, liderança
+até mesmo recebe essa informação,
+Interpreta, analisa o cenário e toma decisões.
+A decisão, você entende? Em outras palavras, um
+Uma empresa não é apenas um contexto separado.
+Esses são vários contextos de diversas áreas.
+que são unificados. Portanto, um
+Uma empresa é um sistema que captura
+contexto, transforma esse contexto em
+toma decisões e coordena a execução e
+o caminho. Mas qual é o grande
+problema? O problema é que no
+a maioria das empresas neste contexto
+Está completamente fragmentado. E funciona mesmo.
+Em alguns anos houve até um
+movimento relacionado aos "dados"
+motivado." Não sei se você sabe, mas apenas
+Eles estavam falando sobre "orientação por dados". Uma parte
+Essa informação está no CRM.
+uma no WhatsApp, outra em reunião,
+mais uma numa gravação no carro,
+um no ERP, outro em uma palestra sobre
+barra entre os funcionários, outra na cabeça
+do fundador, outro na agência que
+Ele gerencia os anúncios e mais uma coisa.
+espalhados por documentos, painéis,
+planilhas e qualquer conversa
+da equipe. Então, quando eu
+Eles ouvem falar de uma empresa.
+Empresa que prioriza a IA ou empresa nativa da IA,
+Refere-se simplesmente ao seu tempo de
+vida. Por exemplo, uma empresa que prioriza a inteligência artificial.
+É uma empresa que já existe há algum tempo.
+alguns anos e comecei a fazer isso
+processo de transformação. Uma empresa
+Nativa da IA, ela já nasceu, ou é?
+nascendo agora, concebido desde o princípio
+para operar neste formato. Então,
+Pessoas, quando começamos a estudar
+Essa é a nova arquitetura corporativa, não é?
+O que notamos? Percebemos que
+Toda empresa precisa resolver
+algumas funções fundamentais para
+transformar-se em um modelo que prioriza a inteligência artificial.
+Então, você precisará saber o quê
+O mercado quer entrar, ou já está dentro.
+agir, por exemplo. Você precisa construir
+uma oferta estruturada; Você precisará de
+Encontrar clientes, vender, entregar o
+resultado prometido, acompanhe o
+cliente, realizar a pesquisa NPS e
+precisa operar e aprimorar tudo isso
+durante toda a sua vida útil. Agora,
+retornando aqui ao tablet para que
+Entenda, foi com isso em mente que
+Estruturamos nossa solução aqui e
+nossa maneira de pensar sobre como
+estruturar uma infraestrutura
+Operação em cinco camadas. Nosso
+A solução possui cinco camadas operacionais.
+VERDADEIRO? Cinco pilares. E no centro
+Temos a camada de inteligência para tudo.
+ou contexto, embora aqui o chamemos de "
+"camada de inteligência", ou seja, a camada
+contexto principal. Esta camada aqui,
+Basicamente, engloba todo o contexto.
+do mercado. Então, quando eles viram o
+vídeo da JB Engenharia ou quando eu der
+Antes de mais nada, algum tipo de consultoria.
+O que eu faço é implementar esta camada de
+aqui. Vou colocar aqui, veja,
+pesquisa de mercado. Estou indo para lá e
+Estou inserindo os detalhes da transação. Ir
+Aqui eu coloco informações sobre
+concorrentes diretos e indiretos,
+ofertas testadas pelo mercado digital
+, seja através do Google Ads ou do Meta.
+Ofertas que já foram validadas ou ofertas
+de concorrentes, causas, objeções,
+feedback do cliente, qualquer tipo de
+decisão anterior. E aqui podemos
+Podemos chamar isso de cérebro. Isto aqui
+Isto aqui, isto aqui, veja,
+É o cérebro. EU
+e nós nos desenvolvemos até este ponto.
+uma solução específica para isso,
+que eu acho que você já ouviu falar em
+alguns vídeos, que é Galide. Aqui
+Todo mundo entra, gente. Insira o design de
+processos, inserir manual e manual,
+manual. Então, tudo isso
+permite uma inteligência artificial
+Pare de responder de forma genérica e
+Comece a pensar dentro da realidade.
+desse negócio. Então, este é o
+primeira camada de uma infraestrutura de
+inteligência artificial. Então, se
+Você quer começar por aqui, o quê?
+O que você precisa fazer é colocá-lo no seu
+cliente esta camada aqui. Agora,
+em torno dessa camada de, ou melhor
+Partindo do centro, temos basicamente,
+Você pode chamá-los de cinco sistemas, vamos lá,
+cinco, cinco módulos, cinco sistemas
+orbitando em torno de 3 4 3 4 5 aqui,
+Olha, cinco. cinco sistemas orbitais
+em torno dessa camada para que o
+As coisas acontecem. O primeiro é
+a oferta oferece SO, sistema operacional de
+oferecer. Ele é responsável por fazer
+pesquisa de mercado, encontre
+problemas valiosos, identificar lacunas
+Analisar a concorrência. Ele é responsável
+transformar tudo isso em uma oferta
+que vende. No mundo digital, o que
+Vender tem a ver com a oferta, com a forma como você a apresenta.
+E isso não serve apenas para acelerar ou para
+É para você, é para qualquer empresa. Então
+Isso não é simplesmente pedir ao
+bate-papo: GPT "Qual é o negócio de
+inteligência artificial que deveria
+criar?", por exemplo, ou "O que é o
+Que ajuste devo fazer na minha oferta?
+O que devo fazer com a minha oferta atual?
+Devo vender minha mentoria ou meu
+construção, ou meu transplante capilar?"
+Isso é construir um sistema de
+pesquisa capaz de analisar
+diferentes submercados, entendendo onde
+Existe uma demanda real, identifique
+o que já está sendo comprado e
+Recomendar uma oportunidade específica.
+Aqui, chamamos isso de enquadramento.
+categoria. Nossa, será que eles estão conseguindo?
+Leia aqui? Sem problema, mas eu estou
+Estou fazendo um esboço para que você entenda.
+Então, aqui está, por exemplo, quem
+quer abrir um negócio, você que quer
+Para estruturar sua operação, você para
+escolher um nicho baseado exclusivamente em
+intuição e você passa a tomar uma
+decisão baseada em inteligência
+mercado. Seu cliente para de alterar seus
+oferta baseada em suposições e
+então toma decisões com base em
+Análise e inteligência de mercado.
+Essa é a diferença entre os grandes.
+empresas. Isso não é apenas para o
+Oferta, tudo bem? Serve para tudo, porque
+toda essa pesquisa se origina
+sempre presente no cérebro. Então aqui
+Temos a área de aquisição. ?
+Qual é a sua função? Amigo, seu
+A função é muito simples: transformar o
+inteligência dessa oferta em um
+máquina de aquisição,
+estruturação de conteúdo,
+estruturando anúncios ou como eles são veiculados
+Desistir desses anúncios, dessas páginas, né?
+manuais, iscas, campanhas,
+Criação de campanha; ou seja, todos os
+Parte da aquisição de clientes.
+Então é aqui que fica. E
+Ainda não estamos falando de CRM aqui.
+Ei? CRM é apenas mais um detalhe.
+aqui dentro. É aqui que é definido.
+Se formos usar um funil de isca, um
+funil de webinar, por exemplo,
+estruturas de mensagens, como serão?
+toda a rotina de envio de mensagens para
+cliente, para aquecer o cliente, o
+Aquele que entrou no funil, aquele que desistiu.
+Todo o mercado é assim, meu amigo. Tudo, para
+a menos que seja estritamente
+Não funciona lá, de acordo com as recomendações.
+Portanto, o Especialista em Aquisições não
+deveria criar, ou melhor, não deveria,
+Não é possível criar conteúdo aleatório.
+Você precisa entender os problemas do mercado, você precisa
+Conhecer as objeções das pessoas
+A partir desse perfil, você deve entender a promessa.
+que funciona, o posicionamento do
+empresa, do negócio em geral e
+gerar informações com base nisso. Ele
+Em terceiro lugar estão as Vendas. Aqui está
+Para onde quer que vá, ele olha ao redor. É aí que entra a área de Vendas.
+. Qual é o papel dessa pessoa?
+É muito simples. Aqui já temos o
+oferta, já temos a estrutura de
+aquisição. Agora vamos organizar o CRM.
+Acompanhamento, ligações, objeções,
+propostas e toda a inteligência
+comercial. Então, as vendas são onde...
+Ele gera, por exemplo, a apresentação.
+vendas. Imagine que cada chamada,
+Cada ligação de vendas que você faz é
+analisado por um modelo de inteligência
+artificial. Então a IA está chegando lá, agora.
+Tem o mapa de objeções, mas aqui
+É na área de vendas que você identificará o
+As objeções mais frequentes são onde
+atualizará o manual de objeções
+Para o seu fechamento, entendeu? Porque
+Você perdeu uma venda, por exemplo, onde
+Havia uma lacuna de falha, de modo que
+Você pode fazer um roleplay atualizado.
+Isso mostrará os momentos em que, porque
+Por exemplo, o vendedor que fecha o negócio, aquele vendedor ali.
+na dica ou mesmo na pré-venda,
+Isso poderia ter agravado a dor.
+específico. Então, seu papel
+O principal é detectar padrões entre
+clientes que compram e clientes que não compram
+Eles compram. E para onde ele devolve tudo?
+esse? Para fins de marketing, para a oferta.
+. Então, veja bem, esta informação...
+sempre entra no cérebro aqui
+alimentando-o para que o próximo
+oferta, o próximo ajuste da oferta
+, é estruturado. E então o
+A empresa começa a aprender com cada um.
+conversa, de cada chamada, de cada
+mensagem, de cada troca de
+informações dentro de suas próprias
+plataforma. Você consegue ver como a estrutura
+Isso começa a permear tudo? Hoje no Accelerate
+É assim que fazemos. Isto aqui
+É isto que estamos implementando hoje. Isso é
+está em constante evolução e é
+específico para o meu mercado. Sempre
+Será específico. Sempre será
+específico para um mercado, sempre
+Será específico para um nicho e
+principalmente para uma vertical, porque
+Por exemplo, e será específico para você.
+empresa, por exemplo. Então é isso,
+Como posso dizer isso? Feito para
+extensão. Não, não é bem isso.
+personalizado. Isso é demais.
+verticalizado e tende a se tornar
+específico devido à informação
+Isso está dentro do cérebro. Ele
+contexto principal, porque o contexto
+Será sempre único. O que é o
+Terceiro, quarto, a entrega do sistema operacional?
+É aqui que transformamos tudo isso.
+conhecimento, processos, agentes e
+manuais em uma entrega que pode ser
+replicável. Então, veja só, é o
+entrega do sistema operacional. Isso é útil para quê?
+Qualquer operação? Não, isto
+A operação funciona para mim porque
+O meu tem um fator de geração de
+contente. Agora, vamos à operação.
+de serviços, este cérebro, por exemplo
+Não aplicável. Então, basicamente,
+O contexto aqui é instalar isto.
+infraestrutura dentro da empresa para
+que analisa e começa a converter tudo
+Em termos de produto, você entende? A ideia aqui é esta:
+Trata-se de criar uma infraestrutura que
+continuar operando, gerando dados e
+Gerando valor em todos os momentos. E
+Qual é o quinto e último? É a OPAS (Organização Pan-Americana da Saúde).
+SO, que é o sistema operacional. Esse
+Basicamente, conecta os indicadores.
+principais prioridades de um
+negócios, projetos em andamento, o
+responsável e todas as decisões
+levado. Isto é para uma empresa de
+O atendimento é maravilhoso. Para um
+empresa ou projetos em geral, é
+maravilhoso. O objetivo aqui é
+permitir que o fundador veja seus
+Negócios como um sistema, meu amigo. Pode
+Chame de BI ou o que quiser, mas isso
+Seria um sacrilégio, porque não é apenas
+que. Auxílio na tomada de decisões em
+em tempo real com uma linha de
+Raciocínio baseado no contexto, não é?
+Entendeu? Então não permanece
+simplesmente analisando os dados e vendo
+números. A ideia é que isso gere
+ações, ou melhor, apontar
+Ações e tarefas que precisam ser corrigidas
+em operação em tempo real.
+Então, esta é a arquitetura que
+hoje permite uma pequena estrutura
+operar com a capacidade de uma empresa
+muito maior. Isto é o que, para
+Para mim, este é o novo modelo de negócios.
+. Veja bem, isso é como as empresas
+Deveriam funcionar. Este é o novo
+Oportunidade, esta é a nova economia.
+. Agora, trazendo isso para o meu contexto e para
+Título deste vídeo, quando eu falo com você
+de operar um negócio que emite faturas 1
+milhões apenas com inteligência
+artificial não significa que eu
+Acordo de manhã e faço
+absolutamente tudo no meu negócio sem
+Ninguém mais, principalmente porque eu tenho
+uma operação. Essa seria uma.
+interpretando completamente
+superficial do que seria o Único
+Pessoa Empresarial, por exemplo. Ele
+Os negócios de uma pessoa não são da conta de outra.
+tentando realizar cem tarefas
+diferente, sozinho, vendendo, fazendo
+isto, aquilo ou outra coisa. Na verdade, é
+uma pessoa que coordena um
+infraestrutura capaz de investigar,
+Construir, implementar e aprender por conta própria, com
+a equipe que lhe fornece suprimentos. Então
+Essa pessoa continua responsável por
+a visão, do julgamento, e de cada um
+decisão que é tomada. Você não pode,
+Espere, tem algo errado aqui. Você não pode
+Por exemplo, deixar a IA assumir o controle.
+decisões sobre relacionamentos ou o
+definição dos padrões do
+empresa. Mas ele já não é o único.
+local onde reside a capacidade
+operações comerciais. Então, o
+capacidade operacional atual do meu
+A empresa não depende de mim. Meu cérebro
+Está funcionando lá e você pode ter um
+Equipamento extremamente eficiente.
+Então pense em uma empresa.
+tradicional, ou melhor ainda, pense nisso,
+como um fundador tradicional. Cada
+novas demandas de clientes, por exemplo, mais
+atenção, mais gestão, mais pessoas,
+mais sucesso do cliente, acumulando
+Gente, gente, mais comunicação!
+Hum, o que mais? Mais pessoas em seu
+equipe, cada vez mais pessoas. Não é isso.
+É um negócio escalável, isso é um
+Negócio que cresce por meio da acumulação.
+Porque quanto mais pessoas você adicionar ao
+sua operação, mais camadas de gerenciamento
+Você precisa adicionar. Portanto,
+Você terá custos mais elevados e, portanto, mais
+complexidade em sua operação. Em vez de
+Com essa nova arquitetura, o
+O objetivo é basicamente fazer o
+A capacidade empresarial aumenta sem
+a estrutura humana precisa crescer em
+a mesma proporção. Se eu fosse
+Operar. Acelere apenas para fazer 1
+um milhão, eu mesmo faria isso sem nenhum
+problema. Eu faria os vídeos aqui, os
+Entregas e nossa, isso seria maravilhoso. É
+Eu não quero fazer isso, então eu tenho
+Tenho estado a contratar pessoas. Então,
+Isso não significa necessariamente
+eliminar toda a equipe. Significa
+Criar uma equipe eficiente é muito
+Melhor com uma estrutura assim, não é?
+Entendeu? Você cria uma equipe muito melhor.
+alavancado. Então, um negócio de
+cinco pessoas podem operar com uma
+capacidade que anteriormente exigia pelo menos
+15 ou 30 pessoas. Um negócio de primeira linha
+As pessoas podem competir hoje com um
+Empresa com 50 funcionários. Olhar
+Que loucura. Você consegue entender? UM
+Uma empresa de serviços pode fazer isso.
+Em certos mercados, um único
+Uma pessoa pode literalmente construir
+uma operação que anteriormente seria
+Impossível sem uma operação completa.
+ou uma empresa inteira trabalhando para
+ela. Essa é a verdadeira mudança. Esse
+É literalmente a nova economia. UM
+um negócio de uma só pessoa não é
+necessariamente uma empresa sem pessoas ou
+somente com o fundador. Não pense nisso.
+Então. É uma empresa cuja capacidade não
+é limitado pelo número de
+pessoas. Será que consegue mesmo subir?
+Você sabe? O que eu vi agora. O que é o
+movimento? Então, foi exatamente isso.
+para materializar, por exemplo, tudo
+esta arquitetura que eu construí aqui
+Para mim, nós criamos o Grofei. Grofei não
+nasceu simplesmente para ser um
+plataforma mais aulas sobre
+inteligência artificial para publicação
+vídeos. Foi concebido para funcionar como um
+infraestrutura de construção e
+lançamento de inteligência de negócios
+artificial. Então, é tudo isso
+arsenal que mencionei, aquele que eu criei
+Para mim, está ligado a esta solução.
+Então, hoje, uma pessoa pode entrar
+Em Grow Fei, comece tomando uma decisão.
+a coisa mais importante que existe. Em que
+O mercado deveria entrar? Ou se você já tem
+Qual é a estrutura de uma empresa?
+O que devo adotar na minha operação? Já
+A partir daí, você pode investigar o
+mercado, aprofunde-se, analise o
+oportunidade, compreender o problema de
+esse público e identificar que tipo de
+A infraestrutura de IA pode ser vendida ou
+a ser aplicado na operação. Depois,
+Vá e use Oferos para transformar
+tudo isso em uma oportunidade clara, em
+Uma oferta clara que vende, entende?
+Qual é o problema? Qual é o
+mecanismo, por exemplo, qual é o
+resultado que seu mecanismo entregará para
+Seu cliente está presente nessa plateia? Como eles
+instalará este sistema, por exemplo,
+Como você vai vender seu próprio sistema ou
+Qual é o mecanismo de mercado?
+valor econômico disso para o
+cliente? Que tipo de resultado você conseguirá alcançar?
+gerar pivotando sua operação ou por
+Vender infraestrutura de IA?
+Qual deveria ser o custo de
+Qual deve ser a configuração?
+recorrência? Como você vai construir isso?
+oferta, como a oferta é construída,
+Entendeu? Então, basicamente, um
+Assim que tudo isso estiver construído, ela
+começa a desenvolver os ativos de
+aquisição e venda. Então
+trabalhos sobre posicionamento, no
+página, no conteúdo, no funil,
+Configurando o CRM, explicando para você
+Como construir a campanha, criando
+as estratégias, por exemplo, de
+processos de entrada no mercado, que são os processos
+comerciais, propostas, uh, o quê?
+avançar? Apresentações, acompanhamentos,
+mensagens que precisam ser enviadas no
+Fluxo de nutrientes. E então ele vai
+estruturar a entrega desse sistema.
+Então, como você vai estruturar o
+entrega? Porque dentro disto
+Concentramos toda a infraestrutura
+inteligência, os manuais, o
+agentes, sistemas, modelos e
+todos os processos que nós aqui,
+e que acumulei negociando em
+dezenas de mercados e análises
+centenas de ofertas com nossos parceiros,
+com nossos clientes, com meu
+experiência. Trouxemos toda essa bagagem,
+todo esse contexto dentro do Grow AI.
+Portanto, o objetivo principal é que
+a pessoa não sai sozinha com um
+mais conhecimento sobre inteligência
+artificial; Saia daí, ou melhor, saia
+Tudo começa aí, com um negócio em
+março, com um mercado definido, com
+uma oferta construída, uma máquina de
+aquisição funcionando, clientes
+entrando, um processo comercial
+organizado e funcional. Imagine isso
+Em seguida, se você quiser abrir um negócio e
+Você não sabe por onde começar,
+Basicamente, ela faz tudo isso. Ela
+Ela estabelece uma infraestrutura que pode ser
+instalado, ou melhor ainda, que você possa
+Instale isso em seu futuro cliente.
+Você provavelmente nem sabe disso hoje em dia.
+Qual é a resposta? Vou dar um exemplo aqui.
+. Imagine que você está me observando.
+Aqui você quer construir um negócio e
+Implementar inteligência,
+Infraestrutura de IA para clínicas.
+Sua primeira abordagem, provavelmente,
+Seria vender algo genérico. "Eu vou para"
+Vou vender um chatbot para clínicas.
+Venda automação do WhatsApp
+Para clínicas, vou vender um agente.
+para responder perguntas no WhatsApp."
+O problema é que se você se concentrar nisso
+Tudo isso está se tornando cada vez mais...
+mais fácil de copiar, fácil de
+comparar. Qualquer pessoa pode fazer isso.
+Agora pense nisso de outra maneira. Eu vou te contar
+para explicar de uma forma completamente
+diferente. Veja isto aqui. Em
+Em vez de vender uma ferramenta, você vai
+lá e você investiga toda a rota.
+que um paciente pode ter dentro
+uma clínica. Como o lead chega
+uma clínica, por exemplo, quanto
+tempo médio que a clínica leva
+responder? Se demorar mais do que X tempo,
+Qual é a taxa de conversão ou
+Em quanto a taxa diminui?
+conversão? Quantas consultas são perdidas?
+durante o processo? Quantos pacientes não
+Elas ocorrem quando, por exemplo,
+Demora um pouco para agendar? Como isso acontece?
+Acompanhamento de clientes, acompanhamento de pacientes?
+Como os pacientes são reativados?
+Os antigos estão na base? Onde é que se perde?
+Informações sobre a equipe? E tudo isso
+Isso torna o processo automático. Agora, começando por
+Com esse diagnóstico, você não vende mais um
+chatbot, você não vende mais um processo de
+Em vendas, você não vende mais um CRM; Você vai
+Vender e instalar um sistema
+aquisição, conversão, rastreamento
+e reativação de pacientes. Brutal,
+VERDADEIRO? E esse sistema, basicamente,
+pode envolver inteligência
+artificial, CRM, agentes,
+automações, painéis de controle,
+estrutura e processo de mensagens
+aquela clínica. Mas o cliente não
+Vou comprar essas ferramentas de você.
+em isolamento. O que vai acontecer?
+Comprar de você? Como sempre digo: ele vai
+Para comprar o resultado, você vai...
+vender o resultado; comprarei
+uma infraestrutura que resolverá um
+problema econômico de seu funcionamento.
+Este é o tipo de negócio em que
+Acreditamos que as pessoas podem
+Construir, não apenas em clínicas. Esse
+Não é exclusivo para clínicas, pode ser
+para agências imobiliárias, indústrias,
+distribuidores, empresas de serviços
+Em geral, operações financeiras,
+escritórios, educação e dezenas de
+outros mercados. Amigo, existe um mercado para
+excedente. Uau, o que é que mais...
+Existe mercado para isso? Cada setor tem um
+contexto fragmentado. É uma dor real.
+Todas as indústrias, todos os setores, tudo
+O segmento envolve decisões repetitivas.
+Cada segmento possui trabalho operacional.
+que pode ser transformado em um
+infraestrutura de crescimento com
+inteligência artificial. E esse é o
+Grande oportunidade. Agora, existe algo
+o que é muito importante que eu preciso
+para te contar. Nenhuma inteligência, ou melhor, nenhuma inteligência.
+Dito isso, nenhuma dessas ferramentas
+Isso eliminará a necessidade de pensar.
+Ele pode até mesmo pesquisar o mercado.
+por si só, mas alguém precisa
+Avalie se essa oportunidade faz sentido.
+. Alguém precisa analisar isso. Pode
+até mesmo elaborar uma oferta, mas
+Alguém precisa entender se essa promessa é verdadeira.
+realista, se é que isso realmente tem algum fundamento.
+senso. Ela pode, por exemplo, criar
+uma campanha, mas ainda assim precisará de
+para alguém que decide qual é o
+posicionando essa operação, essa
+pessoa ou que deseja ocupar. Então,
+Você pode analisar dados, você será capaz de fazer algo.
+sozinha, mas sempre havia alguém
+Ele terá que assumir a responsabilidade.
+da decisão. Portanto, o
+O fundador não desaparece, ele não pode.
+desaparecer. O papel do fundador
+Muda completamente, deixa de ser apenas
+aquela pessoa que executa, que coloca
+Vamos começar a trabalhar e é assim que as coisas funcionam, e
+torna-se, ou melhor, o fundador
+Ele se torna o arquiteto disso.
+sistema. Essa pessoa define em direção a
+para onde o negócio está indo, qual é o
+contexto que precisa ser capturado, o quê
+As decisões podem ser delegadas, o quê?
+Os processos devem ser transformados em
+sistemas e automação, e o quê
+padrões que a inteligência deve seguir
+artificial. É por isso que eu não acho que o
+A maior vantagem simplesmente
+Quem sabe usar mais ferramentas.
+Não faz sentido nenhum. A vantagem
+Haverá alguém que saiba como estruturar empresas.
+em torno da inteligência artificial
+. Isso é muito real. Eu nem vou
+Abra o tópico do FDE e tudo mais.
+Nem mesmo esse movimento de mercado. Bem,
+Isso é assunto para outro vídeo, porque senão...
+Vai demorar muito. Então,
+Para concluir este vídeo, quando você
+Eu digo que administro um negócio de 1 milhão de dólares.
+sozinho, não é só, eu tenho um
+infraestrutura de crescimento que eu
+Ter uma equipe escalável ajuda bastante.
+Então, se você já tem um histórico comprovado, então...
+Você tem uma empresa, um negócio,
+Você entende de mercado e quer
+transforme esse seu conhecimento em um
+sistema de inteligência artificial por
+que as empresas te pagam para
+Para usá-lo, há um link abaixo.
+Para assistir ao vídeo, basta clicar ali.
+Você clica, preenche o formulário,
+Você faz uma solicitação e conversa aqui com
+Nossa equipe Acelera 360.
+Entenderemos o seu momento, o mercado que
+Sabe, e nós vamos te mostrar como isso acontece.
+A mesma arquitetura poderia ser aplicada em
+a construção ou no
+transformação do seu negócio. Porque
+Acredito firmemente que o próximo
+A geração de negócios não será
+construído apenas por aqueles que sabem como usar o
+inteligência artificial. Será
+Construído por alguém que sabe como transformar
+inteligência artificial em um
+infraestrutura. Será construído por
+quem está no campo de batalha, porque
+quem entende de negócios, por quem
+Compreende um segmento específico. E
+Estamos construindo o lugar
+onde estão esses novos negócios
+nascer. Ok, até mais. Aproveite
+Siga-me e comente aqui também. E
+Vamos criar a sua própria infraestrutura.
+de ar.

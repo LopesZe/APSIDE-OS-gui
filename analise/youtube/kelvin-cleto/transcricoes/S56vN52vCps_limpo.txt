@@ -1,0 +1,685 @@
+Olá pessoal! Como vai você? Olhar,
+um vídeo diferente, um vídeo
+introdutório. Deixe-me tirá-los
+óculos para falar com você. Eles
+Vou contar um pouco sobre quem é Kelvin.
+Quem é esse maluco que começou com isso?
+Fale com eles lá. Falando sobre desenvolvedores, falando
+PO, fale bem, fale mal. E
+O que eu quero com este canal?
+Qual é o meu objetivo? Então, vamos lá.
+lá. Prazer em conhecê-lo(a), meu nome é Kelvin.
+Tenho 32 anos e sou pai de três filhos.
+filhos, Rebecca, Rane e Kevin, de 10, 7 e
+4 anos, respectivamente. Sou
+Empreendedor, hoje tenho três empresas em
+dia. Sou desenvolvedor, adoro programar, eu
+Ele é apaixonado por programação. É isso que
+Gosto de fazer mais. E meu objetivo com
+Este canal é para contar um pouco sobre mim...
+sucessos e meus erros neste mundo
+do empreendedorismo, do desenvolvimento à
+empreendedor, que foi o caminho que eu
+Eu viajei. Aprendi muito construindo
+equipes, contratação de pessoas, demissão de pessoas
+Pessoas, programação, bagunçando tudo
+o código, vender, estragar tudo
+Com o cliente e fazendo correções. Então,
+Meu foco principal é ajudar vocês, desenvolvedores.
+, que têm o benefício de um lar
+escritório, em escala, para destacar isso
+empreendedor que eles carregam dentro de si para que
+iniciar seus próprios negócios,
+iniciar negócios pertencentes a terceiros, como em
+minha, e ganho muito dinheiro com isso.
+Hoje vejo que o desenvolvedor tem a capacidade
+de trabalhar em duas ou três empresas sem
+problemas, ser uma empresa com várias filiais ou trabalhar
+fora do país. Assim como muitos que seguem
+a corrida internacional, que eu acho
+Muito bem, essa é uma ótima possibilidade, e
+desenvolver essa mentalidade, essa "
+"Mentalidade"—Já estou no modo treinador!—
+Mas desenvolver essa mentalidade empreendedora
+, aquela mente visionária, olhando para o seu
+corrida realmente como se você
+eram uma empresa. O desenvolvedor de hoje é um
+Se for uma pessoa solteira, é problema dela, é
+Alguém que pode ser independente
+unicórnio. Hoje é a corrida, a
+Carreira de desenvolvedor. O desenvolvedor é o
+tipo com maior capacidade de alcançá-lo
+de todas as profissões; é o
+profissão com maior potencial para
+Um único desenvolvedor pode ganhar 100.000 ou 200.000 por mês.
+sem muita dificuldade, crescendo
+Relaxa, tá bom? Calmamente, mas
+Você precisa desenvolver muitas habilidades interpessoais.
+ter uma boa visão de mercado e
+uma boa visão para o futuro
+para conseguir isso. Mas vamos em frente, eu vou
+Queria compartilhar uma pequena coisa com vocês.
+história, minha jornada. Comecei a
+programar aos 14, 15 anos de idade. Eu costumava jogar
+Um jogo chamado Ragnarok. Eu fui lá,
+Configurei um servidor pirata e fiz tudo.
+a personalização de scripts e
+todo o resto. Foi lá que eu tive o
+Primeiro, eu disse: "Caramba, cara, isso pode ser feito."
+modificar tudo, pode ser ajustado, é
+Você consegue fazer isso, é possível fazer isso.
+"Aquela coisa." Eu disse: "O que é isto?" Lá
+Comecei a entender programação e
+Eu sou de Itapevi, ok? Minha mãe é
+Eu trabalho em um posto de gasolina e meu pai é professor.
+. Este é o bairro, cara. Minha mãe e meu
+Meu pai me matriculou em um curso técnico,
+em uma escola técnica chamada Fito. E
+Foi lá que aprendi a programar.
+Era desenvolvimento, era educação secundária
+desenvolvimento técnico de software, ?
+VERDADEIRO? Ênfase no desenvolvimento de
+software. Aprendi a programar em C e
+Eu tinha uma base sólida, certo?
+Aprendi a programar em C. Eu tinha um
+professor chamado Pitol. Aquele cara eu
+Ele ensinou incrivelmente bem como fazer
+Sistemas em fluxogramas. Ele
+Ele programava em Cobol e me fazia desenhar.
+todo o código em fluxogramas,
+e então ele pegava aquilo e levava para o
+outra turma de professor cujo nome não está
+Lembro-me de que ele também era um gênio.
+Alexandre alguma coisa, um japonês incrível.
+E ele me fez programar tudo isso.
+coisa ali. E isso me deu uma base.
+Lógica muito sólida. Nossa, que intenso.
+muito forte. Sou bom em ter
+visão. Uau, testes de desktop!
+homem. Quantos testes de
+O que a mesa estava fazendo? Eu os fiz sobre
+fluxogramas com papel e pa
+pa. Foi assim que eu aprendi. Então meu pai, porque
+Por ser professor em Barueri, ele conseguiu me colocar em uma vaga.
+em uma escola em Barueri que é
+público. Fiz o exame lá e passei.
+chamado ITB, que é o Instituto
+Brasílio Flores de Azevedo. Estudo
+Na ITB, ITB Brasílio. Lá em
+Beoval, eu entrei, fiz o primeiro ano em
+Fito, no meio técnico, o segundo
+Eu fiz isso no ano passado em Beoval e foi lá que aconteceu.
+onde tive meu primeiro contato com o VB.NET. Ei,
+Quando me apaixonei por VB.NET, foi isso que aconteceu.
+Fácil, né? No início foi difícil.
+Para entender um pouco sobre orientação para
+objetos. Estávamos fazendo o planejamento,
+Estávamos desenvolvendo em Windows Forms lá.
+Mas ele aprendia rápido. E então
+também, no segundo ano do
+escola técnica, eu consegui meu primeiro
+emprego. Consegui meu primeiro emprego.
+Inicialmente, dois meses depois
+Comece a trabalhar lá, comece a estudar,
+Eu já consegui meu primeiro emprego em
+ColdFusion. Eu trabalhei em Alphaville, em
+uma empresa chamada PC Power. Potência do PC.
+No meu primeiro emprego, eu ganhava 450 reais por mês.
+estágio. Ei, é ali que...
+Eu realmente entendi. Eu disse: "Uau,
+Agora você pode realmente ganhar dinheiro com
+"Isto aqui." Eu organizei dois meses de
+salário para comprar um rádio DVD
+O carro do meu pai. Que
+uma tela muito pequena, de cerca de 4 polegadas
+polegadas. Que diabos! Ah, eu fiquei
+apenas seis meses nessa empresa porque
+Escolha pessoal. Eu disse: "Ei, eu não posso."
+Estou hospedado no ColdFusion porque este é
+uma língua morta, não tem nada
+significado." Veja, então, veja, era um
+Essa foi uma ótima decisão que tomei.
+Então eu disse: "Ei, não consigo continuar."
+Estou trabalhando nisso porque é um
+"Língua morta, quase ninguém mais a usa."
+"Então eu tenho que ir para um idioma."
+mercado, o mais atualizado possível e
+que seja uma língua que tenha muitos
+oportunidades de emprego." E foi aí que eu escolhi.
+C#, pesquisando entre linguagens, já era de
+Microsoft, eu disse: "VB.NET, semelhante a C#
+". Dó sustenido. Naquela época havia o J#
+Além disso, ele estava lá, mas estava muito...
+Pouco usado. Gostei bastante.
+também. Mas então C# foi o primeiro
+idioma com o qual escolhi trabalhar
+no mercado. E foi aí que comecei a procurar.
+Havia vagas de emprego e eu consegui. UM
+Um amigo meu conseguiu uma entrevista para mim.
+Ele estava conseguindo um estágio.
+, olhar. Eu estava lá, eu morava em Itapevi
+Ah, a escola ficava em Barueri e
+O estágio que ele estava fazendo era em
+a estação São Judas do metrô, ali na Vila
+Mariana. Para quem não conhece essa região.
+, olhar. Então eu pegaria o trem e iria para
+Barueri. Então saí às 11h45.
+escola. Quando terminei aquele estágio,
+Peguei o trem, estava indo para Barra Funda.
+Barra Funda, eu costumava pegar o metrô para ir para
+metrô grande, para ir até a estação
+São Judas. Ele me deu isso, ele
+Ele me conseguiu este emprego.
+amigo. [ __ ]. Chamava-se Abidos.
+João. João Paulo. João, um abraço.
+Tio, você foi fundamental na minha vida, em
+meu crescimento. Esse cara, esse cara é
+um fenômeno. Esse cara tinha uma base
+Programação incrível. O tipo
+Ele criou, o cara criou, o cara
+Clipper modificado, velho! O cara
+Foi uma loucura. Ele fez algumas coisas muito
+Que loucura, ele era um daqueles programadores.
+antes. E ele sabia muito sobre C#,
+Era um tipo de arquitetura de software.
+, super rigoroso com código limpo
+com arquitetura, com padrões
+projeto. Que cara! E é aí que
+Eu realmente comecei a aprender sobre desenvolvimento.
+. Mas eu só estive lá por três meses.
+porque depois de três meses,
+Infelizmente, teve que fechar o
+empresa; Não me lembro do motivo, mas
+Tivemos que fechar aquela startup e nós
+Ele me demitiu, junto com outros dois estagiários.
+que estavam trabalhando naquela época. Mas
+essa decisão de ter deixado o PC
+Energia, da Code Fusion, e mãos à obra!
+Ele mudou a minha vida. Isso mudou o
+minha trajetória de carreira, porque lá
+Eu realmente consegui entender o caminho que
+Eu queria continuar. Então
+Eu queria me tornar um desenvolvedor.
+.NET sênior. Sim, essa era a minha visão de
+No futuro, quero ser um desenvolvedor .NET.
+sênior. E cara, eu fiquei muito bom nisso.
+Aprendi muito, aprendi a refletir com
+Ele e tudo mais. Usei o Reflection para tudo.
+todos. Qualquer entrevista, qualquer
+...espere, deixe-me ajustar a câmera.
+aqui. Qualquer entrevista, qualquer
+E ele o fez. Usei a reflexão para
+todos. Então, basicamente, eu fui para
+conduzir uma entrevista após sair
+lá. Hum, duas semanas depois, já
+Nós tínhamos conseguido empregos, porque
+Cheguei à entrevista para fazê-la em
+uma empresa chamada CTI. Para começar, é
+A primeira coisa que eu fiz foi, caramba, eu fiz um
+Um projetinho de três camadas, sabe? E em
+a camada de dados, a camada DAL, ?
+O que eu fiz? Criei duas classes, uma de SQL e
+Não me lembro do nome do outro, mas SQL
+Não me lembro, e eu os injetei através de
+reflexão. Puxa, velho. Como estagiário
+Fazendo isso, consegui um emprego.
+Naquele instante, e foi muito, muito... eu fiquei muito feliz.
+Ali, fui muito assertivo; Estava localizado em Vila.
+Mariana. Então, saí de Bidos e dois
+Semanas depois, ele já havia alcançado
+outro emprego. Isso foi quando eu tinha 17 anos.
+Naquela época eu ganhava 800 reais. Disse: "
+Droga, perdi 800 pesos. Eu o destruí.
+Agora sim, tudo. Agora sou rico. É assim mesmo. EU
+Ele ganhou 800 reais, sim. Olha só isso!
+loucura como estágio. Ah, eu estava muito
+Também estou feliz com a concessionária CTI. Em CTI
+Eles fizeram isso com a concessionária, era uma empresa que
+Eles costumavam fabricar marcadores.
+Então, estávamos desenvolvendo software.
+Foi ali que aconteceu, conectou-se com o
+hardware, então havia uma interface,
+um driver que foi desenvolvido em C++,
+que estabeleceu a conexão com aquele motorista
+Utilizar o computador para fazer chamadas.
+Naquela época, era usado em centrais de atendimento telefônico.
+Os funcionários atenderiam o telefone,
+Então havia um servidor que
+distribuíram os números para cada um
+Atenção, fiquem de pé, e as pessoas estavam
+as ligações para cobrança de pagamentos e tudo mais
+o resto. E foi lá que conheci os dois.
+Pessoas maravilhosas. Quer dizer, é isso mesmo,
+O gênio era insuportável, isso era.
+Eduardo, mas ele era um cara ótimo, um
+Cara incrível, verdadeiramente incrível.
+Cara lendário, o cara era bom,
+irmão. O cara era muito bom, perdeu
+Lá, ele estava na casa dos quarenta anos.
+anos de idade, tinha um filho, não estava mais em
+essa frequência de crescimento na carreira
+E tudo isso, eu só queria pagar o
+Contas, e só. Ela tinha alguns
+Frustrações na vida, eu não sei. Bem
+Que se dane, isso não é problema meu. E
+Conheci um cara chamado Dalton. Oh,
+Esse cara também era um gênio.
+Então é assim que eles são, olha que legal!
+São pessoas que Deus colocou na minha vida.
+para que eu pudesse traçar um rumo e
+Para termos mais clareza, certo? E
+Irmão, aprendi muito, me tornei muito
+Bem, eu me tornei um gênio, eu programei.
+como um louco. Fiquei três horas, entrei lá,
+Passei três meses trabalhando como
+Que loucura, cara. Ele programava muito,
+estava em desenvolvimento. Meu horário era de 6 horas.
+Eu tinha 8 ou 9 sobrando, dei tudo de mim.
+lá dentro. E era ali que eu queria estar, eu estava.
+no meu último ano de escola técnica e já
+Eu queria continuar na universidade, eu queria
+Para realizar o FIAP, apenas o custo do FIAP
+um braço e uma perna por mês. Eram mil!
+quatrocentos, mil e quinhentos, em
+realidade. 1500. A FIAP sempre foi muito
+face. E eu queria estudar na FIAP.
+a todo custo, porque a FIAP é
+Uma escola de negócios, certo? Então
+É uma universidade que, uau, a
+Os professores fazem parte do mercado, é um
+Negócios reais. Então eu disse: "
+"Cara, é isso que eu quero." Eu disse
+"Quero aprender com alguém que seja
+que está presente nessas grandes empresas
+tecnológico." Meu professor de fundamentos de
+dados e Oracle era diretor de
+Oráculo. Então, o cara era realmente bom.
+Mas eu não tinha dinheiro para pagar. Meu
+Meu pai também não tinha dinheiro para pagar.
+Nem minha mãe. Então eu liguei para o
+O Sr. Julio, que é o proprietário do
+empresa, e eu disse a ele: "Sr. Julio, é
+Em seguida, quero estudar na FIAP.
+Quero continuar trabalhando para vocês.
+Mas com o salário que ele me paga, eu não posso...
+"Já chega." Então, vou fazer um acordo.
+. Você paga minha universidade e me dá 300
+muito mais real. Então, se você me pagar
+universidade com antecedência, obtenha um
+10% de desconto, pague com desconto
+que você tenha dinheiro para isso. Olhar
+Minha lógica: você paga com desconto e
+então ele me dá mais 300 reais para que eu
+pode me apoiar mensalmente. E ele concordou.
+Ele aceitou. Olha só que legal!
+pessoas. Hum, as conversas
+As difíceis são necessárias. Eu liguei para o meu
+Chefe, venha aqui, o dono da empresa
+, Não? Eu disse a ele: "Sr. Julio, venha aqui."
+Deixe-me explicar minha situação.
+. "Estou nessa situação, preciso de
+"Esse." É possível? Pode. EU
+havia demonstrado a qualidade da minha
+Durante o serviço, mostrei o que eu era capaz de realizar.
+entregar e gerar valor para ele, então
+Ele aceitou. E foi assim que consegui pagar.
+minha universidade lá. Aos 17 ou 18 anos
+Eu já tinha condições de pagar meus estudos universitários anos atrás.
+Naquela época era muito dinheiro, era
+um salário bastante diferenciado. EU
+Ele ainda era um calouro, um calouro ousado, e
+Essa quantia era bastante grande, bastante grande mesmo.
+expressivo. E isso foi em 2009, mais ou menos.
+menos. Em 2009, ele ganhava praticamente o
+que meu pai ganhou. E ali, uh, ah,
+Sim, mudei-me para Vila Mariana, então
+Com os 300 reais, paguei 150 de um.
+quarto pequeno. Eu compartilhei
+quarto com um amigo chamado Gilmar
+. Gilmar, um abraço, meu amigo. Você
+Você também é um fenômeno. Ele
+Ele trabalhou comigo lá na concessionária CT.
+Compartilhávamos um quarto como se
+Era um apartamento pequeno e agradável, muito agradável mesmo.
+, daqueles mergulhos, sabe? Irmão,
+Eu morava em um cubículo como esse.
+Encontramos aquele quarto e eu fiquei lá.
+Trabalhando na concessionária CTI, mas apenas
+Fiquei lá por mais 8 meses. Você
+Você acredita nisso? Só mais 8 meses.
+Porque eu comecei a procurar e, ei, meu
+Eu já estava sentindo isso.
+limitado. Eu disse: "Cara, não pode ser,
+"Velho." "Isso não é para mim."
+Eu preciso, eu preciso de mais, eu preciso de mais,
+"Preciso amadurecer." E foi lá que eu fiquei.
+8 meses, 9 meses no máximo, e outro
+Tempo, puf, hora de encontrar outro lugar porque já
+Senti que não conseguia expandir mais.
+Eu sempre tive essa habilidade de me aproximar das pessoas.
+Para pessoas capazes, sabe? Então,
+Ser uma pessoa com boas conexões.
+Eu me apeguei a eles, eu me agarrava a eles e
+Ele disse: "Ei, me ensine, me mostre,
+"Deixe-me fazer isso." Eles estavam me ensinando, eu
+Eu estava tentando fazer de outra maneira.
+dizer: "Caramba, vou criar alguma coisa
+Ao contrário do que ele fez, ele vai
+"alucinar." Mas quando tentei fazer
+algo diferente e mostrou para o
+Além disso, disseram: "Que monte de bobagens!"
+"O que você fez aqui?" e tudo mais. Mas isso me fez
+Isso me ajudou a crescer muito e a consolidar meu...
+conhecimento, esse conhecimento que
+estava adquirindo. Nossa, eu costumava criar
+estruturas, tipo, eu criei o "mafagafo"
+framework", nem o carreguei no Git, mas
+Ele criou muitas coisas. Eu tive um
+Uma pasta cheia de código, sabe? Mas
+OK, tudo bem. Então eu fui para
+outra empresa onde havia um contrato formal,
+Eu queria ter um contrato formal. Disse:
+"Cara, droga, eu nunca tive..."
+"contrato formal." Consegui uma boa.
+Fui contratado com um salário muito alto.
+Comecei como desenvolvedor de nível intermediário,
+Me saí muito bem na prova e eu estava
+Acho que no máximo uns 8 ou 9 meses e
+Eu disse: "Não aguento mais." Porque eu era
+para uma empresa que não era do setor de tecnologia
+Então, o que acontece? Eles reuniram uma equipe de
+tecnologia para lidar com o
+necessidades da empresa. E aqui estou eu.
+Eu me senti muito, talvez eu estivesse um pouco...
+Com arrogância, eu disse: "Sou bom demais."
+"Estar aqui, sabe?" Não, isto
+Não é para mim. Preciso ir a um
+empresa que possui uma equipe de
+Tecnologia robusta para aprendizagem.
+Eu também era arrogante e muito assertivo.
+Na minha decisão, porque eu estava lá que
+Naquele momento, apareceu um.
+Informações sobre vaga para arquiteto. Para
+Aqueles que não sabem, anteriormente
+Você estava procurando vagas na AP Info, era uma
+site como um portal de empregos, mas
+apenas tecnologia e era para
+arquiteto de software completo. Disse: "
+Irmão, é que eu, completamente, sou do tipo
+candidatando-se a arquiteto
+software. Mas eu enviei o e-mail.
+dizendo o seguinte, veja. Eu não sou
+Sou arquiteto de software, mas quero
+Para se tornar um arquiteto de software.
+Estou disposto a trabalhar por menos, não importa o quê.
+problema. Meu salário é este, escrevi.
+Eu fui super detalhista em tudo, inclusive no meu salário.
+É muita coisa, me dê essa chance,
+Ligue-me para agendar uma entrevista. Então
+Eles me ligaram lá em Jabaquara, foi um
+distribuidor de produtos chamado
+Oficial, e os caras, irmão, eles tinham
+a um grupo que havia injetado um
+Lã incrível, eles tinham uma equipe
+monstruoso, fazendo a implementação
+da SAP. Caramba, mano, aqueles caras eram
+Eles são incríveis, cara. E era comércio eletrônico. E
+Caramba, o comércio eletrônico é incrível!
+irmão. O comércio eletrônico é enorme.
+finalização da compra, alta disponibilidade, amigo.
+É uma loucura total. Então eu fui, eu fiz
+No teste, pronto, passei. Caramba, eu sou bom
+Para os testes, irmão. Estou bem.
+Digo-te, meu amigo, eu sou uma fera porque
+Sou uma pessoa que questiona, pergunto: o que é?
+Qual é o benefício para a empresa? Que
+Droga, isso e aquilo, o que posso fazer?
+O que posso fazer para você? O que você espera de mim?
+? E quando se trata de escrever código,
+velho, ao fazer o teste prático, ele
+Estou terminando o relacionamento, irmão. Embora naquela não houvesse sequer uma.
+teste prático, mas havia um que
+Ele se tornou um grande amigo meu, Marcos.
+Paulo, o outro que mudou minha vida,
+Ei! Alex Takash, você também. Meu
+Os dois estavam dando entrevistas, que loucura.
+Os caras estavam me massacrando, fazendo perguntas e
+yo pum, papum, papum, papum. Sim
+Eles perguntavam algo, e ele respondia: "Amigo, isso..."
+Não sei, não sei o que é isso.
+"Explique-me isso." O cara estava me explicando.
+E eu pensei: "Ah, é parecido com isso, sabe?"
+Tipo, mano, um papo de verdade.
+interativo. Pronto, passei, passei, entrei
+E eu era muito feliz naquela empresa, meu amigo.
+Permaneci nessa empresa desde os meus 20 anos.
+até os 21 anos. Sim, estive lá por alguns anos.
+Dois anos, e eu teria ficado se dependesse de mim.
+Além disso, porque ela era muito boa. Ela era boa
+Por causa da equipe e tudo mais, sabe? Era
+incrível. Incrível, de verdade. QUALQUER
+É um sistema incrível, meu amigo.
+Tecnologia incrível, uma equipe
+Pessoas incríveis e muito capazes, e, uau!
+Aprendi muito. E lá fui eu.
+adotado por um cara chamado Rafael
+Tolote. Rafael, um abraço. Olha só isso!
+Bom, né? Você se dá conta disso?
+VERDADEIRO? Cada parte da minha vida que
+Isso representou um salto no crescimento.
+porque havia pessoas me apoiando e
+Eu sabia como tirar o máximo proveito disso.
+oportunidades. Isso é muito importante.
+pessoas. Você precisa se reunir com o
+Descarte os ruins.
+Irmão, esse Rafael Tolote era um
+fenômeno, meu amigo. Aquele menino era um
+fera selvagem. Ele estava lá em Porto Alegre.
+Eu já estava trabalhando remotamente naquela época.
+Era algo que nem sequer era comum,
+pessoas. Trabalhar remotamente nunca foi comum.
+Não. Então. Estou falando
+A partir de 2013. 2013. De 2013 para 2014, acho que não.
+2013. Então Rafael, isso, do dia 12 ao
+13. E havia Rafael Tolote, aquele cara maluco.
+um gênio da arquitetura, ele e
+Thiago Dondé, e eles me explicaram, me
+Eles me ensinaram, eles me mostraram tudo. E o
+Esse cara estava analisando meu código e era durão.
+irmão. O louco estava me exigindo coisas,
+Ela me disse: "Você não pode ser assim, você tem que ser diferente."
+"Fazer a diferença", e eu simplesmente
+Pensei: "Claro, é isso mesmo." Uau, um
+Mestre Jedi. E eu simplesmente absorvi,
+Absorveu e absorveu. E então ele
+Ele saiu de lá e foi para Gerdau. Ele
+Ele estava, agora ele mora na Alemanha, se eu não...
+enganado. Ele foi para Gerdau e eu
+Continuei como Oficial, e lá ainda tinha
+mais oportunidades de crescimento porque ele
+Era uma parte fundamental da empresa.
+. Hum, na parte de arquitetura, sim.
+um jogador fundamental, e Alex também era um
+fenômeno ali. Marcos Paulo também.
+Marcos Paulo. Irmão, vocês três
+Eles são lendários! E bem, eu
+Eu fiquei na cabine do oficial quando eles...
+Eles foram, mas aconteceu algo realmente louco. deixei
+Minha namorada estava grávida, eu fiquei tipo dentro
+terceiro ou quarto ano de universidade.
+Então eu a engravidei e me apaixonei por um
+Não é muito comum num processo depressivo, sabe?
+Eu fiquei muito triste, irmão. Nisso
+Naquela época, ele já ganhava seis mil, seis mil ou sete mil.
+mil, algo assim. Ele ganhava muito bem.
+Contrato permanente, com muitas vantagens.
+, muitas coisas. Então eu liguei para o meu
+chefe para conversar. Lembro-me, uau,
+Marcos SA e Alex, Marcos naquela época
+Ele era o gerente de TI de lá. Marcos SA
+Ele também foi um cara que me apresentou
+como ter gestão e controle é
+essencial na vida. Ele me ajudou
+muito, muito, muito mesmo,
+muito. Então liguei para a Marcos SA.
+Para conversar, expliquei minha situação a ele.
+E eu disse para ele: "Cara, não estou mais com vontade."
+de trabalhar." Então, começamos a
+conforme o combinado, eles administraram minha saída do
+A empresa e eu tiramos um período sabático de seis meses.
+Estive ausente por seis meses. Nem mesmo
+Eu ia para a universidade para que eles pudessem...
+uma ideia de quão deprimido ele estava. Meu
+Eu me casei e tudo mais, minha filha mais velha nasceu,
+Foi a melhor coisa que já me aconteceu.
+que minha filha nasceu naquela época,
+Porque isso realmente me transformou.
+mentalidade. Até que um amigo me
+Um dia ele me ligou e disse: "Kelvin,
+Tenho uma oportunidade de emprego aqui.
+"Ser um arquiteto de software." Olhar
+Isso é ótimo, cara. E eu disse: "Droga,
+Irmão, agora é a minha chance de,
+Sabe, ficar sozinha, fazer isso por conta própria,
+sem ninguém, à minha maneira, para criar um
+sistema, uma plataforma para servir
+"América Latina e América Central." Eu disse
+"Nossa, isso é incrível, não é?" Já
+Comecei a ficar nervoso e disse:
+Irmão, não sei, nunca fiz isso.
+Mas, velho, de agora em diante, só
+Deixe-o vir até o papai, deixe-o vir, eu farei isso.
+"Dominó." Entrei na empresa para
+Para estruturar este projeto, isto
+arquitetura, e eu liderando tudo isso era
+Ótimo, e eu comecei a programar e, bam, bam,
+Bem, bem, seis meses depois, o que sou eu?
+acontece? Demissões em massa, cortaram tudo.
+Foi curioso. Só restou uma pessoa.
+na área de tecnologia em que
+Naquele momento, quem era a mesma pessoa que
+Ele me contratou. Amanda, esse era o nome dela.
+. Amanda, um beijo. Você também estava lá
+Fenomenal na minha carreira. Mas eu já
+Eu havia estudado todo o mercado,
+irmão. Sou um cara que estuda tudo.
+o mercado. Eu estava estudando o
+mercado para entender o melhor software
+que eu tive que desenvolver para isso
+empresa. Eu disse: "Caramba, cara, tem um
+"nicho de mercado incrível no Brasil"
+. Foi nessa época que eu fundei minha empresa.
+Clãs Gerais. Foi aí que eu me instalei.
+Clãs Gerais. Foi isso, eu montei com
+um parceiro naquela época. Isso foi
+Final de 2015. Sim, final de 2015.
+Fundei a General Clans e temos sido
+Estou aqui desde 2015 até agora. Ainda
+Isso existe hoje, não é? Mas de 2015 para
+Em 2019, estávamos remando com muita garra. E
+Naquela época era engraçado que eu
+Eu queria criar a melhor plataforma para
+mundo. Eu disse: "Cara, eu vou desenvolver
+Agora que a empresa é minha, eu vou fazer isso.
+Eu seguirei meu caminho e implementarei um sistema.
+que é altamente escalável,
+distribuído e adaptável. E eu vou fazer
+Aqui, irmão, uma arquitetura
+Incrível, cara. Isso se tornou tão
+complexo que não poderia, isto é,
+Consegui meu primeiro cliente e não consegui...
+entregar na velocidade que
+Eu precisava usar a plataforma,
+até que eu tive que tomar uma decisão.
+Essa foi a primeira vez que estive lá.
+Por outro lado, né?, do lado tipo
+empresário. Eu não tinha dinheiro, eu tinha um
+fundo de 50.000 naquela época que
+Eu tinha economizado e gastei tudo em
+ficar por seis meses para
+para montar o negócio e eu tive que fazer um
+decisão. Eu disse: "Amigo, ou eu vou embora."
+Código maravilhoso e continuo assim, ou melhor, continuo fazendo.
+Essa parte é incrível porque é a
+a parte mais crucial do sistema e isto
+Mais uma, que se dane, eu faço com qualquer coisa.
+Eu optei pelo "que se dane,
+Faça do jeito que quiser." E eu o atingi com
+Tudo para o desenvolvimento. Então, bem,
+Pessoal, não vou explicar em muitos detalhes.
+Vou gravar um vídeo específico mais tarde.
+sobre essa trajetória, mas meu marco foi
+que aos 22 anos eu montei meu primeiro
+empresa. General Clans é uma empresa
+que tem uma classificação de 27
+milhões. A fatura deles hoje é
+da ordem de 9 milhões por ano. Ei,
+apenas esse software recorrente, isso
+Software de 2015, continua sendo até hoje.
+dos principais programas de software de
+mercado de seguros. Hoje Clãs Gerais
+É uma Insurtech, certo? Então,
+Entramos no mercado de seguros. É um
+Uma ferramenta incrível, é quase uma...
+padrão atual no mercado de seguros,
+Uma plataforma super robusta, hein?
+Cara, o código é feio, tem código
+Feio, e nós sabemos disso. E assim, temos o
+Com a dívida técnica bem mapeada, há coisas a serem feitas.
+que não tocamos, é um legado, é um
+um legado que funciona até hoje e proporciona mais
+de 300.000 recorrências por mês. Apenas
+Para você ter uma ideia, isso é 3,6.
+milhões por ano. Então, pessoal, isso
+isso é tudo. Ok, gravarei um vídeo mais tarde.
+especificamente para dizer essa parte
+sobre empreendedorismo, mas o que eu quero
+O que eu quero compartilhar com vocês aqui é que isto
+O canal pretende trazê-los
+Um pouco da minha experiência, da minha
+Experiência em formação de equipes. Já passamos
+Lá, temos mais de 49
+colaboradores da empresa. Nós já temos
+reuniram muitas equipes ágeis, equipes
+equipes não ágeis e desorganizadas,
+equipes organizadas. E eu tenho um.
+vasta experiência com equipes de
+tecnologia e com desenvolvedores.
+Na verdade, até dois anos atrás eu era
+na linha de frente, lutando a boa luta,
+Você entende? E eu adoro isso.
+. Sou absolutamente apaixonado por programação.
+Mas meu foco agora não é me tornar alguém.
+Em um gerente, certo? Eu quero me tornar
+Em um futuro melhor, quero ser um grande empreendedor.
+Sabe, amigo? E para ser um
+Multiempreendedor, porque ele já é um empreendedor.
+Sim, mas me vi por muitos anos.
+preso em um negócio que eu mesmo
+Eu criei. Então agora esse é o meu foco.
+. Minha abordagem é mostrar a você,
+Desenvolvedores, um pouco da minha experiência e tal.
+que fazem sentido ou não, o que me fez
+Contratar ou demitir alguém, o quê?
+O que funcionou e o que não funcionou. E assim por diante.
+Abordei muitos temas controversos e
+sei que quero ouvir muito do
+Sua opinião. Então, se
+Eles estão assistindo ao meu vídeo e não estão...
+Concordo comigo, comentem lá.
+Por favor, compartilhe meu vídeo também, me ajude!
+para expandir este canal, que o
+Esse é o foco agora. A ideia, o plano
+Agora é diferente. Agora o plano é
+Torne-se um influenciador digital.
+Obrigado a todos. Uau, 25 minutos!
+Contando a minha história para eles, né? Você é
+dormindo? De jeito nenhum, eles não são nada.
+que. Pessoal, estamos fechando. Um abraço para
+Olhem só, pessoal. Siga-me no Instagram,
+Me dá uma ajudinha lá no Instagram.
+também. E caso eles queiram
+para saber alguma coisa sobre todas essas coisas que eles
+Eu te expliquei brevemente, comente lá.
+Comente, envie uma mensagem privada e
+Conversamos um pouco. Oh.

@@ -1,0 +1,1104 @@
+Nesse vídeo aqui eu vou te ensinar a
+como construir, embalar e vender uma
+infraestrutura de inteligência
+artificial, uma infraestrutura de
+crescimento com IA. Não é um vídeo
+técnico, a gente não vai falar sobre
+N8N, make, creiem, nada dessas
+porcarias, não tem nada a ver com
+técnico. Para você que gosta de coisa
+técnica, pode ir embora. Agora você quer
+ganhar dinheiro com IA, esse vídeo é
+para você. Para você que não me conhece,
+muito prazer. Meu nome é Kelvin. Eu sou
+um programador empreendedor serial.
+Montei a General Cleans em 2015, uma das
+principais insurtecs do Brasil. Vendi
+50.1% dela pro grupo IS, uma empresa de
+capital aberto 2022 e o restante eu
+vendi agora em 2025. Logo na minha
+saída, no meu exit, já montei a acelera
+360, que hoje é uma edtec. Basicamente
+eu ajudo pessoas como você a empreender
+com inteligência artificial. Eu dou um
+modelo de negócio, toda a estrutura e
+auxilio até que você possa emitir as
+suas primeiras notas fiscais com IA no
+mercado em até 90 dias. Se você quiser
+saber mais da Acelera 360, você vai
+clicar no link aqui na descrição desse
+vídeo. Aviso, se você não é um cara
+técnico, não tem problema, esse vídeo é
+para você. Se você é técnico, não tem
+problema, esse vídeo também é para você.
+Porque eu acho que tanto você que não é
+técnico, quanto você que é técnico, quer
+ganhar dinheiro e quer surfar essa big
+dessa oportunidade que a gente tem
+quando a gente tá falando de
+inteligência. artificial vertical e
+principalmente sobre infraestruturas de
+crescimento com o IA. O mercado tá
+propício, os caras estão rasgando
+dinheiro, velho. Agora é a hora da
+gente, ó,
+pegar o máximo possível. Não rasga não,
+gasta comigo, porque eu dou ROI. Beleza?
+Então, vamos lá. Vamos começar. Vamos
+começar entendendo qual que é o ciclo de
+um negócio. Qualquer negócio sempre
+começa pela oferta. Então vamos ofertar
+aquele produto. No caso, por exemplo, da
+de uma corretora, ela precisa oferecer
+para o mundo que ela tem vende seguro,
+que ela faz vendas de seguro. Por
+exemplo, no caso de uma lanchonete, ela
+fala pro mundo que ela vende lanches,
+que ela faz comida e por aí vai. Então,
+todo negócio precisa ter uma oferta. E
+depois da oferta, as pessoas precisam
+ouvir aquela oferta. ou eu tenho lanche.
+Geralmente a gente faz isso com
+marketing. Marketing no caso, boca a
+boca. Opa, tô ten o melhor lanche do
+Brasil. Eu tenho a corretora que venda
+de vende seguro mais rápido do Brasil.
+Acelera é a melhor de do Brasil. E eu
+realmente ajudo as pessoas a empreender,
+a tirar suas ideias do papel. Eu tenho a
+melhor desenvolvimento de software do
+Brasil e por aí vai. Então, marketing. E
+o marketing pode ser boca a boca, pode
+ser pagando, usando tráfego pago, usando
+mídia paga. Então vou colocar mídia paga
+em geral, né, nesse caso,
+ou cara prospecção, que é você falando o
+mundo, panfletagem, que seja, são formas
+de das pessoas saberem que você existe.
+E a partir do momento que elas sabem que
+você existe, você vende, você executa a
+venda e depois que você vende, então
+aqui você coloca o dinheiro no bolso.
+Depois que uma empresa vende, ela tem
+que entregar o produto. Então, produtos
+que t o onboarding, então existem
+serviços principalmente que tem o
+onboard, que é o cliente, ele entra para
+dentro, então é uma venda longa, uma
+entrega longa, na verdade você vai
+entrar aqui na escola, vai acontecer
+isso, isso e isso, o meu processo de
+trabalho vai ser assim com você, tem
+toda a explicação, os boasvindas, seja
+bem-vindo à nossa escola, seja bem-vinda
+à nossa empresa, seja bem-vinda a esse
+produto, saca? Isso é um onboard.
+Às vezes a gente acha que onboard é só
+para empresa de serviço, né? Não, eu vou
+explicar para vocês. Eu comprei um carro
+esses tempos, aí eu fui pegar o carro,
+cara, teve todo um processo de entrega
+daquele carro, umbarding da empresa.
+Cara, a empresa é assim, assim, assada,
+você pode contar com a gente com isso,
+com isso, com isso, com isso, com isso.
+A gente vai entregar o seu carro assim,
+assim, assim, assado. Isso é um
+boarding. Aí depois teve o delivery, uma
+de uma entrega, fumaça, foguinho,
+eh, eh, eh, laço em cima e o
+delivery, entrega, entrega do produto ou
+do serviço. Então, olha que legal, a
+entrega, o onboarding, ele pode existir
+para qualquer negócio. Delivery, mesma
+coisa. Isso aqui escala valor para
+tá? E depois da entrega,
+feedback e otimização. Empresa pediu
+feedback para aquele cliente, para
+aquela que consumiu aquele produto ou
+aquele serviço e entender o que que ele
+acertou, o que que ele errou. Aqui a
+gente entra, por exemplo, com a pesquisa
+de NPS para saber, aí você gostou, não
+gostou, como que foi o nosso
+atendimento? dito aqui de um a cinco,
+nos avalie o que que foi bom, o que que
+foi ruim. Por quê? Porque a partir desse
+feedback você consegue otimizar a sua
+oferta. Foi bom por quê? Foi ruim por
+quê? Melhora a oferta, melhora
+marketing, melhora as vendas. E aí
+qualquer empresa desse jeito, qualquer
+empresa desse jeito. E aí para cada área
+de uma empresa, você pode criar um
+sistema, uma plataforma, uma solução. E
+aqui você pode perguntar aqui, ó, por
+que que umas estão verdes e outras estão
+vermelhas? Porque as que estão verdes é
+quando você são áreas, segmentos, né,
+que você cria uma solução e aquela
+solução pode te dar muito dinheiro e
+quando tá em vermelho é bucha, não
+compensa. Então vou dar um exemplo para
+vocês. Comentei no começo do vídeo sobre
+a General Clans. General Cleans, uma das
+principais insurtec do Brasil. Deixa eu
+abrir aqui. Gcle combr. Então o que que
+a GCINS faz? Cleans, general cleans, ela
+leva a tecnologia pro mercado de
+seguros, um ecossistema digital de
+seguros que atende a parte de sinistro.
+E o que, que que é o sinistro? O
+sinistro é quando dá o BO, você vende
+comprou um seguro, seu seguro de sua
+casa, aí você foi lá e bateu, ou melhor,
+sua casa pegou fogo, você acionou a
+seguradora. Isso é um sinistro. Olha
+onde eu posicionei o meu sistema para
+regulação de sinistro. Regulação de
+sinistro. Você acha que a seguradora tá
+preocupada em regular o sinistro? Tá
+nada. Seguradora tá preocupada em
+vender. Toda empresa ela injeta mais
+dinheiro sempre aonde? Oferta, marketing
+e vendas, entendeu? E feedback também,
+porque feedback gera mais venda. E aonde
+que ela injeta menos dinheiro? No
+delivery, na entrega do produto. Aonde
+que eu posicionei a General Cleans? No
+delivery. Na entrega. é o momento que
+você asiona o seguro, ali é o momento da
+dor de cabeça. Então, as empresas elas
+não têm costume de olhar pro delivery,
+então elas colocam menos dinheiro aqui.
+Então, se você quer criar uma solução, o
+que eu indico, crie sempre soluções
+focadas
+em oferta, marketing vendas. Por isso
+que eu ensino vocês a criar uma
+infraestrutura de crescimento com IA. E
+agora eu vou explicar para vocês o que é
+uma infra de crescimento com IA. Vamos
+lá. Uma infraestrutura de crescimento
+com IA é uma infraestrutura,
+são sistemas, por isso que o nome é
+infraestrutura, porque não é uma coisa
+só. Então é inteligência artificial
+mais ferramenta
+mais processo.
+Todos eles alinhados em trazer
+resultados.
+resultado resultado
+ou resultados
+extraordinários
+para os clientes que consomem
+esse produto.
+Simples assim. Isso aqui é uma
+por que que ela é de crescimento? porque
+ela é voltada pro gr, pro crescimento do
+negócio. Então, quando eu tô falando de
+infrestrutura de crescimento, eu tô
+falando numa infra que usa IA, mais
+ferramenta, mais processo para fazer as
+empresas venderem mais, entendeu? É uma
+solução que ela atende este quadrante
+aqui. Kelvin, poderia atender o
+delivery, poderia atender o onboard,
+poderia, vale a pena? Não, para este
+momento que nós estamos vivendo com
+inteligência artificial e para que você
+tenha sucesso empreendendo com
+infraestruturas de crescimento em faz
+sentido vocês focarem energia em
+ferramentas que gera dinheiro pro seu
+cliente. Porque qual que é o jeito mais
+rápido de você ganhar dinheiro? fazendo
+o seu cliente ganhar dinheiro. E aqui
+então, como eu já adiantei logo no
+início, eu vou focar no nicho de
+corretoras de seguros que vendem, por
+exemplo, seguro automóvel de de carro,
+seguro de carro. Então, esse aqui é meu
+nicho escolhido. Então, como seria uma
+infraestrutura de crescimento com IA? A
+gente vai chegar lá no final do vídeo,
+mas já no começo você tem, já entende
+que é uma infraestrutura, é uma
+ferramenta, é um conjunto de
+ferramentas,
+inteligências artificiais,
+processos que são especificamente
+travados para geração de oferta,
+marketing e vendas para corretoras de
+seguro.
+Resumindo,
+com a minha solução, as corretoras
+vendem mais, elas ganham mais dinheiro,
+entendeu? Então, olha, olha que loucura
+aqui já logo no começo você já entende o
+valor de uma ferramenta dessa. Então,
+corretora,
+corretora um
+não tem a infraestrutura de A, corretora
+dois tem a infraestrutura de A.
+Corretora um faz
+100.000 por mês. 15 milhão por ano,
+1.200 por ano. KK ano. Corretora dois
+com o mesmo cenário tradicional fazendo
+100.000 por mês. Mas aí ela implementa a
+infraestrutura de crescimento. Que que
+ela que que acontece? Resultados
+extraordinários. Então a gente tem que
+dobrar o resultado dela aqui, por
+exemplo. Ela vai começar a fazer 200.000
+por mês, ela vai pular para 2.hões400
+por ano com quase o mesmo time,
+praticamente com o mesmo time, porém com
+uma infraestrutura que permita um
+negócio tradicional escalar. Entenderam?
+Balizei vocês? Creio que sim. Então,
+vamos começar.
+Tá gravando? tá gravando. Então, a
+partir do agora que vocês entenderam um
+pouco sobre esse conceito que ele é
+muito importante, já que a gente tá
+falando de business, por que que eu
+comecei por aqui? Você quer empreender.
+Não faz sentido você jogar energia aqui.
+Demora muito tempo, Isso aqui,
+isso aqui, cara, focar aqui, ó, focar
+nessa área, sabe? É você remar o seu
+barquinho contra a maré. Não, vamos,
+vamos a favor da maré e a e vendas,
+entendeu? Legal, Kelvin, eu entendi.
+Você falou para mim que vai falar do
+nicho de mercado seguros, beleza?
+Corretoras, mas eu quero já entender
+como que eu escolho meu nicho. Calma,
+gafanhoto. Aí a gente vai passar por
+tudo isso. Eu vou trazer o nicho de
+exemplo, mas porque eu já escolhi, né,
+para acelerar esse vídeo, mas eu vou
+explicar para você. Etapa um, como você
+escolhe o nicho. Etapa dois, você vai
+entender os gaps do setor que você
+escolheu. Para você chegar na etapa
+três, você vai construir uma tese, vai
+envelopar e vender. Então, esse vídeo é
+um guia completo. Nós vamos passar por
+tudo para que você realmente consiga
+fazer isso. Então, vamos lá. Como que a
+gente escolhe um nicho?
+Tem bilhões de nichos, mas eu vou
+explicar um critério muito simples aqui.
+São cinco filtros de nicho ideal. Olha o
+que eu coloquei aqui logo no começo. Se
+não passar por algum desses critérios,
+não perca seu tempo, nem gaste energia
+tentando e atender um nicho que não
+passa por algum desses critérios aqui,
+porque você vai gastar muita energia e
+vai não vai ganhar dinheiro no final das
+contas. Então o nicho ele precisa ter
+uma dor urgente e visível. Então, é um
+problema que tá doendo agora, é um
+problema que o dono já sente no bolso ou
+no tempo dele. É muito importante você
+entender isso. O seu nicho tem que ter
+uma dor urgente, tem que ser um mercado
+que tá ativo, um mercado que tá
+crescendo, entendeu?
+Já tentaram e aí o o cliente já tentou
+resolver isso? Tem ferramenta, ele já
+tentou contratar ferramenta, agência ou
+funcionário para isso? Então assim, é um
+mercado que já tá tentando gastar
+dinheiro para resolver esse problema,
+porque se sim, é ótimo. É sinal que o
+mercado tá sofrendo realmente com aquela
+dor. Ele vai investir dinheiro.
+O seu cliente daquele nicho tem poder de
+compra real para pagar pela solução?
+orçamento. Olha só, curioso. Eu vou dar
+um exemplo para vocês. Ontem eu tava
+conversando com o aluno da Acelera e ele
+é um tatuador e aí ele falou assim para
+mim, falou: "Cara, eu quero sair do do
+do mercado de tatuagem". Aí eu falei:
+"Pô, você tem prêmio na nesse mundo,
+cara, por que que você não investe nesse
+mercado?" Aí ele me falou assim, falou:
+"Kelvve, o pessoal que é tatuador, ele
+tatua por hobby porque gosta e ele tem
+um uma vida muito freestyle, muito
+solta. Então assim, o cara que ganha
+para viver, ele ganha de dia para comer
+de noite ou para tomar uma cerveja ou
+para ir no final de semana, ele não
+investe. Então, montar uma
+infraestrutura para eh
+lojas de tatuagem, eu não sei se é loja
+que fala, não vale a pena, porque o dono
+da loja tá pouco se para isso,
+entendeu? Então assim, se o seu nicho
+não tem poder de compra real, se é um
+cara que não tá ali pronto para colocar
+R$ 20, 30, R$ 40.000
+numa ferramenta que vai resolver o
+problema dele e pagar mais R$ 2, R$
+3.000 por mês, não gasta energia com
+isso, entendeu?
+Eh, timing e prestas de oferta, tem
+espaço para entrar agora com algo muito
+diferente, você pode ser disruptivo aqui
+é o melhor cenário. Por quê? Por conta
+da IA. Mercado inteiro, você tá no tá no
+time da inteligência artificial. Alguns
+mercados você vai sofrer muito, por
+exemplo, colocar IA numa seguradora, não
+na corretora. Mercados seguros, mas
+apontando pra seguradora. Cara,
+seguradora é muito complexo, banco muito
+complexa, os caras são quadrados, são
+chatos, tem um time de T gigantesco lá
+dentro que não aceita você, experiência
+própria. Minha empresa era totalmente
+disruptiva, a a General Clans, o quanto
+eu sofri para entrar em seguradoras, foi
+um sofrimento, anos trabalhando para
+entrar, entendeu?
+Então assim, cara, esses mercado
+quadradão tradicional, deixa esses caras
+se foca em quem quer crescer de
+verdade. Empresa que tem muito grande,
+empresa muito grande, cara, os cara
+deixa eles quebrar a cabeça lá,
+entendeu? Eles gostam de gastar dinheiro
+com SAP, com totos.
+Não foca, não foca no grandão, foca no
+pequeno para médio. Dá para você ganhar
+muito dinheiro, crescer muito fazendo
+isso, tá? E validação rápida. Você tem
+que validar mercado rápido, testar o
+nicho em 7 dias, soltar a oferta, subiu
+o anúncio, clicou, viu realmente que
+aquela é uma dor realmente necessária.
+Então, por exemplo, montei aqui a tese
+rápida do mercado seguro, certo?
+Corretoras, monta a campanha, subo a
+campanha, corretora clicou,
+validou, opa, houve interesse.
+Realmente, realmente, corretoras quer
+investir em inteligência artificial. Tô
+com uma oferta super forte, a minha
+promessa é maravilhosa, entendeu? É
+assim que funciona, é assim que você
+valida. Não sai desenvolvendo, criando,
+criando um monstro antes. Não, não faça
+isso. Isso aí é para louco. Isso aí é
+para deve. Desenvolvedor que gosta de
+fazer isso. Desenvolvedor gosta de
+desenvolver tudo para ter tudo pronto
+para depois lançar. Aí quando lança
+ninguém quer, entenderam? Esse é o maior
+erro que você pode cometer como
+empresário, entendeu?
+Então vamos pegar aqui, ó. Nicho
+corretoras de seguros de automóvel.
+automóvel, ó, subnichado, corretoras de
+seguro para automóvel. Para você que não
+conhece o mercado de seguros, tem
+corretora de seguro para automóvel, para
+casa, para eh para máquinas e
+equipamentos, para trator, para
+caminhão, para para tudo, para tudo,
+para vida, para cargos de trabalho,
+cara, tem seguro para tudo no Brasil,
+para bike, tem seguro até para garrafa
+d'água. Então assim, cada ramo desse
+aqui você é um nicho. Então eu posso,
+por exemplo, ser o cara especializado em
+seguro de automóvel, enquanto tem um
+outro cara que ele é especializado em
+outros ramos, ramos elementares e por aí
+vai. Isso é, isso é legal falar porque é
+o seguinte, a General Clans, olha, olha
+que interessante, tá aqui no site, ó, ã,
+ecossistema digital de seguros. Pá,
+customização de solução. Tá, tá, tá.
+Deixa eu ver onde que tá aqui.
+Documentos, informações, aplicativo,
+fluxo de trabalho na nuvem. Ah, tiraram,
+mas ela era para ramos elementares.
+Então assim, eu atuava para não atuava
+para automóvel. Por quê? Porque
+automóvel é muito concorrido. Atuava
+para outros ramos que não tinha ninguém
+olhando, entendeu? Então é muito
+importante você nichar, vai facilitar
+muito o teu processo. Mesma coisa aqui,
+ó. Vamos fazer corretora de seguros para
+automóvel, tipos negócios locais,
+podendo de escalar online. Mercado
+Brasil, a nível Brasil, subnicho,
+corretoras focadas em veículos de alto
+valor, ó, subnichendo aqui, ó, ou frotas
+empresariais. Cara, tesão isso aqui,
+hein? Isso aqui é tesão. E aqui alto
+valor, eu tô falando de
+não é muito alto valor, não, tá? Carros
+acima de 100.000 hoje em dia é padrão.
+Hoje em dia aí um HB20 tá sem pau. Qual
+que é o tamanho desse mercado? Primeira
+coisa, tem gente para vender? Tem,
+Olha aqui, ó. Primeira coisa,
+pesquisinha. Vamos ver o tamanho do
+mercado. De acordo com a SUSEP, órgão
+regulador, você tem mais de 62.000
+empresas corretoras de seguro
+registrado, fora mais 80.000 corretores
+no particular. Vamos vender particular?
+Não, vamos vender para quem tem empresa,
+para as corretoras em si. Então, esquece
+esse número de baixo. Vamos olhar o
+número de cima. 62.000. Kelvin, poderia
+vender para de baixo? Poderia. Não vale
+a pena muito não. Eles não vão pagar o
+ticket que a gente quer. É um mercado
+que cresce. eu não vou não vou
+entrar num mercado que tá em recessão,
+né? Faz sentido? A mesma coisa que eu
+entrar no mercado, por exemplo, de
+paleta mexicana. Faz sentido?
+claro que não. Quebrado. Então, vamos
+lá. Crescimento setor anual do setor.
+Deixa eu entender. Google. Setor de
+seguros cresce mais de 12% 2024. Setor
+de seguros cresce mais de 10% 2025.
+setor que tá crescendo, setor que tem
+perspectiva, só no primeiro trimestre já
+cresceu 6%. Putz, lindo. Baita indicador
+importante. Setor que cresce, setor que
+tá sendo movimentado. Qual que é o
+ticket médio desse mercado? Quanto que
+custa um seguro? Cara, meu seguro aqui
+tá bem baixinho, hein? Porque, por
+exemplo, seguro de alto padrão é mais de
+8000. Aqui já começa, vai, coloca de
+8500, vou até subir aqui, de 8500 a 15
+pau, por exemplo, seguro. Carro de alto
+padrão de frota. Então, hum, tesão,
+lindo, hein? Mas não vou entrar nesses,
+não vou entrar nas especificidades para
+deixar mais simples para você. Por que
+que eu quero entender o ticket médio?
+Porque, lembra que eu falei para vocês
+que a gente vai focar em vendas, máquina
+de vendas?
+Cara, quando a gente tá focando em
+máquina de vendas, a gente tem que
+entender quanto que o cliente ganha. Por
+quê? Porque a nossa precificação de
+plataforma, e aí que entra um dos
+principais segredos, quando a gente tá
+falando de infraestrutura de crescimento
+com IA, a precificação, ela não é por
+hora trabalhada, por usuário, por fluxo,
+não. Você precifica sobre o valor
+agregado, o valor que você gera. Pô, se
+você gera mais 15% em vendas pro cara,
+mais 10% em vendas, mais x% a mais, você
+tem que precificar isso de um jeito
+diferente. Você pode precificar isso num
+valor tabelado seu. Você define o valor,
+por exemplo, ah, cobrar 40.000 mais de
+implantação, de instalação, mais 3%
+sobre o ganho operacional, 2%, já é um
+dinheiro, entendeu? Já mensalidades
+aqui já vai para 10.000, 12.000. Esse é
+o segredo. E o cliente paga feliz. Por
+que que o cliente paga feliz? Porque
+você está gerando retorno para ele.
+Corretor, ele tem um probleminha.
+Corretor, ele geralmente não quer vender
+um, ele não quer geralmente que cobrem
+sobre o percentual da comissão que ele
+ganha ou sobre o quanto você gera para
+ele. Mas aí você pode cobrar um fixo de
+R$ 4.000 por mês. Se a sua ferramenta
+der retorno, ele vai pagar feliz a vida.
+E para você, eu tenho certeza que já vai
+ser um de um golaço fazer isso.
+Deixa eu travar aqui.
+Por isso focando na venda, tá? Por isso
+focando na venda.
+Ã, vamos pegar aqui então comissão.
+Pegar comissão média, 20% de comissão.
+Se a gente tiver falando de um produto
+de 8 a 15.000, vamos pegar de média um
+um seguro de um carro médio ali que tá
+custando 9.000 1000 de comissão ponto do
+cara vai ganhar aqui 10000
+nessa comissão desse desse seguro aqui,
+tá? 1800. Então o corretor por venda ele
+puxa mais R$800. Olha que legal. Olha
+que legal aqui. Entenderam? Então o
+fator médio de uma faturamento médio de
+uma corretorazinha dessa daqui, isso
+aqui é uma corretora pequena, 300 a
+1.500 por ano da carteira, segura por
+carteira. Então, o cara que compra
+segura, é só se perguntar, você já
+trocou de corretora? A minha corretora
+eu tenho há uns 8 anos. Eu não troco,
+nem ligo para ela, nem sei quem é. Sei
+quando ela me manda mensagem, ó, tem que
+renovar, quando ela lembra.
+É um problema. O corretor esquece da
+gente. Corretora esquece. Isso é um
+problema, porque você vê como que para
+mim é indiferente a minha corretora.
+Tá aqui o por que a nossa infraestrutura
+de crescimento vai resolver o problema
+das corretoras, porque a gente vai
+tratar isso também.
+Então assim, entendi o mercado, cara,
+mercado maravilhoso, Kelvo, como que eu
+acho um nicho? Porque, por exemplo,
+você, K, conhece o nicho das corretoras.
+Eu não conheço. Tô conhecendo agora
+porque você tá me falando. Vou te
+explicar. Você vai aprender a fazer uma
+análise de gap do setor. Eu vou entrar
+aqui no passo dois, porque eu entendi,
+eu já conheço o mercado, escolhi ele e
+agora eu vou entender qual que é o gap
+das corretoras. Mas você pode subir essa
+essa etapa pro um. Então, por exemplo,
+vou pegar um nicho aleatório aqui.
+Clínicas, essas de implante capilar.
+Implante capilar.
+Você, será que a sua pergunta aqui é,
+será que implante capilar é bom? É bom,
+é um nicho bom? Você vai fazer essa
+análise que eu fiz e você já puxa na
+sequência para analisar o gap. Será que
+tem gap aqui para eu resolver? Porque eu
+vi que o mercado é grande, mas será que
+tem gap para eu resolver no setor? E aí
+você vai fazer a análise. E como que
+você analisa esse gap? Simples, Google,
+problemas das empresas de implante de
+cabelo no Brasil, no meu caso, problemas
+de corretoras de seguro. Ager é um
+multicálculo, né? Corretor.
+Multicálculo, para você que não conhece,
+é, tem um monte de seguradora.
+Seguradora, ela é como se fosse um
+fabricante. Ela faz o seguro e a
+corretora é quem vende, entendeu? Então,
+a seguradora, por exemplo, é como se
+fosse a Dell, fabricante de notebook, só
+que ela fabrica seguro. E a corretora
+como se fosse o Walmart, vende os
+notebook da Dell, entendeu?
+Aí aqui, ó, problemas com corretor de
+seguro. Você vai pegar a Ager, que vai
+fazer cálculo de seguro, Texculo,
+cinco erros que corretoras de seguro que
+impedem. vai estudar isso aqui, Fenacor,
+estuda, entra no Susp, Scor, vai, vai
+lendo, estudando, pesquisando, porque a
+partir daqui você vai começar a entender
+quais são as dores comuns. Outra dica,
+pesquisa de mercado com expert. Pega os
+principais corretores de seguro que
+gravam vídeo para YouTube para Deixa eu
+ver se tá gravando ainda. Tá gravando.
+Pega vídeo para YouTube, lê as
+descrições, vai estudando, pesquisa de
+mercado. Tem uma metodologia para fazer
+isso aqui também.
+eh entrevistas com corretores e eh
+corretoras e pesquisa, faz pesquisa de
+mercado, estuda isso daqui. E aí o que
+que você vai perceber?
+A dor. E aí você vai construir uma tese.
+O que que é uma tese? Vou explicar para
+vocês
+aqui. Logicamente eu trouxe a a minha
+experiência, né? Mercado hoje de seguro
+é um modelo rouba monte. Então o que que
+é rouba monte? Eu tenho a minha, tenho
+10, 10, eu sou uma corretora e eu tenho
+10 clientes.
+A outra corretora vem e rouba os meus
+clientes. Em vez de pegar novos
+clientes, eles vem e atacar os meus.
+Então ele vai roubando um monte. É assim
+que funciona esse mercado. Prospecção
+lenta, cara. Corretor é uma porcaria.
+Eles só é tudo por indicação. Eles vão
+atrás de loja de venda de carro para ir
+pegar cliente. Eles não sabem fazer
+prospecção ativa, entendeu? Vocês não
+sabem usar internet para isso. São
+quadrado, velho.
+Se você é corretor, tá me assistindo,
+você sabe disso. Base histórica de vedas
+mal aproveitada. Eu não conheço uma
+corretora que aproveita uma base
+histórica. Que que é base histórica? O
+cara vendeu na história da corretora. O
+cara se orgulha. Tenho 20 anos de
+corretora de seguro. Tem uma, já vendeu
+o seguro para mais de 10.000 pessoas.
+Aí a base ativa dele
+é 50.
+Ele não consegue reaproveitar isso aqui.
+Ele não consegue trabalhar essa base.
+Problemaço. Olha quanto de dinheiro.
+Imagina assim, ó. Chegou, chegou o
+cliente para você aí, ó. Bateu na sua
+porta,
+tá? Tá simular, ó. Oi, eu sou uma
+corretora. Legal. Seja bem-vindo. Eu vi
+que você vende infraestrutura de quero
+entender mais. Legal. Aí a primeira
+pergunta que eu faço é: quanto que você
+fatura? Fatura 300.000 por mês. Quantos
+clientes você tem na sua base ativa? 50.
+Você já vendeu para quantos? 3.000.
+Se eu preciso dar resultado rápido para
+esse cara, onde que eu vou mexer? Olha
+para mim,
+entendeu? Eu não tô falando de solução
+aqui. Eu não tô falando de de de
+programação, de técnico, eu tô falando
+de solução. Se o cara tá te contratando
+para você resolver o problema para ele,
+você vai vender para ele um CRM, uma
+automação de A, um chatbot,
+ou você vai vender o seguinte: eu vou
+retrabalhar. Eu tenho uma ferramenta que
+vai retrabalhar a sua base e vai fazer a
+sua base aumentar de 50 para 100.
+Entendeu? Isso é uma infraestrutura de
+crescimento com IA. É você usar
+inteligência artificial
+para reaproveitar,
+por exemplo,
+retrabalhar uma base de 10.000 pessoas.
+Entenderam? Por quê? Imagina o seguinte,
+deixa eu abrir aqui para vocês, ó.
+Presta bem atenção nisso aqui antes da
+gente construir tese.
+Se é uma corretora que tem dois
+vendedores,
+você concorda que eles não têm
+capacidade humana para trabalhar numa
+base de 10.000 pessoas? Ou que seja uma
+corretora maior? Tem lá 15 corretores.
+15 corretores. Ó, vou fazer uma conta
+aqui, ó. 10.000.
+10.000 1000 dividido eh por 15
+corretores são 66
+leads
+por corretor e eu vou dividir uma média
+de ele consegue entrar em contato com 15
+leads por dia. São 10 são 66 dias, ou
+melhor, 10 leads por dia. São 66 dias
+cada corretor atuando. Então, colocar
+aqui 22 dias úteis no mês, 3 meses para
+15 corretores trabalhar uma base de
+10.000 pessoas. Eu com IA mais processo
+mais ferramenta, faço isso aqui
+em 10 dias bem trabalhados,
+sem afogar, sem afogar sistema, sem
+fazer nada, de boa, assim, assim,
+fluindo.
+Kelvin, eu consigo fazer em um. Parabéns
+para você. Eu não faço um, eu faço 10,
+10 dias, entendeu?
+Desses 10.000, se essa minha máquina em
+10 dias recuperar 1%
+01, perdão, 01.
+Eu recuperei 100 novas vendas. 100 novas
+vendas.
+Sem novas vendas, a um ticket de 100.
+Opa. Vezes 100
+mais 180.000
+no bolso do meu cliente corretor.
+Que que eu tô fazendo aqui? Meu cliente
+ganhar dinheiro. Conseguiram entender?
+Isso aqui só é com uma estratégia, com
+uma ferramenta de uma infraestrutura de
+a. E vocês lembram que eu falei aqui de
+uma infraestrutura de crescimento? Cadê?
+Não é só isso. Uma infraestrutura de
+crescimento é inteligência, mas
+processo, mas um monte de outras coisas
+para trazer esse resultado. Kelvin, isso
+dá muito trabalho. Realmente no outro
+vídeo que eu fiz, eu mostrei sobre o
+varejo. Mesma coisa, mesmo processo que
+eu tô fazendo aqui agora. muito
+parecido, na verdade. E aí o Víor, por
+exemplo, comentou o seguinte: "Na moral,
+se tivesse dando dinheiro mesmo, o
+Kelvin estaria vendendo eh isso e não
+curso.
+É que, Vittor, só para te responder, tá?
+Acelera não é o curso, Acelera é uma
+empresa também, é uma editec, é uma
+outra empresa. Eu tenho soluções de
+plataformas de IA também. E um dos meus
+processos dentro da minha editeceração
+para empreendedores. Então, Víor,
+inclusive, se você quiser tirar sua
+ideia do papel, se você quiser aprender,
+deixar de ser programador e quiser
+empreender, acelera para você. Você vai
+vídeo. Então, eu faço isso, tá?
+Inclusive, eu faço tanto isso, ó, que eu
+trouxe até alguns prints aqui da minha
+ferramenta da Grow AI. Então, que é
+ferramenta, fluxo, ó aqui, fluxo de N8N,
+gente. Ó, o fluxo de N8N também tenho.
+Eu tenho agente N8N, eu tenho agente
+usando Google ADK, eu tenho a gente
+usando Langchain, tem todo um conjunto
+de ferramentas focadas em trazer
+resultado para meus clientes. E eu vou
+apresentar isso no dia 4/10. No dia 4/10
+eu vou fazer um workshop que vai
+acontecer online. Vai ser um workshop
+online. Então você pode participar,
+gente. Custa R$ 67.
+possível você não ter dinheiro para
+participar do meu workshop, né? Então eu
+vou fazer um workshop online, onde eu
+vou mostrar para você como que você pode
+escalar com inteligência artificial os
+seus serviços e gerar aí resultados
+acima de R$ 100.000 por mês, tá? Então o
+que que a gente vai passar lá nesse
+workshop? O que que você vai aprender?
+como identificar gaps de alto valor no
+mercado, igual eu tô mostrando aqui
+nesse vídeo para vocês, só que com par e
+passo, ferramentas para te suportar e te
+ajudar, para você analisar qualquer
+nicho, como você constrói sistemas que
+vendem sozinho. Então, como você
+transforma esses gaps em sistemas que
+saem, que fazem a venda, que a venda
+acontece de forma autônoma praticamente,
+e como se tornar insubstituível no teu
+mercado. Então isso aqui é para quem é
+técnico, é. É para quem é não técnico?
+É, também. É para quem quer empreender.
+É você que tem agência, gestor de
+tráfego, desenvolvedor, consultor, quer
+entrar no mundo da inteligência
+artificial, vem comigo para esse
+workshop aqui da Grow AI, porque eu vou
+mostrar como você pode fazer e
+principalmente eu vou apresentar a
+minha, você vai ver a minha máquina de
+growth rodando e você pode simplesmente
+replicar isso. Então assim, Víor, dá
+para ganhar muita grana com isso. Só que
+aí ele comentou o seguinte ainda, ó.
+Essa estrutura é linda. Claro que é. E
+realmente é o futuro do mercado. Lógico,
+todo mundo sabe disso. Quem não sabe
+ainda tá sabendo agora. Mas deixar isso
+rodando ainda mais em uma média, em uma
+média empresa vai muito, mas muito
+trabalho. No mínimo um ano para aplicar.
+Não vai. Eu mostro para você. Eu te
+provo que em 30 dias você consegue fazer
+isso, você consegue botar para rodar e
+você consegue ganhar dinheiro com esse
+negócio. Tanto que na Acelera nós
+fazemos isso. Então assim, Víor, você tá
+completamente equivocado. Inclusive,
+olha o cálculo que ele fez aqui. Falou:
+"1000 ligações de 15 minutos na sai no
+mínimo $.500.
+Ó, primeiro que a gente não fica 15
+minutos no telefone. Vamos entrar aqui
+na 11 Labs. Vamos entrar aqui em price
+11 Labs. Para você que não conhece, é
+uma forma de você colocar uma IA para
+fazer ligação pro telefone, tá? Então
+vamos pegar aqui, ó, o preço do minuto.
+Cadê? P p pá. Vamos pegar minutos
+adicionais.
+Vmore.
+Aqui, ó, 20 minutos. Aqui, ó, minutos
+adicionais, ó, no creator, 015 cent.
+Então, 1000 minutos de ligação.
+Vamos pegar essa base aqui, ó. Vamos
+aplicar, ó.
+10.000. Vou fazer 10.000 ligações.
+10.000 ligações. Eu vou considerar que
+todo mundo me atendeu e que a IA ficou
+conversando com cada um 2 minutos. 2
+minutos, cara. Uma I, conversar 2
+minutos com a pessoa é muita coisa.
+Porque qual que é o segredo? Liga, ó, tô
+te mandando uma mensagem no WhatsApp
+agora. Olha aí no seu WhatsApp que eu
+vou te mandar a cotação. OK. OK. Beleza.
+Acabou. Desligou. 2 minutos. 20.000
+minutos a 15 centavos a ligação. 15 cent
+3.000 a R$ 6 colocando imposto e tudo
+mais. R$ 18.000 de custo. Não é nada.
+Isso aqui não é nada. Vou te mostrar
+como isso aqui não é nada.
+Considerando que 10.000 pessoas
+atenderam e ficou 2 minutos ligando, deu
+R$ 18.000, né?
+Então vamos considerar
+que se 10.000 pessoas atenderam o
+telefone, a gente teve uma conversão
+superior a 1%. Uma média é de 5% de
+recuperação. Vamos considerar que a
+gente teve 5% de recuperação. Aqui a
+gente converteu 500.
+E aí aqui a gente vai trazer esse custo
+de 500
+a um ticket de R800.
+R$ 900.000.
+Aí vamos colocar aqui, ó, que teve
+18.000 de ligação. Daí teve também,
+vamos colocar de infraestrutura de
+servidor, mais 20.000 de infraestrutura
+de servidor aqui. Custo, né? Custo tem
+que ter custo. Se a gente quer ganhar
+dinheiro, tem que ter custo. Vamos
+colocar aqui mais
+10.000 de mensagens no WhatsApp,
+disparas de mensagem no WhatsApp. Vamos
+colocar aqui mais, sei o custo da
+infraestrutura, mas R$ 8.000 R$ 1000 por
+mês que o cara pagou para fazer isso.
+Vamos somar tudo.
+Vamos somar aqui também, ó. Mais 50.000.
+Custou 50.000 para implantar esse
+sistema,
+tá? Vamos somar tudo, ó. 50.000
++ 8.000
++ 10.000
++ 20.000
++ 18.000
+R$ 106.000.
+O cara investiu 106.
+Aí aqui tem que considerar outros
+cursos, por exemplo, pode ter custo de
+vamos pegar aqui de
+cotador, mas vocês perceberam que tá bem
+elevado esses números, né? Investiu 106
+para voltar 900.
+O cálculo é básico. O grande X da
+questão é que você quando tá fazendo uma
+infraestrutura de a, você tem que
+considerar isso aqui no teu cálculo.
+Você tem que ter noção do teu custo,
+porque o grande segredo é você dar ROI.
+Que que é ROY? Retorno sobre
+investimento. A questão não é o cara
+gastar, não é você falar pro empresário
+gastar 100.000. A questão é você falar
+100.000, mas vai volotar 900. Ô fulano,
+seguinte, você colocar R$ 100.000 R$
+1.000 aqui e volta 900 do outro lado.
+que pariu. Um para é isso. Um para
+se eu colocar 10.000 volta 90.
+Entendeu? A conta é simples. A conta é
+muito simples.
+Então Vittor vale a pena. Agora se você
+quiser ficar no mundo de Nárnia ganhando
+R$ 1.000, R$ 2.000, R$ 3.000 ou não é
+mesmo? Tem um programador ganhando um
+salário aí de R$ 15, R$ 20.000, tá tudo
+bem também. Isso aí é uma opção sua por
+escolha, tá? Ou você faz igual os alunos
+da Acelera, bota fé nisso que eu tô
+falando e faz igual o Lucas Castro aqui,
+entendeu? Que ele tomou a decisão,
+entrou na acelera e talvez foi a melhor
+decisão dos últimos anos. Ele pode ser
+que 30% dela é técnica, 70% é construir
+prática e ele tá empreendendo, gerando
+negócio. Ou você faz aqui, por exemplo,
+igual o Alan que nos quanto tempo aqui
+que o Alan ficou, ó. Eh, sou Dev já há 7
+anos. Acho que ele entrou, entrou na
+escola em pouco tempo usando as técnicas
+do Kelvin. Cinco clientes, duas
+parcerias, faturou os primeiros R$
+60.000. Pô, o Alan tá ganhando grana.
+Quem quiser conhecer mais ele, ó, Zel
+Hub, só entrar aqui. Ou o Vittor da
+Opus, da Opus Hub. Mesma coisa também. O
+Vittor e o Lucas estão ganhando grana
+lá. Quem que Quem que mandou mensagem
+aqui? Fez 16.500 em vendas. Outro outro
+aqui, ó. Eh, tipo, meu primeiro, na
+verdade, 12.000. Nunca tinha feito, não
+tinha ganhado isso em um job.
+Ó, tem tem garota do job que tá ganhando
+mais isso aqui. Entenderam?
+Vocês têm sempre esses dois caminhos, o
+caminho de ficar criticando ou o caminho
+de fazer acontecer. Vamos voltar pro
+vídeo aqui, gente. Vamos voltar aqui.
+Legal. Então, no na minha necessidade
+aqui, ó, vamos lá. dores que eu eh
+detectei no mercado. Mercado com modelo
+de rouba monte, prospecção lenta, base
+de cliente histórica mal aproveitado,
+sem cotações automáticas em lote.
+Problemas sérios na renovação, perdendo
+carteira. Problema de seguro geralmente
+é na renovação, cara. Esse cara perde
+muita, muita, muita carteira. E qual que
+é a proposta? O que que é a growth AI do
+mercado de seguros? Simples. Deixa eu
+segurar aqui para ficar mais fácil.
+Então vamos lá. Paraa prospecção lenta,
+qual que é a solução? Método antigo,
+ligação free, indicação rede social
+orgânica, sem processo definido,
+consequência, pipeline fraco. Então,
+qual que é a nossa solução? E adiven
+laps, fazer follow-up automático, leads,
+reativação de leads inativo, chatbot com
+IA, treinamento para realizar triagem
+interessados em encaminhar para cotação
+automática. Então, olha aqui. Aqui
+começou a se consolidar o conceito de
+infraestrutura de crescimento, CRM no
+centro,
+um processo, um funil de vendas.
+Então, funil de vendas aqui do digital,
+trazendo conceitos do digital.
+Vamos colocar aqui campanhas de tráfego
+pago. Campanhas
+de tráfego pago. Só que aqui tem que ter
+página, né? Então, vamos colocar aqui,
+ó, LP. LP de vendas. Que corretora que
+você que vem que tem LP de vendas? Não
+tem. Tem sites institucional tudo feio.
+Aí aqui a gente coloca o quê? Funil no
+CRM conectado aqui. Aí coloca aqui, ó,
+IA de atendimento.
+Tanto chatbot. Chatbot também para
+venda. Le entrou já chamar na hora.
+Chatbot de venda.
+Cotação via WhatsApp.
+Pronto. Ó, isso aqui é o quê?
+Infraestrutura de crescimento
+isso aqui o cara paga. O cara não tá
+comprando chatbot, o cara não tá
+comprando CRM, o cara não tá comprando
+em de atendimento, o cara não tá
+comprando agência de marketing com
+tráfego pago, o cara não tá comprando eh
+gestor de tráfego, ele está comprando
+uma infraestrutura de crescimento com IA
+que vai trazer retorno. Ele vai comprar
+o crescimento do negócio dele. A
+corretora vai comprar o crescimento do
+negócio dele, vai comprar uma máquina
+que o cara coloca lá, eh, que tá
+faturando 100.000 e começa a faturar
+200.000. É isso que ele vai fazer. A
+corretora fica feliz, a seguradora fica
+feliz, o relacionamento dos dois
+aumenta. Maravilhoso, maravilhoso,
+maravilhoso. Beautiful. Aí você vem
+cobrindo o quê? Oferta. Oferta para
+venda de seguro. Marketing. Marketing
+para venda de seguro. Venda. O mecanismo
+de venda para venda de seguro. Esquece o
+onboard. Esquece o delivery. Isso aqui é
+BO. Feedback. E o onboard é até legal,
+cara. Você pode criar jornada de onboard
+para segura aqui também, porque eu me
+sinto, por exemplo, abandonada pela
+minha corretora.
+Então,
+começou a entender a tese, eh, cotação
+demorada e manual, cara, como que a
+gente resolve isso? E a con API para os
+cotadores e múltiplas seguradoras.
+Então, tipo assim, pega lá a PI da Tex,
+a PI da AG, a Ager, pega a PI de não sei
+do que lá, monta um MCP para isso,
+conecta isso numa IA para que ela faça
+cotação automática, chamando as APIs,
+automação que envia PDF. Ah, não tem
+não. O cotador não faz isso. Não
+conseguir API e faz a de um de um
+robô. Faz um robô a de automação que
+faça a cotação automática. Ou melhor
+calcula a média das cotações e envie um
+valor. Olha, segurado, de acordo com o
+que eu analisei, seu seguro vai ficar de
+tanto a tanto. Faz sentido para você
+conversar? Faz. Aí joga na mão de uma
+pessoa e a pessoa faz lá de forma
+manual. Ferramentas para você fazer
+isso.
+Usa o CRM. CRM na base, hein?
+Multicálculo, GPT, API, N8N, WhatsApp,
+Evolution API ou API oficial. Tem 300
+casos para fazer isso aqui. Nossa, baixa
+o retorno de cliente por falta CRM,
+falta fluxo de reativo, falta lembrete
+de renovação, ch altíssimo, LTV baixo,
+eles não têm nada, não tem
+previsibilidade de receita. corretor é
+assim, cara, isso é É muita, muita
+oportunidade, gente. Workflow de
+ativação automática baseado na data da
+última renovação envio de proposta
+automática nos 30 dias anterior e antes
+do vencimento, depois vem cobrando 15
+dias, 14 dias, 13 dias, 12 dias, ou
+melhor, já vem trabalhando isso muito
+antes, dando dicas para ele melhorar,
+lembrando dele. Cara, dá para fazer
+muita coisa aqui, cara. Muita coisa.
+Resumo. Deixa eu falar para vocês.
+Construir a tese, tá aqui. Agora é só
+fazer o quê? Envelopar isso daqui, criar
+uma oferta, uma promessa e botar para
+vender. Simples assim. E aí, Kev?
+Vendeu, como que entrega? Entra para
+acelerar aqui lá, eu te mostro. Fechou,
+rapaziada? É isso. Essa é uma
+oportunidade de ouro. Essa oportunidade
+da do nosso momento atual de
+infraestrutura com inteligência
+artificial. A, o momento da IA permite
+isso, o momento do mercado permite isso.
+Se você for esperto, você aproveita.
+Isso não é só para quem é técnico, isso
+é para quem quer ganhar dinheiro com
+empreendendo com inteligência
+artificial. Então, se você quer
+empreender com IA, se você quer trazer
+IA pro teu negócio, se você quer fazer o
+seu negócio crescer, quero você comigo
+no dia 4/10 no meu workshop, onde a
+gente vai falar sobre a Growth AI,
+beleza? Se você gostou do meu vídeo, já
+clica no joinha, já clica em me seguir
+aqui, já se inscreve no canal e vai lá
+no Instagram também e @euocvincleto e
+bora. Um abraço, tchau vocês, até mais.

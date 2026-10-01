@@ -1,0 +1,410 @@
+a nova era da programação galera chegou
+você tá preparado certeza a área de
+tecnologia não será mais a mesma ela já
+vem mudando com o decorrer do tempo mas
+agora essa curva de mudança ela está
+extremamente acentuada ela tá
+basicamente parecida você um exagero
+agora com o início da pandemia onde as
+empresas tiveram que mudar 100% pro Home
+Office porque tudo fechou show então
+todo mundo teve que se adaptar rápido é
+a mesma coisa agora na área de
+tecnologia os números não mentem o que
+tá acontecendo no mercado não mente eu
+vou mostrar para vocês quatro
+principais coisas que vão fazer você
+continuar nesse game continuar nesse
+jogo porque assim o programador em si
+ele não vai acabar isso não vai
+acontecer mas a área da tecnologia está
+mudando e bem provável que se você não
+se adaptar você vai ser afetado e eu não
+tô falando nada relacionado a código a
+arquitetura de software nada disso tá
+bom mas fica até o final que você vai
+entender um pouco tá eh por que que eu
+tô falando que a área da programação
+nunca mais vai ser a mesma tá que que tá
+acontecendo não sei se vocês viram
+várias empresas começaram uma um layoff
+massivo isso é normal todo final para
+começo de ano existe uma reestruturação
+das empresas e elas precisam enxugar
+então elas crescem muito durante o ano
+anterior e no começo do desse ano novo
+ela enxuga E aí Ela utiliza do indicad
+para analisar o time e tudo mais e aí
+acaba rolando esses layoffs mas mas
+surgiu um ponto que é esses layoffs vem
+aumentando de tamanho por exemplo você
+pega a zenvia ela cortou 15% do time o
+Facebook cortou 5% da equipe No Bank
+mesma coisa o winter também a log a Pag
+Bank cara o nubank principalmente e isso
+vem acontecendo por quê por conta da
+Inteligência Artificial é por conta da
+Inteligência Artificial o o mundo tá
+mudando o mundo tá mudando tá mudando
+rápido
+e cara a gente vai ter que se adaptar
+você vai ter que se adaptar ah Kelvin a
+inteligência artificial vai substituir o
+programador não isso aí é história eu
+tava até assistindo até lembrei porque
+eu comecei a ler alguns relatórios hoje
+alguns artigos sobre tendências e tudo
+mais a tendência hoje do mercado é a
+inteligência vertical né Inteligência
+Artificial vertical então isso isso isso
+é o que os principais fundos de
+investimento estão de olho você pega os
+relatórios da maquens eles falam isso e
+que que é inteligência artificial
+vertical basicamente é uma inteligência
+artificial treinada para resolver um
+determinado problema de um setor e ela
+resolve com muita eficiência o Devin é
+uma inteligência artificial vertical pra
+nossa área do desenvolvimento o github o
+github CoPilot é uma inteligência
+artificial voltada 100% pro nosso pro
+nosso nicho e o que vai começar a
+acontecer é que você vai ter cada vez
+mais agentes de a eh ou não vou nem
+dizer agentes É pode ser agentes mas não
+a e e as que vão atuar especificamente
+por exemplo eh nichada né uma iad piou
+PR para substituir a de um piou
+cara bem
+provável assim eu particularmente não
+gosto muito mas vou te deixar isso de
+lado eh e que o que vai acontecer é que
+bem provável que você vai ter um agente
+po que vai est monitorando em tempo real
+as bordes de desenvolvimento devops por
+exemplo ou github vai fazer o
+acompanhamento vai fazer dele automática
+via Slack e vai reduzir drasticamente o
+trabalho de um po a Kelvin vai
+substituir 100% o po não não vai vai
+acontecer igual desenvolvedor Mas qual
+que é o grande ponto em vez de você
+precisar ter um po por Squad ou um pi
+cuidando no máximo de duas Squad você
+vai ter um pi para cuidar de cinco
+squads entendeu então a quantidade de
+pios necessárias para cuidar de vários
+produtos vai diminuir drasticamente
+entendeu o o pi vai ficar mais para
+fazer a ponte ali com o cliente fazer o
+meio de campo porque o resto ele não vai
+precisar fazer um outro exemplo para
+vocês
+é o Dev o desenvolvedor né você pega o
+Devin o Devin é uma fal lcia ainda né
+não sei para quem não conhece é a
+inteligência artificial que é conectada
+diretamente com o seu repositório no
+caso github né eles trabalham com o Git
+só e você integrada com Slack você pede
+uma demanda no Slack ele vai lá e
+executa no código faz apr e tudo mais né
+executa testes e tudo mais é bem legal e
+ela ainda não tá pronta Mas ela já é um
+sinal muito grande do que está por vir
+nos próximos 5 anos entenderam então o
+Dev vai morrer não vai mas cada vez mais
+eu você vai ter um Dev para fazer n
+tarefas eu vou dar um exemplo de novo
+Imagine que um Dev hoje consiga fazer 10
+tarefas por semana com a inteligência
+artificial um Dev vai conseguir fazer 20
+tarefas por semana logo ele vai fazer o
+dobro de tarefa então a necessidade de
+ter dois deves para fazer 20 tarefas
+numa semana não vai existir um corta um
+um um dos deve sair fora e é aí que
+vocês T que entender essa é a grande
+sacada do jogo Porque o mercado de
+tecnologia o mercado digital já tá
+saturado de
+desenvolvedores medianos você escrever
+código você desenvolver você saber
+design pattern hoje já não é um
+diferencial você ser um excelente
+programador só escrevendo só de código
+já não é um diferencial você de 10
+certificações da Microsoft sobre
+Framework sobre azure já não é um
+diferencial mais entenderam e o que que
+é um diferencial eu vou explicar para
+vocês mas antes disso eu vou
+contextualizar um pouco sobre como vai
+mudar o mundo da programação eu gosto
+muito por exemplo de assistir Star Trek
+não sei se vocês Já assistiram cara eu é
+uma série que eu sou viciado E ontem
+assistindo Star Trek eu já estava
+pensando em gravar é esse tema é teve
+uma cena muito legal lá eles têm como se
+fosse um negócio chamado holod deec que
+é um ambiente como holográfico que você
+consegue simular ambiente simular
+pessoas e com pessoas com comportamento
+e tudo mais e nesse Episódio específico
+um dos tripulantes lá de uma nave
+Estelar ele foi programar um personagem
+então ele falou cria um personagem e ele
+foi descrevendo as características ele
+falava com computador faça isso isso
+isso isso aí o computador i e fazia
+agora adicione traços de personalidade
+assim assim assado Agora faça isso agora
+Faça aquilo Agora faça isso isso isso
+isso agora roda deixa eu ver o que que
+aquele cara tava fazendo aquele cara
+tava programando só que ele tava
+programando de um jeito diferente e eu
+acho que é isso que vai acontecer com a
+nossa área o programador ele vai
+continuar insistindo por um determinado
+momento o programador ainda vai sim
+escrever muito código vai porque ele
+dificilmente vai vai conseguir sair
+disso a ia vai acelerar mas o código
+ainda vai tá lá mas o modelo de
+programação as interfaces de de
+desenvolvimento as ids a própria
+linguagem de programação ela tende a
+mudar drasticamente entendeu ela tende a
+ficar muito mais alto nível gente isso é
+sério ela tende a ficar muito mais alto
+nível e É só vocês imaginarem a
+Microsoft Parando para desenvolver uma
+ia 100% Nativa com visual Studio saca e
+e desenvolvendo mais o o o o Framework o
+dnet Framework encapsulando mais coisas
+e criando uma interface de prompt para
+que você Programe e e e ela interprete e
+por trás ela vai interpretar e vai
+construir o código então você o jeito
+que você vai programar por exemplo é só
+escrever no comentário e por trás ela
+vai interpretar aqueles comentários e
+vai converter aquil em código e vai você
+não vai nem ver o código o sistema vai
+rodar e o backend vai rodar e as coisas
+vão acontecer a gente vai chegar nesse
+nível logo logo saca até a gente chegar
+numa interface em que não vai precisar
+ter mais não vai ser mais esse modelo de
+comentário vai ser por voz ou vai ser
+por pensamento ou vai ser por sinal de
+fumaça ou vai ser pro mas o que
+que acontece o papel do programador
+sempre vai existir sempre vai existir a
+peça que dá instrução pra máquina
+entenderam então é muito importante que
+vocês entendam isso a peça que vai dar
+instrução pra máquina sempre vai existir
+o ponto principal é quais habilidades
+que você vai serão necessárias para ser
+para você ocupar essa função de colocar
+instrução pra máquina porque se você for
+analisar eh em de 2016 a 2023 a coisa
+mais importante era o cara saber
+programar 2024 a a coisa mais importante
+já não é só mais programar é saber
+programar ou perdão da 2024 ó até 2020
+de 2020 para frente era saber programar
+e também saber devops e também saber de
+azure e também saber de arquiteturas
+distri Idas e saca as habilidades que um
+desenvolvedor precisa elas estão
+aumentando não é só mais programar Então
+isso que é importante tá e eu queria
+também deixar uma reflexão para vocês
+eh sobre e quer ver eu anotei aqui ó
+então eu li isso num artigo achei muito
+legal o mercado futuro ele não ficará
+defasado de pessoas desenvolvedoras mas
+sim de pessoas desenvolvedoras com as
+habilidades necessárias se você for
+analisar o mercado atual já tá assim
+existem muitas vagas de Dev e e e todo
+mundo conhece vários devs que estão
+desempregados você provavelmente deve
+conhecer um Dev que tá desempregado Mas
+por que que esse cara deve est
+desempregado por que que tem pessoas
+desempregadas desenvolvedoras porque
+elas não TM as qualificações necessárias
+para ocupar cargos de desenvolvimento
+hoje e o que vai acontecer daqui dois
+anos é que nós hoje de hoje não teremos
+as qualificações necessárias para ocupar
+os cargos de desenvolvimento daqui 2
+anos vamos vamos lá esse é o problema
+que eu que eu apresentei para vocês e eu
+trouxe alguns fatos aqui além do do do
+do com relação à Inteligência Artificial
+é que a maior as grandes companhias né
+as Big companies aí e as grandes
+empresas do mercado elas já sabem isso e
+novamente o que eu deixo de prova para
+vocês são os gigantescos layoffs que vem
+acontecendo acontecendo
+ano contra ano eles vêm aumentando não é
+só mais um layoff por layoff o layoff
+não é o layoff padrão já está
+acontecendo uma um aumento na quantidade
+de pessoas que estão sendo desligadas
+por significa que empresas não precisam
+mais de um exército de tecnologia ela
+precisa de poucas pessoas muito boas ou
+pessoas com determinadas qualificações
+tá E vamos lá vamos agora vamos focar
+aqui no que realmente interessa é quais
+são as três principais mudanças que nós
+que eu que você precisa fazer pra gente
+se tornar competitivo e continuar
+crescendo nesse mundo novo porque de
+novo não é não se trata mais só sobre
+programar só sobre escrever código não é
+mais isso e você já tá ciente correto
+legal ten que fazer uma PS nenhuma
+não nem Nem vem com essas bostas de pós
+aí pós não serve para isso vamos lá ó
+primeiro ponto você tem que desenvolver
+um um pensamento crítico além do código
+que que eu quero dizer com isso vocês
+viram no o exemplo que eu dei sobre a
+pessoa lá no Star Trek que tava no holod
+deck construindo uma um um um ser
+holográfico dando inputs essa pessoa que
+tava dando input ela tava tendo o
+pensamento crítico 100% crítico e
+criativo em cima daquele personagem que
+ela tava criando porque tipo assim não
+tinha código ali então você tem que
+entender que a grande diferença é você
+começar a ser crítico com relação àquilo
+que pedem para você desenvolver com a
+feature em si com o que a plataforma vai
+fazer em si com os objetivos que aquela
+empresa que você trabalha espera com
+aquela ferramenta sabe é é dar um passo
+além do código eh vocês têm que entender
+uma coisa uma empresa ela trabalha por
+resultado e a área de tecnologia
+geralmente ela trabalha pela tecnologia
+pelo código bonito pela inovação e tudo
+mais só que às vezes aquela inovação não
+tá nem atrelada a resultado a área de
+negócio é uma área que trabalha 100%
+para resultado é por isso que você vê
+geralmente a área de tecnologia
+conflitando com a área de negócio e o
+pessoal falando os cara da tem não
+entende não faz é porque a área de
+tecnologia geralmente ela não entende e
+ela não quer às vezes entender também o
+senso de urgência da área de negócio e
+qual que é o grande segredo o grande
+segredo é você ser de tecnologia e
+também ser de negócio esse é o maior gol
+que você pode fazer na tua carreira como
+desenvolvedor como programador como po
+como i é você sair do da esfera
+tecnológica e ir para pro mundo real pro
+mundo físico e começar a entender um
+pouco mais de negócio porque quando você
+se municia desse tipo de informação e
+desse tipo de conhecimento você consegue
+ser crítico com relação àquilo que você
+está desenvolvendo você consegue definir
+o senso de urgência para uma determinada
+demanda definindo o senso de urgência
+você consegue definir se você tem tempo
+para fazer uma determinada abordagem ou
+não se você vai fazer uma solução
+paliativa para liberar aquilo paraa
+produção mais rápido possível
+porque você tá trabalhando pelo
+resultado da empresa entenderam o
+conceito segundo ponto para vocês ó para
+nós porque eu também tô nessa aprenda a
+osari ao seu favor sabe nós temos uma
+habilidade incrível de programar Mas a
+gente não para para desenvolver algo
+ferramentas para nós mesmos casa de
+ferreiro geralmente o espeta quem melhor
+do que nós programadores para
+construirmos agentes de programação para
+nos auxiliar a programar Por que que a
+gente não cria isso por exemplo eu criei
+Eu Já criei na minha empresa né a gente
+tem um padrão aqui de desenvolvimento
+tem um devpack n a gente tem uma
+estrutura em DDD a gente faz usa cqrs
+tudo mais a gente treinou agentes por
+exemplo um agente que ele só gera as
+entidades de domínio um agente que só
+gera os comodes um agente que só gera os
+handlers ele é especializado nisso um
+agente especializado em construir os
+repositórios um agente especializado em
+construir apis E aí depois a gente tem
+um orquestrador que é um arquiteto a
+gente que organiza tudo e facilita para
+porque a gente cria tabela no
+banco de dados a gente manda para eles
+eles quebram o prau e gostam o código
+pronto sacou só que eles os agentes não
+conseguem o quê escrever as regras de
+negócio do jeito que a gente precisa mas
+a parte mais chata do código eles fazem
+então assim eu digo para vocês que
+gastem energia estudando sobre agentes
+de inteligência artificial para que
+vocês possam construir e acelerem o seu
+tempo façam esses agentes serem o
+diferencial no seu desenvolvimento
+ensinam eles ensinem eles a programar
+como você programa para fazer a parte
+chata você vai acelerar demais e não
+pense o seguinte em P em vez de demorar
+8 horas você vai demorar duas e as Mas
+você vai ainda vai continuar passando 8
+horas de demanda sa você vai ficar 6
+horas descansando e 2 horas trabalhando
+não trabalha às 8 horas porque isso vai
+fazer toda a diferença na tua carreira
+na hora que rolar um um layoff bem
+provável que você vai ficar você vai
+ficar na empresa e e o terceiro ponto de
+novo se aproxime da área de negócio
+converse com o pessoal time de produtos
+converse com o time de negócio converse
+com o time comercial converse com os
+diretores saca ten essa proximidade
+desenvolva soft Skills Skills nunca
+foram tão importantes para esse novo
+mundo então o que eu deixo de mensagem
+para vocês é desenvolva sua softw para
+que vocês possam principalmente
+comunicação e senso crítico autocrítica
+para que vocês possam suportar esse novo
+mundo para que a hora que esse layoff
+vim a hora que layoffs virem eh você não
+ser afetado para que você seja um
+profissional que possa escolher a onde
+você quer trabalhar a vaga que você quer
+trabalhar a empresa que você quer
+trabalhar e quanto você quer ganhar
+belezinha deixei a minha mensagem para
+vocês espero que vocês tenham gostado
+não se esqueça de se inscrever no canal
+e ativar o Sininho e até a próxima um
+abraço

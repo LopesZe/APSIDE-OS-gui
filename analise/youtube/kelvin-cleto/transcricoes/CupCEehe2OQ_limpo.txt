@@ -1,0 +1,727 @@
+Olá a todos, neste vídeo eu vou...
+Muito direto e claro em relação à joint venture.
+Não quero fazer nenhuma dessas coisas.
+avaliações que eles estão fazendo,
+colocando-o para jogar ou fazer alguma coisa
+porque comecei a implementá-lo no meu
+aplicativo e quero mostrar a vocês o que
+Comecei a fazer isso. Eu literalmente comecei a
+Faça isso hoje, domingo, dia 20.
+Setembro. Estou usando o JV há 4 horas.
+aqui no meu aplicativo e tem
+Fiquei muito surpreso. Então, começando
+Por JV, não é um modelo de LLM, certo?
+VERDADEIRO? Diego Almeida, acho que é ele.
+Diogo Almeida, o fundador, não é
+Brasileiro. Ele não é brasileiro.
+Embora o nome possa sugerir o contrário, não é?
+Mas ele o chamou de Sistema Um.
+Modelo. Então esse é o nome do
+novo modelo. É um modelo de IA com
+uma categoria específica criada por
+Tipografia e é basicamente focada
+na elaboração da classificação. Resumindo,
+aquilo é. E é incrível o quanto isso pode fazer.
+para reduzir o custo de utilização e de chamadas de LLMs.
+Isso substitui o LLM? Não, não substitui.
+Mestrado em Direito. Então, neste vídeo eu quero
+Mostre-os aqui rapidamente.
+Quero mostrar o que estou me candidatando.
+Então, vou começar resumindo,
+explicando até mesmo para você que você é
+Eu irei te ver, para que você entenda como
+Você pode se beneficiar disso. E então
+Vou mostrar a vocês o aplicativo que estou usando.
+fazendo isso, por que estou usando isso e
+Quanto dinheiro isso me fará economizar?
+Então, vamos continuar com o
+O conceito é o mesmo de sempre neste canal.
+A IA precisa produzir resultados.
+Brilhante. Então, como usamos JV?
+Para gerar resultados reais? Eu vou para
+Para mostrar meu caso de uso, que é para
+Faz todo o sentido para mim neste exato momento.
+momento, porque já estava se desenvolvendo
+um copiloto de vendas, que é um
+requerimento a ser acompanhado do
+vendedores. E o custo era um problema.
+Estava se tornando difícil manter o equilíbrio.
+devido a chamadas de IA. E com JV,
+Puxa vida, vou reduzir isso a um nível absurdo.
+. Vou te mostrar isso aqui.
+Vamos começar. Lembre-se, se você for
+programador, consultor, empresário,
+Homem de negócios, não importa, você quer entrar
+no mundo da inteligência
+artificial e criar uma solução
+robusto e ganhar dinheiro com isso,
+entender como criar um modelo de
+Para negócios, você precisa conhecer o Acelera 360.
+. Se você quer conhecê-lo, acelere. Ele
+O link para inscrição está aqui.
+Descrição deste vídeo. E isto
+No sábado vou ministrar um workshop chamado
+Desenvolva o sistema de IA para entender como
+Entender o mercado e seus pontos problemáticos,
+como criar uma oferta, como
+estruturando um mecanismo de IA e como
+Comece a vender e ganhe seu primeiro
+cliente. Será uma oficina prática. Sim
+Se você quiser participar, o link também está aqui.
+Está aqui na descrição deste produto.
+vídeo. Vamos começar. UM
+Breve introdução. Se você gostar
+Conheçam Jeev, aqui está ele: typesafe.ai.
+Então, este é o site oficial.
+Typesafe é o nome da empresa, certo?
+OK? Vou dar uma explicação muito breve.
+Aqui é simples. Aqui temos os LLMs,
+Não? E aqui temos Jeev Avaliar.
+O que tem aqui? OpenAI com ChatGPT,
+Google com Gemini, Claude com Opus, com
+Haiku, ou qualquer outro modelo. Aqui
+Basicamente, você envia uma mensagem e ele vai.
+Ele gera os tokens, certo? Vai
+gerando os fragmentos de texto e você
+Retorna a resposta, que é o que já faz.
+Sabemos muito bem. Jeev não resolve isso.
+esse problema. Na verdade, é uma IA (Inteligência Artificial).
+um modelo de IA focado em
+classificação. Então, para aqueles que
+Eles não entendem de tecnologia, me deixem em paz.
+voltar uns 15 anos no tempo,
+Na universidade, estudei algo chamado
+regressão logística. Para explicar
+Resumindo, o que é regressão?
+logística e triagem, imagine
+Eu crio um algoritmo de IA e digo a ele:
+o seguinte: "Olha, eu vou te dar o
+características de algo." Por exemplo,
+as características de uma maçã. Você
+Eu apresento todas as características de um(a)
+maçã. Então, veja, é redondo.
+Geralmente é vermelho, mas pode ser
+verde, quando você morde por dentro é
+amarelado, etc., etc. Isto
+treinamento e este algoritmo criam pesos. E
+após o algoritmo ser
+Basicamente, eu tenho experiência e dou minha contribuição.
+Olha, isto é amarelo, comprido e tudo mais.
+É isso, e estou incorporando isso a este algoritmo.
+Então, esse algoritmo retorna o
+A seguir: "Olha, essa coisa que você me deu..."
+"Há 0,01% de chance de ser uma maçã."
+Este é um algoritmo de regressão.
+logística. É incrível, isto é o
+padrão. Aprendemos muito sobre isso no
+universidade. Então, quando vi Jeev
+A primeira coisa de que me lembrei e que disse foi:
+Uau, isso é incrível! É um
+algoritmo, é como uma regressão
+logística, mas você não precisa
+Treine-o, pois ele já vem treinado.
+Achei isso maravilhoso.
+Porque? Porque, meu amigo, você pode
+classificar coisas sem treinamento
+algoritmo, sem ajuste de pesos; é isso
+preparar. Então, Jev está criado?
+É para isso que serve, certo? Basicamente, você passa adiante.
+informação, não um texto como em um
+LLM, mas um JSON, e ele responde com
+uma questão de múltipla escolha, uma pontuação ou uma
+Sim ou não. Vou dar um exemplo simples.
+para que eles entendam. Imagine isto:
+Ocorreu uma transação no meu banco.
+São 3 da manhã e não é do Brasil.
+É originário da China. Qual é a probabilidade?
+E se for um golpe? E ele você
+responder. 90% de probabilidade de ser
+fraude. Mas você também poderia fazer isso.
+com um mestrado em Direito (LLM). Só que um LLM é muita coisa.
+Mais caro e mais lento. Se você ligar para um LLM
+Isso levará cerca de 3 segundos.
+tempo médio de resposta. Mas Jev não fez isso.
+. O Jev dura cerca de 400 milissegundos e é
+significativamente mais barato. Kelvin, ?
+Para que eu usaria isso? Você pode reduzir
+O custo de um mestrado em Direito (LLM) é extremamente alto.
+Tomar decisões. Isto é lindo,
+pessoas. É uma instrução condicional, uma instrução condicional inteligente.
+Uhu! Está evoluindo muito rapidamente.
+Está evoluindo muito rapidamente. Esse
+É uma loucura. E sem treinamento. Se for assim
+Poderíamos fazer isso manualmente, mas
+Kelvin, já existem muitos algoritmos.
+Eles existem, meu amigo, eles existem. eu sei que
+Eles existem, droga. Mas isto é muito
+rápido. Você não precisa treinar isso.
+Pronto, está finalizado. Isto é um
+É uma loucura, é muito rápido. Agora que
+Você entende mais ou menos o que é Jev?
+Vamos fazer algumas comparações para
+distinga-os, ok? No mestrado em Direito, ele
+A entrada aqui é um contexto. O
+entrada aqui, a entrada aqui é uma
+Contexto, entende? Você envia um
+contexto para Jev. A entrada que
+"Você passará por aqui" é um estado/contexto.
+JSON. O objetivo do LLM é gerar.
+Isso irá gerar um texto de resposta de acordo com
+o contexto que você solicitou. Isso irá gerar um
+código, um JSON, uma resposta
+qualquer pessoa, qualquer coisa baseada no
+A mensagem que você enviou, ok? Em vez de,
+O objetivo de Jev é decidir ou
+classificar. Então, essa é a abordagem.
+Jev, você entende? Então, o
+A saída do LLM geralmente é um texto.
+, pessoas. O que isso gera? O
+A saída do LLM consiste em tokens, que são
+palavrinhas, pedaços de palavras. Em
+Mudanças e a partida de Jev são decisões.
+e probabilidades. Então, decisões,
+decisões e probabilidades. Amigo,
+Imagine isso para uma análise de
+fraude. Você não precisa usar um LLM e
+Possui um nível absurdo de poder de decisão.
+Caramba, isso é incrível. Kelv, você já...?
+testado até o limite? Não, eu não tenho.
+Ainda estou tentando fazer isso e isso me dá
+preguiça. Eu mesmo já fui um deles.
+aplicando-o ao que fazia sentido para
+meu. Eu vou te mostrar, se acalme.
+Deixe-me explicar para os leigos aqui.
+para que eles entendam. O que mais vamos fazer?
+Levar aqui? Ah, texto, texto livre. ?
+O que o texto livre permite? O
+O mestrado em Direito (LLM) permite texto livre. Jev permite
+Texto livre? Não, Jev é objetivo.
+Então, em termos de velocidade, o LLM é lento e
+face. E Jev é incrivelmente rápido. Rápido e
+barato, muito barato, realmente muito
+barato. E vou mostrar-lhe um.
+Comparação em instantes. Quando
+Devo usar um ou outro? Depende do caso. Jev
+Substitui o LLM? Não, embora dependa.
+da aplicação. Muitas coisas de
+Classificação e tomada de decisão usando LLM
+Hoje, eu migraria 100% deles para o Jev porque
+custo e velocidade. E meu aplicativo,
+Por exemplo, é em tempo real, então
+Isso vai mudar todo o jogo. OK?
+Resumindo, é isso. Kelvin,
+Você quer saber mais sobre Jev? Feixe
+A seguir: Acesse o Typebase aqui e
+ler. Visite o blog deles aqui. Tem
+Procure em algum lugar por aqui. Documentos. Aprender
+Para ler a documentação. Muito bom. Muito
+Bem. Está aí, veja? Pessoal
+primitivos. Escolha, pontuação, sem avançado
+entrada. Está tudo aqui. Está tudo lá
+Muito bem explicado. Muito legal. Por
+É verdade, não é, não é, não se trata de mim.
+vídeo. Meu vídeo é sobre o aplicativo.
+prática. O que mais? Você quer
+Para entender melhor? Jev escreve aqui em
+YouTube, veja. As pessoas estão fazendo
+muitos lançamentos comparando,
+olhar. Jev é louco. Bum, bum, bum,
+boom. Tem muita gente fazendo isso
+Aqui temos alguns joguinhos. E aqui no meu vídeo,
+O que você vai ver? Você verá
+a aplicação no mundo real. Então, eu vou
+Para explicar meu contexto atual e onde
+Estou aplicando isso para que você possa
+Compreender, replicar e começar a criar.
+seus próprios casos de uso. Então
+Vamos. Quero usar JV. Como você...
+fazer? Primeiro, você vem aqui, para o seu
+Inscreva-se no site e participe!
+a lista de espera deles, porque, meu amigo, não.
+Existe outra maneira. Eles têm uma lista de espera.
+E como eu o utilizo? Estou usando
+Roteador aberto. Eles o têm, eles o libertaram.
+Ali, perguntei à comunidade,
+Acho que OpenRouter e Vercel são,
+A AWS também tem alguns roteadores, esse aí.
+Eu não o conhecia, mas tudo bem. Muito bom.
+O OpenRouter está disponível gratuitamente. Eu sou
+usando através do OpenRouter e
+Funciona muito bem, muito rápido.
+Latência média de 300 a 550
+Tempo de resposta em milissegundos. Uau, isso!
+É muito rápido, meu amigo. Brilhante. Agora,
+Nesta parte do vídeo, vou explicar
+o contexto que estou usando.
+Resumindo, temos uma solução.
+chamada infraestrutura de crescimento
+com inteligência artificial, que
+Consiste em usar IA para ajudar o
+empresas para vender mais, para crescer mais,
+para ajudar nossos parceiros aqui em
+Celera pretende crescer e vender mais. Brilhante.
+Então, já que estamos falando sobre
+Vendas e crescimento, o quê?
+Precisamos mesmo ter isso? Todo o processo de
+vendas. Então, essa coisa que você está fazendo
+Seeing is Growth AI, uma ferramenta,
+uma solução que temos aqui na 360.
+Isso engloba todo o conceito de vendas, tudo.
+o fluxo de vendas, o fluxo de trabalho, de
+Automação com inteligência
+artificial. Bem, este é o primeiro.
+ver. Então, este é o aplicativo.
+aqui. Veja, esse é o nosso objetivo. Ele
+O objetivo é vender mais. O que você está fazendo
+nossa ferramenta? Venda mais. OK,
+Mas será que o CRM faz isso? Não, não o CRM.
+Sim, faz isso. Você vai entender. CRM é
+Apenas um cadastro de cliente. Então,
+Growth AI, que é a nossa ferramenta,
+Isso faz com que as empresas vendam, vendam.
+ainda mais com inteligência artificial. ?
+Entendido? Então, você sabe que
+O principal que a IA precisa é ter
+Contexto, ter dados. Então vamos lá
+lá. Primeiro passo do nosso fluxo, não.
+Vou falar aqui sobre fluxo de vendas.
+Estou aqui conversando sobre
+Marlon, eu apaguei os contatos dele, mas em
+Em resumo, coletamos dados de tudo. Por
+Por exemplo, houve uma reunião com um
+chamada que nosso SDR fez para
+Marlon aqui. Então, todos os
+A conversa está aqui, veja. Esse
+Este é o contexto da IA. Pai,
+pa, pa, pa. Então, vamos lá. Em
+O que acontece com o fluxo de vendas? Apenas
+Para ajudar você a entender, temos o estágio de
+atração, onde atraímos o
+pessoas, assim como eu estou fazendo com
+Você aqui, gerando conhecimento e
+perguntando a eles: vocês querem abrir um negócio?
+Eles querem gerar resultados com
+inteligência artificial? Clique no
+O link está aqui e inscreva-se em
+Acelere 360. Em seguida, temos a etapa de
+classificação, onde vamos classificar
+Confira as pessoas que entram.
+se eles tiverem o perfil. Então temos
+a fase de conversão. Conversão,
+Em resumo, um processo de vendas é
+Veja isto aqui. No processo de
+vendas, então, amigo, três quarteirões
+As principais, certo? Aqui no
+conversão temos um palco muito grande
+A ligação de vendas é importante.
+Então imagine o seguinte: Eu atraí,
+Vocês que estão aqui, querem começar?
+Com IA, clique no link que está em
+a descrição deste vídeo ou venha para
+minha oficina, tudo na fase de
+atração. Então, despertou-se o interesse.
+Você entrou em contato, minha equipe.
+avaliar. Então, o que é isto?
+Avaliação? Essa pessoa realmente
+Quer abrir um negócio? Ele tem o perfil,
+tem o perfil, tem o perfil, é
+Agende a reunião. Então, aqui em
+A conversão ocorrerá na reunião e
+Temos a reunião de vendas marcada. Qual
+Será esse o problema com a ligação de vendas?
+No meu caso, acontece pelo Google Meet. Em
+Algumas empresas operam via Zoom, em
+Outras acontecem via, sei lá, Slack, Teams.
+, por exemplo, ou qualquer outro
+ferramenta de vídeo ou até mesmo reunião
+Pessoalmente. Então, qual é o objetivo? O
+vendas, pessoas, não importa o que pensem
+que eles estão vendo que é um presente, não é?
+isso é! É tanto técnica quanto método.
+Então, o que fizemos? Oh
+, com o objetivo de criar um
+uma solução que ajuda as empresas a
+Para vender mais, criamos uma ferramenta.
+Chamada do Sales Copilot. O que é o
+Copiloto de Vendas? Só para te mostrar
+Rápido, veja aqui. Copiloto de Vendas
+É muito simples. Imagine que eu tenho um
+Reunião no Google Meet. Então,
+Entrei no Google Meet para fazer o
+reunião. Vou deixá-lo minimizado por
+Olhem só vocês aí. E eu venho aqui,
+Olha, começar, nova reunião. E eu comecei
+Realizar a reunião. Quando eu entro
+uma reunião, veja, ele já identificou
+Há uma reunião aqui e eu vou...
+guia. Tudo bem? Então, eu tenho um
+copiloto de vendas. Aqui eu começo a
+Para realizar transcrição em tempo real,
+Aqui eu anoto, um resumo do
+reunião e aqui nos dados eu vou
+Reunir as informações. Então,
+Por exemplo, uh, bem-vindo, como
+Você é? Como vai, João? É um
+É um prazer tê-lo(a) aqui nesta reunião.
+vendas. Meu nome é Kelvin, sou de
+Celera 360 e meu objetivo aqui com vocês.
+Primeiro, entenda seu negócio, seu
+momento atual e onde você quer chegar
+chegar. Em seguida, quero identificar
+O que está te impedindo de seguir em frente?
+para avaliar se a Celera realmente consegue
+te ajudar. E se eu entendi que existem
+Affinity, vou te mostrar como funciona.
+nosso programa, o que faríamos no seu
+caso e qual é o investimento. E para
+Finalmente, quero concordar com você em algo, eu sei.
+diretamente comigo. Se fizer sentido
+Siga em frente, me diga você mesmo, blá blá blá
+Blá, blá, blá, blá, blá, blá.
+OK. Qual é o objetivo? Ao longo deste
+processo, o sistema coleta os dados,
+transcrever toda a reunião e, sobre
+Tudo começa a fornecer informações sobre vendas.
+Não vai fornecer nenhuma informação útil aqui porque não há nenhuma.
+Ninguém estava na chamada, mas se houvesse alguém...
+Alguém começaria a dar conselhos sobre
+oferta. Olha só que interessante!
+aqui. Eu uso IA aqui, meu amigo. Olha, isso...
+Você consegue ver? A conversa é
+Acompanhando em tempo real. Então,
+Aqui eu utilizo inteligência artificial.
+para reunir as informações. E lá
+É aí que Jeev entra em cena. Então,
+Vamos dar uma olhada aqui. Uau, eu coloquei muita coisa
+coisas. Agora vamos entrar no palco
+de arquitetura. Como é que isso funciona?
+Ou melhor, como isso funciona?
+Até o momento, qual foi o seu histórico de inscrição? Então, é
+Muito simples, veja. Há uma detecção de
+reunião, que é o que você acabou de ver
+aqui. Existe um processo STT, que é
+conversão de fala em texto, transformando voz em
+texto. Existe então um algoritmo que
+Organize esta transcrição. E lá
+Muitas coisas estão acontecendo em paralelo.
+A primeira é: Eu não posso ser
+recorrendo constantemente à IA. Dizer,
+Imagine que para cada palavra que eu digo
+Eu e a IA dizemos: "Ei, você tem alguma pergunta?"
+Analise isso, observe o custo de tudo isso.
+Existem, portanto, diversas técnicas que são
+Eles implementam isso para fazer essa merda
+Funciona e é barato. Mas o barato
+Aqui para mim hoje são quase 4 por
+reunião. Então 4 x 5, 20. 20 reais
+por reunião. Olha só essa loucura.
+De 20 a 30 reais. Brilhante. Uma reunião
+40 minutos, 50 minutos é caro. Esse
+É caro. Então entre aqui e veja. Isto
+A primeira coisa que faz é extrair
+Os dados, usando expressões regulares, executam um processo de
+regex aqui heurística para campos
+Óbvio, anote o nome, endereço,
+telefone, coisas que a pessoa diz
+lá e são obtidos na transcrição
+. Mas não o use para isso. Então
+Existe um SLM, não é?
+O que é um SLM, Kelvin? É um
+Modelo de IA mais leve. Não chega a alcançar
+Ser um SLM é uma solução alternativa. Esse
+Eis uma solução improvisada que eu encontrei, que
+É basicamente um classificador, mais ou menos.
+uma projeção, uma regressão
+logística. Existe um classificador
+É simples, não se chama IA, é o seguinte:
+Para entender a intenção ou o contexto.
+Essa pessoa disse: "É
+caro, tem isso, tem aquilo, tem
+"A outra coisa"? Então, basicamente, a
+O objetivo deste bloco acima é
+identificar se o tipo é
+Reclamar do preço, se ele estiver reclamando de
+tempo, se ele falasse de autoridade,
+competição, qualquer merda para o
+estilo. Isso pode acontecer aqui. Pode
+Treinar um mini LM para fazer isso,
+um modelo muito pequeno que funciona,
+Pode ser executado localmente ou em nosso servidor.
+servidor para fazer isso, porque é
+viável e mais barato; Tem um custo de
+Computação, mas não... veja aqui, já está funcionando.
+O primeiro problema começa. Porque
+Preciso mesmo lidar com essa complexidade toda?
+Assim, não preciso ligar para o LLM toda vez.
+por um tempo, porque o custo aqui é muito alto
+. O custo aqui é muito alto. Existem 20
+centavos por milhão
+fichas. Acho que esse é o preço.
+Então eu preciso investigar, mas é
+caro. Caro. Por que digo isso aqui?
+O mestrado em Direito (LLM) abrange isso? Obrigado pela sugestão.
+Então imagine que meu armário seja
+Olhe aqui. Boom. Meu guarda-roupa aqui
+. Ufa. Co-piloto. Qual é a ideia? Em
+O copiloto está sempre presente.
+dizendo agora diga isto, diga aquilo,
+Peça ajuda. Ele pode pedir ajuda,
+Você pode conversar com o responsável pelo fechamento do negócio aqui.
+Ele pode conversar com a IA.
+Nossa, como eu respondo a isso? Como
+Devo fazer isso? Então ele fará o
+Introdução, fará o diagnóstico,
+Em seguida, inicie a apresentação.
+então ele insere o valor, depois ele entra
+a decisão. Então, em todos os momentos
+Ele está aqui gravando a chamada e ajudando.
+para o finalizador, ajudando o finalizador, ajudando
+para o fechamento. Como isso gera valor para mim?
+esse? Pessoal, prestem atenção agora
+aqui. Preste atenção, observe. Pateix,
+pateix, pateixo. Estamos conversando aqui.
+de algo que gera um resultado para mim
+absurdo. Porque? Esses caras não
+Eles preenchem o CRM. Esses tipos, quando
+Eles preenchem o CRM, mas o preenchem de forma péssima. Esses
+Pessoal, é complicado lidar com eles.
+um treinamento de vendas, de
+técnicas de vendas. Sim, isso pode ser ensinado.
+A lógica pode ser ensinada; É uma técnica.
+Mas o fato de o cara seguir um roteiro,
+que é um roteiro de vendas, é
+complicado. Então, veja o custo.
+disso e onde isso impacta diretamente
+no meu resultado? Na conversão de
+Encerramento. Portanto, mais vendas significam mais
+alta taxa de conversão, mais
+Minha empresa gera lucro. Então, isto
+É uma dor cara, uma dor muito cara.
+E é aí que entra o que eu vou te contar.
+Esta é uma ferramenta que, por mais que...
+isso me custa 20 ou 30 reais por
+A reunião vale muito a pena. Porque?
+Porque no final do mês, é isso que está na minha cabeça.
+custo. Porque? Porque isso aumenta meu
+resultado. Isso faz minha equipe funcionar.
+De forma homogênea, torna o CRM
+atualizar. E o melhor de tudo, eu levo
+a transcrição completa em tempo real e
+Isso já alimenta meu modelo de IA.
+alimenta nosso banco de dados, o
+dados do cliente e tudo mais, meu amigo,
+Isso afeta minha atualização do ICP.
+automaticamente, a estratégia
+automaticamente, os números
+automaticamente. Então, veja o
+Que benefício eu obtenho com isso? É muito
+alto. É muito alto. Brilhante. E agora,
+Nossa, o que foi que isso me fez pensar, amigo? Jeff
+. Então, onde eu uso o Jeff aqui?
+Em primeiro lugar, meu amigo. Devo ligar ou
+Não ao mestrado em Direito? Será que essa pista ou
+Essa pessoa tem alguma dúvida?
+cliente, o mais próximo está seguindo o
+roteiro? Foi isso que ele me disse.
+A objeção é uma dúvida? O que é?
+Eles conseguem entender que tudo isso não passa de coisas.
+decisão, classificação? E lá
+Entra aí, amigo, eu consegui com GPT, olha só.
+Que lindo. O GPT é incrível,
+irmão. Caramba, estou quase lá!
+abandonando a nuvem. Estou quase indo embora
+a nuvem. Então, veja aqui. Então
+Este é o meu modelo atual: detecção
+reunião, STT, então organiza o
+transcrição, extrai dados, gera um
+Resumo e chamada para o LLM. Existem três
+processos que ocorrem em paralelo. Ele
+O custo de vida aqui é alto. Então existe um
+validador que verifica as informações
+e prepare a sugestão. Alto custo,
+Latência mais alta e escala limitada. Aqui
+Há outro ponto a considerar. Cada chamada aqui, o
+O tempo médio é de 4 segundos.
+Este é o tempo médio. 4 segundos,
+3 segundos e meio, 4 segundos. Isso é
+o tempo médio. É incrível
+alto. Isso é muito alto. Mas
+Funciona bem. Isso me dá resultados. Era
+rápido. Vejamos aqui, meu amigo,
+Como isso terminaria com Jeev? O mesmo,
+olhar. Detecção de encontros. Então
+Ele faz a transcrição, não altera nada.
+Organização, limpeza, marca de
+tempo, todo o resto. É aí que entra o JV.
+antes, irmão. O que JV vai fazer?
+Ele ficará encarregado da extração.
+a classificação e a decisão. Por
+que? Porque é absurdamente barato. ?
+E o que quero dizer com isso? UM
+A chamada me custou 0,001 centavos de dólar.
+dólar. Significa que, significa que
+Confira esta conta aqui. Olha só isso
+conta. Preste atenção nisto.
+Imagine que eu tenho uma reunião de 2 pessoas.
+horas em que isso não acontece. São 120 minutos.
+120 minutos são 60 segundos por minuto.
+. 7200 segundos. Imagine que eu o chame de...
+duas vezes por segundo. No pior dos
+Os casos representam 14.400 chamadas. Eu não mais
+Farei isso, mas colocarei aqui.
+extrapolação. Vou multiplicar isso
+devido ao custo. 0,001284 x 6 = 11 reais
+para a classificação. É absurdo
+barato. Isso é absurdamente barato.
+Isso é muito barato. Muito, muito, muito
+Barato, cara. E isso se deve simplesmente ao
+classificação, certo? Se isso fizer
+Chamar a OpenAI muito menos, que é o que
+O que eu estou fazendo, literalmente?
+Meu preço já caiu absurdamente. E eu vou
+Para explicar por que isso está acontecendo.
+Então vamos lá. E daí
+Vocês pretendem fazer uma parceria? Ele vai identificar isso, escute,
+Que tipo de fio é esse? Eu já
+Conheço as pessoas que vêm aqui.
+Tenho dados históricos, ele vai ver.
+Qual é a intenção de compra?
+Quais são os pontos problemáticos?
+principais objeções
+faturamento, segmento, nível de
+urgência, próximos passos,
+confiabilidade, qual é a probabilidade
+Para concluir, isso é tudo o que ele vai fazer.
+fazer. Então J faz o
+Para classificação, preciso gerar texto.
+Preciso gerar alguma percepção para
+inserir alguma mensagem, para alguns
+Que texto foi dito? Não. Então entre.
+aplicar a regra lógica de
+negócios. Ação, gatilho, chamada para
+O CRM atualiza automaticamente, faz
+de tudo. Ele precisa de um mestrado em Direito (LLM), aí ele vem.
+para a sugestão final de encerramento.
+Então ele liga para o LLM. Ele
+O custo é muito menor, a latência é
+muito melhor, a escala é muito maior e
+A qualidade é muito mais consistente e
+previsível. Então, o que é isso?
+O que eu quero trazer aqui para você? Não
+Retirei o LLM do processo, vou para
+Continue usando o OpenAI aqui ou em qualquer lugar.
+Outra modelo, Claude, tanto faz.
+Não vou usar nada aqui, não.
+Isso importa. Vou continuar usando aqui.
+Porque? Porque para isso eu preciso
+raciocínio. Preciso entender,
+Preciso seguir o plano, não tem jeito.
+outro. Eu também não vou postar o meu.
+Porque os números não batem. Agora,
+Nossa, em vez de treinamento, pessoal, eu
+Parece incrível. Em vez de ter
+capacidade total de treinamento, para
+Criar um modelo de classificação,
+Qualquer máquina de aprendizado de máquina faria isso.
+Mas por que eu faria isso? É isso?
+um custo extremamente baixo para
+que? E aqui eu quero que vocês pensem sobre o
+evolução pela qual a IA está passando.
+Olha só essa loucura, meu Deus! Isto
+a classificação torna o produto barato demais.
+para o LLM e é uma "ingressão". Sim, ambos.
+junto. Isto é para você que é um desenvolvedor, para
+Para você, sendo treinador, esse é um ótimo objetivo!
+. Para aqueles que possuem um negócio, entendam isso.
+Uma coisa é certa: você pode criar toda a parte de
+a conformidade da sua empresa com isto
+aqui. Análise de risco, análise
+crédito. Meu Deus, isso tem
+Bilhões de aplicativos, cara.
+Classificação de imagens,
+Classificação de documentos, perfil
+do cliente, nível de risco. Oh,
+Existem dezenas de aplicativos.
+aqui. Claro, eu vi um cara que fez um
+melhoria onde o JEV foi implementado para
+Recorrer ou não às ferramentas do
+LLM, se o LLM chamar a ferramenta ou
+Não. Cara, olha só essa loucura. Baratear
+o uso da própria IA para criar
+código. Então, cara, eu vejo um
+É uma complementaridade muito forte, sabe?
+Mas o que eu acho ótimo é que
+Isto é acessível. Isto é acessível.
+Ei, KV, mas apenas um
+técnico? Não, isto, meu amigo, se o
+A pessoa entende o conceito e pergunta.
+O próprio Claudio deveria fazer isso. Então,
+Não, não vejo dessa forma. E
+Aqui quero mostrar na prática para vocês.
+, VERDADEIRO? Vamos ver aqui, olhe, como
+Essa seria a entrada deles. Então, porque
+Por exemplo, o discurso do fechador, certo?
+Como seria aqui, veja? Com o quê?
+Os envios sofrem atrasos frequentes.
+propostas? Então, isto é um
+intervenção, certo? Então o
+resposta principal, ah, acontece três vezes
+vezes por semana. Quando o
+Envio, algumas oportunidades
+Eles se acalmam. Então o funcionário de vendas perguntou
+Isso, e o líder respondeu com esta outra coisa.
+Bom. Então, veja só, ele montou isso.
+estruturado desta forma, com perguntas pré-definidas.
+Então ele enviou duas perguntas, veja,
+quando a proposta é adiada e outra
+sobre tentativas. Excelente. E quanto a ele?
+Perguntamos ao Jeb? A liderança terminou
+A pergunta foi respondida?
+atual? Você consegue ver se as respostas são sim ou não? Sim ou
+Não? Qual é a probabilidade para cada pergunta?
+O que estava preparado agora é adequado, já estava.
+A pergunta foi respondida ou invalidada? Aqui
+Esta é uma escolha. Existem três
+opções. E qual é a resposta deles?
+Então ele me deu a resposta verdadeira e a
+Isso introduz a probabilidade. Então, isto eu
+Posso configurar isso. Ei, amigo, meu
+O limite aqui é superior a 0,80. É
+Verdadeiro. Acontece, não acontece. Entendeu?
+Você consegue entender? É muito complexo.
+Espero que não seja. Mas aí está.
+onde reside o grande valor da questão.
+E esse custo é absurdamente baixo?
+Essa latência? Essa latência é
+maravilhoso. Este era o 814.
+milissegundos, mas a média é
+Permanece em 500. Portanto, para um
+O aplicativo Sales Copilot é muito melhor.
+mais rápido. Você entende? OK? Agora
+Deixa eu trazer isso para a realidade, então...
+Você, só para que você entenda. Meu
+O custo atual é de 20 a 30 reais.
+Vou começar a correr esta manhã.
+Esta versão possui um único elemento de fechamento. Acreditar
+Vou baixar o preço para 5 reais, de 20.
+De 30 para 5. Essa é a minha projeção.
+Provavelmente farei outro vídeo para
+explicar a eles se eu consegui ou não. Resumo
+Meu amigo, é maravilhoso. Existe um
+Excelente aplicabilidade. Não substitui
+Na LLM, é muito mais rápido, é muito
+mais econômico e depende do seu caso
+usar. Agora eu só sei de uma coisa, se
+Se você quer abrir um negócio, precisa entrar em
+Acelere 360. Se você quiser entender mais
+sobre esse mecanismo, até usar
+nossa própria infraestrutura aqui,
+Clique no link que está no
+Descrição deste vídeo e aplicação
+Acelerar. Se você quiser saber mais, uh,
+Venha, venha participar do meu workshop.
+Exercício prático que ocorrerá neste sábado.
+Clique também no link aqui. E
+Vamos dar tudo de nós. Adeus a todos e até a próxima.
+próxima vez. E eu estou ficando louco.
+E é assim que as coisas são, droga.

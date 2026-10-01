@@ -1,0 +1,588 @@
+Nesse vídeo eu vou te mostrar como você
+pode construir a sua consultoria
+especializada em inteligência
+artificial, mesmo sem você ser um expert
+na área de inteligência artificial. É
+isso mesmo. Eu vou te ensinar a criar um
+modelo que seja grande, que seja
+escalável, que você fature acima de R$
+100.000 por mês se você aplicar a
+estratégia certa. Eu desenhei todo um
+modelo de negócio para que você consiga
+entender esse negócio do futuro, mais ou
+menos do futuro, né? Porque a gente já
+tá quase, tem grandes consultorias que
+já estão fazendo isso, mas você tem uma
+grande oportunidade de aproveitar toda
+essa onda relacionada à inteligência
+artificial para que você crie a sua
+consultoria especializada em
+inteligência artificial para você
+atender o mercado. Nada de agência de
+inteligência artificial, nada de
+software house para software house anos
+atrasado, deixa ela de lado, tá? ou
+implementa ela como se fosse um um
+suporte à consultoria especializada em
+IA, mas ela não pode ser o foco
+principal, porque a gente tem que
+aproveitar todo esse hype de a todo esse
+medo que o mercado tá para que você crie
+esse modelo e escale ele com
+faturamentos acima de R$ 100.000 por
+mês, porque esse é o objetivo. Bora,
+vamos começar. Tô compartilhando a minha
+tela aqui com vocês. Então aqui eu fiz
+um desenho completo, ó, de como você vai
+criar esse modelo de negócio. É, parece
+lindo, parece maravilhoso isso que eu tô
+falando, mas será que funciona mesmo?
+Claro que funciona, eu vou te explicar.
+Então, vamos lá. Então, imagina o
+seguinte: Eu acabei de montar a minha
+inteligência artificial. Vou vou pegar o
+nome de uma das minhas empresas aqui, a
+KCG Group, que é uma consultoria em
+tecnologia, tá? Kelvin, o que que é uma
+inteligência artificial? Bom, o modelo
+de consultoria no mercado de tecnologia
+e na parte de gestão de empresa e tudo
+mais, ele já é algo comum. Então,
+geralmente você tem um especialista e
+você contrata esse especialista num
+modelo de consultoria ou essa empresa
+especialista num modelo de consultoria e
+essa empresa ela vem e entra dentro do
+seu negócio e analisa o seu processo,
+analisa aquilo que aquele aquela parte
+do processo em que ela é especialista e
+te geralmente te retorna com
+apontamentos de melhoria do que você
+deve ou não fazer para que você possa
+escalar o teu negócio, possa resolver o
+teu problema. Então isso aí já é comum.
+E o que que eu estou sugerindo? Que você
+crie uma consultoria que seja
+artificial. O trabalho dessa consultoria
+vai ser fazer o seguinte, ela vai
+analisar todo o processo daquela empresa
+cliente, da empresa alvo, vai fazer o
+mapeamento desse processo e ela vai
+através depois, depois do mapeamento, na
+verdade, ela vai apontar onde estão os
+gaps que uma inteligência artificial
+consegue cobrir e ter ganhos,
+eficiências operacionais que sejam
+significativas e irrelevantes. Então a
+ideia é que você entregue um documento.
+Então a saída final dessa consultoria é
+um documento onde ele vai mostrar todos
+os apontamentos, todos o mapeamento do
+processo e os gargalos onde a aplicação
+de uma inteligência artificial vai
+trazer um grande resultado para aquela
+companhia, para aquela empresa. Então um
+resultado seja em ganho operacional ou
+diminuição de despesas. Então são essas
+duas linhas ali onde a gente pode
+estruturar ganhos. Então imagine que eu
+tenho a KCG Group, que é a minha
+consultoria
+especializada. Imagine que que a gente
+tem aqui
+a Zezinhos SA. Então, a Zezinhos SA vai
+ver um anúncio da KCG Group fornecendo
+consultoria especializada, vai entrar em
+contato, vai cair com um especialista,
+um cargo que a gente vai criar aqui
+dentro, que é um especialista em IA, né?
+Então, um executivo de contas, por
+exemplo, um vendedor, o executivo, a
+gente dá um nome para ele aqui, um
+executivo de Ya. Pronto, porque a gente
+tá, a gente tá trabalhando um novo
+modelo de mercado, então vamos usar todo
+tudo aquilo que a gente tem. de Arsenal.
+Vamos criar nomes e vamos aproveitar
+esse hype. Isso é muito importante.
+Vamos empacotar de um jeito diferente.
+Isso é muito importante no caso do
+marketing. Então o executivo de A vai
+fazer vai fazer o fechamento com o
+Zezinho, vai falar o seguinte: "Olha,
+deixa eu analisar o seu processo e
+mapear." Então, o primeiro entregável da
+nossa consultoria aqui para Zezinho SA
+vai ser o seguinte, ó. Zezinho, nós
+vamos fazer o Eco AI, então é o
+ecossistema consultivo de otimização com
+inteligência artificial. Olha que nome
+lindo, cara. Pode copiar, vai. Eu eu
+deixo vocês copiarem, não tem problema
+nenhum. Então, o que que vai ser esse
+ecossistema? Consultoria por
+consultoria, a gente tem o primeira
+fonte de receita que é muito boa, mas
+qual que é o ponto? Depois que eu
+entregar esse mapeamento de
+melhoria, melhoria com inteligência
+artificial, esse cliente ele vai querer
+fazer. Eu vou dar a opção para ele dele
+fazer comigo ou como com outra
+consultoria. Então, Zezinho tá aqui.
+Você pode melhorar seu processo aqui,
+aqui, aqui, aqui, aqui, aqui. Se você
+aplicar isso aqui, você vai ter X% de
+performance, você vai ter Y e parará,
+parará, parará. Ou eu já faço isso para
+você, porque eu já tenho um ecossistema
+de inteligência artificial. Então eu
+tenho lá já pronto automações e
+workflows com inteligência artificial
+usando N8N, make, openi, API, dashboards
+em sites automáticos. Então aqui a gente
+já tem toda uma estrutura de de BI
+montada para conectar com ele. Esse é um
+ecossistema, já tá pronto. A gente tem
+chatbots inteligentes e agentes
+inteligentes, internos e externos que já
+são validados e é só plugar nesse e
+configurar nesse
+cliente. E as tools, que que é as tools?
+Eu já tenho eh modelos de gestão no
+Clickup, no Notion, CRM
+configurado, sistema de gestão
+financeira, Monday, conta azul, que
+seja, qualquer um desses sistemas
+configurados, onde a gente vai conseguir
+fazer todo um processo de implementar
+essas ferramentas nesse cliente junto
+com com o a inteligência artificial, a
+gente vai trazer também a melhoria
+operacional, isso é muito importante.
+que geralmente você vai ter uma melhoria
+operacional com ferramentas de gestão e
+implementando ritos de gestão. Então,
+olha que negócio legal. A gente tá
+casando a consultoria tradicional com a
+inteligência artificial, com a
+implementação de tecnologia. Então vamos
+tratar não só de inteligência
+artificial, mas de tecnologia como um
+todo para entregar um full service para
+aquele cliente, para aquele para aquela
+pessoa. Então ele tá entrando num
+shopping, a gente tá dando um mapa para
+ele do que ele tem que fazer e além
+disso, ele pode comprar já no nosso
+shopping ou ele pode comprar em outros
+lugares, não tem problema nenhum, sacou?
+Então esse é o Eco AI, é ecossistema
+consultivo de otimização com
+inteligência artificial. Olha que da
+hora. Tô tô juntando a ideia daquele
+vídeo que eu fiz para vocês de
+ecossistema de inteligências
+artificiais. ecossistemas que de
+soluções que faz muito sentido. Se você
+não assistiu, assista, tá aqui no meu
+canal, junto com a ideia de consultoria
+de A. Então, estamos aproveitando esses
+dois mundos e criando aqui um
+inteligência
+artificial. Ah, Kel, você tá sonhando
+demais? Não, não tô. Isso aqui é um
+plano real. É possível você executar
+essa etapa por etapa do jeito que tá
+aqui. Não tem segredo. Inclusive, eu vou
+abrir já já para você, ó, como que você
+monetiza esse processo. Você vai
+entender as formas de você poder
+monetizar todo toda essa estrutura aqui
+e e os entregáveis que você pode ter e
+como você pode precificar esses
+entregáveis. Já já a gente chega lá.
+Putz, Kelvin, mas é muito complexo.
+Fiquei interessado, mas não consigo
+implementar. Eu vou te oferecer uma
+opção para eu te ajudar a implementar
+isso junto com Acelera 360, que a minha
+escola para era para deves
+empreendedores, mas não é não é mais.
+Agora é para empreendedores
+bootstrapper, é para empreendedores, é
+para empreendedores que querem tirar do
+papel sem com sem aporte, quer tirar,
+quer tirar ideias do papel com o próprio
+recurso do bolso, saca? Eu montei uma
+escola para ajudar você a empreender,
+você a empreender com o que você tem,
+sem a necessidade de você ir atrás de
+investimento, capital, esse tipo de
+coisa. lá eu vou te ajudar a tirar as
+ideias do papel, mas depois eu chego lá.
+Vamos focar aqui na
+consultoria. Legal. Então, quando esse
+cara, quando o Zezinho entra, entra para
+como cliente, qual que é o primeiro, o
+primeiro, o primeiro a primeira etapa do
+processo? A gente vai mapear com
+precisão todo o processo dele. Então, a
+gente vai usar o fluxo de BPMN.
+Esse daqui depois eu a gente entra nesse
+ponto aqui. A gente vai usar o fluxo de
+mapeamento de processo
+BPMN para notações BPMs aqui pra gente
+poder desenhar o processo desse cara,
+como qualquer outra consultoria de
+processos. Vamos desenhar, pô, o
+processo começa aqui, depois vai para
+tal lugar, depois faz isso, faz isso,
+faz isso, faz isso, desenha toda a
+árvore de processo. Legal. desenhouv de
+processo. Qual que é o entregável aqui,
+ó, do mapeamento com precisão? Todo o
+processo mapeado utilizando notação BPM.
+Avançou, a gente vai desenhar um
+ecossistema. Então, qual que vai ser o
+entregável aqui? A gente vai fazer um
+blueprint visual mais um plano de
+execução dividido em etapas. Que que
+significa isso? Por exemplo, para essa
+etapa do processo, a gente vai entregar
+o seguinte: a gente pode implementar o
+chatbot mais o ACR, mais o Notion para
+fazer a gestão desta etapa do processo
+para recebimento e análise de
+documentação desse desse novo empregado.
+E com isso vai trazer uma redução de 5
+horas, são menos 5 horas por novo
+colaborador. O valor dessa hora aqui é
+de aproximadamente R$ 150.
+Então aqui a economia que você vai ter
+por colaborador novo vai ser 5 x 150.
+Isso aqui é um exemplo, tá gente? Então
+imagine que o custo operacional aqui é 5
+horas x R$
+150. Então o custo que de de economia
+são de R$
+750 de custo operacional, fora o
+tempo. Só que para implementar isso vai
+custar, por exemplo, R$ 20.000.
+Então aqui o cálculo é fácil. Se vai
+custar
+20.000 dividido por
+750, significa que isso aqui vai se
+pagar em 26 meses. É um investimento que
+vai se pagar em 26 meses. Esse é o tipo
+de relatório que a gente vai fornecer.
+Se você implementar essa IA nesse ponto,
+não faz sentido. Por quê? Porque o
+payback é de 26 meses, o percentual de
+redução operacional é de tanto. Então
+não faz sentido implementar aqui. Faz
+mais sentido você implementar aqui
+embaixo, porque aqui embaixo aqui aqui
+em cima ela se torna inviável, mas a
+implementação na parte nessa parte do
+processo, por exemplo, já é uma
+implementação que o payback vai ser em 4
+meses, por mais que o custo de
+implantação de de implementação dessa
+ferramenta seja mais alto, seja de R$
+40, R$ 50.000, R$ 1.000. Em 4 meses, ela
+se paga porque ela traz um ganho
+operacional de tanto. Esse é o retorno.
+Olha que legal, você tá falando pra
+diretoria, para aquela empresa que te
+contratou, o caminho das pedras para ela
+implementar a inteligência artificial,
+porque ela tá com medo. Ela não tem o
+mesmo medo que a operação. Ela
+geralmente quem tá ali na parte tática
+estratégica da empresa não tá com medo
+de ser mandado embora ou substituído
+pela IA. Ela tá com medo do concorrente
+implementar inteligência artificial e
+ela não e ela perder a carteira de
+clientes dela. Então aqui o que você vai
+fazer? Você como especialista em
+inteligência artificial, você vai fazer
+uma consultoria e vai falar aonde que
+aplica e aonde que não aplica, porque o
+mundo tá tá louco. Cada dia que passa
+existe uma ferramenta nova, o processo
+de uma empresa é complexo. Então o que
+ferramenta implementar? Qual marca? Qual
+tipo? Vamos fazer e Taylor Made, vamos
+contratar um pronto. Qual que é o melhor
+caminho? Consultoria serve para isso. E
+se você não conhece esse mercado, esse é
+um mercado muito, muito, muito
+lucrativo, tá? Só para você
+saber. Então aqui entra o nosso primeiro
+modelo de precificação. Deixa eu até
+pegar aqui, ó, esse bloco específico
+aqui. Como que você cobra isso? Você faz
+a cobrança por hora de consultoria.
+Então aqui, ó, por hora de consultoria,
+ó. Significa que para esse primeiro
+bloco você vai cobrar. Imagine que você
+vai estimou aqui que você a média para
+fazer esse processo são de 160 horas,
+que é um mês trabalhado. 160 horas a um
+valor de R$
+180 a
+hora. Nesse nessa consultoria aqui,
+quanto que você
+embossa?
+160 x
+180.800. Kelvin, esse valor é
+impraticável? Não é totalmente
+praticável. É um valor super dentro de
+mercado, inclusive tá com valor até
+abaixo, tá? Então tá aqui, ó. O valor
+dessa consultoria aqui é de 28.800. E
+aqui você facilita o pagamento pro cara.
+Você facilita aqui em seis vezes, saca?
+faz um esquema bem bolado aqui pro cara
+pagar isso aqui em suaves prestações,
+mas ele tem que pagar esse valor aqui ou
+próximo desse valor aqui ou mais desse
+valor aqui. Aí depende do teu nível de
+de venda, de qualificação, de
+estruturação e tudo mais. Então, olha
+que legal, já só para eu bater 100.000
+de faturamento, que que eu preciso aqui,
+ó? Que que eu vou precisar? Dividido por
+28.8 de média, eu preciso de quatro
+clientes, três clientes e meio, saca?
+Por mês não é muita coisa. Só que até
+aqui a gente tá levantando caixa. A
+gente tá levantando caixa. Isso aqui é
+bom. Só que assim é insustentável, né? O
+decorrer do tempo, isso aqui é
+insustentável, porque um negócio bom,
+ele tem que ter recorrência, margem e
+escala. Esse daqui não tem recorrência,
+tem margem. Pode ter até um, não é
+escala, tem escalonamento, que é
+diferente, né? Porque você vai escalar
+com volume de
+gente. Legal. Mas você tem outros
+modelos, porque você entregou o laudo.
+Entregou o laudo. Aí você vai falar para
+ele o seguinte: "Olha, você pode
+implementar essas ferramentas comigo ou
+você pode implementar com terceiro.
+Comigo eu não vou te cobrar o valor do
+desenvolvimento da ferramenta. Vou te
+cobrar um setup do
+ecossistema mais uma
+mensalidade por volumetria de
+processo ou por usuário, o que seja.
+Aqui são vários modelos de precificação.
+Inclusive isso aqui é o que é o que
+reina, tá? Se você precificar errado, já
+era. Volometria de processo eh eh
+quantidade de usuário e por aí vai.
+Então aqui você gera sua segunda fonte
+de renda, que é uma um uma recorrência.
+Então imagina o seguinte, eu vou começar
+implementando chatbot, depois eu começo
+implementando tools. Que por que que
+esses dois estão em verde? Porque assim,
+um ecossistema não é fácil você criar e
+não é rápido. Então o que que eu faria?
+Eu eu focaria em desenvolver esses dois
+blocos principais aqui. Tools é trazer
+ali um processo de click pronto, notion
+pronto, tudo estruturado e implementar
+ele mesmo e trazer ali um shotbot que
+seja de mercado também, implementar ele
+mesmo e o resto você vem criando
+conforme o tempo e depois talvez criando
+até o seu mesmo aqui, o seu próprio
+chatbot, mas no começo não precisa, não
+faz sentido nenhum. Vamos focar em
+ganhar dinheiro, vamos focar em fazer
+você tirar sua ideia do papel, porque
+esse é o principal, tá? Aí, esse aqui é
+o segundo modelo de de precificação, a
+segunda linha de receita. Aí, qual que é
+a terceira linha de receita aqui, ó? A
+gente vai oferecer além da implantação e
+da instalação aqui, que é o plus, a
+gente vai oferecer um acompanhamento e
+otimização, que é o seguinte: olha, além
+de implantar, eu quero fazer um
+acompanhamento de 6 meses e uma
+otimização intensiva em seis meses na
+sua companhia. E para isso eu vou te
+cobrar um mínimo de
+X.000. É para todos os tamanhos de
+cliente? Não, não é. Mas se você acertar
+que o PME é correto, o pequeno e médio
+porte correto, você vai conseguir sim
+chegar até esse último nível de receita.
+Qual que é a graça do negócio? Você pode
+vender esses três módulos se eh eh
+juntos, né, casados, ou você pode vender
+só o seu só o seu só o seu modelo de só
+o seu ecossistema. Você pode vender,
+vender só o acompanhamento aqui e
+otimização ou você pode vender só o
+mapeamento com precisão. Ah, perdão,
+esse último que você não pode vender sem
+esse. Então você pode vender só dois
+modelos, ou o SAS ou o ecossistema, ou
+esse módulo de mapeamento de processo. E
+aí, desse jeito, você vai conseguir
+criar uma escala. Você não vai criar,
+não é um negocinho qualquer. A gente não
+tá falando aqui de uma fábrica de
+software que tá se matando para fechar
+contratos de 16.000, 18.000. 1 de
+Landing Page, não, a gente tá se
+posicionando aqui como algo diferente. A
+gente embalou completamente diferente, a
+proposta diferente, os entregáveis são
+diferentes e tem muito valor de mercado
+porque existe a situação atual que a
+gente tá vivendo. Então assim, é
+aproveitar a onda de inteligência
+artificial vertical, é aproveitar a onda
+que tá todo mundo olhando só para
+desenvolver pequenos chatbotes e
+pequenos agentes, essas brincadeirinhas
+aí, isso aí é coisa de criança pra gente
+criar algo que seja sério. Isso aqui é
+completamente diferente de você criar um
+microSAS, de você criar uma software
+house, de você criar, por
+exemplo, um SAS e qualquer outra coisa.
+A gente tá falando o SAS, não, o SAS é é
+bem parecido. É você criar uma estrutura
+que seja robusta, uma estrutura que você
+consegue, mesmo pós essa onda atual,
+manter isso aqui sem problema nenhum.
+Não é um negócio que vai se acabar em um
+ano. O restante que estão vendendo para
+você é negócio passageiro de um ano.
+Estourando aí dois. É negócio de bolha.
+Esse aqui não. Esse aqui a gente vai
+usar da bolha para acelerar, mas ele se
+sustenta. Ele se sustenta ao decorrer do
+tempo. E tem um outro ponto muito
+importante é que o mercado, a gente
+parando para analisar o mercado, esse
+movimento tá acontecendo. Você tem BRQ,
+você tem Accenter, você tem grandes
+consultorias de software já começando a
+estruturar esse modelo de consultoria
+aqui. Então assim, é um modelo que já tá
+validado, você só tem que aplicar, você
+só tem que saber como que você desenha
+sua máquina comercial para você chegar
+no Zezinho, pro Zezinho cair até você e
+você fazer a venda para ele. E depois
+você tem que estruturar como você faz
+esses entregáveis aqui, garante esses
+entregáveis, saca? Ah, mas eu não tenho
+ecossistema. Não tem problema. No começo
+você pode usar ferramentas de terceiros,
+porque você já tá ganhando aqui, ó, na
+no no planejamento, né, na execução da
+consultoria estratégica. se você já tá
+monetizando aqui. E aí, conforme você
+for monetizando, você vai fazendo o
+processo de escala consciente, de
+crescimento consciente, vai contratando
+gente, vai estruturando a sua forma sua
+operação para ela ser uma operação
+resiliente e que cresça de acordo com o
+seu crescimento financeiro, entendeu?
+Isso sim é pensar com estratégia, isso
+sim é pensar com visão. Isso aqui é
+pensar como um empreendedor que
+aproveita boas oportunidades. Se você
+quer empreender e quer aprender como
+executar isso daqui, eu posso te ajudar
+lá dentro da Celera 360, que era a
+escola do dev empreendedor, mas agora
+virou a escola de negócios do futuro.
+Então, se você quer montar um negócio do
+futuro, que que é o negócio do futuro,
+Kelvin? É um negócio que traz o modelo
+tradicional, mas a tecnologia para
+acelerar este processo. Eu posso te
+ajudar. Eu posso te ajudar a tirar sua
+ideia do papel, a validar ela, a
+executar ela, a montar um plano de
+negócio, a fazer ela crescer, a
+implementar gestão, cultura, processo,
+modelo de venda, máquina de venda e por
+aí vai. E inclusive já temos vários
+cases de sucesso e a gente só tem um mês
+e meio de operacionalização da nossa
+escola do do negócio do futuro da da
+Acelera 360. Se você quiser saber mais
+sobre a proposta dessa escola, o link
+dela tá aqui na bio, tá aqui na
+descrição desse vídeo. Clica lá e ass e
+dá uma lida, entende? Um pouco meu
+processo, me acha lá no Instagram lá e
+me chama para conversar. Kelvin, fala
+assim, ó, Kelvin, eu quero entender um
+pouco mais sobre Acelera 360 e a
+proposta dela que vai ser um prazer te
+explicar e vai ser um prazer maior ainda
+ter você lá dentro como empreendedor pra
+gente fazer esse acompanhamento através
+de aulas ao vivo e acompanhamento pesado
+mesmo. Você vai ter acesso a ferramentas
+assim incríveis. A gente vai te ajudar
+na precificação. Ih, é muita coisa. É
+muita coisa. Entra lá para você saber.
+Então assim, se eu hoje fosse montar um
+negócio, eu iria nichar completamente
+nisso aqui, que óv, por que que você não
+faz? Quem falou que eu não tô fazendo a
+CACG tem um braço de especialização em
+consultoria de inteligência artificial e
+inclusive a gente trouxe segurança da
+informação com inteligência artificial,
+que é um outro braço também bem
+importante, mas a diferença é que você
+tem que ter algumas certificações para
+isso e a gente buscou ter essas
+certificações, ela é um pouco mais
+complicada. O que eu tô apresentando
+para vocês aqui é um modelo totalmente
+que o empreendedor Bootstrap consegue
+fazer. Deixa eu repetir para você de
+novo o que que é o empreendedor
+Bootstrap. É aquele empreendedor que
+tira a ideia dele do papel sem ir atrás
+de ventory capital. Ele faz com os
+próprios recursos dele, com os próprios
+recursos financeiros que ele tem ou até
+mesmo sem recurso financeiro, ele tira a
+ideia dele do papel. Então esse é o
+empreendedor Bootstrap. Então é isso,
+galera. Eu, se eu fosse vocês, eu olhava
+muito com muito carinho esse esse esse
+modelo de consultoria especializada em
+IA. Eu pesquisava sobre o mercado, eu
+dava uma olhadinha sobre tava, sabe, tem
+uma visão de mercado geral para ver o
+que que, sabe, fazer o follow the money,
+que que tá, que que todo mundo tá
+fazendo, que que eles estão fazendo,
+para onde eles estão indo, por que que
+eles estão indo para entender e aplicar
+isso daqui. E aí você consegue criar um
+negócio bem interessante. Fechou? É
+isso, galera. Foi um prazer estar aqui
+com vocês mais uma vez. E falou seus
+cachorros.

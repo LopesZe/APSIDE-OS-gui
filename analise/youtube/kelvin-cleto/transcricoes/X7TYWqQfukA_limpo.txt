@@ -1,0 +1,598 @@
+Você não tá construindo um botequinho de
+esquina, um mercadinho de esquina para
+trabalhar desse jeito. Se você quiser
+ficar rico com inteligência artificial,
+se você quiser ganhar muito dinheiro,
+você tem que tirar essa mentalidade de
+pobre. É, você tá querendo lançar um
+foguete para fora da terra, porque mexer
+com IA, IA vertical, infraestrutura de
+I, se você não é aqueles caras de
+automaçãozinha, porque eu acho que não é
+mais, você tá no meu vídeo aqui, você
+não é o cara da automaçãozinha do N8N.
+Você já tá pensando em infraestruturas
+de inteligência artificial e a vertical
+e entregar resultado pro teu cliente.
+Então isso aí é um foguete. E você quer
+lançar o foguete para fora da terra,
+você tem que gastar combustível. você
+tem que investir. Então assim, não tem
+como você pensar em crescer
+economizando. Esse vídeo aqui é sobre
+isso. Nesse vídeo eu vou te ensinar a
+sair de um cliente para 10. Primeiro do
+zero pro. Do zero cliente pro cliente e
+do um cliente para 10 clientes. E como
+você cresce isso, como você expande?
+Isso aqui não é sobre N8N, isso aqui não
+é sobre Long Chain, Crew AI, Google ADK,
+não é sobre ferramenta, nem framework,
+nem código, é sobre modelo de negócio.
+Então tudo que eu vou explicar nesse
+vídeo aqui é como você realmente faz
+dinheiro, mas sem pensar nessa parte
+técnica. A parte técnica você resolve.
+Eu garanto pr você que se você fechar um
+cliente, dois clientes, três clientes,
+você vai resolver a parte técnica,
+porque você vai ter dinheiro para
+contratar um desenvolvedor. Não vou
+ficar falando pr vocês, apresentando
+como, ah, como criar um agente no chat
+EPT, integrar isso no NTN, colocar isso
+num flow eyes da vida. Não, não, isso aí
+é ferramenta, isso aí é a parte braçal
+do rolê. Aqui a gente vai pensar sobre
+como você tira sua ideia do papel, como
+você emite a sua primeira nota fiscal,
+como você vai pros seus 10.000 de
+faturamento, depois 50.000 1000, depois
+100.000 por mês, depois 200, 300, 400,
+500, como você levanta investimento, por
+aí vai. É sobre isso, business.
+Entenderam? Pegaram? Agora se você
+quiser ficar fazendo eh automaçãozinha,
+contratinho de 1000, 2.000, ah, quero só
+fazer 5.000 por mês, já sai do meu
+vídeo. Esse vídeo não é para você.
+Beleza? Bora começar. Ah, deixa eu me
+apresentar para você que não me conhece.
+Meu nome é Kelvin. Eu sou um
+programador, ex-programador
+empreendedor. Eu fundei a General Cleans
+em 2015, uma das principais insurtecs do
+Brasil. Fiz a venda de 50.1% dessa minha
+insurtec em 2022 pro grupo IS. Fiz o
+resto da vendi o resto agora em 2025 e
+montei agora acelera 360. Então se você
+quer empreender com inteligência
+artificial, acelera para você. Aí você
+acessa o link que tá aqui na descrição
+desse vídeo. Mas bora começar. Vamos lá,
+então. Deixa eu compartilhar minha tela
+com vocês. Então, nesse vídeo aqui,
+cara, parece besteira, mas não é. Essa
+questão de mentalidade pobre é o que faz
+a maioria dos empresários andar de lado.
+Mentalidade de quebrado, de falido, de
+Se você tiver essa mentalidade,
+ah, tô começando pequeno, eu quero
+fechar um cliente por mês, aí eu fecho
+aquele cliente, aí eu quero entregar
+aquele cliente,
+se fodeu, já perdeu o jogo. Não é assim
+que você cria um negócio grande. E eu
+vou te explicar. Vamos lá,
+então, Kelvin, me explica aí. E quero
+entender já como transformar um cliente
+para 10. Calma, primeiro você tem que
+entender o problema. Então vamos pegar
+aqui, ó. Imagina aqui. Isso aqui
+acontece muito com freelancer, muita
+agência,
+consultorias,
+maioria dos empresários, isso aqui é o
+jogo do empresário que anda de lado ou o
+cara que quer empreender e quer andar de
+lado. Por quê? Porque ele faz o que? ele
+faz do o que ele aprendeu na vida
+pessoal dele na no profissional, na
+empresa. Então vamos lá. O cara vai lá
+fala assim: "Pô, vou montar uma
+consultoria de A, uma agência de A, uma
+infraestrutura de A, alguma coisa do
+tipo." E aí ele começa a prospectar os
+primeiros clientes. Vai atrás de um, de
+um cliente, pá, pá, pá, vai no LinkedIn,
+e-mail, liga, telefone, Instagram, pá,
+pá, pá, conseguiu o primeiro cliente.
+Contrato de R$ 10.000. Que que ele faz?
+Deixa eu entregar esse cliente primeiro
+agora.
+Depois que eu entregar, eu pego o
+próximo. E depois que ele ele pega o
+cliente, gasta o dinheiro para pagar,
+para se pagar, entrega e aí depois ele
+vai pro próximo. Aí hora que ele for
+próximo, ele já não tem mais dinheiro,
+ele não consegue ter rotatividade, ele
+não tem previsibilidade, ele não tem
+reinvestimento, ele não trabalha
+alavancado,
+não vai pra frente. Então assim, essa
+aqui é a mentalidade de pobre, ó. Se
+você tá aqui nesse vídeo e é o cara que,
+ah, eu só quero fazer 20.000 por mês, já
+sai. Esse vídeo não é para você. Esse
+vídeo não é para quem pensa pequeno.
+Aqui é para quem tá lançando foguete,
+velho. Aqui é para quem quer criar
+negócio de fazer 100.000, 200.000,
+300.000 por mês, entendeu? O cara quer
+bater por ano ali, ó. Primeiro a meta
+começar a empreender, na primeira nota
+fiscal, depois 50.000 de faturamento,
+depois 100.000 1000 por de faturamento
+por mês, depois 200, 300, 400, 500, 1
+milhão e aí o céu é o limite.
+Então se você tem essa mentalidade,
+não é assim. O jogo não é esse. Esse
+aqui é o jogo errado. Esse aqui é o jogo
+errado. E eu vou mostrar alguns cases de
+aluno para vocês entenderem. Então vamos
+lá. Se você quer realmente fazer
+dinheiro com Iá, você tem que entender
+que você vai ter que deletar, dar um
+delete nessa mentalidade escassez, nessa
+mentalidade de pobre que favelado, vai
+te deixar travado. E não quer dizer que
+é pobre de dinheiro, é pobre de
+mentalidade mesmo. Aqui, ó, a cabeça tá
+travada. E você vai ter que começar o
+jogo certo. Você vai ter que trabalhar
+com alavancagem, reinvestimento e ter
+previsibilidade em vendas. Kelvin, que
+que é a alavancagem? A alavancagem é o
+seguinte, imagina assim, ó. Eu tenho
+minha casa aqui. Tenho minha casa e eu
+quero fazer um negócio. Eu não tenho
+dinheiro para fazer. Eu vou fazer um
+investimento que eu não tenho dinheiro.
+Eu pego emprestado esse dinheiro com o
+banco. Eu vou deixar minha casa de
+garantia. Aí eu vou pegar aquele
+dinheiro porque eu vou aplicar aqui,
+vamos supor, 1 milhão. Eu vou fazer 1
+milhão vira 10. Eu vou pagar o banco,
+vai me sobrar nove, oito. O juro. Isso é
+alavancagem, entendeu? Alavancagem
+empresarial.
+Eu vou, olha aqui, vou dar um exemplo de
+alavancagem aqui que eu ensino meus
+alunos. Eu quero trabalhar com I,
+mas em vez do meu aluno eu falar para
+ele fazer, eu falo para ele fazer, não,
+eu falo para ele vender, vai vender, vai
+prospectar e vai conseguir o primeiro
+cliente.
+Porque a hora que ele consegue esse
+primeiro cliente, vamos supor, fechou lá
+10.000, Viu?
+Ele contrata um cara que vai fazer por
+cinco,
+pega os outros cinco que sobrou e
+reinveste em tráfego pago, em canais de
+aquisição alavancado. Você troca
+dinheiro por cliente, por acesso, por
+visualização, por qualquer coisa que vai
+te trazer mais cliente e ele vai trazer
+dois, que vai trazer três, vai trazer
+quatro. Então, o caminho que todo mundo
+segue é esse aqui, ó. Eu quero trabalhar
+com deixa eu fazer primeiro. Eu tenho
+que primeiro fazer para depois eu ter o
+meu CNPJ perfeito para depois eu fazer
+não sei o que lá. Aí passou 2 anos, não
+conseguiu nem sair da CLT ainda, não
+conseguiu nem fazer a agência dele
+crescer. Tá fazendo a agência faturar
+20, 30.000 por mês. Esquece. Trabalhar
+alavancada é diferente. Isso. Isso.
+Existe alavancagem patrimonial,
+alavancagem financeira, alavancagem
+empresarial. Os grandes jogam esse jogo
+aqui. Isso aqui é jogo de gente grande e
+a gente quer ser grande. Então a gente
+tem que pensar como grande e ver como
+eles fazem dinheiro e fazer igual.
+Reinvestimento. Sem reinvestir dinheiro,
+sem você investir e sem reinvestir não
+volta. É igual entrar no acelera,
+vai entrar, vai comprar tempo, vai
+acelerar no tempo, vai comprar
+networking, porque vai acelerar com uma
+rede de mais de 150 pessoas que também
+tá empreendendo, já tá fazendo muito
+dinheiro, vai comprar o que mais? A
+minha expertise de ter acesso ao Kelvin,
+de ter acesso à minha visão e
+principalmente é o seu advisor te
+ajudar. Então é isso aqui é investir,
+entendeu? é colocar dinheiro de tráfego
+pago, não é gastar, é investir em trazer
+mais clientes, é comprar, entrar num
+grupo, numa comunidade, num evento, é
+investir para voltar. Esse é o
+pensamento do crescimento. E ter
+previsibilidade em vendas, tem que
+entender qual que é o funil de
+aquisição. Então, tem que estudar de
+vendas, tem que ir atrás, tem que tentar
+prospectar, tem que tentar vender para
+ter fluxo de vendas, fluxo de cliente e
+principalmente atender um mercado que
+tem a demanda, porque todo mês tem que
+vender, entendeu? Todo mês tem é
+construção de carteira. Tá bom, Kelvin.
+Então, beleza. Já entendi o jogo errado.
+Mostra o jogo certo. Eu vou trazer o
+case de um aluno meu que entrou agora.
+Cara, ele é bem legal porque eu não vou
+falar o nicho dele porque eu não quero
+que vocês copiem esse cara aqui. O nicho
+dele é muito bom, muito bom, muito,
+muito bom, muito bom, incrível. E ele,
+olha, olha como que ele começou pequeno.
+Ele tá tentando sair da CLT. Ele quer
+fazer de 15 a 20.000 por mês, ó, e sair
+da CLT esse ano. Vai fazer. É, é, ele é
+deve, né? já fechou o primeiro cliente
+dele. 6K de implantação mais 1700 de
+recorrência. O que que significa isso
+aqui? Isso aqui significa o seguinte, ó.
+Ele já tem a infraestrutura de
+crescimento dele. Por mais que seja
+pequena, ele já tem a infraestrutura de
+crescimento dele com a Kelvin, o que que
+é? Tô perdido, Kelvin. O que que é uma
+infraestrutura de crescimento com a? Vou
+explicar de forma rápida aqui para você,
+mas se você não sabe, você vai clicar,
+ó, na lateral aqui do YouTube tem meus
+vídeos, meu canal. Entra lá e entenda,
+assista lá como eu vou ficar rico em A
+em 2025. você vai entender o que que é
+uma infraestrutura de crescimento. É um
+conceito. É um conceito. Em vez de
+vender chatbot, em vez de vender
+ferramenta, em vez de vender esse monte
+de coisa, em vez de vender agente, isso
+aqui, isso aqui é ferramenta, isso aqui
+não resolve o problema. Eu falo para
+vender uma infraestrutura de crescimento
+com IA. O que que é uma infraestrutura
+de crescimento com IA? São inteligências
+artificiais, chatbot, agente, automações
+e um monte de coisa.
+Mais
+sistemas tão de mercado, por exemplo,
+para fazer a parte do do do processo de
+vendas, um RP de mercado. Então, se é um
+RP para clínica, por exemplo, um figle
+da vida integrado, eh, sistema de
+gestão, por exemplo, um click, um
+Notion. Então, o processo desenhado
+dentro desses sistemas, as IA integradas
+com esses sistemas, então tem que ter
+processos, processos mapeados para
+ajudar o cliente, no caso, a pessoa que
+está comprando o seu sistema, a sua
+infraestrutura, a ter resultados
+extraordinários.
+Resultados extraordinários. Que que é
+resultado para empresário? Aumento de
+faturamento,
+aumento de margem, mais margem, mais
+dinheiro sobrando no bolso dele, certo?
+Consecutivamente, escala escalabilidade,
+tornar um negócio que é tradicional
+escalável, que ele cresça em faturamento
+e não cresça no volume de pessoas de
+forma proporcional.
+Se você fizer o seu cliente do seu nicho
+ter isso aqui, você consegue, em vez de
+cobrar uma um chatbotzinho, R$ 200, em
+uma automaçãozinha,
+vamos supor R$ 3.000, em vez de você
+cobrar esses tickets, você cobra 20.000,
+30.000, 40.000, 50.000 e por aí vai,
+entenderam? Porque você trabalha em cima
+do resultado e não da ferramenta. É isso
+que eu vou ensinar no dia 4 do Tex no
+meu workshop, como transformar seu
+serviço em sistemas de A que geram R$
+100.000 por mês. Vou mostrar a minha. A
+minha se chama Growth AI System, que é
+uma estrutura de crescimento voltada
+para para vendas, né? Uma máquina de
+vendas completa desde o da aquisição até
+a venda, até o processo de venda. E você
+vai poder entender como você pode fazer
+a sua, entendendo como você achar seu
+nicho, como você criar a oferta, como
+que você vai atrás do cliente, como você
+prospecta. Eu vou mostrar tudo para que
+você realmente consiga fazer. Então
+vamos lá, vamos pegar aqui, vamos voltar
+no meu aluno. Agora que você entendeu o
+que que é IA, ele tem um nicho
+específico, um nicho muito bom. Esse
+nicho tem muita demanda e é um nicho
+grande. Que que é um nicho grande? Tem
+mais de 80.000 empresas. Mais de 80.000
+empresas.
+nesse nicho dele. Então aqui é o t, o
+tamanho do mercado. São mais de 80.000
+empresas que ele pode vender essa
+plataforma dele, essa solução.
+E ele foi lá e conseguiu o primeiro
+cliente, cara. Conseguiu o primeiro
+cliente 6.000 de implantação mais ã 1700
+por mês vai totalizar ali no ano 26.400
+por cliente. É isso aqui que é esse
+valor que ele consegue gerar por
+cliente. E qual que é o pensamento
+correto?
+pensamento correto é o seguinte, vamos
+entender qual que é a previsibilidade de
+vendas. Então, para conseguir este
+cliente, ele fez 19 prospecções.
+Então, a cada 19
+clientes, possíveis clientes, que
+daquele nicho, daquele perfil específico
+dele, ele tem um fechamento e então
+significa que ele tem uma taxa de
+conversão de 5%.
+Qual que é o pensamento aqui, cara?
+Se eu quero faturar 1 milhão,
+eu não, eu tenho que ir atrás de 40
+clientes. Por quê? Porque a cada cliente
+eu fecho a 26.000. 26.4 4 x 40 dá 1
+milhão de faturamento.
+E para ele fazer 40 fechamentos a essa
+taxa de conversão de 5%, ele tem que
+fazer 760
+prospecções.
+Conseguiu entender a lei de raciocínio
+nesse mercado dele de 760 prospecções,
+olha o tamanho do mercado que
+insignificante para ele ser 40. Então
+assim, ele tem um mercado vasto para ele
+trabalhar, vasto. Então ele consegue ter
+previsibilidade nas vendas porque ele
+tem já os dados e teve o primeiro
+cliente, teve a máquina de vendas. Qual
+que é o grande da questão? Esse primeiro
+cliente, ele conseguiu prospectando, ele
+conseguiu ligando, trocando o tempo
+dele, trocando o tempo dele para fechar
+o primeiro cliente. Agora que fechou, o
+que que a gente vai fazer? A gente vai
+primeiro entender quais são os canais de
+alavancagem que ele tem, como que a
+gente acelera, como ele trabalha
+alavancado. Ele vai entregar este
+cliente e vai usar esse dinheiro de
+implantação, vai reinvestir 50% dele num
+canal de alavancagem, um canal que ele
+troca dinheiro por visualização, por
+venda. Conseguiram entender? Por quê?
+Porque a gente tá com a meta de fazer 40
+fechamentos e 760 prospecções. Gente,
+isso daqui, isso aqui faz parte do
+planejamento estratégico da imprensa.
+Então, ele não tá olhando, ele poderia
+olhar para esse putz, eu quero fazer só
+esses 26.500 por mês. Na verdade, ele
+tá, ele tava olhando em fazer de 15 a
+20.000 por mês porque ele quer sair da
+CLT. maravilhoso. Esse é o step
+one, é o passo um. A gente vai ajudar
+ele a fazer isso. Meu foco é ajudar ele
+a já foi, né, para emitir a primeira
+nota fiscal. Já emitindo. Agora vamos
+pro segundo faco. Sai, fazer ele sair da
+CLT. E depois, qual que é o terceiro?
+Fazer ele bater 1 milhão. 1 milhão ano.
+São R$ 83.000 por mês. Não é muita coisa
+não. R$ 83.000 por mês não é muita
+coisa.
+Legal. Então como que a gente vai fazer
+isso? 40 fechamentos, 760 prospecções
+para que ele bata 1 milhão por cliente
+no ano. Show. Quais são os canais de
+alavancagem que ele tem? meta, canal que
+ele coloca dinheiro, coloca R$ 100 desse
+lado e ele entrega tantas visualizações.
+Google Ads, grupos de mentoria, grupos
+de network, onde já tem aquele
+determinado nicho dele lá dentro.
+Vamos criar toda uma estratégia. Por
+exemplo, aqui, aqui é high expensive,
+aqui é alto investimento, alta despesa.
+Então, cara, aqui ele gasta mais,
+aqui em cima ele gasta mais ou menos
+dinheiro, né? E aí continua tendo um
+canal aqui que é um canal de prospecção.
+É, continua sendo um canal ativo,
+prospecção,
+outbalde total,
+que ele gasta menos dinheiro,
+porém
+aqui é mais.
+tempo mais energia
+que para ele não faz sentido. Kelvin,
+mas daí, cara, é fácil, é só se calcular
+aqui. Mas e aí? Como que ele entrega?
+Contratando.
+Pensar em escala. Ah, mas merda,
+contratar, meu Deus do céu, cara. Eu
+nunca contratei ninguém na vida. É o que
+eu te falei no começo desse vídeo. Você
+quer montar um boteco de esquina ou você
+quer montar um negócio gigante, algo
+robusto? Tem que contratar. Ah, mas eu
+queria fazer 1 milhão fazendo one person
+business. Negócio de
+sai do vídeo, sai do vídeo, sai do
+vídeo. Não, não é assim que funciona,
+entendeu? Com infraestrutura de
+crescimento e a você consegue fazer 1
+milhão com quatro pessoas no time,
+tranquilo, cinco pessoas no time, mas
+com uma única pessoa é difícil. É
+difícil, não é fácil não, hein? São para
+poucos, para poucos que vai ter que
+escalar fazendo mais na linha de
+mentoria, na linha de curso para
+conseguir fazer isso.
+Tem que ter time de vendas, time de
+suporte, tem que ter um monte de coisa
+aqui envolvida no meio. Então tem toda
+uma projeção. Então assim, olha, olha
+olha, olha o o cenário aqui em cima, que
+é os pensamento, mentalidade que
+quebrado, que é o cara que anda de lado.
+Esse cara aqui é essas empresas que você
+conhece, ó. Se você tá nessa mentalidade
+fazendo 20, 30, 40.000 por mês a 2, 3
+anos de empresa, 5 anos de empresa,
+cara,
+entra, vem, vem, vem, vem para acelera,
+vem pro workshop, ó, vem pro workshop
+que você vai entender mais o que que
+você tem que fazer. Você não só tem que
+ir para IA, empreender com IA, mas você
+também tem que mudar sua mentalidade.
+Você não pode continuar do jeito que tá,
+não pode. Assiste mais meus vídeos para
+você ir entendendo e oxigenando. Muda
+essa mentalidade. E tem que jogar
+mentalidade de cara que joga o o jogo
+real. Um jogo grande, entendeu? Ó, o o
+Bruno, Bruno Berge. Bruno Berg, cara,
+ele deixou um depoimento maravilhoso,
+não vai dar tempo de eu explicar tudo
+aqui o caso dele, mas ele fechou três
+clientes e atingiu o faturamento de
+41.000 em um mês e meio. 41.000 tá com
+ticket muito maior. Show, Kelvin.
+Entendi. Preciso de um passo a passo.
+Vamos replicar. É só você seguir isso
+aqui, ó. Etapa número um. Que que você
+tem que fazer? Escolha um mercado.
+Primeiro passo, você vai escolher o teu
+nicho lá. Daí, etapa número dois, você
+tem que certificar que você realmente tá
+resolvendo um problema deles, desse
+mercado,
+desse nicho, dessa, desse seu cliente.
+Você vai ter que tapa três, você vai ter
+que certificar seu cliente está ganhando
+dinheiro com você. Então assim, que é
+lucrativo
+contratar sua infraestrutura
+é lucrativo de pagar.
+Faz sentido, você gera dinheiro, você tá
+resolvendo uma dor real.
+Etapa quatro,
+tornei
+tenha previsibilidade nas vendas.
+Então, para que você faça isso,
+estruture a sua máquina de aquisição de
+E aqui nesse momento você vai fazer o
+seguinte, ó. Para que você tenha essa
+previsibilidade, você vai fazer esse
+reinvestimento. Então, se no caso do meu
+aluno aqui, ó, se um cliente dele gera
+6K, 6.000, ele vai manter 6.000 dentro
+do caixa e vai pegar 3.000 e vai
+reinvestir, porque ele vai fazer um
+cliente com esses 3.000 que ele tá
+reinvestindo, a ideia é que ele atraia
+dois clientes novos e com o dinheiro
+desses dois, uma parte reinvestida, ele
+atraia mais quatro e aí ele vai
+crescendo de forma alavancada e ganhando
+corpo e ganhando estrutura, entendeu? E
+aí ele só consegue fazer isso daqui, ó,
+de um para dois, de dois para quatro,
+para seis, para 8, para 10. Se você, ele
+e você, né, só vai conseguir fazer isso
+se você estruturar a sua máquina de
+aquisição de clientes e escolher um
+canal
+de distribuição
+que você que possibilite
+você adquirir
+clientes de forma alavancada.
+Conseguiram entender, cara? Não dá.
+Prospecção ativa funciona, funciona, mas
+é um canal. O outro canal tem que ser
+onde? Você tem que, pô, trazer dois,
+três, 5, 10 dentro da dentro daquele
+canal. Esse é o segredo, entendeu? E aí,
+cara, aí é criar a máquina e colocar
+dinheiro aí. Aí, tipo, entrou dinheiro
+aqui, ó, ele reinveste,
+ele vai ser, entrou dinheiro aqui, vamos
+supor,
+metade desse dinheiro vai ser utilizado
+para fazer um reinvestimento
+que vai trazer mais clientes. E aí você
+tem uma máquina de dinheiro, você
+consegue crescer, você contrata a gente
+no processo, você faz tudo no processo,
+você faz tudo no processo. Isso aqui é
+sobre negócio. Então, vamos lá. quer
+crescer, tire essa mentalidade de
+escassez. Foque em trabalhar alavancado,
+foque em investir e reinvestir o
+dinheiro que entra nos seus primeiros
+contratos para dentro do teu negócio
+para que você cresça mais rápido. Tenha
+previsibilidade na sua máquina de venda.
+Estruture a sua máquina de vendas para
+que você adquira mais cliente. Comece a
+ter visão sobre os seus números. Eu faço
+tantos de prospecção para tantos me
+responderem, para fechar tantos.
+Entendeu? Não existe meia venda. Se você
+não vendeu ainda, continua tentando até
+você fechar, porque a partir do momento
+que você vai fechar, você vai conseguir
+ter todos os números. Quantos eu chamei,
+quantos me responderam, quantos eu
+marquei a reunião e quantos eu fechei um
+contrato. E a partir disso, você vai
+conseguir estruturar sua máquina, você
+vai conseguir ter essa visão que eu
+acabei de te dar aqui e você vai saber
+os números necessários para que você
+bata 1 milhão, 2 milhões, 3 milhões. E
+aí o resto é constância. dia após dia
+trabalhando, olhando pro negócio, é
+refinando, ajustando e parafusinho aqui,
+ali e pau no gato. Se você quiser
+aprender a fazer R$ 100.000 por mês com
+infraestrutura de ar, inteligência
+artificial vertical, clica no link aqui
+na descrição desse vídeo e cai para
+dentro do meu workshop que vai ser no
+dia 4/10. Não se esqueça de se inscrever
+no meu canal, de dar o joinha, de
+comentar, de emendar sinal de fumaça, de
+ir lá no Instagram e falar comigo e blá
+blá blá.
+Falou, rapaziada.

@@ -1,0 +1,360 @@
+Existem três tipos de programadores qual
+que é o seu vamos descobrir nesse vídeo
+É isso mesmo eu separei três na verdade
+Eu dividi os programadores em três tipos
+e eu vou mostrar aqui para vocês Quais
+são esses tipos e eu quero que você a
+hora que você estiver assistindo esse
+vídeo analise realmente Qual é o seu
+tipo de programador quem é você
+belezinha eu vou compartilhar minha tela
+aqui agora com de novo tô aqui aqui com
+o meu iPad e eu não vou falar falhar
+mais no meu áudio tá porque eu vou
+deixar ele aqui ó nessa posição perfeita
+Então me provável que vocês devem estar
+me ouvindo muito bem se você reclamar
+cara eu vou te dar tanta
+porrada presta atenção no vídeo [&nbsp;__&nbsp;]
+vamos lá seguinte galera primeiro
+programador eu chamo de programador Def
+é o cara que vem com a configuração de
+fábrica tá o que que é um programador
+Def o que quer vir com uma configuração
+de fábrica Ele é simples ele sabe
+programar então ó o cara que ele sabe
+programar ele progr Eita Poa Não é esse
+cara aqui não calma aí pera aí ele sabe
+programar verdinho né aqui ó estudou
+programação tá fazendo faculdade tá sabe
+a faculdade ensinou ele a trabalhar bem
+seu código é importante tem que
+desenvolver um código bonito o cara do
+Clean code ele sabe escrever cada linha
+de código legal a principal preocupação
+dele é com o código meu código Tá bom
+minha essa função tá bonita essa função
+tem mais de 10 linhas tomar no cu Caral
+po at 1000
+é ele faz o dele é o cara que faz o dele
+vou fazer o meu e já era ou deu problema
+aqui esse código não é meu esse é o
+programador de ele foi treinado para
+isso quem fez esse código aí foi Fulano
+fala com o Fulano lá que ele
+resolve Esse é o programador Def e ele
+tá preocupado com a próxima release do
+Framework dele Favorito Ele tá esperando
+chegar a versão o dnet 9.0 9.1 ele para
+ele ele a release e falar uau é assim
+que faz agora saca Ele tá é isso que
+isso é a preocupação dele sabe e esse
+cara ele tem alguns pontos ele tem medo
+de errar então ele vai fazer de tudo
+para não errar inclusive se limitar ele
+tem medo de se posicionar então o cara
+que numa discussão técnica ele não abre
+a boca numa reunião ele fica quieto saca
+ele para tudo porque ele não quer se
+posicionar e não quer errar ele tá com
+medo da i por qu porque fazendo só isso
+daqui realmente aá tem grandes chances
+de substituir ele ele tem medo de layoff
+porque ele não se autov valoriza ele não
+sabe o poder que ele tem ele é só um
+programador Ele só escreve código
+entendeu tem muitos que escrevem até o
+código ma feio e a escala desse cara
+aqui essa é a pior parte ele é o cara
+que como que ele escala financeiramente
+né então trocando de empresa é aquele
+cara que troca de empresa assim
+frequentemente ele tá ganhando 8.000
+aparece um de 8500 ele vai depois ele se
+escala para um Manda uma vaga de 9.000
+depois uma de 10.000 e aí ele vai
+trocando é o jeito que ele sabe escalar
+ele quer ganhar dinheiro mas ele só sabe
+fazer assim entendeu ou ele trabalha em
+dois empregos então ele faz home office
+em duas empresas aí ele faz um trabalho
+de merda numa empresa e um trabalho de
+merda na outra empresa também porque o
+jeito que ele aprendeu e e ele não ele
+não tem perspectiva de crescimento saca
+ele literalmente só troca as horas dele
+por dinheiro basicamente isso e ou por
+plano de cara de 15 anos então ele vai
+começar como estagiário ou como train
+vai trilhar Júnior plano sor
+especialista talvez até um arquiteto de
+software alguma coisa do tipo saca é
+aquele cara que quando ele vai
+desenvolver uma aplicação ele virou
+arquiteto de software ele vai
+desenvolver uma aplicação ele faz uma
+over engineer
+[&nbsp;__&nbsp;] [&nbsp;__&nbsp;] ele usa cada padrão de
+projeto exist sente na face da do
+universo n é nem da terra porque para
+para ele Aquilo é importante e tá tudo
+bem faz parte e aí a gente tem um
+segundo tipo de programador que é o
+programador estratégico esse cara que
+ele também sabe para caraca de código de
+design pattern de arquitetura de
+software mas ele é bom na gambiarra esse
+cara esse
+aqui esse aqui sou eu
+esse cara aqui não gosta do typ script
+ele sabe mas o negócio dele é jav script
+puro porque o negócio dele é gambeta
+esse cara aqui no C Sharp ele faz lá
+reflection injeção de dependência na mão
+o negócio dele é gambiarra
+Caral quem que se identificou eu tô
+rindo porque eu eu gosto Nossa Senhora
+eu eu gosto numa gambiarra aqui só Deus
+ele ele aprende esse cara aprende sobre
+o produto e tem curiosidade de saber
+como dele funciona então vamos supor Ele
+tá trabalhando num produto ele fala
+assim cara como que esse negócio aqui
+funciona por que que desenvolveram assim
+qual que é a lógica que usaram para
+fazer isso por que que essa tela é assim
+operação Me explica aí qual que é a sua
+dor saca ele é estratégico entendeu ele
+é intencional ele vai atrás e ele é um
+resolvedor de problemas acima de tudo
+por que que ele é um resolvedor de
+problema porque ele sabe os design
+patterns ele sabe sobre arquitetura Ele
+sabe ele sabe questões de [&nbsp;__&nbsp;] software
+distribuí
+cara ele sabe sobre alta concorrência
+ele sabe sobre tudo isso saca e ele tem
+capacidade de aprender se ele não souber
+mas ele vai focar no problema então tipo
+assim em vez dele falar cara demora do
+meses para fazer isso ele falar assim ó
+demora dois meses mas vamos seguir nesse
+plano aqui porque aqui é mais rápido e a
+gente vai conseguir entregar em duas
+semanas então ele é um cara estratégico
+esse cara ele tende a virar o Tech
+Leader principal engir esse cara tende a
+virar um coordenador ele é bom entendeu
+ele é muito bom então existe também o
+programador estratégico e o programador
+o programador estratégico ele sabe
+quanto ele vale ele sabe o valor dele
+pra companhia esse cara que ele chama o
+ctio e fala assim ó cara é o seguinte eu
+quero ganhar tanto eu valho tanto eh
+como que eu faço para chegar nesse valor
+Ah não vai não dá para chegar e falar
+então ó cara vou ser sincero com você
+essa empresa não vai ser para mim
+durante muito tempo porque vocês não vão
+conseguir pagar o quanto eu vale porque
+ele tem uma boa comunicação ele sabe se
+comunicar ele sabe se posicionar ele tem
+autoconfiança entendeu ele sabe como ele
+não só que ele não tem medo de a ele não
+tem medo de layoff porque se ele sair
+dali ele arruma outro emprego é um cara
+que já ele tá muito bem posicionado
+Entendeu eh ele não sabe como fazer
+dinheiro fora da empresa dele sem a
+empresa dele isso aqui ele não sabe
+fazer porque ele acha que a carreira
+dele é só nas empresas é só trabalhando
+pros outros e às vezes até uma opção
+dele às vezes até ele sabe mas ele não
+quer e tá tudo bem é o caminho que ele
+quer percorrer entendeu E ele tem medo
+porque e a aqui ó ele não tem tem medo
+porque ele tem a síndrome do do impostor
+verdade ó e ele tem a síndrome do
+impostor esse perfil aqui tem síndrome
+do impostor vocês sabem o que que é
+síndrome de impostor pota mas eu não sou
+tão bom assim eu não tenho capacidade eu
+não consigo como que eu vou empreender
+eu não sou capaz por isso que ele não
+empreende às vezes porque ele precisa
+ter como se fosse um guarda-chuva ele
+precisa ter uma segurança e é normal
+isso aqui é normal saca esse cara aqui
+tá em torno aí dos seus 15 20 é o cara
+que vai trabalhar para fora do país
+muitas vezes vai trabalhar em vaga
+internacional porque ele é bom ele é bom
+entendeu ele tira certificação pode
+tirar não tem problema a questão do dele
+ser bom codificador ou não é indiferente
+aqui porque ele entende o quando ele
+pode usar ou não é a mesma coisa eu
+posso ser um [&nbsp;__&nbsp;] de um atirador Eu sei
+eu sou o melhor atirador de bazuca mas
+numa situação eu vou pegar um revólver e
+vou atirar porque para que o revólver
+naquela situação é a melhor é a melhor
+arma então ele sabe disso tá bom e você
+tem o a terceira opção que é o terceiro
+tipo que é o programador empreendedor
+entendeu o que que é o programador
+empreendedor cara ele é tão bom quanto o
+estratégico mas ele é [&nbsp;__&nbsp;] louca esse
+cara aqui é louco ele é criativo ele
+Putz ele aprende padrão de projeto ele
+quer mudar porque ele quer entender o
+por que o cara chegou naquele ponto ele
+ele resolve problemas rápidos ele pensa
+ele é muito criativo em em em ter ideias
+para resolver problemas de formas
+diferente entendeu entendeu então ele é
+um um grande resolvedor de problema ele
+é muito autoconfiante eu sou bom eu sou
+[&nbsp;__&nbsp;] eu consigo é isso aí mesmo cara e
+ele tem essa autoconfiança saca ele
+[&nbsp;__&nbsp;] é isso velho F chama vem pro pai o
+pai resolve ele faz isso sacou eh ele é
+oportunista ele vê uma oportunidade e
+falar cara dá para ganhar dinheiro aqui
+dá para fazer isso dá para fazer aquilo
+nossa Esso aqui é uma oportunidade de eu
+escalar meu meu emprego de eu conseguir
+uma vaga esse cara aqui é o cara que vai
+virar o gerente é o cara que vai virar o
+diretor é o cara que vai virar o c no
+caso né e ele é intrometido Esse cara é
+intrometido esse cara se envolve em
+todas as discussões técnicas Ele olha
+para você e fala não você tá errado isso
+aí não faz sentido por causa disso Disso
+disso não gostei da tua postura
+Eh que que tá que que vocês estão
+falando aí deixa eu entender Por que que
+vai demorar dois meses Deixa eu entender
+ele é intrometido entendeu esse cara
+aqui ele tende a virar um empreendedor
+porque ele vai montar o próprio negócio
+dele ele vai ele é tão autoconfiante que
+ele fala cara eu consigo montar minha
+empresa eu consigo fazer isso dar certo
+eu vou arriscar vamos embora Ah mas tô
+com medo tô com medo mas vou fazer vou
+fazer porque eu acho que eu consigo eu
+tenho certeza que eu consigo eu sou
+capaz Eu vou fazer acontecer então esse
+programador aqui o programador
+empreendedor é o cara que monta um SAS é
+o cara disruptivo é o cara que vende
+info produto é o cara que monta a gente
+para vertical para vender para
+aproveitar o Hype é o cara que tá
+trabalhando também é o cara que escala
+na carreira ele ele faz o tal do
+intraempreendedorismo ele não tá nem eu
+para opinião de ninguém sai fazendo só
+que existe um ponto que é o seguinte os
+três tipos é uma evolução da
+pessoa legal né porque eu já fui o
+programador
+de E aí eu virei o programador
+estratégico aí eu fiquei tão filha da
+[&nbsp;__&nbsp;] que eu falei agora eu vou emprender
+nessa [&nbsp;__&nbsp;] [&nbsp;__&nbsp;] e aí a gente vai
+fazendo vai fazendo vai fazendo aí a
+hora que você fala [&nbsp;__&nbsp;] eu sou [&nbsp;__&nbsp;]
+Então qual que é a loucura aqui você é
+os três tipos na verdade você é é a
+teoria das cordas você é os três tipos
+sem saber que você é né Eu não sei nem
+se é uma questão de evolução é uma
+questão de evolução Eu já fui o
+programador de logo quando eu saí da
+faculdade eu queria ser arquiteto de
+software [&nbsp;__&nbsp;] eu cara eu Martin faller
+Eric Evans era era eram as minhas
+leituras arquitetura de software design
+pattern certificação Microsoft ser um
+MVP um eu queria falar assim eu vou ser
+no Microsoft MVP entendeu É como que é
+most value professional eu vou ser eu
+vou tirar a certificação mcts mcpt
+czb eu queria ser esse filha da [&nbsp;__&nbsp;] aí
+aí eu eu consegui eu consi algumas
+certificações só que por acaso eu fui
+mandado embora e aí alguém foi lá e
+falou por que que você não monta uma
+empresa e aí eu já tinha essa
+autoconfiança saca por quê Porque eu
+virei um programador estratégico antes
+conforme eu fui crescendo eu fui olhando
+e eu sempre olhar fal cara pessoal de
+pessoal de negócio ganha dinheiro
+vendedor ganha dinheiro meu motivador
+era dinheiro eu queria ganhar dinheiro
+só que aí eu tinha filho e tudo mais
+acabei casando mon de história mas aí
+ess não n nenhum ponto E aí eu me
+transformei no programador estratégico
+entendeu o cara que virou Tech Leader o
+cara que virou o arquitet software o
+cara que virou principal engineer E aí
+eu fui submetido a uma determinada
+situação que fez eu me transmutar para
+seu programador empreendedor Então você
+também pode ser e essa a mensagem que eu
+quero deixar para você mas o que você é
+hoje Qual das três fases de transmutação
+você está você é um borboleto
+você você é um
+casulo você tá na fase da lagarta de ser
+um casulo Ou você já um
+borboleto quero saber quais das três
+fases você está você olha olha olha com
+carinho e fala assim eu sou isso e fala
+e e tá tudo bem se você falar assim ó
+cara eu só quero ter meu dinheiro minha
+carreira e paz e quero comprar uma
+chácara ou quero viajar ao mundo quero
+seu nome digital tá tudo bem não tem tem
+problema nenhum entendeu É só que eu
+acredito que eu falo isso em todos os
+vídeos que todo mundo tem a capacidade
+de empreender existe um caminho do
+empreendedorismo para você que é
+programador e o meu objetivo nesse canal
+é despertar isso em você do mesmo jeito
+que despertaram de em mim como que eu
+vou fazer isso contando a minha história
+e criando essa consciência para vocês
+belezinha galera meu canal tá crescendo
+gostaria de deixar aqui o meu
+agradecimento a todos vocês que estão
+curtindo meus vídeos comentando
+compartilhando se inscreva no canal se
+você não é inscrito meu muito obrigado
+do fundo do meu coração para vocês por
+toda a energia positiva que vocês estão
+mandando nos comentários para mim fico
+feliz que o meu conteúdo esteja
+agregando para vocês esse é o objetivo
+se você terminou esse vídeo aqui com um
+Insight com uma pulguinha atrás da
+orelha de novo já cumpriu o objetivo
+desse vídeo que eu tô gravando para
+vocês hoje Domingo de carnaval eu tô
+aqui agora vou começar a trabalhar
+porque eu tenho que fazer as coisas
+acontecer mas eu parei aqui para fazer
+para gravar esse vídeo para vocês e
+espero que vocês tenham entendido a
+minha visão sobre os três tipos de
+programadores um abraço e até a próxima
+vejo vocês no próximo vídeo hein falou
+seus cachorro

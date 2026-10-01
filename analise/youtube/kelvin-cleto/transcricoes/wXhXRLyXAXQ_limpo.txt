@@ -1,0 +1,594 @@
+No último vídeo, eu fechei um contrato
+absurdamente grande. Eu fiz o que uma
+empresa de marketing faria com 5, 10
+pessoas em apenas 20 minutos na frente
+de um cliente. Depois você pode até
+assistir esse vídeo se você quiser. E um
+monte de gente me chamou no meu
+Instagram, tá me chamando inclusive aqui
+no YouTube perguntando: "Kelvi, como que
+você fez isso? Como que você usa o Cloud
+Code?" É simples. Eu estou criando um
+segundo cérebro, o cérebro do Kelvin, o
+cérebro da minha empresa, das minhas
+decisões, do modo como eu toco meu
+negócio e estou conectando o cloud code
+nesse cérebro para que ele gere,
+[roncando] para que ele aplique o que eu
+faço, o que eu acho que é certo, o que
+deve ser feito para um cliente, o modo
+como eu pesquiso o mercado, o modo como
+eu penso no meu cliente. É como se eu me
+copiasse. Nesse vídeo aqui, eu vou
+mostrar para você como funciona esse
+segundo cérebro e principalmente como
+você é empresário, tem que ter o seu
+segundo cérebro. Você tem que ter, ou
+como não, melhor, deixa eu te falar uma
+coisa, você tem que ter essa estratégia
+do segundo cérebro. Por quê? Porque hoje
+o mercado tá se movimentando para isso.
+Então, quando eu pesquiso lá sobre os
+principais, né, que eu sigo hoje no
+mercado, o Gary Tan, que é o o CEO do I
+Combinator, que é um dos maiores fundos
+de investimento do mundo, o Carpat, que
+é ex CEO, exce,
+se eu não me engano, sócio, fundador do
+do da Open, é o cara que participou da
+construção da do chat EPT. O que que
+esses caras estão fazendo? Eles estão
+condensando toda a informação que eles
+geram durante o dia. Reuniões,
+conversas, artigos, vídeos que eles
+assistem, ideias que eles têm. Eles
+estão jogando isso dentro da
+inteligência artificial e estão
+consolidando. Eles estão criando o
+cérebro deles de da forma como eles
+pensam, da forma como eles raciocinam
+aquilo que eles falam ou deixam de
+falar. Eles estão criando lá arquivos,
+vai MarkDs, arquivos texto, não importa.
+Eles jogando tudo aquilo e consolidando,
+organizando, estruturando, tirando
+insightes e plugando o cloud ali ou o
+Codex ali ou qualquer outra LLM. Então
+isso é o conceito de segundo cérebro e
+você tem que fazer isso, eu tenho que
+fazer isso, todo mundo tem que fazer
+isso, porque desse jeito você consegue
+extrair o máximo de resultado, ou
+melhor, de de valor de uma inteligência
+artificial. E agora eu vou te mostrar
+isso, vou te mostrar o por que como que
+eu uso, na verdade, né? E no processo
+aqui eu vou conversando com você para
+você entender o por que isso é realmente
+importante nesse mundo louco e que nós
+estamos vivendo. Bora lá, então, galera.
+Seguinte, ó. Inclusive, ó, aqui, ó, o
+cloudzão tá tourando aqui, ó. Isso aqui
+é parte da ideia de construir um segundo
+cérebro. eu já gero as minhas thumbnails
+e através de referências. Então, olha
+que louco, eu peguei o conceito que eu
+aplicava de forma manual para gerar
+thumbnails aqui no YouTube e eu
+estruturei agentes para fazerem isso.
+Então, é muito legal. Ele parte de uma
+pesquisa assim como eu mostrei para
+vocês e vai gerando aqui, ó. Aqui são
+três que ele gerou. Pá, pá, pá.
+Inclusive aqui eu quero assim, tô
+pedindo até para ele regenerar porque
+ficou feia, mas olha que qualidade. Isso
+aqui faz parte de você construir um
+segundo cérebro. Antes de eu explicar
+aqui e vou até mostrar para vocês, eu
+organizei aqui as skills para liberar
+aqui para vocês do do do que eu dos meus
+agentes de a para
+moldam como eu penso. Vai ser bem legal.
+Vocês podem aplicar isso também. Deixa,
+deixa eu contextualizar aqui. Por que
+que isso é importante? Por que que
+segundo o cérebro e para onde o mundo tá
+caminhando? Cara, eu tô vendo o
+seguinte, eu tô vendo, eu sigo o Gary
+Tan, o Carpat, que são pessoas que são
+referências para esse meu segmento. O
+Carpat é o cara fundou dos fundadores da
+Openi. O Gtan é o CEO lá do do da I
+combinator, que é um dos principais
+fundos de investimento do mundo. Esses
+caras têm resultados absurdamente
+absurdos.
+Esse cara, esses caras estão fazendo o
+seguinte, eles estão pegando tudo aquilo
+que eles geram de informação no mundo
+real e transformando isso em texto. Eh,
+o J texto, tipo uma conversa, uma
+reunião, um áudio, conversas do WhatsApp
+e tudo mais. E eles estão
+[limpando a garganta] organizando isso e
+eles estão chamando isso de segundo
+cérebro. Então eles estão, por exemplo,
+ah, conversei com o cliente tal e foi
+tratado disso, pá, pega toda a
+transcrição e depois pede para ir
+analisar aquilo e e extrair, por
+exemplo, insites, informações
+importantes e eles colocam isso num
+banco de dados, num lugar ali, tudo
+organizado. Isso aí é o ouro. Isso aí é
+o ouro. Então, você que tá me ouvindo,
+presta muita minha atenção.
+Você não pode terceirizar, aprender
+sobre IA pro seu funcionário, por
+exemplo, e você ficar de fora. Não faça
+isso. Isso inclusive é algo que eles
+falam muito, esses essas referências
+fal, cara, não dá para você terceirizar
+a tua visão, a tua estratégia, o modo
+como você conduz o seu negócio. Isso é
+inerente, isso faz parte de você e da
+sua empresa. E só você pode criar isso,
+só você. Isso é muito importante. Então,
+como que eu tô tratando meu negócio
+agora que eu tô começando a me
+aprofundar nisso,
+cara? Eu tô olhando falando, cara, como
+que eu posso extrair maior valor de
+criar esse segundo set, onde eu posso
+usar? O que que funciona? O que que não
+funciona? Não tem o que fazer. Você vai
+ter que passar por isso, você vai ter
+que fazer isso. Não dá para terceirizar.
+A gente saiu da esfera de chatbot, de só
+perguntar para LLM, não, a gente tá na
+esfera agora de criar funcionários.
+Tanto que o que eu vou compartilhar aqui
+com vocês, vai ajudar no modo
+como vocês podem pesquisar mercado, a
+minha metodologia de pesquisa de
+mercado, o modo como eu analiso
+estratégias, o modo como eu olho para
+meus concorrentes. Ã isso é um
+consolidado de aprendizados. Kelvin,
+você que inventou essa metodologia? Não,
+eu trouxe metodologias de referência, só
+que o modo como eu uso elas é diferente.
+É só meu. É só meu. Os dados que eu olho
+é só meu. Então o que eu criei aqui, que
+eu vou compartilhar com vocês, que é um
+um free, um freezinho para vocês
+sentirem e entenderem, eh entendam,
+customizem, criem, testem, usem, mexam,
+eh, modifiquem para que fique com a cara
+de vocês e, principalmente, agreguem as
+informações que vocês estão tendo do dia
+a dia. Vai, vai, vão ent vão se
+aprofundando, gente, pô. Principalmente
+no cloud. E o cloud de hoje é uma
+de uma ferramenta é que que vai ajudar
+muito vocês a fazer isso. O Codex
+também, Open Code é um pouco mais
+difícil, mas é só o cloud já dá um bum
+assim absurdo. E eu vou mostrar como eu
+tô usando também, como eu tô
+estruturando aqui. Então vamos lá, vamos
+voltar aqui. Então o seguinte, ó, cadê?
+Aqui num modelo AI first OS. Então, você
+criando o seu sistema operacional eh eh
+pro teu, pra tua empresa, automatizando
+vendas, automatizando atração de lead,
+estratégias, funis, conversão, onboard,
+a informação mais importante que você
+tem é essa daqui, ó, a inteligência, a
+inteligência operacional e dados. Então,
+é isso aqui que você tem, isso aqui é
+seu ouro. Isso aqui é o seu ouro. Ouro.
+E para você que tá assistindo esse vídeo
+aí, não é empreendedor ou empresário,
+entenda uma coisa. Se você tá prestando
+serviço, esse aqui é o ouro. É isso aqui
+que você tem que construir, ó. É isso
+aqui que você tem que coletar.
+Inteligência operacional e dados. Aqui é
+o vídeo que eu comentei com vocês lá no
+começo. Depois eu convido vocês a
+assistir aí para entender um pouco mais
+como que eu faço essa linha de
+raciocínio. Em 20 minutos foi absurdo
+isso aqui. Em 20 minutos eu gerei junto
+com o cliente, o que muitos aí precisam
+de 6, 7, 10 pessoas para fazer. É
+impressionante. Esse aqui eu convido
+para vocês assistirem também, que é esse
+vídeo do Gary aqui falando sobre como
+ele usa o e como ele tá criando esse
+segundo cérebro, né? Então, tipo assim,
+como esses os top business estão usando
+inteligência artificial ali para fazer o
+trabalho de 400 engenheiros. Cara, eh,
+basicamente o grande conceito é fazer
+isso aqui, ó. é você coletar tudo aquilo
+que você tem de informação, você
+extrair, você entender, você puxar
+insightes e você guardar num cérebro.
+Você guardar no cérebro, por exemplo,
+isso daqui é um que eu tô, eu tô usando
+Git, que é um versionamento de código.
+Poderia ser uma pasta no computador,
+gente. Ah, eh, se você conhece o
+Obsidian, o Obsidian não faz isso? Sim,
+o Obsidian faz isso, mas ele tá longe
+ainda de fazer. O obsidian é feito para
+pessoas verem, para você ler. Ah, dá
+para conectar no cloud? Dá. Só que esse
+segundo cérebro aqui, ele é mais pensado
+para ser 100% consumido por LLM. É um
+outro conceito, tá? é um outro conceito.
+Sugiro, sugiro ler, sugiro ler e
+entender mais sobre isso, tá? Mas vamos
+lá. O foco aqui é, cara, colocar artigos
+sobre as empresas, por exemplo, sobre as
+minhas empresas. Cara, hoje eu tô à
+frente de duas empresas minhas, sobre
+aera e sobre a KCG. Quais são as
+informações que eu tenho sobre a KCG?
+Como, quais são as reuniões que eu tenho
+lá e quais são os clientes, quais são as
+pessoas, quais foram eh essas pessoas,
+quais foram os pontos de contato que eu
+tive? Troquei mensagem no WhatsApp, fiz
+reunião no Teams, fiz reunião no
+Meeting, qual que foi a transcrição, o
+que que foi tratado, o que que não foi
+tratado? Quais foram os conceitos
+abordados? Quais foram os pontos de
+atenção? Tudo, tudo. Eu eu passei algum
+insite, vídeos no YouTube, por exemplo,
+que é um canal mídia, mídia, que também
+WhatsApp, YouTube, ó, tudo aqui
+consolidado, conceitos, eh, reuniões,
+notas, pessoas. Então, quais são as
+pessoas que eu já entrei, que já entrei
+em contato aqui? Tá estruturado em MD,
+mas eu vou em Markdow, né? Mas eu também
+comecei a testar e em Jon. E qual que é
+o meu objetivo com isso aqui, cara? Eu
+quero que isso aqui me meio, eu quero
+treinar um Kelvin, eu quero treinar um
+CS, eu quero colocar um CTO que tenha o
+o que que entenda os conceitos da
+empresa, um CTO, um um AI CTO. Eu quero
+criar os meus funcionários que estejam
+alinhados com os conceitos da empresa,
+mas principalmente eu quero trabalhar na
+parte estratégica. O que que vai
+acontecer? O meu, o conhecimento da
+empresa como um todo, ele não vai ficar
+na mão de um funcionário. Ele não vai
+ficar centralizado num aquele no Hero,
+né, no herói, no funcionário. Não, não,
+não vai mais. Por quê? Porque eu estou
+trabalhando num modelo que seja AI
+first. É isso que eu sugiro você fazer
+também. Isso é muito importante. Como
+que você pode fazer isso daqui? Vou te
+vou mostrar um case simples aqui que eu
+não não vou entrar na complexidade, mas
+uma coisa que vocês podem começar a
+fazer é isso daqui, ó. Deixa eu pegar
+aqui. Eu deixei aberto, deixei pré
+aberto para mostrar para vocês. Aqui, ó.
+Isso daqui é o coração do brain. Eu tô
+usando o cloud e eu tô consolidando as
+informações. Eu ainda não automatizei
+nada disso aqui, mas eu vou automatizar.
+Por exemplo, WhatsApp. WhatsApp alunos
+2027 aqui eh 2025 8 mês 8 que que foi
+tratado? Tantas mensagens, tantos áudios
+enviados, olha aqui temas que foram
+tratados, posicionamento digital, free,
+olha que legal, todos os temas que, como
+eu tô organizando, né? Que eu tô
+extraindo, eu tô tô extraindo os temas
+que foram tratados, geração de vídeo com
+IA, pipeline de vendas, SDR, lançamentos
+e evoluções de modelo de A, networking,
+parcerias estratégicas. E aí o K eu vem
+abrindo e fala assim, ó, quem que
+perguntou, quem foi a pessoa? O tópico
+que ela abordou, o texto que ela enviou
+ali e respondido por quem? Quem que
+respondeu, por exemplo, vou minimizar os
+temas aqui. Olha aqui as questões que
+foram tratadas, olha aqui as celebrações
+que aconteceram. Olha aqui as objeções
+que foram faladas ali. Eh, a parte essa
+aqui, ó, Kelvin Titin, né, que é tipo o
+que que eu falei de insite que casou
+muito. Então, tratei sobre precificação
+de diagnóstico, precificação de custo
+por custo por hora, começar pequeno para
+aprender e criar receitas recorrentes.
+Cara, eu comecei puxar tudo, o mesmo
+para meetings. Olha aqui, eu vou puxar
+aqui uma reunião, por exemplo,
+apresentação de infraestrutura. Que que
+foi tratado aqui nessa meeting? Foi uma
+meeting do dia 15/07. Quais foram as
+decisões da meeting? K vai oferecer
+paraa Loran. O modelo de negócio foi tal
+coisa. P pá, tá aqui de pra as ações que
+ficaram acordadas ali, followups, eh,
+objeções,
+eh, claims, né, tipo reivindicações.
+Acho que traduzindo pedal seria isso.
+Então, infraestrutura de ar não é apenas
+tal coisa. O grande problema cultural do
+empresário é tal coisa. Olha que
+informação Pontos de dores. Olha
+isso aqui, cara. Isso. Imagina isso aqui
+numa IA. Então, eu tô uma calcul.
+Imagina o seguinte, ó. Olha que louco. O
+cliente tava comigo, a gente tava
+conversando. A Ia já, ou melhor, aqui
+não foi nem IA, não, aqui foi IA. Porque
+foi a a transcrição terminou, alguma
+coisa ingeriu isso, a gente chama de
+ingestão, ingeriu, trabalhou, fez o
+processo de extração. Esses insites já
+subiram lá pro time comercial, lá pro
+pro acompanhamento. Já atualizou o
+playbook de vendas, já atualizou o
+playbook de objeções, já trabalhou no
+ICP do cliente, já pode, inclusive até
+ajustar uma narrativa na campanha de de
+de atração. Saca, saca o poder que isso
+aqui tem? Isso aqui é absurdo. Agora
+imagina o seguinte, imagine eu coletando
+que é o que eu quero construir, que é o
+que você deveria construir também, que
+tá todo mundo descobrindo como constrói,
+porque é difícil. Mas olha lá, vamos
+aqui, ó. Reuniões, conversas, decisões,
+áudios, artigos, anotações, tudo isso
+sendo ingerido por alguma coisa que pode
+ser o cloud, inicialmente is baixar,
+processar e enviar. Ele vai fazer
+extração, atendimento em sites. Isso vai
+para um cérebro, isso fica armazenado.
+Esse aqui é o m, esse aqui é a grande
+diferença, porque daí Ll vem e conecta
+aqui assim, ó. Então imagina que que
+qual que é o teste que eu tô fazendo? Tá
+todo mundo com o cloud code aqui na
+empresa. Eu tô jogando no meu cerebral.
+Cadê meu cerebral? Aqui ó. KCG Brain
+está indo para cá. Então todos eles
+quando usam cloud code estão conectados
+aqui, ó. E eu estou usando esse Gbrain
+do Gary, que é esse cara aqui do I
+Combinator, ó. Esse que é esse mana
+aqui, ó. O que que ele fez? Ele fez uma
+estrutura, eu vou chamar de ingestão.
+Ele ingere [roncando]
+informações, processa e organiza. Ele
+organiza, extrai sites eh eh cria
+edings. Eu não vou não vou falar parte
+técnica, mas cara, isso aqui é bizarro e
+é muito bom. Inicialmente eu comecei
+usando aqui, eu tô fazendo um teste com
+esse Gbrain, entendeu? Inclusive ele até
+fala aqui, ó, o como ele usou, né? Ele
+conectou, por exemplo, no OpenCloud, que
+é o que eu fiz também, conectei no meu
+open cloud. Por quê? Porque eu já criei
+um CS helper, um customer success pro
+pro pessoal de customer success aqui de
+suporte, o N1, o N2 de aluno. Eu já tô
+conectando para me ajudar na geração de
+roteiros pro YouTube ou de vídeos pro
+YouTube. Esse aqui eu não testei ainda,
+tá? Esse vídeo aqui não saiu dessa
+ideia. Olha que legal aqui, ó. Essa
+daqui, isso daqui, cara, isso aqui
+é doideira, velho. Nossa, gente, isso
+aqui, vocês não tem noção, eu pagava R$
+150 por capinha para fazer. Mas vamos
+lá. Então eu tô descobrindo, olha qual
+que é o grande X da questão aqui. Deixa
+eu explicar para vocês. Eu tô
+descobrindo no que vai ser útil para
+mim. E o que eu estou falando para você
+é que você também deveria descobrir como
+isso vai ser útil para você. E você só
+consegue descobrir fazendo o quê?
+Aplicando. Caramba, passou. Aplicando
+igual eu tô fazendo. Não tem segredo.
+Ninguém sabe a resposta. A gente, eu tô
+modelando o que os grandes empresários
+estão fazendo e trazendo para dentro da
+minha companhia, para dentro das minhas
+empresas e você deveria fazer o mesmo.
+Agora, para você que está empreendendo
+aqui, que tá ouvindo falar isso, entenda
+uma coisa, aplique isso para que você
+refine a tua entrega pro teu cliente,
+para que você estruture a tua entrega
+pro teu cliente, crie skills, crie esse
+cérebro, conecte as suas essas skills
+lendo esse cérebro, que é o que eu faço,
+para trazer maior qualidade, eficiência,
+isso tudo. [limpando a garganta]
+Entenderam? Esse essa é a pegada, gerar
+resultado. Agora, aproveitando
+esse vídeo, eh, eu nesse vídeo aqui eu
+gerei o pessoal falou: "Cara, que que é
+isso?" P pá, ó, vou liberar aqui para
+vocês. Is é grátis, tá? A GRA skills, o
+Grof OS, eu chamei de grofos. Subind no
+GitHub. O link tá aqui também na
+descrição desse vídeo, vou deixar aqui
+para vocês. Então eu estruturei os meus
+agentes, os principais agentes que eu
+uso. Não tá completo logicamente, mas
+como que eu faço pesquisa de nicho,
+mapeamento de nicho, cliente, preparação
+para reunião, como que eu crio landes,
+pitdeck, go to market, estratégias de go
+to market, playbook de vendas. Eu estr
+estruturei num modelo de de funcionário
+digital, de funcionário com IA, para
+facilitar aí para vocês poderem usar,
+tá? Tá aqui, ó. Por que que isso é fera?
+Então, imagine você perde ele tempo
+montando deck comercial pra clínica.
+Cara, tá muito massa. Então, tá liberado
+aqui para vocês. Já aproveita, pode
+baixar aqui. Escrevi um tutorialzinho.
+Escrevi, ó. Pedi pro Cláudio gerar um
+tutorialzinho aqui de como vocês podem
+usar. E mais uma vez, para você que é
+empresário, te convido a conhecer
+Acelerar 360 para que a gente realmente
+entenda o teu negócio e te ajude a fazer
+aa transformação e first. Não importa se
+você é eh, pô, tem uma contabilidade ou
+é um dono de clínica médica, isso é
+irrelevante para nós aqui hoje, a gente
+já tem mais de 30 segmentos validados, a
+gente tem mais de 300 parceiros aqui na
+Celara 360. Tenho certeza que nós
+podemos ajudar o teu negócio. E eu tô
+falando de ajudar de resultado, porque
+eu trabalho com resultado. Que que é
+resultado? Mais faturamento, mais margem
+e mais escala ou possibilidade de
+escalar, porque tem negócio que não
+escala. Ah, Kelvin, eu tenho uma empresa
+de energia solar, vem. Eu sou dono de
+corretora, vem. Eu sou não sei o que,
+não importa. Advogado, vem. Deixa a
+gente mostrar para você como a gente vai
+estruturar uma máquina de crescimento
+pro teu negócio de ponto a ponta. Ah,
+Kelvin, hoje eu tenho uma agência de
+marketing que faz trabalho para mim, mas
+é uma porcaria. Aí que você tem que vir
+mesmo, que o mercado tá uma bosta mesmo.
+merda, chega a ser assustador. E a
+gente, além de implementar, olha, olha o
+que eu vou falar, além de implementar a
+infraestrutura no teu negócio, nós vamos
+ensinar, ensinar você a operar, você a
+fazer também, porque você tem que
+aprender. Não dá para fugir mais disso.
+Entenda uma coisa, empresário, você não
+pode mais fugir de aprender isso. Você
+tem que entender e usar da melhor forma
+possível pro seu negócio escalar. Esse é
+o segredo, entendeu? Não dá para fugir.
+Entenda como criar o seu cérebro. Não
+tem resposta certa, não tem no meu
+cérebro não vai funcionar para você.
+Você vai ter que aprender a criar o seu
+cérebro. Por isso que eu tô falando
+agora, como eu faço a estratégia, como
+eu faço o negócio crescer ou lá ele lá
+ele lá ele, como eu gero mais
+faturamento, tudo mais. Isso aí é
+replicado. Isso aí é replicado. Agora,
+eh, como a gente vai refinar isso,
+aquele ajuste fino, vai ser criando o
+teu cérebro. Então é por isso que além
+de implementar e a implementar essa
+transformação, nós ajudamos os nossos
+clientes a entender como que isso aqui
+funciona. Nós educamos você para usar o
+cloud code da melhor forma possível,
+para usar as nossas IAS da melhor forma
+possível e também você ter a capacidade
+de criar. Eu tô vendo que o mercado tá
+partindo para isso, cara. Todo não dá
+para terceiriz. Em empresário não pode
+terceirizar a visão. Se ele não pode
+terceirizar a visão, é ele que tem que
+ser responsável por criar essa máquina
+aqui, porque ela tem que ser alimentada.
+Porque não adianta só, você não cria só
+uma vez, você nutre, ela evolui. Nossa,
+que loucura que eu acabei de falar. É
+isso, é isso. Por isso que por isso que
+você tem que aprender, porque você tem
+que continuar nutrindo. Cara, todo dia
+eu trabalho nisso aqui. Todo dia eu
+ajusto,
+sabe? Um parafusinho. E é todo dia que
+eu aprendo um negócio novo. É
+impressionante. Aqui a gente já tá num
+outro nível. Aqui a gente tá num num
+conceito de de base de conhecimento
+temporal que fala, né? Então, Kelvin
+tomou tal decisão tal dia, tal dia isso
+aqui era verdade, depois de tal dia se
+invalidou. A gente tá usando uma
+ferramenta chamada Zep para fazer isso.
+Eh, mas não precisa chegar nesse nível,
+tá? um um passo antes, é que a gente tá
+indo para outras coisas aqui já também.
+Então, para finalizar esse vídeo aqui,
+ó, deixa eu deixar aqui para vocês o
+Grow OS Skills. É muito simples fazer
+isso. Pede pro cloud code instalar para
+vocês. O link tá aqui na descrição desse
+vídeo, vou deixar ele aqui. Mas
+basicamente você vai pedir aí para ele
+instalar. Ele vai instalar esses
+funcionários que são skills estruturadas
+para você entender o poder desse
+negócio. E aí você fala assim, ó, pô,
+eh, ô, ô, Gos, eu quero validar o mapear
+o meu nicho, estuda a minha empresa,
+estuda o cenário, pesquisa de mercado
+para mim. Ele vai construir esta
+inteligência e vai te entregar um
+resultado absurdo aqui no Pit Deck. Eh,
+cadê mapear nicho, auditoria? Tá, tá,
+tá, passou. Cadê? Tem um carinha aqui
+que faz, então, tem um cara que faz o
+PDF e você precisa colocar usar o nano
+banana. Só isso. O nano banana lá pegar
+a p do Gemená e joga ele se vira aqui.
+Fechou? Então, ó, esse vídeo foi sobre
+isso. Estamos num momento que tá sendo
+incrível. Eh, nossa, extrapolou
+completamente usar chatbot ou qualquer
+coisa do tipo. A gente tá indo para um
+caminho onde o o CEO da Nvidia falou um
+termo muito interessante que ele falou
+são as empresas os gás, né? São GAS, são
+as generative e eh ASA Service,
+Generative ASA Service, acho que é isso
+aí, que são as empresas agênticas. Eh, e
+o que eu enxergo é que hoje isso aqui tá
+democratizado e você pode criar os seus
+próprios agentos. O cloud ele vai ser o
+coração dos, ele pode ser na verdade ou
+qualquer outra ferramenta como o cloud,
+desde que você tenha o seu cérebro.
+Então, você vai lá e plug e ele consegue
+te auxiliar e te dá muita escala no teu
+negócio, fechou? Ou pros empresários,
+para você que quer empreender, mais uma
+vez eu te convido a conhecer a Celera
+360. Fechou? Galera, esse vídeo foi
+sobre isso. Espero que vocês tenham
+curtido. Ol, não esquece de clonar o
+projeto, não. Já dá o like no vídeo aí,
+dá um compartilhar também se fizer
+sentido. Bora.

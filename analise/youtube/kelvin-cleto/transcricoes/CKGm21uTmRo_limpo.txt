@@ -1,0 +1,602 @@
+Existe um modelo de negócios focado em
+inteligência artificial que é
+surgindo agora, o que criará, ou
+Ou melhor, está criando vários
+milionários. Mas apresenta dois problemas.
+A primeira é que não é para pessoas
+que querem ganhar dinheiro rapidamente ou
+renda extra. A segunda é que é
+entediado. É muito chato. Então
+Você precisa decidir. Se você quiser fazer
+Procurando algo divertido ou querendo uma renda extra?
+Nem faz sentido você estar nisso.
+vídeo. Você pode ir embora. Agora, se você quiser
+Criar um negócio sério e estruturado,
+que perdurará por muitos anos,
+Esse modelo de negócio funcionará para você. E
+Por que digo que é chato? Porque
+Não se concentra no que você acredita.
+próximo SaaS de um milhão de dólares, você aparece em
+Forbes ou estruturar uma operação que
+Seja "Uma Pessoa", onde você faz 50
+milhões com um algoritmo de IA e não
+Eu sei o que mais e blá, blá, blá. Não é
+Muito mais simples do que isso. Isto é sobre
+vá a uma clínica de estética, uma
+agência imobiliária, corretora de seguros,
+um escritório de advocacia, uma indústria,
+uma empresa de contabilidade e entender
+onde essa empresa ou esse nicho de mercado
+A maneira como você age está lhe causando muitos problemas.
+dinheiro, uma dor de cabeça cara que
+realmente fazer essa empresa perder
+dinheiro. E você vai lá e constrói
+uma infraestrutura de uma máquina de
+crescimento com inteligência artificial
+que irá compensar essas perdas. E isso
+Mais interessante ainda, você não precisa ser
+Sem programador, sem técnico
+especialista, não arquiteto de
+software, nem especialista em tecnologia
+para fazer isso. Então, neste
+Vídeo daqui, vou fazer isso
+com você. Vou assumir um negócio
+completamente comum como exemplo e você
+Vou mostrar isso. Vamos construir
+Este negócio enfadonho, este modelo de
+negócios tediosos com inteligência
+artificial para que você entenda o
+Uma verdadeira oportunidade. E no final disto
+vídeo, tenho certeza que você entenderá,
+Assim como eu, assim como os mais velhos.
+oportunidades com inteligência
+artificial aplicado de forma real
+Eles estão escondidos em negócios tediosos.
+. E para te encorajar a ficar comigo
+Até o final deste vídeo, eu quero
+Vou mostrar-lhe duas pessoas aqui que
+Eles escolheram esses negócios tediosos para
+resolver. Uma delas é Gesimar, que hoje...
+Ele enviou esta captura de tela onde o jogo fechava.
+Basicamente, 30.000 em contratos, caiu.
+Observe a alegria deles ao contar a história. E o
+Outra é Samira. Onde está Samira?
+Olha só, hoje também fechou um
+negócios chatos e está resolvendo o
+O problema aí é gerar configurações complexas.
+como estes, contratos de alto valor e
+recorrência. E para aqueles que não...
+Eles sabem, prazer em conhecê-lo. Meu nome é Kelv
+Sou eu quem te levará ao novo
+economia da inteligência artificial
+, para transformar o empreendedor, para
+Empreendedor, fundador com foco em IA.
+É assim mesmo. Sou um programador que
+Ele decidiu abrir seu próprio negócio aos 22 anos.
+Vendi minha primeira empresa em 2022, a
+50,1% disso para o grupo WS. Eu tive um
+uma empresa chamada General Cleans, uma
+Insurtech. Fiz minha saída em
+No ano passado era 2025 e hoje estou em
+Frente Acelera 360. E para vocês que não
+Você conhece o Acelera 360? Somos uma
+Aceleradora de negócios. Acelere 360
+Ajuda a transformar sua ideia do papel em realidade.
+realidade. A Acelera 360 ajuda aqueles que
+Eles já são empreendedores expandindo seus negócios.
+operação com inteligência artificial.
+Aqui, somos guiados pelos resultados. E
+Se você quiser saber mais sobre a Acelera
+360, há um link aqui embaixo, no
+descrição deste vídeo, para que
+Clique e aplique. Nosso
+A equipe entrará em contato com você.
+Entenderemos sua situação atual, nós iremos
+um diagnóstico completo e você
+Mostraremos as possibilidades de que
+Você tem o que é preciso para começar um negócio de forma inteligente.
+artificial, ou como expandir seu negócio
+com isso, não apenas adicionando um chatbot,
+mas criando uma infraestrutura de
+. Então, se você acha que é só isso, então...
+Duas pessoas conseguiram, não é?
+enganos. Veja isto aqui. Há
+muitas pessoas estão abrindo negócios
+entediado em vários nichos diferentes
+. Seguros, energia, clínicas,
+indústria, contabilidade, distribuidores
+revendas, etc. Contratos de
+42.000, 52.000, 30.000, 72.000, 8.000,
+22.000, 10.000 e mais.
+Empreendedores, empresários, médicos,
+profissionais independentes,
+programadores, arquitetos de software
+e muito mais. Agora vamos ao que interessa.
+Que chato ter que explicar isso para você.
+Clínicas de estética. Hoje existem milhares
+de pessoas aprendendo MCP, agentes de
+IA e N8N, programação usando a nuvem,
+Criar automações. Eles são lançados
+ferramentas todos os dias para
+para facilitar o seu processo de, ou melhor,
+Não empreender, mas criar outros.
+ferramentas com inteligência
+artificial. Então você vai, e aprende isso
+ferramenta, você entende, e depois eu
+Pergunta: "Kelv, o que posso vender?"
+O que posso fazer agora?
+O que posso criar com esta ferramenta?
+Como posso configurar um SaaS? O que vou fazer?
+O que fazer com isso?" Se você está pensando
+Exatamente isso, você já começou com o pé esquerdo.
+. Então você terá que entender muito bem
+Este exemplo de clínicas é bom.
+estéticas que vou apresentar aqui, e
+Basicamente, como vou construir?
+a resolução para este negócio
+entediado. Eu faço exatamente o oposto de
+que. Primeiro, estou procurando um mercado que
+ter muito dinheiro, onde ele já existe
+capital, que já existe um orçamento e que
+estão gastando para crescer; É normal.
+em qualquer mercado em expansão que
+Está acontecendo. O que vem a seguir?
+O que eu faço? Então eu projeto o que é
+arquitetura do dinheiro, como ele circula
+esse dinheiro entre as empresas daquele
+mercado específico e então eu descubro
+De onde está vazando? Qual é o padrão?
+do comportamento desse dreno de dinheiro
+. Porque? Porque se nos concentrarmos
+Para onde está indo o dinheiro, nós já sabemos.
+dinheiro para se recuperar. Você consegue entender?
+Em que a oferta se diferencia? Depois
+Quando descubro que ele está fugindo, pergunto:
+Posso usar a tecnologia e
+inteligência artificial para resolver
+Este problema? Mas eu não vou vender.
+tecnologia ou inteligência artificial,
+Vou vender a recuperação disso
+dinheiro, a dimensão dessa empresa.
+Veja só como é diferente. E
+Vamos fazer isso aqui com um mercado.
+Específico: clínicas de estética. ?
+Porque? Porque o mercado de saúde
+É gigantesco, principalmente no
+setor de beleza, seja masculino ou feminino
+ou feminino. Então será o melhor
+Aqui está um exemplo que posso lhe dar para que...
+para que você possa entender. Mas nós somos
+Estamos falando de 25 milhões de empresas.
+Há empresas demais para você fazer isso.
+. Então guarde isto. Anote isso para
+que você preste atenção. Primeiro passo,
+mercado; Então, dinheiro; Então, fuja;
+Em seguida, crie a infraestrutura e,
+Por fim, expanda sua operação. São
+esses cinco passos que você precisa
+continuar. Salve para não precisar fazer isso.
+Não se esqueça e não se perca no processo.
+Kelvin, estou aqui, sou um empresário.
+que está te observando. O que é isso?
+fazer? Para vocês que me veem, vocês que são
+Empreendedor, você já tem um mercado, você já
+Você tem um nicho. Então você tem que
+Entenda como o dinheiro circula, observe
+Onde está vazando e como aplicar?
+O mesmo raciocínio se aplica a você.
+ainda mais fácil. Agora vamos voltar a
+nosso negócio chato. Eu não quero isso.
+Não se prenda aos números.
+detalhes exatos desse negócio tedioso,
+porque estou simplificando o exemplo.
+para que você entenda todo o processo de
+raciocínio. Imagine o seguinte:
+Imagine, por exemplo, uma clínica de
+Esteticamente, eu até vou colocar isso em
+Em [ __ ], ou melhor, sem [ __ ], eu lhe direi.
+Vou colocar em amarelo. Nossa, está piorando.
+Deixe assim. Aqui está, uma clínica.
+estética. Então, imagine isto
+clínica estética: imagine isso
+Tem capacidade para servir 120 pessoas.
+até 150 pacientes por mês. E o bilhete
+média desta clínica, que nós consultamos
+Por exemplo, é uma clínica com
+Capacidade para atender de 120 a 150 pessoas.
+pacientes por mês. Esses números são
+projeções, ok? Portanto, se
+tem um preço médio de ingresso de
+entre 600 e 2000 reais por
+procedimento, é uma clínica com um
+capacidade de faturamento, um potencial
+faturamento de 72.000 a 240.000
+real. Entendido? Agora vamos para
+comece a descrever os custos que
+Esta clínica pode ter. E você, cara?
+Como fazemos isso, certo? Nós fazemos isso
+pesquisando o mercado. Então, veja
+Não se trata do agora. Você pode usar
+IA, mas você precisa investigar a
+mercado para descobrir. Imagine que você tem
+custos de pessoal de 25.000 reais, e
+Para alugar e estrutura, 10.000 reais
+por mês. Além disso, tem um custo de
+aluguel de equipamentos de 5000 mais o
+manutenção. Ele já investe cerca de 10.000.
+reais por mês em marketing. Então,
+Vamos supor que você tenha um total de 50.000.
+reais por mês, ok? Então, antes
+Que esta clínica vai vender alguma coisa, já existem sinais.
+Uma máquina que custa dinheiro. Em um
+clínica, você sabe que a maioria não
+Apresenta recorrência. Deixe-me ver se meu
+A tela está gravando bem para
+Você está aqui. Deixe-me baixar isso aqui.
+. Numa clínica, você sabe que não é esse o caso.
+Há recorrência. Na verdade, em
+Na realidade, pode ser construído. Pode
+construir um modelo de negócios que
+geram recorrência, mas a maioria não.
+Ela tem isso. Então, antes disso
+A clínica vende, ela já tem essa máquina.
+custando 50.000 por mês. No início do
+Este mês, já está com um saldo negativo de 50.000. E
+É aqui que as coisas começam a ficar interessantes.
+interessante. Porque? Porque o
+problema do proprietário
+Esta clínica não é inteligente.
+artificial. O problema com isso é que
+A clínica é outra questão. Essa pessoa não
+Acorda no meio da noite com a cabeça
+dizendo: "Meu Deus, Senhor,
+Preciso de um agente autônomo que
+"Por favor, responda apenas para mim no WhatsApp."
+Não faz isso. Isso é uma utopia. Não
+Ele acorda querendo um CRM. Que
+É isso que você pensa? Como faço para...
+Podemos atender mais pacientes nesta clínica?
+Como devo estruturá-lo? Como faço para...
+que esta operação gera mais dinheiro
+De quanto custa? Preciso vender mais
+de 50.000 apenas para atingir o ponto de equilíbrio, sem
+contabilizar impostos sobre vendas.
+Uma vez que entendermos isso, o que...
+É isso que eu deveria começar a fazer? Eu começo a
+Desmantelar completamente esta empresa.
+Então, vamos desmontar.
+economicamente para esta empresa que
+Estamos analisando este setor.
+específico. E é importante: se eu fizer
+Estou fazendo isso para uma clínica.
+qualquer outra clínica. Primeiro,
+Como essa clínica gera demanda?
+Porque ela precisa, ela precisa gerar
+demanda. E depois que ele gera o
+demanda, o que ela precisa fazer?
+Você precisa de alguém que cuide de você.
+Essa exigência, porque terá que
+Atenda-a. E depois que ele comparecer
+Essa demanda exigirá que
+A atenção se transforma em um compromisso,
+Porque isso é muito importante. Então,
+a pessoa, a pessoa que estava escalada
+, precisará comparecer. Porque?
+Porque se não aparecer, é inútil.
+Ocupamos um espaço na agenda e
+quando essa pessoa aparece no
+Na clínica, você precisa comprar. Então,
+Alguém vai precisar disso quando ela
+Alguém aparece na clínica.
+Ele terá que vender para ele. Portanto,
+Existe um processo de vendas. Depois,
+Essa clínica que ele vendeu precisará de
+para proporcionar uma boa experiência a isso
+pessoa. Essa boa experiência é muito
+importante; Isso é um problema
+físico, um problema de atenção e
+Idealmente, para conseguir este cliente
+Compre novamente para que possamos criar
+um processo de recompra cada vez mais frequente.
+Agora observe o seguinte e veja o que
+Isso aparece quando começo a procurar defeitos.
+Neste processo, porque isto aqui
+É a maneira ideal. Então, depois
+Partindo da compreensão do caminho ideal, passamos para...
+mapear um cenário de falha. Então
+uma clínica que não consegue gerar
+pacientes suficientes, não pode.
+justificar o negócio. Portanto,
+Você precisa gerar aqui, no mínimo,
+50 com um bilhete real de 1000 para
+para poder sustentar este negócio. Agora,
+Imagine o seguinte: se você investir 10
+000 em tráfego pago, mas leva 3
+horas para responder. É um cenário diferente.
+de fracassos. Ele responde, mas ninguém responde.
+O acompanhamento é outro cenário de
+falhas. Se você agendar 100 pessoas e 40
+Eles não aparecem; É mais um cenário de fracasso.
+. Então, aqui estamos mapeando o
+cenários de falha. Então, falha.
+manter um fluxo constante de leads,
+não consegue atender o paciente agendado.
+Na verdade, parece que não está vendendo.
+pacotes ou planos recorrentes. Então
+Imagine o seguinte: se um cliente
+parece querer um procedimento de
+500 reais e ninguém consegue vender um para ele.
+protocolo de 3000 reais, é um
+cenário de falha. O cliente chega
+para realizar um procedimento de 500 dólares, mas
+com uma boa estrutura e um bom
+capacidade do produto, escada de
+valor e compreensão da dor de
+Para o cliente, um protocolo pode ser vendido.
+3000 ou 4000. Qual é o protocolo?
+Bem, a pessoa vai vender vários
+sessões de 500 reais, por exemplo.
+Então imagine o seguinte: se o
+O procedimento custa 500 reais, 2, 4,
+6... existem seis procedimentos de 500
+real. Eu consigo até gerar
+competência. Agora vamos analisar outro.
+cenário. Se essa empresa atender 150
+clientes por mês e depois nunca mais.
+Fale com eles, essas pessoas nunca
+Eles comprarão novamente; É um cenário diferente.
+do fracasso. Então, basicamente, não.
+Eles conseguem manter os clientes por muito tempo.
+meses nem incentivar a recompra. E
+agora? Agora vamos entrar em
+criar o mecanismo que impede aqueles
+falhas. Olha que interessante. Olhar
+aqui. Nichos de mercado, nós entendemos o
+Nós elaboramos o fluxo de caixa,
+Mapeamos o cenário de falha e agora
+Vamos começar a projetar o mecanismo.
+o que impede essas falhas. Rápido, preste atenção
+Preste atenção nisto. Escolhendo o mercado
+apropriado, elabore a oferta com
+adequação real ao mercado, atrair clientes
+leads qualificados e direcionados
+triagem, monitoramento e
+lembretes, participe da chamada com
+O cliente em potencial está pronto para comprar, feche o negócio.
+suas vendas usando frameworks e scripts
+validados e entregar resultados com um
+Padrão estruturado para o seu cliente.
+Reúna feedback, desempenho,
+identificar gargalos
+estrutural, otimizar, dimensionar e
+Crie sua infraestrutura de IA. Todos
+É isto que nós ajudamos você a fazer.
+Aqui na Acelera 360, para o seu
+negócios suficientes para levar sua ideia ao
+realidade. Então, se você quiser
+empreender, gerar resultados e concluir
+contratos de 30, 40 ou 50 mil reais, o
+O link para inscrição no Acelera é
+aqui na descrição deste vídeo.
+Clique aqui, cadastre-se e candidate-se.
+para Acelera 360. Se você ainda não fez isso.
+Entendo perfeitamente do que se trata.
+A infraestrutura vai funcionar?
+Será que não funciona? Neste sábado
+Vou ministrar um workshop no sábado.
+12, que será um workshop de mais ou
+Menos umas 4 ou 5 horas. Então, faça
+Clique também no link que é
+aqui na descrição deste vídeo
+para nossa oficina e comprá-lo, porque
+Custa apenas 69 ou 49 reais, algo assim.
+Clique aqui e compre agora para que
+Não perca esta oportunidade. Qual
+Quais são os mecanismos de falha? Vamos
+projetar mecanismos para evitar
+aquelas falhas que mapeamos. Nossa,
+Kelvin, eu sei, é irritante, mas isso
+Isso vai te ajudar a fechar grandes negócios com
+inteligência artificial. E não é para
+"Vender" é para você vender o serviço.
+para que você possa vender o resultado e
+operacionalizar isso. Por exemplo,
+oferta genérica. Você vai lá e
+Você reempacota isso em uma oferta premium,
+no programa premium desse cliente
+"Seu", não sei como fazer ofertas."
+É aí que a IA sabe, é simples assim.
+Sistema sem previsibilidade no
+Geração de leads. Estruturas
+campanhas e funis de aquisição que
+são automatizados e validados para
+clínicas. Problema com o rastreamento,
+Você cria automações no WhatsApp,
+e-mails, mais confirmações e
+nutrição até a chegada desse chumbo
+. Não há roteiro nem comprovação social de venda.
+. Você estrutura um roteiro de vendas, além de
+a implementação de um CRM para fazer
+o acompanhamento. Atenção, manual, você cria
+um manual padronizado, mais fluxos de trabalho
+Eu trabalho por uma experiência.
+consistente. Sem uma estratégia
+Retenção e promoção, você cria um programa
+programa de fidelidade mais oferta de venda adicional,
+mais referências cruzadas, mais validadas,
+automatizado. Você também cria um
+processo estruturado para trabalhar com
+Tudo isso em um modelo que prioriza a inteligência artificial. E
+Você integra isso em uma infraestrutura.
+crescimento inteligente
+artificial. A pequena empresa de
+a estética enfrenta o mesmo
+obstáculos que impedem as agências,
+consultores e qualquer outra empresa de
+serviços em escala superior a 100.000
+reais por mês. Você percebe o grande
+Qual a diferença entre isto? Quando falamos sobre
+Se ninguém gerar demanda, nós...
+falando sobre aquisição. Quando
+Estamos falando de um atraso na resposta a
+Quando falamos em liderança, estamos falando de atenção.
+Quando dizemos que alguém não
+agenda, estamos falando de conversão
+. Quando falamos de "não comparecimento",
+Entramos com confirmação e
+monitoramento, que é um processo. Quando não
+Está à venda, entramos com o copiloto.
+comercial. Quando não há recompra, é CRM.
+Mais ativação, mais processo. ?
+Você percebe a grande diferença que você não percebe.
+Sentei-me aqui pensando: "Vou criar".
+Um agente do WhatsApp? Eu encontrei
+dinheiro onde está sendo perdido hoje e
+Eu criei um mecanismo para impedir isso.
+Esse dinheiro continua sendo desviado até hoje no
+negócios dessa empresa. Você entendeu?
+Então é disso que se trata. Ele
+Um iniciante está em busca de uma nova ideia, mas
+o empreendedor que quer ser
+empresário procurando onde ele está
+perdendo dinheiro, porque lá,
+Ao resolver esse problema, você alcançará
+ganhar dinheiro. E isso permite que você carregue
+Configuração mais recorrência. Isso permite que você
+configuração de cobrança mais recorrência mais um
+porcentagem do resultado. Isso irá
+Isso permite que você faça contratos. Um contrato
+anual de 120.000 reais por mês ou por
+ano. Um contrato anual de 100.000
+reais por ano. Um contrato anual de
+150 mil reais por ano, Kelvin, mas eu
+Eu construí tudo isso. Ok, você chegou ao
+Um ponto interessante. O cara diz,
+Construa tudo isso, chegue ao
+clínica e diz: "Olha, eu vendo IA para
+Atenção, desenvolvi um CRM para
+"Clínica médica." Ok, é
+tornou-se uma mercadoria. Porque?
+Porque então o dono do
+A clínica pergunta: "Ah, quanto custa?"
+Ela vai perguntar quanto custa.
+Aí você chega lá e pensa: "Ah, alguns..."
+"2.000 reais." O outro vai e diz 800.
+Logo alguém aparece.
+Fazendo isso por 300. Por quê? Porque
+Você está vendendo tecnologia, eu
+Eu venderia o resultado financeiro. ?
+O que isto significa? Eu tenho um
+solução. Na verdade, eu tenho um
+serviço no qual eu ficarei sentado aqui,
+Vou implementar isso na sua clínica e eu
+que sua clínica fatura mais 300.000
+ano. É completamente diferente. ?
+Como? Com a nossa metodologia,
+nosso processo e nossa tecnologia.
+Agora vamos analisar os aspectos econômicos.
+Para ajudar você a entender,
+Sim? Vamos dar uma olhada aqui. Vamos fazer o primeiro.
+cenário. Uma clínica de estética.
+Primeiro, números hipotéticos. Imaginar
+que lida com 200 leads, ou melhor,
+Recebe 200 leads. Então tem 100
+atenções. Das 200 oportunidades, ele consegue...
+Realizar 100 serviços. Atenção. De
+Desses 100 serviços aqui, temos 40.
+agendamento, eles agendaram a consulta.
+Das 40 consultas, temos 25 agendadas.
+assistência. Ah, eu não vou escrever.
+todos. E dessas 25 assistências, nós temos
+10 vendas. Vamos supor que haja 10 vendas.
+de 1.000 reais para o cálculo
+Não é fácil aqui, porque eu não sou
+matemático. Isso dá 10.000 reais.
+cobrança. Não vamos aumentar agora.
+leads, não vamos fazer nada. Imaginar
+Em seguida, imagine que isto
+A infraestrutura não gera absolutamente
+Sem mais pistas. São os mesmos 200
+Os leads estão chegando, só que agora com um
+infraestrutura funcionando nessa base de
+dados, trabalhando com esses clientes dentro de
+da clínica seguindo o processo adequado,
+Com os agentes trabalhando, tudo está bem.
+organizado, as mesmas 200 pistas, não
+Escreverei o resto aqui. Ah, muito.
+Eu trabalho escrevendo. Exceto que em
+Em vez de 100 visitas, vamos supor que
+Oferecemos 180 serviços. Após 180
+Convertemos 80 agendamentos. E
+Ali, com a nossa estrutura, conseguimos alcançar
+Obtenha 55 assistências e 30 vendas. Ele
+Mesmo bilhete, 30 por 1000 dá 30.000.
+Veja só essa diferença absurda. Imaginar
+que dessas 30 vendas conseguimos fazer um
+oferecer produtos adicionais a 10% deles, em vez de
+1000 vezes 3000. Portanto, 10% de 30
+É 3. 3 vezes 3 dá 9, mais 9 mil, então
+Isso representaria um adicional de 39.000.
+Logicamente, este é um exemplo.
+hipotético, mas você entende o
+Qual é a lógica por trás disso? Você consegue entender o
+lógica de infraestrutura
+inteligência artificial? Eu não sou
+Venda de IA. Não vou vender IA.
+Estou tentando atacar um
+ineficiência que já existe. Nesta
+Por exemplo, aqui, essa ineficiência
+representa 29.000, 1000 de ineficiência
+operacional. E aqui está a questão que
+Quero te deixar. Quanto custa o seu
+chatbot? Quanto custa o seu CRM?
+Quanto custa a automação?
+O que você vende? Quanto custa o seu site?
+Qual o preço de continuar perdendo tudo?
+esse dinheiro todo mês? Kelvin, mas é
+É muito difícil para mim fazer isso. Lá
+É aí que entra a verticalização.
+Porque? Porque se você fizer isso pelo
+primeira clínica, é totalmente
+personalizado. Para a segunda clínica
+Você reutiliza 20%. Pela terceira vez
+Na clínica, reutilizam-se 30%. Para o
+Quarta clínica, você vai e reutiliza 50
+%. Para a quinta clínica, você reutiliza
+60%. Nesse processo, você irá
+transformando-o em um produto,
+aprendizagem, coleta de dados,
+gerando mais casos e resultados, e
+Você acaba se tornando alguém que será
+extremamente difícil de substituir. Você
+a empresa se torna mais complexa
+Absurdo ser substituído. E assim é.
+como as pessoas estão se tornando
+milionário com negócios muito
+tedioso. Porque? Porque nós somos
+falando de 25 milhões de empresas que
+Eles precisam passar por uma transformação.
+com inteligência artificial, ou então,
+Eles sofrerão o que se chama de obsolescência.
+Competitivo em 18 meses. Essa é a principal.
+chance. E, mais uma vez, se você quiser
+Explore esta oportunidade, crie uma
+infraestrutura de crescimento com
+inteligência artificial, acelerar e
+pular o processo de tentar
+aprender. Você que é dono
+agência, consultor, gestor de tráfego,
+desenvolvedor, arquiteto de software,
+que você faça cursos de IA e mais cursos e
+Ninguém vai te ensinar a andar de bicicleta
+modelo de negócios, para vender e escalar
+esse. Em seguida, clique no link e
+Candidate-se à Acelar 360. Siga-me.
+Aqui está e dê um "curtir". Ei,
+Você ainda não se sente confortável, não é o
+Espere, você está sem dinheiro? Compre o
+Venha participar do workshop e consumir mais conteúdo.
+Venha compreender e aprofundar-se no que
+É uma infraestrutura de crescimento.
+Com IA. Negócio? Estamos juntos.
+Era sobre isso que tratava o vídeo.

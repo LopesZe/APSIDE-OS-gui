@@ -1,0 +1,322 @@
+Eu vou mostrar para vocês uma
+representação visual dos workflows que
+rodam, por exemplo, no meu cloudo.
+Rápido para você. Muito prazer. Meu nome
+é Kelvin Clet, eu tenho 34 anos. Eu sou
+um empresário do setor de tecnologia,
+tem uma empresa chamada KCG Group, que é
+uma consultoria de software e também tô
+à frente da Acelera 360. Para você que
+não conhece Acelera, nós somos um
+ecossistema voltado para empreendedores
+e empresários focados em transformação
+AI first. É isso mesmo. Aqui a gente
+cria soluções e ferramentas mais
+formação para ajudar você a criar sua
+própria infraestrutura de ar. Esse é o
+foco. Ferramentas prontas, estrutura
+pronta, formação pronta para você
+simplesmente montar os Legos, os a gente
+chama aqui de building blocks, você
+juntar ali os bloquinhos e criar aí a
+sua infraestrutura de a proprietária. Se
+você quiser conhecer mais sobre a Celara
+360, eu convido você a clicar no link
+que tá aqui na descrição desse vídeo.
+Bora lá então galera, seguinte, hoje a
+minha arquitetura principal vai, a minha
+IA principal é o Cloud Code. É aqui que
+eu crio, que eu desenvolvo, que eu
+estruturo landing pages, crio agentes,
+desenvolvo sistemas. Inclusive, ó, ele
+está aqui nesse exato momento editando
+os meus novos criativos. Tá vendo que
+ele fez o corte aqui, ó, na parte de
+cima, corte baixo, ele já tá fazendo a
+edição aqui. Deixa eu ver. Headline
+amarelo. Headline amarelo. Ó, vou
+colocar um headline amarela aqui.
+Conheça, acelera 360.
+Isso. Ã, só marcar ecossistema de Vou
+colocar aqui, Conheço acelera 360, fixo
+no topo do vídeo. Beleza? Aqui
+basicamente ele já tá editando para mim,
+tá? Então ele colocou a legenda, ele já
+acelerou o vídeo, já colocou a parte de
+baixo aqui, tá bem casado. Mas qual que
+é o grande foco aqui? Eu eu montei essa
+essa carinha aqui para você ter uma
+representação visual do que que é uma
+squad de agentes. Então eu tenho vários
+agentes, até coloquei um nome neles, o
+orquestrador, o estrategista de nicho,
+inteligência de mercado, COP e o CO.
+Para quem não sabe o que é CO, é o chefe
+de receita, a pessoa responsável por
+trazer o dinheiro. Eh, aqui eu coloquei
+a direção de arte, arquiteto de go to
+marketing e o que há aqui mais uma
+curadoria que é o juiz, né? É o cara que
+arbitra. Esse esse sistema ele funciona
+numa estrutura de loop. São agentes que
+funcionam em loop. Aqui ele está usando
+o cloud code por trás, mas poderia estar
+usando o cloud API ou qualquer outra
+ferramenta. Então, qual que é o grande
+conceito? Então assim, ó, quero eh
+estruture para mim o nicho de
+dermatologia
+com foco em venda de soluções
+tex para esse nicho. Pum. Que que vai
+acontecer aqui? Aqui ele vai passar por
+todo o processo de eh mapear o nicho, ó.
+Então ele começou aqui, ó, estrategista
+de inteligência. Eh, primeiro, então ele
+em paralelo aquele alimenta o outro. Daí
+ele vai lá, clínica de dermatologia, ó,
+não é commod, quem decide é o
+dermatologista dono. Então ele vai
+começar a mapear. Cada gente aqui mapeia
+uma coisa. E olha que legal, começou a
+trabalhar, trabalhando, trabalhando.
+Esses dois terminou, aí vem pro
+orquestrador, vai gerando os outros, ó.
+Então ele vai gerando os os assets. Aqui
+ele já montou o assets do nicho, do
+mapeamento do nicho. Quem é esse nicho?
+O porte das empresas, faturamento,
+ticket médio, de onde ele é, decisor,
+gatilho. Três dores centrais. Ó, começou
+a gerar os demais, ó. Eh, a agenda
+imprevisível, eh, lead que esfria,
+agência que não mede paciente, montou o
+mecanismo proprietário. Olha que
+interessante. Primeiro a gente faz a
+pesquisa do nicho. E tudo isso daqui são
+agentes, são agentes com habilidade
+em eh eh fluxo, em workflow. Por
+exemplo, se o QA pegar alguma coisa que
+não aprovou, ele vai jogar pro de cima,
+refazer aquilo que ele não aprovou. E
+aqui embaixo a gente adicionou um log
+aqui de atividades. Cara, eu achei tão
+bonito esse layout aqui foi desenhado
+pelo Open Design, gente. Ficou muito
+legal essa estruturazinha aqui. Então,
+aqui que ele, ó, ele montou a land page
+agora. Tá vendo, ó? Aqui já, aqui
+praticamente ele já montou uma estrutura
+inteira. Poderia ser qualquer nicho,
+poderia ser qualquer ferramenta. Aqui
+tem uma arquitetura de ag uma
+arquitetura agêntica. uma estrutura de
+agentes de a que trabalham ali de forma
+paralela, pesquisando mercado, raspando
+mercado, entendendo quais são eh os
+órgãos reguladores do mercado,
+entendendo base de concorrentes local,
+top player, analisando eh eh reclame
+aqui, entre outros. Então ele pega um
+monte de informação junta e raciocina,
+né? Ele sintetiza isso daqui com o
+objetivo final disso, trazer o mapa do
+nicho, eh, classificação de dor, preço.
+Esse daqui tá montado para quem é
+empreendedor, para quem é consultor de
+IA. Por quê? Porque o foco principal
+aqui dos meus alunos da Acelera lá no
+começo era empreender com IA. Agora que
+tá sendo para empreendedor e empresário,
+inclusive, mais uma vez, para você que é
+empresário, quer ter ferramentas,
+soluções, plugin play com código fonte
+sendo ativo da tua operação para você
+criar sua própria infra de ar, sua
+operação automatizada, clica aqui, o
+link tá na descrição desse vídeo, vem
+conhecer, acelera. Já montou os
+criativos? Olha os criativos que bacana
+que ele montou aqui. Tá cortando, ó.
+layout não ficou legal aqui nessa na
+telinha pequena tá cortando. Eh, tenho
+que colocar um botão para esconder essa
+lateral aqui. Agenda cheia pela pela
+tratada.
+Sua agenda lotada no automático. Olha
+que bacana, ele já montou aqui. A gente
+já tá integrado com o Rey Jen, se eu não
+me engano. Ah, não. Nano Bana. Nano
+Banana montou a LP. Então ele já deixou
+toda a LP estruturada como se fosse uma
+oferta, tudo bonitinho, previsibilidade
+no lugar de boca a boca e sorte. Traz os
+números. Esses, onde que ele puxou esses
+números, cara? Você só forneceu, Kelvin,
+algumas informações. Aonde ele puxou?
+Olha aqui, ó. Mapeamento de nicho,
+pesquisa de mercado. Primeiro, entender
+o tan san. Entender todas as
+oportunidades, olhar pro reclame aqui,
+entender quais são as dores para aí sim
+a gente cair para uma COP, para uma
+estruturação de uma Ling page completa,
+explicando como funciona. Ah, aquele não
+gerou, ó. Que droga. Aquele não gerou.
+Deveria ter gerado. Resultado, plano.
+Perguntas. agendar o diagnóstico. Então,
+ele já escolheu um fundo de diagnóstico.
+Aqui ele montou já um pitdeck. Aqui ele
+montou um plano, um plano go to
+marketing. Que que é o plano go to
+marketing? É aquilo que eu vou levar pro
+mercado. Primeiro contato direto, como
+que tem que ser feito, conexão de prova
+social, quebra de objeção. Olha que
+loucura, ele já montou completamente o
+calendário.
+E aí aqui um playbook de vendas. E o que
+que é legal nessa ferramenta aqui? que
+isso daqui é a pontinha do iceberg,
+porque nós usamos no cloud code. Por
+quê? Porque é muito mais dinâmico fazer
+pelo cloud code. Então a gente tem aqui,
+ó, é mapeamento de nicho, preparação
+para reunião, a gente tem Pitdeck,
+Builder, Playbook, Próvenda, a gente tem
+aqui radar de pautas, a gente tem aqui
+roteiro e cop de ads, toda a estrutura.
+E fora essas daqui, eu tenho toda uma
+estrutura de marketing mesmo, né? de eh
+leitura de campanha, eh estratégias de
+publicação em campanha ou pera aí que eu
+coloquei errado aí, estratégias de
+publicação em campanha, Google Ads,
+Metaads, geração de cópia, geração de
+criativo. Cara, isso aqui agiliza
+demais. Aí a pergunta é: para que que
+você precisa de uma agência? Para que
+que você vai precisar de uma estrutura,
+de uma agência que não vai te entregar
+nenhum décimo disso aqui? Você tá
+alugando uma fração lá de uma agência,
+de um profissional, isso é legal,
+beleza? Agiliza até um determinado
+momento, serve para um determinado
+público, mas assim, não é a estrutura
+que vai ajudar você a escalar. Por quê?
+Porque o seu marketing ele não pode ser
+terceirizado. Pelo contrário, o
+marketing ele tem que ser estrutural,
+ele faz parte da espinha dorsal do teu
+negócio, Kelvin, mas não gera legal,
+cara. Se liga, olha isso daqui, ó. Aqui
+análise dos meus concorrentes. Raspei
+eles na internet. Scriptor aqui, ó.
+Criativos. Olha aqui esses criativos.
+Que legal. Pro Esse aqui é pro post
+único, ó. Gerado com Iá, cara. Gerado
+com Iá. Gerado com Iá. Gerado com Iá.
+Gerado com iá. Gerado com Iá. Gerado com
+Iá. Gerado com iá. Foi a época que você
+não tinha coragem de aparecer, por
+exemplo. Olha aqui, ó. Para thumbnail.
+Pá, minha equipe não dorme,
+acorda e tudoá. Olha que interessante.
+Isso aqui é o que vai ser mostrado hoje.
+Isso aqui é, isso aqui são as thumbs
+nesse vídeo aqui. E essa é a sacada. A
+sacada é estruture agentes. Estruture
+agentes pensando como se fosse
+funcionários, pensando como se fossem
+trabalhadores da tua operação. Por quê?
+Porque desse jeito, com esse pensamento,
+você sim vai conseguir internalizar uma
+agência de marketing. Sim, você consegue
+internalizar o desenvolvimento de um
+CRM, da seu SAS, de toda a sua própria
+infraestrutura. E se você não conseguir,
+acelera, tá aqui para já trazer tudo
+isso para você, o cérebro da IA, o
+agente, o a infraestrutura de
+plataforma, segurança da informação e
+tudo mais. O link tá aqui na descrição
+desse vídeo. Entendendo, gente? Esse é o
+jogo. O jogo agora é esse. Cada vez mais
+colocar a IA na ponta pros seus
+colaboradores e principalmente usar a IA
+pra criação das suas ferramentas. Vou
+dar um outro exemplo aqui, um outro
+exemplo aleatório. Isso é muito legal. É
+isso aqui é um documento chamado OPR,
+que é o one page report. Que que é o One
+Page Report, Kelvin? É um relatório onde
+o time apresenta mostrando quais foram
+os ofensores, o que que deu certo, o que
+que não deu certo, que funcionou, que
+não funcionou. Aí eles mandam esse link
+aqui, eles mandam esse link no WhatsApp
+porque o agente gera em HTML, eles
+baixam e mandam e aí a gente olha e
+analisa. Então qual que é o custo real,
+qual que é a taxa de sucesso, eh qualos
+consolidador de vendas da Kify, os dados
+da QF estão aqui também. Funil de
+conversão mestre da QFI aos do até o dia
+14, qual que é a estrutura dele aí? Vem
+aqui, ó, eh, curva diária dos leads,
+agendamento e vendas. Então, ele traz
+aqui também, isso é muito interessante,
+ele traz todo o calendário. Olha que
+louco, cara. Isso aqui é o Zá. Não fui
+eu que fiz. Sabe quem fez isso aqui? Foi
+uma pessoa responsável pelo meu time de
+vendas. Por quê? Porque ele está com o
+Cloud Code na mão, ele está lá
+respirando o cloud Code, ele está lá eh
+testando as fronteiras e espalhando isso
+pro time. Essa é a cultura AI first.
+Essa é a cultura de transformação do teu
+negócio. Entenda uma coisa, o novo não
+existe. Você vai ter que desbravar, você
+vai ter que descobrir ou você vai ficar
+sentado e esperar outra pessoa descobrir
+por você. Agora, deixa eu te contar uma
+coisa. Se outra pessoa descobrir por
+você, sabe o que que acontece? ela sai
+na frente e você para no tempo. E o
+grande, a grande preocupação é aí a se
+afastar tanto de você que vai chegar um
+momento que você não vai conseguir mais
+acompanhar a IA. Eu sei que talvez você
+fala assim: "Pô, eu não tenho mais tempo
+de nada, ainda vou ter que estudar IA."
+Você tem que entender as fronteiras, o
+básico você tem que e estudar. E é por
+isso que na Acelera eu abro cadeira pros
+funcionários, porque daí você joga eles
+para aprender também, mas você vai ter
+que fazer. Fechou? Esse vídeo foi sobre
+isso, foi para dar um overview geral. do
+que é ou não capaz. Essas mesmas skills
+foram as skills do vídeo lá da JB.
+Inclusive, vocês acreditam que ligaram
+pro cara da JB, velho? Ô, a verdade que
+o Kelvin é isso, que o Kelvin é aquilo,
+a verdade que ele é cliente de você, que
+vocês são clientes deles. Cara, que
+loucura, gente. Vocês são isso aí é
+coisa de louco. Que preocupação é essa,
+cara? Meu Deus, tá doido.
+Ai, ai, só Deus. Mas tá bom, gente.
+Por último, fica aqui, ó. Deixa o seu
+joinha nesse vídeo, deixa seu like,
+deixa seu comentário, apoia aí o nosso
+canal a crescer, principalmente se você
+quiser conhecer, acelera o link tá aqui
+na descrição desse vídeo. E se você
+quiser participar do nosso workshop, a
+gente vai fazer um workshop prático no
+dia 20/06 chamado a nova economia da
+inteligência artificial, é só você
+clicar no link que tá na descrição desse
+vídeo também. Tchau vocês, falou. M.

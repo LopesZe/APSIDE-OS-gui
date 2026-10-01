@@ -1,0 +1,633 @@
+A primeira empresa que eu montei, que
+deu certo era uma empresa baseada em
+SAS, no modelo de negócio SAS, na
+verdade, que é a General Clans. Mas
+nesse vídeo aqui eu vou passar para
+vocês a minha visão sobre SAS de
+inteligência artificial em 2026 e o
+porqu esse é um modelo que você não
+deveria fazer. Seguinte, o modelo de
+negócio do SARS, modelo de negócio de
+SAS, ele é extremamente alavancado. Que
+que é um negócio, um modelo de negócio
+alavancado? É o seguinte, isso aqui é
+uma alavanca que a gente tem a base de
+apoio. Isso aqui tem alavanca. Todo
+mundo sabe, acho que você deve saber que
+quanto maior for essa área de
+alavancagem e menor com relacionada a
+essa área aqui, menos força você tem que
+fazer aqui nessa ponta para você
+levantar o peso. Então, um negócio
+alavancado significa o seguinte, que
+você tem que fazer menos força potente
+para ter mais resultado. Quanto maior a
+alavanca, menos força você tem que fazer
+para ter mais resultado. Então, é por
+isso que a gente fala de negócios
+alavancados. E SAS é um modelo de
+negócio alavancado, assim como
+infraestrutura de crescimento com
+inteligência arxicial. O SAS de A é um
+negócio extremamente alavancado, mas
+você tem que entender algumas coisas.
+Vamos lá. SAS é um excelente negócio.
+Ponto. Não é ruim. O que que é ruim? O
+jeito como você provavelmente vai fazer,
+como o mercado tá fazendo e o que vão
+pregar para você fazer. principalmente
+esses gurus ou experts que nunca fizeram
+realmente uma empresa de tecnologia, um
+software ASA Service que bateu ali eh
+números realmente [&nbsp;__&nbsp;] SAS ele tem MRR
+ou ARR e ARR, né, que é receita
+recorrente. Que que é o SAS? Que que é o
+software as servic? é o conceito do
+negócio. Você perde, perde não, você
+investe dinheiro ou tempo criando o
+software. Esse software, ele pode ser
+web, pode ser uma uma licença, um
+hardware, um software embedado, que
+seja, mas o modelo dele é você não vai
+vender o software, você vai vender uma
+licença desse software. Então, a pessoa
+ela paga para usar, ela aluga o software
+de você, ela aluga todas as
+funcionalidades. Então, basicamente o
+que que acontece? Todo mês você recebe
+um aluguelzinho dos seus usuários. E
+qual que é a lógica do SAS? Você pode,
+tem aqui, tem diversos modelos de
+precificação por usuário, por uso, por
+[&nbsp;__&nbsp;] merda, tem um monte. O ponto é,
+vamos, vamos estabelecer uma plataforma
+que cobra por usuários. R$ 100
+por usuário.
+Então essa plataforma ela dá dinheiro
+como? Quanto mais usuário você tem,
+então aqui, ó, num volume de usuário,
+com relação ao tempo,
+maior é a sua receita. Simples assim,
+entendeu? Vamos colocar aqui melhor a
+receita. Vamos melhorar receita e número
+de usuários. Então, quanto maior o
+número de usuários, 10, 20, 30, 40, 50,
+né? maior a sua receita, maior o seu
+faturamento, maior é mais dinheiro c no
+teu bolso. E isso aqui é maravilhoso
+porque significa que você não começa o
+mês no negativo. A sua empresa, ela tem
+previsibilidade de faturamento, de
+receita. Você não precisa começar o mês
+devendo. É lindo.
+Na teoria, a gente vai chegar na
+prática. SAS também tem altas margens.
+Por que que ele tem altas margens?
+Porque você tem um custo alto para
+desenvolver,
+mas você tem um custo baixo para
+sustentar, para manter. E tem um ponto
+muito legal que é que dependendo da
+quantidade de usuários, é indiferente o
+número de desenvolvedores e de time para
+sustentar ou melhorar a ferramenta.
+Então ele é altamente escalável e ele
+tem altas margens porque as despesas não
+crescem de forma proporcional com o
+volume de clientes ou volume de
+usuários. Conseguiu entender? Porque ele
+é um modelo tão bonito e aí ele traz
+escalabilidade e traz altas margens.
+Nossa, Kelvin, mas qual que é o
+problema? O problema é o seguinte, ó.
+O problema é que ninguém, absolutamente
+ninguém nasce criando um SAS, um
+software as a services. Os maiores do
+mercado não nasceram como SAS. Se você
+pegar o Pipefi, por exemplo, do Alécio,
+o PipeFi era outra coisa completamente
+diferente antes da antes dele criar
+literalmente o Pf o Pipefi. O Aless é um
+dos fundadores do Pipefi.
+Tem nada a ver. Não era não era isso,
+era outra coisa. uma empresa de
+software,
+só que em algum momento da jornada, olha
+que louco, ó, vou pegar o caso do PipeFi
+aqui, ó. Pipefi, para quem não conhece,
+é um software de gestão, um dos
+principais do país. Vamos pegar aqui a
+linha do tempo. Essa aqui é a linha do
+tempo da vida, ó. Ano zero do negócio e
+10, ano 10.
+A empresa ela nasce aqui e ela nasceu
+nessa época com, por exemplo, uma
+fábrica de software. E aí o que
+acontece? começou a pegar um cliente,
+dois clientes, três clientes, quatro
+clientes. Ano um, ano dois, ano três,
+ano 4, ano 5, 6, ano 7, ano 8, ano 9,
+ano 10. Aí chegou aqui no um ano um com
+cinco clientes. Aí o que aconteceu aqui
+no ano um, [&nbsp;__&nbsp;] o cara falou:
+"Caramba, cara, vários projetos, vários
+projetos de gestão. Preciso de um
+software para fazer gestão porque o que
+tem no mercado não me atende." Aí ele
+foi lá e desenvolveu um software de
+gestão para ele. Aí no ano dois, os
+clientes dele falam assim: "Pô, esse
+software de gestão é muito bom, eu posso
+usar? Aí ele, hum, opa, tem um negócio
+aqui, tem um negócio aqui. Todo mundo tá
+querendo esse software de gestão porque
+os softwares de gestão do mercado não
+são compatíveis. Ah, mas tem o Trelo,
+mas o Trelo não tem isso, isso, isso,
+isso, isso. Trelo não faz isso, isso.
+Então, olha queira, nasce, nasceu
+prestando o serviço, identificou, criou
+uma plataforma, uma solução própria,
+disponibilizou essa solução para os seus
+clientes no modelo MVP. Vamos sair com
+ela para fora do mercado.
+Produtizou,
+cresceu a base de clientes. Aí o que que
+ele fez?
+Atrás de investimento.
+Para que investimento? Porque o grande
+segredo do SAS é pegar mercado mais
+rápido possível. Simplesmente isso. Qual
+que é SAS? Porque o Uber é o Uber. Por
+que que não nasce um outro Uber igual ao
+Uber?
+É tão simples, simples de desenvolver,
+mas todo mundo sabe a receita, tem até
+free, porque a questão não é o produto,
+a questão é o mercado, é quanto por
+cento do market share você tem, quantos
+clientes você tem, você tem Uber tem uma
+complexidade gigantesca porque é um
+modelo de marketplace, tem que ter
+usuários de um lado e taxistas ou e eh
+carros do outro e um pedindo o outro.
+Tem que ter a demanda ainda pr os dois
+estarem conectados. Olha que doideira,
+olha que complexidade. E para isso
+precisa do quê?
+de muita, mas muita
+grana, mais muita grana. Ah, Kelvin, mas
+eu não quero fazer um SAS. Eu não quero
+fazer um SAS para ficar bilionário. Eu
+não quero criar um unicórnio. Show de
+bola. Uma pausa rápida nesse vídeo para
+falar para você que no dia 31/01 nós
+vamos fazer um evento presencial aqui em
+Alphaaville, Barueri, São Paulo. É um
+evento extremamente exclusivo chamado
+Vertical Air Experience. Nós temos
+apenas 100 vagas. Aqui nesse evento nós
+vamos falar sobre inteligência
+artificial, modelo de negócio e
+principalmente como eu posso transformar
+você em um agente transformador do
+mercado. Imagina só você criando a sua
+própria operação AI first, o seu próprio
+sistema operacional e literalmente
+dominando o mercado. Você sabe que você
+tem no máximo uma janela de seis a 12
+meses para aproveitar de oportunidade
+para implementar. Então eu quero te
+ajudar com isso, ó. dia eh dia 31/01
+presencialmente aqui em Alfavil
+Barileira, São Paulo. Para você que é de
+São Paulo ou você que quer tá aí de
+outro estado, vem para cá também. 100
+vagas apenas. Não tem mais que isso.
+Praticamente não é nem evento, é uma
+sala fechada. A gente vai montar painéis
+de discussão. Sabe quem vai tá aqui?
+Juliano Dutra, ex City Show do iFood.
+Foi do zero ao bilhão duas vezes com
+iood com gringo. Rodrigo Lopes da Docket
+e eu falando para você sobre esse
+momento. É um [&nbsp;__&nbsp;] um espaço perfeito
+para network e aprender demais. O link
+para você garantir o teu ingresso tá
+aqui na descrição desse vídeo também.
+Clica agora e preencha. E como são
+apenas 100 vagas, vai ter um formulário
+para você preencher, pra gente analisar
+e ver se é o teu perfil tá aqui com a
+gente. Bora agora vamos entrar na linha
+do SAS de
+ah não. A barreira
+ó, ó o discurso aqui, ó. Ó o discurso
+pros otários. O discurso pros otários. A
+barreira de tecnologia diminuiu. Hoje eu
+tenho o cursor, o lovable, eu tenho o
+Bolt, eu tenho N plataformas no Code.
+Realmente isso aqui, ó, é 100% verdade.
+Isso aqui é verdade. A barreira
+tecnológica diminuiu drasticamente. Ah,
+mas hoje eu posso tirar uma ideia do meu
+cérebro, porque eu tenho uma ideia
+milionária. Todo mundo compraria minha
+ideia. Milionária, igual o pessoal entra
+aqui no Acelera aqui. Eu tenho uma ideia
+milionária aqui, ó. Que que você precisa
+de dinheiro? Ué, mas por que que você
+não investe? Ah, é muito arriscado. Ué,
+ela não é tão boa assim.
+Tem uma ideia milionária para fazer
+milhões, fazer muito dinheiro, fazer
+grana para ficar rico. Aí o cara vai lá
+e faz o quê? Constrói a ideia
+milionária. Aqui dá para fazer, tá? Dá
+para super fazer. Se vocês usar aqui,
+por exemplo, spec Driven Development,
+fazer através de especificação, é
+possível fazer plataformas de excelente
+qualidade, tá? Realmente a barreira
+técnica diminuiu drasticamente. Qualquer
+pessoa hoje que parar um mês e estudar
+sobre desenvolvimento de software usando
+um modelo de vibe coding aqui, ó, vibe
+coding
+consegue criar qualquer plataforma,
+entendeu? Principalmente no modelo de
+crude com e tudo mais. barreira
+tecnológica diminuiu para [&nbsp;__&nbsp;] Aí o
+cara tem a ideia milionária. Por quê?
+Porque ele viu que dá para criar agentes
+no GPT,
+onde ele coloca o prompt dele.
+Aí ele vai lá e cria front
+chamando o agente DPT dele e fala:
+"Pronto,
+agora eu tenho um SAS de A
+feito e eu vou ficar rico".
+Tá? Agora isso aqui, ó. E como que eu
+vendo? E a distribuição. Porque não
+adianta nada se você não ter, não
+adianta nada você ter um prédio que tá
+vazio e não tem inquilino. Então ele vai
+ter o quê? Um monte de custo e tem que
+colocar inquilino dentro. Que a gente
+coloca como? Criando um mecanismo de
+distribuição, que é trazendo o quê?
+Comercial. comercial, que é vendas mais
+marketing. A maioria das pessoas que
+fala para você que tá fazendo muita
+grana com microsas, com SAS, sabe que
+eles têm? Canal de distribuição
+orgânico, assim como eu. Se eu montar um
+SAS hoje, você tá me assistindo, eu
+consigo vender isso aqui a rodo,
+entendeu? Pelo menos eu arranco dinheiro
+de uma licença, no próximo mês vocês
+podem cancelar. Aí é um outro problema
+que eu já vou mostrar aqui, já vou
+mostrar já já. Mas se você for entender,
+eu consigo, que eu tenho o canal de
+distribuição orgânico e mesmo não tendo
+canal de distribuição orgânico, eu tenho
+a habilidade e a capacidade de construir
+funis eh de via tráfego pago para fazer
+a aquisição de cliente, porque eu sei
+construir oferta, porque eu sei
+construir landing page, eu sei construir
+atratividade, eu sei gerar eu sei gerar
+desejo pelas coisas. Então eu consigo
+fazer a venda da minha plataforma.
+Então, por exemplo, aqui eu consigo
+fazer isso. Inclusive, essa estrutura
+toda aqui eu ensino na acelera pros meus
+alunos. Só que assim, eu tenho aluno
+também que quer começar com SAR, já
+falei, cabeça dura, mas é a mesma
+estrutura que eu ensino na Acelera de
+como construir oferta, de como montar
+pit de vendas, de como criar máquina de
+vendas, de como fazer lançamento, funil
+de webinário, eh eh funil de gamificado,
+captação, tudo isso, tudo isso a gente
+chama isso aqui de SOPS, procedimentos
+operacionais para você fazer, por
+exemplo, uma máquina de vendas. Uma
+pausa rápida nesse vídeo para te fazer
+um convite. Para você que é empresário,
+já tem uma empresa, seja você dono de
+agência, de marketing, urugência,
+consultor estratégico ou tem até uma
+fábrica de software aí ou qualquer outra
+empresa, deixa eu te ajudar a escalar
+esse teu negócio com inteligência
+artificial da forma correta. Vamos
+transformar o teu business ou montar uma
+divisão aí específica para ter um AI
+first OS. Que que você acha? A Cara pode
+te ajudar nisso. E para você que quer
+empreender, tá no começo da jornada, tá
+aí, cara, eu quero começar a empreender,
+eu quero começar o meu negócio, deixa eu
+te ajudar a iniciar a tua jornada. Ó,
+para isso, você vai clicar no link que
+tá aqui na descrição desse vídeo e vai
+se inscrever na Acelera 3, na Acelera
+360. Seja você empresário ou você que
+quer começar a sua jornada de
+empreendedorismo. Não perca essa
+oportunidade. Clica aqui agora no link e
+se inscreva. Bora. Agora vamos
+continuar. Tá vendo a loucura? Tá vendo
+a dor de cabeça aí? Aqui, ó, deixa eu te
+contar uma coisa. Mesmo que você saiba
+fazer, você tem que colocar dinheiro. Aí
+aquela jornada que você achou que era
+rápido, porque a barreira de tecnologia
+acabou, no mês zero você fez o SAS, no
+mês um você tá quebrando a cabeça, no
+mês dois você ainda tá quebrando a
+cabeça, cara. Tá aqui, ó, montando
+máquina de vendas e enfiando dinheiro
+aqui, ó.
+enfiando dinheiro aqui para vender. Você
+se preocupou com o produto e não se
+preocupou com a distribuição.
+Deixa eu te contar uma outra coisa. Qual
+que é o ativo tecnológico que seu SAS de
+A tem? Qual que é a complexidade? A
+barreira de tecnologia tá zerada.
+Você tem milhões de usuários pra
+distribuição conectados já na sua
+ferramenta? Não. Logo, você não tem
+diferencial nenhum.
+zero. Qualquer outro que surgir e vender
+melhor que você, tchau e bç. Esse é o
+segundo problema do SAS para você fazer
+no começo, né? Que é o quê? Você vai tá
+lá, ó, volume de clientes
+aqui no eixo Y e no eixo X tempo. Você
+foi lá que começou a sua campanha. Um
+mês, dois meses, três vezes. Legal. Aí
+você tem isso aqui, ó. Clientes 1 2 3
+Bá. Vou colocar aqui, ó, 0 20,
+1000 usuários.
+Você começou aqui, pá, pá, começou no
+zero, começou a pegar os clientes,
+começou a pegar os clientes, no próximo
+mês, ó, cancelamento. Aí você vai de
+novo. Aí é o próximo mês, cancelamento.
+Essa aqui é a curva, ó.
+Se o seu produto não for bom, se o seu
+produto realmente não for aderente, se
+não tiver um negócio que a gente chama
+de PMF, product, que é a conexão do teu
+produto com a necessidade de mercado, se
+não tiver essa aderência, o teu turnso,
+absurdo. Isso aqui é volume de cliente.
+Essa aqui é a curva de turn, ó. Zero
+cliente aqui a linha do turn. Ah, vamos
+colocar aqui 8%, 9%, 10%, 20%, 30%.
+Deixa eu te contar aqui uma média de
+mercado, só para você saber, o turn aqui
+é de 44%.
+Isso aqui é a média, 44%. Tá preparado?
+A cada dois clientes que você consegue,
+no próximo mês, só sobra um, o outro
+sai. Se o seu produto ainda for bom,
+porque se ele for ruim, os dois vão
+sair, tá, Kelvin? Quer dizer que não dá
+certo? dá certo, só que você entende que
+não é o melhor jogo, não faz sentido
+nenhum. E aí, voltando pra história aqui
+que eu expliquei para vocês do PFI, que
+eu já paguei, mas eu vou explicar aqui
+qual que é o verdadeiro jogo. O
+verdadeiro jogo para você aproveitar e
+sim ter um SAS, mas não agora, mas
+também não esperar todo esse tempo para
+conseguir empreender da forma correta, é
+você empreender criando o que eu chamo
+de infraestrutura de crescimento com IA.
+Cria, aproveita o momento da IA e cria
+um sistema operacional, empacota o teu
+conhecimento, a tua habilidade, seja
+você hoje consultor, agência de
+marketing, programador, desenvolvedor,
+não importa você que tá empreendendo ou
+você que tá começando a empreender
+agora, empacota e domina um nicho, pega
+um nicho específico e monta o sistema
+operacional base daquele nicho com o IA.
+Aproveita o movimento. Olha como que
+isso aqui é inteligente, ó. O movimento
+da AI first. Já falei que essa aqui é a
+palavra de 2026. E se você não sabe o
+motivo, você vai pesquisar aqui e vai
+ver meu último vídeo que eu lancei na
+terça-feira e você vai descobrir o
+porque que a first é a palavra de 2026.
+E aí você vai fazer o seguinte, você vai
+estruturar
+o seu ecossistema
+do teu negócio. Então você que é dono de
+agência, esquece, vai virar empresa de
+tecnologia. Você que é consultor, vai
+pegar o teu conhecimento e vai empacotar
+num, a gente vai chamar aqui de sistema
+operacional, você literalmente vai ser
+parte estruturante do novo mercado e vai
+colocar aqui dentro com IA. Você que é
+programador, aí você mesmo que tem que
+fazer isso aqui, porque você consegue
+fazer esse negócio aqui para um nicho.
+Qual que é teu objetivo? Pegar um nicho
+e ser o dono, o principal player daquele
+nicho. E vai empacotar isso aqui, ó.
+Empacotar isso aqui. Só que você não vai
+construir tudo isso aqui no D Z0. Não
+vai fazer isso no D Z0. Você vai fazer o
+seguinte, ó. A jornada trilha da vida,
+dia zero, ano zero e 360 dia 0, dia 365
+de 2026. Você vai fazer o seguinte, ó.
+No seu primeiro mês, você vai estudar um
+nicho, vai pegar um nicho, vai entender
+os gaps daquele nicho e você vai
+estruturar o seu OS, seu sistema
+operacional, vai montar a sua oferta,
+vai montar sua proposta de valor, vai
+montar sua máquina de vendas. Nossa, não
+dá nem para entender. Mês dois vai
+atacar o mercado. Kelvin, não sei montar
+oferta, proposta de valor, máquina de
+venda, não sei. Por isso que você tem
+que estar comigo na Acelera, porque aqui
+a gente tá trilhando essa jornada. A
+gente tá trilhando a jornada da Fest
+Celera, foi criada para isso. 2025,
+quando eu fui fundei ela em março, meu
+objetivo era ajudar pessoas
+programadores a empreender. Hoje dentro
+da Celara a gente já tem mais de 286
+parceiros de negócio, pessoas que são
+donos de agência, empresários,
+industriais,
+eh consultores,
+aposentado, tá cheio. Os aposentados que
+era a diretoria, agora decidiu
+empreender, caíram na conversa dos
+caras. Ah, vamos vender mentoria high
+ticket. Tomar o fumo. Aí que que a gente
+falou, cara? Pega toda essa sua
+metodologia,
+coloca aqui, ó. [&nbsp;__&nbsp;] que pariu. Agora
+entrega. Parei, gente. Parei. Agora
+entreguei o ouro. Volta, volta. Vamos
+para cá. Entendeu? Quer saber mais da
+Celera 360? Clica no link que tá aqui na
+descrição desse vídeo e se inscreve.
+Você vai fazer isso aqui. Se entrar na
+Acelera aqui, a gente vai te dar um
+boost, ó. Tudo pronto, só escolhe o
+nicho e toca o pau. Mês dois vai botar
+essa máquina de venda para rodar. Mês tr
+aqui já entrou o primeiro cliente
+tranquilamente, talvez até o segundo, se
+você meter a pressão, com um setup alto,
+20 30.000 e uma recorrência
+uns 2.500
+3 K por mês, por cliente, daquele seu
+nicho para usar o teu sistema
+operacional. Então, olha aqui de novo,
+recorrência MR, modelo também que é
+alavancado. E a gente tá num momento
+onde você literalmente pode ser o rei do
+nicho. Você pode ser o cara que domina.
+Por quê? Porque isso aqui, ó, vai ser
+obrigatório. As empresas que não
+implementarem um modelo AI first, elas
+vão estar fadadas ao fracasso. Elas
+literalmente vão entrar num processo de
+serem esquecidas, deixadas de lado. Uma
+empresa que implementa e first, ela se
+torna altamente competitiva. A que não
+implementar, ela simplesmente vai se
+tornar irrelevante daqui 6, 12 meses, 24
+no máximo.
+E a gente tá falando de um oceano de 23
+milhões de empresas entre pequenas,
+médias e grandes. Tem muito espaço para
+você. E outra, este mercado é um mercado
+que eu vou te explicar aqui, ó. Ele é
+altamente fragmentado.
+Que que é um mercado fragmentado?
+Advocacia é regionalizada. Aí eu tenho
+advocacia eh fiduciária. Aí eu tenho
+clínica médica, eu tenho clínica
+odontológica. Eu tenho clínica de
+estética, eu tenho spa, eu tenho, pô, um
+cliente que entrou agora, cara. O cara
+tem o quê lá? De negócio de droga, de
+clínica de reabilitação, cliente nosso.
+Clínica de reabilitação, velho. Vamos
+montar uma máquina de ar pro cara, pro
+cara pegar drogado e jogar para dentro.
+Meu, doideira, cara. Esse é o mercado.
+Doideira, doideira, doideira, doideira.
+Então assim, olha o jogo, olha o jogo
+aqui. Agora você vai ficar 2026 inteiro
+construindo
+a sua base
+de clientes
+pro seu OS. Você não precisa de 1 milhão
+de clientes aqui. Você precisa, ó, 20,
+estourando 30 clientes bons que
+utilizem. Faz a conta aqui, ó. 20.000 de
+implantação. Aí 2.000, 3.000 por mês de
+recorrência. você vai ver o quanto que
+isso aqui vai dar. E essa base de
+clientes vai te dar um negócio
+extremamente importante. Ela vai te dar
+um banco de dados de
+comportamento
+do nicho.
+Imagina
+você com os dados dos seus clientes do
+WhatsApp trafegando lead, tipo de lead,
+como ele se comporta, o que que ele
+fala, o que que vende, o que que não
+vende e estruturar isso. Isso aqui é o
+que vai fazer você ser o rei do seu
+nicho. Imagina o seguinte, isso aqui é o
+que vai fazer, isso aqui é o ouro, ó.
+Isso aqui é o ouro que a nem a Open AI
+tem. Não adianta surgir, imagina o
+seguinte, ó, 2027 surgiu um doido
+falando assim: "Ah, não, vou entrar no
+nicho aqui do de funerárias do fulano."
+[&nbsp;__&nbsp;] Sabe a história do Uber? do
+Uber, do diferencial do Uber, ser ter
+usuários de um lado e taxistas do e e
+carros do outro. Aqui, nesse caso aqui,
+ó, o seu diferencial é ter base de
+dados, é ter base de dados
+comportamental.
+Por quê? Porque aqui que que você vai
+fazer? o seu cliente 1 2 3 4 5 6 vai ser
+retroalimentado. Então você vai ter um
+sistema vivo, sistema operacional vivo.
+É um ciclo PDCA.
+Você sempre tá
+retrabalhando
+aquela base de dados, aquele aquele teu
+sistema, melhorando ele.
+Consegue entender o grande diferencial?
+Entendeu? A lógica. É isso, cara.
+2027, ó. 2027.
+aqui você é o principal player do teu
+nicho. Muito obrigado. Eh, parabéns. De
+nada.
+Não sei como que eu avanço agora.
+Ó, falei para vocês que as empresas vão
+ter aí de eh 12 a 24 meses para fazer a
+transformação AI first. Agora você
+tem esse ano, ó, de de 6 a 12 meses para
+esse posicionamento, porque senão é você
+que depois vai querer entrar e não
+adianta mais. Aí você perdeu a onda. A
+onda tá aqui, ó, 26 do zer. Ó, a onda é
+isso aqui. Deixa eu zerar para você.
+Você entende? Você precisa entender.
+Você já não entrou em 2025.
+Então, meu amigo, você já tá atrasado.
+Hoje é dia 8
+0, tá aqui, ó. 8
+Você tem essa lacuna aqui, ó,
+para você entrar, se posicionar e
+dominar.
+Se você deixar passar, acabou tarde
+demais. Game, game over para você. Aí
+você perdeu, entendeu? Jogo rápido. Jogo
+rápido. Esse ano as empresas vão se
+começar a se posicionar com Ei first.
+Então ou você entra agora e domina ou
+acabou. Sinto muito. Então você que é
+dono de agência, consultoria, você que é
+desenvolvedor, quer empreender, você que
+tá e já com uma empresa de tecnologia,
+esse é o momento, tá? E se você quiser,
+nós podemos ser parceiro. A Celera pode
+te apoiar nesse processo de
+transformação. Só você clicar no link
+que tá aqui na descrição desse vídeo,
+preencher o formulário que a gente vai
+te chamar para uma ca estratégica e
+entender o teu momento. Belezinha?
+Espero que você tenha entendido a
+meu ponto de vista. Espero de verdade
+que você tenha entendido meu ponto de
+vista e clica nesse link logo e não
+perde tempo. Tchau vocês e até a
+próxima.

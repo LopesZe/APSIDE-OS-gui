@@ -1,0 +1,756 @@
+Lancei a minha infraestrutura de A e eu
+faturei R$ 91.000 em 5 dias, investindo
+R$ 3.22
+em tráfego pago. E esse aqui vai ser um
+vídeo de blueprint, onde eu vou explicar
+para vocês o meu método, o que que a
+minha solução faz, como ela faz, como eu
+tô desenvolvendo ela. Eu tô usando muita
+inteligência artificial para isso. A
+nossa estratégia, o nosso funil, eu vou
+detalhar, você vai ver o método na
+prática. Então, pega papel, pega a
+caneta, porque eu preciso que você
+entenda que estamos no meu melhor
+momento possível para isso. Crie algo
+disruptivo, resolva uma dor de um nicho,
+de um mercado específico, de pessoas
+específicos, gere valor e fature com
+isso. Fechou? Então vamos, porque eu
+também estou vivendo a minha
+transformação. Vocês vão ver que nada
+nasce do zero. Sabe esse sabe esse
+negócio que a galera acha que é fácil?
+Não é fácil. Não é fácil, mas com
+constância, com método, as coisas
+acontecem. E se Deus quiser, logo menos
+vocês vão me ver aí fazendo a trilha de
+rumo a 1 milhão de receita recorrente
+por mês. Tá bom? Já começo com essa foto
+aqui, ó, dos do meu time de closers.
+Olha lá, ó. Agenda lotada. Essa aqui é a
+agenda deles, ó. Olha a agenda deles
+aqui, ó. Na segunda, ô, segunda-feira,
+não, de segunda a sexta. Olha que
+loucura. A galera aqui arrebentando três
+closers, botando para quebrar. A gente
+estruturou todo um processo, então eu
+trouxe aqui para vocês, ó, vou mostrar
+no detalhe, vou rabiscar aqui para vocês
+entenderem. Então, fica aqui comigo até
+o final desse vídeo para você poder
+absorver o máximo possível. E se você é
+dono de agência, programador, mentor,
+consultor, tá tentando empreender, tá
+tentando escalar a tua operação, quer
+entender sobre modelo de negócio, quer
+implementar inteligência artificial na
+tua operação, quer criar sua própria
+infraestrutura de crescimento com
+inteligência artificial, tem o link aqui
+na descrição desse vídeo. Você vai
+clicar e vai se aplicar para acelerar
+360. E um outro ponto, tudo que eu
+mostrar aqui, você vai ter acesso para
+você aplicar também. As mesmas IAS, as
+mesmas ferramentas, tudo, tudo isso faz
+parte do ecossistema Acelera 360. E para
+você que não me conhece, muito prazer.
+Meu nome é Kelvin, eu sou um empresário
+do setor de tecnologia. Tô à frente da
+Acelera 360. Já montei algumas empresas
+de tecnologia, umas deram certo, outras
+deram errado, mas eu tive uma boa uma
+uma boa experiência com uma empresa
+chamada General Clans, que eu fiz quando
+eu tinha 22 anos. Eu vendi 50.1% 1%
+dessa empresa por um dos maiores grupos
+do mercado de seguros e fiz meu exit no
+ano passado. Então eu tenho um pouquinho
+de experiência em montar empresas de
+tecnologia
+e programar também, que é a coisa que eu
+mais gosto. Agora bora começar esse
+vídeo aqui. Blueprint total. Então olha
+que loucura, gente. Foi foi muito legal
+isso aqui. Por quê? Porque a gente veio
+num movimento eh nos últimos dois meses
+para chegar nesse número aqui. Foi um
+número muito interessante porque isso
+aqui vai, ou melhor, vai não, já provou
+que agosto que começou hoje vai ser
+maravilhoso. Vai ser maravilhoso,
+maravilhoso,
+porque a gente acertou a nossa máquina
+de vendas e acertou o nosso produto. A
+gente tá gerando muito resultado, muito
+valor. Então, te convido a clicar no
+link que tá aqui na descrição desse
+vídeo. Então, vamos lá.
+Gastos com tráfego pago, foram gastos R$
+aqui entre o período dia 26 ao dia 31 de
+julho. Então esse foi o nosso
+investimento em tráfego pago, tá? Eh,
+para ser bem transparente com vocês. Por
+que só isso de tráfego pago? Bom, a
+gente acertou a mão aqui, vocês vão
+entender um pouco desse funil, mas muito
+impulsionado também aqui pelo YouTube,
+pela geração de conteúdos. Por isso que
+geração de conteúdo é algo extremamente
+importante por conta que você consegue
+explicar melhor, você a pessoa fica mais
+tempo de tela com você, então você
+diminui absurdamente o teu CAC,
+absurdamente o teu CAC com conteúdo
+orgânico. Então aqui, ó, já tem a
+primeira lição. Não sei o que gravar,
+não sei o que fazer, não interessa.
+Grave, gere conteúdo, faça o que tenha
+que ser feito, tá bom? Então vamos
+começar aqui, ó. Kelvin, o que que é o
+que que é a grow? o que que acelera e
+como que ela tá sendo criada. Bom, para
+entender o que que é a Grove AI, você
+tem que entender o que que é a acelera
+360. Então, em março de 2025, eu decidi
+começar a Acelera 360, que é a minha
+empresa atual. Essa empresa aqui, ela
+nasceu com simples objetivo de ajudar
+desenvolvedores a empreender, a
+empreender. Então, eu tinha feito uma
+jornada muito bacana com a General Clans
+e queria entrar no mundo digital. E eu
+falei: "Pô, vou começar a fazer uma
+espécie de mentoria compartilhada aqui
+de 12 meses e ajudar principalmente
+desenvolvedores a empreender. Porque eu
+não acredito no SAS, não acredito no
+microsas, ou melhor, não acredito no
+microSAS. No SAS eu acredito, eu não
+acredito em jornadas fáceis. Eu acho que
+as coisas elas começam não escaláveis,
+assim como eu comecei a acelera, e elas
+depois elas viram produtizáveis e
+escaláveis. Então aqui em março, ó, eu
+tava dando aula, treinamento,
+tudo mais. Eu segui essa trilha até
+dezembro de
+2025. Olhando somente pro educacional,
+qual que era o objetivo principal aqui,
+cara? O que eu vou construir? O que de
+novo? O que de novo?
+O que que eu vou O que que O que eu vou
+construir
+de gigante? Afinal, eu tenho o objetivo
+de construir uma empresa de um B, um B
+real, tá? Não é um bid dólar. Eu tenho
+esse sonho como empreendedor. Quem que
+não tem, né? É o tal do Unicornio. Hoje
+em dia é um bid dólar, né? Mas eu aceito
+um bid real também. Então aqui o meu
+objetivo foi ajudar empreendedores a
+empreender com inteligência artificial e
+não criando microsas. E começou a
+aprender a aparecer consultores, donos
+de agência de marketing, agência de eh
+gestores de tráfego, eh pessoas
+diretores, aposentados que tinham
+autoconhecimento em algum setor e eles
+queriam começar um negócio com IA. E o
+mercado entrega o quê? Qual que é a
+promessa básica do mercado? da promessa
+básica do mercado é vender curso, é
+vender ferramenta, é vender. Façam ou
+usem esse negocinho aqui. Aprendam mais
+uma ferramenta, aprenda o NN, aprenda no
+cloud, aprend, aprenda isso, aquilo,
+aquilo, outro. E o meu conceito não, o
+meu conceito é, cara, resolva uma dor.
+Resolva uma dor, uma dor cara, bem cara,
+de um mercado grande e cobre por isso. E
+não fique cobrando por hora, cobre
+setup. Setup.
+mais recorrência,
+simples assim. E aí você cria uma
+carteira ali de clientes e consegue
+fazer isso e você consegue fazer isso
+com inteligência artificial. Bom,
+resumindo, neste processo aqui, eu olhei
+e falei: "Cara, a própria o o meu o meu
+próprio método de empreender e e
+transformar e criar de infraestrutura de
+a de infra de a
+é um produto.
+Ele é um produto. Que que é? O que que é
+a grow? O que que é a minha
+infraestrutura de inteligência
+artificial de crescimento com IA? É uma
+solução
+que unifica inteligência de mercado,
+de mercado, técnicas de vendas,
+um CRM embutido
+e uma metodologia.
+Metodologia
+que ajuda as pessoas a começar a, ou
+melhor, a vender mais,
+a vender mais. no digital.
+Resumidamente, é isso. Da forma mais
+simpló possível. É isso. E aqui para
+entregar tudo isso, a gente usa IA.
+Aqui, ó. Essa aqui é a minha solução. E
+como que a gente entregava ela? Olha que
+processo manual. Porque a gente veio
+validando. A gente veio desenvolvendo
+agentes de A.
+Eu fui dando, logicamente as mentorias,
+o educacional, mentorias. A gente veio
+criando ferramentas.
+Que ferramentas são essas? os próprios
+agentes eh eh estruturas de pesquisa de
+mercado, usando o cloud code, usando
+criando skills, criando eh agentes no
+GPT, criando materiais. A gente vem
+fazendo isso. Tudo isso voltado para
+empreendedores,
+que eu acabei de explicar para vocês no
+começo, a se posicionarem melhor,
+posicionarem. Que que é se posicionar
+melhor? ter uma oferta única
+de a que não seja commodity, uma oferta
+única com um modelo de negócio bem
+estruturado, um modelo de negócio bem
+estruturado que permita gerar
+recorrência e uma mecanismo de venda. Um
+mecanismo de venda é isso aqui,
+basicamente isso. Então, imagina o
+seguinte, você que tá me assistindo
+agora, qual que é a dor que eu resolvo?
+Eu te ajudo a vender, eu te ajudo a
+empreender, eu te ajudo a gerar o
+próprio dinheiro. E se você travar, eu
+tenho técnicos que te destravam. Eu te
+destravo no modelo de negócio, eu te
+ajudo, eu vou est lá online, eu vou est
+lá no no na comunidade, eu tenho
+parceiros que estão na comunidade, você
+tem toda a assistência, você também tem
+a metodologia. Então, olha que
+interessante, tem travou na venda, você
+tem lá a trilha de vendas e tem o Kelvin
+para ajudar. Travou no técnico, você vai
+lá. E inicialmente eu não inici não
+ensinava o técnico, mas acabou que no
+processo a gente vem adequando o nosso
+modelo para isso. Legal. Aí eu falei,
+cara, e o aí aqui, ó, pô, precisa ter um
+CRM, não precisa. Não desenvolva um CRM.
+Comecei a usar um CRM chamado GHL e
+fornecer esse GH aqui para os meus
+alunos de graça. Não cobrava nada por
+isso. Eu ficava com o custo de GHL, mas
+entregava para eles. Então isso aqui é o
+que a GRFI faz. E isso aqui era como ela
+tava, como a gente tava entregando ela,
+né? Vendendo e entregando. Beleza?
+Chegou o momento da gente transformar
+isso aqui numa plataforma. Então esse
+ano de 2026 decidimos fazer o seguinte,
+cara. Vamos transformar isso numa
+ferramenta, numa plataforma.
+Numa plataforma. Vamos começar a escalar
+isso aqui. Vamos criar. Vamos
+substituir. Vamos tirar o GHL da jogada.
+Vamos matar qualquer outro CRM. Vamos
+colocar um, vamos colocar a IA mais
+processos
+que são dinâmicos feitos por IA também
+com base na nossa inteligência de
+mercado. E vamos juntar com o nosso
+educacional
+e vamos entregar uma solução pras
+pessoas, uma plataforma plugin play para
+que elas possam usar e possam revender.
+Bingo. Era esse meu produto. Então esse
+meu produto, ele maturou a ideia aqui em
+março de 2026. E de março até agora a
+gente vem desenvolvendo ele com o time
+de desenvolvimento. Com time de
+desenvolvimento. E aqui eu vou mostrar
+um pouco para vocês dele, tá? Para Mas
+eu não vou eh me aprofundar. Mas
+resumidamente esse daqui é essa daqui é
+a GR AI. Então eu vou entrar aqui, por
+exemplo, para mostrar como que seria a
+introdução de um novo parceiro, né, de
+um novo aluno dentro da acelera que usa
+Grow AI, né, que a gente usa. Ele tem
+que passar aqui pelo onboard. Então ele
+precisa ter um usuário e uma senha aqui,
+no caso, para ele entrar nesse onboard.
+Que que esse onboard faz? Esse onboard
+ele é muito simples. O objetivo dele é,
+cara, você você já empreende, você não
+empreende ainda, qual que você você já
+sabe o nicho que você quer começar a
+vender IA? você, ah, não, você é uma
+empresa, você já tem um CNPJ, você é um
+gestor de tráfego. Então, esse
+onboarding, ele vai entender quem é
+você, entender quais qualificações você
+tem, o que que você sabe ou não. E ele
+vai te sugerir mercados para que você
+venda infraestrutura de A, para que você
+venda uma solução de crescimento para
+uma empresa, para que você crie uma
+máquina de crescimento com inteligência
+artificial, usando a nossa metodologia
+para um nicho de clínica de estética, de
+clínica de advocacia, para qualquer
+nicho. Então, a gente tem vários nichos
+mapeados. Então, deixa eu mostrar aqui
+para vocês. Pô, é, imagine que você tá
+lá no seu onboarding, aí por algum
+motivo, você cai aqui para você, vou dar
+um exemplo mais simples, clínicas
+odontológicas. Aí lá na clínica
+odontológica vai mostrar, ele vai, a
+gente já tem o playbook, com que que
+você vende para clínicas odontológicas,
+como que você vende, quais são as LPs
+que você tem que criar, qual que é o
+conteúdo, qual que é o pit de vendas que
+você tem que fazer. Então, a gente já
+sabe tudo. Por quê? porque a gente já
+fez várias pesquisas e principalmente eu
+investi rodando tráfego pago para esse
+nicho aqui, testando ofertas. Então,
+qual que é o grande conceito? Ele vai
+ajudar você a criar uma máquina de
+vendas. Até aqui tá tudo bem, tá tudo
+bem, né? Então, o onboard serve para
+isso. E depois, depois que sai do
+onboard, aí ele cai, você cai, o meu, o
+meu usuário, no caso, meu cliente, meu
+aluno, ele cai aqui nessa tela. Olha
+aqui, gente. Essa ferramenta aqui tá
+sendo desenvolvido com IA, entendeu? Tô
+criando ela com o IA. E por que que eu
+tô criando com ela? Com IA? Porque não
+precisa mais desenvolver. Ah, em algum
+momento eu vou refazer o front end dela.
+Vou. O que que é frontend? Essas telinha
+bonito. Vou. Em algum momento eu vou,
+mas não agora. Não agora. Provavelmente
+a hora que eu atingi aí uns 300.000 de
+MRR, provavelmente eu vou fazer isso.
+Então, olha aqui, depois que você, eu
+sei o teu nicho, eu fiz a pesquisa de
+mercado para você, eu te ajudei a
+escolher um nicho, você sabe tudo. Você
+fez um, você já vai sair dali com uma
+cal agendada com o nosso time de sucesso
+do cliente. Você cai nessa tela aqui.
+Para quê? Porque aqui já tem o seu
+checklist do que você tem que fazer. Se
+você, esse caso aqui, ó, ele não
+empreende ainda, então ele vai ter que,
+ah, não, essa aqui, essa conta aqui já,
+já é uma conta que tá criada por uma
+pessoa que já tem empresa. Então, ele
+tem que confirmar os dados da empresa,
+abrir uma conta PJ, falar que já tem uma
+conta PJ, eh, verificar se tem um
+emissor de nota fiscal configurado,
+criar toda a estrutura de credibilidade,
+depois configurar marca, identidade,
+domínio, depois estruturar a presença
+digital, só que ela tá bloqueada. Por
+quê? Porque ela só vai desbloqueando se
+for concluindo as etapas de cinema.
+Então essa etapa aqui é, cara, você não
+quer vender, você não quer fazer sua
+empresa vender mais. Não dá para você
+vender mais se você não tiver um site
+bem feito, se você tiver uma estrutura
+bem feita. Então tudo isso fica dentro
+da solução.
+A gente colocou uma etapa de indicação
+para parceiros aqui dentro e aqui
+começa. Então a gente tem o nosso
+conceito, tem um academy embotido, né?
+Então tem um academy aqui pra gente
+ensinar eh conteúdo de para essas
+pessoas que estão fazendo parte da
+acelera. A gente tem aqui onde acontecem
+as lives, a gente tem os playbooks, as
+bibliotecas, todo o processo de a
+comunidade, o mentor. A gente
+desenvolveu toda a integração com
+WhatsApp, não oficial, oficial,
+Instagram, Facebook, LinkedIn,
+integração com Metaads, Google Ads, com
+agenda. Por quê? Porque a gente embutiu
+o CRM, o atendimento aqui dentro. Então,
+olha que interessante, o CRM tá embutido
+aqui dentro com ligação, com WhatsApp,
+com tudo mais, pipeline de vendas, tá?
+Tá muito colorido ainda, tá muito
+iatizado, mas não tem problema. Isso
+aqui a gente vai ajustar. Contatos,
+automações, a gente desenvolveu todo o
+fluxo de automação aqui dentro, ó, que
+são que é são essas estruturas de
+automação dinâmica, né, para você
+adicionar e criar automações aqui dentro
+da própria ferramenta, disparo de
+e-mail, agenda de clientes, agenda.
+Então, toda a máquina de IA tá aqui
+dentro. E o que que é o legal dessa
+solução aqui? Que isso aqui já é uma
+infraestrutura de a que ela traz um CRM
+embutido, ela traz um educacional
+embutido e ela traz toda a pesquisa de
+mercado e toda a metodologia junto. E
+agora nós vamos começar a construir os
+agentes que operam isso aqui sozinho. O
+agente de gestor de tráfego pago. Tô com
+a campanha aqui. A gente já tem a
+metodologia. Tão pegando o conceito. A
+gente já tem a metodologia. A gente já
+tem aqui o que funciona, o que não
+funciona. A gente sabe de funis. a gente
+já tem tudo isso estruturado. Então, o
+grande conceito aqui agora é isso aqui
+tudo ser operacionalizado com
+inteligência artificial. E olha que
+coisa de louco, isso aqui pode ser
+customizado pelo nosso parceiro. Então,
+se você que tá aí me ouvindo falar
+assim: "Pô, se eu entrasse para acelera,
+eu ia conseguir eh eh
+criar a minha infra. Você pode criar sua
+infra. Você pode usar uma infra que já
+tá pronta, que é essa daqui minha,
+entendeu? Você já pode usar ela completa
+com a tua marca. Você vem aqui e coloca
+a tua marca nela. você vai poder colocar
+a tua marca nela, configurar o seu
+modelo de plano, configurar seus perfis
+de acesso e por aí vai. Então, qual que
+é o grande conceito aqui? a in
+one. Vamos tirar agora GHL, vamos tirar
+eh eh eh ferramentas que são
+codificadas, que que foram
+disponibilizadas pros nossos parceiros e
+vamos centralizar em uma única solução.
+Só que este modelo ele começou a ser
+refinado
+de março paraa frente. Ele na verdade
+ele começou a ser criado de março paraa
+frente, né, tipo numa solução. Antes
+disso, eu não deixei de fazer, gente.
+Comecei a eu comecei a vender
+educacional, eu comecei a implementar em
+um de forma manual, em outro de forma
+manual, em um cliente, em outro cliente
+vai operando. Vocês viram o vídeo da JB
+Engenharia, por exemplo? A JB Engenharia
+roda uma versão da Grow AI específica
+para ela. Então, a ideia da ferramenta é
+unificar a tração. E agora vocês vão
+entrar aqui, ó. Presta atenção nisso
+aqui, ó. Deixa a ferramenta de lado
+aqui. A gente vai unificar aqui, ó, a
+tração
+até a conversão
+e depois no futuro operação.
+Então toda a parte de atrair, gerar
+campo, achei que eu tava compartilhando
+a tela. atração até a conversão, toda a
+parte de atrair, eh gerar campanha,
+gerar criativo, eh pesqu tudo isso
+baseado em cima de uma pesquisa de
+mercado, de uma escolha de um nicho, de
+um refinamento, de pesquisa de
+concorrentes, de baixar criativos em
+cima de uma metodologia, até a
+conversão, como fazer a venda, eh,
+follow-up automático, jornadas e por aí
+vai. E depois no futuro operação, mas
+isso aqui não faz. O que que seria
+operação? um um agente de atendimento no
+call center, um backoffice e
+administrativo, financeiro, fiscal,
+contábil, agentes de aqui na ponta. E
+tudo isso aqui sendo operacionalizado
+por IA em primeiro lugar. Então é uma
+estrutura AI first.
+Legal. Agora que vocês entenderam a
+ferramenta,
+como foi que a gente fez esses ã 90
+95.000 95.000. Deixa eu ver se esqueci.
+91.000. Como que a gente fez esses
+91.000 em 5 dias? Como que a gente lotou
+a nossa agenda aqui? Como que a gente
+fez isso? Isso aqui nós fizemos graças à
+nossa metodologia. Então, qual que é a
+metodologia? A metodologia é a seguinte,
+cara. A gente tem que ter uma oferta que
+resolva uma dor clara
+de um público específico, então de um
+ICP. Então, uma oferta nichada, a gente
+não fala para todo mundo. Se você for
+analisar aqui, a gente fala para dono de
+agência de marketing, para gestor de
+tráfego, a gente fala para dev, para
+quem quer empreender ou escalar sua
+operação. A gente não tá falando
+diretamente pro empresário final. Você
+pode falar pro empresário final, mas o
+nosso objetivo aqui não foi falar pro
+empresário final. O nosso objetivo aqui
+é falar para quê? É falar pro
+empreendedor, entendeu? Não é o
+empresário,
+final, não, tradicional, não é o dono da
+clínica diretamente, é pro empreendedor
+que quer atingir a clínica e ele pode
+usar isso para atingir a clínica. Então,
+imagina o seguinte, eu tenho uma dor
+clara e tenho um ICP. E qual que é a
+minha transformação? A minha
+transformação, a transformação
+oferecida, por exemplo, pro meu negócio
+é o seguinte, cara. Você tem que parar
+de vender horas e você tem que passar a
+vender sistemas.
+Você tem que passar a vender sistemas.
+E aqui entra o meu mecanismo que é o
+quê? Pô, você pode criar o seu próprio
+sistema e eu vou te ensinar a fazer
+isso. Ou eu tenho um sistema pronto
+aqui, ó, que eu chamo de growi. Dá o seu
+nome para ele, porque ele é white label.
+Escolhe o seu nicho também. Você nicha e
+vende, cara. Vende a entrega garantida.
+Entenderam? Olha a lógica aqui. Olha,
+olha o conceito por de trás. Então eu
+ajudo eles a fazer isso. Então a mesma
+coisa que essa pessoa aqui que tem a dor
+clara aplica é o que ela vai vender aqui
+também. Então é um conceito que funciona
+para um, que funciona para outro. O que
+que muda? Muda a narrativa, muda prazo
+de cobrança, muda funil. O resto não
+muda. O resto é igual. Então significa
+que é produtizado.
+Beleza? Agora vamos lá. Qual que é o
+funil que eu estou utilizando? Eu tô
+usando dois funis. Então o grande
+conceito é atrai ou atrai, né? Atrair.
+Aí a gente capta essa pessoa que foi
+atraída e a gente converte,
+a gente vende para ela. Beleza? Então
+aqui na tração, eu tenho os canais de
+distribuição. Eu tenho os canais de
+distribuição pagos e o canal de
+distribuição orgânico.
+Qual que é o orgânico? Esse que você
+está assistindo aqui, o YouTube, o
+objetivo dele é geração de autoridade.
+Inclusive, mais uma vez, deixa eu te
+falar, se você é deve, programador,
+empreendedor, é dono de agência de
+marketing, quer acessar a Grofa e quer
+transformar sua operação, quer fazer o
+mesmo que eu fiz aqui para mim, para
+você replicar isso, clica no link que tá
+aqui na descrição desse vídeo e se
+aplica ou você lê o QR code que tá
+aparecendo aqui na tela agora. lê o
+QRCode, aponta agora aí, ó, e faz o seu
+agendamento com o nosso time. Nosso time
+vai entender onde você tá agora, como
+que você vai nichar, te ensinar a a te
+explicar como que nós funcionamos aqui
+para ensinar você a nichar e como que
+você vai chegar lá no ponto E a ponto de
+você ter uma infraestrutura. Ponto B, a
+ponto de você ter uma infraestrutura
+igual a essa, entenderam? É, é. E e com
+o nosso acompanhamento, não é sozinho,
+tá? Não é sozinho, não é abandonado,
+pelo contrário, a gente estruturou para
+isso. Então, voltando aqui, então a
+gente atrai e vai no pago. Aqui no pago,
+a gente tem que fazer o quê? A gente tem
+que gerar criativo,
+a gente tem que gerar campanha, a gente
+tem que aqui na captação a gente tem que
+ter página,
+a gente tem que ter formulário, a gente
+tem que ter CRM, a gente tem que ter
+followup,
+a gente tem que ter mensagens enviadas
+aqui em converter, a mesma coisa. Eu
+tenho que ter o followup aqui, eu tenho
+que ter aqui o script de vendas,
+eu tenho que ter aqui as jornadas de
+vendas e por aí vai. São várias etapas.
+Tudo isso aqui é feito por IA.
+O que que é manual? Gravar o vídeo é
+manual, ó. Gravar vídeo é manual. Opa.
+Gravar vídeo é manual. Gravar vídeo
+manual. Aprovar orçamento de campanha
+manual.
+Revisar LP. Revisões manual também. A
+gente faz a revisão da LP. E vendas é
+manual. SDR é manual também porque o
+nosso lead vende mais a gente ligando. É
+manual. O followup é tudo automático,
+parte da conversa é automático, mas
+grande parte do atendimento é manual. O
+resto, rodou campanha, subiu,
+ajustou campanha, desativa isso, aquilo,
+aquilo, outro, geração de script,
+imagens e eh configuração do funil,
+followup, não sei o que lá, tudo
+automático, geração de land page, tudo
+automático com IA. Então, tudo isso é
+usado. A gente usa aquilo que a gente
+está jogando agora para dentro desse
+produto aqui e aquilo que a gente
+disponibiliza aqui dentro da Acelera.
+Então vamos olhar aqui. Basicamente
+todos os nossos funis. Nossa, eu tô com
+vício de ficar falando basicamente que é
+absurdo. A gente aponta para essa página
+aqui, ó. Essa landing page. Construa o
+seu próprio negócio de com a vertical de
+mercado. Pum. Ó aqui batendo para dor
+específica. Nichado. Tem um vídeo aqui
+que é uma LP com funil de com VSL.
+Aplicou aqui, cai no formulário. No
+formulário preenche. Preencheu o
+formulário, já cai pro nosso SDR, que o
+nosso SDR vai fazer os agendamentos. já
+começa a agendar as caus aqui. Agora,
+até sa
+chamado nutrição. O que que é essa
+nutrição? É toda essa jornada aqui, ó.
+Por exemplo, acesso fundador, 10 vagas.
+Isso aqui é uma estratégia. Aí entra
+aqui, olha, é, olha essa mensagem que
+recebemos terça-feira, pô, prova social,
+pum, toma aqui. Esse contratos reais,
+tá? Mais de um contrato, é mais um
+contrato, 72.000 fechado aí. Olha aqui,
+essa mensagem não é mais sobre um curso
+para você entrar, assistir e depois
+vender sozinho. É uma implementação
+acompanhada e transformação do seu
+negócio. Tá vendo? Essas jornadas aqui
+são todas automáticas. São todas
+automáticas. Cadê você? Estratégia de
+live. A live ela é manual. Agora a
+jornada de cobrança é automática, é tudo
+automático. Aí começa a entrar aqui.
+Então essa imagem automática, lançamento
+oficial da Growth AI System. Olha aqui o
+lançamento automático. Então, cara,
+quando você fala assim que monta
+ferramenta e essa ferramenta não vende
+por algum motivo, ó, deixa eu até
+mostrar mais aqui, ó. Fala, fala Luca
+Kelvinho aqui. Eu deixei um vídeo
+direto, apresentação, pá, pá, pá. Olha
+aqui, ó. LP gerada com vídeo,
+traqueamento automático. Então, não é
+mais sobre conteúdo, piriri, poró, tudo
+isso, não sei o que lá. Então, toda é
+toda uma jornada, gente. É que quando
+você olha assim, ó, para fazer essa
+venda aí de 91.000, 1 foram 440 leads
+que responderam, que caíram no
+formulário. Então, quando você olha de
+uma forma muito superficial, falando:
+"Pô, vou montar só um SAS, vou montar só
+uma ferramenta, v fazer isso, aquilo,
+aquilo outro". Cara, é uma cagada
+Por quê? Porque tem toda uma
+estrutura por detrás. Por isso que eu
+falo para vocês que antes de criar
+ferramenta, de criar solução, de criar
+SAS, isso, aquilo, aquilo, outro, você
+tem que validar uma ideia, você tem que
+bater na oferta, você tem que fazer uma
+entrega manual. E aí no processo
+primeiro você se financia e você
+aprende, aprende, aprende muito. Por
+isso que eu falo que, pô, cara, estuda
+muito o mercado, valida o mercado, liga
+e tenta prospectar, aprende e erra antes
+de você construir qualquer ferramenta,
+construa primeiro a estrutura de
+credibilidade. Ela é a coisa mais
+importante, entendeu? Essa estrutura de
+credibilidade é você abrir o CNPJ, você
+montar uma página, você montar uma copia
+bacana, é você montar um Instagram, é
+você montar um blog, é você logicamente
+construir isso em cima de uma estratégia
+e depois estratégia go to market e
+depois disso, depois disso você vai
+criando seus ativos, os seus assets. Aí
+depois você vai criando teu frio de
+vendas, o lead chegou, você vai vender.
+Calv na hora de vender, que que eu
+vendo? Na hora de vender, você
+apresenta, você estrutura uma
+apresentação de vendas, você explica,
+você não precisa ter vendido alguma
+coisa. Se só pessoas que já venderam
+alguma coisa conseguissem vender de
+novo, não ia existir novas empresários.
+Isso não existe. Isso é um mito. Você
+você pegou você entendeu o conceito,
+vocês viram que é factível fazer, é
+estrutural. Isso aqui é uma
+brincadeirinha. Se a gente pegar na
+paulada igual a gente vai fazer agora,
+vocês vão ver no próximo mês, você vai
+ver o quanto que a gente vai fazer.
+Novamente quer ter acesso a tudo isso,
+clica aqui no link, vem participar da
+Acelera. Quer entender mais? Quer
+escalar sua operação com IA, quer mudar
+tua, quer mudar tua operação, quer mudar
+tua vida? Clica no link, vem participar
+da salário 360. Deixa eu habilitar o
+QRcode aqui de novo, ó. Clica, lê o
+QRCode aqui, ó. Lê os QR code aqui, ó. E
+se se aplica para acelera, vem fazer um
+diagnóstico, vem explicar que nicho que
+você faz. Se você não tem nicho, qual
+que é a sua dor? Você que é dono de
+agência, quer distribuir a Grovei, lê o
+QR Code aqui também. Se você quer
+utilizar Grovei, lê o QR code aqui
+também. Vai ser um prazer ter você aqui
+dentro, entendeu? Ó, esse vídeo foi
+sobre isso. Espero que você tenha
+entendido. Vou vou depois gravar um
+alguns mais detalhados mostrando o beabá
+para vocês poderem entender como que
+isso aqui funciona no fundo, no fundo,
+no fundo, entendeu? O que vocês vocês
+vão entender, vocês tem que entender o
+que vocês tm que fazer, na verdade, o
+como vocês tem que entrar aqui na
+acelera, que aqui eu vou mostrar para
+vocês no detalhe. É isso, é sobre isso,
+é sobre acelerar no tempo. Bora
+aproveitar que a gente tá no melhor
+momento para tudo isso aqui. Tchau para
+vocês.

@@ -1,0 +1,688 @@
+A Secoia lançou um artigo no dia 5 de
+março que basicamente fala o seguinte:
+serviços, o novo software, que eles
+querem dizer com isso? Que as empresas
+de software vão começar a vender
+prestação de serviços que vão ser
+executadas por inteligências
+artificiais, por agentes de inteligência
+artificial e você ainda querendo fazer
+Microsoft e você querendo ainda fazer
+chatbot. Não vou não entrar nesse caso,
+mas vamos lá. Nesse vídeo aqui eu vou
+mostrar para vocês esse artigo da
+secoia. Nós vamos desse juntos. Eu vou
+falar para vocês a visão deles. Vou
+mostrar a visão deles. Vou mostrar a
+minha visão. Vou trazer o quesito Brasil
+na história para você ajudar você aí,
+meu empreendedor. Você quer empreender
+com inteligência artificial? Você quer
+empreender com tecnologia? Esse vídeo
+vai ser sobre isso, cara. Os caras
+simplesmente falaram o seguinte, que a
+próxima empresa de 1 trilhão de dólares
+vai ser uma empresa de software que
+vende serviço, prestação de serviço.
+Loucura. Lógico que não, faz total
+sentido. Já tô cantando essa bola há
+muito tempo. Então, se você quer
+empreender com Yá, se você quer entender
+sobre modelo de negócio, se você quer
+entender realmente como transformar
+inteligência artificial em dinheiro,
+presta atenção nesse vídeo aqui, porque
+a visão tá clara. Bora começar? Vamos
+lá, então. Ó, para você que não me
+conhece, muito prazer, meu nome é Kelvin
+Cleto. Eu sou um programador que um dia
+decidiu empreender e deu certo. Fiz
+minha carreira de minha carreira de de
+de trabalhando pros outros com
+desenvolvimento de software. Até os meus
+22 anos. Montei a minha empresa, a
+General Clans em 2015, quando eu tinha
+22. Fiz a venda de 50.1% dessa empresa
+em 2022. Fiz o meu exit em 2025 e hoje
+eu tô à frente da Acelera 360. Para você
+que não conhece, aera 360, ela é um
+ecossistema que eu montei feito por um
+empreendedor de tecnologia. Para você
+que quer empreender com tecnologia, seja
+você programador da área de tecnologia
+mesmo, eh médico, dentista, não importa.
+Se você quer empreender com tecnologia,
+se você quer entender como transforma
+inteligência artificial, código,
+vovable, cloud code, esse um monte de
+coisa que estão te ensinando em
+dinheiro, eu vou te ensinar lá na
+Acelerada 360. O link tá aqui na
+descrição desse vídeo. Então, se você
+quer começar a entender como fazer
+dinheiro, como montar uma empresa, como
+entender de modelo de negócio, entender
+como que vende, entender como você
+fechar contratos, ah, ticket mesmo com
+setup de 20 a 50.000 e recorrência com
+IA. Bora, clica aqui que eu vou te
+ensinar a criar uma infraestrutura de
+crescimento com IA. Vamos lá que esse
+vídeo tá massa. Deixa eu compartilhar
+minha tela com vocês. Não vou no Miro
+hoje, vou no iPad. Tá aqui o artigo, ó.
+Link do artigo também vai tá aqui na
+descrição desse vídeo para você ler.
+Services the new software. Que que eles
+querem dizer com isso? Prestação de
+serviço, novo software. Por que o novo
+software? Porque software é escalável,
+você pode vender pro mundo todo, o time
+tá pequeno e tem margens absurdamente
+altas. Prestação de serviço não dá para
+fazer isso. Por quê? Porque a prestação
+de serviço depende de gente, só que
+vamos substituir gente por IA, logo a
+gente consegue fazer a mesma coisa.
+Então vamos entender esse cenário aqui.
+Então vamos lá. O que que eles falam
+nesse artigo aqui, ó? Que a próxima
+empresa a atingir 1 trilhão de
+valuation, né, de valor de de mercado de
+empresa, é uma empresa de software que
+vai ser disfarçada de serviço. Eita, PL,
+que que é isso aqui? Alô, viará tudo,
+velho. Então, elas vão vender serviços
+que são entregues por AI agents. O
+serviço vai ser entregue por AI agents.
+Só para vocês terem um fim de comparação
+aqui. O que que é uma empresa de 1
+trilhão de dólares? Eu não tenho nem
+noção do que que é isso, mas eu tenho
+noção das empresas que valem isso. E que
+empresa vale isso hoje? Microsoft,
+Apple, Nvidia, Tesla, Google, Amazon, as
+empresas que têm toda a infraestrutura
+tecnológica do mundo. Então, 1 trilhão
+de dólares se resume a empresas com
+presença global, o tamanho do mercado é
+gigantesco. É uma empresa que
+basicamente construiu uma infraestrutura
+e não produto. Ah, mas Google é um
+produto? Não, o Google criou uma
+infraestrutura de mecanismo de busca
+absurdo. Eles mapearam a internet
+inteira. O que você vê ali é só a
+casquinha da Google. Começou com isso,
+né? Hoje a Google é gigantesca.
+Então a Google, por exemplo, a base de
+busca de informações da internet. Eles
+não são um produto, eles são uma
+infraestrutura de busca completa. No dia
+28/03 agora vai acontecer o workshop
+Growth AI. Vai ser o último workshop e
+você não pode perder. Então se você quer
+empreender, se você quer entender como
+transforma inteligência artificial em
+contratos de 20 a 50.000 de implantação
+com recorrências de 4, 5, 6.000 por mês.
+Se você quer entender como escolher um
+nicho, como entender os gaps, como
+construir a sua infraestrutura de
+crescimento com IA, [música] você tem
+que estar lá comigo. Vamos falar sobre
+inteligência artificial, modelo de
+negócio e você vai sair de lá com um
+mapa claro do que você tem que fazer. Só
+que é o último, você não vai ter a
+oportunidade de participar de outro
+workshop. Então, clica aqui agora e
+garanta já o teu [música] ingresso. O
+link tá aqui na descrição desse vídeo.
+Agora, bora voltar pro conteúdo. Para
+você entender o conceito central deste
+artigo, o que ele está dizendo, você tem
+que entender esse conceito que eles
+colocam, descrevem lá nesse artigo, que
+é o a diferença entre inteligência e
+julgamento. Inteligência, basicamente, é
+você executar, é a parte da execução.
+Você tem que saber executar. Isso aqui a
+IA faz muito bem. Ela é inteligente, ela
+sabe executar as coisas. Julgamento é a
+parte da
+decisão. É entre você entender e a
+diferença entre esses dois conceitos, o
+conceito de inteligência e o conceito de
+julgamento, é o que vai distinguir se a
+inteligência artificial vai ou não te
+afetar drasticamente. Qual que é a
+lógica aqui? A IA, ela sabe executar
+muito bem. Logo, se a prestação do
+serviço for mais inteligência do que
+decisão, do que julgamento, a
+inteligência de executar, logo este
+serviço pode ser transformado em agentes
+de IA e ser vendido como serviço para
+outras pessoas. Exemplo de inteligência:
+escrever código. Escrever código,
+executar uma tarefa, resolver uma função
+matemática, escrever texto, lançar
+informações em um sistema. Tudo isso é
+inteligência, logicamente, cada um no
+seu grau de inteligência, mas são
+execuções. Então isso faz parte da
+inteligência e o julgamento. Devo fazer
+isso? Qual que é a melhor abordagem?
+Qual que é a melhor abordagem para fazer
+a execução daquela tarefa? Porque uma
+coisa é você saber que você tem que
+executar, outra coisa é você saber se
+você deve ou não executar, entendeu? Uma
+coisa é eu saber executar a tarefa de
+guardar, de colocar água na garrafa. A
+outra coisa, é saber, eu devo encher
+esta garrafa ou não? Então, olha que
+legal, essa é o diferenciação entre o
+conceito de inteligência e julgamento. E
+a inteligência artificial hoje, ela faz
+muito bem esta parte aqui, ó. Ela faz
+isso aqui com maestria já nos níveis em
+que nós estamos hoje. E essa, ou
+coloquei amarelo, pô. Deixa eu deixar
+verde. Ela faz muito bem isso daqui.
+E já, caraca, de novo. Meu Deus, gente.
+Aqui, ó, em verde, ela faz muito bem
+isso daqui. Já isso aqui ela não faz
+não. Ou ainda não faz tão bem. Agora
+vamos entrar aqui, ó, que você entendeu
+a diferença entre julgamento. Então,
+vamos lá. Para julgar algo é necessário
+o entendimento completo da situação, do
+cenário, de experiências, entendeu? Já
+para você executar, não. Você precisa
+saber o passo a passo do que tem que ser
+feito e simplesmente ter a inteligência
+de executar aquele passo a passo. Então
+essa parte do julgamento aí não faz.
+Então quanto maior o trabalho for só um
+trabalho de execução, mais ele tende a
+virar. Mas ele tende a virar. E a vou
+dar um exemplo claro para vocês aqui,
+não só de software, tá? Mas eu vou abrir
+para um outro cenário. Bpos, por
+exemplo, financeiros,
+contas a pagar, contas a receber,
+cobrança e tudo mais. é um trabalho de,
+em suma, maioria de execução.
+É um trabalho onde a é mais inteligência
+e menos julgamento.
+Logo, eu posso criar um BPO AI,
+uma e e eu vou vender o serviço. Em vez
+de eu vender o software aqui, eu vou
+vender o serviço. Vou cobrar como se
+fosse um BPO, talvez um pouquinho menor.
+Um pouco menor aqui, X% menor. Deixa eu
+até colocar aqui de outro jeito para
+vocês entenderem, ó.
+x% menor
+menor disso daqui para ser mais
+concorrente, para quebrar a
+concorrência, mas as minhas margens
+ainda vão ser infinitamente maiores,
+porque isso aqui vai ser feito por
+inteligência artificial e vai ser
+altamente escalável. Isso aqui é tão
+real que se você for analisar e eles
+trazem esse comparativo maravilhoso, que
+é o seguinte, cara, onde que tem a maior
+adoção de A hoje no mercado em todos os
+setores você vai ver que é o quê?
+Engenharia de software. Por que
+engenheiro de software? Programar em sua
+essência é um trabalho de inteligência.
+Escrever o código em sua essência é um
+trabalho de inteligência e não de
+julgamento. Então, olha aqui, ó, o
+cenário. Inteligência e a escrever
+código, publicar, publicar o código e
+tudo mais, fazer teste, ter e fazer
+testes automatizados, fazer teste de
+segurança e tudo mais. Isso aqui tudo é
+inteligência, tá? Já o julgamento, qual
+feature do sistema eu devo criar, qual
+software faz sentido eu criar, como eu
+vendo este software, isso aqui já é
+julgamento. Então essa parte fica humana
+e a outra parte fica por inteligência.
+Esse meio aqui, essa intersecção entre
+eles é a parte aí que ainda é humano,
+mas inteligência artificial, só que
+grande parte da criação de software é
+código e isso já está sendo altamente
+automatizado. Se a gente tá falando que,
+olha isso aqui, agora vamos pegar aqui,
+ó, uma fábrica, uma fábrica tradicional
+e uma fábrica por IA. Fábrica
+tradicional em média, ela vai cobrar ali
+de 180
+a 220.
+a hora do desenvolvimento. A média do
+mercado é isso aqui de 180 a 220. Já
+essa essa fábrica de software aqui, ela
+tem alguns problemas, ela tem limitação
+de recursos humanos mesmo, de devis,
+problema com gente. Imagina que ela tem
+lá 30 de e a margem dela é de 30 a 45%,
+que é média de mercado, tá? Agora, uma
+fábrica operacionada por IA, qual que é
+o capacity dessa dessa fábrica de
+software com 30 de capacite dela é de
+4.000 horas para features novas, para
+desenvolvimento novo e para suporte.
+Certo? Já uma fábrica de a gente tem as
+8 horas dos devs que a gente tem normal
+aqui. Vamos pegar também pon 8% 1000
+horas
+que esses devs t. Vou concentrar essas
+horas em não trazer devs, mas sim trazer
+arquitetos, tech leaders, tech lead,
+estrutura, é, é caras siors mesmo, cara
+bom. E eu vou criar aqui 10, por
+exemplo, agentes de AI.
+Essa estrutura aqui eu consigo fazer a
+minha capacity ser praticamente vai,
+vamos supor como se fosse 40.000 horas,
+saca? Que é 10 vezes maior do que o
+modelo tradicional.
+Faz sentido se eu fosse um empreendedor
+criar esses agentes e revender para
+fábricas de software ganharem escala e
+cobrar uma licença? Ou faz sentido eu
+montar a fábrica de software e vender o
+serviço, sendo que eu posso vender, em
+vez de 180, 220, eu posso vender a 140
+hora e ainda em vez de ter margem de 30
+45%, eu ter margens de 60, 70%, talvez
+até mais. Vocês entenderam o cenário?
+Isso aqui olhando pra fábrica de
+software. Agora vamos levar isso para
+outras áreas. No dia 28/03 agora vai
+acontecer o workshop growth AI. Vai ser
+o último workshop e você não pode
+perder. Então, se você quer empreender,
+inteligência artificial em contratos de
+20 a 50.000 de implantação com
+recorrências de 4, 5, 6.000 por mês, se
+você quer entender como escolher o
+crescimento [música] com o IA, você tem
+negócio e você vai sair de lá com mapa
+claro do que você tem que fazer. Só que
+é o último, [música] você não vai ter a
+workshop. Então clica aqui agora e
+garanta já o teu ingresso. O link tá
+aqui na descrição desse vídeo. Agora
+bora voltar pro conteúdo. Meu, e isso
+aqui que eu tô mostrando para vocês já
+tá acontecendo. Eu tenho vários e vários
+amigos que são colloss, outros são
+empresários ou até mesmo CTO que é sócio
+que seja até aqui no Acelera, que
+estruturou um time de agentes de
+inteligência artificial para resolver
+bug, desenvolver determinadas features
+que são escrever história de usuário e
+depois da validação começar a codar. E
+isso tá ganhando uma escala absurda nas
+operações. Tá trazendo uma escala
+absurda na operação. Agora vamos entrar
+aqui, ó, numa visão para vocês
+entenderem o copiloto, o conceito de
+copiloto e de piloto automático. Então
+vamos lá. Quando você desenvolve
+agentes de a, o primeiro conceito que a
+gente viu era o conceito de copiloto, de
+para agentes de inteligência artificial.
+Então, o que que é o conceito do
+copiloto? Um profissional,
+ele vai lá e tem acesso a uma
+inteligência artificial. um agente de a,
+uma seja uma LLM, seja um agente de A
+realmente que não tenha tela visual, não
+importa. Esse agente de A, o
+profissional, o funcionário decide
+quando e como ele vai usar este agente
+de inteligência artificial. Então, nesse
+caso aqui, o agente de A, ele é uma
+ferramenta de apoio para o profissional.
+O profissional é o piloto e a IA é o
+copiloto. A IIA é o copilot, você já
+deve ter ouvido, Microsoft Copilot, você
+tá lá fazendo o seu documento Word, aí
+você entra lá e pede alguma coisa. Ou
+você tá usando o chat EPT e pede alguma
+coisa, tá fazendo uma tarefa e pede pro
+chat apt alguma coisa. Mas você, a, o
+ser humano aqui, o profissional, ele é o
+principal recurso ainda. Só que a
+inteligência artificial tá ficando mais
+inteligente. Significa que conforme ela
+vai tendo mais dados, conforme ela vai
+tendo mais informações, cada vez mais a
+questão do julgamento humano passa a se
+tornar execução paraa inteligência
+artificial, porque ela consegue, ela
+está começando a conseguir fazer isso.
+Então está tendo uma convergência entre
+este círculo aqui, ó. Este círculo aqui
+e esse aqui, eles estão se unindo
+conforme a gente vai entendendo mais,
+processando mais, estruturando mais e
+dando mais inteligência para esse
+negócio, quando ele, conforme ele vai
+tendo mais dados de uma determinada
+operação, de uma determinada coisa, vai
+sendo possível a IA também ter
+julgamento. A gente tá num momento em
+que a gente pode criar um piloto
+automático ao invés de um copiloto.
+Quando a gente transforma a IA no
+piloto, dá essa possibilidade dela ser o
+piloto do negócio. Aí a porca torce o
+rabo, aí o bicho pega. Porque o
+seguinte, porque aí a gente muda este
+cenário aqui, ó, da empresa de software,
+ela vai lá e desenvolve tecnologia e ela
+ela desenvolve aqui um produto ou ela
+desenvolve uma solução financeira, que
+seja um RP, um CRM com IAI, o E
+ela vende tecnologia para uma empresa
+tradicional que vai comprar esta
+tecnologia e com esta tecnologia ela vai
+se tornar o quê? mais eficiente, mais
+fera, ganho de eficiência operacional.
+Beleza? E essa empresa com ganho de
+eficiência operacional, ela atende este
+cliente aqui
+mais rápido,
+melhor.
+Ela tem mais clientes,
+ela aumenta
+sua eficiência,
+consecutivamente ela aumenta a margem,
+certo? tão acompanhando comigo? Beleza,
+vamos lá. Só que
+a gente tá indo num cenário onde essas
+empresas de software desenvolviam
+copilotos
+para um cenário onde a possibilidade
+agora é de desenvolver o piloto
+automático. No cenário do piloto
+automático, olha o que acontece. A
+empresa de software, ela para de vender
+a tecnologia pra empresa tradicional e
+ela passa a vender o serviço
+diretamente pro cliente final. Isso
+significa que, deixa eu abrir uma outra
+telinha aqui, ó. Vamos lá. Olha, olha
+que loucura aqui. Uma empresa X, ela ela
+desenvolvia um SAS para serviços
+financeiros. E aí que seriam serviços de
+contas a pagar, contas a receber, ela
+empacotava isso aqui e cobrava X por
+usuário. E que que contratava dessa
+empresa? Aí tem uma empresa no setor,
+empresa qualquer, que essa empresa tem
+um setor financeiro e essa empresa lá
+dentro desse setor financeiro contratava
+este software aqui em cima para as
+meninas do financeiro usarem o software
+para essa área financeira
+operacionalizar. E existem empresas que
+vendem o BPO financeiro, que é o
+seguinte, é o serviço financeiro
+terceirizado por outra empresa. Então
+essa empresa aqui fala o seguinte, cara,
+em vez de você ter o seu time
+financeiro, contrata o BPO. Conseguindo
+entender? Agora o que vai poder
+acontecer é esta empresa Xtec aqui, olha
+o que que ela pode fazer agora, velho.
+Olha isso aqui, ó. Presta bem atenção
+nesse movimento aqui, ó. Essa empresa
+aqui, ela pode fazer o seguinte, ela
+pode criar agora os agentes, o time
+financeiro por IA. Opa, minha letra é
+feia, tá? Mas pega o raciocínio. Pega o
+raciocínio. Ela pode criar o time
+financeiro por IA. Ela pode precificar
+isso aqui como se fosse por salário,
+como se fosse pessoa. Em vez dela vender
+o software para essa empresa aqui, ó, em
+vez dela vender o software para essa
+empresa aqui, opa, em vez dela vender o
+software, antes ela vendia o software,
+quer ver? Vou fazer aqui. Antes ela
+fazia isso, vendia o serviço para essa
+empresa, o software para essa empresa e
+vendi o software para essa empresa. Em
+vez dela fazer isso, ela pode fazer o
+seguinte: "Ô, fulano, em vez de você ter
+seu time interno aí, contrata o meu time
+de agente de IA, porque eu vou te vender
+o serviço financeiro aí". Corta isso.
+Ela esse cara aqui. E esse canal
+aqui é totalmente viável e fortalecido.
+Por quê? Porque ele é o serviço sendo
+executado. Cara, que loucura. Porque
+essa, você concorda que essa empresa
+aqui não, ela não quer nem saber do
+software, ela usa o software porque ela
+tem o time financeiro, precisa cobrar.
+No final das contas, o que ela quer é o
+seguinte: ela quer cobrar, o objetivo
+final é cobrar e receber. Se alguém
+fornece uma infraestrutura financeira
+para isso, dá na mesma. E qual que é a
+diferença aqui? Usto versus benefício.
+Como tudo na vida, isso aqui tá sendo
+executado por IA. Logo, isso daqui é
+extremamente benéfico e baixo custo e
+rápido. E o pau quebra. Do mesmo jeito
+que essa empresa Tech vendia SAS, ela
+vai começar a vender serviço, o ticket
+dela vai aumentar, ela vai faturar mais
+e vai manter as mesmas margens que
+tecnologia. É isso que vai acontecer. E
+isso é tão real, isso é tão lógico que
+olha isso aqui. Isso aqui foi, eu postei
+isso daqui 6 de fevereiro, foi uma queda
+que teve absurdamente na em um dos um um
+índice da bolsa que falou o seguinte, ó,
+300 bilhões de dólares evaporaram e
+marcaram o início do colapso do setor de
+software. Não é que o software vai
+acabar, gente, ele vai passar por uma
+mutação. Entenda uma coisa, o setor não
+vai acabar. O negócio não tem como
+acabar. Software é tecnologia.
+Tecnologia é evolução. Então o negócio
+só evolui, fica em paz. Só que tá
+mudando. E é esse o ponto que você tem
+que entender para você quer empreender.
+Não foca em ferramenta, não foca em
+ficar vendendo horas, não foca em ficar
+vendendo o teu trabalho. Foca em criar
+uma infraestrutura para um nicho
+específico com inteligência artificial.
+Seja o agente transformador desse
+mercado. Empreenda da forma correta.
+Entenda o que está acontecendo. Quem
+falou para você de SAS tá vendendo a
+gente de A. Quem falou para você de
+microsas tá vendendo funcionário de
+inteligência artificial.
+Entenda de modelos de negócio, entenda
+como montar uma empresa de verdade. Seja
+um empreendedor, seja um empresário e
+faça acontecer, porque a gente tá no
+melhor momento para isso. E vem para
+acelera, porque eu vou te ajudar a fazer
+isso mais rápido. Agora vamos continuar
+no vídeo aqui. Então, o movimento é
+esse. Ticket maior, altas margens e
+escalabilidade. Serviço se torna
+escalável. E isso pode ser ser que tipo
+de serviço? VPO financeiro, corretoras
+de seguro, corretoras de plano de saúde,
+eh venda de consórcio. Tudo isso pode
+ser 100% operacionalizado por agentes de
+inteligência artificial. Empresas de
+recrutamento e seleção 100% por IA,
+margens altíssimas, custos baixos. Agora
+vamos olhar pro cenário atual, Brasil.
+Vamos olhar pro Brasil, porque é o
+seguinte, o que eu te mostrei aqui é o
+que tá acontecendo. Que tá acontecendo,
+é claro, que tá acontecendo é o
+seguinte. AI está ficando mais
+inteligente, está desenvolvendo a
+capacidade de julgamento através de
+processos estruturados, quando toda vez
+que ela é nichada, o movimento está
+atendendo para prestação de serviço, que
+que é executado por AI agents e
+prestação de serviço se torna escalável.
+Esse aqui é o cenário, ó, que está sendo
+cantado. Concorda comigo? Show. Agora
+vamos olhar pro Brasilzão. Olha o
+cenário Brasil. 41.1
+milhões de CNPJ ativos nós temos aqui no
+Brasil, sendo que 53.
+CNPJ
+são empresas, deixa eu aumentar aqui,
+deixar no max. 51, 53.6%
+desses CNPJ são empresas de prestação de
+serviço. Essa galera tá no quê? Tá no
+sal, tá na lama, tá na merda. Por
+claramente que surge uma empresa, se a
+empresa A opera no modelo tradicional e
+a empresa B, que é concorrente da A,
+estrutura uma operação AI first, nesse
+nível, a empresa B tão mais eficiente,
+tão baixo custo, com a altas margens,
+vai oferecer um serviço tão melhor que a
+empresa A simplesmente vai deixar de
+existir. Ela vai sofrer uma extinção por
+um negócio chamado obsolescência
+competitiva. Sabe o que significa isso?
+Ela não é mais competitiva perante ao
+mercado. Logo, infelizmente, ou você se
+adapta ou você morre. E num cenário
+Brasil, olha isso aqui, ó, 24.1 milhões
+de CNPJS ativos. E a gente tem agora
+grandes fundos de investimento pregando
+essa evolução de prestação de serviço.
+Então, não é se você vai fazer ou se eu
+vou fazer, alguém vai fazer. E alguém
+vai fazer, alguém vai acertar a mão,
+alguém vai receber capital de
+investimento. Essa parada é uma parada
+altamente escalável. Ela é uma parada
+que é global e ela vai chegar, ó,
+limando essa galera aqui, entendeu?
+Agora vamos olhar aqui qual que é o
+movimento do mercado. Olha que legal
+isso daqui. Inteligência artificial no
+Brasil. Isso aqui é dado. Isso aqui não
+é achismo, isso aqui é dado. 9 milhões.
+Opa. 9 milhões de empresas já adotaram
+inteligência artificial no Brasil.
+Maravilhoso. Só que o nível de
+maturidade é extremamente baixo. O que
+que significa isso? Na escada de
+maturidade da GNAI, a gente tem esses
+cinco estágios. Primeiro estágio,
+observador. Só tô vendo o que tá
+acontecendo. Aí o cara caminha pro
+explorador. Deixa eu instalar isso aqui.
+Deixa eu ver se isso aqui funciona.
+Deixa eu ver se faz sentido para mim. Aí
+ele entra pro construtor. Pô, deixa eu
+implementar isso na minha operação e ver
+como que tá indo. Aí ele vem pro
+orquestrador, onde ele começa a
+construir as coisas e orquestrar para
+aquilo resolver o problema. E aí o
+visionário, onde a inteligência
+artificial, ela é o centro do negócio, a
+equipe tá completamente madura, ele já
+tem até governança de risco, ele já tem
+até automações de ponta a ponta
+resolvendo todos os processos dele.
+Aquele cenário que eu preguei para vocês
+é este cenário aqui, ó. é o cenário do
+visionário, entendeu? O cenário que tão
+que o do artigo é esse cenário aqui, ó.
+É o cenário, é o topo de linha da
+inteligência artificial. Só que vamos
+ver pro mercado, 40% das empresas
+brasileiras usam inteligência
+artificial, só que na verdade é um sinal
+de que a maratona está só no
+aquecimento. Por quê? 92% de quem
+implementa IA tá num nível imaturo. E
+esses 8%, esses 8%, você sabe quem é?
+São quem tem dinheiro para queimar. Que
+que significa isso? Um mar de
+oportunidade para você que quer
+empreender. Aí eu pergunto para você,
+porque é a parte um, tá? Esse vídeo vai
+ficar muito grande, eu vou ter que abrir
+agora ele. Mas vamos olhar paraos
+modelos de negócio. SAS, prestação
+de serviço de forma geral de tecnologia,
+vendendo horas ou projeto por escopo.
+Isso aqui tem futuro
+ou infraestrutura vertical,
+infraestrutura de crescimento com IA.
+Que que faz mais sentido? Faz sentido
+você ficar vendendo automação? Faz
+sentido você criar produto para
+distribuir, torrar uma grana absurda em
+tráfego pago e ter turns altíssimos sem
+testar o product marketfit? Faz sentido
+você ficar fazendo automação, chatbot?
+Faz sentido. Faz sentido você ficar
+vendendo automação e chatbot pros
+clientes? Ou faz sentido você criar uma
+infraestrutura verticalizada para um
+nicho específico e gerar resultado pro
+teu cliente ganhar dinheiro ou você
+criar a máquina que vai transformar o
+prestador de serviço, que hoje ele não é
+escalável em escalável e você ser o dono
+dessa máquina, você tangibilizar o
+piloto automático, que que faz sentido
+você ser esse agente transformador. É
+isso que a gente vai ver no próximo
+vídeo. Então, se você quer entender
+mais, comenta aqui. Fala assim, Kelvin,
+comenta aí, abre, abre, abre principais
+nichos que a gente pode fazer esse
+piloto automático, como que a gente cria
+essa infraestrutura de crescimento. Se
+você começou a entender mais sobre esse
+cenário de a de modelo de negócio,
+assiste meus outros vídeos, entenda mais
+sobre o assunto. A gente tá no momento.
+E mais uma vez vou deixar o convite para
+você clicar aqui na descrição desse
+vídeo e vir conhecer Acelera 360. Vai
+ser um prazer entender o seu cenário e
+entender como nós vamos poder te ajudar
+nesse processo de empreendedorismo.
+Tchau, obrigado. Esse vídeo ficou
+gigante e estamos de volta. Vamos com
+tudo. Voltei de férias agora. Então, o
+pau vai quebrar.

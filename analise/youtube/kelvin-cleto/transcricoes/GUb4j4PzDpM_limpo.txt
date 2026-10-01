@@ -1,0 +1,675 @@
+O cliente não paga 30.000 reais por
+É automatizado, mas paga 30.000.
+real por causa de um problema que lhe custa caro
+300.000 reais. 10 clientes, 30.000
+MRR real. Depois, 20 clientes. Sim
+Você tem 20 clientes, você vai ganhar 60.000.
+MRR real. E aprenda isso com alguém.
+tempo. Se você vender para um, você vende para
+1000. Você só precisa de um, o primeiro.
+cliente. Quero te ensinar como construir
+Algo que você faz uma vez e depois vende.
+a mesma coisa 10, 20, 30, 40, 50 vezes por
+diferentes empresas, sem começar por
+zero com cada cliente, sem vender o seu
+horas e, principalmente, sem pensar em
+construir um SaaS horizontal para
+Para competir com essas grandes empresas de tecnologia.
+Este é o modelo de negócio que
+Surgiu com inteligência artificial.
+E o que estamos fazendo aqui em Celara?
+360 com mais de 330 parceiros. É muito
+Simples, meu amigo. Simples? Bem, não é bem assim.
+Simples assim, não é? Mas vamos lá
+lá. Você escolhe um mercado, você encontra um
+um problema extremamente dispendioso e
+Você constrói uma infraestrutura de
+Crescimento impulsionado por IA que resolve isso
+Problema do começo ao fim. Isto
+Você o instala no primeiro cliente e depois
+Você o aprimora. Em seguida, você o instala no
+segundo cliente e você o aprimora. Então ele
+Você o instala no terceiro cliente e ele
+Você melhora e continua melhorando. Nele
+décimo ou quarto, quinto, sexto,
+sétimo, oitavo, décimo cliente,
+basicamente na centésima, apenas
+Você irá replicar a mesma arquitetura, a
+mesma infraestrutura para um setor vertical
+replicado centenas de vezes. Então,
+Neste vídeo, quero mostrar a vocês como
+Você vai fazer isso, e como vai implementar?
+Este modelo de negócio. Mas existe um
+grande detalhe que é extremamente
+É importante te contar isso aqui. E neste
+Vou mostrar exatamente o que o vídeo mostra.
+Como você faz isso, amigo? E antes
+Para começar, é incrível, há um detalhe.
+chave, porque a maioria dos
+As pessoas estão literalmente escolhendo
+o caminho errado, o caminho
+ao contrário disso. Errado, não.
+Não está errado, porque não há nada de errado nisso.
+A verdade não me pertence, mas
+É o oposto do que acabei de fazer.
+para te contar. Então, para que...
+não cometa o mesmo erro que o
+pessoas que seguem esse outro caminho,
+Quero explicar para você para que você entenda.
+a mudança que está acontecendo no
+mercado em geral, porque nós somos
+literalmente vivendo uma nova
+economia, a economia da
+inteligência artificial. Pessoal, já faz um tempo.
+Em pouco tempo, saber como construir algo era
+uma vantagem competitiva absurda.
+Então, veja bem, quem soubesse programar,
+para realizar integrações, automatizar ou
+construir um agente de inteligência
+O rei era artificial. Porque?
+Porque existia, ou melhor, havia
+uma absurda escassez de mão de obra
+qualificado. Então, naquele momento,
+Isso foi realmente muito complexo.
+complexo. Mas essa escassez desapareceu.
+desaparecendo. Porque? Porque,
+Uau, hoje estou escrevendo uma candidatura.
+completo com inteligência artificial.
+Eu pergunto a ela, ela vai e escreve uma parte.
+código ou estrutura gigantesca
+completo. Vocês que estão me observando
+Você sabe que com Lovable ou
+Com o base64 você pode criar aplicativos,
+Talvez não seja robusto, mas sim.
+funcional. Agora, se você usar um Claude ou
+Um Codex bem estruturado, e você sabe disso.
+Com conhecimentos básicos de programação, você pode criar
+coisas incríveis, extremamente
+robusto. Portanto, preste muita atenção.
+Preste atenção nisto. A capacidade de
+A construção aumentou drasticamente, mas
+Precisamente por essa razão, o valor que
+Eu trabalhava com desenvolvimento tecnológico.
+Simplesmente desapareceu, caiu.
+drasticamente. Quero começar isto
+vídeo com este slide, sobre um
+Para onde migrou o valor, porque antes do
+O valor residia em saber como construir algo.
+Mas agora é uma questão de saber o quê.
+construir, para quem construir
+ferramenta ou solução, e como
+e então transformar essa construção
+em um negócio. E quando você não entende
+essa mudança estrutural que ocorreu, ou
+Isso normalmente acontece.
+Você acaba optando por uma dessas três opções.
+caminhos. Nossa, que incrível!
+Este provavelmente não é o primeiro vídeo de
+IA que você vê, você já deve ser um seguidor meu.
+canal. Vocês que estão chegando agora,
+Você provavelmente ainda não me conhece.
+Em seguida, assista a outros vídeos.
+para que você entenda melhor o quê
+Eu falo aqui. Eu converso sobre negócios com
+inteligência artificial. Tenho absoluta certeza
+certeza de que seu desejo, ou melhor, o
+que você pensa inicialmente, o primeiro
+O jeito é: "Amigo, vou tentar"
+Construa o próximo grande SaaS de
+inteligência artificial ou com IA." A
+A pessoa vem aqui para tentar
+Construa o próximo CRM ou SaaS.
+genérico contra aqueles que têm capital
+quase infinito e crescer cinco vezes mais
+ano. Cara, qual é a lógica disso?
+tente construir uma plataforma SaaS
+Competir com essas pessoas? Isso é
+louco. Mas a construção é
+Fácil, né? Pode ser construído. ?
+Será que eles acham que é tão fácil assim? Mas é
+Loucura, né? E o que é o
+Qual o segundo caminho que as pessoas escolhem?
+Uau, vou vender diretamente para
+consumidor final. Então você vai e diz:
+"Uau, tive uma ideia, vou atacar o
+B2C." Mas o B2C, pessoal, já foi...
+capturado. 900 milhões de pessoas
+Eles usam o ChatGPT gratuitamente todas as semanas.
+Então, tem um caminhão cheio de dinheiro.
+que está sendo derramado sobre isto
+setor, então você vai competir com
+Esses caras? Não faz sentido. Por
+que? Porque você está prestes a entrar na competição.
+atenção. E existe um terceiro.
+caminho, que é o caminho que as pessoas,
+consultores, desenvolvedores ou
+qualquer pessoa que esteja começando ou
+Isso já está em andamento, aceite. Eles dizem:
+"Bem, vou vender meu tempo." "Eu vou para"
+Vou vender meu tempo, vou vender horas de
+consultoria, horas de projeto, horas
+de desenvolvimento de software." Amigo,
+Está ocorrendo um leilão reverso.
+Absurdo para quem faz isso. Por
+que? Devido à barreira de desenvolvimento
+Caiu hoje. Não é qualquer um que...
+Eu sei como desenvolver, mas qualquer um
+Uma pessoa sabe como perguntar sobre inteligência.
+artificial que desenvolve algo. Então
+Aqui, meu amigo, a tendência é que
+Seu tempo cai de forma absurda. E se você for para
+Para competir com isso, você terá que entrar
+no leilão reverso, que está diminuindo o seu
+preço abruptamente. Agora existe
+uma quarta maneira, que é a que eu quero.
+que você preste atenção, isto é, criar e
+instalar uma infraestrutura de IA que
+gerar resultados dentro de um
+B2B vertical, de uma pequena empresa,
+de uma empresa que emite faturas de um a 10
+milhões. Este é o espectro que
+Quero que você olhe. Esta é a gama para
+Quero que você preste muita atenção.
+E você continua e gera resultados.
+após a entrega para que ele
+pode continuar e você continua recebendo um pagamento.
+recorrência muito semelhante à
+horizontal. E por que neste caso?
+Espectro de faturamento? Por que?
+Preciso me concentrar primeiro em um
+nicho único e dentro deste espectro de
+cobrança? Preste atenção, quem?
+Ele fala com todos, mas não fala com ninguém.
+Aquele que fala com todos está em um
+linha padronizada. Então, para quê?
+Você pode coletar bilhetes de 20, 30, 40.000.
+por implementação, recorrências de 2,
+3, 4, 5.000, você tem que verticalizar e
+Vender resultados, tudo bem?
+Então, o dinheiro desse espectro
+Fica no meio, fica no
+pequenas e médias empresas que
+Eles emitem a fatura, ah, isso está errado. Ei,
+Amigo, aqui são 1 milhão. Aqui está 1
+milhões, veja, de 1 a 10 milhões para
+ano. Porque? Porque, meu amigo, no
+Para finalizar, já temos o público.
+ocupado. Qual é esse extremo?
+aqui? São os pequenos B2B, B2C, os
+consumidor e o microempreendedor, o
+autônomo, que deseja pagar pouco,
+Compare bastante os preços e procure por
+uma ferramenta. Isto é terra.
+comum. Ah, mas vou configurar um SaaS.
+Um micro-SaaS aqui, vou fazer 6.000
+por mês. Cara, isso é loucura. Agora, no
+extremo dois, se você tentar vender
+Infraestrutura de IA para grandes
+empresas, aqui você competirá com
+gigantes como Accenture, Salesforce,
+Oracle e agora consultoria
+típico da OpenAI, do mesmo tipo
+Microsoft e outras empresas. Então, o
+Além disso, a Enterprise é uma venda a longo prazo.
+. Grande promoção. Isso é uma loucura.
+. Então, onde está o dinheiro?
+Fica no meio. Onde está o
+chance? Na maioria dos mercados
+fragmentado que existe aqui, veja, em
+o proprietário de pequenas e médias empresas que
+Faturamento de 1 a 10 milhões por ano.
+Portanto, tem muitos problemas.
+específico para uma solução
+soluções genéricas. É demais.
+pequeno para um projeto empresarial.
+Ele tem poder de compra, só isso.
+gastar dinheiro tentando resolver
+esse. Portanto, possui um orçamento.
+separado e aqui nenhum fornecedor que
+O contratante assume o resultado de hoje.
+gerar resultados para ele. Então
+O conceito é explicado aqui para que você entenda.
+nessa infraestrutura de
+O crescimento da IA ​​não se resume a vender a
+infraestrutura, nem CRM, nem o
+A automação está vendendo o resultado.
+, crescimento operacional. E a melhor parte
+O que eu quero acrescentar é isto aqui,
+olhar. Hoje em dia não faltam fornecedores para
+atenda a esses tipos. Não há escassez
+fornecedores. É preciso que alguém assuma a responsabilidade.
+sistema completo e geração de resultados
+real. O mercado é transformado em commodities.
+Em termos de automação, o mercado é
+agências de marketing padronizadas,
+O mercado está entregando
+literalmente muitas coisas, um
+um conjunto de ferramentas que não geram
+Nenhum resultado. E vocês que são
+Assistindo a este vídeo, você resolverá
+um problema desta PME. Então, o
+Primeira pergunta que quero fazer.
+A proposta é a seguinte: de modo que, após a conclusão
+Este vídeo faz você pensar, o que é o
+problema de qual mercado específico,
+De qual setor específico, para o qual
+Um empresário me pagaria 20 ou 30 mil
+como configuração, mais 3 ou 4 mil de
+Existe uma taxa mensal para resolver o problema? Tem que ser
+ser um problema que existe no
+ordem de grandeza de cerca de 500.000.
+Você precisa resolver um problema de alguma natureza.
+500.000. Não é muito dinheiro para um
+empresa de pequeno a médio porte que
+fatura de 1 a 10 milhões. Não é muita coisa.
+dinheiro. É aqui que o jogo acontece.
+Então, em vez de pensar em
+vender-lhes tráfego pago, CRM,
+automação, chatbot ou vendas
+sem processos; em vez de vender aqueles
+peças soltas que o mercado já está
+oferta, onde cada fornecedor
+Entrega uma peça, mas nenhuma delas.
+comunica e, principalmente, eles não são
+Você não está vinculado ao processo. Você vai
+criar uma infraestrutura de
+crescimento com inteligência artificial
+um único sistema, com um único proprietário
+. Você vai lidar com o processo judicial.
+a origem do chumbo, o funil, o
+classificação, atenção, cronograma,
+vendas e você vinculará tudo isso a um
+processo. Você vai procurar os dados, mas
+também a otimização disso para
+que, com cada novo cliente, o seu próprio
+melhorar o mecanismo. Isso é muito, muito, muito
+viável. Nossa infraestrutura de IA
+faz isso. Nossa infraestrutura de
+A IA possui uma memória que aprende com
+negócios. Temos um mentor aqui que
+Basicamente, conta com especialistas em IA.
+que atuam no funil, que
+acompanhar a evolução do nosso
+parceiros, que cuidam de toda a parte
+operações de vendas, pipeline de vendas
+Marketing e gestão; e tudo isso
+permanece vinculado a um único processo
+projetado para gerar resultados em
+uma vertical específica. Se você for
+Ao assistir a este vídeo, você declara ser
+agência, gerente de tráfego, se você tiver
+uma agência de IA, uma agência de
+automação, se você for um empreendedor ou
+empreendedor e você realmente quer entrar
+Neste mundo de inteligência
+artificial, você quer ter o seu próprio
+Sistema operacional de IA, clique no
+O link que está aqui no
+A descrição deste vídeo se aplica a
+Venha descobrir a Acelera 360. Somos uma empresa...
+ecossistema projetado para te ajudar
+entrar na era da inteligência
+artificial da maneira correta, para
+Para te ajudar a gerar resultados reais.
+Temos treinamento e ferramentas.
+específico para impulsionar o seu negócio.
+E para você, que ainda não usou o seu
+da ideia à realidade, que você ainda não...
+tendo se tornado um empreendedor, para você
+Especificamente, nós o ajudaremos a
+Expanda e construa seu negócio
+inteligência artificial de uma vez por todas
+Aproveitem este momento.
+Em seguida, clique no link que
+Está aqui na descrição deste produto.
+Assista ao vídeo e venha conhecer o Acelera 360. E...
+Por que precisa ser integrado, Kelv?
+Porque uma única ferramenta não gera
+previsibilidade. Itens soltos não
+Eles geram previsibilidade operacional. Que
+Isso já está acontecendo no mercado hoje, já está acontecendo.
+vendendo muitas ferramentas
+solto. Agora, um processo orquestrado
+Com inteligência artificial. Sim, e de
+Trata-se de uma infraestrutura de
+Crescimento impulsionado por IA. Você tem que
+Construa isso uma vez para um
+mercado específico, para uma dor
+específico para esse mercado e replicá-lo
+várias vezes. E como eu escolho um(a)?
+mercado para agir aqui? Como
+funciona? Primeiro, veja, quando
+Estamos falando do mercado, existem dezenas de
+mercados onde você pode operar, é um
+esfera. Então, vou te mostrar
+Eis como analisá-lo, como escolher o
+mercado correto. Existem cinco critérios.
+fatores-chave para escolher um mercado que
+gerar um potencial absurdo para
+Configurar essa infraestrutura de IA e
+Comece a atacar o mercado. Primeiro
+O primeiro critério que você deve usar,
+urgência. Eles precisam encontrar um
+mercado onde existe um problema que
+ocorre frequentemente e isso
+o problema custa muito dinheiro enquanto
+O problema não está resolvido. Geralmente isso
+O problema reside na área comercial e
+vendas. Ele está na área de vendas.
+Então, mais equipe de vendas, mais
+marketing. Eu disse errado. Comercial e
+marketing. Então, é a área de
+vendas em conjunto com a comercial. Não, não.
+Existe uma área comercial sem, no entanto, um espaço comercial.
+marketing, sem ter apelo,
+Geração de leads, ok? Segundo
+critérios que você deve entender, poder de
+compras. Não adianta tomar um
+pequeno mercado, um mercado que é
+Contratação, um mercado com atores
+que não têm poder aquisitivo. Então
+o ator tem que emitir a fatura por isso
+o suficiente para pagar pela configuração premium
+mais recorrência. Entendeu? Ele
+O cara precisa de uma caixa para isso.
+Então, primeiro ponto: urgência, isso dói.
+toda semana. Em segundo lugar, possui uma caixa para
+que. E em terceiro lugar, há demanda.
+já existem, eles já estão gastando dinheiro
+tentando resolvê-lo, por exemplo, já
+Eles contrataram uma agência, eles já contrataram
+Tráfego pago, eles contratam ferramentas
+Eles estão resolvendo isso com a ajuda das pessoas.
+Então eles já têm um orçamento. Por
+que? Porque se eles têm o orçamento, é
+maravilhoso. E em quarto lugar, a acessibilidade.
+. Você consegue identificar, encontrar e
+Alcance o tomador de decisões sem comprar
+Acesso caro? Isso é possível?
+Porque? Porque às vezes as pessoas
+quer iniciar um negócio em um mercado que é
+muito restritivo, muito fechado, muito
+difícil, onde reside o poder
+relações. Nesse tipo de mercado,
+Amigo, para alguém que está começando agora, não.
+Faz sentido. Kelvin, mas como eu faço isso?
+Devo aprofundar minha análise do mercado?
+Pesquisa, pesquisa. Aqui
+Na Acelera, validamos mais de 84
+mercados. Existem várias ofertas, mais de
+300 ofertas validadas para
+Infraestrutura de crescimento impulsionada por IA.
+Mesmo agora, neste segundo semestre do ano,
+É isto que você está vendo, veja.
+Isto é Grow FI. Se você quiser ter
+Acesso ao Grow Fi com seu logotipo, com seu
+marca, no entanto, você pode acessar isso
+solução tornando-se um parceiro de
+Acelere 360 ​​graus, ok? Mas para
+Você terá que clicar nisso.
+Descrição deste vídeo. Mas
+Basicamente, é isso que fazemos, nós...
+Nós ajudamos você a escolher um mercado ou
+Agora mostramos aqui como eu sou
+fazendo isso neste vídeo para que você possa
+fazer. Agora, você entende esse conceito de
+Construir uma vez e repetir?
+Você precisa escolher uma dor dentre as várias.
+mercado, de um nicho específico,
+usando este quinto item aqui.
+Este quinto critério é extremamente
+importante. Isso fará com que você não apenas...
+mais uma automação de vendas depois
+automação personalizada, o quê?
+é? Trata-se de encontrar um processo com o
+estrutura ou estrutura com o critério
+de repetibilidade. O mesmo problema
+Esse processo deve ser repetido em dezenas de empresas.
+dentre essas dezenas de atores que você escolheu
+para se endireitar. Porque? Porque
+Aqui você poderá encontrar o seu
+pote de ouro no fim do arco-íris.
+Olha que incrível. Imagine isso
+A seguir: Você fez um curso de mecânica,
+Você escolheu, digamos, o mercado.
+Automotivo, oficinas, e foi aí que você resolveu o problema.
+uma dor de retenção resultante das oficinas,
+Vendas das oficinas, da LTV.
+Então você atendeu seu primeiro cliente, você
+Você validou e depois pegou a segunda.
+cliente e você disseram: "Hum, parece que
+Eles têm o mesmo problema." Você respondeu
+a solução, embora ainda a
+Você deu um toque pessoal. Então, com o
+quarto cliente, o quinto cliente, em
+Com o sexto cliente, você começa a ver um
+padrão. Este é o padrão onde
+Você precisa se concentrar, é aí que...
+Você precisa criar um produto, porque ele é
+Nesse caso, você pode simplesmente
+Pressione Ctrl+C, Ctrl+V e saia para
+reproduza essa mesma parte do seu
+infraestrutura para muitos e muitos e
+muitos workshops. Mas por que estes?
+Os workshops cobririam todos esses custos? É muito
+Simplesmente porque você não vende ferramentas.
+Você não vende SaaS, você não vende
+Automação: você não vende chatbots.
+Você vende resultados, você vende crescimento.
+operacional, você vai vender mais
+receita, margem mais alta, maior escala,
+Você vai estruturar seu processo de vendas.
+Para isso. Então, o mercado que
+Independentemente da sua escolha, você terá que responder a estas perguntas.
+Aqui estão quatro perguntas. Onde estão
+Ele está perdendo dinheiro? Como
+Como essas empresas estão conquistando clientes hoje em dia?
+O que os melhores fazem isso?
+A média não representa o que está acontecendo? Sala,
+Qual é o preço médio do bilhete e a tarifa?
+Fechando? Então, é aqui que...
+desenvolver o jogo. Se você responder a esta pergunta,
+Você já fez isso. Kelvin, mas
+Como devo cobrar o que você está dizendo? 20,
+30, 40 mil reais? Prestar atenção. Ele
+O modelo de precificação é uma questão muito importante.
+interessante. Existem várias maneiras de
+cobrar. Você pode cobrar por hora, você pode
+Cobrança, por exemplo, de tecnologia.
+ponto de função, que é um cálculo
+bastante complexo. Você pode cobrar por
+projeto, você pode cobrar conforme a necessidade, por
+projeto, ou você pode cobrar por potencial
+gerado. Escute o que estou lhe dizendo.
+dizendo aqui. Se eu te disser que é para
+resolver um problema dispendioso que gera
+valor, que irá gerar mais dinheiro
+Você acha justo ele acusá-lo disso?
+2.000 reais por gerar 200 ou 300 mil
+Mais para o cliente? Faz sentido?
+Não. Então, precificação
+desse tipo de modelo, ou melhor
+Dito isso, esse modelo de negócios é
+devido ao potencial gerado. Que
+Isso significa o quê? Que você calculará pelo
+Potencial de receita gerado.
+Você pensará sobre o negócio de acordo com o
+potencial de receita. Você se multiplicará
+Isso se deve à probabilidade de captura.
+Esse potencial permite que você ganhe de 10 a 20
+%. Esse é o seu preço, esse é o cálculo.
+. Então, veja só isso aqui. Vamos
+lá. Imagine o seguinte. Imaginar
+com nossa infraestrutura
+Identificamos o mercado para
+mecânicos, para os atores do setor
+mecânico. Este é o jogador, veja.
+Oficinas de mecânica automotiva.
+Mecânicos de verdade, né?
+Entendeu? Mecânicos de automóveis.
+Identificamos o seguinte e afirmamos:
+Amigo, nós podemos, com o nosso
+infraestrutura de inteligência
+artificial, com nossa máquina,
+gerar mais 50.000 por mês para o
+a operação deste cliente, reativando
+a base, aumentando o LTV e gerando
+"Resultados reais para ele." Significa
+que 50.000 reais é o potencial
+identificado por mês. Esse potencial
+O valor anual é 50.000 x 12, o que resulta em 600.000.
+Imagine que temos aqui um
+50% de probabilidade de capturar esses
+600.000. Isso dá 300.000 reais. Portanto
+Portanto, cobro 10% desse valor como
+Configuração: 30.000. Então, o
+Esse cara não paga 30.000 por um agente ou por
+uma automação. Ele vai pagar 30.000
+porque você vai gerar 300.000 para ele.
+ele. Então, observe a capacidade de
+Gere a riqueza que você tem aqui. Olhar
+o potencial gerado. Então não há
+uma forma de você cobrar um valor menor
+porque seria inconsistente com
+a capacidade de geração de riqueza que
+ter. E há outro ponto, que é se
+Você não cobra pela instalação disso.
+digite mais uma recorrência, você não terá
+o dinheiro necessário para crescer
+Sua empresa, contrate pessoas boas.
+e de fato entregar resultados reais
+para esta empresa. Então o grande
+A questão é que você usa a configuração.
+Para alavancar o negócio, ele retorna ao
+máquinas próprias e a recorrência que
+Cobras representa basicamente a sua saúde.
+financeiro. Você pode entender que é
+É possível criar um negócio recorrente. E
+É aí que entramos no primeiro ponto.
+slide que mostrei aqui. Não
+Você precisa de 1.000 clientes, você precisa de um
+mercado grande, mas com 10 clientes
+Com 3.000, você já está gerando 30.000 de receita recorrente mensal (MRR).
+. Qual é mais fácil? Fechar 10
+clientes a 3.000 cada ou perto de 100
+300 clientes, por exemplo. Isso é o
+lógica de infraestrutura
+. E há outro ponto, sabe? O
+infraestrutura, este modelo aqui,
+É um modelo que permite gerar,
+Você consegue gerar um, como eu conseguiria?
+Para dizer isso?, uma dependência muito grande de
+seu cliente em sua operação. Porque
+Imagine o seguinte, imagine que você vai
+para lhe trazer a base de sua operação, a
+nova base, o novo modelo, o novo
+processo, tudo funcionando dentro do seu
+sistema. É exatamente a mesma coisa que a SAP faz.
+que a Salesforce faz, só que em um
+esfera menor, gerando logicamente
+Esse resultado é impossível, ou melhor, é impossível.
+Dito isso, é improvável que você não tenha sucesso.
+Definir preços dessa maneira. Kelvin,
+Mas por que você está falando de vendas? Por que
+que? Quero criar um
+Infraestrutura de IA para pós-venda,
+Quero criar uma infraestrutura de IA.
+Para finanças, para RH. HH. Olhar,
+Você precisa entender o seguinte para:
+Para vocês que estão começando aqui,
+toda a área da recepção, que
+Chamamos isso assim, é diretamente
+vinculado à receita da empresa.
+Então é isso que faz um
+A empresa está crescendo. Marketing, vendas,
+sucesso do cliente, produto, serviço,
+finanças, contabilidade, direito, recursos humanos
+humanos, inteligência de negócios, TI,
+Compras, operações, tudo isso é
+back office. Isso dá suporte à operação.
+. O que está acontecendo? Se você construir o seu
+infraestrutura voltada para a frente
+escritório, em direção ao núcleo do negócio,
+a possibilidade de exibir resultados
+O que é real para o seu cliente é muito mais
+rápido, é muito maior, é muito mais
+visível para que você possa ver que está gerando
+resultados. Agora, o que você não pode
+O que fazer é concentrar-se na área.
+financeiro de uma empresa onde o
+Finanças não são a atividade principal, mas
+back office. Por que? Porque, afinal, o que é isso?
+Qual será a sua contribuição? Você vai
+Contribuir para a melhoria dos processos. Vai ser muito
+É difícil efetuar uma venda com esse ingresso.
+porque não está diretamente ligado a
+onde se gera dinheiro para a empresa.
+Você consegue entender isso? Então,
+Quando falo sobre criar um
+infraestrutura de crescimento,
+Chame como quiser. Nossa!
+Então isso seria um
+Infraestrutura de IA, IA de receita, que
+gera mais clientes, mais vendas, mais
+ganhos; uma inteligência artificial,
+uma estrutura aplicada às áreas
+que geram receita, atraem clientes e
+Eles aumentam a receita. O que são
+as principais áreas em que
+Você consegue se concentrar? Marketing, vendas,
+Sucesso do cliente, do produto e da oferta.
+Exemplos de aplicação: geração de
+demanda com IA, conteúdo, tráfego
+pago, anúncios, classificação e
+Gestão de leads 24 horas por dia, 7 dias por semana, agentes de
+vendas e rastreamento automatizado,
+Oferecer recomendações, programas
+Retenção e reativação, análise
+de chamadas, objeções e melhorias
+contínuo. Mas há um ponto importante aqui:
+Oh meu Deus! Você está dizendo que eu vou...
+Vender um chatbot por 30.000? Não,
+Prestar atenção. Tudo isso tem que
+estar ligado a um processo, a um
+metodologia, porque é isso que
+Isso trará resultados. Nunca vi
+contratar uma agência de classificação de risco e
+Preste atenção no WhatsApp e obtenha resultados.
+por si só. O máximo que pode acontecer é
+que responde rapidamente ao estímulo. Mas
+O resultado só vem com um processo.
+estágio de vendas onde o
+classificação, mensagens enviadas e
+O monitoramento está vinculado a isso.
+processo. Isso gera resultados.
+Então, a grande oportunidade para
+Construa uma vez e replique.
+Isso geralmente envolve a criação de um sistema,
+uma estrutura para um mercado
+específico, para um nicho específico.
+Para resolver uma dor dispendiosa, uma dor que
+Isso impacta, afeta a carteira e é
+repetível, e transformá-lo em um produto.
+. Esse é o jogo. Isso está criando um
+infraestrutura de crescimento com
+inteligência artificial. E se você quiser
+Crie o seu próprio, se precisar de ajuda, se
+Deseja apoio neste processo?
+Para iniciar e transformar seu negócio,
+Talvez você, que está começando um negócio,
+que você pode ter uma agência de
+Marketing, não sei o que você faz, mas se
+Você está assistindo ao meu vídeo, venha me conhecer!
+Acelere 360. Podemos te ajudar com isso.
+o momento que você está atravessando.
+Podemos ajudar você, que é
+empreendedor. Podemos ajudar você, quem
+Você quer abrir um negócio e já está...
+empreendedor para implementar um
+Clique no link aqui
+na descrição deste vídeo e venha
+para conhecer. Se você gostou deste vídeo,
+Dê um like, deixe seu joinha!
+Siga-me aqui e comente também!
+OK? Adeus a todos e até mais!
+próximo. Sim.

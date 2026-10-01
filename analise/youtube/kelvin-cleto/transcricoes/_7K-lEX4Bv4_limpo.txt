@@ -1,0 +1,343 @@
+fala meus queridos vocês estão bom como
+que vai vocês
+Hum já ouviram falar do Devin galera do
+céu Devin é uma ia que promete ser um
+engenheiro de software é um programador
+Júnior pleno sor é bizarro Deixa eu te
+explicar você vai lá o bagulho lê o teu
+github lê o projeto conectado no Slack
+aí vocêa no Slack fala assim ó ah é
+refat esse código para mim aqui a função
+tal tal tal tal do repositório tal o
+bagulho vai começa a meer tudo sozinho
+altera e ainda faz uma PR para você
+aprovar você bota f n você bota fé
+chegou galera est no final dos
+tempos eu falo PR vocês eu falo para
+vocês tô falando desde o começo do canal
+aqui não é mais só codar entendeu o
+mundo tá acabando vocês não tão
+acreditando em mim ó se liga hein se
+liga esse cara aqui é o Lucas o cara
+pagou 500 doletas para testar o Devin e
+Ele demonstrou essa parada se liga ele é
+do canal para quem quer saber o canal
+chama cof stack uma das coisas que mais
+me impactou com o Devin foi a forma como
+a gente consegue interagir de fato é uma
+forma como eu interajo com outros
+desenvolvedores e outros programadores
+no meu time nesse caso por exemplo eu
+escrevi uma mensagem no Slack para quem
+não conhece é a ferramenta de
+comunicação que é utilizada basicamente
+por todas as empresas então o ele tá
+integrado nessa ferramenta eu falei olha
+eu tenho essa pequena Test no backlog
+para atualizar a versão da biblioteca e
+ele começa a fazer a pesquisar aqui ol
+até falar vou ver qual o repositório que
+você tá falando aí eu já dei o
+repositório para ele já vem com o plano
+do que vai fazer uma vez que você aprova
+esse plano que parece a se ó se liga
+hein ele pediu ele analisou o
+repositório ele mostrou o plano E aí
+olha o que o Lucas falou tem que aprovar
+tipo assim ó não pode fazer faz aí
+paizão Ok como se fosse eu interagindo
+com o desenvolvedor ali Ah beleza essa é
+minha ideia é assim que eu vou resolver
+esse problema falei beleza manda ver
+então só aqui ó só aqui ó ai ai ai ai
+deixa eu até colocar na câmera inteira
+Tá chegando a hora bora cantar F aqui
+agora é música do Titanic sabe Violin
+[&nbsp;__&nbsp;] Cadê pera aí dá o Play o a vai
+realizar essa tarefa ele vai fazer as as
+mudanças necessárias no caso foi
+atualização da e ele até considerou né
+lá aquela release upgrades né que a
+gente tem ou seja as mudanças que você
+tem que fazer no seu código não só
+atualizar o pacote em si e ele também
+interage através de comentários então eu
+fiz aqui mais para testar perguntei ah
+por você substituiu a skip PR data por
+esse placeholder data como eu
+perguntaria para um desenvolvedor no meu
+time porque você introduziu essa mudança
+e ele me explicou aqui muito bem com
+todos os detalhes e a gente consegue ver
+também ó ele até coloca a sessão dele né
+então consigo clicar e ver de fato o que
+o Devin ele fez né ao longo do do
+processo para chegar a essa
+refaturar então ele aqui ele coloca por
+exemplo ah Tô investigando a code base
+então ele foi lá no arquivo package Jon
+e aqui ó migrando Então olha só ele
+pesquisa no Browser né ele vai abrir o
+browser ele não ele ainda faz a pesquisa
+irmão não E o [&nbsp;__&nbsp;] olha o histórico Ele
+identificou investigou pesquisou viu o
+que tinha que fazer
+atualizou
+mano mano só isso aí já cortou o trampo
+de uns dois três Dev Júnior de boa de
+boa sabe aquelas parad que tipo assim
+atualizar pacote tipo quando mudou do
+vai net 5 pro net 6 quero atualizar toda
+a sintaxe o [&nbsp;__&nbsp;] implementar parada
+nova imagina seguinte você abre o Slack
+altera para mim eu quero
+implementará pum Play acabou irmão ele
+vai pesquisar assim como o desenvolvedor
+Paria ele tá abrindo os arquivos aqui
+para verificar então ele abriu esse
+arquivo depois ele abriu esse outro ele
+fez uma atualização Então beleza ó ele
+reescreveu o plano aqui mudou um
+pouquinho plano aí ele já fez uma
+alteração no pack Jon Ah ele viu que
+tinha uma uma sintaxe que ele precisava
+atualizar então ele foi lá no arquivo e
+mudou essa sintaxe aqui né E quando ele
+viu que tava pronto ele foi lá né criou
+o por request esse P request vocês estão
+vendo e realmente ele fez exatamente o
+que deveria fazer Não precisei fazer
+nenhuma mudança o request foi
+aprovado bastante domínio meu primeira
+tarefa pro Devin foi até relativamente
+fácil porque é uma tarefa que ela é
+domínio então de fato é necessário uma
+certa eu não queria usar essa palavra
+mas não tem uma palavra melhor é
+necessário uma certa inteligência para
+você conseguir aplicar essa refatoração
+então só para explicar para vocês eu
+tenho essa função que é uma chamada api
+que ela foi colocada dentro desse user
+aí pii só que ela na verdade ela
+pertence a outro contexto que é o
+contexto de seguidores né o follow então
+a gente agora é depois de é um tempo
+projeto a gente tem follow a api então
+basicamente eu preciso mover isso para
+lá e obviamente tem algumas coisas que
+eu tenho que levar em consideração mas
+eu não vou dar muito contexto eu só vou
+falar pro Devin né que ele precisa
+basicamente é pegar esse tudu num
+projeto e corrigir é isso que eu vou
+falar como eu estaria falando sei lá
+pedindo para um tipo assim ó o cara foi
+lá e colocou a função numa classe e era
+para colocar em outro lugar ele vai
+pedir isso para Iá volta pra câmera aqui
+ó volta pra câmera ó
+ó estamos com pressa não [&nbsp;__&nbsp;] que pariu
+coloca a função aqui mesmo pá [&nbsp;__&nbsp;] aí
+depois você ele meteu só um tudinho ali
+para mover aí ele foi lá no Slack que já
+tá conectado com o Dev e fala assim ó
+Altera a função de tal lugar para tal
+lugar porque aquele Dev ali
+deixou ela naquele na classe errada ele
+vai entender Ele vai analisar a
+estrutura do proj ele Analisa analisa a
+estrutura do projeto e como ele tá
+organizado e ele vai fazer a parada da
+alteração
+é é o fim do tempo é o fim dos tempo
+Júnior tá bom F chegar aqui vou falar Hi
+David we have a
+small on the no app to be Down this to
+do comment to be address né ou seja para
+ser endereçado AD aqui depis já me
+respondeu basicamente aqui é só uma
+mensagem dizendo né que tá rodando tá
+realmente funcionando vamos esperar um
+pouquinho para ver a resposta do Dev ó
+looking into the user api file and ROM
+moving The Code to the f dom que é
+justamente o que a gente queria aqui ó
+move it to follow The Man Ready repara
+que eu não dei muito contexto eu não
+falei para ele onde é que tá o arquivo
+do fen domain Ah eu não dei muito
+contexto da da base de código e
+basicamente eu quero ver até onde ele
+vai conseguir isso eu vou precisar dar
+mais instruções A respond I first work
+on a plan if you want me to confirm the
+plan with you before proceeding please
+please wa wait for confirmation então e
+isso aqui é um padrão também da
+ferramenta ele vai antes dele de fato
+escrever o código ele vai te perguntar
+né ele vai trabalhar num plano ele vai
+fazer um t list igual eu já mostrei para
+vocês dizendo como ele vai atacar aquela
+tarefa Então a gente
+tem por quê update use service to Import
+and use the follow api is Following
+Então deixa eu ver aqui a gente tem o
+arquivo follow api e a gente tem essa
+função ó a função ela já tá aqui dentro
+ó Então isso é muito interessante ó ele
+ele já ele considerou a duplicação né
+Por qu porque ele analizou o arquivo e
+viu que a função ã já estava aqui dentro
+então basicamente ele não vai precisar
+nem mover a função ele vai precisar só
+remover e atualizar onde a função tá
+sendo utilizada né então se a gente der
+uma olhada onde essa função ela tá sendo
+utilizada ela tá sendo utilizada somente
+no aqui ó somente aqui no no user
+service né follow service ah basicamente
+é isso aqui ó olha só ah aqu ele cometeu
+meu que vai ter de Devid desenvolvedor
+que vai contratar essa ferramenta e vai
+ficar na boa ali ó o cara ganhando 10
+cara pegou lá o emprego lá tá tirando
+seus 10 12 aí ele paga 500 doleta dá o
+quê R
+3.000 e ó
+só chama papai toma Ô Devin faz aí vai
+faz aí aí vai escalar vai escalar como
+vai escalar daquele jeito né duas três
+vagas pjota então talvez um pequeno erro
+não um pequeno erro mas não não cometeu
+o erro tá correto porque aqui eu tô
+utilizando o user api olha só ele tá
+seguindo o padrão do projeto porque eu
+tô reexport essa função dentro do
+serviço mas nesse caso aqui eu tava
+utilizando ó tô chamando diretamente a
+api Tá bom então ele vai basicamente
+reutilizar a follow IPI Então na verdade
+é Júnior é vai ficar mais difícil agora
+hein vai ficar mais difícil porque isso
+aqui ó vou vou vou vou pular
+aqui porque vocês depois podem assistir
+ou pass só um segundinho até a
+luz é isso Dev chegou imag é o início de
+imagina daqui
+anos é por isso que eu falo cara
+programador não é só programador ele tem
+que ser um solucionador de problemas
+porque senão essa história aí de até o
+próprio Lucas fala de que o código vai
+acabar e tudo mais mas por trás do
+código sempre vai existir o código por
+trás de qualquer facilidade sempre vai
+ter o código mas o
+grande o grande ponto galera é que o
+grande ponto é que você tem que entender
+que o desenvolvedor ele tem que entender
+muito ele tem que ter uma base sólida de
+programação cara você tem que entender a
+fundo a sua stack muito a fundo você tem
+que entender tem que ter clareza de como
+ela funciona de como Aquela linguagem
+funciona você tem que ter domínio sobre
+arquiteturas de software isso é muito
+importante é muito importante isso
+também não precisa ter um domínio
+profundo Mas você tem que ter domínio
+sobre modelos de arquitetura de software
+tem que se comunicar tem que aprender
+falar tem que aprender discutir entendeu
+tem que aprender até
+persuadir cara nunca foi tão importante
+os devis desenvolverem soft Skills nunca
+nunca nunca nunca acho que em nenhum
+momento como agora tá claro que em algum
+momento
+a cara eu diria que eu nem nem tenho uma
+previsão na verdade dificilmente dá para
+dá para prever algum uma coisa mas o
+negócio tá evoluindo muito rápido tá
+evoluindo muito rápido muito rápido isso
+aqui tranquilamente aí Traz 30 40% de
+eficiência para um time de
+desenvolvimento isso aqui bota isso aqui
+isso aqui isso aqui traz layoff em massa
+a hora que isso aqui aprimorar e eu dei
+uma lida lá o o volume de e o team lá do
+do do Devin lá é limitado Então pode ter
+quantas pessoas quiserem no time então
+pau come 500
+isso aqui traz muita
+eficiência chegou a hora galera chegou a
+hora o momento é agora então é o
+seguinte bora começar a aprender a
+estudar e a evoluir a começar a entender
+de negócio a
+desenvolver é até uma palavra meio [&nbsp;__&nbsp;]
+intraempreendedorismo entendeu e cara E
+aí deve o profissional que domina que
+desenvolve essas soft Skills que que
+[&nbsp;__&nbsp;] fala assim ó não tô aqui para para
+resolver o problema tô aqui para para
+trazer dinheiro pra empresa e para
+ganhar o meu dinheiro também logicamente
+ele impera ele impera ele vale a peso de
+ouro porque o que mais se vê hoje é
+desenvolvedor vagabundo que só quer
+escrever código ele descreve mal feito o
+cara nem se o cara não quer saber nem se
+o código dele é bom entendeu ele nem nem
+nem para ele nem interessa para ele tipo
+assim ele só quer codar codar codar
+codar codar codar cara quantas pessoas
+desenvolvem em Sistemas que nem sabe
+para que que o sistema serve entendeu
+esse é o momento esse é o momento o
+momento de refaturar a cabeça refaturar
+a mentalidade e evoluir soft Skills e
+evoluir firmemente conceitos básicos
+entendeu fundamentos da sua linguagem
+Cara isso aqui mata full stack [&nbsp;__&nbsp;]
+merda nem tinha pensado nisso full stack
+Tá [&nbsp;__&nbsp;]
+sabe eu não sei de nada mas sei de tudo
+sei disso daquilo daquilo outro ó
+facão facão é isso que vai acontecer é
+isso que vai acontecer então é isso
+galera essa ferramenta se chama Devin
+pesquisem aí para vocês verem entendeu a
+licencinha tá minha cara hein [&nbsp;__&nbsp;] merda
+mano mas para uma Company faz total
+sentido PR Startup então [&nbsp;__&nbsp;] que [&nbsp;__&nbsp;]
+que pariu faz faz cantar isso aqui
+multiplica multiplica desenvolvedores Ah
+mas vai acabar o desenvolvimento não tá
+longe disso Isso aí é é isso aí é Teoria
+da Conspiração isso nunca vai acontecer
+isso aí nunca vai acontecer o que vai
+acontecer é uma seleção natural entendeu
+vão ficar os melhores e os piores vão
+ficar desempregados e agora vai acelerar
+esse processo então assim eh você tem
+que ter em mente isso que a partir de
+agora a ia ela realmente começa a afetar
+forma
+intensa o nosso mundo de desenvolvimento
+de software demais isso é bom e isso é
+ruim também faz parte é a transformação
+do mercado o nome disso é transformação
+do mercado Vamos com tudo é isso aí
+galera mais um vídeo aí esse aqui eu fiz
+de um jeito diferente comentei entre no
+canal desse cara mano [&nbsp;__&nbsp;] o canal dele
+é muito [&nbsp;__&nbsp;] chama Cof stack é animal
+mano [&nbsp;__&nbsp;] Lucas tá de parabéns aí pelo
+pelo pelo pelos vídeos que você gera
+cara conteúdo conteúdo incrível rico
+rico conteúdo de
+valor Valeu galera um abraço para vocês
+tchau

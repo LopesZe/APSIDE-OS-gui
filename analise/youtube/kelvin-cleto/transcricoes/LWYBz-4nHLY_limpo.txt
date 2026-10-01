@@ -1,0 +1,1029 @@
+O que eu vou falar aqui nesse vídeo vai
+incomodar muita gente, mas tem que ser
+dito. Tá todo mundo falando sobre
+ferramentas de inteligência artificial,
+sobre como usar ferramenta tal, chat EPT
+tal, cloud code, como fazer isso, como
+fazer aquilo, mas ninguém fala sobre o
+mecanismo que vai fazer você gerar
+dinheiro com essa ferramenta. É por isso
+que a maioria continua travado. Deve,
+dono de agência, gestor de tráfego, sabe
+que a inteligência artificial é o
+momento, é a melhor coisa para se fazer,
+entende, mas ele não sabe como
+transformar este conhecimento que ele
+tem em aplicar a ferramenta em dinheiro.
+A maioria da galera trava nisso. Isso aí
+não é falta de conhecimento técnico, é
+falta de como de entender a
+infraestrutura que existe por de trás
+para você conseguir realmente monetizar,
+montar a tua empresa, fazer acontecer
+tanto no teu negócio como no negócio do
+teu cliente. Essa é a mesma estrutura, a
+mesma infraestrutura que eu uso na
+Acelera, que fez eu que eu fez eu bater,
+por exemplo, na Acelera, 1.5 5 milhões
+só em venda de do educacional no ano
+passado, mais 1.200 de venda de
+inteligência artificial de agentes de
+inteligência artificial totalizando 2.7
+milhões de faturamento em 10 meses na
+consultoria que eu tenho na KCG, no
+modelo mais B2B corporate, fechamento de
+grandes contratos. Então assim, se você
+quer entender realmente a nuance, o
+processo, esse vídeo aqui vai ser para
+você. Isso aqui vai ser mais do que
+muita mentoria por aí entrega, mais do
+que com mais conteúdo do que muito curso
+por aí entrega, tá? Então pega papel,
+pega a caneta, anota, presta atenção,
+porque eu vou abrir para você exatamente
+tudo. Bora começar, então? Vamos lá.
+Bora começar. Eu tô ansioso, ó. Tô aqui
+no City, made em Mato,
+Carnaval,
+10:49 fazendo esse vídeo para você, ó.
+Para você que não me conhece, muito
+prazer. Meu nome é Kelvin. Eu sou um
+programador que um dia decidiu
+empreender. Montei uma empresa a meus 22
+anos chamado General Cleans. Fiz a venda
+de 50.1% dessa empresa em 2022. Fiz o
+meu Exit em 2025 e fundei a Celera 360.
+Acelera 360, para você que não conhece,
+é um ecossistema de empreendedores de
+tecnologia. Se você quiser conhecer mais
+sobre acelera 360, é só você clicar no
+link que tá aqui na descrição desse
+vídeo. Barulhos à parte, não se
+esqueçam, porque eu tô com toda a minha
+família aqui, quatro filhos, cachorro,
+criança, mãe. Então, isso aqui tá uma
+loucura. Mas vamos lá, ó. Olha o cenário
+do Brasil. As pequenas e médias
+empresas, elas elas representam 27% do
+PIB nacional. Esse número é até maior,
+tá? Então, é de 25 a 30%. Só que elas
+compõem 90% de todas as empresas no
+Brasil. Significa que as micro pequenas
+empresas ali,
+elas representam 90% de tudo de todo
+tudo quanto a CNPJ no Brasil. E a
+esmagadora maioria dessas empresas não
+tem processo. Elas não têm processo.
+Quando a gente tá falando de vendas,
+elas não têm nem CRM, elas não têm
+automação. Muitas delas ali o a o fluxo
+de clientes entra pelo WhatsApp. E a
+esse número eu vou chutar também aqui,
+mas eu tenho quase certeza que a
+esmaguadora maioria o fluxo de vendas é
+100% por indicação. É por isso que a
+agência de marketing faz tantos faz
+tanto sucesso, mas não gera tanto
+resultado. Então, olha que louco isso
+aqui, ó. pesquisas recentes da Stone
+indicam que aumentar as vendas é a maior
+dor do empresário, desse empresário
+aqui. Por isso que eu falo para você,
+foque em desenvolver inteligra de
+crescimento com IA focado para vendas.
+Para vendas. Então isso aqui é vendas e
+marketing, tá? 33% clama por crédito e
+gestão financeira para que porque acha
+que isso é um grande obstáculo pro
+negócio dele. Essa galera aqui é a
+galera que não sabe fazer gerenciamento
+financeiro na negócio, gestão e aí tá
+28.7% 7% relata dificuldade na
+organização interna, mapeamento de
+processo que depois ocasiona em
+necessidade de crédito. Isso aqui é o
+quê? Estruturação e processos. G4 bate
+muito nisso aqui e aqui em vendas
+também, tá? E para quem quer empreender,
+a maioria dos empreendedores, elas eles
+quebram porque eles não sabem vender
+produtos ou serviços. Então, você que
+dev tá me assistindo aqui, você já deve
+ter feito SAS, micro SAS, criado
+diversas coisas. Ou você, você que tá me
+assistindo, já tentou montar alguma
+empresa e quebrou, por quê? Porque,
+como que eu vendo? Não consigo
+vender, não consigo distribuir, tenho
+uma excelente ideia de um produto e não
+consigo vender. Então, tá vendo? É por
+conta disso aqui. E agora que você já
+entendeu isso, olha aqui para mim. Você
+já percebeu que esse vídeo vai ser um
+vídeo diferente? Já viu que o tempo dele
+é longo, porque aqui a entrega é pesada?
+Primeira coisa, você vai ficar comigo
+até o final desse vídeo. Segunda coisa,
+eu vou romper tua cabeça e se eu virar
+uma chavinha aí, ó, você que tá me
+assistindo agora, se eu virar uma
+chavinha, eu quero você comigo no dia
+21/02 agora no meu workshop chamado Grow
+AI System. Lá é um workshop que eu vou
+fazer online para ajudar você a
+empreender. Eu vou te explicar sobre
+como você criar sua infraestrutura de
+crescimento como inteligência
+artificial. Vou te explicar como atingir
+contratos de 20, 30, R$ 40.000 de setup.
+mais recorrências altas. Vou ensinar
+você a construir a sua oferta, a
+escolher o teu nicho, a saber se é um
+bom nicho, a entender os gaps desse
+nicho, a você atacar esse nicho, validar
+ele, construir toda a estratégia em go
+market para você empreender. Tenho
+certeza que se você estiver lá comigo,
+você vai sair de lá com o mapa claro do
+que você vai ter que precisar fazer, do
+que você vai precisar fazer para você
+ter sucesso empreendendo. Se você já
+tiver empresa, você vai conseguir mudar.
+Se você for empresário e não quiser
+empreender com tecnologia, mas quiser
+acelerar o teu negócio com inteligência
+artificial, é para você também. Para
+você que é programador, é para você.
+Kelvin não sei programar também é para
+você. Agora bora voltar pro conteúdo.
+Bora lá, rapaziada. Seguinte, vamos lá.
+Primeira coisa que eu nem vou entrar
+muito no detalhe a fundo deste funil
+aqui, desse ou melhor deste mapa, desse
+modelo de infraestrutura, mas eu tenho
+que falar sobre um ponto muito, muito,
+muito específico. Olha isso aqui, ó.
+Antes
+de gerar criativos, landing page, copy,
+primeiro eu tenho que entender quem que
+é o meu cliente ideal, qual que é o meu
+nicho, qual que é a minha oferta, qual
+que é o meu opcial, como dar o céu, isso
+já tá claro. Depois disso que isso tá
+claro, depois que eu tenho o mapa do que
+que eu vou bater, por exemplo, o mapa do
+Kelvin, da empresa do Kelvin que acelera
+360,
+qual que é a minha audiência? donos de
+agência, gestores de marketing,
+desenvolvedores, programadores,
+empresários que querem empreender ou
+destravar o faturamento da empresa deles
+com inteligência artificial. Eles já
+tentaram vender eh eh automação,
+agentes, eles estão travados, eles estão
+vendendo horas, eles não conseguem
+entender. Por exemplo, quando eu falo
+que fecha um contrato por
+40, 50.000 1000 de implantação e 2000,
+3.000 de recorrência. Eles inclusive se
+sentem até mal, falam: "Cara, esse cara
+ou ele tá mentindo ou eu sou muito ruim
+porque eu não consigo fazer isso". Então
+este é meu ICP, entendeu? Esse e o meu
+nicho? O meu nicho são pessoas que
+querem empreender de forma geral.
+E a oferta principal que eu tenho para
+eles fazer parte do meu ecossistema da
+Celera 360, porque lá dentro eu vou
+ajudar eles a empreender. Eu tenho todo
+um time, tem todo, tem mentores, tem gal
+a galera que tá no campo de batalha,
+igual eu tô no campo de batalha, pra
+gente apoiar eles a empreender com
+tecnologia, tá bom? E aqui o meu
+objetivo principal com essa oferta é
+ajudar eles emitindo a primeira nota
+fiscal. Eu tenho clareza sobre a minha
+oferta, sobre o meu produto. Eu tenho
+clareza que quando esse perfil ele entra
+no meu funil, eu consigo fazer um
+upscell, um down. Eu eu entendo tudo
+isso. Só que aí que tem um ponto, ó. Eu
+tenho a empresa,
+eu tenho, vou até adicionar aqui um
+card, ó, para vocês entenderem. Eu
+tenho,
+eu tenho produto, a empresa empresa,
+essa empresa, ela tem um produto ou um
+serviço.
+Serviço. Eu montei aqui toda essa parte
+técnica que esse mapeamento inicial que
+eu te mostrei. E agora o mundo precisa
+saber
+que eu existo.
+E aí eu tenho os meus canais de
+comunicação. O nome disso é o quê, cara?
+Eu preciso gerar criativos.
+Eu preciso ser esses criativos podem ser
+textos, esses criativos podem ser
+imagens, esses criativos podem ser
+feitos por outras pessoas. Eu compro
+esse esse criativo que vão falar sobre o
+meu produto e vão falar sobre sobre o
+que eu entrego, sobre o que eu resolvo.
+Aí depois que eu crio esse criativo, eu
+preciso de audiência. Eu preciso de
+audiência para olhar esses criativos e
+falar: "Nossa, que negócio legal". E a
+audiência você consegue de duas formas,
+de forma orgânica ou de forma paga. Por
+exemplo, aqui no momento do tráfego pago
+é o momento de que você coloca
+audiência. Tem que ter audiência, nem
+que você sai na rua gritando pro mundo:
+"Gente, eu faço isso. Você vai ter que
+ter essa audiência". Só que quando a
+audiência chega, você tem que dividir
+ela em três grupos. E é isso aqui que
+você tem que entender. Grupo um, grupo
+dois e grupo três. O objetivo dessa
+divisão, maximizar o mecanismo de
+conversão em cada grupo. Entenda uma
+coisa, todo mundo que consome teu
+conteúdo, que vai e seja acessar
+sua landing page, eu não tô falando só
+de geração de conteúdo de vídeo, tá?
+Pode ser leitura de um post no seu no
+LinkedIn, um artigo no medium, eh clicar
+no seu site através do Google, não
+importa o conteúdo por si só. Você
+basicamente são, você consegue dividir
+essa essa esse seu público em três
+principais grupos. O primeiro grupo é um
+grupo que já tá educado sobre a sua
+solução, ou melhor, ele tá sobre a sua
+solução, não, sobre aquela solução que
+você eh sobre aquela dor que você
+soluciona. Então assim, ele tem
+consciência da solução, ele tem
+consciência do problema que ele tem, ele
+já tá pronto para comprar, inclusive ele
+já tava até pesquisando e aí ele vai lá
+e caiu com o teu conteúdo. Esse é o
+público um, esse é o grupo um. Numa
+leitura de funil, o grupo um, ele tá
+mais próximo do fundo do funil aqui, ó,
+para cair já pra compra direto. O grupo
+dois, o grupo dois, ele tá consciente do
+problema. Ele tá a compra apena, ele ou
+melhor, ele vai comprar apenas quando é
+bem conduzido. Então ele sabe do
+problema, mas ele ainda não tem aquela
+urgência. E aqui, se você conduzir ele
+de uma forma adequada, você vai
+conseguir converter ele. Aí aqui é nós
+versus grandes players. Ó, chegou até
+uma carninha aqui para mim. Obrigado,
+meu filho.
+&gt;&gt; Hum, delícia. Um beijo.
+Hum. Gente, tô no sítio. Tô no sítio.
+Deixa eu até mastigar aqui, ó.
+&gt;&gt; Hum.
+&gt;&gt; Cupim. que delícia. Aqui a
+narrativa é nós versus grandes players
+do mercado. Beleza.
+Grupo três. O grupo três é o seguinte,
+ó. ainda não está consciente do
+problema, precisa ser educado antes de
+ser vendido. Aí aqui é maravilhoso
+esse grupo dois, só para você entender
+a narrativa, sabe? O Toguro, não sei se
+vocês conhecem o Toguro que tem lá que
+faz o sabor sabor energético.
+O público dele é esse aqui, ó. É a
+narrativa dele é nós versus Red Bull,
+sabor energético versus eh marcas que
+estão já posicionadas.
+Ele usa essa narrativa. A Simed também
+usa essa narrativa aqui.
+Por isso que a Simed trouxe o Toguru
+para ela se aproximar nessa narrativa.
+Eles querem atacar esse grupo aqui, ó,
+com o Toguro. Grupo dois. Não é o não é
+o fundo de funil, é o grupo três também.
+Grupo dois e três, eles querem descer
+essa galera para baixo. Isso aqui é
+maravilhoso. O fundo de funil conhece
+muitas BS Média, tá conectado com eles.
+Então eles já estão lá embaixo. Agora o
+dois e o três, a tendência é você jogar
+eles para baixo. Olha que loucura,
+gente. A gente nem tá falando de vendas
+ainda. Quer dizer, no final das contas
+isso aqui é vendas, mas isso aqui é o
+que acontece por detrás dos bastidores.
+Isso aqui é o mecanismo. E a gente vai
+passar por tudo isso. Eu vou mostrar
+inclusive, ó, isso aqui para vocês, ó.
+todo esse mapeamento aqui para vocês
+poderem entender. Nem adianta pular esse
+vídeo, porque se vocês pularem para
+chegar lá no mecanismo, vocês não vão
+conseguir, vocês não vão conseguir
+entender. Então fica aqui comigo,
+aguenta aí eu falando, absorve. Tá
+anotando tudo? Anota tudo para você
+poder absorver o máximo possível, tá?
+Agora que você entendeu
+sobre os três grupos da sua audiência,
+creio que se você não entendi o que que
+era um funil,
+agora ficou até mais fácil, né? Ficou
+até mais claro. Funil nada mais é do que
+isso. Você pegar os seus três grupos
+principais de audiência segmentados e
+fazer o cara do grupo tê virar ir pro
+grupo um, pro grupo um e comprar de
+você. Resumidamente, é isso. E por que
+que você tem que entender isso daqui?
+Para você poder maximizar a conversão em
+cada grupo sempre. Esse é o objetivo.
+Legal. E como que você converte a
+audiência? Tá gerando audiência. Então,
+vamos olhar aqui.
+Vou trazer vou trazer isso aqui pro pro
+mais prático para você entender. Então,
+vamos lá. Eu tenho uma empresa, beleza?
+Eu estou oferecendo um produto ou
+serviço. E aí esse produto ou serviço,
+eu fui lá, eu eu montei uma oferta para
+ele ou para eles e eu decidi distribuir
+aqui, ó, nos meus canais de comunicação.
+Depois que eu decidi distribuir no meu
+canal de comunicação, eu vou criar os
+criativos. Por exemplo, LinkedIn vai ser
+artigo, vai ser post. O medium vai ser
+post, vai ser texto, artigo longo. Se
+for no substeck, vai ser também artigo
+longo. Se for no Instagram, é vídeo,
+carrossel e por aí vai.
+Muito importante.
+Os seus canais de distribuição, não
+necessariamente nessa fase aqui,
+precisam estar conectados com quanto de
+dinheiro você tem para gastar. Por quê?
+Isso aqui é uma visão estratégica,
+é uma visão mental, é um mapa mental, é
+um mapeamento do mecanismo por de trás.
+Então, se você parar para pensar assim:
+"Ah, mas eu não vou, por exemplo,
+considerar eh converter via DM ou low
+ticket, porque eu não tenho dinheiro
+para tráfego pago."
+Você não pode ter esse pensamento. Por
+quê? Porque quando a gente tá falando de
+estratégia, a gente pensa na sua
+empresa. Você tem que pensar na sua
+empresa, no seu negócio, no melhor
+cenário. Então, quando eu penso na
+estratégia, por exemplo, da Acelera 360,
+isso aqui é um funil que eu já vou
+mostrar para vocês. Eu mostro, eu
+desenho tudo aqui, ó. Orgânicos e,
+então, todos funil. Esse aqui é o meu
+funil, é o meu mecanismo por de trás, ó.
+YouTube, vídeos densos. Este vídeo aqui
+que você está assistindo é um vídeo
+denso, não é um vídeo normal, entendeu?
+E ó, olha que louco, esse os normais
+estão falando para workshop e os densos
+estão falando mais para irm direto. Mas
+nesse caso aqui eu tô fazendo pros dois,
+tanto para chamar você para est comigo
+no meu ev no meu workshop que vai
+acontecer dia 21/02 também chamando você
+falancar se você quiser conhecer
+acelera, clica no link, tá aqui na
+descrição, tá?
+Então você tem que ter essa visão
+completa. Por quê? Porque depois você
+simplesmente vai excluir aquilo que não
+faz sentido para esse momento que você
+tá agora. E tá tudo bem. E tá tudo bem.
+Ou você vai analisar e vai falar: "Cara,
+pô, mas eu consigo vender eh vi
+orgânico?" Por quê? Porque orgânico é
+orgânico. A energia que eu preciso para
+fazer o vídeo orgânico é você mesmo
+gravar e você romper, você falar, você
+se posicionar seu tempo. Você não
+precisa de dinheiro porque ele é
+orgânico. Então não se limite a isso aí.
+Como que você converte, por exemplo, uma
+audiência? Então vamos pegar aqui. Gerei
+conteúdo. Vamos vamos escolher alguns
+canais. Para cada canal você tem que
+entender o seu tipo de conversão, mas
+resumidamente são quatro tipos de
+conversão.
+DMs, mensagens privadas diretas, né, no
+por conta do Instagram se chama direct.
+Então, DM no Instagram, eh, DM no
+LinkedIn, mensagem direta, o cara
+mandando mensagem direta para você ou
+você mandando direta mensagem direta pro
+teu lead lá dentro. formulário de
+aplicação. O ele viu teu conteúdo em
+algum lugar, daí ele clicou no
+formulário de aplicação, preencheu o
+formulário de aplicação e caiu para
+dentro. Landing page é a mesma coisa.
+Ele viu a sua landing page, ele clicou
+na sua LP e a hora que ele clicou na sua
+LP, ele leu toda a cópia da sua LP. Ele
+chegou até o final da cópia da sua LP e
+falou: "Cara, faz todo sentido. Eu vou
+comprar aqui direto
+ou eu vou marcar uma cal low ticket,
+webinário ou desafio. E aqui são
+estratégias do digital que funcionam
+muito, geralmente usado muito para venda
+de curso, mas funciona muito para
+qualquer outro tipo de produto.
+Dou ticket, webinar e desafio funciona
+muito para nutricionistas, advogados,
+contadores, eh, contabilidades,
+escritórios de advocacia para tudo,
+nutrólogos, vai, nossa, tem indústrias,
+funciona para um monte de coisa, por
+incrível que pareça, isso aqui é
+maravilhoso. Então, são estratégias que
+são do digital, são muito utilizadas por
+vendedores de curso, vendedores de
+mentoria, vendedores do a quatro.
+Porém, quando você usa isso para gerar
+lead para você, para baratear o seu CAC,
+o seu custo de aquisição do cliente,
+ajuda muito, porque qualifica demais,
+qualifica demais os seus leads e aumenta
+demais a conversão e principalmente
+ajuda nesse processo. de novo. Nosso
+principal objetivo aqui com os nossos
+grupos de audiência é segmentar, é, é
+fazer pessoas que estão no grupo três
+avançarem pro grupo dois e, e depois pro
+grupo um ou do três pro direto, que é,
+cara, ela ainda não tá consente do
+problema, ela ainda não entende, ela
+precisa ser educada, mas aí a gente
+educa ela no low ticket, no webinar, em
+alguma coisa, até ela tá pronta para
+comprar e ela vai comprar de você. E
+você tem que entender isso, tá?
+Vamos lá. Você entendeu como você vai
+converter? Você entendeu o as suas
+audiências? Você entendeu o conceito
+disso daqui? Próxima próxima
+próxima etapa, fases de conversão.
+Fase um. Fase um. Vamos lá. Montou. Você
+montou aí a sua empresa de A ou você tá
+montando a sua infraestrutura de
+crescimento com inteligência artificial
+porque você consumiu meus conteúdos ou
+vai vender um SAS cara? Fala, cara, eu
+quero fazer um SAS, eu quero trilhar a
+jornada do SAS. Já entendi que dá
+trabalho, que demora muito, que eu tenho
+que fazer o o PMF, né, que é o product
+market fit. Vou desenvolver. Não, não,
+abençoado. Você vai fazer o teste da
+oferta. Você vai estruturar a sua
+oferta.
+Você vai escrever a sua oferta.
+Inclusive, eu vou deixar aqui no link,
+no link desse vídeo,
+uma prévia para vocês
+do Offercore, que é o meu agente GPT
+para estruturação de ofertas
+muito boas, focadas 100% em produtos
+TEC,
+no caso do Infradiar, vou deixar o link
+aqui. Minha produção já tá avisada.
+Offcore está disponível aqui para vocês
+usarem, tá? Se você usar o offercore e
+virar a chavinha na tua cabeça e falar:
+"Nossa, que é incrível". Eu quero que
+você volte nesse vídeo, clique e compre
+o ingresso para est comigo no workshop
+do dia 21. Não se esqueça disso. Então
+você entra aqui, faz um anúncios, você
+faz o teste da oferta, você gera a
+oferta, daí você vai lá e faz anúncios
+com formulários de aplicação, mais
+anúncios para DMs, né, Facebook ou
+Instagram com oferta direta no criativo.
+Qual que é o objetivo dessa fase um?
+Validar oferta e mensagem. Que que
+significa isso? Será que alguém pagaria
+por isso? Será que alguém se
+interessaria por isso? Será que alguém
+clicaria aqui e faria sentido? Os meus
+primeiros vídeos no YouTube foi assim.
+Resultado disso aqui, processo claro de
+fechamento
+l virando o cliente. Cara, se você
+validar isso aqui,
+você entra pra fase dois.
+Precisa ter dinheiro para isso aqui?
+Precisa. Se você for rodar no tráfego
+pago, sim. Se você for no orgânico, não
+precisa. Eu validei o orgânico primeiro
+e depois eu fui pro pago. Eu fiz o
+invertido. Geralmente vão pro pago e
+depois vão pro orgânico. Eu comecei no
+orgânico criando esse canal, criando meu
+Instagram, gerando conteúdo, gerando
+valor para depois avançar pro tráfego
+pago. Então eu fiz o contrário. Você
+pode fazer o contrário também ou fazer
+igual eu fiz também, não tem problema.
+Ou ou fazer o geralmente o pessoal faz,
+vai no tráfego pago, depois vai no
+orgânico. E aqui no pago você não
+precisa testar com milhões de reais.
+Você começa testando pouquinho, você já
+vai entender até o motivo disso. Você
+começa testando com R$ 100 no tráfego
+pago, muito 150, menos que isso vai
+ficar ruim. Fase dois, otimização de
+qualidade. Agora você vai escalar os
+criativos vencedores para landing pages.
+Por exemplo, você vai pegar os criativos
+aqui que com as ofertas que avançaram e
+você escala esses caras. Esses caras
+você coloca dinheiro. Por que que você
+coloca dinheiro? Porque você concorda
+que aqui você já teve o seu o seu go
+ahead, a sua bandeira verde falando
+assim: "Cara, pode ir. Testei a oferta,
+funcionou". A aqui, ó, depois de testar
+a oferta, você pode inclusive
+desenvolver aqui. Você pode desenvolver
+já. E aí depois você vai pra fase dois,
+você vai otimizar para você ter
+qualidade. Então você para você escalar
+seus criativos vencedores, mas vídeo
+breve pós captura para reforçar, filtrar
+e aumentar a qualidade da conversão.
+Então sempre você vai começar a
+trabalhar aqui para ver se você consegue
+montar sua máquina de venda, para você
+escalar cada vez mais e vender, aumentar
+a sua taxa de conversão por
+visualização, por clique. Qual que é o
+objetivo? Validar funil de landing page
+mais novos anúncios vencedores.
+Resultado, processo de conversão
+validado. Aí você entra na fase três,
+garantir consistência. Aí você começa a
+gerar novos de 5 a 10 novos criativos
+por semana ou quinzenalmente ou por mês,
+conforme o orçamento e o tamanho da sua
+audiência e também o tamanho da sua
+equipe. Muito importante para quê?
+Garantir consistência de lead. Resultado
+que piaíveis.
+E aí, fase quatro, maximização de ROI,
+maximização do retorno sobre
+investimento, mover os criativos
+vencedores para retargeting, continuar
+para eh continuar aparecendo para quem
+já demonstrou interesse. O objetivo aqui
+é permanecer visível para interessados
+usando de eh diferente diferentes
+mecanismos de conversão. Isso aqui isso
+aqui é é pontos de contato. Quanto mais
+você aparece, mais a chance de você
+converter. Lembra? A gente tem que puxar
+quem tá na a nossa audiência do grupo
+três pro grupo um. Se você assistiu meu
+vídeo só uma vez, você já é a minha
+audiência, tá? E aí o seu ecossistema de
+anúncio meio que ele vira isso aqui, ó.
+Então, por exemplo, segmentação do seu
+do seu ICP, você tem anúncios feitos
+para DMs, então para mensagens diretas,
+anúncio feito para formulário de
+aplicação, anúncio de conversão. Só que
+você tá vendo que tem três anúncios
+aqui. Você que tá começando a
+empreender, você não vai começar com
+esses três níveis de anúncio. Por quê?
+Porque você tem SDR, por exemplo, para
+DM? Não tem. Só que você vai deixar de
+mapear também? Não vai. Lembra que eu
+falei para você? A questão não é você
+ter dinheiro agora, a questão é você
+pensar na máquina como um todo. E depois
+você só pode vir aqui e falar: "Cara,
+pro meu cenário atual, dá um check, vou
+começar com verdinho, formulário de
+aplicação ou anúncio de conversão direta
+na landing page ou vou começar com
+anúncio para DM também, tá tudo bem". E
+aí você para DM você precisa ter social
+selling, SDR, perguntas de qualificação.
+Aí esse cara qualifica e agenda uma
+reunião. Agendou a reunião, joga lá no
+CRM, né, para fazer agendamento, página
+de agendamento. Aí vem aqui pra página
+de prova social. O cara agendou a callal
+contigo, já manda para ele um link de
+página de prova social, já manda um link
+no WhatsApp com estudo de caso,
+avaliação, depoimento, VSL, o
+aqui para ele no agendamento da CAL, por
+aí as CRM automações, né? Você pode
+adicionar aqui automações de provas, de
+links, com vídeos. Você pode colocar
+lembrete de agendamento para diminuir o
+no show e fazer o agendamento da C de
+vendas, chegar no chegar na cal de
+vendas ali especificamente, por o
+objetivo da call de vendas é chegar ali
+de qualificado, entendeu? E o cara já
+ter assistido o vídeo precal para que a
+venda seja mais rápida e consultiva, não
+demore duas, três horas para vender.
+Você tá vendo que isso aqui é a mesma
+máquina
+que um que você pode usar, por exemplo,
+para uma clínica de estética.
+O cara vai lá, clínica de estética,
+rodou anúncio, mandou mensagem, caiu na
+mensagem, cai o SDR, SDR conversou com a
+clínica de estética. Você deseja vir
+aqui, desejo página de agendamento. No
+outro dia já manda: "Olha como que essa
+como que essa mulher rejuveneceu de 60
+anos para 40. Já manda, ela olha, fala:
+"Ó, pré-procedimento chega no dia
+fazendo isso, isso, isso, isso." Ela já
+se prepara, já vai cobrando a agenda
+dela. Então aqui, ó, com essas
+automações, com esses lembrendamento,
+olha que loucura que eu tô falando para
+você aqui, que isso aqui que eu mostrei
+já é uma máquina de venda para você
+vender para clínicas de estética. Logo,
+o que você tem que fazer para você, e
+por isso que é importante você fazer
+para você, mesmo que você não ative
+essas oportunidades aqui,
+você replica para você vender, você
+mapeia para você e você vende como se
+fosse para outro, falando que você já
+fez para você, você consegue fazer para
+outra pessoa. E isso aqui é o que vai
+fazer você conseguir estruturar a sua
+infraestrutura de crescimento com
+inteligência artificial. Porque para
+isso aqui acontecer de uma forma fluída,
+você tem que ter automação aqui, você
+tem que ter automação aqui, você tem que
+ter um bom CRM aqui, você tem que ter um
+playbook de SDR aqui para agendamento
+aqui, para pergunta, você tem que ter um
+playbook para geração de anúncios aqui.
+Você tem que ter um bom um bom um uma
+boa pesquisa e um bom agente de insites
+para fazer uma segmentação adequada.
+Você faz adesarget.
+Cara, isso aqui é um monstro. A gente
+nem chegou em tudo ainda, falta muita
+coisa. Tá comigo até aqui? Show de bola.
+Deixa eu só relembrar você, dia 21/02 a
+gente vai fazer o Grow AI System, que
+vai ser o meu workshop, que vai se
+chamar Grow AI System. Lá a gente vai
+falar um pouco, olha aqui, deixa eu até
+dar um zoom aqui sobre você escolher
+nicho, pesquisar mercado, definir CP,
+fazer validação inicial, escrever a sua
+primeira versão da sua oferta, definir
+proposta, ajustar narrativa, montar
+estrutura de preming, montar os seus
+funis, estrutura de aquisição, subir
+campanha, testar campanha, operar
+tráfego pago, configurar CRM, montar sua
+máquina de venda, seu script de venda,
+montar sua infra deestrutura de
+para você fechar contratos de 20, 30,
+40, R$ 50.000 em um determinado nicho e
+estamos no melhor momento para esse para
+isso. Você tem que aprender com RAR.
+Clica aqui na link que tá na descrição
+desse vídeo e garanta já a sua vaga, tá?
+E se você já entendeu que acelera o teu
+lugar, já vai direto. Mas tá no quem
+entrar no Acelera, vai ter direito a
+workshop porque tem direito a todos os
+meus eventos. Só clicar aí e garantir.
+Agora vamos pro mecanismo de atenção.
+Olha aqui, quais são os canais que a
+gente tem hoje. Instagram, YouTube,
+anúncios, Google. Anúncios aqui tá
+geral, tá? Aqui a gente tá Google Ads,
+aqui tá usando, por exemplo, Tabola da
+Vida. Para quem não conhece, Tabola aí é
+para Native Ads, que é outro tipo de
+anúncio. Nem vou entrar nesse mérito
+aqui agora, mas é aparecer em
+artigo de revista, anúncios em geral. O
+meu é YouTube, que é o principal, que é
+o number one aqui, e o Instagram, que é
+o segundo. Legal. Aí, o que, como que,
+como que funciona isso aqui, gente?
+Você precisa ter um time monstruoso
+para você realmente ter uma máquina de
+marketing que venda igual um G4 da vida
+ou que venda igual Primo Rico, igual
+esses grandes nomes do digital. Agora eu
+vou passar para vocês o macete da vida.
+Nada se cria igual o Jorge Paulo Leman.
+Os melhores empresários são os baita
+deuns copiões. Nada se cria, tudo se
+copia. Analisa mercado, copia o teu
+concorrente na cara dura, deixa melhor
+com o dele. Estrut. Ah, não tenho
+concorrente. Tem, não tenho. Tem. Eu
+garanto que você tem. Os meus
+concorrentes de IA e dos meus alunos são
+as agências de marketing. Então, as
+agências de marketing estão no mercado
+Mar Vermelho, eu chego com oceano azul,
+com infraestrutura de crescimento, com
+inteligência artificial. Simples assim,
+entendeu? São SAS que entregam parte do
+do problema, são meus concorrentes. Que
+que eu faço? Vou lá, chupinho a
+estratégia deles e adapto pro meu nicho,
+pro meu mercado. Meus alunos adaptam.
+Então, a gente vai entrar agora num
+ponto onde, escuta uma coisa,
+eles estão gastando muita grana com
+isso. Eles estão nesse nível, você não.
+Então copia deles, porque eles estão
+muito à frente de você. Copia quem tá à
+frente de você. Você não pode copiar
+quem tá atrás e quem tá do teu lado. Aí
+se aí não. Agora quem tá muito à frente
+de você, você deve copiar. É sua
+obrigação
+copiar eles, entendeu? Como um bom
+empreendedor. Vamos voltar aqui então
+pra nossa pra nossa aula, ó.
+Descubra o que está funcionando nessas
+plataformas, tanto no Instagram, quanto
+no YouTube, quanto em anúncio. Número de
+reprodução, maior número de
+visualizações, menor número de inscrito,
+números de dias que os anúncios estão
+rodando, análise estratégica e geração
+de insites. Como que faz isso, Kelvin?
+Muito simples. Google Perplexity, eh,
+eh, biblioteca de anúncios da meta e
+mapeia. Olha isso aqui, gente, ó. Isso
+aqui eu trouxe de um nicho para vocês
+entenderem o trabalho que eu faço. Eu
+chamo isso aqui de insites.
+Então imagina o seguinte, aqui na
+Acelera a gente tem um monte de gente
+querendo empreender e pô os caras
+escolhem uns nichos doido. Tem até nego
+que quer ir pra funerária.
+Então nós temos um time de insites que
+vai pegando e vai mapeando esses nichos,
+vai mapeando modelo de mercado, análise
+de mercado, vai consolidando tudo isso e
+disponibiliza pros nossos alunos para
+que eles entrem lá e já tenha esteja
+metade do mercado do do caminho andado,
+né? Alunos não, parceiros, porque eles
+são parceiros de jornada empreendedora.
+Que que você pode fazer, cara?
+pesquisa, dá trabalho fazer isso, mas
+olha como que fica maravilhoso. Isso
+aqui, por exemplo, ó, são clínicas.
+Vou dar um zoom para você entender aqui,
+ó. Olha aqui, eu tô pegando o cara
+pequeninho. Qual que é a proposta da
+galera de clínica? Odontologia. Ó, Atena
+Odontologia. Que que eles são? Captação
+de protocolos, implantes e facetes, mas
+sem clínicas atendidas. Tráfego, mas CRC
+em um único só lugar. Esses caras,
+vem de tráfego, velho.
+Maravilhoso. Se eles estão fazendo o
+dinheiro dele, tá ótimo. E vida que
+segue. Esse outro aqui, que que eles
+fazem? Isso daqui já é quase um CRM, ó.
+Acelera o crescimento da sua clínica com
+assessoria de marketing especializada.
+Clínica de marketing. Oferecendo
+marketing. Eu caio dentro do funil
+deles. Eu preencho, ó. Preencho tudo,
+printo tudo. Olha aqui. Eu sou
+literalmente um stalker, cara. Deixa eu
+até dar um zoom aqui para vocês
+entenderem. Agora imaginou, imagina ter
+isso aqui nicho por nicho, rapaz. Vai
+dar trabalho, hein? Mas fica
+maravilhoso. Mas fica maravilhoso. Ó,
+para vocês entenderem o que que nós
+fazemos aqui,
+ó. Ninguém mostra isso aqui. Isso aqui é
+a realidade do mundo, ó. A gente mapeia,
+mapeia, entende a cópia. Aí tem um TXT
+com essa cópia aqui para que ela seja
+replicada depois, se ela for muito boa.
+Aí aqui, ó, a gente tá vendo que foi
+teve print aqui do WhatsApp, caiu no
+funil, pegamos as respostas, perguntas,
+beleza? preench agendama reunião.
+Inclusive alguns t até cal de reunião, o
+mesmo aqui.
+Entenda uma coisa, ninguém tá rasgando
+dinheiro na internet. Então, se esses
+caras estão rodando tráfego pago em cima
+disso aqui, se eles estão gastando
+dinheiro com isso, sinal que está dando
+dinheiro. Se tá dando dinheiro para
+eles, vai dar dinheiro para nós.
+Ai, cara, isso que eu tô falando para
+vocês é muita loucura.
+Vocês estão conseguindo acompanhar? Tá
+anotando, pô? Tá anotando? Já, já deu o
+boom, já deu, né? Já comprou o workshop,
+garante, senão vai ficar assim. Então,
+vamos lá. Montou análise estratégica de
+geração de leídia. Agora você entra
+contexto e dados do negócio, frameworks
+de conteúdo, insites de mercado. Aí você
+entra na produção de ativos de
+crescimento. O que que é essa produção
+de ativos de crescimento? Você concorda
+que eu mapei toda a cópia desses caras
+aqui? A gente tem vídeo, tá? A gente
+grava a tela do celular, grava vídeo,
+grava tudo. Por que que isso aqui é
+importante? Porque aqui eu tenho
+conteúdo infinito dos meus concorrentes.
+Isso aqui tem que ser atualizado.
+Por quê? Eles estão oferecendo tráfego
+pago e marketing. A gente vai oferecer o
+quê? Infraestruturas de crescimento com
+inteligência artificial. O que que você
+vai oferecer? Aí você vê o seu produto,
+vê o que que você tá querendo montar aí,
+vê o seu nicho, estuda os seus
+concorrentes. E aí você monta o quê?
+conteúdos estratégicos, teses centrais,
+narrativas, povs, quebra de padrão,
+leitura de mercado. Aí você entra aqui
+em formatos de distribuição, conteúdos
+curtos, reals, shorts, TikTok, faz
+sentido, não faz sentido, conteúdos
+longos, YouTube, podcast, aula,
+conteúdos profundos, artigos, postedin,
+posts no medium, como que você vai fazer
+o formato da distribuição e agora você
+entra nos anúncios, de engajamento, de
+conteúdo, teste de ângulos e mensagens.
+E o outro braço é ativos de conversão.
+Só um segundo que a minha rainha trouxe
+o quê? É um café,
+&gt;&gt; suco de abacate. Obrigado.
+&gt;&gt; Hum. Leva pro pai. Obrigado.
+Ativos de conversão. Olha aqui.
+Leads, formes, landing page. Que que são
+ativos de conversão? Tudo aquilo que eu
+vou precisar ter para converter.
+Agora entenda uma coisa, talvez você
+fala assim: "Nossa, que tá dando muito
+trabalho, é muita loucura.
+Tira print disso aqui e monta o seu."
+Imagina você chegar pro seu cliente com
+isso aqui prontinho, ó, cara, eu vou
+fazer isso para você. Seu funil vai
+funcionar assim, aqui entra IA. A Iá vai
+entrar aqui. Eu vou colocar uma gente de
+aqui. A gente vai escrever sua cópia, ó,
+pro seu nicho. Esse aqui é o mapeamento
+dos seus concorrentes. É assim que vai
+fazer. Os caras estão fazendo dinheiro
+assim. O cara vai falar assim: "Pá, meu
+Deus, era isso. Achei alguém." Eles vão
+pensar assim, ó: "Achei alguém que tá
+disposto a abraçar o risco junto
+comigo." É sobre isso que ninguém fala.
+O pessoal fica lá falando o quê? Ah, não
+usa o chatbolt, o chat Volt usa o chat
+Volt funciona assim, N8N funciona assim,
+Zia funciona assado. Ah, é assim que
+você desenvolve o usa o cloud code, usa
+o cloud bot, usa você que lá usa aqui
+Agora, quem tá falando de modelo de
+negócio para você? Quem tá falando desse
+tipo de infraestrutura de vendas para
+você? Quem tá te falando sobre
+posicionamento, sobre o que que o
+empresário quer?
+é assim que se empreende.
+É assim, ó. Que delícia.
+Quem aí gosta? Bom demais, né?
+Por isso que eu tô forte.
+É assim que se empreende. Comenta aí já.
+Já comenta aí se tá fazendo sentido para
+você. Bora voltar aqui.
+Aí entramos aqui, ó. Aí.
+Ah, matamos, passamos tudo. Aí a gente
+tem o processo completo. Deixa eu
+mostrar para vocês. O meu caiu lá na
+landing page. Pum. Isso aqui é o quê?
+Isso aqui é a LP, ó. É o ativo.
+É o ativo. É esse quadradinho aqui, ó.
+Aquilo ali é esse quadradinho aqui, ó.
+Até colocar em verde aqui. Verde é isso
+aqui. Aí, beleza. Clicou nesse
+botãozinho aqui. Que que é? ativou lead
+forms capturando aí caiu, preencheu ali,
+cai aonde? Cai lá no CRM. Cai lá no CRM
+verdinho. Aí cai no CRM.
+Caiu no CRM. Que que que acontece? Ou ou
+melhor, vamos entrar. Como que chegou
+aqui? Chegou através de um vídeo denso,
+de um vídeo normal. Quem que clicou
+aqui? Aí tem o UTM que vai pro site
+aqui. Beleza. Ó aqui que legal, ó. Os
+funis de orgânico, funis de eds, ads de
+workshop grade de acelera, eh, ed type,
+ads de webinar de low ticket. Esses
+daqui é do education. Fora esses tem uma
+cacetada de ads que roda nas minhas
+empresas. mesma coisa para SAS, para
+para Infra, pro mercado seguros, cara, a
+gente arrebenta. Aí aplicação cai pro
+programa principal, ó, aqui o SDR chama,
+cai para cal, vem paraa venda. Esse
+aqui, ó, o daí aqui a gente classifica,
+grupo três, grupo dois, grupo um. E aqui
+eles entram sobre os meus programas,
+workshop, entendeu? Olha, olha, eh, olha
+se você começou a me seguir aqui, começa
+a me seguir, webinar gratuito, pá, pá,
+pá. landing page disso, landing page
+daquilo, quatro variações de framework.
+Cara, é uma máquina. É uma máquina. Só
+que entenda, essa aqui é a máquina que
+converte. Essa é a máquina que vai
+colocar a gente para call. Aí as
+técnicas de venda, de apresentação,
+objeção, eh, PowerPoint de de do seu
+método, do seu framework, da sua
+estrutura, de tudo isso, isso entra lá
+na call de venda. Mas entenda uma coisa,
+para ter call de venda tem que ter
+leado.
+Para ter lead você tem que montar toda
+essa estrutura de converter a sua
+audiência em lead. Vocês conseguiram
+entender? Essa é a máquina que manica
+máquina. Essa é a máquina que ninguém
+mostra para vocês. Esse vídeo foi sobre
+isso. Eu espero que você tenha gostado.
+Espero que você tenha aprendido. Eu
+espero que você tenha comprado para
+estar comigo no dia 21/02 agora no meu
+workshop Grow System. Se você quer
+empreender, se você quer ajuda, se você
+quer ser parceiro, acelera, clica no
+link aqui também e vem entrar na Acelera
+para ser nosso parceiro. Nós vamos te
+apoiar, nós vamos ajudar você a tirar
+sua ideia do papel, nós vamos te ajudar
+a emitir a sua primeira nota fiscal em
+até 90 dias. Isso é uma promessa que eu
+faço para você. Clica aqui agora e
+garanta já a tua vaga workshop ou para
+fazer parte desse nosso ecossistema. Nós
+seremos o maior ecossistema do Brasil
+voltado para endedor é voltado para
+empreendedorismo tec. Então bora, clica
+aqui e garanta já tua vaga. Esse vídeo
+foi sobre isso. Tchau vocês que agora só
+terça-feira. Quem fez igual Maderite,
+final do Maderite, quem fez fez, quem
+não fez não faz mais.
+Ciao para vocês.

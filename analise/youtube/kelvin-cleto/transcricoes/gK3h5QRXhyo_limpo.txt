@@ -1,0 +1,513 @@
+Para você que quer empreender com
+inteligência artificial, não comece o
+seu negócio sem antes entender tudo que
+eu vou falar aqui nesse vídeo. É isso
+mesmo. Estamos vivendo em uma nova era,
+a era da inteligência artificial. Eu
+tenho certeza que nos próximos 2 anos a
+gente tem essa janela de 2 anos para o
+mundo se transformar completamente.
+Então para você que é empresário, já
+abre o olho. A chance de você ser
+extinto, se continuar trabalhando nos
+moldes atuais é altíssima. E para você
+que é da área de tecnologia ou quer
+empreender com IA, construindo
+tecnologias robustas com IA, presta
+muita atenção nesse vídeo aqui, porque
+eu vou te explicar tudo, como você deve
+começar o seu negócio, principalmente no
+que você tem que prestar atenção. Para
+você que não me conhece, meu nome é
+Kelvin, eu tenho 33 anos, eu sou um
+empreendedor serial, fundei a General
+Cleans, fiz a venda dela agora em 2025,
+comecei a Acelera 360, que é o meu
+programa de aceleração empresarial para
+ajudar quem é da tecnologia a
+empreender. E agora eu também estou
+nadando nesse nesse mar azul, nesse
+oceano azul, que é a inteligência
+artificial. É isso mesmo. Eu tenho uma
+missão que é salvar mais de 10.000
+empresários da extinção, como
+automatizando todos os processos deles
+com inteligência artificial. É isso, é
+possível, tá, galera? Isso é possível.
+Tô pivotando uma empresa de
+desenvolvimento de software
+isso, tá? Bora começar essa aula, então.
+Então, bora. Deixa eu compartilhar a
+tela com vocês. Antes de eu começar a
+debulhar vocês de conteúdo aqui, eu
+quero colocar vocês na mesma página que
+eu. Eu vou explicar sobre dois
+conceitos. Ai, first. para você que tá
+começando a me assistir agora e não sabe
+o que que eu tô falando e sobre AI full
+companies,
+tá? Seguinte,
+que que são esses dois conceitos aqui?
+Basicamente eles significam a mesma
+coisa. Eh, as empresas tradicionais,
+empresas até agora, elas são eh
+operacionalizadas por pessoas e eh
+estruturadas em cima de processos. Essas
+pessoas elas trabalham em cima de
+processos. Legal. Só que esses processos
+são desenhados para atuar 100% com
+gente, com pessoa e com sistemas que são
+mexidos por pessoas. E estamos num
+estágio atual em que a IA ela se tornou
+tão capaz a ponto de executar o trabalho
+de uma pessoa. Isso mesmo. Existem
+vários cargos que podem ser substituídos
+completamente por uma inteligência
+artificial. Ah, Kelvin, como assim?
+um SDR de vendas, um BDR, eh um social
+selling, esses caras aí, ó, de
+principalmente de vendas, tudo
+substituído, uma um analista
+administrativo, no caso do financeiro,
+um analista financeiro, um um um
+analista de RH, essa galera pode ser
+assim, 90% dela pode ser substituída por
+uma IA, tá?
+Então, não faz sentido ter processos
+desenhados para trabalhar 100% com
+pessoa na era da inteligência
+artificial. Então, essas empresas aqui
+são as novas empresas onde elas têm
+inteligência,
+inteligência
+artificial na base da empresa, então ela
+já nasce com inteligência artificial. Os
+processos
+operacionais
+dessas empresas, opa, processos
+operacionais são desenhados para
+trabalhar primeiro com AI first,
+primeiro com inteligência artificial e
+pósmigração
+para uma pessoa. Então, qual que é a
+ideia? Primeiro eu tenho a IA atuando no
+processo e se a IA não der conta eu
+migro isso para um ser humano fazer.
+Então, é como se a gente unificasse
+um humano. Não é que eu não precise de
+um humano, tá? Mas eu não vou precisar
+daquela daquele volume de gente que eu
+tenho hoje, por exemplo, para atuar numa
+operação de vendas, numa operação de
+marketing, numa operação de
+qualificação, num time, por exemplo, de
+recebimento de documentação, num Jed, na
+gestão de documento e por aí vai. Isso
+aí eu posso fazer com IA. Então, qual
+que é a ideia? Eu tenho um humano,
+vários agentes de inteligência
+artificial, esses dois trabalhando em
+conjunto. E aí eu consigo criar o quê?
+Uma infraestrutura de crescimento
+exponencial. Empresas, então AI Full
+Stack Company são empresas que t um time
+extremamente reduzido.
+Elas trabalham num conceito de AI first.
+Então, inteligência artificial vem
+primeiro, elas trabalham com um time de
+pessoas reduzido e com um time de
+agentes de inteligência artificial
+gigante, entendeu? É como se a gente
+utilizasse um sinal de multiplicação
+para multiplicar as pessoas, a
+capacidade do ser humano com IA. Isso
+aqui é maravilhoso, cara. Isso aqui é
+maravilhoso. Então, quando o que que eu
+falo para você, você que trabalhando, tá
+querendo trabalhar com IA, não pense em
+trabalhar com ferramenta, entregando
+ferramentinha. Que que eu digo? Que que
+eu quero dizer com ferramentinha? Ah, um
+chatbot no WhatsApp para responder a
+pessoa, um
+agente de AP para COP, um agente, uma
+ferramenta. Cara, isso aí já tem de
+monte. Tá todo mundo olhando para isso e
+tem grandes players fazendo isso. E
+os caras são bom. Você pega lá
+Zaia, que para quem não conhece a Zaia,
+Zaia app, né? Zaia, eu indico muito,
+muito legal. tava testando eles. Eles
+falam, eles falam que eles têm os
+funcionários de A, são agentes de A
+verticalizados no WhatsApp. Só que
+assim, eles basicamente têm um chatbot
+conectado no WhatsApp. É isso que eles
+fazem. Eles não fazem mais nada. E por
+isso que o preço deles é isso aqui, ó,
+249 por mês por 10 funcionários de A. Só
+que isso aqui não é um funcionário de A,
+isso aqui é uma pessoa que responde no
+WhatsApp. Um funcionário de A, ele tem
+que fazer o full service, ele tem que
+fazer completo. É, é o end to end do
+início ao fim. ele tem que fazer a
+atuação dele, entendeu? Aí sim é um
+funcionário de ar. Então,
+para resolver eh o que na verdade para
+resolver não, para que você pense, eu
+vou explicar para você o que eu estou
+fazendo, qual que é o meu
+posicionamento. Então, eu anunciei no
+último vídeo, eu tenho uma empresa de
+consultoria, deixa eu ver se tá aqui a
+imagem, não tá. Eu tenho uma empresa de
+consultoria de software chamada eh KCG.
+Eu unifiquei essa empresa com a Acelera
+360. Aqui, ó, eu fiz a unificação da KCG
+Group, que é uma consultoria de
+software. Tem o time de desenvolvimento
+lá, a gente tem uns 25 devs lá com
+acelera 360. Isso aqui é uma empresa que
+já fatura aí seus R$ 400, R$ 500.000
+mês, tá? Então, tipo assim, a gente tá
+falando aí de 5, 6 milhões anos, tá?
+Eh, e a Acelera 360 é meu programa de
+aceleração para desenvolvedores, é o meu
+braço do digital. Então, nós estamos
+trabalhando em conjunto aqui para quê?
+para empoderar empresas através de
+soluções eh de inteligência artificial
+que não apenas otimizam, mas evolucionam
+operações e estratégias, salvando-as da
+extinção pelas AI Fech Companies. Então,
+eu quero implementar o DNA digital, o
+DNA da IA e empresas tradicionais que
+estão operacionalizando de forma 100%
+manual. Como que eu vou fazer isso? Eu
+vou fazer isso criando um ecossistema
+gigantesco
+que vai atuar de fim a fim, de ponta a
+ponta naquela empresa resolvendo o
+problema, saca? E isso que você tem que
+é é nisso que você tem que pensar. Pense
+em solucionar um problema de ponta a
+ponta, porque desse jeito, pensando em
+solução de de problema, você gera valor,
+entendeu? você traz valor e não um preço
+e aí você tem um de um diferencial
+porque você acaba sendo único. Então,
+olha, olha que loucura o que nós estamos
+desenvolvendo aqui, essa infraestrutura
+de ah, deixa antes de eu te mostrar o
+seguinte, se você é empresário no setor
+tradicional
+e já entendeu que a inteligência
+artificial eh vai arrebentar com o
+mercado e que ela pode ser um de um
+diferencial para você, você vai clicar
+na no link que tá na descrição desse
+vídeo e vai falar assim: "Escreve lá, eu
+quero ser salvo pela pela eh pela
+acelera, entendeu? Eu quero ser salvo da
+extinção. Comenta lá se se coloca seus
+dados que eu vou apresentar para você
+toda essa infraestrutura de crescimento
+exponencial que eu posso fornecer para
+você aqui. Todo o time, cara, eu tenho
+um time comercial de agentes de a para
+pr para trabalhar. Então aí eu tô
+criando infraestrutura para cada área.
+Infraestrutura de A pro financeiro,
+infraestrutura de A pro RH,
+infraestrutura de A paraa venda,
+entendeu? É, é o, o Sales AI agents. Não
+tenho nem nome para isso aqui ainda, mas
+vai ser Agora, agora eu vou
+colocar na câmera inteira aqui. Se você
+é programador da área da tecnologia, se
+você quer empreender com o IA, eu já
+falei para vocês, o melhor caminho é
+consultoria estratégica em IA. O melhor
+caminho é você entender e criar soluções
+iguais à minha aqui, iguais essa. É só
+replicar esse modelo. E para você que
+quer empreender, eu posso te ajudar.
+Acelera 360 vai te ajudar. Se você
+quiser tirar a sua ideia do papel, ou
+melhor, se você já quiser um modelo de
+negócio pronto, que é esse modelo que eu
+mesmo tô vendendo, você vai clicar no
+link aqui na descrição desse vídeo e vai
+cair para dentro da acelera, porque é só
+você replicar e nichar isso daqui para
+um nicho que você conhece ou pros
+principais nichos de mercado. A gente te
+ajuda a fazer isso e sair vendendo,
+cara. Não, não tem segredo. Não tem
+segredo. Ah, Kelvin, mas eu não quero
+investir em infraestrutura de A. Eh, eu
+não quero montar minha consultoria
+estratégica, eu quero montar meu SAS.
+Acelera também é para você. Acelera para
+quem quer empreender, é para quem quer
+fazer acontecer. Então vem com a sua
+ideia que eu vou te ajudar com método,
+com estratégia, com execução. Eu vou ser
+o cara que vai ficar te cobrando
+semanalmente falando: "E aí, bora,
+irmão? Já empreendeu? Vamos tirar do
+papel. usa isso, faz aquilo, copia meu
+funil de venda, acessa o meu time
+comercial, acessa o meu CTO se você tem
+alguma dúvida, acessa minha CO para que
+você possa tirar sua ideia do papel ou
+principalmente me acessa para que eu
+possa te ajudar a tirar o seu negócio do
+chão, a fazer você decolar com no
+empreendedorismo, tá bom? Então vamos
+voltar aqui, vamos voltar. Deixa eu
+mostrar para vocês o conceito que eu tô
+fazendo para que você possa replicar
+ele. Então, eu meio que unifiquei
+infraestrutura
+mais processo, ferramentas de mercado e
+estou criando agentes que realmente
+façam, que realmente executem um papel
+fim a fim. Então aqui, por exemplo, eu
+já mapei e é o que tá em desenvolvimento
+agora, que é o time de vendas.
+H via. Então, qual que é a ideia? Ã, a
+gente atua com o cliente, então, imagine
+que o empresário ele vem nos procurando,
+fala assim: "Cara, eu preciso de A na
+minha operação". Qual que é o melhor, o
+que mexe o ponteiro mais rápido? Área de
+vendas. Área de vendas. E, cara,
+geralmente os caras estão acostumados só
+colocar dinheiro e tráfego pago e querer
+que chega chegar ali de lá. Mas, cara,
+geralmente não dá em nada, porque o cara
+não tem processo comercial, o cara não
+tem funil de venda, principalmente o
+cara não tem vendedor, o cara não tem
+SDR, o cara não tem nada. Então aí que
+entra a infraestrutura de A, porque ele
+não precisa ter o SDR lá dentro, ele
+pode ter os agentes de que já vão fazer
+as vendas automáticas para ele. Vai vai
+fazer a classificação, vai fazer a
+captação, vai fazer a filtragem,
+entendeu? E e vai e vai tentar fazer a
+venda. Vai, é o self, é o self service
+da venda. A gente deu um nome aqui para
+ele aqui, ó. É o agente self selling no
+WhatsApp. Então, olha que legal. Por
+exemplo, aqui na camada de captação,
+geração de demanda, a gente juntou parte
+de tráfego pago, Metaads, Google Ads,
+criação de criativos com inteligência
+artificial, por exemplo, DID, que pega o
+rosto da pessoa e faz a IA para mexer a
+boca e cria o criativo. Esqueci o nome
+dessa outra ferramenta aqui, Arc Ads,
+que também faz a mesma coisa. Aí a gente
+tem as camadas de comunicação, por onde
+a gente vai disparar a mensagem, por
+onde aquele lead pode ficar sabendo da
+empresa, pelo WhatsApp, pelo Telegram,
+pelo Instagram, por e-mail, por pelo
+LinkedIn, pelo YouTube. Cada canal de
+comunicação tem a sua estratégia de de
+funil de venda. Então, funil de
+diagnóstico, funil de descoberta, funil
+invertido, de aula secreta, de webinar,
+que seja, a gente a gente traz todos os
+conceitos que a galera do marketing
+digital usa, que a galera do digital usa
+pra galera do corporativo, para empresas
+tradicionais, entendeu? A ideia aqui é
+trazer lead. O cara pode vir pelo
+tráfego pago ou pode vir pelo tráfego
+orgânico. Aqui na camada vertical, né,
+que a gente chama uma camada chamada
+crosscutting, tem muito mais coisa que
+isso, mas a gente já tem agentes de COP,
+pronto, promps, de pesquisa, de nicho,
+de modelo de comunicação, pronto,
+agentes de estratégia, a a do negócio ou
+do expert. Então, a gente pega todo o
+conceito daquele negócio e e coloca na
+coloca numa hue, num banco de dados,
+para que as IAs entendam. muito daquele
+negócio. Então esse cara aqui,
+basicamente o lead vai visualizar aquela
+empresa ou aquele negócio e o lead vai
+entrar em contato. A hora que o lead
+entre entra em contato, a gente pode
+aplicar aqui o conceito de formulários.
+Isso pode ser o flow, o o o flow dentro
+do do WhatsApp mesmo para já captar as
+informações. Ou a gente usa o IO Type
+Forms ou qualquer outra coisa aqui. Mas
+o ponto principal é que o lead vai cair
+já dentro do CRM. O lead vai ser
+registrado dentro do CRM. Quando o lead
+ele é registrado dentro desse CRM, ele
+dispara um evento. Então, ó, quando
+entra um novo lead, entra em ação os
+nossos agentes. Cada quadrado desse aqui
+é um agente. Então, vou mostrar primeiro
+o self, o self selling. Qual que é a
+função do self selling? Iniciar uma
+conversa com o lead, efetuar venda,
+fazer uma venda direcionada. Então,
+imagina o seguinte, você tem uma, sei,
+uma loja de roupa, uma fábrica de
+têxtil, não sei, qualquer coisa.
+O lead entrou em contato, caiu aqui,
+pingou, pum. A hora que pingou aqui,
+esse agente já chama no WhatsApp. Então,
+ao entrar no CRM, ele já manda a
+primeira mensagem para aquele lead se
+apresentando. Isso aqui não é aquela
+mensagem travada, é um agente por trás.
+Então ele tem todo um contexto, ele sabe
+vender, ele foi treinado para vender.
+Olha que doideira, cara. E aqui ele vai
+chamar o cara, respondeu, não respondeu,
+reitera. E aqui tem a regra de followup.
+Passou do tempo de de followup, não
+respondeu. Lead marca como lead perdido.
+Respondeu sim, qualifica. E aqui a gente
+cria a regra de de qualificação do
+negócio. Qualificou? Sim, agenda Macal
+ou faz a venda direta se for um produto
+que vende diretamente. Então imagine que
+é um produto de e-commerce, já manda o
+link direto ali e faz a venda. Ah, não.
+É um produto que mais complexo de
+consultoria consultiva. agenda CAL a CAL
+joga pros pro pro Closer, já faz o
+agendamento direto aqui, integrado no
+Calender, integrado no Google calendário
+e por aí vai. O Google ou Outlook
+Calendário, por aí vai. Aí a gente tem
+um outro agente que é específico para
+followup, porque agendou teve call
+atualiza o CRM aqui e aí esse cara aqui
+tem a regra de ficar diminuir o máximo
+possível no show. Olha que doideira, a
+gente substitui o SDR completamente
+aqui, tá?
+Então, cara, que que a gente falou para
+fazer 24 horas antes do agendamento? Ele
+já a call tá confirmada, pergunta pro
+cara, tá confirmada a call? Não. Então,
+esse próprio agente de followup, ele é
+responsável por reagendar, tentar fazer
+o reagendamento, entendeu? Então, tá
+confirmada, se o usuário confirmou a
+call, então ele passa, senão ele tenta
+reagendar. O papel dele é esse. Aí tem
+um outro agente, por exemplo, que é o de
+repescagem. Imagina o seguinte, cara. Um
+monte de empresa gasta com lead no mês,
+no outro mês tá buscando novos leads de
+novo. Qual que é a lógica? Não
+retrabalha aquela base, não esquenta a
+base, não repesca. A gente não, a gente
+criou agentes específicos para repescar
+essa base. E esse é o papel desse agente
+aqui, cara. O cara não comprou um high
+ticket, o cara não comprou um produto
+caro, vende outro para ele, vende o mais
+barato para ele ou fica deixa aquele
+cara aquecido, dá o brinde para ele, dá
+um desconto para ele. Então, olha que,
+cara, isso aqui é estratégia de
+e-commerce, de recuperação de carrinho
+que a gente tá trazendo para empresas
+tradicionais e melhor usando agentes de
+inteligência artificial, entendeu?
+Imagina isso, isso aqui numa empresa
+tradicional, a potência que não traz,
+saca? Porque daí, meu amigo, uma máquina
+dessa rodando é você enfiar dinheiro no
+tráfego pago, que vai ser uma máquina de
+mo carne, vai entrar, você gasta de um
+lado aqui, entra ali do outro, sai venda
+do outro. Maravilhoso.
+Então, galera, eu não vou mostrar tudo
+no detalhe aqui para vocês todos os
+fluxos que é muito grande, mas o que que
+eu quero que vocês entendam aqui? Isso
+aqui é a minha solução. Isso aqui é a
+solução que a minha empresa está dando
+para o mercado tradicional, empresas que
+estão precisando crescer e usar IA que
+realmente resolva o problema. Então, o
+cliente quando ele vai entrar aqui para
+mim, qual que é o modelo de venda? Eu
+falo para ele o seguinte: "Cara,
+eu não quero saber qual que é seu
+processo de venda hoje. O meu agente vai
+se adaptar ao seu processo. Se você não
+tiver, você vai usar o meu e vai dar
+ROY." Que que é Roy, Kelvin? retorno
+sobre investimento. Então, o foco
+principal é o cara vai me pagar X e a
+minha máquina vai retornar X3 para ele.
+E digo mais, se não retornar eu devolvo
+dinheiro. Isso simples assim, porque eu
+confio naquilo que eu tô construindo. Eu
+confio que a inteligência artificial tem
+esse esse esse apreço. Eu eu eu confio
+que ela vai dar esse resultado desde que
+ela é implementada com processo e há
+mais processo, mas as pessoas
+acompanhando esse processo rodando, que
+é muito importante,
+vai rodar, não tem erro, entendeu? Então
+se você quer empreender com IA, pense
+nisso, pense em resolver qual que é a
+solução para um problema completa. Não
+não crie mais uma ferramenta. Você vai
+entrar num mar vermelho, entendeu? Vem
+pro oceano azul. Oceano azul é isso.
+Oceano azul é você resolver um problema
+de fim a fim. Resolver de verdade,
+trazer Ri. O cara vai te pagar com
+gosto, o cara te paga com sorriso no
+rosto porque ele tá gastando 10 com você
+e tá gerando 30 para ele, entendeu? Esse
+é o melhor cenário possível. Is até
+gosto de vender. A venda acontece de
+forma fluida. Se você é empresário e
+gostou, entra em contato aqui comigo,
+tá? Clica no link na descrição desse
+vídeo aqui que eu vou te apresentar no
+detalhe. Vou mostrar para você o quanto
+eu consigo te dar retorno, o quanto eu
+consigo fazer o teu faturamento crescer
+de verdade. Olha que só raspando seus
+lead aí, dando umas raspadas nos seus
+nos seus leads antigos, eu já eu já
+arranco o dinheiro, hein? Eu chacoalho a
+árvore e arranco o dinheiro daí.
+É isso, rapaziada.
+Aproveitem o movimento da inteligência
+artificial, aproveitem esse cenário. A
+gente tem uma janela aí de 2 anos para
+fazer as coisas acontecerem. Se você
+quer salvar empresários junto comigo, se
+junte, acelera, tá bom? Um abraço,
+galera. Espero que vocês tenham gostado.
+Ah, esqueci. Já clica no joinha se você
+gostou desse vídeo, já comenta aqui, já
+encaminha aí para pras pessoas que você
+acha que tem que assistir esse vídeo e
+me segue, tá? Passei de 11.000
+seguidores. Passei de 11.000 seguidores.
+Já me busca lá no Instagram também que
+eu tô por lá também. Valeu, um abraço.

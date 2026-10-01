@@ -1,0 +1,748 @@
+Nesse vídeo aqui eu vou estar passando
+para vocês 15 hacks para vocês
+utilizarem o cloud da forma mais
+eficiente possível. E sim, vai ser um
+pouco mais iniciante, até porque eu tô
+um pouco assustado com algumas coisas
+que me aconteceram. Primeiro, eu fiz um
+workshop na semana passada, um workshop
+sobre a nova economia da inteligência
+artificial, inclusive ele vai acontecer
+novamente agora no dia 20. Eh, e as e o
+pessoal começou a falar assim: "Nossa,
+cara, meu Deus, isso é muito avançado.
+Olha como você usa o cloud. Olha o que
+que você faz nele". E para mim eram
+coisas muito simples. E aí ontem eu tava
+sentado com a minha esposa e eu falei,
+"Dixa, vem aqui, deixa eu te mostrar
+como que eu uso o Cláudio, deixa eu te
+ensinar a usar." Criei algumas skills
+ali pro trabalho dela. E aí ela ficou
+vislumbrada, ela falou assim: "Meu Deus,
+dá para fazer isso? Isso é possível ou
+não?" Então, nesse vídeo aqui eu vou
+explicar para você como você deve usar o
+cloud e vou te explicar cinco hacks
+principais para você sair do zero ao
+básico básico N1. Beleza? Bora começar
+esse vídeo. Então, eu basicamente uso o
+cloud todo santo dia, galera. Na minha
+empresa nós só usamos o cloud. Então, só
+para vocês entenderem aqui, tá? Eh,
+então eu, Kelvin, aqui, ó, eu tenho o
+meu cloud pessoal,
+então esse aqui é o meu pessoal. Eu
+tenho duas empresas hoje. Eu tenho aera
+360 e a KCG Group, que é uma consultoria
+de software. Aqui na Acelera 360, meu
+financeiro,
+meu administrativo,
+contratação,
+parte de marketing,
+tudo com cloud, 100% com cloud. E o
+mesmo acontece aqui na KCG. Então assim,
+hoje essa é a minha ferramenta
+principal. E qual que é a grande
+diferença do cloud para qualquer outra
+IA? Na minha concepção é além do modelo,
+né? Então além da inteligência do
+modelo, a LLM ser muito inteligente,
+na minha opinião, o Cloud ou o modelo
+Opus ou Sonet, que são modelos de Ali do
+do Cloud da Antropic, eles são mais
+versáteis em várias áreas. Então eles
+geram imagem, não é a melhor geração de
+imagem, mas eles fazem isso bem. E eu me
+integro bem com Nano Banana quando eu
+preciso, que é da de Minai. eu consigo
+mexer no meu computador, é um modelo que
+raciocina bem, é um modelo que responde
+bem. Então, eh, eu acabo tendo em uma
+única IA tudo aquilo que eu preciso.
+Então, eu uso isso aqui diariamente. Eu
+posso afirmar para vocês que o
+investimento,
+o investimento, opa, pera aí que tudo
+errado. Posso afirmar que o investimento
+vale muito a pena.
+Investimento vale muito a pena, tá?
+Então, vamos falar sobre preço, tá? Para
+você que quer usar o cloud, vamos, vamos
+do básico, do básico, do básico, do
+básico. Vamos falar sobre planos e
+preços. Então, o site do cloud é o
+cloud.ai ou cloud.com para vocês não
+serem roubados por ninguém aí que que
+diz tá usando o cloud e cria um site
+fake para você. Vou pegar aqui, ó, cloud
+AI pricing. Vamos lá. Tá aqui, ó, o
+preço. Cloud.aiai ou cloud.com. Você
+pode ver, você pode, você tem a camada
+free gratuita, então isso aqui é R$ 0,
+você pode usar à vontade. Ela é bem mais
+limitada, né? A parte de chat funciona
+bem, mas ela é bem limitada. Você tem o
+Pro de R$ 17 e você começa a ter o Max.
+O que que é o Max? O Max ele já te dá
+aqui duas opções, né? De cinco vezes ou
+20 vezes a quantidade de utilização de
+token por assinatura. E é aqui que mora
+o ouro. A minha, por exemplo, é 20x.
+Então eu uso o modelo 20X. O modelo não,
+né? O plano 20x. E por que eu uso esse
+plano 20x?
+Porque assim,
+eu automatizo tudo. Geração de capa do
+YouTube, eu uso o cloud. Eh, gestão dos
+meus e-mails, cloud, geração de roteiro,
+cloud, geração de res, cloud, imagens,
+cloud, estratégia, cloud, a parte de
+funcionários de a, eu criei vários
+funcionários de a pra minha operação,
+uso o cloud. Então, assim, cara, o cloud
+hoje ele basicamente permeia não só a
+minha vida como a vida do meu negócio.
+Claro, mas se aí a dominar o mundo e se
+ficar caro, se não vai acontecer isso,
+mas se acontecer, vai acontecer para
+mim, vai acontecer para todo mundo
+também. O que eu não vou deixar
+acontecer é ficar e em cima do muro ou
+com medo ou com receio por conta de um
+movimento que eu não consigo controlar.
+Então, enquanto isso aqui eh me der
+vantagem competitiva, eu tô usando.
+Vamos lá. Primeiro item, vamos
+estabelecer aqui a diferença de cloud
+para cloud code. Muita gente acha que
+cloud e cloud code é a mesma coisa. Não,
+o cloud é como se fosse, opa, o cloud é
+como se fosse um consultor.
+Então ele é essa telinha aqui que você
+pode dar um chat e conversar ali com o
+seu modelo. Oppul Sonet Haikol. É
+basicamente isso. Agora o cloud code ele
+é como se fosse literalmente um
+funcionário.
+Por quê? Porque ele consegue mexer no
+seu computador. Ele consegue mexer em
+ferramentas que você usa no dia a dia.
+Então essa é a grande diferença. Vamos
+comparar aqui de forma mais simples
+possível. O cloud é o consultor e o
+Cloud Code já é um funcionário. Muita
+gente contrata o cloud e usa só essa
+parte aqui, ó, de chat. Isso aí é a
+mesma coisa que se você tivesse comprado
+um, um avião intercontinental
+para voar daqui até, ou melhor, pode
+deixar na garagem. Melhor ainda para
+deixar na garagem. você deixar lá no
+hangar parado. É literalmente essa
+comparação, é muito fraca. Aí fica no
+chat apt mesmo. Então vocês tm que
+aprender a usar o callwork, que é essa
+aba aqui. Eu vou explicar para vocês o
+que que ela faz. Vocês t que aprender
+usar o code, que é essa outra aba aqui.
+E o futuro, o principal é vocês
+aprenderem a usar o cloud code assim, ó,
+na telinha preta. Por quê? Porque a
+telinha preta é o mais avançado que você
+consegue ter. Aqui você consegue fazer
+tudo, tudo, tudo, tudo, tudo,
+literalmente tudo. Então é aqui que eu
+faço edições de vídeo, roteiro, ó, re,
+olha isso aqui. Isso daqui é tudo
+editado com I, ó. Deixa eu mostrar um
+para vocês verem aqui. Tudo feito com o
+com, ó lá, isso daqui é feito com IA.
+Esse nível de criativo aqui, ó, é feito
+com IA. Gente,
+ele baixou o vídeo do YouTube, o corte
+específico que eu que eu queria que
+fizesse sentido. Ele fez as edições, ele
+fez tudo com inteligência artificial.
+Então assim, eh, basicamente você
+consegue criar um time inteiro. Então,
+entendam essa diferença. O cloud code
+ainda. Então aqui eu separaria mais de
+dois mais de dois níveis. Primeiro que é
+você usar o cloud aqui no nesse modo
+assistido, tanto no code quanto no
+cowork, só que aqui no software do
+cloud. E a outra é você mesmo usar a
+telinha preta lá e saber conversar com o
+cloud e iniciar o cloud por lá. Esse
+aqui é o primeiro truque, o primeiro
+hack para você começar a usar o cloud
+ainda hoje. Provavelmente você tá no
+chat EPT ou tá em outra LM, tá? Como que
+você traz o que você já gastou energia
+conversando e batendo papo lá para
+dentro do cloud? Você vai fazer uma
+importação de memória. Então, como que
+você pode fazer isso? O próprio cloud já
+traz isso aqui, ó. Menu configurações,
+capacidade, iniciar, importação. Ele vai
+gerar um prompt. Você copia isso daqui,
+você joga no chat apt, ele vai
+responder, você copia tudo lá e joga
+aqui. Pronto, acabou. Ele começou, ele
+importou a memória de lá do seu chat
+aptá. Agora você pode começar a usar o
+seu cloud sem preocupação de ficar
+perdendo alguma coisa que ficou lá no
+chatt. Segundo truque para você aqui, o
+segundo hack. Entenda os tipos que você
+tem aqui de modelos de LLM. Cada um
+serve para uma coisa. Basicamente você
+tem três. O mais fera que lançou essa
+semana, se eu não me engano, semana
+passada, que é o Opus 4.8. Esse modelo
+Opus 4.8 ele é incrível, ele raciocina
+muito bem. Então até se você pedir
+alguma coisa para ele que é besteira,
+ele vai falar: "Opa, não faz sentido eu
+fazer isso aqui porque isso aqui o que
+ele tá me pedindo é uma besteira". Ele
+corrige aquilo e aí ele pede de novo eu
+acho que esse é o principal diferencial
+do modelo Ops 4.8 pro modelo anterior,
+que é essa questão dele raciocinar
+melhor. Ele pensa e fala: "Pô, faz
+sentido isso aqui que ele pediu? Faz
+assim: "Ópus, pula aqui." Ele fala:
+"Opa, tá tirando, irmão. Vou pular não,
+né, pai?" Aí você tem o Sonet e você tem
+o Haiku. O haik é o modelo mais barato.
+Então imagina o seguinte, é, você
+precisa fazer um chatbot, atendimento ao
+cliente, cara, o Haiku é extremamente
+barato, classificação de dados, o Haiku
+consegue fazer, separa para mim essa
+planilha em fazer isso, isso, aquilo,
+aquilo, outro. O modelo Haiku, ele vai
+fazer isso muito bem para você, tá?
+Agora, já o Sonet é o modelo com o
+melhor custo benefício, porque ele é
+extremamente inteligente, ele tem um
+pensamento, ele tem um modelo de
+pensamento legal, só que ele não é o
+melhor modelo, não é muito caro, é muito
+usado para programação. E o Opus, a
+diferença é que o Opus é absurdamente
+inteligente. O Opus ele, tipo, é o
+melhor modelo hoje da Antropic. Ele t, a
+gente tá na versão 4.8, anterior foi a
+4.7 e a 4.5. Ele é um modelo assim,
+cara, chega a ser bizarro. Ele consegue
+raciocinar, ele consegue identificar
+padrões melhores, ele, cara, ele
+consegue fazer tudo basicamente ali
+melhor, tá? Então, só que ele é muito
+mais caro. Então, você pode usar o Opus,
+por exemplo, para pensar em estratégias
+de negócio, o Opus para pensar em
+problemas complexos, para te ajudar na
+resolução de problemas complexos. Ele
+basicamente serve para isso. E por que
+que você deveria escolher esse modelo?
+Então, se você tá no modelo no no Max
+5x, 10X, pô, o modelo, escolhe
+qualquer e vai no Opus aqui e desce o
+pau. Ele é um pouco mais lento só.
+Agora, se você quer, pô, ter o máximo de
+economia possível, máximo de performance
+possível usando a ferramenta aqui, você
+pode classificar e selecionar ali qual
+que é o seu modelo. E aqui é
+interessante que na própria ferramenta
+ele tem o esforço que vai ser usado.
+Então, por exemplo, esforço baixo,
+médio, alto, extra, o máximo. Nem sempre
+colocar esforço máximo vai fazer com que
+a resposta seja correta. Então você tem
+que entender e você tem que testar os
+cenários. Basicamente aqui é a
+quantidade de interações que a IA que a
+quantidade de tentativas de responder a
+sua pergunta que a IA vai ter ali no no
+processo. E aqui o modo pensamento. O
+que que é esse modo pensamento? Ela vai
+raciocinar, ela vai ficar pensando, ela
+vai, hum, essa fulana me pediu isso,
+será que faz sentido? Deixa eu ver isso.
+Ah, eu posso fazer isso, isso, isso,
+isso. Então, ela ela se planeja melhor
+para poder executar uma determinada
+tarefa. Esse eu acho que é o grande
+diferencial aqui. Quarto truque, usar e
+abusar dos conectores, dos conectores
+aqui no no no cloud. Eu acho que esse
+aqui é um grande diferencial. Se você
+acessar aqui, ó, no menu é customize
+connectores, você consegue conectar o
+seu cloud com qualquer outra ferramenta
+e o seu cloud passa a usar uma
+determinada ferramenta para você. Então
+o meu, por exemplo, tá conectado com
+Clickup, com Gmail, com GoDrive, com
+Microsoft 365, que é o e-mail do
+Outlook, e com o Miro. Que que significa
+isso? que ele consegue enviar e-mail
+para mim, ele consegue baixar os meus
+arquivos, ele consegue enviar e-mail no
+Gmail, ele consegue baixar meus dados,
+por exemplo, os vídeos do YouTube, ele
+consegue baixar as transcrições, ele
+consegue preencher tarefa no Clickup,
+ele consegue mexer no Canva, no Miro.
+Basicamente ele consegue conectar. E
+como que eu conecto isso? É muito
+simples, ó. Você vem aqui no botão de
+adicionar conectores, você pode navegar
+e aqui você pode pesquisar aquela
+ferramenta que você usa durante o dia
+todo e conectar ele diretamente. Car,
+mas como que ele consegue chamar? Cara,
+ele vai se virar. Ah, quero conectar com
+o Slack, quero conectar com a minha
+agenda. Ele vai fazer isso para você.
+Ele vai saber. É só você vir aqui e
+fazer a conexão. E isso daqui é
+maravilhoso. Isso aqui é literalmente
+maravilhos isso aqui dá um poder absurdo
+para Twiar. Quando ela tá conectado, eu
+posso simplesmente fazer isso aqui, ó.
+É, responda o e-mail do Luca informando
+que eu vou gravar o vídeo do YouTube
+hoje. Então, olha que interessante aqui.
+Ela já se conectou, ó. Ela identificou o
+e-mail correto do Luca para responder.
+Beleza? Aí ele vai conectar aqui, ó, no
+nosso Google Workspace e já vai fazer
+todo esse processo. Gente, isso aqui é
+incrível. Quinto truque e um dos
+principais, os artefatos. Basicamente, o
+artefato é o seguinte. Eh, o cloud ele
+tem a capacidade de criar eh artefatos,
+pedaços de código, documentos, arquivos,
+fotos, imagens, tudo isso são artefatos
+e ele consegue fazer isso. Então, por
+exemplo, eu posso jogar para ele assim
+um um Excel e falar para ele, transforma
+para mim isso aqui numa página, numa
+apresentação. Essa página que ele vai
+criar, ela é um artefato. E ele consegue
+fazer isso. Então, olha que interessante
+isso aqui. Eh, os artefatos eles são
+dinâmicos também. Aqui eu tenho um
+plugin, né? Vamos supor que eu tenho uma
+pasta aqui, tá vendo um novo cliente na
+empresa, aqui na minha empresa, eh,
+temos um novo cliente, vamos fazer o
+onboarding dele. O nome dele é Clínica
+do Sono e fica no Rio de Janeiro. Olha
+que interessante. Quando eu faço isso,
+ele vai criar a pasta aqui. Eu não
+coloquei nenhuma pasta, né? Mas ele vai
+criar uma pasta aqui no na parte virtual
+do cloud separado, mas você vai ver que
+ele vai gerar um artefato. Que artefato
+ele vai gerar aqui? Ele vai na telinha
+do cloud. Então aqui a gente tem aqui a
+tela do cloud. Aqui tem onde manda
+mensagem. Aqui na telinha do cloud, ele
+vai exibir como se fosse um sisteminha.
+E isso aqui é configurável, tá? Você
+fala para ele gerar. Então é como se ele
+criasse sistemas, pedaços de sistemas
+dinâmicos dentro da própria, dentro da
+própria solução, dentro da própria
+ferramenta para você poder preencher o
+sistema. Isso aqui é maravilhoso, porque
+isso daqui é chama tipo interface
+dinâmica.
+Interfaces dinâmicas.
+Então a própria A cria isso para
+facilitar o preenchimento. Ó lá, ele
+começou a renderizar a interface
+dinâmica aqui. Tá vendo, ó? Cliente,
+clínica do Sono Nombard, qual que é o
+site, qual que é o Instagram? Qual que é
+o slug curto? Por onde começar? Eu quero
+começar pela pesquisa de mercado, pela
+coleta da marca, pelo scaffold do hub,
+pelo pela configuração do deploy. Como
+que ele sabe isso? Porque aqui você vai
+ver uma uma habilidade na frente chamada
+skill, que eu ensinei ele a fazer esse
+tipo de coisa aqui. Mas olha que
+incrível, olha que facilidade, sistemas
+dinâmicos. E esse é um poder que o Cloud
+tem, tá? Esse é um dos poderes que ele
+tem.
+E como você pode usar isso daqui no seu
+dia a dia? Simples. Imagina o seu time
+financeiro usando o cloud, assim como o
+meu uso, o a telinha de preenchimento
+das notas fiscais já pode ser tudo pelo
+cloud, entendeu? E ele preenche daqui,
+daqui ele integra com o conta azul
+diretamente. Isso é facilidade. Isso é
+você transformar a tua operação cada vez
+mais num modelo, no pensamento em first.
+Sexto truque, sexto hack, projetos. Haja
+truque, hein. Vamos lá, galera.
+Seguinte, o que que são os projetos?
+Vocês viram que eu acabei de fazer esse
+onboarding aqui, clínica do sono. Isso
+daqui ele, o cloud por padrão, ele vai
+salvar numa pasta que ele chama de pasta
+temporária ali do do computador.
+Temporária.
+O ideal é que a gente possa falar o
+seguinte: "Olha, eu tenho uma pasta aqui
+chamada clientes que fica na minha rede.
+Dentro de clientes, eu quero que você
+crie um novo cliente chamado clínica do
+sono. Essa pasta aqui de clientes, ela
+fica no C2. E aí você cria essa pasta e
+aí isso aqui vira um projeto. Inclusive
+você pode colocar aqui, ó, vou colocar o
+contrato pdo doocx assinado. Vou colocar
+aqui a a forma de pagamento negociada.
+Você pode colocar arquivos dentro dessa
+pastinha que você criou aqui. E esses
+arquivos que você criou e colocou dentro
+dessa pastinha se transformam em
+informações
+de contexto.
+Significa que a IA vai entender que
+nesta pasta estes arquivos aqui são de
+setup. deste cliente. Então, a hora que
+você pede uma informação, ela já sabe. E
+como que funciona esse contexto? É muito
+simples. Ó, como funciona esse projeto?
+Vamos começar um novo aqui. Aqui em
+corking, você pode vir aqui, ó, e falar
+assim: "Eu quero trabalhar num projeto".
+E aí você direciona ele para trabalhar
+em uma pasta. E para criar um novo
+projeto, é só você vir aqui, ó, criar um
+novo projeto. Você pode começar um
+projeto do zero ou você pode importar um
+projeto de algum lugar, entendeu? Então
+você tem esta opção, mas é basicamente
+aqui. Ou você pode usar uma pasta já
+existente e aí você seleciona a pasta
+que tem os arquivos já com os seus
+projetos. E aí, a hora que você falar,
+ele vai falar: "Olha, eu tô num projeto
+tal". E ele mesmo já faz isso. E aqui
+tem uma informação bem interessante, que
+é o seguinte: modo perguntar antes de
+agir e o agir sem perguntar. Eu prefiro
+agir sem perguntar. Eu geralmente nem
+uso a telinha aqui, mas se eu fosse você
+usava o agir sem perguntar, sai fazendo
+aí que vai dar bom. Ele vai, ele, ele é
+inteligente, cara. Ele é inteligente.
+Pode ter certeza que ele é inteligente,
+Kelvin. Mas cara do céu, e a segurança
+disso tudo, fica tranquilo. A cloud
+antropic trabalha fortemente para
+garantir a segurança desse negócio aqui.
+Então é seguro. Use e faça muito
+dinheiro. Aproveite o momento. Surfe a
+onda enquanto é tempo. Não fica aí em
+cima do muro pensando, ah, que que eu
+faço, cara? Vai para cima, velho. Cria
+funcionários de IA, cria ferramentas de
+IA, cria tudo com IA. seja altamente
+competitivo usando esse tipo de
+ferramenta aqui. Sétimo truque, voice
+mode. Isso aqui tem lá no chat EPT
+também no da OpenI, que é você usar o
+microfoninho para você falar aqui e
+gravar. Então assim, o modo da gente
+enviar informação por voz falando é três
+vezes mais rápido do que escrever. E a
+gente envia com muito mais contexto,
+explicando mais do que a gente escreve.
+Logo, esse voice mode que funciona tanto
+no cowork, tanto no code, quanto no chat
+diretamente, que é esse daqui, ó, usar
+modo voice conversando ou o microfoninho
+aqui para você mandar um áudio, é muito
+interessante porque agiliza o processo,
+agiliza muito o seu processo de enviar e
+trocar informação com ele. Assim, hoje,
+eh, depois que você entende que isso
+aqui é só a pontinha do iceberg do
+cloud, esse voice mode cai por terra,
+você não vai usar ele muito, mas para
+você aí, como esse, como esse vídeo é um
+vídeo introdutório para você entender,
+acho que vai ajudar vocês bastante.
+Deixa eu aproveitar já fazer um convite
+para você que no dia 20/06 agora mais
+uma vez eu vou fazer o meu workshop A
+nova economia da inteligência
+artificial. Vai ser um workshop
+extremamente prático, onde eu vou
+mostrar para você como eu tô
+implementando inteligência artificial
+aqui na minha operação e como você
+deveria implementar IA aí na sua. Seja
+você empreendedor, seja você empresário,
+não importa. Vai custar R$ 47 primeiro
+lote, se eu não me engano, comecei dia
+20/06 às 13, das 13 às 17 horas a gente
+vai falar sobre cloud, open cloud, sobre
+IA de forma geral e IA que gera
+resultado, não Ia que gera despesa, não
+Ia de historinha. Tô falando de IA real,
+então vou apresentar para vocês como
+funciona aqui na minha operação para
+você replicar aí na sua. Se você quiser
+saber mais sobre esse workshop a nova
+economia da o link tá aqui na descrição
+desse vídeo. Nona dica. Nona não, oitava
+dica. E essa aqui ela é essencial para
+você que quer estender a utilização da
+IA, do seu cloud diretamente na
+internet, ele navegando no seu browser,
+no navegador do seu computador. É isso
+mesmo, é possível. Então para você que
+usa o Chrome como navegador, como eu
+uso, você pode instalar uma um conector
+chamado Cloud in Chrome. O que que é o
+cloud in Chrome? Ele basicamente vai
+usar o seu navegador, o seu browser.
+Então, se você pedir para ele navegar na
+Globo, entender tal informação,
+pesquisar Lead, enriquecer informação, o
+ele vai usar, ele vai entrar, ele vai
+lá, ele tira, faz um modelo muito
+interessante, ele entende algumas
+situações e vai navegando assim como se
+fosse uma pessoa. Então, dá para você
+automatizar a utilização daquele site
+chato que você tem que integrar da
+prefeitura ou de um cliente seu que você
+tenha que enviar informação para ele.
+Você consegue automatizar por aqui e
+você consegue automatizar de forma mais
+profunda se você usar o Cloud Code, que
+aí você consegue fazer uns negócios
+assim surreais, tá? 10ma dica, 10º
+truque e agora é que a porca torce o
+rabo. Agora você vai entender realmente
+o por que esse negócio é brabo. Vamos
+falar de callwork. O que que é o
+cowwork? E eu gravei isso aqui, gente. E
+aí o que aconteceu? Vou explicar pr
+vocês. Eu, do jeito que eu gravei, eu
+fiz a merda de eh gravar errado. Aí, aí
+ferrou tudo. Deixa eu ver se até tô tô
+gravando certo agora. Backtrack salvo
+para backtrack. O quork é incrível,
+velho. Qu é o seguinte, é aqui que o
+jogo muda. O cloud chat, que é isso
+aqui? Isso aqui é bate-papo. Isso aqui é
+o psicólogo da gente. Ah, como faz isso?
+Ah, como faz aquilo? E que que é isso?
+Que que é aquilo? Agora o cwork. Ô,
+aqui, ó, o cwork e o code, que é o cloud
+code, que é esse, essa aba aqui e essa
+aqui. E isso aqui ainda é só brinco. Mas
+vamos lá. O cowwork ele faz o seguinte,
+o cowwork ele mexe no seu computador,
+ele salva arquivo no teu computador, ele
+navega na internet, ele faz isso, ele
+faz aquilo, ele deleta, ele formata o
+computador, faz uma loucura. Então
+significa que um é conversa, o outro é
+de execução. E aí o que que significa?
+que esse daqui, opa, esse daqui vira o
+teu funcionário.
+Funcionário. Então, por exemplo, eu
+entro aqui no meu callork e aí eu vou
+dar um exemplo super simples aqui para
+vocês. Eu tinha um aprend despesa nossa
+aqui e fala assim, ó, cara, eh, monte
+para mim uma DRE aqui. Aí ele vem e
+monta isso aqui, ó. P. Tá vendo? Ele
+monta todo o demonstrativo financeiro.
+Olha que maravilhoso que ele faz. Como
+que ele faz isso, Kelvin? Essa é a
+mágica. Ele tem uma estrutura, ele cria
+um código para você. Cal, mas qual que é
+a diferença do callwork para o code? O o
+cloud code ele é otimizado para escrever
+código. Então ele é mais otimizado, ele
+tem integrações com umas coisinhas que
+eu não vou falar aqui porque esse vídeo
+não é técnico suficiente para isso, tá?
+Próxima dica, 11ª dica e skills. Isso é
+maravilhoso. O cloud ele tem um negócio
+muito interessante chamado skills.
+O que são as skills, gente? Basicamente
+você vai ensinar
+ensinar
+o cloud
+a fazer
+algo. Como que você pode fazer isso?
+Você pode ir conversando com ele, por
+exemplo, pedir para ele fazer uma
+análise financeira aqui. Aí eu posso vir
+aqui e falar o seguinte: "Agora
+transforme isso em uma skill para mim.
+Enter". E aí ele vai estruturar e vai
+criar uma skill com base naquilo que a
+gente conversou. Para que que serve
+isso? Porque você pode condensar aquilo
+que para você é útil, paraa sua operação
+é útil, que você conseguiu resolver com
+ó, vou até parar, se ele vai fazer com o
+cloud e ele empacota numa skill, você
+pode distribuir isso paraos seus outros
+funcionários. Então você pode ir criando
+habilidades. Então você pode ir criando
+habilidades
+para o RH, para o financeiro, para como
+conversar no WhatsApp, pro seu
+marketing, pro seu jurídico.
+Você cria n habilidades e aí você
+distribui essas habilidades na tua
+empresa, seu pacote de habilidades,
+entendeu? Então esse aqui é muito o
+conceito que a gente trabalha aqui da
+Acelera 360. Aqui eu crio, além das
+habilidades, um negócio que eu chamo de
+building blocks, blocos de construção. O
+que que são os blocos de construção?
+Imagina o seguinte, o meu, a acelera
+360, ela é uma fábrica de peças de Lego
+e o que a gente entrega para você é uma
+sacola cheia de peças de Lego aqui
+dentro. E a gente ensina você ainda a
+montar essas peças de Lego. E aí você
+pega essas peças de Lego. Eu tô
+desenhando aqui, não tava mostrando na
+tela, mas é demais mesmo, viu? Então
+você consegue pegar essas peças de Lego
+aqui e você consegue montar do seu
+jeito. Você monta do seu jeito
+na sua empresa.
+E esse aqui é o grande jogo da Acelera
+360. Nós ensinamos você a montar o Lego
+do jeito que faz sentido para você no
+teu negócio. Então, a Celera 360 hoje
+ela virou um ecossistema que tem tudo
+que um empresário precisa para criar a
+própria infraestrutura de crescimento
+com IA. E se você quiser conhecer mais
+Acelera 360, o link tá aqui na descrição
+desse vídeo também, ou venha participar
+do nosso workshop que vai ser no dia 20
+do6. Te espero lá, hein? Te espero lá,
+Bora. Vai ser um prazer mostrar
+para você como que você usar de verdade.
+E eu mostro diferente. Eu mostro a minha
+operação, porque eu só vendo aquilo que
+eu consumo. É o conceito do food. Então
+vou mostrar para vocês o que eu uso no
+dia a dia. 11º item schedule, que é tipo
+o calendário, o agendador. Então imagina
+o seguinte, você vem aqui conversando
+com o cloud, criando projeto, pip pipi,
+aí você fala assim: "Eu quero que todo
+dia de manhã você execute essa rotina do
+mesmo jeito que a gente fez aqui. Baixe
+todos meus e-mails, analise, faça isso,
+aquilo, aquilo outro". Então você vem
+aqui no schedule ou você fala no próprio
+callwork lá no chat ou você vem aqui no
+schedule e adiciona uma nova tarefa para
+ele agendar para você, entendeu? Então
+você pode criar uma nova tarefa aqui, ó.
+Ele vai abrir o chat no mesmo processo e
+vai guiando você como você tem que fazer
+para abrir essa nova tarefa. Legal. E a
+próxima dica aqui, ó, 13ª, eu acho mais
+ou menos. Dispat. Esse aqui é muito
+legal. Esse aqui é o seguinte, o dispet
+você pega o seu celular no cloud, no seu
+celular você instala o cloud, aí você
+entra no dispet no celular e aí você
+entra no dispet aqui. Aqui, ó, dispete
+aqui. E aí você lê o Qcode aqui, você
+pareia o seu celular com o no seu
+computador e você consegue controlar o
+seu computador pelo seu celular. E aí é
+uma loucura, cara. Aí é uma loucura. Por
+quê? Porque por aqui você consegue
+habilitar, cara, manter o computador
+ativo, pode notificar, pode fazer isso,
+aquilo, aquilo outro. Você habilita tudo
+e aí você consegue controlar o teu
+próprio computador de qualquer lugar que
+você tiver. Isso é extremamente útil.
+Isso é extremamente útil. E a última
+dica agora, o último truque para você
+que tá começando é começar a usar o
+Cloud Code. Comece a tentar criar os
+seus próprios sistemas. Então é você
+entrar aqui no Cloud Code e literalmente
+pedir: "Quero que você crie, quero que
+você crie uma, um sistema de cadastro
+para mim". Pronto. Pum. Tá vendo? ele
+vai lá e ele vai criar esse sistema de
+cadastro para você literalmente fazer
+isso e conversando com ele, entendendo?
+Porque qual que é o grande o grande
+ensinamento aqui para vocês? Eu quero
+que eu quero deixar isso claro, gente. O
+cloud hoje tá sendo a principal solução
+de implementação aqui na minha empresa e
+ela pode ser na sua também. A gente tá
+num momento onde você é empresário, você
+é empreendedor, você que puxa a visão do
+teu negócio. Então você precisa entender
+quais são as fronteiras, o que é
+possível ou não. Chega de ficar usando
+inteligência artificial como um chat de
+pesquisas e respostas. Isso aí é
+extremamente superficial. A gente tem
+que ir para uma linha agora de
+profundidade, onde você literalmente
+pode construir. Seja um builder, seja um
+construtor, construa a a empresa que
+você quer ter, que você sempre quis ter.
+Hoje você tem a possibilidade para você
+fazer isso. E isso é incrível. E essa
+aqui é a mensagem que eu deixo para
+você. Esse vídeo foi super simples,
+super didático, eh talvez até um pouco
+raso para muitos. Por quê? Porque um
+monte de gente não conhece o Cloud e é
+assustador isso. Só que isso aqui é
+necessário. Isso aqui é para você que
+realmente tá aqui para aprender o básico
+para dar o primeiro passo. Isso aqui é
+um monstro. Tem outros, tem outras
+coisas, outros mundos que a gente pode
+atuar também. Mas isso aqui, se você
+dominar já vai mudar a tua vida. Fechou?
+Esse vídeo foi sobre isso. Deixo o meu
+convite mais uma vez para vocês estarem
+comigo no meu workshop que vai acontecer
+no dia 20/06. Vai ser um workshop
+prático sobre aplicação de inteligência
+artificial em empresas. Eu vou mostrar
+minha operação e vou te ensinar muito.
+Um abraço.

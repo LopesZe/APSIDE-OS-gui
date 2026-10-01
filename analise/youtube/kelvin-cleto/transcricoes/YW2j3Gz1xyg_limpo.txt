@@ -1,0 +1,313 @@
+o microfone tava no mudo Caraca velho
+aguentei a pressão aguentei a pressão e
+não falei estamos no ar sem antes ter
+tirado do mundo é isso é outro nível
+aqui é outro nível hein ó por isso que
+vocês T que me seguir clicar no Sininho
+aí me seguir lá no Instagram por conta
+disso porque eu dou a vida para fazer os
+os melhores vídeos para
+vocês meus
+amados amados amigos da área da
+tecnologia vamos lá vamos falar sobre
+hoje monolito versus versus
+microserviços monolito de azul e
+microsserviços de
+verde tem nada a ver com nada tá louco
+viu por que que eu tô olhando para cá
+Porque aqui fica a minha deixa eu quer
+ver ó se liga aqui no meu setup aqui
+fica as deixa eu virar minha câmera você
+é louco mano essa câmera é braba ó aqui
+fica O OBS onde eu gravo o vídeo aqui
+para vocês então por isso que eu tô
+olhando aqui para ver se tá enquadrando
+esse rosto maravilhoso da melhor forma
+possível para que vocês recebam um
+conteúdo de qualidade deixa eu ajustar
+aqui de novo arruma vem vem pera vai
+para cá [&nbsp;__&nbsp;] a
+a estamos no ar galera seguinte monolito
+microsserviço qual que é melhor depende
+primeira coisa se você não sabe definir
+qual que é melhor já vai pro monolito
+que você vai errar menos e e vai dar
+menos problema monolito é a melhor coisa
+que existe na face da terra
+funciona continua funcionando e vai
+funcionar pro resto da eternidade até o
+momento em que nós fomos visitar as
+estrelas com o El musk o monolito vai
+funcionar vocês T que entender uma coisa
+sistemas distribuídos não é tão fácil
+não é tão fácil não é você só criar três
+qu apis lá e segmentar que vai ser um
+microserviço não vai não vai isso aí é
+simplesmente você fazer uma divisão ali
+de serviços de de responsabilidades na
+camada de api e isso aí faz parte isso
+aí é de boa entendeu E também não vai
+sair criando 20 30 PS né porque ISO não
+tem nada a ver mas vamos lá qual que é a
+grande pegada né o pessoal fala assim ah
+monolito não presta não sei o que lá
+porque tá nessa pegada aí de micro
+frontend
+hum de microsserviços micro não sei o
+que lá que é reaproveitável que é isso
+que é aquilo que é aquilo o outro e essa
+história toda não vamos ser sincero se
+for para ser só reaproveitável você pode
+criar várias dlls lá vários pacotes
+várias libs e cara vai ser reaproveitado
+do mesmo jeito Ah mas não é escalável
+mas não é isso mas não é aquilo mas não
+é aqu outro gente o sistema de vocês vai
+mexer com quantas transações por segundo
+é 1 milhão de transações por segundo
+100.000 transações por segundo eu duvido
+muito dificilmente vai passar ali de de
+1000 a realidade é essa a maioria dos
+sistemas não vai fazer mais do que 1000
+transações por segundo e 1000 é muito
+hein 1000 é [&nbsp;__&nbsp;] diria que não
+passa de
+200 então 200 sim 200 é já é não é tanta
+coisa mas qual que é a pegada gente o Eu
+acho que isso é muito da modinha né o
+Dev o Dev ele gosta de implementar
+coisas novas Eu particularmente gosto eu
+já falar para você já implementou monol
+microsserviço que [&nbsp;__&nbsp;] merda eu tento
+fazer um microsserviço perfeito desde
+2020 e só dá merda não perdão desde 2000
+é desde 2019 para eu comecei a a fazer
+umas implementações mais robustas de
+microsserviço com mensageria e tudo mais
+só deu merda é um [&nbsp;__&nbsp;] de um trabalho
+depois os devs não conseguem acompanhar
+então assim qual que é o além além da
+dificuldade de de codificação que não é
+tão simples e também não é tão complexo
+assim mas já já é um pouquinho mais mais
+vai alto nível Você tem o segundo
+problema que é o teu ó dá o zoom aqui ó
+chama papai chama pai tá [&nbsp;__&nbsp;] filho aqui
+é que é outro nível
+é tem um segundo ponto que é a que é o
+time técnico time técnico não acompanha
+cara a galera hoje aí o negócio deles é
+só fazer cru de só eles só sabe inserir
+é entity Framework o [&nbsp;__&nbsp;] [&nbsp;__&nbsp;] não
+sabe
+nada não sabe nem como que funciona um
+RM por trás não tem ideia hoje em dia
+ninguém mais sabe o que que é você
+implementar lá o galera se pessoal do
+Java tiver assistindo aqui pessoal do
+PHP aí ó me desculpem eu não consigo
+falar na língua de
+vocês porque eu sou
+Microsoft ano eu sou ó C Sharp na veia
+mas eu eu eu eu hoje eu tenho na minha
+empresa aqui por exemplo já ten umas
+oito nove stack nem sei que que usam
+mais aqui mas eu particularmente
+programo em C Sharp eu adoro porque eu
+tenho mais velocidade nisso e ten um um
+monte de pacote que eu já desenvolvi lá
+que me me ajuda a ter velocidade nas
+minhas entregas e principalmente n
+minhas pox mas até perdi o que eu tava
+falando para vocês Ah é os devs eles não
+acompanham então assim inclusive esse
+canal é para mudar a [&nbsp;__&nbsp;] da
+mentalidade desses Dev de bosta que
+estão sendo formado por aí é muito curso
+da lura é muito curso aí da da da da
+Rocket City fraquinho é gente ô ô ô ô ô
+aura Toma vergonha na cara hein pelo
+amor de Deus mano tá tá tá tá tá demais
+o mercado tá demais
+e o que acontece se você tem uma Squad
+com um time fraco vai dar merda vai dar
+muita merda entendeu E a não ser que
+seja um time uma squ é vá uma Squad
+distribuída por serviço aí dá certo mas
+aí o cara meio que não mexe num
+microsserviço né ele tá dentro de um
+ecossistema de microsserviços e ele mexe
+com uma das apis lá tipo o time do
+Mercado Livre tava falando com um amigo
+meu esses dias lá ele tava me explicando
+um pouco como que eles funciona lá né
+Ele trabalha na parte de de do de
+checkout cara eh ele trabalha numa P
+específica no time dele inteiro e aí
+eles rotacionam o time entre as squads
+lá e é bem bem interessante Parabéns aí
+ao pessoal do mercado livre hein n
+também é muito bem bem bem interessante
+eh mas assim gente são são empresas que
+são gigantes são Big Tech tem milhões
+bilhões para gastar que contratam os
+Lendários que contratam os highlanders
+para tocar frente de arquitetura é é
+outra pegada o microsserviço ele não é
+para qualquer um ele não é para qualquer
+um Ah kelv quer implementar implementa
+eu acho muito bom eu aprovo inclusive
+sabe por quê Porque eu sou do eu sou do
+pensamento que tudo tem que ser
+experimentado e provado nessa vida
+eh até para você aprender qual que são
+os ganhos os benefícios né e os
+benefícios na pele porque esse é o único
+jeito de você aprender de verdade eu já
+implementei implementei muito hoje eu tá
+com monolit lá no pau e véi e é isso aí
+e a hora que ele cresce bem eu olho com
+ele com carinho e falo Hum eu posso
+sacar esse pedaço aqui e aí conforme ele
+vai crescendo Ele nasce monolito ó o que
+eu faço ó a estratégia Ele nasce um
+monolit começa a
+desenvolver aí eu vejo um pedaço aqui
+falo cara esse pedaço esse pedaço vai
+sair fora e eu coloco esse ped
+como um serviço distribuído entre todas
+aplicações aqui na na nas minhas
+empresas a gente criou um ecosistema de
+apis então por exemplo que surgiu das
+minhas experiências com o microsserviço
+câmera agora deixou ol barrigudo né a
+tem hora que é [&nbsp;__&nbsp;] deixa eu até ajustar
+aqui que eu não gostei da posição deixa
+eu arrumar aqui para cima aí a garoto ó
+subindo de novo filho da [&nbsp;__&nbsp;] aqui
+bloqueia
+Lock Lock para cima aí aqui na minha
+empresa por exemplo o que que nós
+fizemos ó
+eh vou dar um vou dar um pequeno exemplo
+para vocês existe uma API que chama
+messaging e essa API de messaging ela
+cuida de disparos de SMS WhatsApp e-mail
+e qualquer coisa que temha a ver com
+mensagem de comunicação externa até
+mesmo ligação Olha que doideira por quê
+Porque todas as aplicações elas precisam
+disparar e-mails SMS então para não
+ficar construindo isso que que nós
+fizemos a gente criou um barramento de
+serviço a gente criou um barramento de
+serviço E aí vamos supor tem aplicação x
+aí a aplicação x ela fala assim ó
+preciso disparar um e-mail aí ela
+dispara a aquele conteúdo daquele e-mail
+todas as informações para para um
+barramento que vai L vai ler e aí quem
+vai ouvir esse evento é a messag E aí
+ela vai fazer o disparo o template tá na
+messaging tudo Tá lá entendeu E por
+exemplo eu tenho uma API que gerencia
+arquivos no blob por quê Porque ela cu
+especificamente de fazer gestão de
+arquivos ged que é o nome disso bom é só
+um exemplo e e aqui a gente tá num nível
+tão maduro onde essa pid Jed por exemplo
+ela tem os microcomponentes os serviços
+os microfrontends que usam dela lá no
+Fronte o pessoal nem sabe como que faz o
+Pilot como que faz o piloto de arquivo
+gestão de arquivo esse tipo de coisa ele
+só consomem implementa lá um web
+componente P no gato mas para eu chegar
+nesse
+estágio foram 4 anos vai para 5 anos
+agora e eu sofri muito Nossa meu Deus do
+céu como que eu sofri
+eh e e o que deu mais certo é o mais
+simples o que deu mais certo é o mais
+simples a gente já jogou vários sistemas
+foras depois esse que é o pior a hora
+que ent produção joga mais fora aquela
+[&nbsp;__&nbsp;] fica é tipo fantasma
+assombração Vocês não tem noção o
+trabalho queer debugar então assim eh
+microsserviços ou ou monolito monolito
+simples assim sem sombra de dúvida Ah
+mas monolito A não ser que você queira
+experimentar a não ser que você esteja
+num estágio da tua vida da tua aura da
+tua imagem aí da tua do do do do do seu
+ser de
+experimentação e eu diria para você
+ainda mesmo assim tomar cuidado porque
+vira um vírus cara a hora que ele cresce
+e ele cresce desordenada hein cresce se
+você não tem as manha ele cresce
+desordenado mas o único jeito de criar
+as é usando [&nbsp;__&nbsp;] ó implementa
+implementa para você sentir você tem que
+precisa disso se você tá aí nessa dúvida
+você precisa disso
+e qual que é o maior problema são as
+exceções então Sempre quando você tem
+exceção e consistência o um outro
+problema também muito grande que é a
+consistência no banco de dados então por
+exemplo eh quando você tá trabalhando
+com microsserviço você tem que entender
+que cada parte do seu sistema tem tem um
+banco de dados isolado Porque se ela não
+tiver um banco de dados isolado você tá
+fazendo um legado um criando um monstro
+Você tá criando um Você tem os mesmos
+problemas de escala que o monolito tem
+só que com npis em cima tipo com n
+pedaços em cima saca o porque no final
+das contas tá todo mundo acessando o
+mesmo banco de dados então primeira
+regra do jogo do microsserviço é cada
+api cada cada pedaço do seu sistema ali
+tem que ter um banco de dados separado e
+E aí a segunda regra é que você tem que
+trabalhar com um negócio chamado
+consistência
+eventual Nossa que que é isso pesquisa
+aí cara aqui eu aqui eu não quero falar
+sobre códigos eu só falo só os
+pedacinho pesquisa aí ó consistência
+eventual e você vai trabalhar com banco
+de dados distribuído você tem que
+trabalhar com n banco de dados você não
+pode ah mas eu quero começar com três
+epis acessando o mesmo banco de dados
+cara vai dar merda ão vai dar merda vai
+Provavelmente você é melhor você começar
+com o monolito entendeu É bem melhor
+então é isso galera Essa é minha Essa é
+a minha contribuição para vocês sobre
+este tema que está tão em ascensão no
+Linkedin no Linkedin lá eu sigo lá todo
+mundo fal assim ah não se que lá
+microsserviço ah não se que lá monolito
+ah não sei que
+lá segue a minha Call hein segue a minha
+Call Valeu galera um abraço ó Me segue
+me segue aqui no Instagram ou no no
+YouTube
+toca o Sininho aí o Sininho não sei nem
+PR que que serve mas aperta esse Sininho
+aí porque todo mundo fala isso e ó Me
+segue lá no no Instagram também @ eu sou
+Kelvin clet comenta a sua opinião abre
+essa sua boca abre a boca não mexa esse
+seus dedos nesse chat de comentário
+comenta sua opinião eu quero saber ela
+que que você gosta mais microserviço ou
+monolito e comenta aí se você já se
+fodeu igual eu com microsserviço também
+para essa garotada aí tomar vergonha na
+cara valeu abraço

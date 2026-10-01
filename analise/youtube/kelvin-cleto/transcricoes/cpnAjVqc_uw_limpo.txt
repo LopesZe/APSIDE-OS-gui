@@ -1,0 +1,294 @@
+Todo mundo quer construir uma ferramenta
+de inteligência artificial hoje em dia,
+mas o que ninguém tá percebendo é que
+99% dessas ferramentas que estão
+nascendo vão virar commodity, vão
+morrer, saca? Porque eles estão entrando
+num jogo de preço. Comity é jogo de
+volume e como a barreira de
+desenvolvimento de software, ela vem
+diminuindo com ferramentas no code, low
+code. A galera tá indo pro Microsas, tá
+indo pros agentes de tá indo pros
+chatbots, mas não é isso que vai fazer o
+jogo delas mudar. Pelo contrário, se
+você for nessa linha, você só vai ter
+dor de cabeça e vai gastar dinheiro e
+não vai funcionar. Agora, se você quiser
+ganhar dinheiro com o IA de verdade e
+construir algo que não seja passageiro,
+que não seja igual tempo, você vai ter
+que assistir esse vídeo aqui, porque eu
+vou te falar sobre como você criar um
+ecossistema. Vocês tem que aprender a
+pensar, você na verdade tem que aprender
+a pensar com estratégia de mercado. Se
+você quiser montar algo que realmente
+faça sentido, não algo que dure 2, 3, 4
+meses, 6 meses. Já que é para você
+começar a empreender, vamos fazer algo
+que dure, algo que cresça, algo que
+realmente faça você largar esse seu
+emprego e tocar o teu negócio, entendeu?
+um negócio que seja duradouro. Então,
+nesse vídeo, eu vou te mostrar
+exatamente como você que como você cria
+um ecossistema vertical e potencializar
+ele com inteligência artificial, porque
+a gente tem que aproveitar esse hype,
+que não é só um hype na verdade, né? É
+uma não tem mais o que fazer, já é o é o
+futuro presente, porque é o que tá
+acontecendo. E para você que não me
+conhece, deixa eu me apresentar. Meu
+nome é Kelvin, eu sou fundador da
+General Clins, uma das principais
+insurtex. Inclusive, nós temos um
+ecossistema vertical, um ecossistema
+tecnológico voltado para o mercado de
+seguros, que é o nosso grande
+diferencial, nichado na regulação de
+sinistro. Não vem aqui ao caso, explicar
+o que que é regulação de sinistro para
+me foderem o spect. E nos últimos 12
+anos eu venho empreendendo e e
+desenvolvendo essa minha habilidade de
+criar negócios. E o que eu descobri
+nesse tempo é o seguinte: não adianta
+você criar um produtinho, um sabe, um
+agente isolado, algo que resolva só uma
+pontinha do negócio. Isso aí não tem
+valor. O que funciona de verdade é você
+criar uma solução, é você resolver o
+problema do seu cliente. Então, quando
+eu falo para você que chatbot não
+funciona, é que, tipo assim, chatbot é
+como se tivesse criando um martelo,
+fazendo martelo. Você é mais um martelo
+no meio de milhares de fabricantes de
+martelo. Vai, deixa eu começar o vídeo e
+te explicar a minha linha de raciocínio.
+Vamos lá, então, hein? A barreira de
+entrada na criação de produtos digitais,
+de softwares, ela diminuiu
+drasticamente nos últimos 2 anos. E o
+que que a galera vem fazendo? A galera
+vem atendendo, resolvendo problemas
+pontuais. Então, por exemplo, há um
+chatbot de atendimento, um chatbot para
+vendas, um chatbot para whatever, ou
+criando um micro SAS, um micro CRM, ou
+criando um agente ASA Service, um que é
+um nada mais é do que um agente
+inteligente,
+ã, e alugando ele, né, porque ele é como
+serviço, criando
+automações. Cara, tudo isso aqui é
+commodity, isso aqui é fácil de fazer.
+Isso aqui, cara, é ganhar no volume. Com
+se ganha no volume. Comot é
+matériaprima, primária. Por exemplo,
+milho, eh, mineral, minério de ferro e
+soja, esse tipo de coisa. Tudo isso é
+comode. O que tem valor não é o milho em
+si. O que tem valor é o óleo de milho,
+por exemplo. É a o óleo de soja, saca?
+Que é o o produto final. Isso sim tem
+valor, porque é difícil de fazer. O
+milho é mais fácil, entendeu? H, é o
+mesmo para essas paradas aqui, a mesma
+analogia. Chatbot é fácil de fazer,
+automação é fácil de fazer. Isso aqui é
+como se você tivesse fabricando, por
+exemplo, um martelo. Todo mundo faz um
+martelo, saca? Então você vai ser mais
+um cara vendendo martelo por R$ 50 por
+mês, entendeu? E isso aqui no modelo
+atual, que é o modelo de você criar algo
+que tenha recorrência, eh, recorrência
+você ter uma carteira de empilhamento.
+Então você pega um cliente hoje, pega um
+amanhã, pega um depois de amanhã, você
+tem três clientes te pagando uma
+mensalidade, o que te gera uma
+recorrência. Qual que é o grande
+problema? Primeiro, tem um monte para
+você concorrer. Segundo, você pega o
+cliente hoje, amanhã você perde ele.
+Então, a o ch, que é a taxa de perda do
+cliente, ela é muito alta, porque não
+tem não tem valor agregado pro cliente.
+Você tá resolvendo só um probleminha. E
+esse é o grande problema disso, saca? E
+por que, Kv que tem tanta gente fazendo?
+Porque a barreira técnica caiu
+drasticamente. Então, não tem barreira
+de entrada. O tão técnicos e não
+técnicos, eles conseguem hoje criar
+essas ferramentas. Eu criei um chatbot
+em três dias, velho. É no N8N ainda. Eh,
+qualquer um pode comprar um cursinho e
+fazer e o ticket é baixo. É
+baixíssimo. Então, Kelvin, qual que é a
+solução? A solução é, em vez de você
+criar algo de
+R$9,90, você realmente desenvolver uma
+solução para um nicho específico. Então
+é um
+ecossistema nichado, é um ecossistema
+vertical, ele é verticalizado porque ele
+tem um nicho específico. Você resolve o
+problema de um determinado nicho e
+logicamente usa IA para isso, né,
+também, né? A IA ela é complemento.
+Então vamos entrar aqui. O que que eu
+digo com o ecossistema vertical? Vamos
+pegar o exemplo de uma barbearia. Que
+que o pessoal tá fazendo hoje? Cria um
+chatbot pra barbearia. Isso é você
+trabalhar na linha do commodity. Agora,
+para você que quer criar algo com
+margem, com recorrência, algo que seja
+escalável, algo que realmente faça
+sentido você sabe, gastar energia para
+criar, que não vai morrer no próximo
+ano, você tem que fazer isso daqui, ó.
+Você pega a barbearia. Então vamos lá.
+Barber in one. Essa aqui é a solução.
+Solução. A solução ela é composta de
+vários produtos. Então a gente vai
+desenvolver lá um front end para gestão
+e controle completo paraa barbearia. O
+barbeiro, o barbeiro ou dono da
+barbearia vai conseguir controlar as
+barbearias, as redes, as cadeiras, quem
+são os profissionais que estão em cada
+cadeira, quanto cada profissional gera.
+Tem um bi gerando dados analíticos e
+analisando para ele, ajudando ele a
+fazer o acompanhamento daquilo. Aí aqui
+você tem um agente que gera conteúdo
+paraa barbearia. Olha que legal. Por
+quê? Porque a barbearia, você quer
+solucionar o problema da barbearia. Você
+qual o o barber all in One, ele
+basicamente fala o seguinte: "Barbeiro,
+eu vou transformar sua barbearia numa
+barbearia digital. Você vai, cara,
+explodir. Você vai ter a melhor
+barbearia do mundo com a nossa
+solução. Então, dentro da solução, eu
+tenho agentes. Você vai receber uma
+notificação, falando assim, ó: "Hoje é
+dia de gravar vídeo, usa esse roteiro
+aqui automático, já tá treinado, tá
+nichado para fazer aquilo." Olha que
+legal. E aqui sim você usa o assistant
+da Open AI para fazer isso. Aqui você
+tem uma IA vertical. Olha como que ela é
+um pedaço de um todo, saca? Aqui, por
+exemplo, no front controle do calendário
+de publicação. Aí você tem um chatbot de
+atendimento ao cliente, um chatbot para
+suporte. São vários chatbots, saca? Você
+tem funis de vendas automatizados, então
+você traz pra barbearia receita também.
+Além de trazer gestão, além de trazer
+controle na despesa, além de trazer
+visão de estratégia de negócio pra
+barbearia, você ainda traz um funil de
+venda. Aí você agrega trazendo
+automações financeiras. Aí você pode
+usar o
+N8N. Aí você pode ir além, você pode,
+quem comprar sua plataforma tem um
+curso, um
+curso sobre
+gestão e estratégia. Olha que legal,
+você ainda ensina o cara do como é
+importante você ainda treina ele, eleva
+o nível de consciência dele, do quanto é
+importante ele ter uma ferramenta igual
+a sua. Cara, acabou. Você concorda aqui?
+Qual que é a barreira de entrada para
+fazer isso aqui? Porque olha o tamanho
+que o cara vai ter que construir, vai
+ter que ter a sua metodologia ainda, a
+metodologia que você aprendeu para criar
+o seu ecossistema. Então tem valor
+agregado, é complexo e tem não ter
+barreira de entrada para entrar. Então
+você vende uma solução completa pro seu
+cliente. Quando o seu cliente entra na
+sua, no seu ecossistema, ele não
+consegue sair mais, entendeu? Tem o
+ticket alto, não é um ticket de R$
+29,90, é um ticket de 100. mês, 1300 por
+mês. O a energia gasta para conquistar
+um cliente, ela é maior, só que aquele
+cliente não sai porque você tá
+resolvendo todos os problemas dele. Essa
+é a visão de um empresário, ou melhor,
+essa é a visão que você tem que ter.
+Você tem que aprumar a sua visão para
+ter essa visão aqui de longo prazo,
+saca? de você criar algo e você não
+precisa começar desse tamanho todo, mas
+a sua visão tem que ser assim. A sua
+visão tem que ter, tem que ser em ter um
+ecossistema. Você pode começar assim só
+com o fronte de gestão e o chatbot, mas
+você tem que entender que você tem que
+amarrar esse cara uma teia de aranha,
+porque a hora que ele entra, mano, ele
+se amarra inteiro, ele não sai mais. Aí
+sim, aí você consegue unir o o mundo
+ideal, né, que é o mundo do SAS com o
+mundo da IA vertical. Aí sim você, cara,
+acabou aí. Aqui é aqui é game change,
+saca? Aqui sim você consegue fazer algo
+que seja robusto, que seja escalável,
+que tenha margem para você, que seja
+sustentável a longo prazo, que você vai
+começar a fazer esse ano. No final desse
+ano, o negócio já começou a rampar,
+saca? E ano que vem não vai morrer, não
+vai aparecer um outro qualquer fazendo.
+E você consegue explorar isso para
+vários segmentos. Então você
+basicamente, ó, deixa até anotado aqui,
+você vai ter então modelos, mais agente,
+mais automação, mais o SAS, mais um
+playbook de como usar isso. Você
+realmente traz o cara para dentro do
+ecossistema, você trava ele. E esse é o
+grande diferencial. Ó, vou dar um outro
+exemplo para você no setor jurídico.
+Criar, por exemplo, uma automação para
+fazer a triagem completa de um processo,
+mais análise de jurisprudência, mais
+produção de petições. Saca que o pessoal
+hoje faz um SAS para produção de
+petição, outro SAS para análise de
+jurisprudência, outro SAS para triagem
+de processo, aí tem um outro cara que
+faz o CRM, aí tem outro que faz isso.
+Olha, olha como nenhum deles tá travando
+aquele cara, aquele player jurídico
+dentro de um ecossistema. Agora, se você
+tem a visão do ecossistema, aí é outros
+500, aí você consegue fazer isso,
+entendeu? Entenderam meu ponto de vista?
+Espero que sim. Então assim, já que você
+vai empreender, já que você quer, você
+tá no meu canal aqui para empreender,
+né? Então assim, ó, gasta energia com
+algo que não vá se desfazer do dia pra
+noite, sacou? Entendeu? Esse é meu
+conselho para você. Ah, deixa eu te
+falar, já pensou em entrar na escola do
+devedor? lá eu posso te ajudar a fazer
+isso daqui. Ó, o link tá aqui na
+descrição desse vídeo. Tessa lá, já
+aproveita, se inscreve no canal, já
+ativa o sininho e tchau.

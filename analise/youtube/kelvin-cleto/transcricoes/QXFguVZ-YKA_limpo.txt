@@ -1,0 +1,313 @@
+Você programa todo dia mas o que
+realmente que você tá criando o que que
+você tá criando Esse é um bate-papo
+entre eu e você agora bate-papo não é
+reflexão Então vamos lá fica comigo até
+o final desse vídeo que você vai
+entender aonde eu quero chegar vou
+compartilhar minha tela aqui com
+você Que que você tá criando todo dia se
+acordou e vai programar se aqui para
+desenvolver Você programa
+códigos é isso que você programa Todo
+dia né Que que você cria código você
+cria bugs Tem pessoa que cria bug tem um
+monte que eu conheço que cria bug
+criador
+debug você cria features também possível
+entregáveis
+a pergunta
+é só isso
+só isso que você
+cria foi a pergunta que eu fiz há muito
+tempo
+atrás porque quando eu parei para
+analisar o meu dia o que que eu comecei
+a ver eu
+acordava um novo dia abria lá o visual
+Studio entrava lá no clickup no Monday
+no gira que seja Lia as tarefas né sabia
+o que tinha que fazer fazia a minha
+Daily fazia reuniões
+refat código codificava
+desenvolvia criava features ia lá
+fazendo fazendo subia minhas pr
+publicava pra
+produção saca E aí terminava o serviço
+finalizava e no outro dia a mesma coisa
+a mesma coisa a mesma coisa e a mesma
+coisa aí eu cheguei a essa seguinte
+conclusão que eu era um uma máquina de
+código Eu sou uma máquina de código por
+alguém tinha
+dinheiro colocava dinheiro no meu bolso
+ó eu sou esse cara aqui ó esse cara aqui
+sou colocava dinheiro no meu bolso por
+sinal muito dinheiro e do outro lado
+saia
+código eu quero que você faça uma
+reflexão com você mesmo agora tá tá eu
+aqui Kelvin e você que eu não sei o seu
+nome tá me assistindo agora você também
+é uma máquina de
+código se sim você tem prestar muita
+atenção nesse nesse nesse vídeo nesse
+vídeo não é uma vsl tá não tô tentando
+vender nada para você nada é um
+bate-papo é uma
+reflexão
+aí tá vamos colocar aqui 20 eu fiz essa
+reflexão quando eu tinha 22 anos mas vou
+colocar aqui o cálculo Redondo 20 anos
+20 anos tá daqui 5
+anos que que eu vou ser
+você é um tá vou tá Senior já só um você
+um Dev
+Sênior você um um arquiteto
+Sênior que seja vou tá melhor 5 anos
+fazendo isso 5 anos desenvolvendo dores
+passando por um monte de coisa e daqui
+10 anos aqui com 5 anos são 25 anos e
+mais 10 anos 15 anos de experiência 35
+anos 35 anos 35 anos bem provável que eu
+já vou ser um
+coordenador um principal engir um
+arquiteto muito um especialista em
+tal coisa um Tech Líder muito brabo um
+cara
+fera e mais 15 anos e mais 15 anos mais
+15 mais 15 anos eu tô fora do
+mercado provavelmente aqui eu já estaria
+na mira da saída do
+mercado Nossa kelvi por qu cara porque a
+juventude impera o mercado você pega a
+garotada de 20 anos aí tá botando para
+quebrar eu botava para quebrar
+demais entendeu eu botava para para
+quebrar
+demais e e a gente sabe que o mercado de
+programação de software de tecnologia é
+igual o mercado de futebol velho os
+caras de 40 45 já estão quase fora do
+jogo que é geral não é porque tem o
+ponto do cara se tornar um cara muito
+especialista um único aí ele
+realmente ele vai continuar ali um bom
+tempo mas essa galera já tá só na
+sustentação a galera do Delf saca a
+galera do PHP os Car do PHP vai ficar
+bravo
+comigo já tá ali no no no final porque
+galer seguinte ó deixa eu mostrar para
+vocês como que funciona a
+estrutura de uma empresa e do mercado tá
+aqui embaixo a gente tem a operação o
+operacional aí depois a gente vem pra
+linha do tático e aqui em cima é o
+estratégico toda empresa é dividida
+nessa estrutura aqui o
+programador tá aqui o programador tá
+aqui ó o cara o especialista tá
+aqui também tá todo mundo aqui Quem que
+tá aqui no tático aqui no tático tá o
+Tech
+Leader tá o
+coordenador e tá o gerente e aqui no
+estratégico tá a diretoria tá o ctio a
+estrutura é essa só que a maioria do
+mercado tá aqui
+ó a vida do Dev inteira É aqui
+a vida do Dev inteira É é pautada em ele
+querer ser o melhor programador
+possível vocês já pararam para pensar
+nisso você já parou para pensar
+nisso meu sonho era ser arquiteto de
+software e a vida e Eles não conseguem
+enxergar eu queria ser um um Microsoft
+MVP é é isso que que eles enxergam eles
+não enxerga Nada Além disso é isso que a
+gente enxerga a gente não enxerga Nada
+Além disso E aí gente
+o caminho que a gente deveria fazer é
+esse aqui ó tá vendo de subir a gente
+começar aqui como deve a gente subir pra
+coordenação para depois subir para ser
+estratégico dentro de uma companhia e
+quem chega aqui chega começa a chegar
+aqui no tático começa a entender
+realmente como o jogo funciona começa a
+entender e e para você que não conhece
+meu canal eu sou um defensor do
+empreendedorismo empreendedorismo Tec eu
+acho que todo Dev tem que ser
+empreendedor porque ele é a pessoa que
+tem mais capacidade para empreender se
+você deve eu acredito que você tenha a
+capacidade para empreender Talvez você
+tenha medo talvez você não saiba como
+mas eu acredito nisso fielmente que todo
+deve tem a capacidade de empreender toda
+pessoa na verdade mas o deve ele tem
+mais possibilidades que qualquer um
+nessa geração que a gente tá vivendo se
+você não acredita em mim assiste todos
+os meus vídeos você vai ver isso mas
+voltando para cá o Dev fica aqui e aí
+quando eu parei para analisar essa essa
+essa estrutura aqui que acontece cara
+você a maioria não quer ser não quer dor
+de cabeça quer codar quer escrever
+código não quer fazer gestão não quer
+saber de Opera não quer saber de
+coordenação não quer saber de crescer
+não quer saber de estratégico gosta de
+codar é gostoso codar caraca mano eu
+quero codar eu quero fazer isso aqui
+porque sabe é isso aqui que eu nasci
+para fazer mas para para analisar uma
+coisa gente ó vamos pegar a nossa linha
+da vida linha da vida aqui ó do zero ao
+60 nossa linha da vida curta
+até os seus 29 anos você é
+jovem você chegou nos seus 30 você não é
+mais jovem
+aí aqui a gente só divide em adulto e
+velho
+saca e a hora que você chega nos seus 30
+a paspa dos 30 mano você já se acha
+velho eu pelo menos tenho esse
+sentimento se alguém de 30 anos tá
+assistindo aí bem provável se você tá
+tem 30 anos você sabe do que eu tô
+falando e a hora que você chega nos 40
+45 aqui velho você já tá
+fasado então a janela que a gente tem de
+crescimento
+exponencial cara é até os
+40 é até os 40
+anos por isso que eu prego que cara se
+você é jovem se você não tem 30 anos
+ainda cara arrisca tudo tudo que você
+pode arriscar para se dar bem na vida
+porque você vai dar certo ah eu não
+quero empreender tudo bem não empreenda
+mas aprenda Inglês fica Vai
+trabalhar na da Gringa enche o
+rabo de dinheiro e guarda saca e guarda
+então arrisca tudo aí depois dos 30 você
+você fica tranquilo por exemplo eu
+arrisquei tudo e eu ainda arrisco porque
+eu vou arriscar até os 40 até os meus 40
+anos eu vou botar para os meus
+próximos 7 anos vão ser os melhores anos
+da minha vida porque eu tô com
+experiência eu já sei como funciona o
+rolê eu já fiz um colchão de dinheiro e
+agora eu vou botar para porque eu
+quero chegar com 40 anos eu quero ter
+uma Porsche eu quero ter a de uma
+fazenda de 100 alqueires eu quero ter 10
+cavalo caro porque eu gosto de cavalo
+meu negócio é sítio eu quero eu quero
+fazer uma lipo na minha mulher deixar
+ela 0 km eu quero e Eu quero um monte de
+coisa eu quero viajar para uns 10 países
+20 países 30 países porque eu tenho uma
+de filho Agora tenho que
+esperar esse filho crescer que eu não
+tenho dinheiro para pagar passagem para
+todo mundo eu ganho dinheiro mas o
+dinheiro some eu montei tive montei meu
+patrimônio né meu colchão e eu não não
+tive eu não curti ainda eu não curti mas
+eu já garanti eu eu eu o que eu fiz até
+meus 30 anos garantiu a a a minha
+a eu arriscar Depois dos 30 saca p k já
+passei dos 30 e não tenho nada mano
+agora é a hora véi vamos meter pressão
+passei dos 40 e não tenho nada velho vai
+empreender vai empreender porque o
+mercado de tecnologia para você já já
+era já era no máximo que você vai
+arrumar é mais um trampo vai ficar aí
+vai ganhar os seus 10.000 15.000 20.000
+mas já já você tá fora a realidade é
+essa é doída é doída é doída mas é a
+realidade e eu tô aqui para ajudar as
+pessoas eu tô aqui para contribuir e
+essa é a minha perspectiva de vida Essa
+é a minha perspectiva de vida se você
+não é um cara e já passou dos 40
+anos meu amigo vai empreender e dá para
+empreender não não é que empreender a
+última saída Não não é saca o que eu
+acho é que a gente não pode desistir o
+que eu acho que a gente não pode
+desistir saca agora se você não tem 30
+nossa mano arriscar tudo se você não tem
+30 não tem filho não tá casado é
+trabalhar 14 15 horas por dia eu fazia
+isso casado e com
+filho mano vai pras cabeças e empreende
+arrisca agora sacou então assim gente e
+voltando já perdi até o fil da miada não
+é papo de coach não é papo de nada o que
+eu quero é que você analise de verdade
+olha na sua linha da vida você tá velho
+ou tá novo que que você tá fazendo todo
+dia que que você tá construindo que que
+você tá deixando para você Você tá é só
+código Até quando você vai ficar fazendo
+isso até quando você vai ficar só
+criando o sistema codando escrevendo o
+código até quando Ah eu tenho medo até
+quando você vai ficar com medo até
+quando você vai ter medo de falar até
+quando você vai ter medo de evoluir e
+crescer até
+quando a vida é muito curta eu tô com 32
+já eu olhei um vídeo meu ontem eu com
+cara de neném cheio de no cé
+eu olhei PR fazer outro vídeo lá falei
+tô velho os cabelo tá C caiu tudo
+mano saca os meus próximos 7 anos vai
+ser com pressão Quero você comigo você
+tá aí assistindo você vai comigo
+ah não tenho força eu vou te arrastar
+nós vai vamos ficar rico vamos ganhar
+dinheiro dinheiro honesto dinheiro com
+suor dinheiro que a gente sabe fazer
+programar criar vamos empreender não
+quer empreender ent empreende não quer
+entrar empreender arruma trum Job vai
+fazer
+Job Job nos Estados Unidos vai ganhar
+dólar não sei falar inglês vai ter que
+aprender Bora suar Bora suar e é
+isso aí o vídeo de hoje é isso é
+motivacional Coach virei Coach
+Brincadeira Galera seguinte esse é o
+vídeo muito obri Ah o meu muito obrigado
+se é se você me Assiste obrigado
+por est me seguindo por tá por se
+inscrever no canal e por ativar o
+Obrigado por comentar cara tô gostando
+demais de est aqui no YouTube
+conseguindo me expressar Esse é quem eu
+sou de verdade eu sou assim eu sou
+explosivo eu sou ansioso eu sou isso
+cheio de defeito mas vocês estão
+curtindo a minha jornada eu tô muito
+feliz por isso e te espero ver nos
+próximos vídeos e comenta também se você
+não me segue me segue me dá essa
+moral aí vamos embora vamos fazer eu
+crescer Aí vamos crescer junto vamos
+bombar nesse YouTube que tá cheio de de
+Tech manco aqui falando para vocês cara
+tá demais tá demais não tem ninguém
+falando para vocês empreender vamos
+ganhar dinheiro só falando de vender
+curso chega chega já falei demais já
+falei demais tchau vocês Fi com Deus até
+mais
