@@ -26,7 +26,6 @@ Se fechou R$497-697 (Google), entregar com qualidade:
 - Perfil completo
 - Fotos profissionais
 - Avaliações respondidas
-- Display NFC configurado (se fizer sentido)
 
 Mostrar resultado real. Gerar confiança.
 

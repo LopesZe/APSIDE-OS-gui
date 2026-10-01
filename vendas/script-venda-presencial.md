@@ -14,7 +14,7 @@ Ideal: Problema identificado + proposta feita
 Desejável: Projeto fechado
 ```
 
-**Regra de ouro:** O diagnóstico é a porta. Não o Display NFC.
+**Regra de ouro:** O diagnóstico é a porta.
 
 ---
 

@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=794">
+<title>APSIDE — Guia de Preços</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=DM+Sans:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+@page { size: 210mm 297mm; margin: 0; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1F2133;
+  color: #1a1a1a;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.page {
+  width: 210mm;
+  height: 297mm;
+  padding: 12mm 13mm;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+}
+.page:last-child { page-break-after: auto; }
+
+/* ========== LIGHT PAGES ========== */
+.light { background: #ffffff; }
+
+.topbar {
+  height: 6mm;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #00E65B 0%, #0066FF 50%, #6E00FF 100%);
+  margin-bottom: 12px;
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 14px;
+}
+.brand {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1F2133;
+  letter-spacing: 3px;
+}
+.brand span { color: #0066FF; }
+.head h1 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: #1F2133;
+  letter-spacing: -0.8px;
+  line-height: 1.05;
+  margin-top: 5px;
+}
+.head .stamp {
+  text-align: right;
+  font-size: 9.5px;
+  color: #888;
+  line-height: 1.6;
+}
+.head .stamp b { display: block; color: #1F2133; font-size: 10.5px; }
+
+.section-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #0066FF;
+  margin: 0 0 10px;
+}
+
+.svc-list {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+}
+.svc {
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 12px;
+  padding: 12px 14px;
+}
+.svc-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+.svc h3 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1F2133;
+  line-height: 1.15;
+}
+.svc .price {
+  font-size: 15px;
+  font-weight: 900;
+  color: #0066FF;
+  white-space: nowrap;
+}
+.svc .price small { font-size: 9px; font-weight: 600; color: #888; }
+.svc .meta {
+  font-size: 9px;
+  font-weight: 700;
+  color: #6E00FF;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 3px;
+}
+.svc .fit { font-size: 9.5px; color: #666; margin-bottom: 5px; }
+.svc .fit b { color: #1F2133; }
+.svc .resolve {
+  font-size: 10.5px;
+  color: #444;
+  line-height: 1.4;
+  font-style: italic;
+  margin-bottom: 7px;
+}
+.svc ul {
+  list-style: none;
+  columns: 2;
+  column-gap: 22px;
+}
+.svc li {
+  font-size: 9.5px;
+  color: #444;
+  line-height: 1.45;
+  padding-left: 13px;
+  position: relative;
+  margin-bottom: 4px;
+  break-inside: avoid;
+}
+.svc li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #00E65B;
+  font-weight: 800;
+}
+.svc li b { color: #1F2133; }
+
+/* ========== DARK PAGE ========== */
+.dark {
+  background: linear-gradient(160deg, #1F2133 0%, #23253d 60%, #1F2133 100%);
+}
+.dark .brand { color: #F5ECD7; }
+.dark .brand span { color: #00E65B; }
+.dark h1 { color: #F5ECD7; }
+.dark .head .stamp { color: #777; }
+.dark .head .stamp b { color: #F5ECD7; }
+.dark .section-label { color: #00E65B; }
+
+.combo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.combo {
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 14px;
+  background: rgba(255,255,255,0.03);
+  position: relative;
+}
+.combo.feat {
+  background: linear-gradient(135deg, #1F2133, #2a2d45);
+  border-color: #00E65B;
+}
+.combo.feat::before {
+  content: 'RECOMENDADO';
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #00E65B;
+  color: #1F2133;
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+.combo h3 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #F5ECD7;
+  margin-bottom: 4px;
+}
+.combo .price {
+  font-size: 24px;
+  font-weight: 900;
+  color: #F5ECD7;
+  margin-bottom: 8px;
+}
+.combo.feat .price { color: #00E65B; }
+.combo .price small { font-size: 10px; font-weight: 500; color: #888; }
+.combo ul { list-style: none; }
+.combo li {
+  font-size: 9.5px;
+  color: #bbb;
+  line-height: 1.5;
+  padding-left: 13px;
+  position: relative;
+}
+.combo li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #00E65B;
+  font-weight: 800;
+}
+
+.plan-note {
+  font-size: 9.5px;
+  color: #888;
+  line-height: 1.5;
+  margin: -8px 0 16px;
+  border-left: 3px solid #6E00FF;
+  padding-left: 10px;
+}
+
+.rules {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  margin-bottom: 4px;
+}
+.rule {
+  display: flex;
+  gap: 9px;
+  align-items: flex-start;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 10px;
+  padding: 9px 11px;
+}
+.rule .num {
+  font-size: 13px;
+  font-weight: 900;
+  color: #00E65B;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.rule p { font-size: 9.5px; color: #bbb; line-height: 1.45; }
+.rule p b { color: #F5ECD7; }
+
+/* ========== FOOT ========== */
+.foot {
+  position: absolute;
+  bottom: 8mm;
+  left: 13mm;
+  right: 13mm;
+  display: flex;
+  justify-content: space-between;
+  font-size: 9px;
+  color: #999;
+  border-top: 1px solid rgba(0,0,0,0.07);
+  padding-top: 7px;
+}
+.dark .foot {
+  border-top-color: rgba(255,255,255,0.08);
+  color: #666;
+}
+.foot .dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: linear-gradient(90deg, #00E65B, #0066FF, #6E00FF);
+  margin-right: 6px;
+}
+</style>
+</head>
+<body>
+
+<!-- ============ PÁGINA 1 — SERVIÇOS (1–3) ============ -->
+<div class="page light">
+  <div class="topbar"></div>
+
+  <div class="head">
+    <div>
+      <div class="brand">APSI<span>DE</span></div>
+      <h1>Guia de Preços — Serviços</h1>
+    </div>
+    <div class="stamp">
+      <b>Vigente desde 01/10/2026</b>
+      Fonte única: vendas/escada-precos.md<br>
+      Próximo reajuste: 01/04/2027
+    </div>
+  </div>
+
+  <div class="section-label">Serviços 1 a 3 — o que entra em cada entrega</div>
+
+  <div class="svc-list">
+    <div class="svc">
+      <div class="svc-top">
+        <h3>1. Presença no Google</h3>
+        <div class="price">R$ 497–697</div>
+      </div>
+      <div class="meta">Prazo 2–5 dias</div>
+      <div class="fit"><b>Ideal pra:</b> Google praticamente abandonado, negócio bom mas presença digital ruim.</div>
+      <div class="resolve">Resolve: perfil incompleto, sem fotos, poucas avaliações e informação errada — quem busca não acha, ou acha e não confia.</div>
+      <ul>
+        <li><b>Perfil completo:</b> nome, categoria principal e secundárias, descrição com palavra-chave da cidade, horário (inclusive feriados), telefone, botão de WhatsApp e endereço no mapa — tudo preenchido e consistente.</li>
+        <li><b>Correção de SEO técnico:</b> sitemap.xml e robots.txt pra Google indexar o que interessa, title e meta description com palavra-chave + cidade, e dados do negócio (nome, endereço, telefone) iguais em todo canto.</li>
+        <li><b>8 fotos profissionais:</b> fachada, vitrine, interior, equipe e produtos/serviços — tratadas e com geolocalização, porque o Google usa a localização da foto pra ranquear.</li>
+        <li><b>3 serviços/produtos cadastrados:</b> nome, descrição e link de cada um, aparecendo no painel lateral do perfil (quem busca "X perto de mim" vê a lista).</li>
+        <li><b>Respostas de avaliações por 30 dias:</b> toda avaliação nova recebe resposta com o tom da marca e palavra-chave natural — isso sinaliza perfil ativo e puxa novas avaliações.</li>
+        <li><b>Google Analytics configurado:</b> métrica de cliques em "ligação", rotas e visitas que vêm do perfil — dá pra provar o que o Google tá trazendo.</li>
+      </ul>
+    </div>
+
+    <div class="svc">
+      <div class="svc-top">
+        <h3>2. Landing Page + Presença Online</h3>
+        <div class="price">R$ 997–1.500</div>
+      </div>
+      <div class="meta">Prazo 5–7 dias</div>
+      <div class="fit"><b>Ideal pra:</b> Instagram forte mas sem conversão, negócio que precisa de página profissional pra fechar.</div>
+      <div class="resolve">Resolve: sem site — quem vem do Google, do perfil ou da mídia não tem onde cair, e some antes de falar com você.</div>
+      <ul>
+        <li><b>Landing page responsiva (1 página):</b> hero com oferta principal, prova social (avaliações), seções de serviço, FAQ e CTA — montada pra converter, não pra decorar; funciona igual no celular e no desktop.</li>
+        <li><b>WhatsApp integrado:</b> botão fixo de zap com mensagem já preenchida ("Oi, vim pelo site e quero saber de [serviço]") e clique registrado no Analytics.</li>
+        <li><b>SEO básico:</b> title, meta description e H1 único com palavra-chave + cidade, alt em todas as imagens, schema LocalBusiness e certificado HTTPS — a página aparece pra quem busca.</li>
+        <li><b>4 peças de conteúdo:</b> carrosséis ou posts de lançamento no Instagram no mesmo padrão visual da página, com legenda e hashtags prontas.</li>
+      </ul>
+    </div>
+
+    <div class="svc">
+      <div class="svc-top">
+        <h3>3. Projeto de Estruturação Digital</h3>
+        <div class="price">R$ 2.500–7.500</div>
+      </div>
+      <div class="meta">Prazo 1–3 semanas</div>
+      <div class="fit"><b>Ideal pra:</b> empresa crescendo, processos manuais, quer resolver de verdade em vez de remendo por remendo.</div>
+      <div class="resolve">Resolve: múltiplos gargalos ao mesmo tempo — Google fraco, sem site, lead se perde no WhatsApp e nada é medido.</div>
+      <ul>
+        <li><b>Diagnóstico completo:</b> raio-x do Google, da concorrência e do volume de busca da cidade, com score 0–100 e plano do que resolver primeiro (sem chute: o que a régua mostrar).</li>
+        <li><b>Google otimizado:</b> tudo da Presença no Google — perfil completo, 8 fotos, respostas de avaliações e Analytics.</li>
+        <li><b>Site/landing page:</b> página de serviços com SEO on-page completo (title, meta, H1/H2, schema, velocidade), formulário de contato e botão de WhatsApp.</li>
+        <li><b>Organização de captação:</b> leads de site, WhatsApp e Instagram reunidos num painel só, com a origem de cada lead marcada — fim do "ele veio de onde?".</li>
+        <li><b>Follow-up configurado:</b> mensagem automática de confirmação quando o lead entra e lembrete de retorno quando ninguém respondeu — lead não morre por esquecimento.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span><span class="dot"></span>APSIDE — sistema operacional do negócio</span>
+    <span>Guia de Preços · 01/10/2026 · página 1 de 3</span>
+  </div>
+</div>
+
+<!-- ============ PÁGINA 2 — SERVIÇOS (4–6) ============ -->
+<div class="page light">
+  <div class="topbar"></div>
+
+  <div class="head">
+    <div>
+      <div class="brand">APSI<span>DE</span></div>
+      <h1>Guia de Preços — Serviços</h1>
+    </div>
+    <div class="stamp">
+      <b>Vigente desde 01/10/2026</b>
+      Fonte única: vendas/escada-precos.md<br>
+      Próximo reajuste: 01/04/2027
+    </div>
+  </div>
+
+  <div class="section-label">Serviços 4 a 6 — o que entra em cada entrega</div>
+
+  <div class="svc-list">
+    <div class="svc">
+      <div class="svc-top">
+        <h3>4. Chatbot WhatsApp (avulso)</h3>
+        <div class="price">R$ 3.000–5.000</div>
+      </div>
+      <div class="meta">Prazo 1–2 semanas</div>
+      <div class="fit"><b>Ideal pra:</b> qualquer negócio que vive de lead — contabilidade, clínica, escritório, imobiliária.</div>
+      <div class="resolve">Resolve: lead escreve às 22h e só recebe resposta no dia seguinte (quando recebe); atendimento manual repetitivo e qualificação lenta.</div>
+      <ul>
+        <li><b>Fluxo de qualificação de leads:</b> o bot pergunta na ordem certa (qual serviço, urgência, orçamento) antes de chamar humano — o lead chega pro time já classificado, sem entrevista manual.</li>
+        <li><b>Respostas rápidas pra dúvidas comuns:</b> preço, horário, endereço e lista de serviços respondidos na hora, 24/7 — o time para de repetir a mesma resposta todo dia.</li>
+        <li><b>Triagem e agendamento automatizados:</b> separa cliente novo de antigo, mostra horários livres e confirma o agendamento direto no papo.</li>
+        <li><b>Integração WhatsApp Business:</b> API oficial ou Evolution API no número do negócio; quando o assunto exige gente, transfere pro atendimento humano com o histórico da conversa.</li>
+        <li><b>Nunca embutido de cortesia:</b> item avulso, sempre faturado à parte — um lead respondido em 1 minuto às 22h vale o projeto inteiro.</li>
+      </ul>
+    </div>
+
+    <div class="svc">
+      <div class="svc-top">
+        <h3>5. Automação / CRM / IA</h3>
+        <div class="price">R$ 3.000–10.000+</div>
+      </div>
+      <div class="meta">Prazo 1–3 meses</div>
+      <div class="fit"><b>Ideal pra:</b> empresa com escala, atendimento manual, muita oportunidade se perdendo — e orçamento pra sistema.</div>
+      <div class="resolve">Resolve: processos internos manuais, excesso de leads pro atendimento e oportunidade que se perde entre planilha, WhatsApp e memória.</div>
+      <ul>
+        <li><b>CRM configurado:</b> pipeline de vendas com etapas (novo → contato → proposta → fechado), um card por lead e histórico de tudo que foi conversado — o time inteiro vendo o mesmo funil.</li>
+        <li><b>Automação de atendimento:</b> lead que entra recebe resposta e distribuição pro vendedor na hora; se ninguém retornar em algumas horas, o follow-up dispara sozinho.</li>
+        <li><b>Integração WhatsApp:</b> conversas do número comercial entram direto no CRM, sem copiar e colar entre abas.</li>
+        <li><b>IA pra triagem ou atendimento:</b> a IA lê a mensagem, classifica a intenção, responde as dúvidas simples e encaminha pro vendedor certo — humano só entra onde importa.</li>
+        <li><b>Dashboards de acompanhamento:</b> painel com leads do dia, conversão por etapa e tempo médio de resposta — decisão por número, não por sensação.</li>
+      </ul>
+    </div>
+
+    <div class="svc">
+      <div class="svc-top">
+        <h3>6. Conteúdo e Redes (avulso)</h3>
+        <div class="price">R$ 397–597<small>/mês</small></div>
+      </div>
+      <div class="meta">Mínimo 3 meses</div>
+      <div class="fit"><b>Ideal pra:</b> empresa sem tempo de postar, rede parada, sem linha editorial — perfil morto faz parecer que o negócio fechou.</div>
+      <div class="resolve">Resolve: Instagram/Facebook abandonado — quem achou a empresa vai ver o concorrente postando em seguida.</div>
+      <ul>
+        <li><b>8 peças por mês:</b> mistura de carrosséis, posts e reels no padrão da identidade visual, entregues em PNG prontos pra publicar (sem trabalho pro cliente montar nada).</li>
+        <li><b>Calendário editorial:</b> o mês inteiro planejado antes de produzir — temas e datas na tela, cliente aprova tudo de uma vez e não fica refém de "o que posto hoje?".</li>
+        <li><b>Legendas prontas:</b> texto com gancho, contexto e chamada + hashtags relevantes por peça — copiar, colar e publicar.</li>
+        <li><b>Faixa completa, mínimo 3 meses:</b> resultado de rede aparece no acumulado; avulso de 1 mês não entra (regra da escada — R$197/mês antigo foi cancelado no recall).</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span><span class="dot"></span>APSIDE — sistema operacional do negócio</span>
+    <span>Guia de Preços · 01/10/2026 · página 2 de 3</span>
+  </div>
+</div>
+
+<!-- ============ PÁGINA 3 — COMBOS, ESCALA E REGRAS ============ -->
+<div class="page dark">
+  <div class="head">
+    <div>
+      <div class="brand">APSI<span>DE</span></div>
+      <h1>Combos, Escala e Regras</h1>
+    </div>
+    <div class="stamp">
+      <b>Vigente desde 01/10/2026</b>
+      Fonte única: vendas/escada-precos.md<br>
+      Próximo reajuste: 01/04/2027
+    </div>
+  </div>
+
+  <div class="section-label">Combos — entrada fechada</div>
+  <div class="combo-grid">
+    <div class="combo">
+      <h3>Básico</h3>
+      <div class="price">R$ 497 <small>único</small></div>
+      <ul>
+        <li>Só a Presença no Google, perfil completo</li>
+        <li>8 fotos + 3 serviços cadastrados</li>
+        <li>Respostas de avaliações por 30 dias</li>
+      </ul>
+    </div>
+    <div class="combo feat">
+      <h3>Completo</h3>
+      <div class="price">R$ 1.697 <small>único</small></div>
+      <ul>
+        <li>Google completo + site de 1 página</li>
+        <li>4 posts pro Instagram com legenda pronta</li>
+        <li>60% dos clientes pegam este — recomendar sempre</li>
+      </ul>
+    </div>
+    <div class="combo">
+      <h3>Premium</h3>
+      <div class="price">R$ 2.997 <small>único</small></div>
+      <ul>
+        <li>Google + site completo de ponta a ponta</li>
+        <li>Social cuidado por 3 meses</li>
+        <li>Porta de entrada pro plano de recorrência</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section-label">Escala de contratação — modelo Conta Gestor</div>
+  <div class="combo-grid">
+    <div class="combo">
+      <h3>Nível 1 — Presença</h3>
+      <div class="price">R$ 697 <small>único</small></div>
+      <ul>
+        <li>Presença no Google completa</li>
+        <li>Base pra todo o resto que vem depois</li>
+      </ul>
+    </div>
+    <div class="combo feat">
+      <h3>Nível 2 — Aquisição</h3>
+      <div class="price">R$ 4.997 <small>único</small></div>
+      <ul>
+        <li>Google + Instagram + Chatbot de qualificação</li>
+        <li>Captação funcionando de ponta a ponta</li>
+      </ul>
+    </div>
+    <div class="combo">
+      <h3>Nível 3 — Estruturação</h3>
+      <div class="price">R$ 6.997 <small>único</small></div>
+      <ul>
+        <li>Estruturação completa: sistema + automação</li>
+        <li>CRM, dashboards e acompanhamento</li>
+      </ul>
+    </div>
+  </div>
+  <div class="plan-note">
+    <b>Add-ons vendidos só à parte:</b> Google Ads e conteúdo mensal ficam de fora dos 3 níveis —
+    orçamento de mídia e recorrência nunca embutidos em projeto único.
+  </div>
+
+  <div class="section-label">8 regras de ouro</div>
+  <div class="rules">
+    <div class="rule"><span class="num">1</span><p><b>Nunca cobrar pelo tempo de execução.</b> IA faz em 3h o que vale R$500-700? Continua valendo o resultado.</p></div>
+    <div class="rule"><span class="num">2</span><p><b>Chatbot nunca de cortesia.</b> Item avulso: R$3.000–5.000, sempre faturado à parte.</p></div>
+    <div class="rule"><span class="num">3</span><p><b>Regra de ferro:</b> o que não está na escada, cobra à parte. Pedido avulso não vira buraco de tempo.</p></div>
+    <div class="rule"><span class="num">4</span><p><b>Preço por valor.</b> Problema de R$10k/mês aceita solução de R$3k; problema de R$500/mês não.</p></div>
+    <div class="rule"><span class="num">5</span><p><b>Conteúdo só na faixa completa</b> (R$397–597/mês) e com mínimo de 3 meses de contrato.</p></div>
+    <div class="rule"><span class="num">6</span><p><b>Google Ads e conteúdo mensal</b> entram apenas como add-on avulso — nunca embutidos.</p></div>
+    <div class="rule"><span class="num">7</span><p><b>Silêncio depois do preço.</b> Quem fala primeiro depois do número, perde a venda.</p></div>
+    <div class="rule"><span class="num">8</span><p><b>Reajuste a cada 6 meses.</b> Próximo previsto: <b>01/04/2027</b> (recall de 01/10/2026 já aplicado).</p></div>
+  </div>
+
+  <div class="foot">
+    <span><span class="dot"></span>APSIDE — sistema operacional do negócio</span>
+    <span>Guia de Preços · 01/10/2026 · página 3 de 3</span>
+  </div>
+</div>
+
+</body>
+</html>

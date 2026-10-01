@@ -33,7 +33,7 @@ O opencode descobre sozinho; este índice é para humanos e para o `RESOLVER.md`
 | `/cred-omega` | Auditoria e governança de credenciais. |
 | `/kpi-dashboard-design` | Dashboards de KPIs: métricas, visualização, monitoramento. |
 | `/data-storytelling` | Transforma dados em narrativas: gráficos, apresentações, relatórios. |
-| `/vender` | Script completo de venda presencial: Display → GMB → Site → Social. |
+| `/vender` | Script completo de venda presencial: Diagnóstico → GMB → Site → Social. |
 | `/prospecar` | Prospecção de clientes locais via Google Maps (scanner + score). |
 | `/prospecar-instagram` | Prospecção via Instagram: perfis ativos sem site/GMB → leads qualificados. |
 | `/proposta` | Gera proposta comercial com diagnóstico, soluções e preços. |

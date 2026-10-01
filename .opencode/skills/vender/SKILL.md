@@ -199,7 +199,7 @@ Com mais páginas (outras cidades/serviços):
 
 ## Regras
 
-- **O diagnóstico é a porta.** Não o Display NFC.
+- **O diagnóstico é a porta.** (Display NFC descontinuado em 01/10/2026 — não vender.)
 - **Cada cliente segue o caminho do problema.** Não existe funil obrigatório.
 - **Não inventar números.** Usar linguagem defensável: "seu concorrente tem mais avaliações" não "você aparece 40% menos".
 - **Sempre peça indicação.** "Tem algum colega que precise?"

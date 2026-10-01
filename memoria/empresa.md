@@ -43,15 +43,11 @@ Prospecção → Diagnóstico → Identificação do gargalo → Proposta de sol
 
 Cada cliente segue o caminho correspondente ao problema que possui. Não existe funil obrigatório.
 
-## Display NFC
+## Display NFC — descontinuado
 
-Continua existindo, mas não como porta de entrada principal:
-- Produto avulso (R$50, quem pedir, vende)
-- Ferramenta de demonstração presencial
-- Bônus de implementação (cliente que fecha projeto maior ganha a placa)
-- Parte de solução de avaliações
-
-A APSIDE não depende de vender muitas placas de R$50.
+**Não vender mais (ordem do Guilherme, 01/10/2026).**
+- Saiu de propostas, pacotes, scripts e do guia de preços (`vendas/escada-precos.md`).
+- Placas já entregues seguem configuradas — sem cobrança nova nem prospecção.
 
 ## Contexto adicional
 

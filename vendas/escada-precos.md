@@ -3,10 +3,11 @@
 > Faixas de preço por tipo de problema. Referência interna, não caminho obrigatório do cliente.
 > **Recall de 01/10/2026:** faixas repaginadas após análise da proposta Conta Gestor
 > (escopo cobrava chatbot dentro de R$1.497 — subfaturado ~70%). Fonte única: este arquivo.
+> **Display NFC descontinuado em 01/10/2026** — não vender, não cobrar, não incluir em propostas.
 
 ## PRINCÍPIO
 
-O cliente não compra um site, um CRM, um agente ou uma placa. Ele compra a resolução de um problema do negócio.
+O cliente não compra um site, um CRM ou um agente. Ele compra a resolução de um problema do negócio.
 
 O preço é definido por: tamanho da empresa, problema identificado, impacto financeiro, complexidade, escopo, risco, valor percebido, capacidade de entrega.
 
@@ -28,7 +29,6 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 - 3 serviços/produtos cadastrados
 - Respostas de avaliações (30 dias)
 - Google Analytics configurado
-- Display NFC configurado (bônus)
 
 **Prazo:** 2-5 dias
 
@@ -117,15 +117,11 @@ o recall de 01/10 corrige isso. Só vender se faturar a faixa completa (ver `est
 
 ---
 
-## DISPLAY NFC
+## DISPLAY NFC — DESCONTINUADO
 
-**Preço:** R$ 50 (avulso)
-
-**Custo:** ~R$ 15 | Margem: R$ 35 (70%)
-
-**Função:** Produto avulso, ferramenta de demonstração, bônus de implementação.
-
-A APSIDE não depende de vender muitas placas.
+**Não vender mais (ordem do operador, 01/10/2026).**
+- Fora de propostas, pacotes, scripts e do guia de preços.
+- Placas já entregues seguem configuradas (sem cobrança nova, sem prospecção).
 
 ---
 

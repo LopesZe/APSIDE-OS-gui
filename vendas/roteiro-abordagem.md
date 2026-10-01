@@ -1,6 +1,12 @@
 # ROTEIRO DE ABORDAGEM — PET SHOP (display NFC)
 
-> Estratégia: display = desculpa pra entrar e apertar a mão. GMB = ponte pro site.
+> ⚠️ **DESCONTINUADO (01/10/2026)** — o Display NFC **não é mais vendido** (ordem do
+> operador). Este roteiro fica como referência histórica de abordagem presencial.
+> Porta de entrada agora: raio-x do Google → Presença no Google (R$ 497–697),
+> conforme `vendas/escada-precos.md` e `vendas/script-venda-presencial.md`.
+> Não usar os trechos de venda do display abaixo.
+
+> Estratégia original: display = desculpa pra entrar e apertar a mão. GMB = ponte pro site.
 > Alfredo: fundador com a cara é o jeito mais barato de vender (#45). Mazzeo: entrega mais do que cobrou.
 
 ---
