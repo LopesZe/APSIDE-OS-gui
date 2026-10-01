@@ -161,7 +161,7 @@ Use tabela quando ajudar. Seja direto, sem enrolacao.
 
 #### Saida Markdown (interno)
 
-Salvar em `dados/seo/[nome-do-cliente]-[data]/diagnostico-seo.md` com a estrutura:
+Salvar em `analise/seo/[nome-do-cliente]-[data]/diagnostico-seo.md` com a estrutura:
 
 1. **Cabecalho** — nome, data, cidade, servico
 2. **Secao 1: Concorrente GMB** — categorias, servicos, areas, avaliacoes, pontos fortes/fracos
@@ -295,7 +295,7 @@ Quando o usuario pedir `/seo-gmb` ou "analisar SEO do [NOME]", rodar na ordem:
 ## Organizacao de arquivos
 
 ```
-dados/seo/[nome-do-cliente]-[data]/
+analise/seo/[nome-do-cliente]-[data]/
 ├── diagnostico-seo.md        ← relatorio markdown (interno)
 ├── relatorio-seo.html        ← HTML visual (fonte)
 ├── render-seo.js             ← script de renderizacao

@@ -2,21 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap');
+
 :root {
-  --navy: {{BG_COLOR}};
-  --navy-soft: {{BG_COLOR_SOFT}};
-  --green: {{PRIMARY_COLOR}};
-  --blue: {{ACCENT_COLOR}};
-  --ink: {{INK_COLOR}};
+  --lilac: #e8dff5;
+  --pink: #fce1e4;
+  --yellow: #fff3cd;
+  --mint: #d4f4dd;
+  --peach: #ffe5d9;
+  --blue: #d0e8ff;
+  --purple: #9b72cf;
+  --coral: #ff7f7f;
+  --green: #6bcf7f;
 }
 
-.container-page {
-  @apply mx-auto w-full max-w-[1200px] px-5 md:px-8;
-}
-
-::selection {
-  background: {{PRIMARY_COLOR}};
-  color: {{BG_COLOR}};
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -24,5 +27,17 @@ html {
 }
 
 body {
-  background: {{BG_COLOR}};
+  font-family: 'Nunito', -apple-system, sans-serif;
+  background: linear-gradient(180deg, #f5f0ff 0%, #fff5f5 50%, #f0fff4 100%);
+  color: #3d3d3d;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-[1200px] px-5 md:px-8;
+}
+
+::selection {
+  background: #e8dff5;
+  color: #3d3d3d;
 }

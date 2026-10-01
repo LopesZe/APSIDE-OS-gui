@@ -6,17 +6,22 @@ const config = {
   theme: {
     extend: {
       colors: {
-        navy: "{{BG_COLOR}}",
-        "navy-soft": "{{BG_COLOR_SOFT}}",
-        green: "{{PRIMARY_COLOR}}",
-        blue: "{{ACCENT_COLOR}}",
-        ink: "{{INK_COLOR}}",
+        lilac: "#e8dff5",
+        pink: "#fce1e4",
+        yellow: "#fff3cd",
+        mint: "#d4f4dd",
+        peach: "#ffe5d9",
+        blue: "#d0e8ff",
+        purple: "#9b72cf",
+        coral: "#ff7f7f",
+        green: "#6bcf7f",
+        cream: "#fffbf5",
       },
       fontFamily: {
-        sans: ["var(--font-inter)", "system-ui", "sans-serif"],
+        sans: ["Nunito", "sans-serif"],
       },
-      maxWidth: {
-        container: "1200px",
+      borderRadius: {
+        '4xl': '2rem',
       },
     },
   },
