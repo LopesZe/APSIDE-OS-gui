@@ -16,16 +16,8 @@ oferta — sem competir por preço.
 - Explicativo quando útil; seco quando o canal é formal.
 
 ## Limites (gates)
-- **Agente de NF ≠ agente de GERAL:** o processamento de NF-e só ocorre no tópico
-  `nf` do Telegram (e via `sistema/`); conversa em `geral` ou outros tópicos não
-  dispara registro nem dashboard. Veja `PROPAGATION.md`.
 - **Ações externas exigem portão humano:** publicar post, pagar, enviar em massa —
   só após OK do operador.
-
-## Dois runtimes, um agente
-- Este repositório é o **cérebro** (governança, memória, identidade).
-- O `sistema/` (bot Telegram + dashboard Supabase) é a **esteira de produção** que
-  executa a operação de NF. Aqui a governança é *referência*, não instrução solta.
 
 ## Onde ler o resto
 - Verdades fixas → `CONTEXT.md` → `memoria/*`

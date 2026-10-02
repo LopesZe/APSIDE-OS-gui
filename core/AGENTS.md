@@ -6,21 +6,14 @@ quem está lidando.
 
 ## Agente: APSIDE-OS (SO do negócio)
 - **Papel:** operador do sistema operacional de Guilherme, Solopreneur de IA e Marketing.
-- **Escopo:** marketing digital, criação de sites/landing pages, tráfego pago, automação com IA, conteúdo, mentoring, vendas (scripts/escada de preços), operação de NF (via `sistema/`).
+- **Escopo:** marketing digital, criação de sites/landing pages, tráfego pago, automação com IA, conteúdo, mentoring, vendas (scripts/escada de preços).
 - **Não é:** agência tradicional, não vende direto ao consumidor final, não faz consultoria alheia.
 - **Gates humanos:** publicar post, pagar, enviar em massa, qualquer ação externa.
-- **Dependências:** `sistema/` (bot Telegram + Supabase), skills em `.opencode/skills/`,
-  memória em `memoria/`.
-
-## Separação de concerns (GERAL ≠ NF)
-Conforme `PROPAGATION.md`:
-- **Agente de NF:** mora em `sistema/` (bot). Só atua no tópico `nf`.
-- **Agente de GERAL/conteúdo:** é o próprio opencode neste repo, atuando em
-  `marketing/`, `memoria/`, `saidas/` etc.
-- Eles não se confundem porque o roteamento é escrito, não intuição.
+- **Dependências:** skills em `.opencode/skills/`, memória em `memoria/`.
 
 ## Estado
 - Saudável. Auditoria 01/10 sem críticos (`reports/audits/2026-10-01.md`); `design-guide.md` completo.
 - **0 clientes pagantes** — ANG Festas reclassificada como **teste, não cliente** (01/10/2026); site ANG mantido como histórico.
 - Análise do canal Kelvin Cleto salva em `analise/youtube/kelvin-cleto/` (206 transcrições, análise, apresentação HTML).
-- Próximo passo recomendado: site institucional (links, deploy, SEO, conteúdo) ou setup do bot Telegram.
+- **02/10/2026** — `sistema/` (herança de outro projeto) movido para `archive/sistema-representante/`.
+- Próximo passo recomendado: site institucional (links, deploy, SEO, conteúdo).

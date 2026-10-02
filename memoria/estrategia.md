@@ -5,13 +5,36 @@
 
 ## Fase
 
-Foco em entregáveis — dominar GMB e criação de site antes de prospectar.
+Reposicionamento em curso (02/10/2026): sair de "vender peças" (landing page,
+post avulso) pra "consultoria que opera o resultado" — diagnóstico → dashboard →
+operacao recorrente.
+
+## Direção (decisão pendente de OK do Guilherme)
+
+Mudança de modelo proposta em 02/10/2026, baseada na análise do canal Kelvin Cleto
+(`analise/youtube/kelvin-cleto/`) e do case SP Alumínio/Kistra OS:
+
+1. **Porta de entrada:** diagnóstico pago (GMB + site + dados) — mantém o que já
+   funciona hoje.
+2. **Palco 2 — setup:** dashboard/CRM do cliente rodando (ranking de clientes por
+   margem, tracking de site/redes, funil). Personalizar o *entendimento* do cliente,
+   entregar plataforma padronizada (reuso por vertical).
+3. **Palco 3 — recorrência:** operação + medição contínua, com fixo + variável
+   (% sobre resultado), sem teto — é essa a alavanca de preço do modelo Kelvin.
+
+**Nicho candidato a validar:** contabilidade (tese "Contab OS" — margem 30% →
+50-60%, "instala numa, instala na outra"). Ainda não validado com cliente real.
+
+**Ferramenta de CRM:** não construir agora. Decidir a base (HubSpot Free /
+planilha / Twenty / Frappe CRM / ERPNext) quando o primeiro cliente pagante
+definir a complexidade. ERPNext avaliado em 02/10: módulo CRM depreciado,
+pesado — descartado como base imediata.
 
 ## Prioridade principal
 
-**Dominar entrega:** Google Meu Negócio + criação de site.
+**Dominar entrega:** Google Meu Negócio + criação de site (base de tudo).
 
-Prospecção fica em pausa. O foco agora é ficar bom no que importa.
+Prospecção segue pausada até a oferta ser reescrita no novo formato.
 
 ## O que fazer agora
 

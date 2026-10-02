@@ -11,8 +11,7 @@ Checa a saúde do {{OS_NAME}}: memória, identidade, status operacional e depend
 3. **Verificar `HEARTBEAT.md`** — última auditoria não muito antiga?
 4. **Verificar `MAPA.md`** — sem donos conflitantes?
 5. **Verificar arquivos órfãos** — todo `.md` aponta para um dono em `MAPA.md`?
-6. **Verificar status do bot** — `sistema/bot.lock` com PID vivo?
-7. **Verificar GitHub** — último push recente?
+6. **Verificar GitHub** — último push recente?
 
 ## Saída
 

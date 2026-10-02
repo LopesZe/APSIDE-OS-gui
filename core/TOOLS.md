@@ -5,9 +5,6 @@ em `.env` (ignorado pelo git) — **nunca** neste arquivo.
 
 ## Conectadas / em uso
 - **opencode** — agente e skills (este repo).
-- **Telegram** — bot (configurar via .env) no grupo (configurar via .env) (tópicos `geral`/`nf`);
-  entrada das NFs.
-- **Supabase** — banco de pedidos/NFs/dashboard (`sistema/`).
 - **GitHub** — versionamento (`/salvar` faz commit+push).
 - **Playwright** — render de carrosséis/posts em PNG.
 - **Apify** — scraping de Google Maps, Instagram, Facebook, LinkedIn (`APIFY_API_TOKEN` no `.env`).
@@ -22,5 +19,5 @@ em `.env` (ignorado pelo git) — **nunca** neste arquivo.
 - [ ] Google Ads
 
 ## Regras
-- Credenciais nunca no git (`.env` e `sistema/.env` estão no `.gitignore`).
+- Credenciais nunca no git (`.env` está no `.gitignore`).
 - Toda ferramenta nova entra aqui e, se virar procedimento recorrente, vira skill.

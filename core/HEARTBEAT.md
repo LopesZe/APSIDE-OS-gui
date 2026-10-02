@@ -7,25 +7,20 @@ sensível — vive versionado no git (Regra 4 de `RULES.md`).
 ultima_sincronizacao:  2026-10-01
 ultima_auditoria:      2026-10-01
 pendencias_vencidas:   nenhuma (1 item condicional em memoria/pendencias.md)
-estado_telegram:       não configurado (.env inexistente)
 github:                01/10 — sync desta sessão (análise Kelvin Cleto + ANG reclassificada como teste)
 ```
-
-## Status operacional do sistema NF
-
-> Dono do status operacional do `sistema/` (bot Telegram + Supabase + dashboard).
-
-- **Bot:** (status preenchido pelo setup)
-- **Telegram:** (grupo e tópicos preenchidos pelo setup)
-- **Supabase / .env:** (configurados pelo setup)
-- **Dashboard:** `sistema/dashboard/` (Hono + `server.js`), sobe em `npm run dev`/`start`.
 
 ## Alertas a resolver
 
 - **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
-- **Bot Telegram nunca configurado** — `sistema/.env` e `bot.lock` ausentes; setup pendente
 - **`diarios/` vazio** — registro diário parado desde o início (`decisoes/` iniciado em 01/10 com o recall de preços)
 - **MAPA incompleto** — `site/` e `reports/` sem dono na tabela
+
+## Histórico
+
+- **02/10/2026** — `sistema/` (bot Telegram + dashboard Supabase, herança de outro
+  projeto — modelo de representante comercial) movido para
+  `archive/sistema-representante/`. Nunca foi configurado nem rodou.
 
 ## Auditoria — 2026-10-01 (relatório: `reports/audits/2026-10-01.md`)
 

@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>APSIDE — Decisão de Modelo: de peça avulsa a consultoria que opera o resultado</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --marinho:#1F2133;
+  --branco:#FFFFFF;
+  --verde:#00E65B;
+  --azul:#0066FF;
+  --roxo:#6E00FF;
+  --grad:linear-gradient(90deg,#00E65B 0%,#0066FF 50%,#6E00FF 100%);
+  --borda-escura:rgba(255,255,255,0.08);
+  --borda-clara:rgba(0,0,0,0.08);
+  --sombra-escura:0 4px 24px rgba(0,0,0,0.4);
+  --sombra-clara:0 4px 24px rgba(0,0,0,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Inter',sans-serif;background:#0d0e17;color:#fff;line-height:1.6}
+h1,h2,h3,.dm{font-family:'DM Sans',sans-serif}
+
+#progress{position:fixed;top:0;left:0;height:4px;width:0;background:var(--grad);z-index:99;transition:width .2s}
+#counter{position:fixed;right:20px;bottom:20px;z-index:99;font-size:12px;letter-spacing:.08em;background:rgba(31,33,51,.85);border:1px solid var(--borda-escura);color:#fff;padding:8px 14px;border-radius:12px;backdrop-filter:blur(8px)}
+
+.slide{min-height:100vh;padding:80px 8vw;display:flex;flex-direction:column;justify-content:center;position:relative}
+.slide.dark{background:var(--marinho);color:#fff}
+.slide.light{background:var(--branco);color:#000}
+.slide .kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;font-weight:600;margin-bottom:18px}
+.slide.dark .kicker{color:var(--verde)}
+.slide.light .kicker{color:var(--azul)}
+.slide h2{font-size:clamp(30px,4.4vw,54px);font-weight:700;line-height:1.12;margin-bottom:28px;max-width:1000px}
+.slide p.lead{font-size:clamp(16px,1.6vw,21px);max-width:860px;opacity:.85;margin-bottom:28px}
+.slide.dark .accent{color:var(--verde)}
+.slide.light .accent{color:var(--azul)}
+.gradbar{width:120px;height:4px;background:var(--grad);border-radius:4px;margin-bottom:30px}
+.topbar{position:absolute;top:36px;left:8vw;right:8vw;display:flex;justify-content:space-between;align-items:center}
+.topbar img{height:30px}
+.topbar .sec{font-size:12px;letter-spacing:.14em;text-transform:uppercase;opacity:.5;font-weight:600}
+
+/* cards */
+.grid{display:grid;gap:18px}
+.g2{grid-template-columns:repeat(2,1fr)}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+.card{border-radius:12px;padding:26px}
+.slide.dark .card{background:rgba(255,255,255,.04);border:1px solid var(--borda-escura);box-shadow:var(--sombra-escura)}
+.slide.light .card{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.card h3{font-size:17px;font-weight:600;margin-bottom:10px}
+.card p{font-size:14.5px;opacity:.8}
+.card .num{font-family:'DM Sans',sans-serif;font-size:38px;font-weight:700;line-height:1;margin-bottom:8px}
+.slide.dark .card .num{color:var(--verde)}
+.slide.light .card .num{color:var(--azul)}
+.card .tag{display:inline-block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;padding:4px 10px;border-radius:12px;margin-bottom:14px}
+.tag.grad{background:var(--grad);color:#fff}
+.tag.out{border:1px solid currentColor}
+.slide.dark .tag.out{color:var(--verde)}
+.slide.light .tag.out{color:var(--azul)}
+
+/* quote */
+.quote{border-radius:12px;padding:34px 36px;position:relative;max-width:960px}
+.slide.dark .quote{background:rgba(0,230,91,.06);border:1px solid rgba(0,230,91,.25)}
+.slide.light .quote{background:rgba(0,102,255,.05);border:1px solid rgba(0,102,255,.2)}
+.quote .mark{font-family:'DM Sans',sans-serif;font-size:64px;line-height:.6;opacity:.35;display:block;margin-bottom:10px}
+.slide.dark .quote .mark{color:var(--verde)}
+.slide.light .quote .mark{color:var(--azul)}
+.quote blockquote{font-family:'DM Sans',sans-serif;font-size:clamp(18px,2vw,25px);font-weight:500;line-height:1.4}
+.quote cite{display:block;margin-top:14px;font-style:normal;font-size:13px;opacity:.6}
+
+/* table */
+table{width:100%;border-collapse:collapse;border-radius:12px;overflow:hidden;font-size:15px}
+.slide.dark th{background:rgba(255,255,255,.06);color:var(--verde)}
+.slide.light th{background:rgba(0,102,255,.07);color:var(--azul)}
+th,td{padding:16px 18px;text-align:left;border-bottom:1px solid}
+.slide.dark th,.slide.dark td{border-color:var(--borda-escura)}
+.slide.light th,.slide.light td{border-color:var(--borda-clara)}
+th{font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:.08em;text-transform:uppercase;font-weight:600}
+td:first-child{font-weight:600}
+tr:last-child td{border-bottom:none}
+td.bad{opacity:.55}
+td.good{font-weight:600}
+.slide.dark td.good{color:var(--verde)}
+.slide.light td.good{color:var(--azul)}
+
+/* stage / timeline */
+.stages{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;counter-reset:st}
+.stage{border-radius:12px;padding:28px;position:relative;overflow:hidden}
+.slide.dark .stage{background:rgba(255,255,255,.04);border:1px solid var(--borda-escura)}
+.slide.light .stage{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.stage::before{content:"";position:absolute;top:0;left:0;right:0;height:4px;background:var(--grad)}
+.stage .st-n{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin-bottom:12px}
+.slide.dark .stage .st-n{color:var(--verde)}
+.slide.light .stage .st-n{color:var(--azul)}
+.stage h3{font-size:20px;margin-bottom:10px}
+.stage p{font-size:14.5px;opacity:.8;margin-bottom:14px}
+.stage .price{font-family:'DM Sans',sans-serif;font-weight:700;font-size:24px}
+.stage ul{list-style:none;font-size:14px}
+.stage li{padding-left:20px;position:relative;margin-bottom:6px;opacity:.85}
+.stage li::before{content:"✓";position:absolute;left:0;font-weight:700}
+.slide.dark .stage li::before{color:var(--verde)}
+.slide.light .stage li::before{color:var(--azul)}
+
+/* option cards */
+.opt{border-radius:12px;padding:30px;display:flex;flex-direction:column;gap:12px}
+.slide.light .opt{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.opt.rec{border:2px solid transparent;background:
+  linear-gradient(#fff,#fff) padding-box,
+  var(--grad) border-box;
+  box-shadow:0 8px 32px rgba(0,102,255,.18)}
+.opt .opt-h{display:flex;align-items:center;gap:10px}
+.opt .opt-h .badge{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:5px 12px;border-radius:12px;background:var(--grad);color:#fff}
+.opt h3{font-size:21px}
+.opt ul{list-style:none;font-size:14.5px;flex:1}
+.opt li{padding-left:22px;position:relative;margin-bottom:8px}
+.opt li::before{content:"—";position:absolute;left:0;opacity:.5}
+.opt .verdict{font-family:'DM Sans',sans-serif;font-weight:700;font-size:15px;padding-top:12px;border-top:1px solid var(--borda-clara)}
+.opt.rec .verdict{color:var(--azul)}
+
+/* checklist */
+.check{list-style:none;max-width:820px}
+.check li{display:flex;gap:16px;align-items:flex-start;padding:16px 0;border-bottom:1px solid}
+.slide.dark .check li{border-color:var(--borda-escura)}
+.slide.light .check li{border-color:var(--borda-clara)}
+.check .box{min-width:26px;height:26px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;margin-top:2px}
+.slide.dark .check .box{border:1.5px solid var(--verde);color:var(--verde)}
+.slide.light .check .box{border:1.5px solid var(--azul);color:var(--azul)}
+.check b{font-family:'DM Sans',sans-serif;font-weight:600;display:block;font-size:16px}
+.check span{font-size:14px;opacity:.75}
+
+/* risk */
+.risk{border-radius:12px;padding:22px 24px;display:flex;gap:16px;align-items:flex-start}
+.slide.dark .risk{background:rgba(255,255,255,.04);border:1px solid var(--borda-escura)}
+.slide.light .risk{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.risk .rn{font-family:'DM Sans',sans-serif;font-weight:700;font-size:22px;min-width:36px}
+.slide.dark .risk .rn{color:var(--verde)}
+.slide.light .risk .rn{color:var(--azul)}
+.risk b{display:block;font-family:'DM Sans',sans-serif;font-size:16px;margin-bottom:4px}
+.risk p{font-size:14px;opacity:.8}
+
+.divider{height:1px;background:var(--grad);opacity:.5;margin:30px 0;max-width:400px}
+.small{font-size:13px;opacity:.55;max-width:820px}
+.footer-note{position:absolute;bottom:30px;left:8vw;right:8vw;display:flex;justify-content:space-between;font-size:12px;opacity:.45;letter-spacing:.06em}
+
+@media(max-width:900px){
+  .g2,.g3,.g4,.stages{grid-template-columns:1fr}
+  .slide{padding:70px 6vw}
+  table{font-size:13.5px}
+  th,td{padding:12px 10px}
+}
+@media print{
+  .slide{min-height:auto;page-break-after:always;padding:40px}
+  #progress,#counter{display:none}
+}
+</style>
+</head>
+<body>
+
+<div id="progress"></div>
+<div id="counter">APSIDE · 02/10/2026</div>
+
+<!-- 1 CAPA -->
+<section class="slide dark">
+  <div class="topbar">
+    <img src="../identidade/logo-apside.svg" alt="APSIDE">
+    <span class="sec">Decisão de modelo · 02/10/2026</span>
+  </div>
+  <div class="gradbar"></div>
+  <div class="kicker">Documento pra decisão — não é proposta, é evidência</div>
+  <h1 style="font-family:'DM Sans';font-size:clamp(38px,6vw,74px);font-weight:700;line-height:1.05;max-width:1100px;margin-bottom:26px">
+    De vender <span class="accent" style="text-decoration:line-through;text-decoration-thickness:3px;opacity:.55">peças</span> a operar o <span class="accent">resultado</span> do cliente.
+  </h1>
+  <p class="lead">Análise das transcrições do Kelvin Cleto (206 vídeos), do case SP Alumínio, do ERPNext e do nosso sistema — montada pra uma decisão só: <b>mudar o modelo ou não mudar.</b></p>
+  <div class="grid g4" style="margin-top:14px">
+    <div class="card"><span class="tag out">Base</span><div class="num">206</div><p>vídeos do canal Kelvin Cleto analisados</p></div>
+    <div class="card"><span class="tag out">Prova</span><div class="num">1</div><p>case real de cliente vendo o próprio número (SP Alumínio)</p></div>
+    <div class="card"><span class="tag out">Ferramenta</span><div class="num">3</div><p>bases de CRM avaliadas — nenhuma comprada hoje</p></div>
+    <div class="card"><span class="tag out">Hoje</span><div class="num">0</div><p>clientes pagantes — o momento certo pra decidir direção</p></div>
+  </div>
+  <div class="footer-note"><span>APSIDE — Sistema Operacional do Negócio</span><span>1 / 10</span></div>
+</section>
+
+<!-- 2 DIAGNÓSTICO -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Onde a gente está</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Diagnóstico honesto</div>
+  <h2>A estrutura ficou boa.<br>O funil continuou <span class="accent">vazio</span>.</h2>
+  <p class="lead">Números do próprio repo em 02/10/2026. O sistema não está perdido por excesso de regra — está perdido porque rodou em loop interno enquanto ninguém vendia.</p>
+  <div class="grid g4" style="margin-bottom:26px">
+    <div class="card"><div class="num">0</div><h3>Clientes pagantes</h3><p>Meta: 10 em 60-90 dias. Ticket atual R$ 497-697.</p></div>
+    <div class="card"><div class="num">1</div><h3>Item na fila</h3><p>1 pendência em 3 semanas de operação — o CRM (`dados/crm.md`) vazio.</p></div>
+    <div class="card"><div class="num">32/39</div><h3>Skills intocadas</h3><p>Criadas em um dia, nunca usadas. 23 sem saída verificável.</p></div>
+    <div class="card"><div class="num">0</div><h3>Commits de entrega</h3><p>Em 01/10: 10 commits internos (preços, guia, estudo). Zero pra cliente.</p></div>
+  </div>
+  <div class="quote" style="max-width:100%">
+    <span class="mark">“</span>
+    <blockquote>Não criar mais skills, páginas, automações e estruturas antes de dominar a entrega.</blockquote>
+    <cite>A regra escrita por nós mesmos — em <b>memoria/estrategia.md</b> — violada no mesmo dia em que foi reescrita.</cite>
+  </div>
+  <div class="footer-note"><span>Diagnóstico do sistema</span><span>2 / 10</span></div>
+</section>
+
+<!-- 3 A TESE -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">A tese da mudança</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">O que o Kelvin ensina — e o case comprova</div>
+  <h2>Cliente não compra a peça.<br>Compra a <span class="accent">decisão com número na tela</span>.</h2>
+  <div class="quote">
+    <span class="mark">“</span>
+    <blockquote>Eu tenho um cliente que tá me dando prejuízo, compensa esse cara? Eu tenho um cliente que me dá mais renda, por que eu não incentivo esse cara? Antigamente a gente tomava decisão no feeling; hoje eu entro aqui, vejo: <b>esse fulano dá 100% de margem</b>.</blockquote>
+    <cite>Ivan — diretor operacional da SP Alumínio (fábrica de R$ 90 milhões), vídeo vHfpd0Azp0c, transcrição l.843-855</cite>
+  </div>
+  <div class="grid g3" style="margin-top:28px">
+    <div class="card"><span class="tag grad">Peça</span><h3>landing page por R$ 497</h3><p>Vende uma vez. Cliente compara com o concorrente. Próximo mês você recomeça do zero.</p></div>
+    <div class="card"><span class="tag grad">Sistema</span><h3>dashboard que mostra o número</h3><p>Cliente vê margem por cliente, funil, tracking. Você virou quem ele consulta pra decidir.</p></div>
+    <div class="card"><span class="tag grad">Consequência</span><h3>recorrência sem renegociação</h3><p>Fixo + % sobre resultado cresce sozinho conforme o cliente cresce. É como o Kelvin saiu de R$ 5k pra R$ 81k.</p></div>
+  </div>
+  <div class="footer-note"><span>Tese</span><span>3 / 10</span></div>
+</section>
+
+<!-- 4 COMPARATIVO -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Modelo atual × modelo proposto</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">A diferença, linha por linha</div>
+  <h2>Mesma entrega de base.<br><span class="accent">Relação e preço</span> completamente diferentes.</h2>
+  <table>
+    <thead><tr><th></th><th>Hoje (peça avulsa)</th><th>Proposto (consultoria operada)</th></tr></thead>
+    <tbody>
+      <tr><td>Porta de entrada</td><td class="bad">GMB + landing page</td><td class="good">Diagnóstico pago (GMB + site + dados)</td></tr>
+      <tr><td>O que o cliente vê</td><td class="bad">Uma peça pronta</td><td class="good">Tela com o número do próprio negócio</td></tr>
+      <tr><td>Preço</td><td class="bad">R$ 497-697 fixo</td><td class="good">Setup + fixo mensal + % sem teto</td></tr>
+      <tr><td>Relação</td><td class="bad">Fornecedor (um por vez)</td><td class="good">Parceiro de decisão do dono</td></tr>
+      <tr><td>Próximo cliente</td><td class="bad">Começa do zero</td><td class="good">Reuso: 20% → 40% → cópia quase pronta</td></tr>
+      <tr><td>Fim do contrato</td><td class="bad">Entrega concluída, tchau</td><td class="good">Operação contínua (medição + melhoria)</td></tr>
+      <tr><td>Nicho</td><td class="bad">Qualquer um, cada caso é um caso</td><td class="good">Vertical (contabilidade): instala numa, instala na outra</td></tr>
+    </tbody>
+  </table>
+  <p class="small" style="margin-top:18px">Importante: a personalização fica na <b>entrevista</b> (kickoff, ICP, dores do cliente), não na entrega. O Kelvin ataca explicitamente o "100% feito à mão" como armadilha — e é ele quem tem razão: é o que não escala.</p>
+  <div class="footer-note"><span>Comparativo</span><span>4 / 10</span></div>
+</section>
+
+<!-- 5 ESCADA -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">A escada de preço</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Modelo de 4 blocos do Kelvin — adaptado pra quem tem 0 clientes</div>
+  <h2>Entra barato no diagnóstico.<br>Ganha no <span class="accent">fixo + variável</span>.</h2>
+  <div class="stages">
+    <div class="stage">
+      <div class="st-n">Palco 1 — Entrada</div>
+      <h3>Diagnóstico</h3>
+      <p>GMB + site + dados. Paga o próprio trabalho e <b>já gera a proposta do palco 2</b> (o mapa de gargalos é a própria proposta de valor).</p>
+      <div class="price">R$ 497–697</div>
+      <ul><li>É o que já dominamos hoje</li><li>Curto, visível, sem recorrência</li></ul>
+    </div>
+    <div class="stage">
+      <div class="st-n">Palco 2 — Implantação</div>
+      <h3>Setup do sistema</h3>
+      <p>Dashboard/CRM do cliente no ar: ranking de clientes por margem, funil, tracking de site e redes.</p>
+      <div class="price">10% do valor gerado</div>
+      <ul><li>Conta Kelvin: setup = 10% do impacto anual</li><li>Personaliza no entendimento, padroniza na entrega</li></ul>
+    </div>
+    <div class="stage">
+      <div class="st-n">Palco 3 — Operação</div>
+      <h3>Recorrência</h3>
+      <p>Relatório mensal: "esse cliente te dá prejuízo, esse dá margem", melhorias, decisões. A perna que não precisa de renegociação.</p>
+      <div class="price">10–20% do setup /mês + %</div>
+      <ul><li>Variável sem teto = parceria de verdade</li><li>É o que segura o cliente (barreira de troca)</li></ul>
+    </div>
+  </div>
+  <div class="divider"></div>
+  <p class="small">Referências reais do canal (autoafirmadas, canal é funil da mentoria): R$ 81.000 de implantação + R$ 3.500/mês + comissão · R$ 78.900 + R$ 3.875/mês + 2,5% sobre resultado. <b>Não existe no corpus reajuste temporal de preço</b> — a escalada vem do variável e da venda por etapas. Nossa entrada provavelmente é mais baixa: sem case, entra-se pelo diagnóstico e cresce pelo palco 3.</p>
+  <div class="footer-note"><span>Preço</span><span>5 / 10</span></div>
+</section>
+
+<!-- 6 CASE -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">A prova</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Case SP Alumínio / Kistra OS — vídeo vHfpd0Azp0c</div>
+  <h2>O cliente <span class="accent">vendo o próprio número</span> — é isso que a gente quer entregar.</h2>
+  <div class="grid g2" style="margin-bottom:22px">
+    <div class="card">
+      <span class="tag out">O que ele construiu</span>
+      <h3>O "Kistra OS"</h3>
+      <p>Custo real por produto · tempo de produção por ordem · DRE gerencial de 2 dias → 2 minutos · paradas de máquina por causa · <b>margem por cliente</b> · simulação de nicho ("se focar, 200t em vez de 250t").</p>
+    </div>
+    <div class="card">
+      <span class="tag out">O que ele decidiu com isso</span>
+      <h3>De feeling pra dado</h3>
+      <p>"A operação era cega e agora eu tenho número." Descobriu cliente que dá 100% de margem e cliente que dá prejuízo — e que a estratégia comercial era a única área ainda "devedora".</p>
+    </div>
+  </div>
+  <div class="grid g2">
+    <div class="card" style="border-left:4px solid var(--azul)">
+      <h3 style="color:var(--azul)">A lição pra nós</h3>
+      <p>O Kelvin <b>não vendeu o sistema</b>. O cliente levou 14 anos pra construir. O Kelvin entrou por cima, lendo os números e definindo estratégia — e a Kistra virou parceira dele. O produto do consultor é a <b>leitura dos dados</b>, não o software.</p>
+    </div>
+    <div class="card" style="border-left:4px solid var(--azul)">
+      <h3 style="color:var(--azul)">A tradução pro nosso caso</h3>
+      <p>Não prometemos "vou construir seu Kistra". Prometemos: <b>"vou te mostrar, com seus números, onde o dinheiro vaza"</b> — e o sistema cresce por cliente, ficando mais barato a cada um (reuso 20% → 40%).</p>
+    </div>
+  </div>
+  <div class="footer-note"><span>Prova</span><span>6 / 10</span></div>
+</section>
+
+<!-- 7 NICHO -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">O nicho candidato</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Contabilidade — tese, ainda não validada</div>
+  <h2>Um serviço, <span class="accent">vários escritórios</span> — "instala numa, instala na outra".</h2>
+  <div class="grid g3" style="margin-bottom:24px">
+    <div class="card"><span class="tag grad">Tese</span><div class="num">30% → 50%</div><h3>Margem do contador</h3><p>É a promessa do "Contab OS" no vídeo bothSW8gdhI: o escritório com sistema pula de 30% pra 50-60% de margem.</p></div>
+    <div class="card"><span class="tag grad">Reuso</span><div class="num">1→N</div><h3>Mesmo problema, todo escrito</h3><p>Contabilidade tem sempre as mesmas dores: atendimento, envio de documentos, follow-up, cobrança, base parada.</p></div>
+    <div class="card"><span class="tag grad">Qualificação</span><div class="num">dono</div><h3>Vender pro sócio</h3><p>Sócio decide, não analista. Quem não tem ERP = mercado que precisa evangelizar = outro produto, mais barato.</p></div>
+  </div>
+  <div class="quote">
+    <span class="mark">“</span>
+    <blockquote>O cliente não quer um mapa dos seus processos. Ele quer clientes. Ele quer vender mais. Ele quer uma operação em andamento.</blockquote>
+    <cite>Kelvin Cleto — "A consultoria tradicional morreu" (Fd1fSzcIEVI, l.88-97)</cite>
+  </div>
+  <p class="small" style="margin-top:18px"><b>Honestidade:</b> não existe case contábil detalhado nas transcrições — é tese do Kelvin, não prova. Antes de construir qualquer coisa: 5 conversas com contabilidades da região pra validar a dor. Se a dor não aparecer, a escada (palcos 1-2-3) continua valendo pra qualquer vertical.</p>
+  <div class="footer-note"><span>Nicho</span><span>7 / 10</span></div>
+</section>
+
+<!-- 8 O QUE MUDA / NÃO MUDA -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Impacto no sistema</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">O que já mudou hoje e o que continua igual</div>
+  <h2>Mudamos o <span class="accent">produto</span>.<br>A governança continua de pé.</h2>
+  <div class="grid g2">
+    <div class="card" style="border-top:4px solid var(--azul)">
+      <h3>Já feito (02/10)</h3>
+      <ul style="list-style:none;font-size:15px">
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">✔ <b>sistema/ arquivado</b> — era de outro projeto (modelo de representante comercial), nunca rodou</li>
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">✔ Referências limpas (MAPA, PROPAGATION, IDENTITY, HEARTBEAT, TOOLS)</li>
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">✔ Análise do Kelvin salva (206 vídeos) + case SP Alumínio em nota</li>
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">✔ Estratégia atualizada com a escada de 3 palcos</li>
+        <li style="padding:9px 0"><b>✔ Skills mantidas</b> — serão usadas quando houver clientes (decisão do Guilherme)</li>
+      </ul>
+    </div>
+    <div class="card" style="border-top:4px solid #d4d4d8">
+      <h3>Não muda (é a base)</h3>
+      <ul style="list-style:none;font-size:15px">
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">— Governança enxuta: 37 arquivos, 95 KB — funciona, mantém</li>
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">— Gates humanos: nada publica/paga/envia sem OK</li>
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">— GMB e site: continuam sendo o palco 1, a porta de entrada</li>
+        <li style="padding:9px 0;border-bottom:1px solid var(--borda-clara)">— Prospecção pausada até a oferta estar reescrita no formato novo</li>
+        <li style="padding:9px 0"><b>— CRM nosso interno:</b> não construir. HubSpot Free/planilha resolve 0-10 clientes</li>
+      </ul>
+    </div>
+  </div>
+  <div class="divider"></div>
+  <p class="small"><b>ERPNext avaliado e descartado como base imediata:</b> módulo CRM oficialmente depreciado (some na v17), é um ERP de 12 módulos (4GB RAM, Linux, MariaDB), sem localização fiscal BR mantida. Quando o primeiro cliente pagante existir, a escolha será entre <b>Twenty</b> ou <b>Frappe CRM</b> (leves) — ou adaptar algo existente. Decisão adiada por motivo certo: cliente primeiro, ferramenta depois.</p>
+  <div class="footer-note"><span>Sistema</span><span>8 / 10</span></div>
+</section>
+
+<!-- 9 RISCOS -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">O que pode dar errado</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Riscos nomeados (regra: honesto sobre limitações)</div>
+  <h2>Os cinco motivos pra <span class="accent">NÃO</span> mudar — dito antes da decisão.</h2>
+  <div class="grid" style="gap:14px;max-width:1000px">
+    <div class="risk"><span class="rn">01</span><div><b>Sem case, sem prova.</b><p>Ticket alto exige credibilidade. Por isso o palco 1 (diagnóstico barato) é obrigatório: é ele que compra o seu primeiro case.</p></div></div>
+    <div class="risk"><span class="rn">02</span><div><b>Dashboard exige dados do cliente.</b><p>Integração, limpeza e cadastro são trabalho real por cliente. Tem que estar no preço do setup, senão come a margem.</p></div></div>
+    <div class="risk"><span class="rn">03</span><div><b>Nicho contabilidade não validado.</b><p>É tese do vídeo, não nosso contato. Risco de construir oferta que ninguém compra — mitigação: 5 conversas antes de qualquer linha de código.</p></div></div>
+    <div class="risk"><span class="rn">04</span><div><b>Operação consome hora todo mês.</b><p>Palco 3 = relatório, reunião, melhoria. Se não precificar a operação, vira "emprego" (o erro que o Kelvin chama de construir emprego e não negócio).</p></div></div>
+    <div class="risk"><span class="rn">05</span><div><b>Os números do canal são autoafirmados.</b><p>R$ 81k, R$ 78,9k — sem contrato nem nota mostrados. O canal é funil da mentoria. Serve de modelo de estrutura, não de garantia de faturamento.</p></div></div>
+  </div>
+  <div class="footer-note"><span>Riscos</span><span>9 / 10</span></div>
+</section>
+
+<!-- 10 DECISÃO -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">A decisão</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Três caminhos — um recomendado</div>
+  <h2>Escolher. Sem rodeio.</h2>
+  <div class="grid g3" style="margin-bottom:30px">
+    <div class="opt">
+      <div class="opt-h"><span class="badge" style="background:#a1a1aa">A</span><h3>Manter como está</h3></div>
+      <ul>
+        <li>Continuar vendendo GMB + landing page a R$ 497-697</li>
+        <li>Sem recorrência, sem dashboard, sem nicho</li>
+        <li>Cada cliente = projeto novo do zero</li>
+      </ul>
+      <div class="verdict" style="color:#71717a">Veredito: estagna na mesma faixa de preço</div>
+    </div>
+    <div class="opt rec">
+      <div class="opt-h"><span class="badge">B · Recomendado</span><h3>Migração em 2 etapas</h3></div>
+      <ul>
+        <li>Etapa 1 (semana 1-2): reescrever a escada de preços no formato 3 palcos + 5 conversas com contabilidades pra validar a dor</li>
+        <li>Etapa 2 (mês 1-2): primeiro diagnóstico pago em formato novo, montar o 1º dashboard com dados reais do cliente</li>
+        <li>Não construir CRM genérico antes — construir com o dado do cliente na mão</li>
+        <li>GMB/site continuam rodando como palco 1 (o que já funciona)</li>
+      </ul>
+      <div class="verdict">Veredito: testa a tese sem queimar caixa nem tempo</div>
+    </div>
+    <div class="opt">
+      <div class="opt-h"><span class="badge" style="background:#a1a1aa">C</span><h3>Mudar tudo agora</h3></div>
+      <ul>
+        <li>Construir dashboard/CRM completo antes do cliente</li>
+        <li>Escolher base (ERPNext/Twenty/Frappe) e adaptar</li>
+        <li>Reposicionar marca e oferta de uma vez</li>
+      </ul>
+      <div class="verdict" style="color:#71717a">Veredito: repete o erro de 01/10 — estrutura antes da entrega</div>
+    </div>
+  </div>
+  <h3 style="font-size:20px;margin-bottom:6px">Se a resposta for B, os 5 primeiros passos:</h3>
+  <ul class="check">
+    <li><span class="box">1</span><div><b>Reescrever vendas/escada-precos.md no formato dos 3 palcos</b><span>Diagnóstico → Setup → Operação, com a conta (10% do valor gerado) escrita</span></div></li>
+    <li><span class="box">2</span><div><b>5 conversas de validação com escritórios contábeis</b><span>Só escutar: qual é o gargalo? Já tentaram comprar algo? Quem decide?</span></div></li>
+    <li><span class="box">3</span><div><b>Montar 1 diagnóstico template (o produto do palco 1)</b><span>GMB + site + base de clientes — é ele que gera a proposta do palco 2</span></div></li>
+    <li><span class="box">4</span><div><b>Fechar o site institucional (index.html + deploy)</b><span>Ativo de venda parado desde 16/09 — precisa no ar antes de qualquer prospecção</span></div></li>
+    <li><span class="box">5</span><div><b>Decidir a ferramenta de CRM só depois do "sim" do cliente</b><span>Twenty vs Frappe CRM vs adaptar — o cliente paga, aí a escolha tem dono</span></div></li>
+  </ul>
+  <div class="footer-note"><span>Decisão: A, B ou C?</span><span>10 / 10</span></div>
+</section>
+
+<script>
+const bar=document.getElementById('progress');
+addEventListener('scroll',()=>{
+  const h=document.documentElement.scrollHeight-innerHeight;
+  bar.style.width=(scrollY/h*100)+'%';
+});
+</script>
+</body>
+</html>

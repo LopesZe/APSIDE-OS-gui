@@ -1,8 +1,8 @@
 # APSIDE-OS
 
-**Sistema operacional universal para negócios.**
+**Sistema operacional do negócio da APSIDE.**
 
-Um framework completo pra transformar qualquer negócio num sistema operacional inteligente, com agente de IA, automações, dashboard e governance integrada.
+Estrutura de governança, memória e skills que o agente (opencode) lê antes de cada resposta.
 
 ---
 
@@ -21,23 +21,13 @@ Sistema de memória persistente que o agente lê antes de cada resposta:
 - Pendências e decisões
 
 ### Skills
-25+ skills profissionais prontas:
-- **Core:** abrir, instalar, salvar, auditar, mapear-rotinas
-- **Conteúdo:** carrossel, post-instagram, publicar-tema
-- **SEO/Ads:** seo, anuncio-google, relatorio-ads
-- **Comunicação:** email-profissional, responder-avaliacoes
-- **Dados:** analisar-dados, data-storytelling
-- **Growth:** growth-engine, apify-lead-generation
-
-### Sistema (Bot + Dashboard)
-- **Bot Telegram:** recebe PDFs de NF-e e registra automaticamente
-- **Dashboard:** painel web com vendas, clientes, produtos, comissões
-- **MCP Server:** 8 ferramentas expostas pro agente
+Skills de entrega (GMB, raio-x, SEO, venda, conteúdo) em `.opencode/skills/`
+— índice em `core/SKILLS.md`.
 
 ### Scripts
 Scripts genéricos pra:
 - Publicar no Instagram/Facebook (Meta Graph API)
-- Gerar imagens com IA (DALL-E)
+- Gerar imagens com IA (HTML+CSS → PNG via puppeteer)
 - Gerar leads (Apify)
 
 ---
@@ -46,21 +36,8 @@ Scripts genéricos pra:
 
 ```bash
 # 1. Clone ou copie esta pasta
-# 2. Execute o setup
-node setup.js
-
-# 3. Configure os tokens
-# Edite sistema/.env com suas credenciais
-
-# 4. Instale dependências do sistema
-cd sistema && npm install
-
-# 5. Inicie o bot e o dashboard
-npm run bot      # Bot Telegram
-npm run dev      # Dashboard
+# 2. Abra no opencode — o BOOT.md carrega o contexto
 ```
-
-Para detalhes completos, veja [SETUP.md](SETUP.md).
 
 ---
 
@@ -71,11 +48,11 @@ APSIDE-OS/
 ├── core/           # 14 arquivos de governança
 ├── memoria/        # Sistema de memória
 ├── identidade/     # Identidade visual
-├── skills/         # 25+ skills
-├── sistema/        # Bot + Dashboard + MCP
+├── .opencode/      # Skills
 ├── templates/      # Templates reutilizáveis
 ├── scripts/        # Scripts genéricos
 ├── marketing/      # Estrutura pra conteúdo
+├── analise/        # Análises (raiox, SEO, YouTube)
 ├── archive/        # Arquivo (nunca deletar)
 ├── saidas/         # Documentos pontuais
 ├── dados/          # Drop zone pra análise
@@ -88,23 +65,19 @@ APSIDE-OS/
 
 1. **O agente lê o contexto** antes de cada resposta (BOOT.md)
 2. **A memória persiste** entre sessões (memoria/)
-3. **As skills automatizam** tarefas recorrentes (skills/)
-4. **O bot processa** NFs automaticamente (sistema/)
-5. **O dashboard mostra** tudo em tempo real (sistema/dashboard/)
-6. **Tudo versionado** no git (HEARTBEAT.md)
+3. **As skills automatizam** tarefas recorrentes (.opencode/skills/)
+4. **Tudo versionado** no git (HEARTBEAT.md)
 
 ---
 
 ## Para desenvolvedores
 
 O APSIDE-OS é feito pra ser **customizável**:
-- Substitua `{{placeholders}}` pelos dados do cliente
 - Crie skills novas seguindo o template em `templates/skills/`
 - Adicione scripts em `scripts/`
-- Estenda o dashboard em `sistema/dashboard/`
 
 ---
 
 ## Licença
 
-Uso interno. Adaptado livremente para qualquer negócio.
+Uso interno.
