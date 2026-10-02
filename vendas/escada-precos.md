@@ -4,6 +4,9 @@
 > **Recall de 01/10/2026:** faixas repaginadas após análise da proposta Conta Gestor
 > (escopo cobrava chatbot dentro de R$1.497 — subfaturado ~70%). Fonte única: este arquivo.
 > **Display NFC descontinuado em 01/10/2026** — não vender, não cobrar, não incluir em propostas.
+> **Reorganização em 3 palcos em 02/10/2026** (decisão B do reposicionamento, ver
+> `memoria/estrategia.md`). Nenhum valor mudou — só a estrutura. Toda faixa nova ou
+> alteração passa por gate humano (tabela antes → depois aprovada).
 
 ## PRINCÍPIO
 
@@ -15,7 +18,20 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 
 ---
 
-## FAIXAS DE PREÇO
+## OS TRÊS PALCOS (modelo B — migração em 2 etapas)
+
+| Palco | O que entrega | Faixa | Papel no caixa |
+|-------|---------------|-------|----------------|
+| **1 — Presença** | Peças: Google, landing, chatbot, conteúdo | R$ 397 – 7.500 | Caixa imediato, mantém a operação rodando |
+| **2 — Setup** | Diagnóstico + estruturação + dashboard rodando | R$ 2.500 – 10.000+ | Prova de valor, porta pro palco 3 |
+| **3 — Recorrência** | Operação contínua do resultado | Fixo + variável sem teto | Receita previsível (a validar) |
+
+**Regra de transição:** nenhum cliente pula palco. O palco 1 abre a porta, o palco 2
+mostra o resultado, o palco 3 só depois de 1 cliente real pagando no formato novo.
+
+---
+
+## PALCO 1 — PRESENÇA (peças, caixa imediato)
 
 ### Presença no Google
 **Faixa:** R$ 497–697
@@ -53,6 +69,47 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 
 ---
 
+### Presença Completa (GMB + Landing)
+**Faixa:** R$ 1.697
+
+**O que resolve:** os dois problemas acima ao mesmo tempo — negócio bom com presença ruim em casa.
+
+**O que inclui:** tudo da Presença no Google + tudo da Landing Page.
+
+**Prazo:** 7-10 dias
+
+---
+
+### Chatbot WhatsApp (avulso)
+**Faixa:** R$ 3.000–5.000
+
+**O que resolve:** leads perdidos fora do horário comercial, atendimento manual repetitivo, qualificação de leads lenta.
+
+**O que inclui:**
+- Fluxo de qualificação de leads
+- Respostas rápidas para dúvidas comuns
+- Triagem e agendamento automatizados
+- Integração com WhatsApp Business (API ou Evolution API)
+
+**Prazo:** 1-2 semanas
+
+**Para quem:** qualquer negócio que vive de lead (contabilidade, clínica, escritório, imobiliária).
+Um lead respondido em 1 minuto às 22h vale o projeto inteiro — **nunca embutir chatbot "de cortesia" dentro de outro pacote.**
+
+---
+
+### Conteúdo e Redes (avulso)
+**Faixa:** R$ 397–597/mês (mín. 3 meses)
+
+**O que inclui:** 8 peças/mês (posts ou reels), calendário editorial, legendas.
+
+**Obs:** o social recorrente antigo (R$197/mês) tinha relação esforço/receita ruim —
+o recall de 01/10 corrige isso. Só vender se faturar a faixa completa (ver `estrategia.md`).
+
+---
+
+## PALCO 2 — SETUP (estruturação + dashboard rodando)
+
 ### Projeto de Estruturação Digital
 **Faixa:** R$ 2.500–7.500
 
@@ -89,31 +146,28 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 
 ---
 
-### Chatbot WhatsApp (avulso)
-**Faixa:** R$ 3.000–5.000
+## PALCO 3 — RECORRÊNCIA (operação do resultado)
 
-**O que resolve:** leads perdidos fora do horário comercial, atendimento manual repetitivo, qualificação de leads lenta.
+**Status: NÃO VALIDADO.** Tese do reposicionamento de 02/10/2026 (modelo Kelvin Cleto +
+case SP Alumínio/Kistra). Não sai em proposta antes das 5 conversas de validação
+(`vendas/validacao-contadores.md`) e do gate humano.
 
-**O que inclui:**
-- Fluxo de qualificação de leads
-- Respostas rápidas para dúvidas comuns
-- Triagem e agendamento automatizados
-- Integração com WhatsApp Business (API ou Evolution API)
+**O que resolve:** o cliente não quer "mais um fornecedor" — quer alguém que opere o
+resultado e mostre o número todo mês.
 
-**Prazo:** 1-2 semanas
+**Formato:** fixo + variável, sem teto:
+- **Fixo (mensalidade):** operação + dashboard + relatório mensal.
+- **Variável:** % sobre resultado comprovado (clientes novos, margem, faturamento rastreado).
+- **Setup:** entrada que custa a implantação do dashboard.
 
-**Para quem:** qualquer negócio que vive de lead (contabilidade, clínica, escritório, imobiliária).
-Um lead respondido em 1 minuto às 22h vale o projeto inteiro — **nunca embutir chatbot "de cortesia" dentro de outro pacote.**
+**Referência de partida (extraída do canal Kelvin, calibrar com o primeiro cliente):**
+- Setup ≈ 10% do valor gerado no primeiro ciclo
+- Mensalidade ≈ 10–20% do setup
 
----
-
-### Conteúdo e Redes (avulso)
-**Faixa:** R$ 397–597/mês (mín. 3 meses)
-
-**O que inclui:** 8 peças/mês (posts ou reels), calendário editorial, legendas.
-
-**Obs:** o social recorrente antigo (R$197/mês) tinha relação esforço/receita ruim —
-o recall de 01/10 corrige isso. Só vender se faturar a faixa completa (ver `estrategia.md`).
+**O que NÃO fazer nesse palco:**
+- Vender sem % variável (vira só mais uma assinatura barata)
+- Aceitar teto no variável (é onde mora a margem)
+- Pular a prova de resultado do palco 2 antes de cobrar recorrência
 
 ---
 

@@ -4,23 +4,26 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  2026-10-01
+ultima_sincronizacao:  2026-10-02
 ultima_auditoria:      2026-10-01
 pendencias_vencidas:   nenhuma (1 item condicional em memoria/pendencias.md)
-github:                01/10 — sync desta sessão (análise Kelvin Cleto + ANG reclassificada como teste)
+github:                02/10 — sync (arquivamento sistema/, decisão B do modelo, site/index.html)
 ```
 
 ## Alertas a resolver
 
-- **Site institucional em desenvolvimento** — modelo final definido, faltam links, deploy, SEO, conteúdo real
+- **Deploy do site institucional** — `site/index.html` fechado (links, SEO, CTAs);
+  falta deploy (gate: escolha do operador) + og:image/og:url pós-deploy
+- **Validação do nicho contábil** — 5 conversas a fazer (`vendas/validacao-contadores.md`);
+  nenhuma proposta do palco 3 antes disso
 - **`diarios/` vazio** — registro diário parado desde o início (`decisoes/` iniciado em 01/10 com o recall de preços)
 - **MAPA incompleto** — `site/` e `reports/` sem dono na tabela
 
 ## Histórico
 
-- **02/10/2026** — `sistema/` (bot Telegram + dashboard Supabase, herança de outro
-  projeto — modelo de representante comercial) movido para
-  `archive/sistema-representante/`. Nunca foi configurado nem rodou.
+- **02/10/2026** — Decisão **B** do modelo de negócio (migração em 2 etapas) aprovada;
+  escada reorganizada em 3 palcos (valores iguais); `sistema/` (herança de outro
+  projeto) movido para `archive/sistema-representante/`; `site/index.html` fechado.
 
 ## Auditoria — 2026-10-01 (relatório: `reports/audits/2026-10-01.md`)
 

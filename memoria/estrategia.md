@@ -9,7 +9,11 @@ Reposicionamento em curso (02/10/2026): sair de "vender peças" (landing page,
 post avulso) pra "consultoria que opera o resultado" — diagnóstico → dashboard →
 operacao recorrente.
 
-## Direção (decisão pendente de OK do Guilherme)
+**Decisão B aprovada pelo operador em 02/10/2026** — migração em 2 etapas: mantém
+as peças (palco 1) como caixa enquanto valida a consultoria em paralelo. Nada de
+mudar preço ou cobrar recorrência antes da validação.
+
+## Direção (decisão B — aprovada 02/10/2026)
 
 Mudança de modelo proposta em 02/10/2026, baseada na análise do canal Kelvin Cleto
 (`analise/youtube/kelvin-cleto/`) e do case SP Alumínio/Kistra OS:
@@ -24,6 +28,16 @@ Mudança de modelo proposta em 02/10/2026, baseada na análise do canal Kelvin C
 
 **Nicho candidato a validar:** contabilidade (tese "Contab OS" — margem 30% →
 50-60%, "instala numa, instala na outra"). Ainda não validado com cliente real.
+
+**Validação em andamento:** roteiro das 5 conversas com contadores em
+`vendas/validacao-contadores.md` + apresentação de perguntas em
+`saidas/apresentacao-validacao-contadores-2026-10-02.html`. Aprovação = 3 das 5
+conversas com reação positiva ao formato fixo + variável.
+
+**Feito na etapa B (02/10):** escada reorganizada nos 3 palcos
+(`vendas/escada-precos.md`, valores inalterados), template de diagnóstico
+(`vendas/diagnostico-template.md`), `site/index.html` fechado (links, SEO,
+CTAs funcionais).
 
 **Ferramenta de CRM:** não construir agora. Decidir a base (HubSpot Free /
 planilha / Twenty / Frappe CRM / ERPNext) quando o primeiro cliente pagante

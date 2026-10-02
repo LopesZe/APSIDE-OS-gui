@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>APSIDE — Validação do nicho contábil: 5 conversas, 21 perguntas</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --marinho:#1F2133;
+  --branco:#FFFFFF;
+  --verde:#00E65B;
+  --azul:#0066FF;
+  --roxo:#6E00FF;
+  --grad:linear-gradient(90deg,#00E65B 0%,#0066FF 50%,#6E00FF 100%);
+  --borda-escura:rgba(255,255,255,0.08);
+  --borda-clara:rgba(0,0,0,0.08);
+  --sombra-escura:0 4px 24px rgba(0,0,0,0.4);
+  --sombra-clara:0 4px 24px rgba(0,0,0,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Inter',sans-serif;background:#0d0e17;color:#fff;line-height:1.6}
+h1,h2,h3,.dm{font-family:'DM Sans',sans-serif}
+
+#progress{position:fixed;top:0;left:0;height:4px;width:0;background:var(--grad);z-index:99;transition:width .2s}
+#counter{position:fixed;right:20px;bottom:20px;z-index:99;font-size:12px;letter-spacing:.08em;background:rgba(31,33,51,.85);border:1px solid var(--borda-escura);color:#fff;padding:8px 14px;border-radius:12px;backdrop-filter:blur(8px)}
+
+.slide{min-height:100vh;padding:80px 8vw;display:flex;flex-direction:column;justify-content:center;position:relative}
+.slide.dark{background:var(--marinho);color:#fff}
+.slide.light{background:var(--branco);color:#000}
+.slide .kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;font-weight:600;margin-bottom:18px}
+.slide.dark .kicker{color:var(--verde)}
+.slide.light .kicker{color:var(--azul)}
+.slide h2{font-size:clamp(30px,4.4vw,54px);font-weight:700;line-height:1.12;margin-bottom:28px;max-width:1000px}
+.slide p.lead{font-size:clamp(16px,1.6vw,21px);max-width:860px;opacity:.85;margin-bottom:28px}
+.slide.dark .accent{color:var(--verde)}
+.slide.light .accent{color:var(--azul)}
+.gradbar{width:120px;height:4px;background:var(--grad);border-radius:4px;margin-bottom:30px}
+.topbar{position:absolute;top:36px;left:8vw;right:8vw;display:flex;justify-content:space-between;align-items:center}
+.topbar img{height:30px}
+.topbar .sec{font-size:12px;letter-spacing:.14em;text-transform:uppercase;opacity:.5;font-weight:600}
+
+.grid{display:grid;gap:18px}
+.g2{grid-template-columns:repeat(2,1fr)}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+.card{border-radius:12px;padding:26px}
+.slide.dark .card{background:rgba(255,255,255,.04);border:1px solid var(--borda-escura);box-shadow:var(--sombra-escura)}
+.slide.light .card{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.card h3{font-size:17px;font-weight:600;margin-bottom:10px}
+.card p{font-size:14.5px;opacity:.8}
+.card .num{font-family:'DM Sans',sans-serif;font-size:38px;font-weight:700;line-height:1;margin-bottom:8px}
+.slide.dark .card .num{color:var(--verde)}
+.slide.light .card .num{color:var(--azul)}
+.card .tag{display:inline-block;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;padding:4px 10px;border-radius:12px;margin-bottom:14px}
+.tag.grad{background:var(--grad);color:#fff}
+.tag.out{border:1px solid currentColor}
+.slide.dark .tag.out{color:var(--verde)}
+.slide.light .tag.out{color:var(--azul)}
+
+/* questões */
+.qlist{display:grid;gap:14px}
+.q{display:flex;gap:16px;align-items:flex-start;border-radius:12px;padding:18px 20px}
+.slide.dark .q{background:rgba(255,255,255,.04);border:1px solid var(--borda-escura)}
+.slide.light .q{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.q .qn{font-family:'DM Sans',sans-serif;font-weight:700;font-size:15px;min-width:34px;height:34px;border-radius:9px;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.slide.dark .q .qn{background:rgba(0,230,91,.12);color:var(--verde);border:1px solid rgba(0,230,91,.35)}
+.slide.light .q .qn{background:rgba(0,102,255,.08);color:var(--azul);border:1px solid rgba(0,102,255,.3)}
+.q .qt{font-size:15.5px;font-weight:500;line-height:1.5}
+.q .qw{display:block;font-size:13px;opacity:.62;font-weight:400;margin-top:5px}
+.q.key{padding:24px 26px}
+.slide.dark .q.key{background:rgba(0,230,91,.07);border:1px solid rgba(0,230,91,.4)}
+.slide.light .q.key{background:rgba(0,102,255,.06);border:1px solid rgba(0,102,255,.35)}
+.q.key .qt{font-family:'DM Sans',sans-serif;font-size:19px;font-weight:600;line-height:1.4}
+.q .why{display:block;margin-top:8px;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;opacity:.55}
+
+.quote{border-radius:12px;padding:34px 36px;position:relative;max-width:960px}
+.slide.dark .quote{background:rgba(0,230,91,.06);border:1px solid rgba(0,230,91,.25)}
+.slide.light .quote{background:rgba(0,102,255,.05);border:1px solid rgba(0,102,255,.2)}
+.quote .mark{font-family:'DM Sans',sans-serif;font-size:64px;line-height:.6;opacity:.35;display:block;margin-bottom:10px}
+.slide.dark .quote .mark{color:var(--verde)}
+.slide.light .quote .mark{color:var(--azul)}
+.quote blockquote{font-family:'DM Sans',sans-serif;font-size:clamp(18px,2vw,25px);font-weight:500;line-height:1.4}
+.quote cite{display:block;margin-top:14px;font-style:normal;font-size:13px;opacity:.6}
+
+table{width:100%;border-collapse:collapse;border-radius:12px;overflow:hidden;font-size:15px}
+.slide.dark th{background:rgba(255,255,255,.06);color:var(--verde)}
+.slide.light th{background:rgba(0,102,255,.07);color:var(--azul)}
+th,td{padding:16px 18px;text-align:left;border-bottom:1px solid}
+.slide.dark th,.slide.dark td{border-color:var(--borda-escura)}
+.slide.light th,.slide.light td{border-color:var(--borda-clara)}
+th{font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:.08em;text-transform:uppercase;font-weight:600}
+td:first-child{font-weight:600}
+tr:last-child td{border-bottom:none}
+.slide.dark td.good{color:var(--verde)}
+.slide.light td.good{color:var(--azul)}
+
+.check{list-style:none;max-width:860px}
+.check li{display:flex;gap:16px;align-items:flex-start;padding:16px 0;border-bottom:1px solid}
+.slide.dark .check li{border-color:var(--borda-escura)}
+.slide.light .check li{border-color:var(--borda-clara)}
+.check .box{min-width:26px;height:26px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;margin-top:2px}
+.slide.dark .check .box{border:1.5px solid var(--verde);color:var(--verde)}
+.slide.light .check .box{border:1.5px solid var(--azul);color:var(--azul)}
+.check b{font-family:'DM Sans',sans-serif;font-weight:600;display:block;font-size:16px}
+.check span{font-size:14px;opacity:.75}
+
+.risk{border-radius:12px;padding:22px 24px;display:flex;gap:16px;align-items:flex-start}
+.slide.dark .risk{background:rgba(255,255,255,.04);border:1px solid var(--borda-escura)}
+.slide.light .risk{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
+.risk .rn{font-family:'DM Sans',sans-serif;font-weight:700;font-size:22px;min-width:36px}
+.slide.dark .risk .rn{color:var(--verde)}
+.slide.light .risk .rn{color:var(--azul)}
+.risk b{display:block;font-family:'DM Sans',sans-serif;font-size:16px;margin-bottom:4px}
+.risk p{font-size:14px;opacity:.8}
+
+.divider{height:1px;background:var(--grad);opacity:.5;margin:30px 0;max-width:400px}
+.small{font-size:13px;opacity:.55;max-width:820px}
+.footer-note{position:absolute;bottom:30px;left:8vw;right:8vw;padding-right:150px;display:flex;justify-content:space-between;font-size:12px;opacity:.45;letter-spacing:.06em}
+
+@media(max-width:900px){
+  .g2,.g3,.g4{grid-template-columns:1fr}
+  .slide{padding:70px 6vw}
+}
+@media print{
+  .slide{min-height:auto;page-break-after:always;padding:40px}
+  #progress,#counter{display:none}
+}
+</style>
+</head>
+<body>
+
+<div id="progress"></div>
+<div id="counter">02/10/2026</div>
+
+<!-- 1 CAPA -->
+<section class="slide dark">
+  <div class="topbar">
+    <img src="../identidade/logo-apside.svg" alt="APSIDE">
+    <span class="sec">Validação do nicho — 02/10/2026</span>
+  </div>
+  <div class="gradbar"></div>
+  <div class="kicker">Roteiro de conversa — não é proposta, é teste</div>
+  <h1 style="font-family:'DM Sans';font-size:clamp(38px,6vw,74px);font-weight:700;line-height:1.05;max-width:1100px;margin-bottom:26px">
+    5 conversas com contadores.<br><span class="accent">Uma decisão:</span> o nicho é esse?
+  </h1>
+  <p class="lead">A tese "Contab OS" — operar o resultado do escritório de contabilidade — ainda não foi testada com ninguém. Antes de construir nada do palco 3, a gente precisa de <b>dor confirmada e bolso confirmado</b> em conversas reais.</p>
+  <div class="grid g4" style="margin-top:14px">
+    <div class="card"><span class="tag out">Conversas</span><div class="num">5</div><p>mínimo pra decidir — menos que isso é achismo</p></div>
+    <div class="card"><span class="tag out">Cada uma</span><div class="num">20′</div><p>falar 20%, ouvir 80%</p></div>
+    <div class="card"><span class="tag out">Perguntas</span><div class="num">21</div><p>em 6 blocos — do perfil à indicação</p></div>
+    <div class="card"><span class="tag out">Propostas</span><div class="num">0</div><p>nenhuma proposta, demo ou preço nessa fase</p></div>
+  </div>
+  <div class="footer-note"><span>Fonte única: vendas/validacao-contadores.md</span><span>1 / 11</span></div>
+</section>
+
+<!-- 2 POR QUE VALIDAR -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Por que validar antes</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Decisão B — migração em 2 etapas</div>
+  <h2>Peças continuam pagando as contas.<br>A consultoria só entra <span class="accent">provada</span>.</h2>
+  <p class="lead">A decisão B (02/10) escolheu validar em paralelo, sem trocar o caixa atual. Pular essa etapa é repetir o erro de construir 39 skills que ninguém usou.</p>
+  <div class="grid g3" style="margin-bottom:26px">
+    <div class="card"><span class="tag out">Etapa 1 — hoje</span><h3>Palco 1 no ritmo</h3><p>GMB, landing e chatbot seguem como estão. Caixa mantido, entrega dominada.</p></div>
+    <div class="card"><span class="tag out">Etapa 2 — agora</span><h3>5 conversas</h3><p>Testar H1 a H4 com contadores de verdade. Custa tempo, não custa dinheiro.</p></div>
+    <div class="card"><span class="tag out">Etapa 3 — depois</span><h3>1 piloto real</h3><p>Só se as 5 conversas passarem. Aí sim: fixo + variável com um cliente pagando.</p></div>
+  </div>
+  <div class="quote" style="max-width:100%">
+    <span class="mark">“</span>
+    <blockquote>Se pular a validação e cobrar recorrência direto, o primeiro "não" vira certeza — e o nicho inteiro morre por uma conversa mal feita.</blockquote>
+    <cite>O que está em jogo: não provar que a tese é boa, só descobrir se ela existe.</cite>
+  </div>
+  <div class="footer-note"><span>Por que validar</span><span>2 / 11</span></div>
+</section>
+
+<!-- 3 AS 4 HIPÓTESES -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">As 4 hipóteses</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">O que precisa ser verdade</div>
+  <h2>Cada conversa responde <span class="accent">uma dessas 4</span>.</h2>
+  <div class="grid g4" style="margin-bottom:24px">
+    <div class="card"><span class="tag grad">H1</span><h3>A dor existe</h3><p>O contador não consegue mostrar valor ao cliente dele — e isso custa perder cliente.</p><p style="margin-top:10px"><b>Se não existir:</b> ele não precisa de mim. Tese cai.</p></div>
+    <div class="card"><span class="tag grad">H2</span><h3>O bolso existe</h3><p>O escritório já gasta com ferramenta, robô de folha ou marketing.</p><p style="margin-top:10px"><b>Se não existir:</b> seria o primeiro gasto dele. Venda impossível.</p></div>
+    <div class="card"><span class="tag grad">H3</span><h3>Compra resultado</h3><p>Topa fixo + % sobre o que entrar — não só "me dá 10 leads".</p><p style="margin-top:10px"><b>Se não existir:</b> modelo Kelvin não se aplica. Repensar formato.</p></div>
+    <div class="card"><span class="tag grad">H4</span><h3>Tem acesso</h3><p>Clientes de R$1-10mi com número rastreável e decisão desbloqueada.</p><p style="margin-top:10px"><b>Se não existir:</b> sem acesso = sem entrega.</p></div>
+  </div>
+  <p class="small">Regra: hipótese morta não se discute — se o contador responder sem dor, sem gasto e sem piloto, os blocos 3 e 4 já foram respondidos ali mesmo.</p>
+  <div class="footer-note"><span>Hipóteses</span><span>3 / 11</span></div>
+</section>
+
+<!-- 4 COMO CONDUZIR -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Como conduzir</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Regras de escuta</div>
+  <h2>20% falando. 80% ouvindo.</h2>
+  <ul class="check">
+    <li><span class="box">1</span><div><b>Não apresentar nada</b><span>Sem print, sem demo, sem proposta, sem "eu tenho uma plataforma". Vira venda e polui o teste.</span></div></li>
+    <li><span class="box">2</span><div><b>Perguntar o que já aconteceu, não o que ele acha</b><span>"Você já perdeu cliente assim?" vale mais que "você compraria isso?". Opinião de futuro vale zero.</span></div></li>
+    <li><span class="box">3</span><div><b>Registrar a frase literal</b><span>Na pergunta-chave (12), anotar as palavras dele — não a sua interpretação delas.</span></div></li>
+    <li><span class="box">4</span><div><b>Não aceitar "depende" fechado</b><span>"Depende de quê, na sua experiência?" — uma resposta de experiência vale, uma de princípio não.</span></div></li>
+    <li><span class="box">5</span><div><b>Encerrar pedindo indicação</b><span>1 contador que já gasta com marketing. Se ele indicar, a tese tem vida; se não, é sinal também.</span></div></li>
+  </ul>
+  <div class="footer-note"><span>Como conduzir</span><span>4 / 11</span></div>
+</section>
+
+<!-- 5 BLOCO 0+1 -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">Blocos 0 e 1 — perfil e dor</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Perguntas 1 a 8 — ~7 minutos</div>
+  <h2>Quem ele é e <span class="accent">o que dói</span>.</h2>
+  <div class="qlist g2 grid">
+    <div class="q"><span class="qn">1</span><span class="qt">Quantos clientes o escritório atende hoje? E há quanto tempo existe?<span class="why">H4 — tamanho do acesso</span></span></div>
+    <div class="q"><span class="qn">2</span><span class="qt">Faixa de faturamento dos clientes de vocês — quem é o cliente típico?<span class="why">H4 — perfil do alvo</span></span></div>
+    <div class="q"><span class="qn">3</span><span class="qt">Como o escritório consegue cliente hoje — indicação, rede, marketing?<span class="why">H2 — já pensa em aquisição?</span></span></div>
+    <div class="q"><span class="qn">4</span><span class="qt">Como você mostra pro cliente o que a contabilidade fez por ele no mês?<span class="why">H1 — valor invisível</span></span></div>
+    <div class="q"><span class="qn">5</span><span class="qt">Em que formato — PDF, reunião, e-mail, nada?<span class="why">H1 — medir o esforço atual</span></span></div>
+    <div class="q"><span class="qn">6</span><span class="qt">Já perdeu cliente que dava a entender "não estou vendo o que vocês fazem"? O que aconteceu?<span class="why">H1 — a prova da dor</span></span></div>
+    <div class="q"><span class="qn">7</span><span class="qt">Fora de fechar balanço e declaratório, o que mais consome o seu tempo?<span class="why">Dor de operação — não vender aqui</span></span></div>
+    <div class="q"><span class="qn">8</span><span class="qt">Cliente já reclamou de demora pra responder, de não entender, de alguma trava? Qual?<span class="why">H1 — reclamação concreta</span></span></div>
+  </div>
+  <div class="footer-note"><span>Blocos 0–1</span><span>5 / 11</span></div>
+</section>
+
+<!-- 6 BLOCO 2 -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Bloco 2 — bolso</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Perguntas 9 a 11 — ~4 minutos</div>
+  <h2>O que ele <span class="accent">já paga hoje</span>.</h2>
+  <p class="lead">Se o escritório nunca gastou um real com ferramenta, marketing ou indicação, a H2 morreu nesse bloco — e não existe consultoria sem bolso anterior.</p>
+  <div class="qlist grid" style="margin-bottom:24px">
+    <div class="q"><span class="qn">9</span><span class="qt">Quanto o escritório gasta por mês em ferramenta — sistema contábil, robô de folha, assinatura digital, planilha paga?<span class="why">H2 — gasto recorrente já normalizado</span></span></div>
+    <div class="q"><span class="qn">10</span><span class="qt">Já investiu em marketing, site, indicação paga? Quanto — e o que achou do retorno?<span class="why">H2 — histórico de aposta e de frustração</span></span></div>
+    <div class="q"><span class="qn">11</span><span class="qt">Quanto custa pra você perder 1 cliente — faturamento dele vezes tempo pra repor?<span class="why">Âncora de valor — a conta que sustenta o palco 3</span></span></div>
+  </div>
+  <div class="quote" style="max-width:100%">
+    <span class="mark">“</span>
+    <blockquote>Não pule esse bloco. Dor sem bolso é simpatia — e simpatia não paga fixo + variável.</blockquote>
+    <cite>Se ele nunca gastou com nada: registrar como resposta H2 = não.</cite>
+  </div>
+  <div class="footer-note"><span>Bloco 2</span><span>6 / 11</span></div>
+</section>
+
+<!-- 7 BLOCO 3 -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">Bloco 3 — o coração</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Perguntas 12 a 16 — ~5 minutos</div>
+  <h2>Fixo + variável: <span class="accent">a pergunta que decide tudo</span>.</h2>
+  <div class="qlist grid" style="margin-bottom:20px">
+    <div class="q key"><span class="qn">12</span><span class="qt">Se existisse alguém que cuidasse do "aparecer e converter" dos seus clientes e você pagasse um fixo mensal + uma % sobre o que de fato entrasse, isso faria sentido pra você?<span class="why">PERGUNTA-CHAVE — registrar a frase literal da reação</span></span></div>
+  </div>
+  <div class="qlist g2 grid">
+    <div class="q"><span class="qn">13</span><span class="qt">O que precisaria ser verdade pra você dizer sim — preço, prova, controle, prazo?<span class="why">Condição de aceite, não objeção genérica</span></span></div>
+    <div class="q"><span class="qn">14</span><span class="qt">Qual faria mais sentido: eu te entregar 10 leads prontos, ou operar o funil dos seus clientes e você me pagar pelo resultado?<span class="why">H3 — peça contra operação</span></span></div>
+    <div class="q"><span class="qn">15</span><span class="qt">Você já pagou por algo assim? Como foi?<span class="why">Comportamento passado &gt; opinião futura</span></span></div>
+    <div class="q"><span class="qn">16</span><span class="qt">Quem decide esse tipo de investimento: você ou o sócio/proprietário?<span class="why">H4 — porta de decisão</span></span></div>
+  </div>
+  <div class="footer-note"><span>Bloco 3 — não mostrar produto aqui</span><span>7 / 11</span></div>
+</section>
+
+<!-- 8 BLOCO 4+5 -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Blocos 4 e 5 — acesso e fechamento</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Perguntas 17 a 21 — ~4 minutos</div>
+  <h2>O "sim" que vale <span class="accent">mais que qualquer opinião</span>.</h2>
+  <div class="qlist grid" style="margin-bottom:22px">
+    <div class="q key"><span class="qn">18</span><span class="qt">Topa testar com 1 cliente seu? Eu opero, você apresenta.<span class="why">PILOTO — um "sim" aqui vale mais que 10 respostas boas do bloco 3</span></span></div>
+    <div class="q"><span class="qn">17</span><span class="qt">Quantos dos seus clientes são empresas de R$1-10mi com venda ou margem que dá pra rastrear?<span class="why">H4 — base pronta pro palco 3</span></span></div>
+    <div class="q"><span class="qn">19</span><span class="qt">Posso apresentar a ideia pro sócio/proprietário junto com você?<span class="why">H4 — destravar o decisor</span></span></div>
+    <div class="q"><span class="qn">20</span><span class="qt">Conhece 1 contador que já gasta com marketing ou automação? Posso falar com ele?<span class="why">Indicação — sinal de validação em cadeia</span></span></div>
+    <div class="q"><span class="qn">21</span><span class="qt">Posso te mandar um resumo do que conversamos?<span class="why">Fecha a porta pra próximos contatos</span></span></div>
+  </div>
+  <div class="footer-note"><span>Blocos 4–5</span><span>8 / 11</span></div>
+</section>
+
+<!-- 9 O QUE NÃO FAZER -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">Armadilhas</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">O que não fazer nessa fase</div>
+  <h2>5 erros que <span class="accent">contaminam</span> a validação.</h2>
+  <div class="grid g2" style="margin-bottom:22px">
+    <div class="risk"><span class="rn">01</span><div><b>Perguntar "você compraria?"</b><p>Resposta educada, vale zero. Ele diz sim pra sair da conversa.</p></div></div>
+    <div class="risk"><span class="rn">02</span><div><b>Mostrar a plataforma/dashboard</b><p>Vira demo — e demo antes da validação é como vender. A tese é dele, não minha.</p></div></div>
+    <div class="risk"><span class="rn">03</span><div><b>Aceitar "depende" sem exemplo</b><p>"Depende de quê, na sua experiência?" — sem isso, você registrou uma educadeza.</p></div></div>
+    <div class="risk"><span class="rn">04</span><div><b>Vender ou deixar cartão</b><p>Quem vende nessa fase polui o teste e perde a resposta honesta do bloco 3.</p></div></div>
+    <div class="risk"><span class="rn">05</span><div><b>Pular o bloco 2</b><p>Sem bolso comprovado, o resto é conversa bonita. H2 mora nas perguntas 9 a 11.</p></div></div>
+    <div class="risk"><span class="rn">→</span><div><b>E o sinal que ninguém quer ouvir</b><p>Se ele não indicar ninguém no fim (20), a conversa foi morna — conte como reação fraca, não como "empate".</p></div></div>
+  </div>
+  <div class="footer-note"><span>Armadilhas</span><span>9 / 11</span></div>
+</section>
+
+<!-- 10 CRITÉRIO -->
+<section class="slide light">
+  <div class="topbar"><img src="../identidade/logo-apside-claro.svg" alt="APSIDE"><span class="sec">Critério de decisão</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Depois das 5 conversas</div>
+  <h2>Seguir, ajustar ou parar — <span class="accent">decidido antes, não depois</span>.</h2>
+  <table style="margin-bottom:26px">
+    <tr><th>Resultado das 5</th><th>Ação</th><th>Próximo passo</th></tr>
+    <tr><td>≥3 reações positivas e ≥1 "sim" no piloto (18)</td><td class="good">Seguir</td><td>Montar 1 piloto real do palco 3 com um contador</td></tr>
+    <tr><td>2 positivas ou objeção concentrada em preço</td><td>Ajustar</td><td>Recalibrar fixo/% e repetir 3 conversas</td></tr>
+    <tr><td>≤1 positiva ou rejeição direta ao % (12)</td><td class="bad" style="opacity:.6">Parar</td><td>Nicho descartado — próxima hipótese de vertical</td></tr>
+  </table>
+  <div class="grid g2">
+    <div class="card"><span class="tag out">Onde achar os 5</span><h3>4 canais</h3><p>Grupos de contadores no Facebook/WhatsApp · LinkedIn (dono de escritório + cidade) · indicação direta · Google Ads de escritório contábil — os que já anunciam são H2 mais fácil.</p></div>
+    <div class="card"><span class="tag out">O que fazer com o que ouviu</span><h3>Registrar tudo</h3><p>Frases literais + veredito H1–H4 em <b>memoria/estrategia.md</b>, ficha por contador em <b>vendas/</b>. Depois: <b>/salvar</b> — estado versionado, sem exceção.</p></div>
+  </div>
+  <div class="footer-note"><span>Decisão</span><span>10 / 11</span></div>
+</section>
+
+<!-- 11 CHECKLIST -->
+<section class="slide dark">
+  <div class="topbar"><img src="../identidade/logo-apside.svg" alt="APSIDE"><span class="sec">Próximos passos</span></div>
+  <div class="gradbar"></div>
+  <div class="kicker">Checklist — é agora</div>
+  <h2>O que sai dessa sala <span class="accent">antes do próximo encontro</span>.</h2>
+  <ul class="check" style="margin-bottom:24px">
+    <li><span class="box">1</span><div><b>Escolher e abordar os 5 contadores</b><span>Canal aberto por canal — sem scripts de venda, só convite pra conversa de 20 minutos.</span></div></li>
+    <li><span class="box">2</span><div><b>Rodar as 21 perguntas na ordem</b><span>vendas/validacao-contadores.md é a fonte — bloco 2 e pergunta 12 não podem cair.</span></div></li>
+    <li><span class="box">3</span><div><b>Anotar a frase literal da pergunta 12</b><span>Palavras do contador, na íntegra. Ela decide o critério da tabela.</span></div></li>
+    <li><span class="box">4</span><div><b>Aplicar o critério: seguir / ajustar / parar</b><span>Tabela do slide 10 — decidida antes de começar, pra não se convencer depois.</span></div></li>
+    <li><span class="box">5</span><div><b>Consolidar em estrategia.md + /salvar</b><span>Resultado vira memória. Se positivo: desbloquear o palco 3 na escada e buscar o piloto.</span></div></li>
+  </ul>
+  <p class="small">Enquanto isso, nada muda no palco 1: entrega continua, caixa continua, site institucional sai pro deploy. Validação é paralela — não é refúgio.</p>
+  <div class="footer-note"><span>vendas/validacao-contadores.md — fonte única</span><span>11 / 11</span></div>
+</section>
+
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+function onScroll(){
+  const h=document.documentElement;
+  const pct=(h.scrollTop)/(h.scrollHeight-h.clientHeight)*100;
+  document.getElementById('progress').style.width=pct+'%';
+}
+document.addEventListener('scroll',onScroll,{passive:true});onScroll();
+</script>
+</body>
+</html>

@@ -12,9 +12,10 @@ site/
 │   ├── modelo-1-impacto.html
 │   ├── modelo-2-elegancia.html
 │   ├── modelo-3-fluxo.html
-│   └── modelo-final.html     # ← Modelo escolhido (base pra evoluir)
-├── VIDEO FOGUETE.mp4
-├── index.html                # Site antigo (apresentação pro cliente, ignorar)
+│   └── modelo-final.html     # ← Modelo escolhido (base, não mexer)
+├── index.html                # Site vivo (02/10/2026) — fechado a partir do modelo-final
+├── _preview-hero.png         # Screenshot de verificação (02/10)
+├── _preview-full.png         # Screenshot full page (02/10)
 └── SITE.md                   # Este arquivo
 ```
 
@@ -44,12 +45,15 @@ site/
 
 ## O que falta
 
-- [ ] Link do WhatsApp funcional (trocar `#` pelo `wa.me/...`)
-- [ ] Link do email funcional
-- [ ] Deploy (Vercel, Netlify ou GitHub Pages)
-- [ ] SEO (meta description, og:image, favicon)
-- [ ] Conteúdo real nos cards de serviço (fotos de verdade, textos finais)
-- [ ] Testar em dispositivos reais
+- [x] Link do WhatsApp funcional — os 3 CTAs (nav, hero, seção final) vão pra
+  `wa.me/5542999955452` com texto pré-preenchido por CTA (02/10/2026)
+- [x] Link do email funcional — footer em `mailto:guilherme@apside.com.br`
+- [x] SEO básico — title, meta description, theme-color, favicon SVG inline
+- [x] Botões viraram links (antes eram `<button>` morto, sem handler)
+- [ ] Deploy (Vercel, Netlify ou GitHub Pages) — **gate: domínio/escolha é do Guilherme**
+- [ ] `og:image` + `og:url` — precisam de URL absoluta, só depois do deploy
+- [ ] Testar em dispositivos reais (só verificado em desktop 1440px via puppeteer)
+- [ ] Contagem dos stats (76%, 75%, 87%, 46%) — conferir fonte antes do deploy
 
 ## Referências usadas
 
