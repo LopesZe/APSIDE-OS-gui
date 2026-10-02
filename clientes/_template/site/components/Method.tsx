@@ -73,7 +73,7 @@ function Step({
     >
       <div
         className="text-sm font-mono"
-        style={{ color: isActive ? "#00E65B" : "rgba(255,255,255,0.4)" }}
+        style={{ color: isActive ? "#0066FF" : "rgba(255,255,255,0.4)" }}
       >
         {s.n}
       </div>
@@ -127,7 +127,7 @@ export function Method() {
                   y2="110"
                   gradientUnits="userSpaceOnUse"
                 >
-                  <stop stopColor="#00E65B" />
+                  <stop stopColor="#34544C" />
                   <stop offset="1" stopColor="#0066FF" />
                 </linearGradient>
               </defs>
@@ -155,7 +155,7 @@ export function Method() {
                     cy={cy}
                     r={7}
                     animate={{
-                      fill: i <= active ? "#00E65B" : "#3A3D55",
+                      fill: i <= active ? "#34544C" : "#3A3D55",
                       scale: i === active ? 1.4 : 1,
                     }}
                     transition={{ duration: 0.4 }}

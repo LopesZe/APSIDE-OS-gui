@@ -22,7 +22,7 @@ export function OrbitalLoop({ className = "" }: { className?: string }) {
           y2="90"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#00E65B" />
+          <stop stopColor="#34544C" />
           <stop offset="1" stopColor="#0066FF" />
         </linearGradient>
         <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
@@ -66,7 +66,7 @@ export function OrbitalLoop({ className = "" }: { className?: string }) {
         cx={70}
         cy={310}
         r={8}
-        fill="#00E65B"
+        fill="#34544C"
         filter="url(#glow)"
         animate={{ scale: [1, 1.25, 1] }}
         transition={{ duration: 3.2, repeat: Infinity, ease: "easeInOut" }}
@@ -115,7 +115,7 @@ export function OrbitalScroll({
           y2="90"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#00E65B" />
+          <stop stopColor="#34544C" />
           <stop offset="1" stopColor="#0066FF" />
         </linearGradient>
       </defs>
@@ -127,7 +127,7 @@ export function OrbitalScroll({
         strokeLinecap="round"
         style={{ pathLength: draw }}
       />
-      <circle cx={70} cy={310} r={6} fill="#00E65B" />
+      <circle cx={70} cy={310} r={6} fill="#34544C" />
       <circle cx={330} cy={90} r={6} fill="#0066FF" />
     </svg>
   );

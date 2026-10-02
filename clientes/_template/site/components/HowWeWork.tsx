@@ -38,7 +38,7 @@ export function HowWeWork() {
         <div className="mt-14 grid md:grid-cols-3 gap-8">
           {steps.map((s, i) => (
             <Reveal key={s.n} delay={i * 0.1}>
-              <div className="group h-full border border-white/10 rounded-2xl p-8 bg-white/[0.02] transition-all duration-300 hover:-translate-y-1 hover:border-green/60 hover:shadow-[0_24px_70px_-20px_rgba(0,230,91,0.55)]">
+              <div className="group h-full border border-white/10 rounded-2xl p-8 bg-white/[0.02] transition-all duration-300 hover:-translate-y-1 hover:border-green/60 hover:shadow-[0_24px_70px_-20px_rgba(52,84,76,0.55)]">
                 <span className="text-sm font-mono text-green">{s.n}</span>
                 <h3 className="mt-4 text-2xl font-semibold tracking-tight">
                   {s.name}

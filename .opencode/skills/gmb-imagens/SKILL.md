@@ -40,7 +40,7 @@ HTML+CSS → Puppeteer → PNG em 2x.
 │   Features ✓        │    lista, etc)      │
 │                     │                     │
 ├─────────────────────┴─────────────────────┤
-│ ░░░░░░░░░ gradiente 4px ░░░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░░░░░░░ verde 4px ░░░░░░░░░░░░░░░░░ │
 └───────────────────────────────────────────┘
 ```
 
@@ -63,12 +63,12 @@ HTML+CSS → Puppeteer → PNG em 2x.
 .right::before {
   content: ''; position: absolute; inset: 0;
   background:
-    radial-gradient(circle at 40% 40%, rgba(0,230,91,0.12) 0%, transparent 50%),
+    radial-gradient(circle at 40% 40%, rgba(52,84,76,0.12) 0%, transparent 50%),
     radial-gradient(circle at 70% 70%, rgba(0,102,255,0.1) 0%, transparent 50%);
 }
 .bar {
   position: absolute; bottom: 0; left: 0; right: 0; height: 4px;
-  background: linear-gradient(90deg, #00E65B, #0066FF, #6E00FF);
+  background: #34544C;
 }
 ```
 

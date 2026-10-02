@@ -12,7 +12,7 @@ export function FinalCTA() {
         className="pointer-events-none absolute -top-32 left-1/2 -translate-x-1/2 h-[480px] w-[480px] rounded-full"
         style={{
           background:
-            "radial-gradient(circle, rgba(0,230,91,0.12) 0%, rgba(0,230,91,0) 70%)",
+            "radial-gradient(circle, rgba(52,84,76,0.12) 0%, rgba(52,84,76,0) 70%)",
         }}
       />
       <motion.div

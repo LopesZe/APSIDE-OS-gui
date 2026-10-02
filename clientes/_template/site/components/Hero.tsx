@@ -13,7 +13,7 @@ export function Hero() {
         className="pointer-events-none absolute -top-40 -right-40 h-[520px] w-[520px] rounded-full"
         style={{
           background:
-            "radial-gradient(circle, rgba(0,230,91,0.10) 0%, rgba(0,230,91,0) 70%)",
+            "radial-gradient(circle, rgba(52,84,76,0.10) 0%, rgba(52,84,76,0) 70%)",
         }}
       />
       <div

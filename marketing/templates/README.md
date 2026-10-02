@@ -26,11 +26,11 @@ Base reutilizável para carrosséis do Instagram (1080×1080, quadrado).
 
 ## Padrão de cores (regra do dono)
 
-- Fundo escuro (marinho) → destaque **verde neon**
+- Fundo escuro (marinho) → régua/barras **verde APSIDE `#34544C`**; palavra de destaque **azul `#0066FF`**
 - Fundo claro (branco) → destaque **azul elétrico**
 - Alterna escuro ↔ claro slide a slide (nunca dois iguais seguidos)
 - LOGO/ÍCONE trocados por fundo (escuro → `LOGO/ICONE FUNDO ESCURO`, claro → `CLARO`)
-- Régua e palavra-chave usam a cor de destaque — **nunca gradiente atrás de texto**
+- Régua = cor estrutural do slide; palavra-chave = azul `#0066FF` — **nunca gradiente atrás de texto**
 - LOGO no topo; ícone pequeno no canto inferior (invertido com o `@handle`)
 
 ## Correções tranquilas (tudo num só lugar)
@@ -41,7 +41,7 @@ As 4 variáveis no topo do `<style>` controlam toda a paleta:
 :root {
   --fundo-escuro:  #1F2133;
   --fundo-claro:   #FFFFFF;
-  --acento-escuro: #00E65B;  /* verde neon  */
+  --acento-escuro: #34544C;  /* verde APSIDE - so elementos (regua); palavras = #0066FF */
   --acento-claro:  #0066FF;  /* azul elétrico */
 }
 ```

@@ -67,7 +67,7 @@ function HCard({
     Math.round(100 - Math.abs(index - c) * 10)
   );
 
-  const accent = item.tone === "green" ? "#00E65B" : "#0066FF";
+  const accent = "#0066FF";
 
   return (
     <div

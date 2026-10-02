@@ -107,7 +107,7 @@ export function Problem() {
                 y2="120"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#00E65B" />
+                <stop stopColor="#34544C" />
                 <stop offset="1" stopColor="#0066FF" />
               </linearGradient>
             </defs>

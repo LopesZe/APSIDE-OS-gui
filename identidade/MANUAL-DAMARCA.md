@@ -95,9 +95,9 @@ O ícone é um símbolo orbital (átomo) que representa IA, tecnologia e conexã
 
 | Versão | Arquivo | Fundo | Cor do símbolo |
 |---|---|---|---|
-| Gradiente | `icone-apside.svg` | Escuro (`#1F2133`) | Gradiente da marca |
+| Verde | `icone-apside.svg` | Escuro (`#1F2133`) | Verde APSIDE `#34544C` |
 | Branco | `icone-apside-branco.svg` | Escuro (`#1F2133`) | Branco `#FFFFFF` |
-| Gradiente | `icone-apside-claro.svg` | Claro (`#FFFFFF`) | Gradiente da marca |
+| Verde | `icone-apside-claro.svg` | Claro (`#FFFFFF`) | Verde APSIDE `#34544C` |
 | Preto | `icone-apside-preto.svg` | Claro (`#FFFFFF`) | Preto `#000000` |
 
 ### 3.3 Tamanhos
@@ -122,26 +122,28 @@ O ícone é um símbolo orbital (átomo) que representa IA, tecnologia e conexã
 
 ### 4.1 Cores primárias
 
-| Nome | HEX | RGB | CMYK | Uso |
-|---|---|---|---|---|
-| Marinho | `#1F2133` | 31, 33, 51 | 85, 78, 52, 62 | Fundo principal |
-| Branco | `#FFFFFF` | 255, 255, 255 | 0, 0, 0, 0 | Fundo claro |
-| Preto | `#000000` | 0, 0, 0 | 0, 0, 0, 100 | Texto |
-
-### 4.2 Cores do gradiente
-
-| Nome | HEX | RGB | Posição |
+| Nome | HEX | RGB | Uso |
 |---|---|---|---|
-| Verde Neon | `#00E65B` | 0, 230, 91 | 0% |
-| Azul Elétrico | `#0066FF` | 0, 102, 255 | 50% |
-| Roxo | `#6E00FF` | 110, 0, 255 | 100% |
+| Marinho | `#1F2133` | 31, 33, 51 | Fundo principal |
+| Branco | `#FFFFFF` | 255, 255, 255 | Fundo claro |
+| Preto | `#000000` | 0, 0, 0 | Texto |
+| Verde APSIDE | `#34544C` | 52, 84, 76 | Destaque, cards, setas, ícone |
+| Azul Elétrico | `#0066FF` | 0, 102, 255 | Apoio em fundo claro |
+
+### 4.2 Gradiente — ABOLIDO (02/10/2026)
+
+**Nunca usar gradiente da marca.** O trio verde→azul→roxo foi substituído por
+cores chapadas. Roxo `#6E00FF` saiu da paleta. Ordem do operador, 02/10/2026.
 
 ### 4.3 Regra de destaque
 
-| Fundo | Cor de destaque |
-|---|---|
-| Escuro (`#1F2133`) | Verde Neon `#00E65B` |
-| Claro (`#FFFFFF`) | Azul Elétrico `#0066FF` |
+| Fundo | Cor de destaque (elementos) | Palavra de destaque | Texto base |
+|---|---|---|---|
+| Escuro (`#1F2133`) | Verde APSIDE `#34544C` | **Azul `#0066FF`** | Branco `#FFFFFF` |
+| Claro (`#FFFFFF`) | Azul `#0066FF` | **Azul `#0066FF`** | Preto `#000000` |
+
+Regra de palavra (02/10/2026): palavra/numeral de destaque = azul `#0066FF` em
+qualquer fundo. Verde `#34544C` nunca como cor de texto.
 
 ### 4.4 Cores de suporte
 
@@ -155,7 +157,7 @@ O ícone é um símbolo orbital (átomo) que representa IA, tecnologia e conexã
 ### 4.5 Proibido
 
 - Usar cores fora da paleta
-- Aplicar gradiente em textos longos (só em destaques e CTAs)
+- Usar gradiente da marca em qualquer peça (abolido 02/10/2026)
 - Misturar cores de marcas parceiras com as cores da APSIDE
 
 ---
@@ -220,8 +222,8 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 | Tipo | Fundo | Texto | Borda |
 |---|---|---|---|
-| Primário (CTA) | Gradiente da marca | Branco | Nenhuma |
-| Secundário | Transparente | Gradiente | 1px gradiente |
+| Primário (CTA) | Verde chapado `#34544C` | Branco | Nenhuma |
+| Secundário | Transparente | `#34544C` | 1px `#34544C` |
 | Ghost | Transparente | Branco/Preto | Nenhuma |
 
 ---
@@ -230,8 +232,8 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 ### 7.1 Regra de alternância
 
-- Fundo escuro → destaque **verde neon**
-- Fundo claro → destaque **azul elétrico**
+- Fundo escuro → régua/barras **verde APSIDE `#34544C`**; palavra de destaque **azul `#0066FF`**; texto base branco
+- Fundo claro → régua/barras **azul elétrico**; palavra de destaque **azul**; texto base preto
 - Nunca dois fundos iguais seguidos
 
 ### 7.2 Posicionamento
@@ -256,7 +258,7 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 - Ícone + @handle no canto inferior
 - Régua usa a cor de destaque do slide
 - Nunca gradiente atrás de texto
-- Roxo só entra se presente desde o slide 1
+- Nunca gradiente da marca (abolido 02/10/2026)
 
 ---
 
@@ -266,7 +268,7 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 | Aplicação | Logo | Ícone | Cores |
 |---|---|---|---|
-| Site | Wordmark | Favicon | Marinho + gradiente |
+| Site | Wordmark | Favicon | Marinho + verde `#34544C` |
 | Carrossel | Wordmark | Ícone canto | Escuro/claro alternado |
 | Post único | Wordmark | Ícone canto | Escuro ou claro |
 | Story | — | Ícone centro | Escuro |
@@ -277,7 +279,7 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 | Aplicação | Logo | Ícone | Cores |
 |---|---|---|---|
-| Cartão de visita | Wordmark | Ícone verso | Marinho + gradiente |
+| Cartão de visita | Wordmark | Ícone verso | Marinho + verde `#34544C` |
 | Proposta (A4) | Wordmark header | — | Claro |
 | Banner | Wordmark | Ícone | Escuro |
 
@@ -293,9 +295,9 @@ identidade/
 ├── logo-apside.svg                ← wordmark branco
 ├── logo-apside-claro.svg          ← wordmark preto
 │
-├── icone-apside.svg               ← ícone gradiente (fundo escuro)
+├── icone-apside.svg               ← ícone verde sólido (fundo escuro)
 ├── icone-apside-branco.svg        ← ícone branco (fundo escuro)
-├── icone-apside-claro.svg         ← ícone gradiente (fundo claro)
+├── icone-apside-claro.svg         ← ícone verde sólido (fundo claro)
 ├── icone-apside-preto.svg         ← ícone preto (fundo claro)
 │
 └── marcas.md                      ← marcas parceiras (template)
@@ -314,7 +316,7 @@ Antes de publicar qualquer peça:
 - [ ] Bordas e sombras seguem o manual?
 - [ ] Não há cores "do nada" no meio da peça?
 - [ ] Não há buzzwords proibidas?
-- [ ] Gradiente só aparece em destaques, não em texto longo?
+- [ ] Sem gradiente da marca em nenhuma parte da peça?
 
 ---
 

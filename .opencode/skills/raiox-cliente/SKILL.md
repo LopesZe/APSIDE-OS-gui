@@ -197,7 +197,7 @@ Skill de diagnóstico e prospecção. Recebe os dados de um cliente → pesquisa
 | 6 | **Notas internas** | Pontos de atenção, argumento de venda, materiais necessários, próximos passos |
 
 **Regras visuais:**
-- Cores da APSIDE (verde neon `#00E65B` + fundo escuro `#1F2133`)
+- Cores da APSIDE (verde `#34544C` + fundo escuro `#1F2133`; nunca gradiente da marca)
 - Logo APSIDE em todas as páginas
 - Este documento NÃO é pro cliente
 
@@ -226,7 +226,7 @@ mostrar o "depois" sem construir nada.
 | Topo | Badge com nome do cliente + data + logo APSIDE |
 | Coluna esquerda (desktop) | Moldura de navegador com o site completo |
 | Coluna direita (mobile) | Mockup de celular com as mesmas seções |
-| Rodapé | Barra de gradiente APSIDE + legenda "Prévia de layout — não é o site final" |
+| Rodapé | Barra verde `#34544C` + legenda "Prévia de layout — não é o site final" |
 
 **Seções padrão (na ordem, seguindo o modelo do cliente):**
 1. **Header** — logo real + menu + 2 CTAs

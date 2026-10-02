@@ -9,10 +9,10 @@
 :root{
   --marinho:#1F2133;
   --branco:#FFFFFF;
-  --verde:#00E65B;
+  --verde:#0066FF;
   --azul:#0066FF;
-  --roxo:#6E00FF;
-  --grad:linear-gradient(90deg,#00E65B 0%,#0066FF 50%,#6E00FF 100%);
+  --roxo:#0066FF;
+  --grad:#34544C;
   --borda-escura:rgba(255,255,255,0.08);
   --borda-clara:rgba(0,0,0,0.08);
   --sombra-escura:0 4px 24px rgba(0,0,0,0.4);
@@ -28,7 +28,7 @@ h1,h2,h3,.dm{font-family:'DM Sans',sans-serif}
 
 .slide{min-height:100vh;padding:80px 8vw;display:flex;flex-direction:column;justify-content:center;position:relative}
 .slide.dark{background:var(--marinho);color:#fff}
-.slide.light{background:var(--branco);color:#000}
+.slide.light{background:var(--branco);color:#000;--grad:#0066FF}
 .slide .kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;font-weight:600;margin-bottom:18px}
 .slide.dark .kicker{color:var(--verde)}
 .slide.light .kicker{color:var(--azul)}
@@ -62,7 +62,7 @@ h1,h2,h3,.dm{font-family:'DM Sans',sans-serif}
 
 /* quote */
 .quote{border-radius:12px;padding:34px 36px;position:relative;max-width:960px}
-.slide.dark .quote{background:rgba(0,230,91,.06);border:1px solid rgba(0,230,91,.25)}
+.slide.dark .quote{background:rgba(52,84,76,.06);border:1px solid rgba(52,84,76,.25)}
 .slide.light .quote{background:rgba(0,102,255,.05);border:1px solid rgba(0,102,255,.2)}
 .quote .mark{font-family:'DM Sans',sans-serif;font-size:64px;line-height:.6;opacity:.35;display:block;margin-bottom:10px}
 .slide.dark .quote .mark{color:var(--verde)}
@@ -106,9 +106,7 @@ td.good{font-weight:600}
 /* option cards */
 .opt{border-radius:12px;padding:30px;display:flex;flex-direction:column;gap:12px}
 .slide.light .opt{background:#fff;border:1px solid var(--borda-clara);box-shadow:var(--sombra-clara)}
-.opt.rec{border:2px solid transparent;background:
-  linear-gradient(#fff,#fff) padding-box,
-  var(--grad) border-box;
+.opt.rec{border:2px solid var(--grad);background:#fff;
   box-shadow:0 8px 32px rgba(0,102,255,.18)}
 .opt .opt-h{display:flex;align-items:center;gap:10px}
 .opt .opt-h .badge{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:5px 12px;border-radius:12px;background:var(--grad);color:#fff}
