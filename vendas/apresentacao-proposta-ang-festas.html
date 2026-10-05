@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ANG Festas — Diagnóstico de Vazamento de Vendas | APSIDE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --marinho:#1F2133;
+  --verde:#34544C;
+  --azul:#0066FF;
+  --branco:#FFFFFF;
+  --preto:#000000;
+  --borda-esc:rgba(255,255,255,0.08);
+  --borda-cla:rgba(0,0,0,0.08);
+  --sombra-esc:0 4px 24px rgba(0,0,0,0.4);
+  --sombra-cla:0 4px 24px rgba(0,0,0,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{font-family:'Inter',sans-serif;background:#000;overflow:hidden}
+
+.slide{position:absolute;inset:0;display:none;flex-direction:column;padding:5vh 7vw;justify-content:center}
+.slide.active{display:flex}
+.dark{background:var(--marinho);color:#fff}
+.light{background:var(--branco);color:#000}
+.hl{color:var(--azul)}
+.dark .kicker,.light .kicker{color:var(--azul)}
+.regua{position:absolute;top:0;left:0;right:0;height:6px;background:var(--verde)}
+.light .regua{background:var(--azul)}
+
+header{position:absolute;top:3.2vh;right:7vw;display:flex;align-items:center;gap:14px}
+header img{width:110px;display:block}
+.icon{position:absolute;bottom:3vh;right:7vw;width:34px;opacity:.9}
+.icon-sm{width:26px}
+
+h1{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(30px,4.4vw,58px);line-height:1.08;margin-bottom:2.4vh}
+h2{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(24px,3vw,42px);line-height:1.12;margin-bottom:2.6vh}
+h3{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(16px,1.5vw,21px);margin-bottom:8px}
+p,li{font-size:clamp(14px,1.3vw,18px);line-height:1.55}
+.kicker{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(12px,1vw,15px);letter-spacing:.18em;text-transform:uppercase;margin-bottom:2vh}
+.sub{opacity:.75;font-size:clamp(14px,1.25vw,17px);line-height:1.5}
+
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:2.2vw;margin-top:1vh}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.6vw;margin-top:1vh}
+.card{border-radius:12px;padding:2.2vh 1.6vw}
+.dark .card{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc);box-shadow:var(--sombra-esc)}
+.light .card{background:#f8f9fa;border:1px solid var(--borda-cla);box-shadow:var(--sombra-cla)}
+.card p{font-size:clamp(13px,1.1vw,16px);line-height:1.5}
+
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4vw;margin-top:3vh}
+.stats-3{grid-template-columns:repeat(3,1fr)}
+.stat{border-radius:12px;padding:2.4vh 1vw;text-align:center}
+.dark .stat{border:1px solid var(--borda-esc);background:rgba(255,255,255,.04)}
+.light .stat{border:1px solid var(--borda-cla);background:#f8f9fa}
+.stat .num{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(24px,2.8vw,42px);line-height:1;color:var(--azul)}
+.stat .lbl{font-size:clamp(11px,1vw,14px);opacity:.7;margin-top:8px}
+
+ul.clean{list-style:none;display:flex;flex-direction:column;gap:1.1vh;margin-top:1vh}
+ul.clean li{padding-left:30px;position:relative}
+ul.clean li::before{content:"";position:absolute;left:0;top:.5em;width:14px;height:14px;border-radius:50%}
+.dark ul.clean li::before{border:3px solid var(--verde)}
+.light ul.clean li::before{border:3px solid var(--azul)}
+ul.clean li b{font-weight:600}
+
+.quote{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(20px,2.5vw,34px);line-height:1.3}
+.big-quote{font-size:clamp(23px,3.2vw,46px);line-height:1.22;font-weight:700}
+
+table{width:100%;border-collapse:collapse;margin-top:1vh}
+th,td{text-align:left;padding:1.1vh 1vw;font-size:clamp(12px,1.1vw,16px);line-height:1.4;border-bottom:1px solid}
+.dark th,.dark td{border-color:var(--borda-esc)}
+.light th,.light td{border-color:var(--borda-cla)}
+th{font-family:'DM Sans',sans-serif;font-weight:600;opacity:.75;font-size:clamp(11px,.95vw,14px);text-transform:uppercase;letter-spacing:.08em}
+td b{font-weight:600}
+tr.destaque td{background:rgba(0,102,255,.08)}
+
+.flow{display:flex;align-items:stretch;gap:10px;margin-top:2vh;flex-wrap:wrap}
+.flow .step{flex:1;min-width:130px;border-radius:12px;padding:1.8vh 1vw;position:relative}
+.dark .step{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.light .step{background:#f8f9fa;border:1px solid var(--borda-cla)}
+.step .n{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(13px,1.05vw,15px);margin-bottom:6px;color:var(--azul)}
+.step p{font-size:clamp(11.5px,1vw,14px);line-height:1.4}
+.step .pct{display:block;margin-top:8px;font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(15px,1.5vw,22px);color:var(--azul)}
+
+.calc{border-radius:12px;padding:2.4vh 1.8vw;margin-top:2vh;font-family:'DM Sans',sans-serif}
+.dark .calc{background:rgba(0,102,255,.08);border:1px solid rgba(0,102,255,.35)}
+.light .calc{background:rgba(0,102,255,.05);border:1px solid rgba(0,102,255,.3)}
+.calc .linha{display:flex;justify-content:space-between;padding:.8vh 0;font-size:clamp(13px,1.15vw,17px)}
+.calc .linha.total{border-top:2px solid var(--azul);margin-top:1vh;padding-top:1.4vh;font-weight:700;font-size:clamp(15px,1.4vw,20px)}
+.calc .linha .v{color:var(--azul);font-weight:700}
+
+.note{margin-top:2.2vh;padding:1.6vh 1.4vw;border-radius:12px;font-size:clamp(13px,1.1vw,16px);line-height:1.5}
+.dark .note{border-left:4px solid var(--verde);background:rgba(52,84,76,.14)}
+.light .note{border-left:4px solid var(--azul);background:rgba(0,102,255,.06)}
+
+.price-box{border-radius:16px;padding:3.4vh 2.4vw;text-align:center;margin-top:2.5vh}
+.dark .price-box{background:rgba(0,102,255,.1);border:2px solid var(--azul)}
+.light .price-box{background:rgba(0,102,255,.06);border:2px solid var(--azul)}
+.price-box .val{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(30px,3.8vw,54px);line-height:1.1;color:var(--azul)}
+.price-box .cap{font-size:clamp(13px,1.15vw,17px);opacity:.75;margin-top:10px}
+
+.price{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4vw;margin-top:2vh}
+.price .p{border-radius:12px;padding:2.4vh 1.4vw;text-align:center}
+.dark .p{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.light .p{background:#f8f9fa;border:1px solid var(--borda-cla)}
+.p .val{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(19px,2.1vw,32px);line-height:1.1;color:var(--azul)}
+.p .cap{font-size:clamp(11.5px,1vw,14px);opacity:.7;margin-top:8px}
+.p.ativo{outline:2px solid var(--azul)}
+
+.garantia{display:inline-block;border-radius:999px;padding:8px 22px;font-weight:700;font-size:clamp(13px,1.15vw,17px);margin-top:2vh}
+.dark .garantia{background:var(--verde);color:#fff}
+.light .garantia{background:var(--azul);color:#fff}
+
+.passo{display:grid;grid-template-columns:150px 1fr;gap:1.4vw;margin-bottom:1.4vh;align-items:start}
+.passo .quando{font-family:'DM Sans',sans-serif;font-weight:600;color:var(--azul);font-size:clamp(13px,1.15vw,17px)}
+.passo .oq{font-size:clamp(13px,1.1vw,16px);line-height:1.45}
+.passo .oq b{font-weight:600}
+
+/* grid numerado das 7 peças */
+.pecas{display:grid;grid-template-columns:repeat(4,1fr);gap:1.3vw;margin-top:1vh}
+.pecas .peca{border-radius:12px;padding:1.8vh 1.1vw;position:relative}
+.dark .pecas .peca{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.light .pecas .peca{background:#f8f9fa;border:1px solid var(--borda-cla)}
+.pecas .num{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(20px,2vw,30px);line-height:1;color:var(--azul);margin-bottom:8px}
+.pecas h4{font-family:'DM Sans',sans-serif;font-size:clamp(13px,1.1vw,16px);font-weight:600;margin-bottom:6px}
+.pecas p{font-size:clamp(11.5px,.95vw,13.5px);line-height:1.42;opacity:.8}
+.pecas .peca.full{grid-column:span 2}
+
+/* mocks de landing page */
+.lps{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.6vw;margin-top:1vh}
+.lp{border-radius:12px;overflow:hidden;background:#fff;color:#111;border:1px solid var(--borda-cla);box-shadow:var(--sombra-esc)}
+.lp .bar{display:flex;align-items:center;gap:6px;padding:8px 10px;background:#eceff3;border-bottom:1px solid #dde2e8}
+.lp .dot{width:8px;height:8px;border-radius:50%;background:#c9cfd8}
+.lp .url{margin-left:6px;font-size:clamp(9px,.75vw,11px);color:#5b6472;background:#fff;border-radius:6px;padding:3px 8px;font-family:'DM Sans',sans-serif}
+.lp .hero{padding:16px 14px 14px}
+.lp .tag{display:inline-block;font-size:clamp(9px,.7vw,11px);font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 9px;border-radius:999px;margin-bottom:9px}
+.lp .titulo{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(13px,1.15vw,17px);line-height:1.2;margin-bottom:7px}
+.lp .linha{font-size:clamp(10.5px,.85vw,13px);line-height:1.45;color:#444;margin-bottom:5px;padding-left:14px;position:relative}
+.lp .linha::before{content:"";position:absolute;left:0;top:.45em;width:7px;height:7px;border-radius:50%}
+.lp .cta{display:block;margin:11px 14px 15px;text-align:center;border-radius:9px;padding:9px 0;font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(11px,.9vw,13px);color:#fff}
+.lp.infantil .tag{background:#FFE8E3;color:#D94A2B}
+.lp.infantil .linha::before{background:#FF8C6B}
+.lp.infantil .cta{background:#E85A3C}
+.lp.casamento .tag{background:#EAF3EE;color:#34544C}
+.lp.casamento .linha::before{background:#34544C}
+.lp.casamento .cta{background:#34544C}
+.lp.corp .tag{background:#E6EDFF;color:#0047B3}
+.lp.corp .linha::before{background:#0066FF}
+.lp.corp .cta{background:#0066FF}
+
+.nav{position:fixed;bottom:0;left:0;right:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);z-index:50}
+.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:14px;color:#fff;background:rgba(255,255,255,.12);border:none;border-radius:12px;padding:9px 20px;cursor:pointer}
+.nav .btn:hover{background:var(--azul)}
+.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(255,255,255,.12)}
+.nav .counter{color:#fff;font-size:13px;font-family:'DM Sans',sans-serif;letter-spacing:.06em}
+.progress{position:fixed;top:0;left:0;height:6px;background:rgba(255,255,255,.92);z-index:60;transition:width .25s ease}
+.hint{position:fixed;bottom:60px;right:22px;color:rgba(255,255,255,.55);font-size:12px;z-index:50}
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<!-- 1 — CAPA (escuro) · sem valores: gera curiosidade -->
+<section class="slide dark active">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Diagnóstico de vazamento de vendas · Proposta</div>
+  <h1>ANG Festas<br>O Google já sabe <span class="hl">onde você perde venda</span></h1>
+  <p class="sub">Investigação completa do seu funil — do clique ao sinal pago. Dados reais de Ponta Grossa, concorrentes auditados campo a campo, e o plano exato pra recuperar.</p>
+  <div class="stats stats-3">
+    <div class="stat"><div class="num" style="font-size:clamp(16px,1.6vw,24px)">Funil</div><div class="lbl">mapeado etapa por etapa, com a Maria</div></div>
+    <div class="stat"><div class="num" style="font-size:clamp(16px,1.6vw,24px)">Concorrentes</div><div class="lbl">auditados no Google, um por um</div></div>
+    <div class="stat"><div class="num" style="font-size:clamp(16px,1.6vw,24px)">Plano</div><div class="lbl">com prazo, preço e garantia escrita</div></div>
+  </div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 2 — METODOLOGIA (claro) · só o que analisamos -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Como este diagnóstico foi feito</div>
+  <h2>Investigação do funil de vendas — <span class="hl">não um checklist</span></h2>
+  <div class="cols">
+    <div class="card">
+      <h3>O que entrou na análise</h3>
+      <ul class="clean">
+        <li><b>Entrevista investigativa com a Maria</b> — 30 minutos mapeando como uma venda acontece hoje, do primeiro contato ao sinal</li>
+        <li><b>Verificação campo a campo do Google Meu Negócio</b> — fotos, posts, avaliações, categorias, horários, link do site</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>&nbsp;</h3>
+      <ul class="clean">
+        <li><b>Volume de busca local</b> — quantas pessoas em Ponta Grossa procuram por esses serviços todo mês</li>
+        <li><b>Auditoria de concorrentes</b> — quem aparece nos 3 primeiros resultados, o que oferecem e o que você não está oferecendo</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note">Cada número deste diagnóstico veio de verificação direta, entrevista com a Maria ou dados de busca reais de Ponta Grossa — nenhum número é estimativa genérica de mercado.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 3 — FUNIL ATUAL (escuro) · redesenhado, mais apresentável -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Seu funil de vendas hoje · mapeado com a Maria</div>
+  <h2>Como uma venda acontece na ANG Festas <span class="hl">agora</span></h2>
+  <div class="flow">
+    <div class="step"><div class="n">1 · Descoberta</div><p>Indicação no WhatsApp ou passou em frente ao espaço</p></div>
+    <div class="step"><div class="n">2 · Contato</div><p>WhatsApp ou telefone</p><span class="pct">100%</span></div>
+    <div class="step"><div class="n">3 · Visita</div><p>Visita agendada ao espaço</p><span class="pct">60%</span></div>
+    <div class="step"><div class="n">4 · Proposta</div><p>Orçamento enviado após a visita</p><span class="pct">40%</span></div>
+    <div class="step"><div class="n">5 · Sinal</div><p>Cliente confirma e paga o sinal</p><span class="pct">70%</span></div>
+  </div>
+  <div class="stats stats-3">
+    <div class="stat"><div class="num">16,8%</div><div class="lbl">conversão geral do funil atual</div></div>
+    <div class="stat"><div class="num">~80%</div><div class="lbl">dos contatos chegam por indicação boca a boca</div></div>
+    <div class="stat"><div class="num">0%</div><div class="lbl">vem do Google — perfil inerte (detalhe no próximo slide)</div></div>
+  </div>
+  <div class="note">Seu funil <b>funciona</b>: quem chega, fecha — 16,8% de eficiência. O problema não é conversão. É que <b>quase ninguém chega</b> — e o Google, onde centenas de pessoas por mês procuram ativamente um espaço, não traz ninguém.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 4 — EVIDÊNCIA GMB (claro) · aprovado pelo operador -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Evidência · estado real do seu Google Meu Negócio</div>
+  <h2>Verificação campo a campo — <span class="hl">o que encontramos</span></h2>
+  <table>
+    <tr><th>Campo</th><th>Status</th><th>O impacto</th></tr>
+    <tr><td><b>Fotos (capa e galeria)</b></td><td>❌ Ausente</td><td>Google prioriza perfis com fotos — você não aparece no mapa visual</td></tr>
+    <tr><td><b>Posts no perfil</b></td><td>❌ Zero em 6 meses</td><td>Perfis ativos ganham ranqueamento; seu perfil está "morto" pro Google</td></tr>
+    <tr><td><b>Categoria</b></td><td>❌ Genérica ("Espaço para eventos")</td><td>Não aparece em buscas por tipo específico (infantil, casamento, corporativo)</td></tr>
+    <tr><td><b>Avaliações</b></td><td>⚠️ 3 (genéricas, sem resposta)</td><td>Concorrentes com centenas de avaliações e respostas roubam sua credibilidade</td></tr>
+    <tr><td><b>Link do site</b></td><td>❌ Ausente</td><td>Tráfego do Google não chega no seu site — canal completamente fechado</td></tr>
+    <tr><td><b>Horário / Perguntas</b></td><td>⚠️ Incompleto / vazio</td><td>Lead sem resposta imediata vai pro concorrente que responde</td></tr>
+  </table>
+  <div class="note">Resultado prático: quando alguém em Ponta Grossa digita <b>"espaço para festas perto de mim"</b>, seu concorrente aparece no mapa com fotos, avaliações e site. Você não aparece.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 5 — CONCORRÊNCIA (escuro) · novo — estilo Kelvin/JB -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Auditoria de concorrentes · quem domina a busca hoje</div>
+  <h2>Quem o cliente vê <span class="hl">antes de ver você</span></h2>
+  <table>
+    <tr><th>Concorrente direto (Ponta Grossa)</th><th>Google</th><th>O que já fazem</th></tr>
+    <tr><td><b>Mirante dos Campos Festas e Eventos</b></td><td>5,0 ★ · 225 avaliações</td><td>Site próprio, fotos, redes ativas</td></tr>
+    <tr><td><b>Villagio Verde Eventos</b> — Santa Paula, seu bairro</td><td>4,9 ★ · 286 avaliações</td><td>Site próprio, avaliações recentes e respondidas</td></tr>
+    <tr><td><b>Quinta Rose Eventos</b></td><td>4,8 ★ · 140 avaliações</td><td>Site próprio, presença consolidada</td></tr>
+    <tr><td><b>Chácara Berté</b></td><td>4,7 ★ · 415 avaliações</td><td>Centenas de avaliações acumuladas</td></tr>
+    <tr class="destaque"><td><b>ANG Festas</b></td><td><b>3 avaliações genéricas</b></td><td><b>Zero fotos, zero posts, sem link do site</b></td></tr>
+  </table>
+  <div class="note">Eles não vendem melhor que você — <b>eles são simplesmente encontrados e você não</b>. Mas tem uma lacuna aberta: ninguém está segmentando a disputa por tipo de evento (infantil, casamento, corporativo). Quem ocupar esse espaço primeiro, leva.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 6 — QUANTIFICAÇÃO (claro) · com premissa de ocupação -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Quantificação · o custo do silêncio no Google</div>
+  <h2>Quanto isso custa <span class="hl">por mês</span></h2>
+  <div class="calc">
+    <div class="linha"><span>Buscas locais relevantes/mês em Ponta Grossa</span><span class="v">340</span></div>
+    <div class="linha"><span>Tráfego perdido (você está na página 2, posição ~12)</span><span class="v">93%</span></div>
+    <div class="linha"><span>Contatos perdidos/mês (316 visitas × 8% conversão)</span><span class="v">25</span></div>
+    <div class="linha"><span>Vendas perdidas/mês (25 contatos × 16,8% do seu funil)</span><span class="v">4,2</span></div>
+    <div class="linha"><span>Ticket médio estimado</span><span class="v">R$ 1.200</span></div>
+    <div class="linha total"><span>PERDA MENSAL ESTIMADA</span><span class="v">R$ 5.040</span></div>
+    <div class="linha total"><span>PERDA ANUAL ESTIMADA</span><span class="v">R$ 60.480</span></div>
+  </div>
+  <div class="note"><b>Premissa honesta:</b> esta conta assume que o salão tem <b>datas livres</b> (capacidade ociosa) — não temos os dados de ocupação do espaço. Se as agendas estiverem lotadas, o gargalo não é o Google e o plano muda junto. Esse número é o teto do que está disponível recuperar, e será validado com a Maria.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 7 — VAZAMENTOS (escuro) · amarrados às evidências -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Diagnóstico · 3 pontos de vazamento, cada um com fonte</div>
+  <h2>De onde exatamente sai <span class="hl">cada real perdido</span></h2>
+  <div class="cols3">
+    <div class="card">
+      <h3 class="hl">1 · Google — R$ 2.520/mês</h3>
+      <p>Perfil GMB inerte: sem fotos, sem posts, sem link do site.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: verificação campo a campo do seu perfil (slide de evidência)</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">2 · Site — R$ 1.680/mês</h3>
+      <p>Site bonito, mas é folheto: tudo pra todo mundo, nada por tipo de evento. Sem segmentação, o tráfego que chega não converte.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: auditoria do site atual + volume de busca por tipo de evento</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">3 · Atendimento — R$ 840/mês</h3>
+      <p>Maria perde tempo com lead não qualificado: data ocupada, orçamento impossível. Visita → proposta trava em 40%.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: entrevista com a Maria e taxas do funil atual</p>
+    </div>
+  </div>
+  <div class="note">Os três vazamentos se conectam: sem Google não chega lead; sem site segmentado o lead que vê não confia; sem qualificação o lead que chega desperdiça tempo da Maria. <b>O sistema fecha os três ao mesmo tempo.</b></div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 8 — O SISTEMA (claro) · 7 peças redesenhadas em grid numerado -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">A solução · o que será instalado</div>
+  <h2>Sistema de captação da ANG Festas — <span class="hl">7 peças</span></h2>
+  <div class="pecas">
+    <div class="peca"><div class="num">01</div><h4>Google Meu Negócio completo</h4><p>20 fotos reais por tipo de evento, categorias específicas, posts semanais, respostas a avaliações, link do site</p></div>
+    <div class="peca"><div class="num">02</div><h4>Landing page infantil</h4><p>Fala com pais: segurança, área kids, decoração temática, depoimentos de festas infantis reais</p></div>
+    <div class="peca"><div class="num">03</div><h4>Landing page casamento</h4><p>Fala com noivas: romantismo, flexibilidade de decoração, tour do espaço, data e capacidade</p></div>
+    <div class="peca"><div class="num">04</div><h4>Landing page corporativa</h4><p>Fala com RH e administradores: logística, coffee break, capacidade, relatório de custo</p></div>
+    <div class="peca"><div class="num">05</div><h4>Pré-qualificação no WhatsApp</h4><p>3 perguntas antes da visita: data, convidados, orçamento. Filtra lead impossível antes da Maria gastar tempo</p></div>
+    <div class="peca"><div class="num">06</div><h4>Nutrição automática</h4><p>3 mensagens nos dias seguintes ao primeiro contato: prova social + oferta de visita + urgência de agenda</p></div>
+    <div class="peca"><div class="num">07</div><h4>Medição por venda</h4><p>Cada contato rastreado até o sinal pago. Todo mês: quantas vendas vieram do Google</p></div>
+    <div class="peca"><div class="num">→</div><h4>Regra de ouro</h4><p>Se a peça não move "contato → visita → proposta → sinal", ela não existe. Nada de métrica de vaidade.</p></div>
+  </div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 9 — LANDING PAGES (escuro) · novo: as 3 LPs tangibilizadas -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">As 3 landing pages · uma pra cada tipo de cliente</div>
+  <h2>Quem busca casamento cai na página de casamento — <span class="hl">não num site genérico</span></h2>
+  <div class="lps">
+    <div class="lp infantil">
+      <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="url">angfestas.com.br/festas-infantis</span></div>
+      <div class="hero">
+        <span class="tag">Festa infantil</span>
+        <div class="titulo">A festa que seu filho vai contar por anos — sem você virar refém da organização</div>
+        <div class="linha">Área kids com monitoramento e segurança</div>
+        <div class="linha">Decoração temática do seu jeito</div>
+        <div class="linha">Depoimentos de famílias de Ponta Grossa</div>
+      </div>
+      <span class="cta">Consultar datas pelo WhatsApp</span>
+    </div>
+    <div class="lp casamento">
+      <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="url">angfestas.com.br/casamentos</span></div>
+      <div class="hero">
+        <span class="tag">Casamento</span>
+        <div class="titulo">Seu casamento, do jeito que você sonhou — com a estrutura pronta pra receber</div>
+        <div class="linha">Salão climatizado + área externa</div>
+        <div class="linha">Decoração flexível, sem amarras</div>
+        <div class="linha">Visita agendada direto pelo WhatsApp</div>
+      </div>
+      <span class="cta">Agendar visita ao espaço</span>
+    </div>
+    <div class="lp corp">
+      <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="url">angfestas.com.br/eventos-corporativos</span></div>
+      <div class="hero">
+        <span class="tag">Corporativo</span>
+        <div class="titulo">Confraternização, treinamento ou lançamento — logística resolvida de ponta a ponta</div>
+        <div class="linha">Coffee break e estrutura para equipes</div>
+        <div class="linha">Capacidade e relatório de custo claros</div>
+        <div class="linha">Resposta rápida pra quem decide</div>
+      </div>
+      <span class="cta">Solicitar proposta corporativa</span>
+    </div>
+  </div>
+  <div class="note">Cada página é um funil próprio: fala a língua do público, no momento exato da intenção de busca. O mesmo vale no Google Meu Negócio — 20 fotos separadas por tipo de evento.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 10 — MÉTRICAS POR PEÇA (claro) · aprovado pelo operador -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Do clique ao sinal · como cada peça vende</div>
+  <h2>Cada peça com <span class="hl">métrica de venda</span> — não de vaidade</h2>
+  <table>
+    <tr><th>Peça</th><th>Público</th><th>Métrica de venda</th></tr>
+    <tr><td><b>Landing page infantil</b></td><td>Pais de 0-12 anos buscando festa</td><td>Agendamentos de visita via WhatsApp/mês</td></tr>
+    <tr><td><b>Landing page casamento</b></td><td>Noivas 25-35 em planejamento</td><td>Tours agendados → propostas enviadas/mês</td></tr>
+    <tr><td><b>Landing page corporativa</b></td><td>RH e administradores</td><td>Eventos corporativos fechados/trimestre</td></tr>
+    <tr><td><b>GMB otimizado</b></td><td>Busca local "perto de mim"</td><td>Chamadas + rotas ao espaço/mês</td></tr>
+    <tr><td><b>Pré-qualificação</b></td><td>Todo lead que chega</td><td>Taxa visita → proposta (meta: 40% → 55%)</td></tr>
+    <tr><td><b>Nutrição WhatsApp</b></td><td>Lead que não respondeu</td><td>Recuperação de leads frios em 14 dias</td></tr>
+  </table>
+  <div class="note"><b>Regra de ouro desta entrega:</b> tudo que não puder ser medido em "contatos → visitas → propostas → sinal" não entra no escopo. Se não move venda, não é peça do sistema.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 11 — PRECIFICAÇÃO (escuro) · novo modelo: setup + recorrência, sem comissão -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Precificação · setup padrão + operação mensal</div>
+  <h2>Dois valores, direto ao ponto — <span class="hl">sem letras miúdas</span></h2>
+  <div class="price">
+    <div class="p"><div class="val">R$ 5.000</div><div class="cap"><b>Setup</b> — implantação única das 7 peças (nível base)</div></div>
+    <div class="p"><div class="val">R$ 500<span style="font-size:.55em">/mês</span></div><div class="cap"><b>Operação</b> — o sistema vivo, revisado e ajustado todo mês</div></div>
+    <div class="p"><div class="val">0%</div><div class="cap"><b>Sobre suas vendas</b> — não cobramos comissão nenhuma</div></div>
+  </div>
+  <div class="cols" style="margin-top:2.2vh">
+    <div class="card">
+      <h3>O que entra no setup (R$ 5.000)</h3>
+      <ul class="clean">
+        <li>GMB completo + 3 landing pages + pré-qualificação + nutrição + medição</li>
+        <li>Configuração integral até o primeiro relatório de contatos do Google</li>
+        <li>Setups maiores (R$ 10 mil / R$ 15 mil) existem pra escopos com CRM e automações sob medida — o seu não precisa disso</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>O que entra na operação (R$ 500/mês)</h3>
+      <ul class="clean">
+        <li>Revisão quinzenal do sistema: o que não está gerando contato, a gente ajusta</li>
+        <li>Relatório mensal de contatos vindos do Google e próximos passos</li>
+        <li>Suporte, correções e evolução contínua das peças</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note">Sem porcentagem sobre as suas vendas: nosso ganho é o setup + a operação mensal. <b>Previsível pra você, sem conflito de interesse</b> — nossa meta é a sua meta, medida em contatos qualificados que viram sinal pago.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 12 — GARANTIA (claro) · ajustada ao novo modelo -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Risco zero · garantia por escrito</div>
+  <h2>O risco é nosso — o resultado é <span class="hl">medido junto</span></h2>
+  <div class="cols">
+    <div class="card">
+      <h3>Garantia de 60 dias</h3>
+      <p>Se em <b>60 dias</b> o sistema não gerar pelo menos <b>4 contatos qualificados vindos do Google</b> (baseline: 0), reavaliamos e ajustamos <b>sem custo adicional</b> até atingir a meta.</p>
+      <p style="margin-top:10px">O contrato inclui <b>revisão quinzenal</b>: se uma peça não está gerando contato, ela é ajustada antes do prazo da garantia estourar.</p>
+    </div>
+    <div class="card">
+      <h3>Quando o setup se paga</h3>
+      <div class="price" style="margin-top:1vh">
+        <div class="p"><div class="val">~3,3 meses</div><div class="cap">com recuperação conservadora (30% — R$ 1.512/mês)</div></div>
+        <div class="p"><div class="val">~1 mês</div><div class="cap">se recuperarmos 100% do potencial (R$ 5.040/mês)</div></div>
+        <div class="p"><div class="val">0 risco</div><div class="cap">garantia de 60 dias por escrito</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="note">A conta é simples: <b>o setup de R$ 5.000 é menor do que dois meses do que está vazando</b> (R$ 5.040/mês estimado). E a mensalidade de R$ 500 se paga com uma única venda recuperada.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 13 — CRONOGRAMA (escuro) · conservador, sempre com folga -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Execução · prazos conservadores de propósito</div>
+  <h2>Cronograma: <span class="hl">prometemos com folga, entregamos adiantado</span></h2>
+  <div class="timeline" style="margin-top:1vh">
+    <div class="passo"><div class="quando">Dias 1–14</div><div class="oq"><b>GMB de emergência:</b> 20 fotos reais, categorias específicas, horário completo, link do site, primeiros posts, respostas de avaliação</div></div>
+    <div class="passo"><div class="quando">Dias 14–21</div><div class="oq"><b>Primeira landing page</b> (/festas-infantis — maior volume de busca) + pré-qualificação no WhatsApp instalada</div></div>
+    <div class="passo"><div class="quando">Dias 21–35</div><div class="oq"><b>Landings 2 e 3</b> (/casamentos e /eventos-corporativos) + sequência de nutrição de 3 mensagens</div></div>
+    <div class="passo"><div class="quando">Dias 35–45</div><div class="oq"><b>Primeiro relatório completo:</b> contatos vindos do Google, ajuste de títulos e imagens com base nos dados reais</div></div>
+    <div class="passo"><div class="quando">Dia 60</div><div class="oq"><b>Checkpoint de garantia:</b> ≥ 4 contatos qualificados do Google? Sim → escala. Não → ajuste grátis</div></div>
+  </div>
+  <div class="note">Por que prazos com folga? Porque <b>atrasar entrega é o que mata confiança</b>. Preferimos prometer 14 dias e entregar em 7 — do que prometer 7 e entregar em 14. Você nunca espera a gente.</div>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<!-- 14 — FECHAMENTO (claro) · conversão, 2 valores condensados -->
+<section class="slide light">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
+  <div class="kicker">Fechamento · o que muda a partir de amanhã</div>
+  <h2>De <span class="hl">zero contatos do Google</span> pra um sistema medindo cada venda</h2>
+  <div class="cols3">
+    <div class="card"><h3>Hoje</h3><p>Zero contatos do Google. Perfil inerte. Site genérico. Maria perde tempo com lead não qualificado. <b>R$ 5.040/mês estimados ficando na mesa.</b></p></div>
+    <div class="card"><h3>Em 45 dias</h3><p>GMB ativo com fotos e posts. 3 landing pages por público. Pré-qualificação no WhatsApp. <b>Primeiro relatório de contatos do Google.</b></p></div>
+    <div class="card"><h3>Em 90 dias</h3><p>Sistema medindo cada contato até o sinal pago. Otimização baseada em dados reais. <b>Decisão de escalar com ROI comprovado.</b></p></div>
+  </div>
+  <div class="price-box">
+    <div class="val">R$ 5.000 setup + R$ 500/mês</div>
+    <div class="cap">7 peças implantadas · operação revisada quinzenalmente · garantia de 60 dias · sem comissão sobre vendas</div>
+    <span class="garantia">Cada mês de espera custa R$ 5.040 estimados</span>
+  </div>
+  <div class="note" style="margin-top:2vh"><b>Próximo passo:</b> aprovação hoje = kickoff amanhã = primeiros dados do Google no primeiro relatório. A decisão está com você.</div>
+  <img class="icon icon-sm" src="../../../identidade/icone-apside-claro.svg" alt="">
+</section>
+
+<!-- 15 — CONTATO (escuro) -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">APSIDE · Estruturação digital para negócios locais</div>
+  <p class="quote big-quote">"Não vendemos presença no Google.<br>Vendemos <span class="hl">contatos qualificados</span> que viram sinal pago."</p>
+  <div class="cols" style="margin-top:3vh">
+    <div class="card">
+      <h3 class="hl">Guilherme · APSIDE</h3>
+      <p>WhatsApp: <b>(42) 99995-5452</b><br>wa.me/5542999955452<br>Ponta Grossa, PR</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">Documentos deste diagnóstico</h3>
+      <p>Relatório completo: <b>diagnostico-vendas-ang-festas-2026-10-05.md</b><br>Cálculos, fontes de dados e plano de recuperação detalhado.</p>
+    </div>
+  </div>
+  <p class="sub" style="margin-top:3vh">APSIDE · proposta gerada em 05/10/2026 · use ← → para navegar</p>
+  <img class="icon" src="../../../identidade/icone-apside.svg" alt="">
+</section>
+
+<div class="hint">← → navegar</div>
+<div class="nav">
+  <button class="btn" id="prev">← Anterior</button>
+  <span class="counter" id="counter">1 / 15</span>
+  <button class="btn" id="next">Próxima →</button>
+</div>
+
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+function show(n){
+  i=Math.max(0,Math.min(slides.length-1,n));
+  slides.forEach((s,k)=>s.classList.toggle('active',k===i));
+  document.getElementById('counter').textContent=(i+1)+' / '+slides.length;
+  document.getElementById('progress').style.width=((i+1)/slides.length*100)+'%';
+  document.getElementById('prev').disabled=i===0;
+  document.getElementById('next').disabled=i===slides.length-1;
+}
+document.getElementById('prev').onclick=()=>show(i-1);
+document.getElementById('next').onclick=()=>show(i+1);
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown'){e.preventDefault();show(i+1)}
+  if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();show(i-1)}
+  if(e.key==='Home')show(0);
+  if(e.key==='End')show(slides.length-1);
+});
+show(0);
+</script>
+</body>
+</html>
