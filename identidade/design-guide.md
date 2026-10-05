@@ -7,52 +7,85 @@
 
 ## 1. Paleta de cores
 
-### Cores primárias
+Paleta nova (ordem do operador, 05/10/2026) — índigo sobre obsidian. Substitui
+todo o time marinho/verde/azul anterior.
 
-| Cor | Hex | RGB | Uso |
+### Tokens
+
+| Token | Cor | Hex | RGB | Uso |
+|---|---|---|---|---|
+| `--brand-primary` | Índigo | `#4130D8` | rgb(65, 48, 216) | Ações principais, botões, CTA, destaques hero, régua/barras |
+| `--brand-secondary` | Índigo profundo | `#2F2399` | rgb(47, 35, 153) | Apoio, cards secundários, bordas, sombras profundas |
+| `--brand-accent` | Lavanda | `#948CD8` | rgb(148, 140, 216) | Subtítulos, badges, textos de apoio, palavra de destaque no escuro |
+| `--brand-background` | Obsidian | `#181721` | rgb(24, 23, 33) | Fundo principal (dark premium) |
+| `--brand-text` | Off-white | `#E7E6EF` | rgb(231, 230, 239) | Texto em superfície escura; superfície clara |
+
+### Superfícies
+
+| Superfície | Cor | Texto base | Apoio |
 |---|---|---|---|
-| Marinho (fundo escuro) | `#1F2133` | rgb(31, 33, 51) | Fundo principal, cards escuros |
-| Branco (fundo claro) | `#FFFFFF` | rgb(255, 255, 255) | Fundo claro, cards claros |
-| Preto | `#000000` | rgb(0, 0, 0) | Texto principal |
-| Verde APSIDE | `#34544C` | rgb(52, 84, 76) | Elementos estruturais: cards, barras, régua, bordas, banner, ícone — nunca texto |
-| Azul Elétrico | `#0066FF` | rgb(0, 102, 255) | Palavra/numeral de destaque (qualquer fundo), apoio |
-
-### Gradiente da marca — ABOLIDO (02/10/2026)
-
-**Nunca usar gradiente da marca.** O trio `#00E65B → #0066FF → #6E00FF` foi
-substituído por cores chapadas: verde vira `#34544C`, azul continua `#0066FF`,
-roxo saiu da paleta. Ordem do operador em 02/10/2026.
+| Escura | `#181721` | `#E7E6EF` | `#948CD8` |
+| Clara | `#E7E6EF` | `#181721` | `#2F2399` |
 
 ### Cor de destaque por fundo
 
-| Fundo | Destaque (elementos: régua, barras, bordas) | Palavra de destaque | Texto base |
+| Fundo | Palavra/numeral de destaque | Régua / barras | Botão primário |
 |---|---|---|---|
-| Escuro (`#1F2133`) | Verde APSIDE `#34544C` | **Azul `#0066FF`** | Branco |
-| Claro (`#FFFFFF`) | Azul `#0066FF` | **Azul `#0066FF`** | Preto |
+| Escuro (`#181721`) | **Lavanda `#948CD8`** | `#4130D8` (ou `#948CD8` quando a régua for fina demais pra `#4130D8`) | `#4130D8` + texto `#E7E6EF` |
+| Claro (`#E7E6EF`) | **Índigo `#4130D8`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
 
-**Regra de palavra (02/10/2026):** toda palavra/numeral de destaque usa azul
-`#0066FF`, em qualquer fundo. Verde `#34544C` fica só nos elementos
-estruturais — nunca como cor de texto.
+**Por que o destaque no escuro é lavanda:** `#4130D8` sobre `#181721` dá 2,2:1 de
+contraste — ilegível como texto. A lavanda dá ~5,9:1 e mantém o índigo para
+elementos e botões (contraste de texto branco/`#E7E6EF` sobre `#4130D8` ≈ 8:1).
 
-### Cores de borda e sombra
+### Cores fora da paleta (proibidas)
+
+`#1F2133` (marinho antigo), `#34544C` (verde antigo), `#0066FF` (azul antigo),
+`#00E65B`, `#6E00FF`, `#FFFFFF` como fundo. Branco puro só aparece dentro de
+fotos, prints e mockups de terceiros.
+
+### Gradiente — ABOLIDO
+
+Nenhum gradiente da marca, em nenhuma peça. Cores chapadas. (Trio antigo
+verde→azul→roxo abolido em 02/10/2026.)
+
+### Bordas e sombra
 
 | Contexto | Borda | Sombra |
 |---|---|---|
-| Fundo escuro | `rgba(255,255,255,0.08)` | `0 4px 24px rgba(0,0,0,0.4)` |
-| Fundo claro | `rgba(0,0,0,0.08)` | `0 4px 24px rgba(0,0,0,0.15)` |
+| Fundo escuro | `rgba(255,255,255,0.08)` | `0 4px 24px rgba(0,0,0,0.5)` |
+| Fundo claro | `rgba(24,23,33,0.08)` | `0 4px 24px rgba(24,23,33,0.15)` |
 
 ---
 
 ## 2. Tipografia
 
-| Elemento | Fonte | Pesos |
-|---|---|---|
-| Títulos e destaques | DM Sans | 500 / 600 / 700 |
-| Corpo, subtítulos, botões | Inter | 400 / 500 / 600 |
+Sistema de 3 fontes (ordem do operador, 05/10/2026). **Inter saiu.**
+
+| Token | Fonte | Papel | Pesos |
+|---|---|---|---|
+| `--font-display` | **DM Sans** | Títulos, chamadas, hero, logo (Bold 700, uppercase) | 400 / 500 / 700 / 800 |
+| `--font-body` | **Plus Jakarta Sans** | Corpo, UI, relatórios longos, propostas densas (mobile) | 400 / 500 / 600 |
+| `--font-mono` | **JetBrains Mono** | Preços, código, métricas, badges | 400 / 600 / 700 |
+
+### Escala tipográfica
+
+| Nível | Uso | Fonte / peso | Tamanho / line-height |
+|---|---|---|---|
+| Display / Hero | Chamada principal | DM Sans Bold | 48px / 1.1 |
+| Heading H2 | Títulos de seção | DM Sans Bold | 32px / 1.2 |
+| Card Title H3 | Título de card | DM Sans SemiBold | 20px |
+| Body Large | Texto de peça | DM Sans Regular | 16px |
+| Corpo denso | Relatório, proposta | Plus Jakarta Sans | 16px / 1.6 |
+| Mono / badge | Preço, código, métrica | JetBrains Mono | 12px |
+
+**Regra de uso:** preço, numeral e código sempre em JetBrains Mono (`R$ 5.000,00`,
+`#4130D8`, `VIGENCIA_05_10_2026`). Texto corrido em relatório/proposta, Plus
+Jakarta Sans. Tudo que for título/chamada, DM Sans.
 
 Import Google Fonts:
 ```
-https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap
+https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap
 ```
 
 ---
@@ -61,60 +94,54 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 | Elemento | Regra |
 |---|---|
-| Bordas | 1px, cor conforme fundo (ver tabela acima) |
-| Border-radius | 12px (meio arredondado) |
-| Botões CTA | Cor chapada (`#34544C` ou branco conforme fundo), texto branco — nunca gradiente |
-| Sombras | Sutis e elegantes (ver tabela acima) |
+| Bordas | 1px, cor conforme fundo (tabela acima) |
+| Border-radius | 12px cards / 8px botões |
+| Botão primário (CTA) | Fundo `#4130D8`, texto `#E7E6EF`, sem borda, sem gradiente |
+| Botão secundário | Transparente, texto = destaque do fundo, borda 1px `#4130D8` (claro) / `#948CD8` (escuro) |
+| Sombras | Sutis (tabela acima) |
 
 ---
 
 ## 4. Logo (wordmark)
 
-Tipo: texto "APSIDE" em DM Sans Bold, centralizado.
+Tipo: texto "APSIDE" em DM Sans Bold, letter-spacing largo. **Sem símbolo.**
 
-| Versão | Arquivo | Fundo |
-|---|---|---|
-| Branca | `logo-apside.svg` | Escuro |
-| Preta | `logo-apside-claro.svg` | Claro |
-| ~~Gradiente~~ **PROIBIDA** | *arquivo excluído (28/09/2026)* | — |
+| Versão | Arquivo | Fundo | Cor |
+|---|---|---|---|
+| Clara | `logo-apside.svg` | Escuro `#181721` | `#E7E6EF` |
+| Escura | `logo-apside-claro.svg` | Claro `#E7E6EF` | `#181721` |
 
 **Uso:** slide final (CTA), header de propostas, site institucional.
 **Tamanho:** 120–200px de largura.
 
 ---
 
-## 5. Ícone (símbolo)
+## 5. Ícone — DESCONTINUADO (05/10/2026)
 
-Tipo: átomo/orbital — representa IA, tecnologia, conexão.
+O símbolo orbital (átomo) foi **removido da marca por ordem do operador**. Os
+quatro arquivos `icone-apside*.svg` foram apagados. A marca é só o wordmark.
 
-| Versão | Arquivo | Fundo |
-|---|---|---|
-| Verde `#34544C` | `icone-apside.svg` | Escuro |
-| Branco | `icone-apside-branco.svg` | Escuro |
-| Verde `#34544C` | `icone-apside-claro.svg` | Claro |
-| Preto | `icone-apside-preto.svg` | Claro |
-
-**Uso:** favicon, perfil social, cantos pequenos.
-**Tamanho:** 32–48px.
+- Não existe favicon/perfil com símbolo: usar recorte do wordmark ou a palavra
+  em fundo `#181721`.
+- Nenhuma peça nova pode referenciar `icone-apside*`.
 
 ---
 
 ## 6. Regras de uso
 
 ### Sempre fazer
-- Usar cores chapadas da paleta como destaque (palavra = azul `#0066FF`; elemento = verde `#34544C`)
+- Destaque de palavra/numeral conforme a tabela (escuro → `#948CD8`, claro → `#4130D8`)
 - Alternar fundo escuro ↔ claro slide a slide (nunca dois seguidos iguais)
-- Trocar logo/ícone conforme o fundo (escuro → versão escura; claro → versão clara)
-- Palavra/numeral de destaque = azul `#0066FF` em qualquer fundo; texto base = branco (escuro) / preto (claro)
+- Trocar logo conforme o fundo (escuro → `logo-apside.svg`; claro → `logo-apside-claro.svg`)
+- Botão CTA sempre `#4130D8` com texto `#E7E6EF`
 - Usar as cores de borda e sombra conforme a tabela
 
 ### Nunca fazer
-- Usar verde `#34544C` como cor de texto/palavra (só elementos — regra 02/10/2026)
-- **Usar gradiente da marca** (verde→azul→roxo) — abolido em 02/10/2026, em nenhuma peça
-- Usar a **logo em gradiente** (arquivos `logo-apside-gradiente*` excluídos em 28/09/2026)
-  — proibido. Usar o wordmark sólido: branco (`logo-apside.svg`) em fundo escuro,
-  preto (`logo-apside-claro.svg`) em fundo claro
-- Usar roxo `#6E00FF` — fora da paleta desde 02/10/2026
+- Usar cor fora dos 5 tokens (marinho, verde, azul elétrico antigos estão mortos)
+- Usar gradiente da marca em qualquer peça
+- Usar o ícone `icone-apside*` — apagado em 05/10/2026
+- Usar `#4130D8` como cor de texto sobre obsidian (contraste baixo — usar `#948CD8`)
+- Usar `#948CD8` como texto sobre fundo claro (contraste baixo — usar `#2F2399`)
 - Misturar paletas de marcas diferentes na mesma peça
 - Introduzir cor "do nada" no meio de um carrossel
 - Usar gradiente atrás de texto
@@ -125,11 +152,11 @@ Tipo: átomo/orbital — representa IA, tecnologia, conexão.
 
 ## 7. Padrão de carrossel / posts
 
-- Palavra/numeral de destaque = **azul `#0066FF`** (kicker, `.hl`, numeral) em qualquer fundo
-- Fundo escuro → régua/barras **verde APSIDE `#34544C`**; texto base branco
-- Fundo claro → régua/barras **azul `#0066FF`**; texto base preto
-- RÉGUA/divisória usa a cor estrutural do slide (verde no escuro, azul no claro)
-- Logo no topo; ícone pequeno no canto inferior
+- Palavra/numeral de destaque: **`#948CD8` no escuro**, **`#4130D8` no claro**
+- Fundo escuro `#181721` → régua/barras `#4130D8`; texto base `#E7E6EF`
+- Fundo claro `#E7E6EF` → régua/barras `#4130D8`; texto base `#181721`
+- RÉGUA/divisória usa `#4130D8` nos dois fundos
+- Logo no topo; **sem ícone no canto** — só `@handle` quando fizer sentido
 
 ---
 
@@ -138,13 +165,11 @@ Tipo: átomo/orbital — representa IA, tecnologia, conexão.
 ```
 identidade/
 ├── design-guide.md          ← este arquivo
+├── MANUAL-DAMARCA.md        ← manual completo da marca
 ├── brandkit.svg             ← folha de referência visual
-├── logo-apside.svg          ← wordmark branco
-├── logo-apside-claro.svg    ← wordmark preto
-├── icone-apside.svg         ← ícone verde sólido (fundo escuro)
-├── icone-apside-branco.svg  ← ícone branco (fundo escuro)
-├── icone-apside-claro.svg   ← ícone verde sólido (fundo claro)
-├── icone-apside-preto.svg   ← ícone preto (fundo claro)
+├── brandkit.png             ← folha renderizada
+├── logo-apside.svg          ← wordmark claro (#E7E6EF, fundo escuro)
+├── logo-apside-claro.svg    ← wordmark escuro (#181721, fundo claro)
 └── marcas.md                ← marcas parceiras (template)
 ```
 
@@ -159,8 +184,8 @@ Templates em `marketing/templates/`:
 - `legenda-modelo.md`
 - `render.js`
 
-Para criar peça nova: copiar para `marketing/conteudo/carrossel-<tema>-<AAAA-MM-DD>/` e trocar texto. Cores paramêtricas no topo do CSS (`:root`).
+Para criar peça nova: copiar para `marketing/conteudo/carrossel-<tema>-<AAAA-MM-DD>/` e trocar texto. Cores paramêtricas no topo do CSS (`:root`) — trocar pela paleta 05/10/2026.
 
 ---
 
-*Atualizado em 2026-10-02 — gradiente abolido, verde `#34544C`, sem roxo.*
+*Atualizado em 2026-10-05 — paleta índigo/obsidian, ícone removido.*

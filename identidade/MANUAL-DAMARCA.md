@@ -41,9 +41,9 @@ A logo é um wordmark composto pela palavra **APSIDE** em tipografia DM Sans Bol
 
 | Versão | Arquivo | Fundo | Cor do texto |
 |---|---|---|---|
-| Branca | `logo-apside.svg` | Escuro (`#1F2133`) | Branco `#FFFFFF` |
-| Preta | `logo-apside-claro.svg` | Claro (`#FFFFFF`) | Preto `#000000` |
-| ~~Gradiente~~ **PROIBIDA** | *arquivo excluído (28/09/2026)* | — | **Nunca usar — usar Branca/Preta conforme o fundo** |
+| Clara | `logo-apside.svg` | Escuro (`#181721`) | Off-white `#E7E6EF` |
+| Escura | `logo-apside-claro.svg` | Claro (`#E7E6EF`) | Obsidian `#181721` |
+| ~~Gradiente~~ **PROIBIDA** | *arquivo excluído (28/09/2026)* | — | **Nunca usar — usar Clara/Escura conforme o fundo** |
 
 ### 2.3 Espaço de respiro
 
@@ -77,123 +77,111 @@ A logo deve ter ao menos metade de sua altura como espaço livre ao redor.
 
 ---
 
-## 3. Ícone
+## 3. Ícone — DESCONTINUADO (05/10/2026)
 
-### 3.1 Construção
+O símbolo orbital (átomo) foi **removido da marca por ordem do operador**. Os
+quatro arquivos `icone-apside*.svg` foram apagados do repositório.
 
-O ícone é um símbolo orbital (átomo) que representa IA, tecnologia e conexão. Três elipses rotacionadas ao redor de um ponto central.
-
-```
-        ╱ ╲
-      ╱     ╲
-     │   ●   │
-      ╲     ╱
-        ╲ ╱
-```
-
-### 3.2 Versões
-
-| Versão | Arquivo | Fundo | Cor do símbolo |
-|---|---|---|---|
-| Verde | `icone-apside.svg` | Escuro (`#1F2133`) | Verde APSIDE `#34544C` |
-| Branco | `icone-apside-branco.svg` | Escuro (`#1F2133`) | Branco `#FFFFFF` |
-| Verde | `icone-apside-claro.svg` | Claro (`#FFFFFF`) | Verde APSIDE `#34544C` |
-| Preto | `icone-apside-preto.svg` | Claro (`#FFFFFF`) | Preto `#000000` |
-
-### 3.3 Tamanhos
-
-| Uso | Tamanho |
-|---|---|
-| Favicon | 32×32px / 48×48px |
-| Perfil social | 48×48px |
-| Canto de peças | 24–32px |
-| App icon | 512×512px |
-
-### 3.4 Onde usar
-
-- Favicon do site
-- Perfil de redes sociais
-- Canto inferior de carrosséis/posts
-- Assinatura de e-mail (junto com a logo)
+- A marca é **só o wordmark** (seção 2).
+- Favicon, perfil social e cantos de peça usam a palavra APSIDE — nunca um símbolo.
+- Nenhuma peça nova pode referenciar `icone-apside*`.
 
 ---
 
 ## 4. Paleta de Cores
 
-### 4.1 Cores primárias
+Paleta nova — índigo sobre obsidian (ordem do operador, 05/10/2026).
 
-| Nome | HEX | RGB | Uso |
+### 4.1 Tokens
+
+| Token | Nome | HEX | RGB | Uso |
+|---|---|---|---|---|
+| `--brand-primary` | Índigo | `#4130D8` | 65, 48, 216 | Ações, botões, CTA, destaques hero, régua/barras |
+| `--brand-secondary` | Índigo profundo | `#2F2399` | 47, 35, 153 | Apoio, cards secundários, bordas |
+| `--brand-accent` | Lavanda | `#948CD8` | 148, 140, 216 | Subtítulos, badges, textos de apoio, destaque no escuro |
+| `--brand-background` | Obsidian | `#181721` | 24, 23, 33 | Fundo principal |
+| `--brand-text` | Off-white | `#E7E6EF` | 231, 230, 239 | Texto no escuro; superfície clara |
+
+### 4.2 Superfícies
+
+| Superfície | Cor | Texto base | Apoio |
 |---|---|---|---|
-| Marinho | `#1F2133` | 31, 33, 51 | Fundo principal |
-| Branco | `#FFFFFF` | 255, 255, 255 | Fundo claro |
-| Preto | `#000000` | 0, 0, 0 | Texto |
-| Verde APSIDE | `#34544C` | 52, 84, 76 | Destaque, cards, setas, ícone |
-| Azul Elétrico | `#0066FF` | 0, 102, 255 | Apoio em fundo claro |
+| Escura | `#181721` | `#E7E6EF` | `#948CD8` |
+| Clara | `#E7E6EF` | `#181721` | `#2F2399` |
 
-### 4.2 Gradiente — ABOLIDO (02/10/2026)
+### 4.3 Gradiente — ABOLIDO
 
-**Nunca usar gradiente da marca.** O trio verde→azul→roxo foi substituído por
-cores chapadas. Roxo `#6E00FF` saiu da paleta. Ordem do operador, 02/10/2026.
+**Nunca usar gradiente da marca.** Cores chapadas apenas. (Trio antigo
+verde→azul→roxo abolido em 02/10/2026; roxo `#6E00FF` fora da paleta.)
 
-### 4.3 Regra de destaque
+### 4.4 Regra de destaque
 
-| Fundo | Cor de destaque (elementos) | Palavra de destaque | Texto base |
+| Fundo | Palavra/numeral | Régua e barras | Botão primário |
 |---|---|---|---|
-| Escuro (`#1F2133`) | Verde APSIDE `#34544C` | **Azul `#0066FF`** | Branco `#FFFFFF` |
-| Claro (`#FFFFFF`) | Azul `#0066FF` | **Azul `#0066FF`** | Preto `#000000` |
+| Escuro (`#181721`) | **Lavanda `#948CD8`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
+| Claro (`#E7E6EF`) | **Índigo `#4130D8`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
 
-Regra de palavra (02/10/2026): palavra/numeral de destaque = azul `#0066FF` em
-qualquer fundo. Verde `#34544C` nunca como cor de texto.
+`#4130D8` dá 2,2:1 sobre o obsidian — não serve como texto no escuro (usar
+lavanda). `#948CD8` dá 2,4:1 sobre a superfície clara — não serve como texto
+no claro (usar `#2F2399`).
 
-### 4.4 Cores de suporte
+### 4.5 Cores de suporte
 
 | Uso | Cor | Contexto |
 |---|---|---|
 | Borda (fundo escuro) | `rgba(255,255,255,0.08)` | Cards, separadores |
-| Borda (fundo claro) | `rgba(0,0,0,0.08)` | Cards, separadores |
-| Sombra (fundo escuro) | `rgba(0,0,0,0.4)` | Elevação de cards |
-| Sombra (fundo claro) | `rgba(0,0,0,0.15)` | Elevação de cards |
+| Borda (fundo claro) | `rgba(24,23,33,0.08)` | Cards, separadores |
+| Sombra (fundo escuro) | `0 4px 24px rgba(0,0,0,0.5)` | Elevação de cards |
+| Sombra (fundo claro) | `0 4px 24px rgba(24,23,33,0.15)` | Elevação de cards |
 
-### 4.5 Proibido
+### 4.6 Proibido
 
-- Usar cores fora da paleta
-- Usar gradiente da marca em qualquer peça (abolido 02/10/2026)
+- Cores fora dos 5 tokens — inclui as mortas `#1F2133`, `#34544C`, `#0066FF`, `#00E65B`
+- Branco `#FFFFFF` como fundo (fotos e prints de terceiros são exceção)
+- Gradiente da marca em qualquer peça
 - Misturar cores de marcas parceiras com as cores da APSIDE
 
 ---
 
 ## 5. Tipografia
 
-### 5.1 Fontes
+### 5.1 Fontes (3 fontes — 05/10/2026)
 
-| Fonte | Uso | Pesos |
-|---|---|---|
-| **DM Sans** | Títulos, destaques, logo | 500, 600, 700 |
-| **Inter** | Corpo, subtítulos, botões, dados | 400, 500, 600 |
+| Fonte | Papel | Uso | Pesos |
+|---|---|---|---|
+| **DM Sans** | Principal | Títulos, chamadas, banners, logo (Bold 700, uppercase) | 400, 500, 700, 800 |
+| **Plus Jakarta Sans** | Leitura | Corpo, relatórios longos, propostas densas (mobile), UI | 400, 500, 600 |
+| **JetBrains Mono** | Dados | Preços, código, métricas, badges | 400, 600, 700 |
+
+**Inter saiu da paleta tipográfica em 05/10/2026.**
 
 ### 5.2 Hierarquia
 
-| Nível | Fonte | Peso | Tamanho (exemplo) |
+| Nível | Fonte | Peso | Tamanho / line-height |
 |---|---|---|---|
-| H1 | DM Sans | 700 | 36–48px |
-| H2 | DM Sans | 600 | 28–32px |
-| H3 | DM Sans | 500 | 20–24px |
-| Corpo | Inter | 400 | 16px |
-| Destaque | Inter | 500 | 16px |
-| Botão | Inter | 600 | 14–16px |
-| Dado | Inter | 600 | 12–14px |
+| Display / Hero | DM Sans | 700 | 48px / 1.1 |
+| Heading H2 | DM Sans | 700 | 32px / 1.2 |
+| Card Title H3 | DM Sans | 600 | 20px |
+| Body Large (peça) | DM Sans | 400 | 16px |
+| Corpo denso (relatório/proposta) | Plus Jakarta Sans | 400 | 16px / 1.6 |
+| Botão / badge | Plus Jakarta Sans | 600 | 14–16px |
+| Dado / preço / código | JetBrains Mono | 600–700 | 12–14px |
+
+**Regra:** preço, numeral e código **sempre** em JetBrains Mono
+(`R$ 5.000,00`, `#4130D8`, `VIGENCIA_05_10_2026`).
 
 ### 5.3 Importação
 
 ```
-https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:wght@400;500;600&display=swap
+https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap
 ```
 
 ### 5.4 Proibido
 
-- Usar fonte diferente das definidas
+- Usar fonte fora das três (Inter incluída — saiu)
 - Usar peso inadequado (ex.: título em 400)
 - Criar hierarquia com tamanho sem usar peso
+- Escrever preço/metrica fora do monoespaçado
 
 ---
 
@@ -209,7 +197,6 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 - Cards: **12px**
 - Botões: **8px**
-- Ícones: **10px**
 
 ### 6.3 Sombras
 
@@ -222,9 +209,9 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 | Tipo | Fundo | Texto | Borda |
 |---|---|---|---|
-| Primário (CTA) | Verde chapado `#34544C` | Branco | Nenhuma |
-| Secundário | Transparente | `#34544C` | 1px `#34544C` |
-| Ghost | Transparente | Branco/Preto | Nenhuma |
+| Primário (CTA) | Índigo `#4130D8` | `#E7E6EF` | Nenhuma |
+| Secundário | Transparente | Destaque do fundo (`#4130D8` claro / `#948CD8` escuro) | 1px mesma cor |
+| Ghost | Transparente | Texto base do fundo | Nenhuma |
 
 ---
 
@@ -232,8 +219,9 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 ### 7.1 Regra de alternância
 
-- Fundo escuro → régua/barras **verde APSIDE `#34544C`**; palavra de destaque **azul `#0066FF`**; texto base branco
-- Fundo claro → régua/barras **azul elétrico**; palavra de destaque **azul**; texto base preto
+- Fundo escuro `#181721` → palavra de destaque **lavanda `#948CD8`**; texto base `#E7E6EF`
+- Fundo claro `#E7E6EF` → palavra de destaque **índigo `#4130D8`**; texto base `#181721`
+- Régua e barras: **`#4130D8` nos dois fundos**
 - Nunca dois fundos iguais seguidos
 
 ### 7.2 Posicionamento
@@ -243,22 +231,22 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 │  [LOGO]                 │  ← topo, conforme fundo
 │                         │
 │     TÍTULO              │  ← DM Sans Bold
-│     Subtítulo           │  ← Inter Regular
+│     Subtítulo           │  ← Plus Jakarta Sans
 │                         │
-│  ─────────── (régua)    │  ← cor de destaque
+│  ─────────── (régua)    │  ← #4130D8
 │                         │
-│              [@handle]  │  ← canto inferior
-│              [ÍCONE]    │  ← ícone da marca
+│        R$ 5.000,00      │  ← JetBrains Mono
+│              [@handle]  │  ← canto inferior (sem ícone)
 └─────────────────────────┘
 ```
 
 ### 7.3 Regras
 
-- Logo no topo
-- Ícone + @handle no canto inferior
-- Régua usa a cor de destaque do slide
+- Logo no topo; **sem ícone no canto** (ícone descontinuado 05/10/2026)
+- Régua e barras em `#4130D8` nos dois fundos
+- Preço, numeral e código em JetBrains Mono
 - Nunca gradiente atrás de texto
-- Nunca gradiente da marca (abolido 02/10/2026)
+- Nunca gradiente da marca
 
 ---
 
@@ -266,22 +254,22 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;600;700&family=Inter:w
 
 ### 8.1 Digital
 
-| Aplicação | Logo | Ícone | Cores |
-|---|---|---|---|
-| Site | Wordmark | Favicon | Marinho + verde `#34544C` |
-| Carrossel | Wordmark | Ícone canto | Escuro/claro alternado |
-| Post único | Wordmark | Ícone canto | Escuro ou claro |
-| Story | — | Ícone centro | Escuro |
-| Proposta | Wordmark header | — | Claro |
-| E-mail | Wordmark | Ícone | Claro |
+| Aplicação | Logo | Cores |
+|---|---|---|
+| Site | Wordmark | Obsidian `#181721` + índigo `#4130D8` |
+| Carrossel | Wordmark topo | Escuro/claro alternado |
+| Post único | Wordmark topo | Escuro ou claro |
+| Story | Wordmark | Obsidian |
+| Proposta | Wordmark header | Superfície clara `#E7E6EF` |
+| E-mail | Wordmark | Superfície clara |
 
 ### 8.2 Impresso
 
-| Aplicação | Logo | Ícone | Cores |
-|---|---|---|---|
-| Cartão de visita | Wordmark | Ícone verso | Marinho + verde `#34544C` |
-| Proposta (A4) | Wordmark header | — | Claro |
-| Banner | Wordmark | Ícone | Escuro |
+| Aplicação | Logo | Cores |
+|---|---|---|
+| Cartão de visita | Wordmark | Obsidian + índigo `#4130D8` |
+| Proposta (A4) | Wordmark header | Superfície clara |
+| Banner | Wordmark | Obsidian |
 
 ---
 
@@ -292,16 +280,16 @@ identidade/
 ├── MANUAL-DAMARCA.md              ← este documento
 ├── design-guide.md                ← referência rápida para skills
 │
-├── logo-apside.svg                ← wordmark branco
-├── logo-apside-claro.svg          ← wordmark preto
+├── logo-apside.svg                ← wordmark claro (#E7E6EF, fundo escuro)
+├── logo-apside-claro.svg          ← wordmark escuro (#181721, fundo claro)
 │
-├── icone-apside.svg               ← ícone verde sólido (fundo escuro)
-├── icone-apside-branco.svg        ← ícone branco (fundo escuro)
-├── icone-apside-claro.svg         ← ícone verde sólido (fundo claro)
-├── icone-apside-preto.svg         ← ícone preto (fundo claro)
+├── brandkit.svg                   ← folha de referência visual
+├── brandkit.png                   ← folha renderizada (scripts/gerar-brandkit.cjs)
 │
 └── marcas.md                      ← marcas parceiras (template)
 ```
+
+> Os 4 arquivos `icone-apside*.svg` foram apagados em 05/10/2026.
 
 ---
 
@@ -309,10 +297,11 @@ identidade/
 
 Antes de publicar qualquer peça:
 
-- [ ] Cores estão na paleta?
-- [ ] Fontes são DM Sans / Inter?
+- [ ] Cores estão nos 5 tokens (`#4130D8` `#2F2399` `#948CD8` `#181721` `#E7E6EF`)?
+- [ ] Fontes são DM Sans / Plus Jakarta Sans / JetBrains Mono?
+- [ ] Preços e numerais estão em JetBrains Mono?
 - [ ] Logo usada é a versão correta para o fundo?
-- [ ] Ícone é a versão correta para o fundo?
+- [ ] Nenhum `icone-apside*` aparece na peça?
 - [ ] Bordas e sombras seguem o manual?
 - [ ] Não há cores "do nada" no meio da peça?
 - [ ] Não há buzzwords proibidas?
@@ -320,4 +309,4 @@ Antes de publicar qualquer peça:
 
 ---
 
-*APSIDE — Manual da Marca v1.0 — Setembro 2026*
+*APSIDE — Manual da Marca v2.0 — 05/10/2026 (paleta índigo/obsidian, 3 fontes, sem ícone)*

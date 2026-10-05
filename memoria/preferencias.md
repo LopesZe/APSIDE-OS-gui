@@ -32,10 +32,10 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 ### Geração de imagens para GMB
 
 - **NÃO usar prompts de IA** (Midjourney, DALL-E) pra imagens do GMB. Resultado sempre ruim, genérico, "horrible" nas palavras do Guilherme.
-- **SIM usar HTML + CSS → PNG** via puppeteer. Layout split: fundo claro (#f8f9fa) à esquerda com badge + título + features, fundo escuro (gradiente sutil marinho #1F2133→#0d3b66 — monocromático, permitido) à direita com visual/mockup.
+- **SIM usar HTML + CSS → PNG** via puppeteer. Layout split: fundo claro à esquerda com badge + título + features, fundo escuro da paleta (`#181721`) à direita com visual/mockup.
 - Template base: `marketing/gmb-imagens/gerar-pngs.cjs` + HTMLs na mesma pasta.
-- Cores da marca: Marinho `#1F2133`, Branco, Preto, Verde APSIDE `#34544C`, Azul Elétrico `#0066FF`. **NUNCA gradiente da marca** (verde→azul→roxo abolido em 02/10/2026, ordem do operador); roxo `#6E00FF` fora da paleta. Verde `#34544C` no lugar do verde antigo `#00E65B`.
-- **Palavra de destaque = azul `#0066FF`** em qualquer fundo; verde `#34544C` só em elementos (barras, banner, bordas, ícone), nunca em texto (ordem de 02/10/2026).
+- **Cores e fontes: só `identidade/design-guide.md`** (paleta índigo/obsidian desde 05/10/2026). **NUNCA gradiente da marca** (verde→azul→roxo abolido em 02/10/2026); roxo `#6E00FF` fora da paleta.
+- **Palavra de destaque, botões e barras:** conforme a tabela de destaque do `design-guide.md` (escuro → `#948CD8`, claro → `#4130D8`).
 - Sempre gerar em **2x (deviceScaleFactor: 2)** pra qualidade boa em telas Retina.
 
 ### Estilo visual aceito
@@ -43,7 +43,7 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 - Layout split 50/50 (claro esquerda + escuro direita) — funciona tanto pra posts (1200x900) quanto pra capa (1080x608).
 - Badge no topo esquerdo com cor de destaque.
 - Features com check verde (✓) em círculo.
-- Barra verde `#34544C` 4px no rodapé (nunca gradiente).
+- Barra `#4130D8` 4px no rodapé (nunca gradiente).
 - Mockups realistas (celular com WhatsApp, navegador com site, card de avaliação).
 
 ### O que NÃO fazer
