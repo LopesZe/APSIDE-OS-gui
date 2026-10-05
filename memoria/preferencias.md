@@ -32,10 +32,10 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 ### Geração de imagens para GMB
 
 - **NÃO usar prompts de IA** (Midjourney, DALL-E) pra imagens do GMB. Resultado sempre ruim, genérico, "horrible" nas palavras do Guilherme.
-- **SIM usar HTML + CSS → PNG** via puppeteer. Layout split: fundo claro à esquerda com badge + título + features, fundo escuro da paleta (`#181721`) à direita com visual/mockup.
+- **SIM usar HTML + CSS → PNG** via puppeteer. Layout split: fundo claro à esquerda com badge + título + features, fundo escuro da paleta (`#000000` com fade de `#2F2399`) à direita com visual/mockup.
 - Template base: `marketing/gmb-imagens/gerar-pngs.cjs` + HTMLs na mesma pasta.
 - **Cores e fontes: só `identidade/design-guide.md`** (paleta índigo/obsidian desde 05/10/2026). **NUNCA gradiente da marca** (verde→azul→roxo abolido em 02/10/2026); roxo `#6E00FF` fora da paleta.
-- **Palavra de destaque, botões e barras:** conforme a tabela de destaque do `design-guide.md` (escuro → `#948CD8`, claro → `#4130D8`).
+- **Palavra de destaque, botões e barras:** conforme a tabela de destaque do `design-guide.md` (escuro → `#6E5CFF`, claro → `#4130D8`). `#4331e9` só em barras/bordas, nunca como texto no escuro.
 - Sempre gerar em **2x (deviceScaleFactor: 2)** pra qualidade boa em telas Retina.
 
 ### Estilo visual aceito

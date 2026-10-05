@@ -41,8 +41,8 @@ A logo é um wordmark composto pela palavra **APSIDE** em tipografia DM Sans Bol
 
 | Versão | Arquivo | Fundo | Cor do texto |
 |---|---|---|---|
-| Clara | `logo-apside.svg` | Escuro (`#181721`) | Off-white `#E7E6EF` |
-| Escura | `logo-apside-claro.svg` | Claro (`#E7E6EF`) | Obsidian `#181721` |
+| Clara | `logo-apside.svg` | Escuro (`#000000`) | Off-white `#E7E6EF` |
+| Escura | `logo-apside-claro.svg` | Claro (`#E7E6EF`) | Preto `#000000` |
 | ~~Gradiente~~ **PROIBIDA** | *arquivo excluído (28/09/2026)* | — | **Nunca usar — usar Clara/Escura conforme o fundo** |
 
 ### 2.3 Espaço de respiro
@@ -90,40 +90,45 @@ quatro arquivos `icone-apside*.svg` foram apagados do repositório.
 
 ## 4. Paleta de Cores
 
-Paleta nova — índigo sobre obsidian (ordem do operador, 05/10/2026).
+Paleta — índigo sobre preto (ordem do operador, 05/10/2026). Atualização da
+noite de 05/10/2026: accent virou `#4331e9` e o fundo escuro virou `#000000`
+com fade de `#2F2399` subindo do rodapé.
 
 ### 4.1 Tokens
 
 | Token | Nome | HEX | RGB | Uso |
 |---|---|---|---|---|
 | `--brand-primary` | Índigo | `#4130D8` | 65, 48, 216 | Ações, botões, CTA, destaques hero, régua/barras |
-| `--brand-secondary` | Índigo profundo | `#2F2399` | 47, 35, 153 | Apoio, cards secundários, bordas |
-| `--brand-accent` | Lavanda | `#948CD8` | 148, 140, 216 | Subtítulos, badges, textos de apoio, destaque no escuro |
-| `--brand-background` | Obsidian | `#181721` | 24, 23, 33 | Fundo principal |
+| `--brand-secondary` | Índigo profundo | `#2F2399` | 47, 35, 153 | Apoio, cards secundários, bordas, fade do fundo |
+| `--brand-accent` | Índigo vivo | `#4331e9` | 67, 49, 233 | Barras, bordas, números grandes — **não usar como texto no escuro** |
+| `--brand-accent-text` | Índigo claro | `#6E5CFF` | 110, 92, 255 | Texto de destaque, kicker, palavra/numeral no escuro (4,6:1) |
+| `--brand-background` | Preto | `#000000` | 0, 0, 0 | Fundo principal (com fade de `#2F2399`) |
 | `--brand-text` | Off-white | `#E7E6EF` | 231, 230, 239 | Texto no escuro; superfície clara |
 
 ### 4.2 Superfícies
 
 | Superfície | Cor | Texto base | Apoio |
 |---|---|---|---|
-| Escura | `#181721` | `#E7E6EF` | `#948CD8` |
-| Clara | `#E7E6EF` | `#181721` | `#2F2399` |
+| Escura | `#000000` (+ fade `#2F2399`) | `#E7E6EF` | `#6E5CFF` |
+| Clara | `#E7E6EF` | `#000000` | `#2F2399` |
 
-### 4.3 Gradiente — ABOLIDO
+### 4.3 Gradiente — ABOLIDO (1 exceção)
 
-**Nunca usar gradiente da marca.** Cores chapadas apenas. (Trio antigo
-verde→azul→roxo abolido em 02/10/2026; roxo `#6E00FF` fora da paleta.)
+**Nunca usar gradiente em elementos, botões, cards ou texto.** Cores chapadas.
+**Exceção única (05/10/2026):** fade do fundo escuro — `#2F2399` subindo do
+rodapé e dissolvendo no preto. (Trio antigo verde→azul→roxo abolido em
+02/10/2026; roxo `#6E00FF` fora da paleta.)
 
 ### 4.4 Regra de destaque
 
 | Fundo | Palavra/numeral | Régua e barras | Botão primário |
 |---|---|---|---|
-| Escuro (`#181721`) | **Lavanda `#948CD8`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
-| Claro (`#E7E6EF`) | **Índigo `#4130D8`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
+| Escuro (`#000000`) | **Índigo claro `#6E5CFF`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
+| Claro (`#E7E6EF`) | **Índigo `#4130D8`** (ou `#4331e9`) | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
 
-`#4130D8` dá 2,2:1 sobre o obsidian — não serve como texto no escuro (usar
-lavanda). `#948CD8` dá 2,4:1 sobre a superfície clara — não serve como texto
-no claro (usar `#2F2399`).
+`#4331e9` dá 2,9:1 sobre o preto — serve pra barras, bordas e superfícies,
+não como texto (usar `#6E5CFF`, 4,6:1). No fundo claro, `#6E5CFF` dá 3,6:1 —
+não serve como texto pequeno (usar `#4331e9` ou `#2F2399`).
 
 ### 4.5 Cores de suporte
 
@@ -138,7 +143,7 @@ no claro (usar `#2F2399`).
 
 - Cores fora dos 5 tokens — inclui as mortas `#1F2133`, `#34544C`, `#0066FF`, `#00E65B`
 - Branco `#FFFFFF` como fundo (fotos e prints de terceiros são exceção)
-- Gradiente da marca em qualquer peça
+- Gradiente em elementos, botões ou texto (só o fade de fundo `#2F2399`→preto é permitido)
 - Misturar cores de marcas parceiras com as cores da APSIDE
 
 ---
@@ -210,7 +215,7 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family
 | Tipo | Fundo | Texto | Borda |
 |---|---|---|---|
 | Primário (CTA) | Índigo `#4130D8` | `#E7E6EF` | Nenhuma |
-| Secundário | Transparente | Destaque do fundo (`#4130D8` claro / `#948CD8` escuro) | 1px mesma cor |
+| Secundário | Transparente | Destaque do fundo (`#4130D8` claro / `#6E5CFF` escuro) | 1px mesma cor |
 | Ghost | Transparente | Texto base do fundo | Nenhuma |
 
 ---
@@ -219,8 +224,8 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family
 
 ### 7.1 Regra de alternância
 
-- Fundo escuro `#181721` → palavra de destaque **lavanda `#948CD8`**; texto base `#E7E6EF`
-- Fundo claro `#E7E6EF` → palavra de destaque **índigo `#4130D8`**; texto base `#181721`
+- Fundo escuro `#000000` + fade `#2F2399` → palavra de destaque **índigo claro `#6E5CFF`**; texto base `#E7E6EF`
+- Fundo claro `#E7E6EF` → palavra de destaque **índigo `#4130D8`**; texto base `#000000`
 - Régua e barras: **`#4130D8` nos dois fundos**
 - Nunca dois fundos iguais seguidos
 
@@ -246,7 +251,7 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family
 - Régua e barras em `#4130D8` nos dois fundos
 - Preço, numeral e código em JetBrains Mono
 - Nunca gradiente atrás de texto
-- Nunca gradiente da marca
+- Nunca gradiente em elementos/botões (fade de fundo `#2F2399`→preto é a única exceção)
 
 ---
 
@@ -256,10 +261,10 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family
 
 | Aplicação | Logo | Cores |
 |---|---|---|
-| Site | Wordmark | Obsidian `#181721` + índigo `#4130D8` |
+| Site | Wordmark | Preto `#000000` + índigo `#4130D8` |
 | Carrossel | Wordmark topo | Escuro/claro alternado |
 | Post único | Wordmark topo | Escuro ou claro |
-| Story | Wordmark | Obsidian |
+| Story | Wordmark | Preto `#000000` |
 | Proposta | Wordmark header | Superfície clara `#E7E6EF` |
 | E-mail | Wordmark | Superfície clara |
 
@@ -267,9 +272,9 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family
 
 | Aplicação | Logo | Cores |
 |---|---|---|
-| Cartão de visita | Wordmark | Obsidian + índigo `#4130D8` |
+| Cartão de visita | Wordmark | Preto `#000000` + índigo `#4130D8` |
 | Proposta (A4) | Wordmark header | Superfície clara |
-| Banner | Wordmark | Obsidian |
+| Banner | Wordmark | Preto `#000000` |
 
 ---
 
@@ -281,7 +286,7 @@ identidade/
 ├── design-guide.md                ← referência rápida para skills
 │
 ├── logo-apside.svg                ← wordmark claro (#E7E6EF, fundo escuro)
-├── logo-apside-claro.svg          ← wordmark escuro (#181721, fundo claro)
+├── logo-apside-claro.svg          ← wordmark escuro (#000000, fundo claro)
 │
 ├── brandkit.svg                   ← folha de referência visual
 ├── brandkit.png                   ← folha renderizada (scripts/gerar-brandkit.cjs)
@@ -297,7 +302,7 @@ identidade/
 
 Antes de publicar qualquer peça:
 
-- [ ] Cores estão nos 5 tokens (`#4130D8` `#2F2399` `#948CD8` `#181721` `#E7E6EF`)?
+- [ ] Cores estão nos 6 tokens (`#4130D8` `#2F2399` `#4331e9` `#6E5CFF` `#000000` `#E7E6EF`)?
 - [ ] Fontes são DM Sans / Plus Jakarta Sans / JetBrains Mono?
 - [ ] Preços e numerais estão em JetBrains Mono?
 - [ ] Logo usada é a versão correta para o fundo?
@@ -305,8 +310,8 @@ Antes de publicar qualquer peça:
 - [ ] Bordas e sombras seguem o manual?
 - [ ] Não há cores "do nada" no meio da peça?
 - [ ] Não há buzzwords proibidas?
-- [ ] Sem gradiente da marca em nenhuma parte da peça?
+- [ ] Sem gradiente em elementos/botões/texto (fade de fundo é a única exceção)?
 
 ---
 
-*APSIDE — Manual da Marca v2.0 — 05/10/2026 (paleta índigo/obsidian, 3 fontes, sem ícone)*
+*APSIDE — Manual da Marca v2.1 — 05/10/2026 (paleta índigo/preto com fade `#2F2399`, 6 tokens, 3 fontes, sem ícone)*

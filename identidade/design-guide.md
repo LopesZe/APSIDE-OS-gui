@@ -7,36 +7,39 @@
 
 ## 1. Paleta de cores
 
-Paleta nova (ordem do operador, 05/10/2026) — índigo sobre obsidian. Substitui
-todo o time marinho/verde/azul anterior.
+Paleta (ordem do operador, 05/10/2026) — índigo sobre preto. Substitui
+todo o time marinho/verde/azul anterior. Atualização da noite de 05/10/2026:
+accent virou `#4331e9`, fundo escuro virou `#000000` com fade de `#2F2399`.
 
 ### Tokens
 
 | Token | Cor | Hex | RGB | Uso |
 |---|---|---|---|---|
 | `--brand-primary` | Índigo | `#4130D8` | rgb(65, 48, 216) | Ações principais, botões, CTA, destaques hero, régua/barras |
-| `--brand-secondary` | Índigo profundo | `#2F2399` | rgb(47, 35, 153) | Apoio, cards secundários, bordas, sombras profundas |
-| `--brand-accent` | Lavanda | `#948CD8` | rgb(148, 140, 216) | Subtítulos, badges, textos de apoio, palavra de destaque no escuro |
-| `--brand-background` | Obsidian | `#181721` | rgb(24, 23, 33) | Fundo principal (dark premium) |
+| `--brand-secondary` | Índigo profundo | `#2F2399` | rgb(47, 35, 153) | Apoio, cards secundários, bordas, sombras profundas, fade do fundo |
+| `--brand-accent` | Índigo vivo | `#4331e9` | rgb(67, 49, 233) | Barras, bordas, números grandes, swatches — **não usar como texto** |
+| `--brand-accent-text` | Índigo claro | `#6E5CFF` | rgb(110, 92, 255) | Texto de destaque, kicker, palavra/numeral no escuro (4,6:1 sobre preto) |
+| `--brand-background` | Preto | `#000000` | rgb(0, 0, 0) | Fundo principal (dark premium, com fade de `#2F2399` no rodapé) |
 | `--brand-text` | Off-white | `#E7E6EF` | rgb(231, 230, 239) | Texto em superfície escura; superfície clara |
 
 ### Superfícies
 
 | Superfície | Cor | Texto base | Apoio |
 |---|---|---|---|
-| Escura | `#181721` | `#E7E6EF` | `#948CD8` |
-| Clara | `#E7E6EF` | `#181721` | `#2F2399` |
+| Escura | `#000000` (+ fade `#2F2399` → preto) | `#E7E6EF` | `#6E5CFF` |
+| Clara | `#E7E6EF` | `#000000` | `#2F2399` |
 
 ### Cor de destaque por fundo
 
 | Fundo | Palavra/numeral de destaque | Régua / barras | Botão primário |
 |---|---|---|---|
-| Escuro (`#181721`) | **Lavanda `#948CD8`** | `#4130D8` (ou `#948CD8` quando a régua for fina demais pra `#4130D8`) | `#4130D8` + texto `#E7E6EF` |
-| Claro (`#E7E6EF`) | **Índigo `#4130D8`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
+| Escuro (`#000000`) | **Índigo claro `#6E5CFF`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
+| Claro (`#E7E6EF`) | **Índigo `#4130D8`** (ou `#4331e9`) | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
 
-**Por que o destaque no escuro é lavanda:** `#4130D8` sobre `#181721` dá 2,2:1 de
-contraste — ilegível como texto. A lavanda dá ~5,9:1 e mantém o índigo para
-elementos e botões (contraste de texto branco/`#E7E6EF` sobre `#4130D8` ≈ 8:1).
+**Contraste no escuro:** `#4331e9` sobre preto dá 2,9:1 — serve pra barras,
+bordas e superfícies, mas **não como texto** (mesmo problema do antigo
+`#4130D8`). O texto de destaque é `#6E5CFF` (4,6:1). No fundo claro,
+`#4331e9` dá 5,9:1 e pode ser usado como texto normalmente.
 
 ### Cores fora da paleta (proibidas)
 
@@ -44,10 +47,13 @@ elementos e botões (contraste de texto branco/`#E7E6EF` sobre `#4130D8` ≈ 8:1
 `#00E65B`, `#6E00FF`, `#FFFFFF` como fundo. Branco puro só aparece dentro de
 fotos, prints e mockups de terceiros.
 
-### Gradiente — ABOLIDO
+### Gradiente — ABOLIDO (1 exceção)
 
-Nenhum gradiente da marca, em nenhuma peça. Cores chapadas. (Trio antigo
-verde→azul→roxo abolido em 02/10/2026.)
+Nenhum gradiente em elementos, botões, cards ou texto. Cores chapadas.
+**Exceção única (05/10/2026):** fade do fundo escuro — `#2F2399` subindo do
+rodapé e dissolvendo no preto (`radial-gradient` ou `linear-gradient`), sem
+nunca passar por trás de texto de corpo. (Trio antigo verde→azul→roxo abolido
+em 02/10/2026.)
 
 ### Bordas e sombra
 
@@ -97,7 +103,7 @@ https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family
 | Bordas | 1px, cor conforme fundo (tabela acima) |
 | Border-radius | 12px cards / 8px botões |
 | Botão primário (CTA) | Fundo `#4130D8`, texto `#E7E6EF`, sem borda, sem gradiente |
-| Botão secundário | Transparente, texto = destaque do fundo, borda 1px `#4130D8` (claro) / `#948CD8` (escuro) |
+| Botão secundário | Transparente, texto = destaque do fundo, borda 1px `#4130D8` (claro) / `#6E5CFF` (escuro) |
 | Sombras | Sutis (tabela acima) |
 
 ---
@@ -108,8 +114,8 @@ Tipo: texto "APSIDE" em DM Sans Bold, letter-spacing largo. **Sem símbolo.**
 
 | Versão | Arquivo | Fundo | Cor |
 |---|---|---|---|
-| Clara | `logo-apside.svg` | Escuro `#181721` | `#E7E6EF` |
-| Escura | `logo-apside-claro.svg` | Claro `#E7E6EF` | `#181721` |
+| Clara | `logo-apside.svg` | Escuro `#000000` | `#E7E6EF` |
+| Escura | `logo-apside-claro.svg` | Claro `#E7E6EF` | `#000000` |
 
 **Uso:** slide final (CTA), header de propostas, site institucional.
 **Tamanho:** 120–200px de largura.
@@ -122,7 +128,7 @@ O símbolo orbital (átomo) foi **removido da marca por ordem do operador**. Os
 quatro arquivos `icone-apside*.svg` foram apagados. A marca é só o wordmark.
 
 - Não existe favicon/perfil com símbolo: usar recorte do wordmark ou a palavra
-  em fundo `#181721`.
+  em fundo `#000000`.
 - Nenhuma peça nova pode referenciar `icone-apside*`.
 
 ---
@@ -130,18 +136,19 @@ quatro arquivos `icone-apside*.svg` foram apagados. A marca é só o wordmark.
 ## 6. Regras de uso
 
 ### Sempre fazer
-- Destaque de palavra/numeral conforme a tabela (escuro → `#948CD8`, claro → `#4130D8`)
+- Destaque de palavra/numeral conforme a tabela (escuro → `#6E5CFF`, claro → `#4130D8`)
 - Alternar fundo escuro ↔ claro slide a slide (nunca dois seguidos iguais)
+- Fundo escuro com fade de `#2F2399` subindo do rodapé e dissolvendo no preto
 - Trocar logo conforme o fundo (escuro → `logo-apside.svg`; claro → `logo-apside-claro.svg`)
 - Botão CTA sempre `#4130D8` com texto `#E7E6EF`
 - Usar as cores de borda e sombra conforme a tabela
 
 ### Nunca fazer
-- Usar cor fora dos 5 tokens (marinho, verde, azul elétrico antigos estão mortos)
-- Usar gradiente da marca em qualquer peça
+- Usar cor fora dos 6 tokens (marinho, verde, azul elétrico antigos estão mortos)
+- Usar gradiente em elementos, botões, cards ou texto (só o fade de fundo `#2F2399`→preto é permitido)
 - Usar o ícone `icone-apside*` — apagado em 05/10/2026
-- Usar `#4130D8` como cor de texto sobre obsidian (contraste baixo — usar `#948CD8`)
-- Usar `#948CD8` como texto sobre fundo claro (contraste baixo — usar `#2F2399`)
+- Usar `#4130D8` ou `#4331e9` como texto de destaque sobre o fundo escuro (2,2:1 e 2,9:1 — usar `#6E5CFF`)
+- Usar `#6E5CFF` como texto sobre fundo claro (contraste baixo — usar `#4331e9` ou `#2F2399`)
 - Misturar paletas de marcas diferentes na mesma peça
 - Introduzir cor "do nada" no meio de um carrossel
 - Usar gradiente atrás de texto
@@ -152,9 +159,9 @@ quatro arquivos `icone-apside*.svg` foram apagados. A marca é só o wordmark.
 
 ## 7. Padrão de carrossel / posts
 
-- Palavra/numeral de destaque: **`#948CD8` no escuro**, **`#4130D8` no claro**
-- Fundo escuro `#181721` → régua/barras `#4130D8`; texto base `#E7E6EF`
-- Fundo claro `#E7E6EF` → régua/barras `#4130D8`; texto base `#181721`
+- Palavra/numeral de destaque: **`#6E5CFF` no escuro**, **`#4130D8` no claro**
+- Fundo escuro `#000000` + fade `#2F2399` → régua/barras `#4130D8`; texto base `#E7E6EF`
+- Fundo claro `#E7E6EF` → régua/barras `#4130D8`; texto base `#000000`
 - RÉGUA/divisória usa `#4130D8` nos dois fundos
 - Logo no topo; **sem ícone no canto** — só `@handle` quando fizer sentido
 
@@ -169,7 +176,7 @@ identidade/
 ├── brandkit.svg             ← folha de referência visual
 ├── brandkit.png             ← folha renderizada
 ├── logo-apside.svg          ← wordmark claro (#E7E6EF, fundo escuro)
-├── logo-apside-claro.svg    ← wordmark escuro (#181721, fundo claro)
+├── logo-apside-claro.svg    ← wordmark escuro (#000000, fundo claro)
 └── marcas.md                ← marcas parceiras (template)
 ```
 
@@ -188,4 +195,4 @@ Para criar peça nova: copiar para `marketing/conteudo/carrossel-<tema>-<AAAA-MM
 
 ---
 
-*Atualizado em 2026-10-05 — paleta índigo/obsidian, ícone removido.*
+*Atualizado em 2026-10-05 — accent `#4331e9` / texto `#6E5CFF`, fundo preto com fade `#2F2399`, ícone removido.*
