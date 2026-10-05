@@ -14,9 +14,33 @@
 
 ## Posicionamento
 
-A APSIDE não é agência de marketing. Não é empresa de IA. Não é loja de sites.
+**Mudança de posição (05/10/2026 — ordem do operador):** a APSIDE sai de "vender
+peças" (landing page avulsa, GMB avulso) e passa a se posicionar como **consultoria
+AI-First focada em vendas**.
+
+Frase-guia: **"Ajudo seu negócio a ser AI-First e vender mais."**
+
+- Base: **conhecimento em negócios + IA** — não ferramenta, não "empresa de IA".
+- **Google é MEIO, não fim** — nunca posicionar a APSIDE como vendedora do Google.
+- Entregamos **contatos qualificados que viram sinal pago**, não "presença online".
+- "Previsibilidade de receita" só como **resultado** na proposta, **nunca** como
+  nome de serviço.
+
+A APSIDE não é agência de marketing. Não é loja de sites. Não vende ferramenta de
+IA — vende resultado com IA por dentro.
 
 A APSIDE é uma empresa que entra nas empresas por problemas digitais concretos, resolve o que precisa ser resolvido e, quando faz sentido, evolui pra problemas maiores.
+
+## Precificação vigente (decisão do operador, 05/10/2026)
+
+- **Setup por nível:** R$ 5.000 (base, sem CRM) / R$ 10.000 (CRM+integrações) /
+  R$ 15.000 (CRM sob medida). O cliente entra no nível conforme o escopo.
+- **Operação mensal:** a partir de R$ 500/mês — revisão quinzenal, relatório,
+  ajustes, suporte.
+- **NUNCA % sobre vendas / comissão** enquanto o Guilherme for novo no mercado
+  ("dor de cabeça, não dinheiro"). Não cobrar em proposta nenhuma até nova ordem.
+- Âncora: preço menor que 2 meses do que o problema custa pro cliente.
+- Detalhes e fonte única: `vendas/escada-precos.md`.
 
 ## Capacidades internas (ferramentas, não produtos)
 
@@ -42,6 +66,12 @@ Prospecção → Diagnóstico → Identificação do gargalo → Proposta de sol
 ```
 
 Cada cliente segue o caminho correspondente ao problema que possui. Não existe funil obrigatório.
+
+**Fluxo praticado e validado em 05/10/2026 (teste ANG Festas):** diagnóstico
+investigativo real (entrevista + verificação campo a campo + concorrentes reais)
+→ apresentação HTML de 15 slides estilo Kelvin Cleto (comparativo de concorrentes,
+mocks tangíveis, garantia, cronograma conservador) → proposta com setup +
+mensalidade. Procedimento completo na skill `proposta-kelvin`.
 
 ## Display NFC — descontinuado
 

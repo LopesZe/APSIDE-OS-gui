@@ -10,8 +10,11 @@ post avulso) pra "consultoria que opera o resultado" — diagnóstico → dashbo
 operacao recorrente.
 
 **Decisão B aprovada pelo operador em 02/10/2026** — migração em 2 etapas: mantém
-as peças (palco 1) como caixa enquanto valida a consultoria em paralelo. Nada de
-mudar preço ou cobrar recorrência antes da validação.
+as peças (palco 1) como caixa enquanto valida a consultoria em paralelo. ~~Nada de
+mudar preço ou cobrar recorrência antes da validação.~~ **Revisto em 05/10/2026:**
+o operador aprovou o modelo de setup por nível + mensalidade fixa (R$ 5.000 +
+R$ 500/mês na ANG), **sem % sobre vendas** — ver `vendas/escada-precos.md` ›
+"SETUP POR NÍVEL + OPERAÇÃO MENSAL".
 
 ## Direção (decisão B — aprovada 02/10/2026)
 
@@ -25,6 +28,8 @@ Mudança de modelo proposta em 02/10/2026, baseada na análise do canal Kelvin C
    entregar plataforma padronizada (reuso por vertical).
 3. **Palco 3 — recorrência:** operação + medição contínua, com fixo + variável
    (% sobre resultado), sem teto — é essa a alavanca de preço do modelo Kelvin.
+   **(Revisto 05/10/2026: o operador removeu a % sobre vendas do modelo vigente —
+   setup por nível + mensalidade fixa só, enquanto ele for novo no mercado.)**
 
 **Nicho candidato a validar:** contabilidade (tese "Contab OS" — margem 30% →
 50-60%, "instala numa, instala na outra"). Ainda não validado com cliente real.

@@ -7,6 +7,10 @@
 > **Reorganização em 3 palcos em 02/10/2026** (decisão B do reposicionamento, ver
 > `memoria/estrategia.md`). Nenhum valor mudou — só a estrutura. Toda faixa nova ou
 > alteração passa por gate humano (tabela antes → depois aprovada).
+> **Modelo de setup + mensalidade aprovado em 05/10/2026** (áudio do operador —
+> ele escolheu os valores): ver seção "SETUP POR NÍVEL + OPERAÇÃO MENSAL".
+> **% sobre vendas REMOVIDA do modelo vigente em 05/10/2026** — operador novo no
+> mercado, comissão é dor de cabeça, não dinheiro. Só volta se ele decidir.
 
 ## PRINCÍPIO
 
@@ -155,19 +159,49 @@ case SP Alumínio/Kistra). Não sai em proposta antes das 5 conversas de valida�
 **O que resolve:** o cliente não quer "mais um fornecedor" — quer alguém que opere o
 resultado e mostre o número todo mês.
 
-**Formato:** fixo + variável, sem teto:
-- **Fixo (mensalidade):** operação + dashboard + relatório mensal.
-- **Variável:** % sobre resultado comprovado (clientes novos, margem, faturamento rastreado).
-- **Setup:** entrada que custa a implantação do dashboard.
+**Formato (revisto em 05/10/2026):** fixo, sem variável:
+- **Setup:** entrada única que custa a implantação (nível conforme escopo — ver
+  "SETUP POR NÍVEL + OPERAÇÃO MENSAL" abaixo).
+- **Mensalidade fixa:** operação + revisão quinzenal + relatório mensal.
+- **Variável (% sobre resultado): REMOVIDA** em 05/10/2026 por decisão do operador
+  ("sou muito novo no mercado, comissão sobre vendas é mais dor de cabeça que
+  dinheiro"). Não cobrar % em proposta nenhuma até nova ordem.
 
 **Referência de partida (extraída do canal Kelvin, calibrar com o primeiro cliente):**
 - Setup ≈ 10% do valor gerado no primeiro ciclo
 - Mensalidade ≈ 10–20% do setup
 
 **O que NÃO fazer nesse palco:**
-- Vender sem % variável (vira só mais uma assinatura barata)
-- Aceitar teto no variável (é onde mora a margem)
+- Cobrar % sobre vendas enquanto o operador for novo no mercado (05/10/2026)
 - Pular a prova de resultado do palco 2 antes de cobrar recorrência
+
+---
+
+## SETUP POR NÍVEL + OPERAÇÃO MENSAL (modelo vigente — aprovado 05/10/2026)
+
+**Decisão direta do operador (áudio, 05/10/2026).** Vale pra todo fluxo
+diagnóstico → apresentação → proposta (skill `proposta-kelvin`).
+
+### Setup (implantação única) — 3 níveis
+
+| Nível | Valor | O que muda |
+|-------|-------|------------|
+| **Base** | **R$ 5.000** | Sistema pronto (peças padrão), sem CRM desenvolvido |
+| Intermediário | R$ 10.000 | Implantação com integrações / CRM |
+| Alto | R$ 15.000 | CRM e automações sob medida |
+
+### Operação mensal (recorrência)
+
+- **A partir de R$ 500/mês** — revisão quinzenal do sistema, relatório mensal,
+  ajustes, suporte e evolução contínua.
+
+### Regras
+
+- **NUNCA % sobre vendas / comissão** (enquanto o operador for novo no mercado).
+- O preço "do cliente" = escolher o nível certo pelo escopo + mensalidade.
+- Ancorar no impacto: o setup deve ser menor que 2 meses do que o problema custa
+  pro cliente (payback em poucos meses).
+- **Primeira aplicação:** ANG Festas (teste) — R$ 5.000 setup + R$ 500/mês.
 
 ---
 
