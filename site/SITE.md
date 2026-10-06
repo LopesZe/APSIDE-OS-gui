@@ -25,7 +25,10 @@ site/
 - **Nav:** Começa solida (opaca), vira glass translúcida ao rolar. Formato pill, centralizada
 - **Partículas:** 180 pontos simulando céu noturno. 3 padroes de brilho independentes (suave, irregular, flicker). Interação com mouse (desorganiza e volta). Mais fortes que o normal
 - **Cores:** Preto e branco. Sem verde. `%` nos stats em cinza claro
-- **Service cards:** Mocks detalhados (perfil GMB, navegador com site, conversa WhatsApp). Borda com luz percorrendo no hover (conic-gradient, 6s por volta)
+- **Service cards:** Mocks detalhados com **negocio ficticio "Vitália
+  Odontologia"** (odontologia, Centro, 4,9 · 127 avaliacoes, domínio
+  vitaliaodontologia.com.br — verificado inexistente) nos 3 exemplos (06/10/2026).
+  Borda com luz percorrendo no hover (conic-gradient, 6s por volta)
 - **Processo:** Numeros flutuando sem moldura. Hover revela fundo sutil
 - **Fonte:** DM Sans (titulos) + Plus Jakarta Sans (corpo) + JetBrains Mono (metricas/badges) — design-guide v3 (06/10/2026)
 - **Animacoes:** GSAP + ScrollTrigger. Entradas suaves com power2
@@ -48,9 +51,11 @@ site/
 1. **Hero** — Titulo grande, descricao, 2 botoes (primario branco + outline)
 2. **Stats** — 4 numeros grandes (76%, 28%, 87%, 46%) com label embaixo
 3. **O que eu resolvo** — 3 rows alternados:
-   - Ser encontrado no Google (mock com perfil, estrelas, fotos)
-   - Site que vende (mock com navegador, nav, hero)
-   - IA e automacao (mock com conversa WhatsApp automatizada)
+   - Ser encontrado no Google (GMB fictício: perfil Vitália Odontologia,
+     estrelas, endereço, horário, fotos, botão "Agendar consulta")
+   - Site que vende (navegador com domínio fictício, nav, hero "Seu sorriso
+     merece cuidado de verdade", 2 CTAs)
+   - IA e automacao (conversa WhatsApp da Vitália respondendo e agendando)
 4. **Como funciona** — 4 etapas: Diagnóstico, Estratégia, Implementação, Resultado
 5. **CTA** — Titulo + frase + botao primario
 6. **Footer** — Copyright + email

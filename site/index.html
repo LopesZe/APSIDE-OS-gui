@@ -108,7 +108,11 @@ body::after {
   cursor: pointer;
   transition: all 0.25s;
 }
-.nav-cta:hover { background: #ddd; transform: scale(1.03); }
+.nav-cta:hover {
+  background: #fff;
+  transform: scale(1.03);
+  box-shadow: 0 0 16px rgba(255,255,255,0.35), 0 4px 18px rgba(255,255,255,0.12);
+}
 
 /* ===== HERO ===== */
 .hero {
@@ -169,9 +173,9 @@ body::after {
   transition: all 0.3s;
 }
 .btn-primary:hover {
-  background: #ddd;
+  background: #fff;
   transform: translateY(-2px);
-  box-shadow: 0 12px 40px rgba(255,255,255,0.1);
+  box-shadow: 0 0 22px rgba(255,255,255,0.3), 0 12px 40px rgba(255,255,255,0.12);
 }
 .btn-outline {
   display: inline-flex;
@@ -439,21 +443,31 @@ body::after {
   border-radius: 50%;
   background: rgba(255,255,255,0.08);
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.55);
 }
 .sv-mock-info { flex: 1; display: flex; flex-direction: column; gap: 4px; }
 .sv-mock-name {
-  height: 8px;
-  width: 60%;
-  border-radius: 4px;
-  background: rgba(255,255,255,0.12);
+  font-size: 13px;
+  font-weight: 700;
+  color: rgba(255,255,255,0.9);
+  letter-spacing: -0.01em;
 }
 .sv-mock-sub {
-  height: 6px;
-  width: 40%;
-  border-radius: 3px;
-  background: rgba(255,255,255,0.05);
+  font-size: 10px;
+  color: rgba(255,255,255,0.4);
 }
 .sv-mock-body { display: flex; flex-direction: column; gap: 10px; }
+.sv-mock-detail {
+  font-size: 10px;
+  line-height: 1.4;
+  color: rgba(255,255,255,0.45);
+}
 .sv-mock-line {
   height: 7px;
   border-radius: 4px;
@@ -533,17 +547,18 @@ body::after {
   font-weight: 500;
 }
 .sv-mock-hero-title {
-  height: 10px;
-  width: 70%;
-  border-radius: 4px;
-  background: rgba(255,255,255,0.12);
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: rgba(255,255,255,0.92);
   margin-bottom: 6px;
 }
 .sv-mock-hero-sub {
-  height: 6px;
-  width: 50%;
-  border-radius: 3px;
-  background: rgba(255,255,255,0.05);
+  font-size: 10px;
+  line-height: 1.4;
+  color: rgba(255,255,255,0.45);
   margin-bottom: 10px;
 }
 .sv-mock-btn-row {
@@ -551,15 +566,26 @@ body::after {
   gap: 8px;
   margin-top: 8px;
 }
-.sv-mock-btn-solid {
-  width: 70px; height: 24px;
+.sv-mock-btn-solid,
+.sv-mock-btn-ghost {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
   border-radius: 4px;
-  background: rgba(255,255,255,0.12);
+  padding: 6px 12px;
+  font-size: 9px;
+  font-weight: 600;
+}
+.sv-mock-btn-solid {
+  background: rgba(255,255,255,0.9);
+  color: #0a0a0a;
 }
 .sv-mock-btn-ghost {
-  width: 70px; height: 24px;
-  border-radius: 4px;
-  border: 1px solid rgba(255,255,255,0.1);
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.15);
+  color: rgba(255,255,255,0.55);
 }
 /* Chat mock */
 .sv-mock-chat {
@@ -737,11 +763,6 @@ body::after {
   color: #fff;
   margin-bottom: 32px;
   line-height: 1.6;
-}
-.cta-note {
-  margin-top: 16px;
-  font-size: 12px;
-  color: #888;
 }
 
 /* ===== FOOTER ===== */
@@ -979,17 +1000,16 @@ body::after {
       <div class="spotlight"></div>
       <div class="sv-mock">
         <div class="sv-mock-header">
-          <div class="sv-mock-avatar"></div>
+          <div class="sv-mock-avatar">V</div>
           <div class="sv-mock-info">
-            <div class="sv-mock-name"></div>
-            <div class="sv-mock-sub"></div>
+            <div class="sv-mock-name">Vitália Odontologia</div>
+            <div class="sv-mock-sub">Clínica odontológica · Centro</div>
           </div>
         </div>
-        <div class="sv-mock-stars">★★★★★ <span style="color:rgba(255,255,255,0.3);font-size:10px">4.9 · 127 avaliações</span></div>
+        <div class="sv-mock-stars">★★★★★ <span style="color:rgba(255,255,255,0.3);font-size:10px">4,9 · 127 avaliações</span></div>
         <div class="sv-mock-body">
-          <div class="sv-mock-line w100"></div>
-          <div class="sv-mock-line w80"></div>
-          <div class="sv-mock-line w45"></div>
+          <div class="sv-mock-detail">Rua das Palmeiras, 320 — Centro</div>
+          <div class="sv-mock-detail">Aberto · fecha às 18h</div>
         </div>
         <div class="sv-mock-photos">
           <div class="sv-mock-photo"></div>
@@ -998,7 +1018,7 @@ body::after {
           <div class="sv-mock-photo"></div>
           <div class="sv-mock-photo"></div>
         </div>
-        <div class="sv-mock-btn">Agendar Consulta</div>
+        <div class="sv-mock-btn">Agendar consulta</div>
       </div>
     </div>
     <a href="#cta" class="service-link" data-service="Ser encontrado no Google">
@@ -1020,21 +1040,20 @@ body::after {
       <div class="sv-mock">
         <div class="sv-mock-browser">
           <div class="sv-mock-dots"><span></span><span></span><span></span></div>
-          <div class="sv-mock-url">seunegocio.com.br</div>
+          <div class="sv-mock-url">vitaliaodontologia.com.br</div>
         </div>
         <div class="sv-mock-nav">
           <span>Início</span>
-          <span>Serviços</span>
+          <span>Tratamentos</span>
           <span>Sobre</span>
           <span>Contato</span>
         </div>
         <div class="sv-mock-body">
-          <div class="sv-mock-hero-title"></div>
-          <div class="sv-mock-hero-sub"></div>
-          <div class="sv-mock-line w60 highlight"></div>
+          <div class="sv-mock-hero-title">Seu sorriso merece cuidado de verdade</div>
+          <div class="sv-mock-hero-sub">Consultas pelo WhatsApp · resposta em 1 minuto</div>
           <div class="sv-mock-btn-row">
-            <div class="sv-mock-btn-solid"></div>
-            <div class="sv-mock-btn-ghost"></div>
+            <div class="sv-mock-btn-solid">Agendar consulta</div>
+            <div class="sv-mock-btn-ghost">Ver tratamentos</div>
           </div>
         </div>
       </div>
@@ -1057,11 +1076,11 @@ body::after {
       <div class="spotlight"></div>
       <div class="sv-mock">
         <div class="sv-mock-chat">
-          <div class="sv-mock-msg sv-mock-msg-bot">Olá! Recebi sua mensagem. Em que posso ajudar?</div>
-          <div class="sv-mock-msg sv-mock-msg-user">Quero agendar uma consulta</div>
-          <div class="sv-mock-msg sv-mock-msg-bot">Perfeito! Temos horário terça às 14h. Confirma?</div>
-          <div class="sv-mock-msg sv-mock-msg-user">Sim, confirmo!</div>
-          <div class="sv-mock-msg sv-mock-msg-bot">Agendado! ✅ Vou te enviar a localização.</div>
+          <div class="sv-mock-msg sv-mock-msg-bot">Olá! Aqui é a Vitália Odontologia. Em que posso ajudar?</div>
+          <div class="sv-mock-msg sv-mock-msg-user">Quero agendar uma limpeza</div>
+          <div class="sv-mock-msg sv-mock-msg-bot">Claro! Tenho horário terça às 14h. Fica bom?</div>
+          <div class="sv-mock-msg sv-mock-msg-user">Fica sim!</div>
+          <div class="sv-mock-msg sv-mock-msg-bot">Agendado! Te mando a localização.</div>
         </div>
         <div class="sv-mock-footer">
           <div class="sv-mock-stat-inline">
@@ -1120,7 +1139,6 @@ body::after {
     <h2>Ajudo seu negócio a ser<br>AI-First e vender mais</h2>
     <p>Diagnóstico gratuito. Eu analiso sua operação digital, mostro onde você tá perdendo cliente e o que fazer. Depois, a decisão é sua.</p>
     <a class="btn-primary" href="https://wa.me/5542999955452?text=Ol%C3%A1!%20Quero%20agendar%20o%20diagn%C3%B3stico%20gratuito" target="_blank" rel="noopener">Agendar diagnóstico</a>
-    <p class="cta-note">Sem pressão. Conversa real entre profissionais.</p>
   </div>
 </section>
 
