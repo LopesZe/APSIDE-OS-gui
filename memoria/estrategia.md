@@ -48,6 +48,11 @@ CTAs funcionais).
 design e exemplos fechados. **Deploy adiado: não fazer agora** (decisão do
 operador).
 
+**Framework de crescimento com IA adotado em 06/10/2026** — receita primeiro
+(front office → back office; ordem: ① Receita → ② Eficiência → ③ Escala;
+matriz Q1→Q4→Q2). Fonte única: `vendas/framework-crescimento-ia.md`; aplicado
+no diagnóstico (§6 e §8) e no slide 8 da `/proposta-kelvin`.
+
 **Ferramenta de CRM:** não construir agora. Decidir a base (HubSpot Free /
 planilha / Twenty / Frappe CRM / ERPNext) quando o primeiro cliente pagante
 definir a complexidade. ERPNext avaliado em 02/10: módulo CRM depreciado,

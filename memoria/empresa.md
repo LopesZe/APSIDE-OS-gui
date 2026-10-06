@@ -73,6 +73,11 @@ investigativo real (entrevista + verificação campo a campo + concorrentes reai
 mocks tangíveis, garantia, cronograma conservador) → proposta com setup +
 mensalidade. Procedimento completo na skill `proposta-kelvin`.
 
+**Priorização (06/10/2026):** o diagnóstico inclui a **anatomia do negócio**
+(front office que cresce / back office que sustenta) e classifica as recomendações
+por camada + matriz de oportunidades — ordem: receita primeiro. Fonte única:
+`vendas/framework-crescimento-ia.md`.
+
 ## Display NFC — descontinuado
 
 **Não vender mais (ordem do Guilherme, 01/10/2026).**

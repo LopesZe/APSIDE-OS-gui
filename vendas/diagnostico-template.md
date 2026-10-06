@@ -4,6 +4,8 @@
 > `clientes/[nome]/diagnostico.md` e preencher. Fonte de preço: `vendas/escada-precos.md`.
 > Score GMB vem da skill `diagnostico-gmb` / `gmb-master`. Este documento é a
 > **entrega pro cliente** — o que ele lê e decide em cima.
+> Priorização das recomendações: anatomia + 3 camadas + matriz
+> (`vendas/framework-crescimento-ia.md`).
 
 ---
 
@@ -69,7 +71,30 @@
 
 ---
 
-## 6. O problema nº 1
+## 6. Anatomia do negócio — onde a IA entra primeiro
+
+> Mapa do cliente pelo framework `vendas/framework-crescimento-ia.md`.
+> Front office faz crescer (receita); back office sustenta. **A IA começa pelo front.**
+
+**Front office — faz crescer (geradores de receita):**
+
+| Área | Como está hoje (1-2 linhas) |
+|------|-----------------------------|
+| Marketing (atrai) | |
+| Vendas (converte) | |
+| Sucesso do Cliente (retém e expande) | |
+| Produto / Serviço (entrega) | |
+
+**Back office — faz sustentar** *(marcar só o que for relevante pro problema)*:
+
+Financeiro ☐ · Contábil ☐ · Jurídico ☐ · RH ☐ · Operações ☐ · Compras ☐ · TI ☐ · BI/Dados ☐
+
+**Relacionamento com o cliente** (transversal — fidelização e recompra):
+- Como a recompra acontece hoje:
+
+---
+
+## 7. O problema nº 1
 
 > Um só. Se tiver 5 problemas, escolher o que custa mais caro pro bolso do cliente.
 
@@ -82,20 +107,26 @@ horas gastas, venda que não fecha): R$ ______ /mês
 
 ---
 
-## 7. Recomendação (mapa pra escada)
+## 8. Recomendação (mapa pra escada)
 
-| Prioridade | Ação | Palco da escada | Faixa |
-|------------|------|-----------------|-------|
-| 1º | | | |
-| 2º | | | |
-| 3º | | | |
+| Prioridade | Ação | Área (anatomia) | Camada | Quadrante | Nota* | Palco da escada | Faixa |
+|------------|------|-----------------|--------|-----------|-------|-----------------|-------|
+| 1º | | | | | | | |
+| 2º | | | | | | | |
+| 3º | | | | | | | |
+
+**\*Nota:** média de 1 a 5 em — impacto financeiro · proximidade da receita ·
+frequência · potencial de IA · facilidade de mensuração
+(`vendas/framework-crescimento-ia.md`). **Camada:** Receita / Eficiência /
+Operação e Escala. **Quadrante:** Q1 atacar · Q4 testar · Q2 otimizar · Q3
+ignorar (por enquanto). **Ordem:** Q1 → Q4 → Q2; Q3 fica de fora.
 
 **Oferta de entrada sugerida:** [pacote da escada] — R$ ______
 **O que vem depois** (setup / recorrência): 
 
 ---
 
-## 8. Próximo passo
+## 9. Próximo passo
 
 - Data da conversa de entrega do diagnóstico:
 - Decisão do cliente (aceita / pensando / não):
@@ -111,3 +142,5 @@ horas gastas, venda que não fecha): R$ ______ /mês
 3. **Preço só da escada** (`vendas/escada-precos.md`) — nunca inventar valor aqui.
 4. Diagnóstico é **porta de entrada**: o objetivo não é vender a peça nº 1, é
    provar leitura do negócio pra abrir o palco 2.
+5. **Anatomia é mapa rápido** — 1-2 linhas por área do front office; não virar
+   auditoria completa da empresa.
