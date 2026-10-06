@@ -27,18 +27,30 @@ site/
 - **Cores:** Preto e branco. Sem verde. `%` nos stats em cinza claro
 - **Service cards:** Mocks detalhados (perfil GMB, navegador com site, conversa WhatsApp). Borda com luz percorrendo no hover (conic-gradient, 6s por volta)
 - **Processo:** Numeros flutuando sem moldura. Hover revela fundo sutil
-- **Fonte:** Inter (Google Fonts)
+- **Fonte:** DM Sans (titulos) + Plus Jakarta Sans (corpo) + JetBrains Mono (metricas/badges) — design-guide v3 (06/10/2026)
 - **Animacoes:** GSAP + ScrollTrigger. Entradas suaves com power2
-- **Copy:** Direta, sem tracos, sem jargão. Foco no problema do cliente
+- **Copy:** reposicionamento AI-First (06/10/2026). Consultoria AI-First focada em
+  vendas: frase-guia no CTA, Google como meio, contatos qualificados que viram
+  venda. Sem tabela de servicos generica
+- **Modal "Saiba mais":** layout vertical (06/10/2026) — exemplo em cima sem
+  quadrado atrás (clone do `service-visual` com bg/borda zerados e `style`
+  limpo pra nao herdar o transform do GSAP), texto embaixo, CTA alinhado à
+  direita, X **fora** da caixa (`.modal-close` em `top:-44px`, modal com
+  `overflow: visible` + `.modal-body` com scroll). Max-width 452px → conteudo
+  418px = mesmo tamanho natural do mock no card (proporcional). **Sem hover
+  dentro do modal** (spotlight, X e botao) e **sem o label do servico** no
+  cabecalho do texto. **CTA fixo fora da area de scroll** (`.modal-cta-bar`
+  direto no `.modal`) — sempre centralizado mesmo com scrollbar (scrollbar
+  fina 6px no `.modal-body`)
 
 ## Seções do site
 
 1. **Hero** — Titulo grande, descricao, 2 botoes (primario branco + outline)
-2. **Stats** — 4 numeros grandes (76%, 75%, 87%, 46%) com label embaixo
-3. **Soluções** — 3 rows alternados:
-   - Google Meu Negócio (mock com perfil, estrelas, fotos)
-   - Sites e Landing Pages (mock com navegador, nav, hero)
-   - Automação e IA (mock com conversa WhatsApp automatizada)
+2. **Stats** — 4 numeros grandes (76%, 28%, 87%, 46%) com label embaixo
+3. **O que eu resolvo** — 3 rows alternados:
+   - Ser encontrado no Google (mock com perfil, estrelas, fotos)
+   - Site que vende (mock com navegador, nav, hero)
+   - IA e automacao (mock com conversa WhatsApp automatizada)
 4. **Como funciona** — 4 etapas: Diagnóstico, Estratégia, Implementação, Resultado
 5. **CTA** — Titulo + frase + botao primario
 6. **Footer** — Copyright + email
@@ -53,7 +65,9 @@ site/
 - [ ] Deploy (Vercel, Netlify ou GitHub Pages) — **gate: domínio/escolha é do Guilherme**
 - [ ] `og:image` + `og:url` — precisam de URL absoluta, só depois do deploy
 - [ ] Testar em dispositivos reais (só verificado em desktop 1440px via puppeteer)
-- [ ] Contagem dos stats (76%, 75%, 87%, 46%) — conferir fonte antes do deploy
+- [x] Fontes dos stats conferidas (06/10/2026): 76% Google/Think with Google;
+  28% Google (busca local → compra em 24h); 87% BrightLocal (leem avaliações);
+  46% Google rep 2018. ~~75% julgam pela foto~~ (sem fonte, trocado por 28%)
 
 ## Referências usadas
 

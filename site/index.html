@@ -3,23 +3,34 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>APSIDE — Seu negócio encontrado no Google, com site que converte</title>
-<meta name="description" content="Diagnóstico gratuito da presença digital do seu negócio: Google Meu Negócio, site e automação. Você vê o que está travando a venda antes de decidir.">
+<title>APSIDE — Consultoria AI-First que faz seu negócio vender mais</title>
+<meta name="description" content="Diagnóstico gratuito da operação digital do seu negócio: onde você perde cliente e o que fazer pra vender mais. Google, site, automação e IA trabalhando juntos.">
 <meta name="theme-color" content="#0a0a0a">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230a0a0a'/><text x='32' y='47' text-anchor='middle' font-family='Arial' font-weight='800' font-size='42' fill='white'>A</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+:root {
+  --font-display: 'DM Sans', -apple-system, sans-serif;
+  --font-body: 'Plus Jakarta Sans', -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+}
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; overflow-x: hidden; }
 body {
-  font-family: 'Inter', -apple-system, sans-serif;
+  font-family: var(--font-body);
   background: #0a0a0a;
   color: #e0e0e0;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
 }
 a { color: inherit; text-decoration: none; }
+
+/* ===== TIPOGRAFIA — tokens do design-guide ===== */
+h1, h2, h3, h4, .nav-logo, .modal h3, .step-num { font-family: var(--font-display); }
+.section-label, .service-text .label,
+.stat-num, .sv-mock-url, .sv-mock-chip, .sv-mock-btn,
+.sv-mock-stat-num, .sv-mock-stat-inline span { font-family: var(--font-mono); }
 
 body::after {
   content: '';
@@ -116,18 +127,18 @@ body::after {
 }
 .hero h1 {
   font-size: clamp(2.5rem, 5vw, 4rem);
-  font-weight: 900;
+  font-weight: 800;
   letter-spacing: -0.04em;
-  line-height: 1.05;
+  line-height: 1.1;
   color: #fff;
   margin-bottom: 24px;
   opacity: 0;
   transform: translateY(20px);
 }
-.hero h1 .light { font-weight: 300; color: #fff; }
+.hero h1 .light { font-weight: 400; color: #fff; }
 .hero-desc {
   font-size: 1.1rem;
-  font-weight: 300;
+  font-weight: 400;
   color: #fff;
   line-height: 1.7;
   max-width: 500px;
@@ -193,14 +204,14 @@ body::after {
 .stat { text-align: center; }
 .stat-num {
   font-size: 56px;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: -0.04em;
   color: #fff;
   line-height: 1;
   margin-bottom: 10px;
 }
 .stat-num .pct {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 40px;
   color: #ccc;
 }
@@ -220,7 +231,6 @@ body::after {
 }
 .services-header {
   text-align: center;
-  max-width: 600px;
   margin: 0 auto 64px;
 }
 .section-label {
@@ -239,7 +249,7 @@ body::after {
   font-size: clamp(2rem, 4vw, 3rem);
   font-weight: 800;
   letter-spacing: -0.03em;
-  line-height: 1.1;
+  line-height: 1.2;
   color: #fff;
   margin-bottom: 12px;
 }
@@ -278,7 +288,7 @@ body::after {
 }
 .service-text h3 {
   font-size: clamp(1.5rem, 3vw, 2rem);
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: -0.02em;
   color: #fff;
   margin-bottom: 12px;
@@ -507,7 +517,7 @@ body::after {
   border-radius: 4px;
   background: rgba(255,255,255,0.04);
   font-size: 9px;
-  font-family: 'Courier New', monospace;
+  font-family: var(--font-mono);
   color: rgba(255,255,255,0.3);
 }
 .sv-mock-nav {
@@ -670,7 +680,7 @@ body::after {
 }
 .step-num {
   font-size: 52px;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: -0.04em;
   color: #fff;
   margin-bottom: 16px;
@@ -716,8 +726,9 @@ body::after {
 }
 .cta-box h2 {
   font-size: clamp(2rem, 4.5vw, 3.2rem);
-  font-weight: 900;
+  font-weight: 800;
   letter-spacing: -0.03em;
+  line-height: 1.15;
   color: #fff;
   margin-bottom: 16px;
 }
@@ -777,23 +788,34 @@ body::after {
   z-index: 10000;
   align-items: center;
   justify-content: center;
-  padding: 24px;
+  padding: 56px 24px 24px;
   animation: fadeIn 0.25s ease;
 }
 .modal-overlay.active { display: flex; }
 .modal {
   width: 100%;
-  max-width: 860px;
-  max-height: 85vh;
-  overflow-y: auto;
-  padding: 0;
+  max-width: 452px;
+  background: rgba(17,17,17,0.95);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 16px;
   position: relative;
+  overflow: visible;
   animation: slideUp 0.3s ease;
 }
+.modal-body {
+  max-height: calc(85vh - 100px);
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255,255,255,0.2) transparent;
+}
+.modal-body::-webkit-scrollbar { width: 6px; }
+.modal-body::-webkit-scrollbar-track { background: transparent; }
+.modal-body::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.2); border-radius: 3px; }
 .modal-close {
   position: absolute;
-  top: 16px;
-  right: 16px;
+  top: -44px;
+  right: 0;
   width: 32px;
   height: 32px;
   border: none;
@@ -808,70 +830,58 @@ body::after {
   transition: background 0.2s;
   z-index: 2;
 }
-.modal-close:hover { background: rgba(255,255,255,0.12); }
-.modal-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 24px;
-  margin-bottom: 24px;
+.modal-example {
+  margin-bottom: 20px;
 }
-.modal-card {
-  background: rgba(17,17,17,0.95);
-  border: 1px solid rgba(255,255,255,0.06);
-  border-radius: 12px;
-  padding: 24px;
+.modal-example .service-visual {
+  width: 100%;
+  background: transparent;
+  border: none;
+  padding: 0;
 }
-.modal-label {
-  font-size: 11px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  color: #0066FF;
-  margin-bottom: 12px;
+.modal-example .service-visual::before,
+.modal-example .service-visual::after,
+.modal-example .service-visual:hover .spotlight { display: none; opacity: 0; }
+.modal-info {
+  padding: 0 4px;
+  margin-bottom: 4px;
 }
 .modal h3 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: var(--font-display);
   font-size: 1.2rem;
-  font-weight: 800;
+  font-weight: 700;
   color: #fff;
   margin-bottom: 12px;
   letter-spacing: -0.02em;
 }
-.modal-card p {
+.modal-info p {
   color: rgba(255,255,255,0.55);
   font-size: 0.85rem;
   line-height: 1.6;
   margin-bottom: 12px;
 }
-.modal-card ul {
+.modal-info ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.modal-card li {
+.modal-info li {
   color: rgba(255,255,255,0.55);
   font-size: 0.8rem;
   padding: 4px 0;
   padding-left: 14px;
   position: relative;
 }
-.modal-card li::before {
+.modal-info li::before {
   content: '→';
   position: absolute;
   left: 0;
-  color: #0066FF;
+  color: #fff;
   font-size: 0.7rem;
 }
-.modal-visual {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 .modal-cta-bar {
-  background: rgba(17,17,17,0.95);
-  border: 1px solid rgba(255,255,255,0.06);
-  border-radius: 12px;
-  padding: 24px;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  padding: 16px 4px 4px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -887,7 +897,7 @@ body::after {
   transition: all 0.25s;
   border: none;
   cursor: pointer;
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-body);
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -895,7 +905,6 @@ body::after {
   background: #fff;
   color: #0a0a0a;
 }
-.modal-btn-primary:hover { background: #ddd; transform: scale(1.02); }
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 @keyframes slideUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
 
@@ -924,7 +933,7 @@ body::after {
 <section class="hero">
   <div class="hero-left">
     <h1>Seu negócio está <span class="light">perdendo clientes</span> todo dia</h1>
-    <p class="hero-desc">Eu diagnostico o que está te travando e implemento a solução. Google, site, automação. Tudo que seu negócio precisa pra ser encontrado e converter.</p>
+    <p class="hero-desc">Eu diagnostico onde seu negócio perde cliente e implemento a solução certa. Google, site, automação e IA no lugar que importa: contatos qualificados que viram venda.</p>
     <div class="hero-btns">
       <a class="btn-primary" href="https://wa.me/5542999955452?text=Ol%C3%A1!%20Quero%20come%C3%A7ar%20pelo%20diagn%C3%B3stico%20gratuito" target="_blank" rel="noopener">Começar pelo diagnóstico</a>
       <a class="btn-outline" href="#servicos">Ver serviços</a>
@@ -939,12 +948,12 @@ body::after {
     <div class="stat-label">visitam o negócio em 24h</div>
   </div>
   <div class="stat">
-    <div class="stat-num">75<span class="pct">%</span></div>
-    <div class="stat-label">julgam pela foto</div>
+    <div class="stat-num">28<span class="pct">%</span></div>
+    <div class="stat-label">das buscas locais viram compra em 24h</div>
   </div>
   <div class="stat">
     <div class="stat-num">87<span class="pct">%</span></div>
-    <div class="stat-label">confiam em reviews</div>
+    <div class="stat-label">leem avaliações antes de escolher</div>
   </div>
   <div class="stat">
     <div class="stat-num">46<span class="pct">%</span></div>
@@ -955,17 +964,16 @@ body::after {
 <!-- SERVIÇOS -->
 <section class="services" id="servicos">
   <div class="services-header">
-    <div class="section-label">Soluções</div>
+    <div class="section-label">O que eu resolvo</div>
     <h2>Seu negócio tem um problema.<br>A gente resolve o que importa.</h2>
-    <p>Não existe tabela de serviço genérico. Eu identifico o gargalo e monto a solução certa pro seu caso.</p>
   </div>
 
   <!-- Row 1 — Google Meu Negócio -->
   <div class="service-row">
     <div class="service-text">
-      <div class="label">Google Meu Negócio</div>
-      <h3>Seu perfil no Google convertendo de verdade</h3>
-      <p>Fotos profissionais, avaliações estratégicas, informações corretas. Quem te procura no Google te encontra e te escolhe. Não o concorrente.</p>
+      <div class="label">Ser encontrado no Google</div>
+      <h3>Quem já está procurando te encontra — e te escolhe</h3>
+      <p>Perfil completo, fotos, avaliação e informação certa. Você aparece pra quem busca o que vende e transforma a busca em contato. Google é o meio; a venda é o que importa.</p>
     </div>
     <div class="service-visual">
       <div class="spotlight"></div>
@@ -993,7 +1001,7 @@ body::after {
         <div class="sv-mock-btn">Agendar Consulta</div>
       </div>
     </div>
-    <a href="#cta" class="service-link" data-service="Google Meu Negócio">
+    <a href="#cta" class="service-link" data-service="Ser encontrado no Google">
       <span class="sl-text">Saiba mais</span>
       <span class="sl-expand"></span>
       <span class="sl-new">Saiba mais <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
@@ -1003,9 +1011,9 @@ body::after {
   <!-- Row 2 — Sites -->
   <div class="service-row reverse">
     <div class="service-text">
-      <div class="label">Sites e Landing Pages</div>
-      <h3>Presença online que vende, não só existe</h3>
-      <p>Site rápido, bonito e responsivo. Feito pra converter visitante em cliente. Cada página é pensada pro seu negócio específico.</p>
+      <div class="label">Site que vende</div>
+      <h3>Da visita ao contato, sem depender da sorte</h3>
+      <p>Site rápido, bonito e feito pro celular, com o caminho até o WhatsApp ou orçamento óbvio. Cada página pensada pro seu negócio — não template genérico.</p>
     </div>
     <div class="service-visual">
       <div class="spotlight"></div>
@@ -1031,7 +1039,7 @@ body::after {
         </div>
       </div>
     </div>
-    <a href="#cta" class="service-link" data-service="Sites e Landing Pages">
+    <a href="#cta" class="service-link" data-service="Site que vende">
       <span class="sl-text">← Saiba mais</span>
       <span class="sl-expand"></span>
       <span class="sl-new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></svg> Saiba mais</span>
@@ -1041,9 +1049,9 @@ body::after {
   <!-- Row 3 — Automação -->
   <div class="service-row">
     <div class="service-text">
-      <div class="label">Automação e IA</div>
-      <h3>Processos que rodavam sem você precisar estar lá</h3>
-      <p>WhatsApp automático, agendamento inteligente, follow-up sem esquecer. O que era manual vira automático. Você foca no cliente.</p>
+      <div class="label">IA e automação</div>
+      <h3>Lead respondido em 1 minuto, mesmo às 22h</h3>
+      <p>WhatsApp que responde na hora, agenda sozinho e faz follow-up sem esquecer. IA trabalhando por dentro pra nenhum contato esfriar. Você foca em fechar.</p>
     </div>
     <div class="service-visual">
       <div class="spotlight"></div>
@@ -1063,7 +1071,7 @@ body::after {
         </div>
       </div>
     </div>
-    <a href="#cta" class="service-link" data-service="Automação e IA">
+    <a href="#cta" class="service-link" data-service="IA e automação">
       <span class="sl-text">Saiba mais</span>
       <span class="sl-expand"></span>
       <span class="sl-new">Saiba mais <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></span>
@@ -1109,8 +1117,8 @@ body::after {
   <div class="cta-box">
     <div class="cta-mesh"></div>
     <div class="section-label">Próximo passo</div>
-    <h2>Seu negócio merece<br>ser encontrado</h2>
-    <p>Diagnóstico gratuito. A gente conversa, eu analiso e te mostro o que está acontecendo. Depois, a decisão é sua.</p>
+    <h2>Ajudo seu negócio a ser<br>AI-First e vender mais</h2>
+    <p>Diagnóstico gratuito. Eu analiso sua operação digital, mostro onde você tá perdendo cliente e o que fazer. Depois, a decisão é sua.</p>
     <a class="btn-primary" href="https://wa.me/5542999955452?text=Ol%C3%A1!%20Quero%20agendar%20o%20diagn%C3%B3stico%20gratuito" target="_blank" rel="noopener">Agendar diagnóstico</a>
     <p class="cta-note">Sem pressão. Conversa real entre profissionais.</p>
   </div>
@@ -1118,7 +1126,7 @@ body::after {
 
 <!-- FOOTER -->
 <footer class="footer">
-  <span>© 2026 APSIDE · Presença Digital para Negócios Locais</span>
+  <span>© 2026 APSIDE · Consultoria AI-First para negócios locais</span>
   <a href="mailto:guilherme@apside.com.br">guilherme@apside.com.br</a>
 </footer>
 
@@ -1126,9 +1134,9 @@ body::after {
 <div class="modal-overlay" id="modalOverlay">
   <div class="modal" id="modalBox">
     <button class="modal-close" id="modalClose">&times;</button>
-    <div class="modal-grid">
-      <div class="modal-card" id="modalInfo"></div>
-      <div class="modal-card" id="modalExample"></div>
+    <div class="modal-body">
+      <div class="modal-example" id="modalExample"></div>
+      <div class="modal-info" id="modalInfo"></div>
     </div>
     <div class="modal-cta-bar" id="modalCta"></div>
   </div>
@@ -1251,21 +1259,21 @@ document.querySelectorAll('.service-visual').forEach(function(card){
 /* MODAL */
 var services=[
   {
-    label:'Google Meu Negócio',
-    title:'Seu perfil no Google convertendo de verdade',
-    desc:'<p>Fotos profissionais, avaliações estratégicas, informações corretas. Quem te procura no Google te encontra e te escolhe.</p><ul><li>Otimização completa do perfil</li><li>Fotos profissionais do seu espaço</li><li>Estratégia para gerar mais avaliações</li><li>Posts semanais com promoções</li><li>Resumo mensal de métricas</li></ul>',
+    label:'Ser encontrado no Google',
+    title:'Quem já está procurando te encontra — e te escolhe',
+    desc:'<p>Perfil completo, fotos, avaliação e informação certa. Você aparece pra quem busca o que vende e transforma a busca em contato.</p><ul><li>Perfil completo (nome, categoria, descrição, horário, WhatsApp)</li><li>Fotos profissionais do seu espaço</li><li>Estratégia pra gerar mais avaliações</li><li>Posts semanais com promoções</li><li>Resumo mensal de métricas</li></ul>',
     wa:'Ol%C3%A1!%20Quero%20saber%20sobre%20Google%20Meu%20Neg%C3%B3cio'
   },
   {
-    label:'Sites e Landing Pages',
-    title:'Presença online que vende, não só existe',
-    desc:'<p>Site rápido, bonito e responsivo. Feito pra converter visitante em cliente.</p><ul><li>Design responsivo</li><li>Velocidade otimizada</li><li>SEO básico configurado</li><li>Formulário de contato integrado</li><li>Hospedagem e domínio inclusos</li></ul>',
+    label:'Site que vende',
+    title:'Da visita ao contato, sem depender da sorte',
+    desc:'<p>Site rápido, bonito e feito pro celular, com o caminho até o WhatsApp ou orçamento óbvio. Cada página pensada pro seu negócio.</p><ul><li>Design responsivo</li><li>Velocidade otimizada</li><li>SEO básico configurado</li><li>Formulário de contato integrado</li><li>Hospedagem e domínio inclusos</li></ul>',
     wa:'Ol%C3%A1!%20Quero%20um%20site%20ou%20landing%20page'
   },
   {
-    label:'Automação e IA',
-    title:'Processos que rodavam sem você precisar estar lá',
-    desc:'<p>WhatsApp automático, agendamento inteligente, follow-up sem esquecer.</p><ul><li>Resposta automática no WhatsApp</li><li>Agendamento online inteligente</li><li>Follow-up automático</li><li>Integração com Google Calendar</li><li>Relatórios por período</li></ul>',
+    label:'IA e automação',
+    title:'Lead respondido em 1 minuto, mesmo às 22h',
+    desc:'<p>WhatsApp que responde na hora, agenda sozinho e faz follow-up sem esquecer. IA trabalhando por dentro pra nenhum contato esfriar.</p><ul><li>Resposta automática no WhatsApp</li><li>Agendamento online inteligente</li><li>Follow-up automático</li><li>Integração com Google Calendar</li><li>Relatórios por período</li></ul>',
     wa:'Ol%C3%A1!%20Quero%20saber%20sobre%20automa%C3%A7%C3%A3o'
   }
 ];
@@ -1282,13 +1290,13 @@ function closeModal(){
 function openModal(i){
   var s=services[i];
   modalInfo.innerHTML=
-    '<div class="modal-label">'+s.label+'</div>'+
     '<h3>'+s.title+'</h3>'+
     s.desc;
-  var visual=document.querySelector('[data-service="'+s.label+'"]').closest('.service-row').querySelector('.service-visual').innerHTML;
-  modalExample.innerHTML=
-    '<div class="modal-label">Exemplo</div>'+
-    '<div class="modal-visual">'+visual+'</div>';
+  var src=document.querySelector('[data-service="'+s.label+'"]').closest('.service-row').querySelector('.service-visual');
+  var clone=src.cloneNode(true);
+  clone.removeAttribute('style');
+  modalExample.innerHTML='';
+  modalExample.appendChild(clone);
   modalCta.innerHTML=
     '<a href="https://wa.me/5542999955452?text='+s.wa+'" target="_blank" class="modal-btn modal-btn-primary">Quero isso pro meu negócio</a>';
   overlay.classList.add('active');
