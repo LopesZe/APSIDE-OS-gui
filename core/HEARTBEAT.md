@@ -4,17 +4,18 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  2026-10-05
+ultima_sincronizacao:  2026-10-06
 ultima_auditoria:      2026-10-05
-pendencias_vencidas:   nenhuma (1 item condicional em memoria/pendencias.md)
+pendencias_vencidas:   nenhum (1 item condicional em memoria/pendencias.md)
 github:                05/10 — sync (auditoria; push `40a497b..e4fcf57` — identidade v3.1, deck ANG, ang-festas absorvido no repo)
 ```
 
 ## Alertas a resolver
 
-- **Site institucional fora da paleta** (novo, alta) — `site/index.html` e os 4
-  `site/modelos/*.html` ainda usam a paleta morta (`#0066FF`/`#00E65B`/gradientes)
-  e zero tokens v3.1; migrar antes do deploy
+- **`site/modelos/*.html` ainda na paleta morta** (baixa) — 4 modelos de teste
+  antigos; `site/index.html` **migrado e CONCLUÍDO em 06/10** (tipografia v3.1,
+  copy AI-First, stats com fonte, modal, exemplos fictícios). Não usar os
+  modelos como base pra peça nova
 - **Templates de conteúdo na paleta morta** (novo, alta) — `marketing/templates/*`
   (25 ocorrências) e `clientes/_template/marketing/templates/*`: toda peça nova
   nasce fora da identidade. `marketing/conteudo/` (52) é histórico — não mexer
@@ -22,8 +23,9 @@ github:                05/10 — sync (auditoria; push `40a497b..e4fcf57` — id
   registradas); `core/SKILLS.md` indexa 33/40 (faltam `apresentacao-gmb`,
   `comparar-gmb`, `criar-cliente`, `gmb-imagens`, `gmb-master`, `proposta-kelvin`,
   `raiox-cliente`); `templates/skills/skill-template.md` também sem frontmatter
-- **Deploy do site institucional** — `site/index.html` fechado (links, SEO, CTAs);
-  falta deploy (gate: escolha do operador) + og:image/og:url pós-deploy
+- **Deploy do site institucional** — site **CONCLUÍDO em 06/10/2026**
+  (`site/SITE.md`); deploy **adiado por decisão do operador (06/10: não fazer
+  agora)**. `og:image`/`og:url` entram só quando o deploy acontecer
 - **Validação do nicho contábil** — 5 conversas a fazer (`vendas/validacao-contadores.md`,
   intocado desde 02/10); nenhuma proposta do palco 3 antes disso
 - **`diarios/` vazio** — registro diário parado desde o início (`decisoes/` iniciado em 01/10)
@@ -37,6 +39,11 @@ github:                05/10 — sync (auditoria; push `40a497b..e4fcf57` — id
 
 ## Histórico
 
+- **06/10/2026** — Site institucional **concluído**: tipografia v3.1 (DM Sans/
+  Jakarta/JetBrains Mono), copy do reposicionamento AI-First, stats com fonte
+  verificada, modal vertical (exemplo em cima, X fora da caixa, sem hover, CTA
+  fixo centralizado), exemplos fictícios "Vitália Odontologia", CTAs brancos com
+  brilho no hover; **deploy adiado** pelo operador (não fazer agora)
 - **05/10/2026** — Auditoria semanal: 0 críticos; ang-festas **absorvido no repo
   principal** (alerta de 01/10 resolvido); identidade **v3.1** (accent `#4331e9`,
   texto `#6E5CFF`, fundo `#000000` + fade); novo alerta de **paleta morta no site

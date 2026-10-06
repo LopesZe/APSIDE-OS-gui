@@ -44,6 +44,10 @@ conversas com reação positiva ao formato fixo + variável.
 (`vendas/diagnostico-template.md`), `site/index.html` fechado (links, SEO,
 CTAs funcionais).
 
+**Site institucional CONCLUÍDO em 06/10/2026** (`site/SITE.md`) — conteúdo,
+design e exemplos fechados. **Deploy adiado: não fazer agora** (decisão do
+operador).
+
 **Ferramenta de CRM:** não construir agora. Decidir a base (HubSpot Free /
 planilha / Twenty / Frappe CRM / ERPNext) quando o primeiro cliente pagante
 definir a complexidade. ERPNext avaliado em 02/10: módulo CRM depreciado,

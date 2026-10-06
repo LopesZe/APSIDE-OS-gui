@@ -16,4 +16,7 @@ quem está lidando.
 - **0 clientes pagantes** — ANG Festas reclassificada como **teste, não cliente** (01/10/2026); site ANG mantido como histórico.
 - Análise do canal Kelvin Cleto salva em `analise/youtube/kelvin-cleto/` (206 transcrições, análise, apresentação HTML).
 - **02/10/2026** — `sistema/` (herança de outro projeto) movido para `archive/sistema-representante/`.
-- Próximo passo recomendado: site institucional (links, deploy, SEO, conteúdo).
+- **06/10/2026** — site institucional **concluído** (`site/SITE.md`); deploy
+  **adiado** (decisão do operador: não fazer agora).
+- Próximo passo recomendado: dominar entrega (GMB + site) e avançar a validação
+  do nicho contábil (`vendas/validacao-contadores.md`).
