@@ -4,6 +4,10 @@
 
 Site institucional da APSIDE pra vender serviços de presença digital pra negócios locais. Não é apresentação pro cliente (aquilo ficou em `site/antigo/`). É o site que converte visitante em lead.
 
+**Status: CONCLUÍDO (06/10/2026)** — conteúdo, design e exemplos fechados.
+Única pendência real: deploy, que foi **adiado (decisão do Guilherme em
+06/10/2026: não fazer agora)**.
+
 ## Estrutura
 
 ```
@@ -67,9 +71,11 @@ site/
 - [x] Link do email funcional — footer em `mailto:guilherme@apside.com.br`
 - [x] SEO básico — title, meta description, theme-color, favicon SVG inline
 - [x] Botões viraram links (antes eram `<button>` morto, sem handler)
-- [ ] Deploy (Vercel, Netlify ou GitHub Pages) — **gate: domínio/escolha é do Guilherme**
+- [ ] Deploy — **adiado (06/10/2026): não fazer agora**. Quando for fazer:
+  Vercel, Netlify ou GitHub Pages — gate: domínio/escolha é do Guilherme
 - [ ] `og:image` + `og:url` — precisam de URL absoluta, só depois do deploy
-- [ ] Testar em dispositivos reais (só verificado em desktop 1440px via puppeteer)
+- [ ] Testar em dispositivos reais (verificado em desktop 1440px e mobile 375px
+  via Playwright; falta dispositivo físico)
 - [x] Fontes dos stats conferidas (06/10/2026): 76% Google/Think with Google;
   28% Google (busca local → compra em 24h); 87% BrightLocal (leem avaliações);
   46% Google rep 2018. ~~75% julgam pela foto~~ (sem fonte, trocado por 28%)
