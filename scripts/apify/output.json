@@ -1,5 +1,1494 @@
 [
   {
+    "title": "Contabilizapg",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "R. Frei Caneca, 500 - Centro, Ponta Grossa - PR, 84010-060, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Frei Caneca, 500",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-060",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://contabilizapg.com.br/",
+    "phone": "+55 42 98403-1954",
+    "phoneUnformatted": "+5542984031954",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0991425,
+      "lng": -50.1604486
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKfzRXkEa6JQRcTeR79eZFoE",
+    "categories": [
+      "Accounting firm"
+    ],
+    "fid": "0x94e81a415ed1fc29:0x811699d7ef913771",
+    "cid": "9301791233096628081",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.541Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Contabilizapg&query_place_id=ChIJKfzRXkEa6JQRcTeR79eZFoE",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcOdxqnY850cOxXJ5WDk4C2JUb1Xj6QJ9kq7qmY5FI6CPwNkvD7SL8SUDyRquh5OkHorhe3P8DSVScOUk9VivR31UmxQeQ84TiE0OVHxe7eo55__0rVF6zuHh14RFLn2lVmWos=w408-h544-k-no",
+    "kgmid": "/g/1ydpv9ppc",
+    "businessProfileId": "5416814006789130538"
+  },
+  {
+    "title": "Castanho Contabilidade | Ponta Grossa - PR",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "R. Tobias Monteiro, 75 - Centro, Ponta Grossa - PR, 84010-590, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tobias Monteiro, 75",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-590",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://castanhocontabilidade.com.br/",
+    "phone": "+55 42 99916-1493",
+    "phoneUnformatted": "+5542999161493",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0950194,
+      "lng": -50.168194
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpYVMGI0b6JQRzLgtfFWyXu8",
+    "categories": [
+      "Accounting firm",
+      "Business management consultant",
+      "Tax consultant",
+      "Tax department",
+      "Tax preparation",
+      "Tax preparation service"
+    ],
+    "fid": "0x94e81b8d184c85a5:0xef5eb2557c2db8cc",
+    "cid": "17248419703100913868",
+    "reviewsCount": 76,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 76
+    },
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.543Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Castanho%20Contabilidade%20%7C%20Ponta%20Grossa%20-%20PR&query_place_id=ChIJpYVMGI0b6JQRzLgtfFWyXu8",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU9A4yKhZUXUVrLZoa58cUY-xa90YajIWpobkISDsXo9jUGWYF-M6QvQ2YVzqmTBrTj2trL8NfnLyr3qeofMndB41SASO8sHLT86i5SyZmRbfHZFXYyNnKq_J7KJ48qWe5vXB4=w408-h408-k-no",
+    "kgmid": "/g/11n97l1mq3",
+    "businessProfileId": "11736915795546569377"
+  },
+  {
+    "title": "Dna Contabilidade Ltda",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "Av. Visc. de Taunay, 1855 - Térreo - Sala 4 - Ronda, Ponta Grossa - PR, 84051-000, Brazil",
+    "neighborhood": "Ronda",
+    "street": "Av. Visc. de Taunay, 1855 - Térreo - Sala 4",
+    "city": "Ponta Grossa",
+    "postalCode": "84051-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://dnacontabil.com.br/",
+    "phone": "+55 42 3028-0180",
+    "phoneUnformatted": "+554230280180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0996657,
+      "lng": -50.1822252
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPcFYgdwR6JQRMfnKFyTbNmo",
+    "categories": [
+      "Accounting firm",
+      "Accountant"
+    ],
+    "fid": "0x94e811dc8158c13d:0x6a36db2417caf931",
+    "cid": "7653545564827220273",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.543Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dna%20Contabilidade%20Ltda&query_place_id=ChIJPcFYgdwR6JQRMfnKFyTbNmo",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ii1EH8ICJymgEAP7AmqG1g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=86.00357&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fk8zmdmf",
+    "businessProfileId": "14452651186036618651"
+  },
+  {
+    "title": "Annunziato Contabilidade",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "R. Profa. Izaura Tôrres Cruz, 520 - Jardim Carvalho, Ponta Grossa - PR, 84015-550, Brazil",
+    "neighborhood": "Jardim Carvalho",
+    "street": "R. Profa. Izaura Tôrres Cruz, 520",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-550",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://annunziato.com.br/",
+    "phone": "+55 42 3028-0281",
+    "phoneUnformatted": "+554230280281",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0829064,
+      "lng": -50.1583701
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpTy8Kzoa6JQRnbfGA1r1Q-w",
+    "categories": [
+      "Accounting firm"
+    ],
+    "fid": "0x94e81a3a2bbc3ca5:0xec43f55a03c6b79d",
+    "cid": "17024720783349823389",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 5
+    },
+    "imagesCount": 80,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.544Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Annunziato%20Contabilidade&query_place_id=ChIJpTy8Kzoa6JQRnbfGA1r1Q-w",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetYCWLtJt6kscJrqTf4EfpOtDGWRcovZEFUrs2k0FhNee7OUG5wijPwJ_W4TxuWefo2Q3tcM5vzWJzAUeDGQ2axscrlQJcvmzZrwZhcZUdLDo7HouKA5qxUEJUY0ED6hiLfmU1KuicTRFL=w408-h306-k-no",
+    "kgmid": "/g/11f4zh93gp",
+    "businessProfileId": "7140534217051806947"
+  },
+  {
+    "title": "José Santos Bueno Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "R. Gen. Carneiro, 977 - Centro, Ponta Grossa - PR, 84062-016, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Gen. Carneiro, 977",
+    "city": "Ponta Grossa",
+    "postalCode": "84062-016",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3025-6072",
+    "phoneUnformatted": "+554230256072",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0938609,
+      "lng": -50.1565884
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-ZxyVEca6JQRF4uwVgds6P0",
+    "categories": [
+      "Accountant"
+    ],
+    "fid": "0x94e81a4754729cf9:0xfde86c0756b08b17",
+    "cid": "18295992264967621399",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 0
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.544Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Jos%C3%A9%20Santos%20Bueno%20Ponta%20Grossa&query_place_id=ChIJ-ZxyVEca6JQRF4uwVgds6P0",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SYOZHcT3D4oHw_QQb_ormw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=80.35123&pitch=0&thumbfov=100",
+    "kgmid": "/g/1w6_pzrg",
+    "businessProfileId": null
+  },
+  {
+    "title": "Datacont Gestão Contabil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "R. Gen. Carneiro, 977 - Centro, Ponta Grossa - PR, 84010-370, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Gen. Carneiro, 977",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-370",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3025-6072",
+    "phoneUnformatted": "+554230256072",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0913791,
+      "lng": -50.1574592
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeZ8NVEca6JQR6s1Zsd9bZ0U",
+    "categories": [
+      "Accountant"
+    ],
+    "fid": "0x94e81a47540d9f79:0x45675bdfb159cdea",
+    "cid": "5001066927529512426",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.544Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Datacont%20Gest%C3%A3o%20Contabil&query_place_id=ChIJeZ8NVEca6JQR6s1Zsd9bZ0U",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/1tkr0f77",
+    "businessProfileId": null
+  },
+  {
+    "title": "Costa Assessoria Contábil - Contabilidade em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "R. Balduíno Taques, 1029 - 2º andar - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 1029 - 2º andar",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.costacon.com.br/",
+    "phone": "+55 42 3028-9318",
+    "phoneUnformatted": "+554230289318",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1002392,
+      "lng": -50.1622041
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4U4qS6kb6JQR2zA-i8Vn4XM",
+    "categories": [
+      "Accountant"
+    ],
+    "fid": "0x94e81ba94b2a4ee1:0x73e167c58b3e30db",
+    "cid": "8350069282263937243",
+    "reviewsCount": null,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:35.544Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Costa%20Assessoria%20Cont%C3%A1bil%20-%20Contabilidade%20em%20Ponta%20Grossa&query_place_id=ChIJ4U4qS6kb6JQR2zA-i8Vn4XM",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20Ponta%20Grossa?hl=en",
+    "searchString": "Acountabilidade Ponta Grossa",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrtAlXlH_BJX8TK_NsIgfttlavJDGQNgD2k3Z3zplhYfKvAFWdfC0EoKHkvoYyLwi45HyYVKqnhA7IpwpAmcPhNc3eu-zbQHUn2nk2zFQeltVSeJW3qN4dZOMbiD5JiXKK3AAzzg=w408-h725-k-no",
+    "kgmid": "/g/11h2291s89",
+    "businessProfileId": "17927852706517503539"
+  },
+  {
+    "title": "iAccountant LLC",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "40-16 73rd St, Woodside, NY 11377",
+    "neighborhood": "Woodside",
+    "street": "40-16 73rd St",
+    "city": "Woodside",
+    "postalCode": "11377",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://iaccountant.com/",
+    "phone": "(929) 551-4902",
+    "phoneUnformatted": "+19295514902",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7461261,
+      "lng": -73.8923298
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJASEL7g3H1ogRwngtlgDhi3g",
+    "categories": [
+      "Accountant",
+      "Accounting firm"
+    ],
+    "fid": "0x88d6c70dee0b2101:0x788be100962d78c2",
+    "cid": "8686283698949945538",
+    "reviewsCount": null,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:52.816Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=iAccountant%20LLC&query_place_id=ChIJASEL7g3H1ogRwngtlgDhi3g",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20contabilidade?hl=en",
+    "searchString": "Acountabilidade contabilidade",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XGzYitqlhCyiomhJjE3BJg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=261.08002&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vc1w73b2",
+    "businessProfileId": "11713791102223658784"
+  },
+  {
+    "title": "AccountsConfidant For QuickBooks",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "207 W 80th St #7j, New York, NY 10024",
+    "neighborhood": "Manhattan",
+    "street": "207 W 80th St #7j",
+    "city": "New York",
+    "postalCode": "10024",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://accountsconfidant.com/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7842474,
+      "lng": -73.9783035
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVy8KrSlZwokRz0ATpEkmf1I",
+    "categories": [
+      "Accountant"
+    ],
+    "fid": "0x89c25929ad0a2f57:0x527f2649a41340cf",
+    "cid": "5944512130879537359",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:04:52.816Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AccountsConfidant%20For%20QuickBooks&query_place_id=ChIJVy8KrSlZwokRz0ATpEkmf1I",
+    "searchPageUrl": "https://www.google.com/maps/search/Acountabilidade%20contabilidade?hl=en",
+    "searchString": "Acountabilidade contabilidade",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RKEGBizAYaVOOI9F_aUnQw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=29.317518&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j80k07_l",
+    "businessProfileId": null
+  },
+  {
+    "title": "KSB Contabilidade e Consultoria - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "R. Paulo Frontin, 443 - Órfãs, Ponta Grossa - PR, 84015-120, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Paulo Frontin, 443",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.ksbconsultoria.com.br/",
+    "phone": "+55 42 99940-9540",
+    "phoneUnformatted": "+5542999409540",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0830254,
+      "lng": -50.1654209
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtWeITBAa6JQRZidapUB5RdA",
+    "categories": [
+      "Accountant",
+      "Accounting firm",
+      "Consultant"
+    ],
+    "fid": "0x94e81a104c8867b5:0xd0457940a55a2766",
+    "cid": "15007534651841062758",
+    "reviewsCount": 119,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 119
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:05:01.277Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Online appointments": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=KSB%20Contabilidade%20e%20Consultoria%20-%20Ponta%20Grossa&query_place_id=ChIJtWeITBAa6JQRZidapUB5RdA",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-NGRhh4-TAFiY77EpNQtql56iZey2AnE9GtsE8u-nGBXg7zUMsg0NYJSW0iirpPzy-VV92il2-WO_Wq9mFSydJPsYLjajCn3EJYA04xYhdFc9XQk1xzn1eyqvmALAKtoCm_Bl=w408-h408-k-no",
+    "kgmid": "/g/1thw7wz7",
+    "businessProfileId": "14125231890047626250"
+  },
+  {
+    "title": "BIANCO CONTABILIDADE LTDA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "R. Eng. Beltrão, 916 - Oficinas, Ponta Grossa - PR, 84036-300, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Eng. Beltrão, 916",
+    "city": "Ponta Grossa",
+    "postalCode": "84036-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.biancocontabilidade.com.br/",
+    "phone": "+55 42 98865-7691",
+    "phoneUnformatted": "+5542988657691",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1318602,
+      "lng": -50.1392954
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQDE_CYb6JQRPMMuymg-c2s",
+    "categories": [
+      "Accounting firm"
+    ],
+    "fid": "0x94e81b26fcc40001:0x6b733e68ca2ec33c",
+    "cid": "7742600804169597756",
+    "reviewsCount": 313,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 313
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:05:01.277Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BIANCO%20CONTABILIDADE%20LTDA&query_place_id=ChIJAQDE_CYb6JQRPMMuymg-c2s",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzz0vB5LM8pNkG2nPdOxJ4T3kDUbnhwwmT9OL_G5wm49lAlbe819uZga8shKz-Dr0_W1eV43sfOer52r18aueAUiT_JNShr_TtMaPEbCBavyRqzXHf_TboHVWsfj7mcDlbcyg2gsukih71=w408-h544-k-no",
+    "kgmid": "/g/11jl0rjcjk",
+    "businessProfileId": "458574968751949250"
+  },
+  {
+    "title": "Garcia Contabilidade Ltda",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accountant",
+    "address": "R. Edílson Araújo, 180 - Cará-Cará, Ponta Grossa - PR, 84033-111, Brazil",
+    "neighborhood": "Cará-Cará",
+    "street": "R. Edílson Araújo, 180",
+    "city": "Ponta Grossa",
+    "postalCode": "84033-111",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://garciacont.com.br/",
+    "phone": "+55 42 99811-2156",
+    "phoneUnformatted": "+5542998112156",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1171376,
+      "lng": -50.1207138
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf6qR2jsb6JQRmjd2l2Kh88M",
+    "categories": [
+      "Accountant",
+      "Accounting firm",
+      "Business administration service",
+      "Business management consultant",
+      "Consultant",
+      "Cost accounting service",
+      "Financial planner",
+      "Tax department",
+      "Tax preparation",
+      "Tax preparation service"
+    ],
+    "fid": "0x94e81b3bda91aa7f:0xc3f3a1629776379a",
+    "cid": "14119806701556610970",
+    "reviewsCount": 124,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 124
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "Transgender safespace": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Garcia%20Contabilidade%20Ltda&query_place_id=ChIJf6qR2jsb6JQRmjd2l2Kh88M",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLceIBekhYLxKxTLe32QmzLvYaMKbhBgf_pcm_yUjmUPvOXJerzYD_9dAt-voJe6K273tWL1AjRw1aDCkUnW9qkbgilX9Mt0NXfn1Ai1jVhXudyNaO3uS7PYUucxA3fvG1BJIel74iPkB_A=w408-h304-k-no",
+    "kgmid": "/g/11frlczj5n",
+    "businessProfileId": "14457630389743905525"
+  },
+  {
+    "title": "Vallorize Organização Contábil & Empresarial",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "R. Siqueira Campos, 303 - Uvaranas, Ponta Grossa - PR, 84031-030, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Siqueira Campos, 303",
+    "city": "Ponta Grossa",
+    "postalCode": "84031-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.vallorizecontabil.com/",
+    "phone": "+55 42 3227-6824",
+    "phoneUnformatted": "+554232276824",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0957006,
+      "lng": -50.1264867
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvTfFL9AR6JQRMnDjTGL-zBI",
+    "categories": [
+      "Accounting firm",
+      "Business management consultant",
+      "Chartered accountant",
+      "Financial consultant",
+      "Financial planner",
+      "Payroll service",
+      "Tax consultant"
+    ],
+    "fid": "0x94e811d02fc537bd:0x12ccfe624ce37032",
+    "cid": "1354737286081900594",
+    "reviewsCount": 52,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 52
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vallorize%20Organiza%C3%A7%C3%A3o%20Cont%C3%A1bil%20%26%20Empresarial&query_place_id=ChIJvTfFL9AR6JQRMnDjTGL-zBI",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPAMIWfn5Pqx_ctOcTnETmhg6veKZiqfL2pxkyOiPAoxk_CTzBprs0SwnjJWXZksETwpHzpnWFiG9SUv8lWD-ViTnsZgdDCev0r-kioSrMgceNiblGGxWGRhAFZzOhd1MBOvbcS4fAyJ65m=w408-h272-k-no",
+    "kgmid": "/g/11fkk_0x5f",
+    "businessProfileId": "7242841930231552157"
+  },
+  {
     "title": "RTA Gestão Contábil - Escritório de Contabilidade em Ponta Grossa",
     "subTitle": null,
     "description": null,
@@ -47,7 +1536,7 @@
     },
     "imagesCount": 24,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -106,12 +1595,12 @@
     },
     "gasPrices": [],
     "url": "https://www.google.com/maps/search/?api=1&query=RTA%20Gest%C3%A3o%20Cont%C3%A1bil%20-%20Escrit%C3%B3rio%20de%20Contabilidade%20em%20Ponta%20Grossa&query_place_id=ChIJ4beFGeEb6JQRklIWB1dZANs",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
-    "rank": 1,
+    "rank": 5,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnrO7U8CycCIsIF3rezoPDrnHeGJL4XpqG8QmTsquLP-T0hhvkdZAjKKKqwM_JXNfzPd2QRFCEx7dTQQNVUv0ZnwGRjTU6vSNVKzq-Rx8M_bDzzJ6S3VX-rkys9lUUiUZOJOb7zKQ=w408-h408-k-no",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOVGeEdMjn0BhbGNPm0OQt4jed5MiSOwCm3vjZCe3-YdHv0jEigJ-mOB6yPF3ByTREoyLA98DiSIp7vi7U8Hxzn5aWVGN-cYjvArqepzYs-zYWSVbsl8ia9qvgUuNmQ_LMYJeWX=w408-h408-k-no",
     "kgmid": "/g/11hnrlb6_n",
     "businessProfileId": "4961141336195217893"
   },
@@ -165,7 +1654,7 @@
     },
     "imagesCount": 10,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -294,36 +1783,36 @@
     },
     "gasPrices": [],
     "url": "https://www.google.com/maps/search/?api=1&query=Partenari%20Contabilidade%20%7C%20Escrit%C3%B3rio%20de%20Contabilidade%20%7C%20Contador%20em%20Ponta%20Grossa&query_place_id=ChIJ2XmAxTK5-0sRyLOzN3gKAhg",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
-    "rank": 2,
+    "rank": 7,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxmxBlLQyEKLbfUskQWeRm0OcYfxDHb84QTPTD5WnvDaWt_Ks7RhXrTEeyCyPCz1xU0DFj7POpL-T1UBcUsy2MdTJsktmXHLnI8MtmuQ_YX6Mt5trA0qKGzhba34I6hyXHuLc=w408-h543-k-no",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMQFBybHe-rbTjdOHsJDpaw8x5TlizDfO4JI7sYhUTtRobzmzfj-Hn-TrPSNHvNDNSt9c5jq_sPMwNzuJ59Kh6ocXdwm7YCw2vh3L8y9IhIEah696YDmOBnMRzllbErx4MtL7U4JoWNXyRJ=w408-h247-k-no",
     "kgmid": "/g/11kbtlgrwm",
     "businessProfileId": "11612225221058038552"
   },
   {
-    "title": "KSB Contabilidade e Consultoria - Ponta Grossa",
+    "title": "Office 360 Contabilidade",
     "subTitle": null,
     "description": null,
     "ownerDescription": null,
     "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Paulo Frontin, 443 - Órfãs, Ponta Grossa - PR, 84015-120, Brazil",
+    "categoryName": "Accounting firm",
+    "address": "R. Miguel Couto, 341 - Órfãs, Ponta Grossa - PR, 84070-260, Brazil",
     "neighborhood": "Órfãs",
-    "street": "R. Paulo Frontin, 443",
+    "street": "R. Miguel Couto, 341",
     "city": "Ponta Grossa",
-    "postalCode": "84015-120",
+    "postalCode": "84070-260",
     "state": "Paraná",
     "countryCode": "BR",
-    "website": "http://www.ksbconsultoria.com.br/",
-    "phone": "+55 42 99940-9540",
-    "phoneUnformatted": "+5542999409540",
+    "website": "https://office360cont.com.br/",
+    "phone": "+55 42 99943-3712",
+    "phoneUnformatted": "+5542999433712",
     "claimThisBusiness": false,
     "location": {
-      "lat": -25.0830254,
-      "lng": -50.1654209
+      "lat": -25.0832626,
+      "lng": -50.1702429
     },
     "locatedIn": null,
     "floor": null,
@@ -333,25 +1822,23 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": "ChIJtWeITBAa6JQRZidapUB5RdA",
+    "placeId": "ChIJfS_xkAQb6JQR8iHdeynzPD8",
     "categories": [
-      "Accountant",
-      "Accounting firm",
-      "Consultant"
+      "Accounting firm"
     ],
-    "fid": "0x94e81a104c8867b5:0xd0457940a55a2766",
-    "cid": "15007534651841062758",
-    "reviewsCount": 119,
+    "fid": "0x94e81b0490f12f7d:0x3f3cf3297bdd21f2",
+    "cid": "4556784282489397746",
+    "reviewsCount": 14,
     "reviewsDistribution": {
       "oneStar": 0,
       "twoStar": 0,
       "threeStar": 0,
       "fourStar": 0,
-      "fiveStar": 119
+      "fiveStar": 14
     },
-    "imagesCount": 13,
+    "imagesCount": 6,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -365,23 +1852,23 @@
     "openingHours": [
       {
         "day": "Monday",
-        "hours": "8:30 AM to 6 PM"
+        "hours": "8 AM to 5:45 PM"
       },
       {
         "day": "Tuesday",
-        "hours": "8:30 AM to 6 PM"
+        "hours": "8 AM to 5:45 PM"
       },
       {
         "day": "Wednesday",
-        "hours": "8:30 AM to 6 PM"
+        "hours": "8 AM to 5:45 PM"
       },
       {
         "day": "Thursday",
-        "hours": "8:30 AM to 6 PM"
+        "hours": "8 AM to 5:45 PM"
       },
       {
         "day": "Friday",
-        "hours": "8:30 AM to 6 PM"
+        "hours": "8 AM to 5:45 PM"
       },
       {
         "day": "Saturday",
@@ -396,39 +1883,16 @@
     "peopleAlsoSearch": [],
     "placesTags": [],
     "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ],
-      "Service options": [
-        {
-          "Online appointments": true
-        },
-        {
-          "Onsite services": true
-        }
-      ],
-      "Planning": [
-        {
-          "Appointment required": true
-        },
-        {
-          "Appointments recommended": true
-        }
-      ]
-    },
     "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=KSB%20Contabilidade%20e%20Consultoria%20-%20Ponta%20Grossa&query_place_id=ChIJtWeITBAa6JQRZidapUB5RdA",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
+    "url": "https://www.google.com/maps/search/?api=1&query=Office%20360%20Contabilidade&query_place_id=ChIJfS_xkAQb6JQR8iHdeynzPD8",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
-    "rank": 3,
+    "rank": 8,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlXLk9R2QY6-b-JNyRHhCAiWEBg--JjNaPj3BHxNH5Ad14H7QFCUrUVu82rodPBJlZAdS2haQdE1jOuyWxbEFmNr-vX0zw0rOXSkaanAKqedBUCS1rxKtVPI5UbKYBn_t7yseg2tTrIMgsn=w408-h306-k-no",
-    "kgmid": "/g/1thw7wz7",
-    "businessProfileId": "14125231890047626250"
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M5WGia1pKgbRG1xGuWSq9g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=322.64288&pitch=0&thumbfov=100",
+    "kgmid": "/g/11yrt82tph",
+    "businessProfileId": "10573311876109649244"
   },
   {
     "title": "Dalzoto Contabilidade | Contabilidade em Ponta Grossa",
@@ -479,7 +1943,7 @@
     },
     "imagesCount": 9,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -561,1715 +2025,14 @@
     },
     "gasPrices": [],
     "url": "https://www.google.com/maps/search/?api=1&query=Dalzoto%20Contabilidade%20%7C%20Contabilidade%20em%20Ponta%20Grossa&query_place_id=ChIJq0TWMRkb6JQRJIUA_9FtrTM",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 4,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLUBGuuG56t-LpockiGr3bHguZOdyCpGHsBZRB_ilA0P3yz4-sX6s0-xpCrEKce7t_hy1QrmOwq6tXoilP7BM-DiEGjQ6xFt0Q9rkBi0y-6uHafoiD7z-sHK9bDNV_EjohSaJT7EiZCpnb=w408-h303-k-no",
-    "kgmid": "/g/11trx6nd7y",
-    "businessProfileId": "16694699851852627668"
-  },
-  {
-    "title": "Bulek Contabilidade Inteligente",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Miguel Couto, 1387 - Órfãs, Ponta Grossa - PR, 84070-260, Brazil",
-    "neighborhood": "Órfãs",
-    "street": "R. Miguel Couto, 1387",
-    "city": "Ponta Grossa",
-    "postalCode": "84070-260",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "http://www.bulekcontabilidade.com.br/",
-    "phone": "+55 42 98402-5288",
-    "phoneUnformatted": "+5542984025288",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0763548,
-      "lng": -50.1667012
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJ89ZF5gUa6JQRYo4V7EyoHqY",
-    "categories": [
-      "Accountant"
-    ],
-    "fid": "0x94e81a05e645d6f3:0xa61ea84cec158e62",
-    "cid": "11970189907929173602",
-    "reviewsCount": 24,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 24
-    },
-    "imagesCount": 11,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 12 PM, 1:30 to 5 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ],
-      "Service options": [
-        {
-          "Online appointments": true
-        },
-        {
-          "Onsite services": true
-        },
-        {
-          "English": true
-        }
-      ],
-      "Accessibility": [
-        {
-          "Wheelchair accessible entrance": true
-        },
-        {
-          "Wheelchair accessible parking lot": true
-        },
-        {
-          "Wheelchair accessible restroom": true
-        },
-        {
-          "Wheelchair accessible seating": true
-        }
-      ],
-      "Amenities": [
-        {
-          "Gender-neutral restroom": true
-        }
-      ],
-      "Crowd": [
-        {
-          "LGBTQ+ friendly": true
-        },
-        {
-          "Transgender safespace": true
-        }
-      ],
-      "Planning": [
-        {
-          "Appointment required": true
-        },
-        {
-          "Appointments recommended": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Bulek%20Contabilidade%20Inteligente&query_place_id=ChIJ89ZF5gUa6JQRYo4V7EyoHqY",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 5,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpEKZPHnySU_MZX0GkWMS2E-o1eYNxA4uL5tF-wN2r4hnoPIh6PhS83xMdyo47g-R1I4_8G06-PUpL7PL1NzHh7ztz7sYs1ZAxT-lLjhdZ-xvCmgAyusB8HwOgjD52G7XA81IJgw=w408-h306-k-no",
-    "kgmid": "/g/1tr7dyy_",
-    "businessProfileId": "8344517553028515907"
-  },
-  {
-    "title": "Castanho Contabilidade | Ponta Grossa - PR",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Tobias Monteiro, 75 - Centro, Ponta Grossa - PR, 84010-590, Brazil",
-    "neighborhood": "Centro",
-    "street": "R. Tobias Monteiro, 75",
-    "city": "Ponta Grossa",
-    "postalCode": "84010-590",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://castanhocontabilidade.com.br/",
-    "phone": "+55 42 99916-1493",
-    "phoneUnformatted": "+5542999161493",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0950194,
-      "lng": -50.168194
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJpYVMGI0b6JQRzLgtfFWyXu8",
-    "categories": [
-      "Accounting firm",
-      "Business management consultant",
-      "Tax consultant",
-      "Tax department",
-      "Tax preparation",
-      "Tax preparation service"
-    ],
-    "fid": "0x94e81b8d184c85a5:0xef5eb2557c2db8cc",
-    "cid": "17248419703100913868",
-    "reviewsCount": 74,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 74
-    },
-    "imagesCount": 25,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Castanho%20Contabilidade%20%7C%20Ponta%20Grossa%20-%20PR&query_place_id=ChIJpYVMGI0b6JQRzLgtfFWyXu8",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 6,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlOd2EyS6U3YP6D6V8ulq461oRR_9aCFtVOd-7EUbLtzP9EbzP5MRz3dkBxqp-Sev9hLiAT-FemgRhWe_p0ufo-0MzarcXN0HAGVhh4TeZgIfrjw06uoIisL0KlGEtBmQtspYjIAg=w408-h270-k-no",
-    "kgmid": "/g/11n97l1mq3",
-    "businessProfileId": "11736915795546569377"
-  },
-  {
-    "title": "LCI Contabilidade | Contabilidade em Ponta Grossa - PR",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "Av. Antônio Rodrigues Teixeira Júnior, 122 - Sl 6 - Jardim Carvalho, Ponta Grossa - PR, 84015-490, Brazil",
-    "neighborhood": "Jardim Carvalho",
-    "street": "Av. Antônio Rodrigues Teixeira Júnior, 122 - Sl 6",
-    "city": "Ponta Grossa",
-    "postalCode": "84015-490",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://lcicontabil.com.br/",
-    "phone": "+55 42 3086-8020",
-    "phoneUnformatted": "+554230868020",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0838454,
-      "lng": -50.1578327
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 4.9,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJ_wpm6Zsb6JQRb53fk2o_-QM",
-    "categories": [
-      "Accountant",
-      "Accounting firm"
-    ],
-    "fid": "0x94e81b9be9660aff:0x3f93f6a93df9d6f",
-    "cid": "286329778294725999",
-    "reviewsCount": 67,
-    "reviewsDistribution": {
-      "oneStar": 1,
-      "twoStar": 0,
-      "threeStar": 1,
-      "fourStar": 1,
-      "fiveStar": 64
-    },
-    "imagesCount": 17,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:30 AM to 5:30 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:30 AM to 5:30 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:30 AM to 5:30 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:30 AM to 5:30 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "Service options": [
-        {
-          "Portuguese": true
-        }
-      ],
-      "Accessibility": [
-        {
-          "Wheelchair accessible entrance": true
-        },
-        {
-          "Wheelchair accessible parking lot": true
-        },
-        {
-          "Wheelchair accessible restroom": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=LCI%20Contabilidade%20%7C%20Contabilidade%20em%20Ponta%20Grossa%20-%20PR&query_place_id=ChIJ_wpm6Zsb6JQRb53fk2o_-QM",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 7,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmz9lxBGqchbC8mNkOnLUq3Ju85TzS86BqpAeMdWztIDUatgGA7kzauyX32eT9OUm06GyLOayV62aXmyPVFQ-W4hetUGUNooaLJ9m6da6hLejW78TPcc5QDvBuL_2mdyn4odfd9jZnE58Kq=w408-h725-k-no",
-    "kgmid": "/g/11ckwwd2bg",
-    "businessProfileId": "16011361403752469487"
-  },
-  {
-    "title": "ROSSI ASSESSORIA EMPRESARIAL",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Saldanha da Gama, 853 - Órfãs, Ponta Grossa - PR, 84015-130, Brazil",
-    "neighborhood": "Órfãs",
-    "street": "R. Saldanha da Gama, 853",
-    "city": "Ponta Grossa",
-    "postalCode": "84015-130",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://controssi.com.br/",
-    "phone": "+55 42 3025-6844",
-    "phoneUnformatted": "+554230256844",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0811171,
-      "lng": -50.1594996
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 4.8,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJPSaiMEEa6JQRxjBKBrn0psQ",
-    "categories": [
-      "Accountant",
-      "Accounting firm"
-    ],
-    "fid": "0x94e81a4130a2263d:0xc4a6f4b9064a30c6",
-    "cid": "14170282353079496902",
-    "reviewsCount": 45,
-    "reviewsDistribution": {
-      "oneStar": 2,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 43
-    },
-    "imagesCount": 9,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ],
-      "Service options": [
-        {
-          "Online appointments": true
-        },
-        {
-          "Onsite services": true
-        },
-        {
-          "English": true
-        }
-      ],
-      "Planning": [
-        {
-          "Appointments recommended": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=ROSSI%20ASSESSORIA%20EMPRESARIAL&query_place_id=ChIJPSaiMEEa6JQRxjBKBrn0psQ",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 8,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQT4o0ZfpMhpQMUqkiGg6ABxQAAAG2foAlOPS2dQ7BTyjaspmTSdbg7ld04BzatGg7gZhg5CluU2OLld7wEaA9lbKOqgHai0opqAHPfKHoJDQsa6ghbxQVG22WnYnFGG9EDymXCA=w408-h267-k-no",
-    "kgmid": "/g/11c74ch5k6",
-    "businessProfileId": "1468498833274879711"
-  },
-  {
-    "title": "Garcia Contabilidade Ltda",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Edílson Araújo, 180 - Cará-Cará, Ponta Grossa - PR, 84033-111, Brazil",
-    "neighborhood": "Cará-Cará",
-    "street": "R. Edílson Araújo, 180",
-    "city": "Ponta Grossa",
-    "postalCode": "84033-111",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://garciacont.com.br/",
-    "phone": "+55 42 99811-2156",
-    "phoneUnformatted": "+5542998112156",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.1171376,
-      "lng": -50.1207138
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJf6qR2jsb6JQRmjd2l2Kh88M",
-    "categories": [
-      "Accountant",
-      "Accounting firm",
-      "Business administration service",
-      "Business management consultant",
-      "Consultant",
-      "Cost accounting service",
-      "Financial planner",
-      "Tax department",
-      "Tax preparation",
-      "Tax preparation service"
-    ],
-    "fid": "0x94e81b3bda91aa7f:0xc3f3a1629776379a",
-    "cid": "14119806701556610970",
-    "reviewsCount": 124,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 124
-    },
-    "imagesCount": 13,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 12 PM, 1 to 5 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1 to 5 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1 to 5 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1 to 5 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 12 PM, 1 to 5 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "additionalOpeningHours": {
-      "Online service hours": [
-        {
-          "day": "Monday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Thursday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Friday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Open 24 hours"
-        }
-      ]
-    },
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ],
-      "Service options": [
-        {
-          "Onsite services": true
-        }
-      ],
-      "Accessibility": [
-        {
-          "Wheelchair accessible entrance": true
-        },
-        {
-          "Wheelchair accessible parking lot": true
-        },
-        {
-          "Assistive hearing loop": false
-        },
-        {
-          "Wheelchair accessible restroom": false
-        },
-        {
-          "Wheelchair accessible seating": false
-        }
-      ],
-      "Amenities": [
-        {
-          "Gender-neutral restroom": true
-        }
-      ],
-      "Crowd": [
-        {
-          "Transgender safespace": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Garcia%20Contabilidade%20Ltda&query_place_id=ChIJf6qR2jsb6JQRmjd2l2Kh88M",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
     "rank": 9,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZ90eWNzrGhWErksqOv3_1-T_IXo4suCwJI4v546B6yOB3PSaPRAbF-szZOWFIXUWpPwut78y7BuVuwn5J91EIbgg14PWrqxjIzY2YSQjnfZ0eYbuIGAFz3H9mEVtsXt7_nao9=w408-h544-k-no",
-    "kgmid": "/g/11frlczj5n",
-    "businessProfileId": "14457630389743905525"
-  },
-  {
-    "title": "Agilita Contabilidade | Escritório de Contabilidade em Ponta Grossa",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": null,
-    "neighborhood": null,
-    "street": null,
-    "city": null,
-    "postalCode": null,
-    "state": null,
-    "countryCode": null,
-    "website": "http://www.agilitacontabilidade.com.br/",
-    "phone": "+55 42 99945-3725",
-    "phoneUnformatted": "+5542999453725",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.9356805,
-      "lng": -50.492599
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJpWg5eGQX6JQRdRso0-KEFgk",
-    "categories": [
-      "Accountant",
-      "Accounting firm",
-      "Chartered accountant",
-      "Consultant",
-      "Cost accounting service",
-      "Service establishment"
-    ],
-    "fid": "0x94e81764783968a5:0x91684e2d3281b75",
-    "cid": "654856905569082229",
-    "reviewsCount": 40,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 40
-    },
-    "imagesCount": 2,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:30 to 11:30 AM, 1:30 to 5:30 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Agilita%20Contabilidade%20%7C%20Escrit%C3%B3rio%20de%20Contabilidade%20em%20Ponta%20Grossa&query_place_id=ChIJpWg5eGQX6JQRdRso0-KEFgk",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 10,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmG6VHkwvbyv2OC0iJ-l9m_4wIoIbwtDe8NAHTmSV5kcfIV98zkfzdfPERbxfWlKanYKiuZDfAJA1gQU2spOlrCzKMIpzBTIJlKNWz9Ppz9WsdnY2HdCK7mq5wEezdVFgAHAaqj=w408-h408-k-no",
-    "kgmid": "/g/11f50vnlk0",
-    "businessProfileId": "8060677796189553478"
-  },
-  {
-    "title": "BIANCO CONTABILIDADE LTDA",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Eng. Beltrão, 916 - Oficinas, Ponta Grossa - PR, 84036-300, Brazil",
-    "neighborhood": "Oficinas",
-    "street": "R. Eng. Beltrão, 916",
-    "city": "Ponta Grossa",
-    "postalCode": "84036-300",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://www.biancocontabilidade.com.br/",
-    "phone": "+55 42 98865-7691",
-    "phoneUnformatted": "+5542988657691",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.1318602,
-      "lng": -50.1392954
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJAQDE_CYb6JQRPMMuymg-c2s",
-    "categories": [
-      "Accounting firm"
-    ],
-    "fid": "0x94e81b26fcc40001:0x6b733e68ca2ec33c",
-    "cid": "7742600804169597756",
-    "reviewsCount": 313,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 313
-    },
-    "imagesCount": 18,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "Accessibility": [
-        {
-          "Wheelchair accessible entrance": true
-        },
-        {
-          "Wheelchair accessible parking lot": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=BIANCO%20CONTABILIDADE%20LTDA&query_place_id=ChIJAQDE_CYb6JQRPMMuymg-c2s",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 11,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUzil-N2FnecNSuQSIEPJMlVCKG0qn4GBx8rHOZ9aaPJuO2Kpj-2FPXTgn-vOmbZr95tC0paGbjgNs27-BddtM0TDN2LHOG_d9YH0ZGhO95HxZa_AST6XzHti3RbuNaEljjvRCaFZR2qdI=w408-h544-k-no",
-    "kgmid": "/g/11jl0rjcjk",
-    "businessProfileId": "458574968751949250"
-  },
-  {
-    "title": "Vallorize Organização Contábil & Empresarial",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Siqueira Campos, 303 - Uvaranas, Ponta Grossa - PR, 84031-030, Brazil",
-    "neighborhood": "Uvaranas",
-    "street": "R. Siqueira Campos, 303",
-    "city": "Ponta Grossa",
-    "postalCode": "84031-030",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "http://www.vallorizecontabil.com/",
-    "phone": "+55 42 3227-6824",
-    "phoneUnformatted": "+554232276824",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0957006,
-      "lng": -50.1264867
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJvTfFL9AR6JQRMnDjTGL-zBI",
-    "categories": [
-      "Accounting firm",
-      "Business management consultant",
-      "Chartered accountant",
-      "Financial consultant",
-      "Financial planner",
-      "Payroll service",
-      "Tax consultant"
-    ],
-    "fid": "0x94e811d02fc537bd:0x12ccfe624ce37032",
-    "cid": "1354737286081900594",
-    "reviewsCount": 52,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 52
-    },
-    "imagesCount": 10,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:15 to 11:30 AM, 1 to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "From the business": [
-        {
-          "Identifies as women-owned": true
-        }
-      ],
-      "Service options": [
-        {
-          "Onsite services": true
-        }
-      ],
-      "Accessibility": [
-        {
-          "Wheelchair accessible entrance": true
-        },
-        {
-          "Wheelchair accessible restroom": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Vallorize%20Organiza%C3%A7%C3%A3o%20Cont%C3%A1bil%20%26%20Empresarial&query_place_id=ChIJvTfFL9AR6JQRMnDjTGL-zBI",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 12,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8rEJKDiQxcLCnNycW5QoH8tzl7BG_V-KEAVCD7KIWVlHY5QnYOIFgBKxuwK98Pe2nGGDsvCPd08-4hhLZuIa4fDG5DVumFCU7RM_S4mucGogD87n_qWxvtVOU441nGm1GIPnQnuekqB72=w408-h272-k-no",
-    "kgmid": "/g/11fkk_0x5f",
-    "businessProfileId": "7242841930231552157"
-  },
-  {
-    "title": "Contabilidade Nova Rússia",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "Av. Dom Pedro II, 468 - Sl 13 - Nova Rússia, Ponta Grossa - PR, 84053-000, Brazil",
-    "neighborhood": "Nova Rússia",
-    "street": "Av. Dom Pedro II, 468 - Sl 13",
-    "city": "Ponta Grossa",
-    "postalCode": "84053-000",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "phone": "+55 42 3236-2013",
-    "phoneUnformatted": "+554232362013",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.085112,
-      "lng": -50.1801435
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJW6K75wYa6JQRyJIX8vWkeD8",
-    "categories": [
-      "Accountant"
-    ],
-    "fid": "0x94e81a06e7bba25b:0x3f78a4f5f21792c8",
-    "cid": "4573586797830312648",
-    "reviewsCount": 1,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 1
-    },
-    "imagesCount": 1,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.429Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Contabilidade%20Nova%20R%C3%BAssia&query_place_id=ChIJW6K75wYa6JQRyJIX8vWkeD8",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 13,
-    "isAdvertisement": false,
-    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pjKHdShd-OqcwmuFpKUIOg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.373245&pitch=0&thumbfov=100",
-    "kgmid": "/g/11crydz5hj",
-    "businessProfileId": "14196995202738796013"
-  },
-  {
-    "title": "Contabilidade T&G",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "Av. União Panamericana - Colonia Dona Luiza, Ponta Grossa - PR, 84045-310, Brazil",
-    "neighborhood": "Colonia Dona Luiza",
-    "street": "Av. União Panamericana",
-    "city": "Ponta Grossa",
-    "postalCode": "84045-310",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://contabilidadeteg.com.br/",
-    "phone": "+55 42 99919-8720",
-    "phoneUnformatted": "+5542999198720",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.1225182,
-      "lng": -50.1615296
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJ-wr0YNIb6JQRi9YWDy9uOko",
-    "categories": [
-      "Accounting firm"
-    ],
-    "fid": "0x94e81bd260f40afb:0x4a3a6e2f0f16d68b",
-    "cid": "5348708655851558539",
-    "reviewsCount": 24,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 24
-    },
-    "imagesCount": 3,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 5:30 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "8 to 11:30 AM"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "Service options": [
-        {
-          "Onsite services": true
-        },
-        {
-          "English": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Contabilidade%20T%26G&query_place_id=ChIJ-wr0YNIb6JQRi9YWDy9uOko",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 14,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDlFaG9xsgDUYPLJDstOjrDg8ing6fuTKP7WAJMP2s1-15rISlRD4mJBg78CcxljuytgKOmKJMChTgEp2VoaEbv36nTF_NE9_OrOQNGUq8qRmGEkpqaSTl6g0xe89Swx_6vnqE=w426-h240-k-no",
-    "kgmid": "/g/11w34qfkh6",
-    "businessProfileId": "7693971043298417662"
-  },
-  {
-    "title": "CCV Serviços Contábeis",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Profa. Judith Macedo Silveira, 87 - Olarias, Ponta Grossa - PR, 84035-010, Brazil",
-    "neighborhood": "Olarias",
-    "street": "R. Profa. Judith Macedo Silveira, 87",
-    "city": "Ponta Grossa",
-    "postalCode": "84035-010",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "phone": "+55 42 3323-5529",
-    "phoneUnformatted": "+554233235529",
-    "claimThisBusiness": true,
-    "location": {
-      "lat": -25.0963493,
-      "lng": -50.1534712
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJjyqnoRUa6JQRcA2iYfs3yl0",
-    "categories": [
-      "Accounting firm"
-    ],
-    "fid": "0x94e81a15a1a72a8f:0x5dca37fb61a20d70",
-    "cid": "6758275743637179760",
-    "reviewsCount": 6,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 6
-    },
-    "imagesCount": 2,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=CCV%20Servi%C3%A7os%20Cont%C3%A1beis&query_place_id=ChIJjyqnoRUa6JQRcA2iYfs3yl0",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 15,
-    "isAdvertisement": false,
-    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U_TXAC1WTquceHgaidoiHQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.19016&pitch=0&thumbfov=100",
-    "kgmid": "/g/1tgqkl1v",
-    "businessProfileId": null
-  },
-  {
-    "title": "Office 360 Contabilidade",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Miguel Couto, 341 - Órfãs, Ponta Grossa - PR, 84070-260, Brazil",
-    "neighborhood": "Órfãs",
-    "street": "R. Miguel Couto, 341",
-    "city": "Ponta Grossa",
-    "postalCode": "84070-260",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://office360cont.com.br/",
-    "phone": "+55 42 99943-3712",
-    "phoneUnformatted": "+5542999433712",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0832626,
-      "lng": -50.1702429
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJfS_xkAQb6JQR8iHdeynzPD8",
-    "categories": [
-      "Accounting firm"
-    ],
-    "fid": "0x94e81b0490f12f7d:0x3f3cf3297bdd21f2",
-    "cid": "4556784282489397746",
-    "reviewsCount": 14,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 14
-    },
-    "imagesCount": 6,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 5:45 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 5:45 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 5:45 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 5:45 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 5:45 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Office%20360%20Contabilidade&query_place_id=ChIJfS_xkAQb6JQR8iHdeynzPD8",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 16,
-    "isAdvertisement": false,
-    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M5WGia1pKgbRG1xGuWSq9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.638&pitch=0&thumbfov=100",
-    "kgmid": "/g/11yrt82tph",
-    "businessProfileId": "10573311876109649244"
-  },
-  {
-    "title": "Conta Gestor Contabilidade",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Cel. Theodoro Rosas, 1465 - Centro, Ponta Grossa - PR, 84010-180, Brazil",
-    "neighborhood": "Centro",
-    "street": "R. Cel. Theodoro Rosas, 1465",
-    "city": "Ponta Grossa",
-    "postalCode": "84010-180",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://www.contagestor.com.br/",
-    "phone": "+55 42 98880-2617",
-    "phoneUnformatted": "+5542988802617",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0930666,
-      "lng": -50.167186
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJ9QFRvDQb6JQRME6JZ980RHc",
-    "categories": [
-      "Accountant",
-      "Accounting firm",
-      "Business management consultant",
-      "Financial consultant"
-    ],
-    "fid": "0x94e81b34bc5101f5:0x774434df67894e30",
-    "cid": "8594052123049152048",
-    "reviewsCount": 58,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 58
-    },
-    "imagesCount": 3,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "Service options": [
-        {
-          "Onsite services": true
-        }
-      ],
-      "Crowd": [
-        {
-          "LGBTQ+ friendly": true
-        },
-        {
-          "Transgender safespace": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Conta%20Gestor%20Contabilidade&query_place_id=ChIJ9QFRvDQb6JQRME6JZ980RHc",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 17,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqKRystjKBG9WQCl9LXulxG4QMUwJJvkQvgKdZTO5kppQbzyhBFid9gg8Aex1SP6jIorWbLKPajiRtSHAAPtEpI5Y6w0uv7DORBEZvFoe1uPQxcJ3Kq1O5ipJKFVhH3DL68iIHU7FNxFDn=w408-h408-k-no",
-    "kgmid": "/g/11gy1m6m6m",
-    "businessProfileId": "6201582359851993166"
-  },
-  {
-    "title": "Dna Contabilidade Ltda",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "Av. Visc. de Taunay, 1855 - Térreo - Sala 4 - Ronda, Ponta Grossa - PR, 84051-000, Brazil",
-    "neighborhood": "Ronda",
-    "street": "Av. Visc. de Taunay, 1855 - Térreo - Sala 4",
-    "city": "Ponta Grossa",
-    "postalCode": "84051-000",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "http://dnacontabil.com.br/",
-    "phone": "+55 42 3028-0180",
-    "phoneUnformatted": "+554230280180",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0996657,
-      "lng": -50.1822252
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJPcFYgdwR6JQRMfnKFyTbNmo",
-    "categories": [
-      "Accountant",
-      "Accounting firm"
-    ],
-    "fid": "0x94e811dc8158c13d:0x6a36db2417caf931",
-    "cid": "7653545564827220273",
-    "reviewsCount": 10,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 10
-    },
-    "imagesCount": 4,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
-      "Crowd": [
-        {
-          "LGBTQ+ friendly": true
-        },
-        {
-          "Transgender safespace": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Dna%20Contabilidade%20Ltda&query_place_id=ChIJPcFYgdwR6JQRMfnKFyTbNmo",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 18,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk3AhIKnVo23z11_mGtgAjSvQ6I5AeEMD_O7QDCYZNKMKZc66n-zVq2OOI-IGLJLWx9FdKFITxVYht3A8fFbjquQsv0pb1zSkiN8VECbA-MnzWfYNE5CfjE12kF1PqLEB8P_62w=w533-h240-k-no",
-    "kgmid": "/g/11fk8zmdmf",
-    "businessProfileId": "14452651186036618651"
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmO4Ujo3VrqW92QVTILeM-ToiU1fBdl3_3pZ--J6CzQXO8pADFTeFw2Yj2tBolJv2BM_0l666oMwONFQ9Tfib45Gd_R50YvOZYREoGt4ZAFVIzSVcz8OiBR_DvAZjjUZaqj4WHqZIv51qjg2=w426-h240-k-no",
+    "kgmid": "/g/11trx6nd7y",
+    "businessProfileId": "16694699851852627668"
   },
   {
     "title": "Tcm Contabilidade",
@@ -2318,9 +2081,9 @@
       "fourStar": 0,
       "fiveStar": 101
     },
-    "imagesCount": 15,
+    "imagesCount": 14,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -2404,66 +2167,63 @@
     },
     "gasPrices": [],
     "url": "https://www.google.com/maps/search/?api=1&query=Tcm%20Contabilidade&query_place_id=ChIJfcq2UKkb6JQRDyucVulShC8",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
-    "rank": 19,
+    "rank": 10,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvsvCVItjj_jQgK-_p4zgK82Ok6GZyXmFYPM1yPwjJ9b1lbkmEnNf2i6UlvhtWr3Lw7LJ9VOn04SAY8ZIx3MxDa7D995JwlNTBG92ReyIWidGXSmUCD0pYfZAQY457JUwvMFb2eTj83AU=w426-h240-k-no",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOzb5XWHDVEX8aOYi6uE-k8rsu1gm1gZ7jFd--IYi-LNC0_dun-fP3CDDkehpxoYrVJQeCeTknpT4ByBCtyYKt-VTlsQu_Su7w3X4agNKQaQwbvviMb7BkYSk_mYOYerPNwDKNDB8uLrJM=w408-h510-k-no",
     "kgmid": "/g/1pty8bt75",
     "businessProfileId": "4846919484173032194"
   },
   {
-    "title": "LG Centro Contábil Escritório de contabilidade em Ponta Grossa",
-    "subTitle": "LG Centro Contábil",
+    "title": "LCI Contabilidade | Contabilidade em Ponta Grossa - PR",
+    "subTitle": null,
     "description": null,
     "ownerDescription": null,
     "price": null,
     "categoryName": "Accountant",
-    "address": "R. Pedro Mascarenhas Ribas, 373 - Jardim Carvalho, Ponta Grossa - PR, 84015-760, Brazil",
+    "address": "Av. Antônio Rodrigues Teixeira Júnior, 122 - Sl 6 - Jardim Carvalho, Ponta Grossa - PR, 84015-490, Brazil",
     "neighborhood": "Jardim Carvalho",
-    "street": "R. Pedro Mascarenhas Ribas, 373",
+    "street": "Av. Antônio Rodrigues Teixeira Júnior, 122 - Sl 6",
     "city": "Ponta Grossa",
-    "postalCode": "84015-760",
+    "postalCode": "84015-490",
     "state": "Paraná",
     "countryCode": "BR",
-    "website": "https://lgcentrocontabil.com.br/",
-    "phone": "+55 42 3238-3742",
-    "phoneUnformatted": "+554232383742",
+    "website": "https://lcicontabil.com.br/",
+    "phone": "+55 42 3086-8020",
+    "phoneUnformatted": "+554230868020",
     "claimThisBusiness": false,
     "location": {
-      "lat": -25.0686772,
-      "lng": -50.1533471
+      "lat": -25.0838454,
+      "lng": -50.1578327
     },
     "locatedIn": null,
     "floor": null,
     "plusCode": null,
     "menu": null,
     "servicesLink": null,
-    "totalScore": 5,
+    "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": "ChIJ1ebsaIgZ6JQRJ7cJ4sxy6Mg",
+    "placeId": "ChIJ_wpm6Zsb6JQRb53fk2o_-QM",
     "categories": [
       "Accountant",
-      "Bookkeeping service",
-      "Consultant",
-      "Cost accounting service",
-      "Tax assessor"
+      "Accounting firm"
     ],
-    "fid": "0x94e8198868ece6d5:0xc8e872cce209b727",
-    "cid": "14476947226473641767",
-    "reviewsCount": 10,
+    "fid": "0x94e81b9be9660aff:0x3f93f6a93df9d6f",
+    "cid": "286329778294725999",
+    "reviewsCount": 68,
     "reviewsDistribution": {
-      "oneStar": 0,
+      "oneStar": 1,
       "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 10
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 65
     },
-    "imagesCount": 4,
+    "imagesCount": 17,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:12.430Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -2477,23 +2237,23 @@
     "openingHours": [
       {
         "day": "Monday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+        "hours": "Closed"
       },
       {
         "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+        "hours": "8:30 AM to 5:30 PM"
       },
       {
         "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+        "hours": "8:30 AM to 5:30 PM"
       },
       {
         "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+        "hours": "8:30 AM to 5:30 PM"
       },
       {
         "day": "Friday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+        "hours": "8:30 AM to 5:30 PM"
       },
       {
         "day": "Saturday",
@@ -2511,268 +2271,9 @@
     "additionalInfo": {
       "Service options": [
         {
-          "Online appointments": true
-        },
-        {
-          "Onsite services": true
-        },
-        {
           "Portuguese": true
         }
       ],
-      "Amenities": [
-        {
-          "Gender-neutral restroom": true
-        }
-      ],
-      "Planning": [
-        {
-          "Appointments recommended": true
-        }
-      ],
-      "Parking": [
-        {
-          "Free street parking": true
-        }
-      ]
-    },
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=LG%20Centro%20Cont%C3%A1bil%20Escrit%C3%B3rio%20de%20contabilidade%20em%20Ponta%20Grossa&query_place_id=ChIJ1ebsaIgZ6JQRJ7cJ4sxy6Mg",
-    "searchPageUrl": "https://www.google.com/maps/search/escrit%C3%B3rio%20cont%C3%A1bil%20Ponta%20Grossa?hl=en",
-    "searchString": "escritório contábil Ponta Grossa",
-    "language": "en",
-    "rank": 20,
-    "isAdvertisement": false,
-    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3lNAU4Ea8qVbMsqUVxUPwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=303.51736&pitch=0&thumbfov=100",
-    "kgmid": "/g/11gz6dmwk",
-    "businessProfileId": "10754241641989216968"
-  },
-  {
-    "title": "Senger Contabilidade",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Benjamin Constant, 851 - Centro, Ponta Grossa - PR, 84010-380, Brazil",
-    "neighborhood": "Centro",
-    "street": "R. Benjamin Constant, 851",
-    "city": "Ponta Grossa",
-    "postalCode": "84010-380",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://sengercontabilidade.com.br/",
-    "phone": "+55 42 3229-6698",
-    "phoneUnformatted": "+554232296698",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0907975,
-      "lng": -50.156598
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJEVbg9xYa6JQR9RX1pjUxUBk",
-    "categories": [
-      "Accounting firm"
-    ],
-    "fid": "0x94e81a16f7e05611:0x19503135a6f515f5",
-    "cid": "1824011955589158389",
-    "reviewsCount": 33,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 33
-    },
-    "imagesCount": 3,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:31.771Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:30 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "additionalOpeningHours": {
-      "Online service hours": [
-        {
-          "day": "Monday",
-          "hours": "8:30 AM–12 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8:30 AM–12 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8:30 AM–12 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8:30 AM–12 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8:30 AM–12 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ]
-    },
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Senger%20Contabilidade&query_place_id=ChIJEVbg9xYa6JQR9RX1pjUxUBk",
-    "searchPageUrl": "https://www.google.com/maps/search/contador%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
-    "searchString": "contador Ponta Grossa Paraná",
-    "language": "en",
-    "rank": 11,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktdECPtUuUbVLqjtpSJU480IDIM_5BhhbLthljvxwz10-9od-EXZ1Qkj62bBm_fgbnnECzdN9kzdp-rUvudR9520xK08_MruFKdYy-nXciOoKoydn9Q_pnRkUBWprPvhFw8j8O=w427-h240-k-no",
-    "kgmid": "/g/11byt8jrn5",
-    "businessProfileId": "3424697165126280939"
-  },
-  {
-    "title": "G2Tax Contabilidade",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Prudente de Morais, 444 - Estrela, Ponta Grossa - PR, 84040-150, Brazil",
-    "neighborhood": "Estrela",
-    "street": "R. Prudente de Morais, 444",
-    "city": "Ponta Grossa",
-    "postalCode": "84040-150",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "https://g2tax.com.br/",
-    "phone": "+55 42 99933-9590",
-    "phoneUnformatted": "+5542999339590",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.106065,
-      "lng": -50.1650587
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 5,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJyy7hAAMb6JQRhGz_6KzsSVw",
-    "categories": [
-      "Accountant"
-    ],
-    "fid": "0x94e81b0300e12ecb:0x5c49ecace8ff6c84",
-    "cid": "6650106552176831620",
-    "reviewsCount": 71,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 1,
-      "fourStar": 1,
-      "fiveStar": 69
-    },
-    "imagesCount": 16,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:31.771Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 12 PM, 1:30 to 5 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "additionalInfo": {
       "Accessibility": [
         {
           "Wheelchair accessible entrance": true
@@ -2781,349 +2282,42 @@
           "Wheelchair accessible parking lot": true
         },
         {
-          "Wheelchair accessible seating": true
-        },
-        {
-          "Assistive hearing loop": false
+          "Wheelchair accessible restroom": true
         }
       ]
     },
     "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=G2Tax%20Contabilidade&query_place_id=ChIJyy7hAAMb6JQRhGz_6KzsSVw",
-    "searchPageUrl": "https://www.google.com/maps/search/contador%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
-    "searchString": "contador Ponta Grossa Paraná",
+    "url": "https://www.google.com/maps/search/?api=1&query=LCI%20Contabilidade%20%7C%20Contabilidade%20em%20Ponta%20Grossa%20-%20PR&query_place_id=ChIJ_wpm6Zsb6JQRb53fk2o_-QM",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
-    "rank": 15,
+    "rank": 11,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk6DpFfWfvpXm_4TVQpZTkUWhka6YvI7SQjCa4ggl1kDyPGLX8VK4LrMDv-dTpcfqgJYeAHQHxpZ4h0vEWTLi9txf9sp9vRA--xg4Y4ia1IF42nDCtffZX87cooLW74w2Uw17XR9XS7ntw=w408-h408-k-no",
-    "kgmid": "/g/11h7z1m5sp",
-    "businessProfileId": "3077072573750453703"
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7Ey77a3N-vlofnKcvmUgLvmpbEwZp-LYQqkWAe8u-XOqn_1LOSRmy1GJRghFWWoYbhiIx9Uh9BSR3mjclvyQQvdbTU9pE_BZaCdtI1h29yuQYjjfwJyjj2b9uxvdg1sjghvZi=w408-h544-k-no",
+    "kgmid": "/g/11ckwwd2bg",
+    "businessProfileId": "16011361403752469487"
   },
   {
-    "title": "Decicon Contabilidade",
+    "title": "Conta Gestor Contabilidade",
     "subTitle": null,
     "description": null,
     "ownerDescription": null,
     "price": null,
     "categoryName": "Accountant",
-    "address": "R. Comendador Airton Plaisant, 641 - Centro, Ponta Grossa - PR, 84010-550, Brazil",
+    "address": "R. Cel. Theodoro Rosas, 1465 - Centro, Ponta Grossa - PR, 84010-180, Brazil",
     "neighborhood": "Centro",
-    "street": "R. Comendador Airton Plaisant, 641",
+    "street": "R. Cel. Theodoro Rosas, 1465",
     "city": "Ponta Grossa",
-    "postalCode": "84010-550",
+    "postalCode": "84010-180",
     "state": "Paraná",
     "countryCode": "BR",
-    "phone": "+55 42 99126-2002",
-    "phoneUnformatted": "+5542991262002",
+    "website": "https://www.contagestor.com.br/",
+    "phone": "+55 42 98880-2617",
+    "phoneUnformatted": "+5542988802617",
     "claimThisBusiness": false,
     "location": {
-      "lat": -25.0890902,
-      "lng": -50.1681384
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 4.7,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJAWInXhQa6JQR8S_vxMkDM28",
-    "categories": [
-      "Accountant"
-    ],
-    "fid": "0x94e81a145e276201:0x6f3303c9c4ef2ff1",
-    "cid": "8012752327149563889",
-    "reviewsCount": 25,
-    "reviewsDistribution": {
-      "oneStar": 2,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 23
-    },
-    "imagesCount": 2,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:31.771Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8:30 to 11:30 AM, 1 to 5:30 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8:30 to 11:30 AM, 1 to 5:30 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8:30 to 11:30 AM, 1 to 5:30 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8:30 to 11:30 AM, 1 to 5:30 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8:30 to 11:30 AM, 1 to 5:30 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "8:30 to 11:30 AM, 1 to 5:30 PM"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Decicon%20Contabilidade&query_place_id=ChIJAWInXhQa6JQR8S_vxMkDM28",
-    "searchPageUrl": "https://www.google.com/maps/search/contador%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
-    "searchString": "contador Ponta Grossa Paraná",
-    "language": "en",
-    "rank": 17,
-    "isAdvertisement": false,
-    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3i23TQg-Y4MaUwALZfisxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=232.68488&pitch=0&thumbfov=100",
-    "kgmid": "/g/1tff_nnk",
-    "businessProfileId": "1242183104462308225"
-  },
-  {
-    "title": "Contabilidade Ponta Grossa",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accountant",
-    "address": "R. Bitencourt Sampaio, 510 - Nova Rússia, Ponta Grossa - PR, 84053-030, Brazil",
-    "neighborhood": "Nova Rússia",
-    "street": "R. Bitencourt Sampaio, 510",
-    "city": "Ponta Grossa",
-    "postalCode": null,
-    "state": "Paraná",
-    "countryCode": "BR",
-    "phone": "+55 42 3086-5882",
-    "phoneUnformatted": "+554230865882",
-    "claimThisBusiness": true,
-    "location": {
-      "lat": -25.087932,
-      "lng": -50.176458
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 3,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJDSkjZA8a6JQRzOj8rOcuPXA",
-    "categories": [
-      "Accountant"
-    ],
-    "fid": "0x94e81a0f6423290d:0x703d2ee7acfce8cc",
-    "cid": "8087672078401857740",
-    "reviewsCount": 1,
-    "reviewsDistribution": {
-      "oneStar": 0,
-      "twoStar": 0,
-      "threeStar": 1,
-      "fourStar": 0,
-      "fiveStar": 0
-    },
-    "imagesCount": 1,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:31.771Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Contabilidade%20Ponta%20Grossa&query_place_id=ChIJDSkjZA8a6JQRzOj8rOcuPXA",
-    "searchPageUrl": "https://www.google.com/maps/search/contador%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
-    "searchString": "contador Ponta Grossa Paraná",
-    "language": "en",
-    "rank": 19,
-    "isAdvertisement": false,
-    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vv3iu_aqoT5QNuE0HdPLyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.26846&pitch=0&thumbfov=100",
-    "kgmid": "/g/11dz_2pc0p",
-    "businessProfileId": null
-  },
-  {
-    "title": "PROGRESSO Contabilidade",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "Edifício Oscar Niemeyer - R. Fagundes Varela, n°156 - Sl 01 - Uvaranas, Ponta Grossa - PR, 84020-010, Brazil",
-    "neighborhood": "Uvaranas",
-    "street": "Edifício Oscar Niemeyer - R. Fagundes Varela, n°156 - Sl 01",
-    "city": "Ponta Grossa",
-    "postalCode": "84020-010",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "http://bit.ly/progressocontabilidadepg",
-    "phone": "+55 42 3323-3323",
-    "phoneUnformatted": "+554233233323",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0888073,
-      "lng": -50.1515401
-    },
-    "locatedIn": null,
-    "floor": null,
-    "plusCode": null,
-    "menu": null,
-    "servicesLink": null,
-    "totalScore": 4.8,
-    "permanentlyClosed": false,
-    "temporarilyClosed": false,
-    "placeId": "ChIJfUox4Ukb6JQRc1ixSZtcrmA",
-    "categories": [
-      "Accounting firm"
-    ],
-    "fid": "0x94e81b49e1314a7d:0x60ae5c9b49b15873",
-    "cid": "6966607495614781555",
-    "reviewsCount": 19,
-    "reviewsDistribution": {
-      "oneStar": 1,
-      "twoStar": 0,
-      "threeStar": 0,
-      "fourStar": 0,
-      "fiveStar": 18
-    },
-    "imagesCount": 5,
-    "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:31.771Z",
-    "reserveTableUrl": null,
-    "googleFoodUrl": null,
-    "hotelStars": null,
-    "hotelDescription": null,
-    "checkInDate": null,
-    "checkOutDate": null,
-    "hotelAds": [],
-    "popularTimesLiveText": null,
-    "popularTimesLivePercent": null,
-    "popularTimesHistogram": {},
-    "openingHours": [
-      {
-        "day": "Monday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Tuesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Wednesday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Thursday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Friday",
-        "hours": "8 AM to 6 PM"
-      },
-      {
-        "day": "Saturday",
-        "hours": "Closed"
-      },
-      {
-        "day": "Sunday",
-        "hours": "Closed"
-      }
-    ],
-    "wasOpenAtScrapeTime": true,
-    "peopleAlsoSearch": [],
-    "placesTags": [],
-    "reviewsTags": [],
-    "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=PROGRESSO%20Contabilidade&query_place_id=ChIJfUox4Ukb6JQRc1ixSZtcrmA",
-    "searchPageUrl": "https://www.google.com/maps/search/contador%20Ponta%20Grossa%20Paran%C3%A1?hl=en",
-    "searchString": "contador Ponta Grossa Paraná",
-    "language": "en",
-    "rank": 20,
-    "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJjgymyZ4cZ3y-I0zT5BOcI7VztlaXBNh2M6v04Cxwr7yMc0WZYTlLTqIQeQeqO3bjA8idTJIL7ow-75G9v8LjpH4EtPl6GYmMKAv0Hpigx925sHOrLeTp9UEbu__3y2XVPs4IRA=w408-h271-k-no",
-    "kgmid": "/g/11pdy2f6mb",
-    "businessProfileId": "4934207136817820585"
-  },
-  {
-    "title": "Contabilizapg",
-    "subTitle": null,
-    "description": null,
-    "ownerDescription": null,
-    "price": null,
-    "categoryName": "Accounting firm",
-    "address": "R. Frei Caneca, 500 - Centro, Ponta Grossa - PR, 84010-060, Brazil",
-    "neighborhood": "Centro",
-    "street": "R. Frei Caneca, 500",
-    "city": "Ponta Grossa",
-    "postalCode": "84010-060",
-    "state": "Paraná",
-    "countryCode": "BR",
-    "website": "http://contabilizapg.com.br/",
-    "phone": "+55 42 98403-1954",
-    "phoneUnformatted": "+5542984031954",
-    "claimThisBusiness": false,
-    "location": {
-      "lat": -25.0991425,
-      "lng": -50.1604486
+      "lat": -25.0930666,
+      "lng": -50.167186
     },
     "locatedIn": null,
     "floor": null,
@@ -3133,23 +2327,26 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": "ChIJKfzRXkEa6JQRcTeR79eZFoE",
+    "placeId": "ChIJ9QFRvDQb6JQRME6JZ980RHc",
     "categories": [
-      "Accounting firm"
+      "Accountant",
+      "Accounting firm",
+      "Business management consultant",
+      "Financial consultant"
     ],
-    "fid": "0x94e81a415ed1fc29:0x811699d7ef913771",
-    "cid": "9301791233096628081",
-    "reviewsCount": 17,
+    "fid": "0x94e81b34bc5101f5:0x774434df67894e30",
+    "cid": "8594052123049152048",
+    "reviewsCount": 57,
     "reviewsDistribution": {
       "oneStar": 0,
       "twoStar": 0,
       "threeStar": 0,
       "fourStar": 0,
-      "fiveStar": 17
+      "fiveStar": 57
     },
-    "imagesCount": 4,
+    "imagesCount": 5,
     "imageCategories": [],
-    "scrapedAt": "2026-09-14T17:35:46.409Z",
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
     "reserveTableUrl": null,
     "googleFoodUrl": null,
     "hotelStars": null,
@@ -3163,23 +2360,23 @@
     "openingHours": [
       {
         "day": "Monday",
-        "hours": "8 AM to 12 PM, 1 to 6 PM"
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
       },
       {
         "day": "Tuesday",
-        "hours": "8 AM to 12 PM, 1 to 6 PM"
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
       },
       {
         "day": "Wednesday",
-        "hours": "8 AM to 12 PM, 1 to 6 PM"
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
       },
       {
         "day": "Thursday",
-        "hours": "8 AM to 12 PM, 1 to 6 PM"
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
       },
       {
         "day": "Friday",
-        "hours": "8 AM to 12 PM, 1 to 6 PM"
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
       },
       {
         "day": "Saturday",
@@ -3199,17 +2396,137 @@
         {
           "Onsite services": true
         }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
       ]
     },
     "gasPrices": [],
-    "url": "https://www.google.com/maps/search/?api=1&query=Contabilizapg&query_place_id=ChIJKfzRXkEa6JQRcTeR79eZFoE",
+    "url": "https://www.google.com/maps/search/?api=1&query=Conta%20Gestor%20Contabilidade&query_place_id=ChIJ9QFRvDQb6JQRME6JZ980RHc",
     "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
     "searchString": "contabilidade em Ponta Grossa PR",
     "language": "en",
-    "rank": 18,
+    "rank": 12,
     "isAdvertisement": false,
-    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnG5Gt5LtPF5ki56d2-zqY_GzrIOGDPbFY8N80XVJQCkI8KFwtESmq_ts1DoqtnI54uawMJXsb_tSj-TTh0rjs9QcDRdiUAiYbpFR9zphKZGy4Al6_o-F5hRX9MtcbISyc5jFEV=w408-h544-k-no",
-    "kgmid": "/g/1ydpv9ppc",
-    "businessProfileId": "5416814006789130538"
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOMLHEmnNRx-uhZWxPqtKy57Z5Sx89Z-mGiYP2RBZZ-Ti_REwy7RM9Ux6Q1emyoMwebxjBLh6ivmRKxgMv5b77_nhFV4MO7AmsiW4JCbwcw19klVar1jiYc8oO0U2JzosNIr69-adXDV3B2=w408-h544-k-no",
+    "kgmid": "/g/11gy1m6m6m",
+    "businessProfileId": "6201582359851993166"
+  },
+  {
+    "title": "Contabilidade T&G",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Accounting firm",
+    "address": "Av. União Panamericana - Colonia Dona Luiza, Ponta Grossa - PR, 84045-310, Brazil",
+    "neighborhood": "Colonia Dona Luiza",
+    "street": "Av. União Panamericana",
+    "city": "Ponta Grossa",
+    "postalCode": "84045-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://contabilidadeteg.com.br/",
+    "phone": "+55 42 99919-8720",
+    "phoneUnformatted": "+5542999198720",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1225182,
+      "lng": -50.1615296
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-wr0YNIb6JQRi9YWDy9uOko",
+    "categories": [
+      "Accounting firm"
+    ],
+    "fid": "0x94e81bd260f40afb:0x4a3a6e2f0f16d68b",
+    "cid": "5348708655851558539",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-06T19:05:01.278Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        },
+        {
+          "English": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Contabilidade%20T%26G&query_place_id=ChIJ-wr0YNIb6JQRi9YWDy9uOko",
+    "searchPageUrl": "https://www.google.com/maps/search/contabilidade%20em%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "contabilidade em Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmO3GY4MKAuu4C-lPkuDKS2_GGtX3QzFE1KfYiYQhBORJITd2iRnALbXcIntNeV4MTJlZAbWCkYU8DZXeRshaP-vA-WQ5s4rHW9IfG2zNMyFJt-EwbJoyQVEZIHsrXDRrAwQwdJN=w426-h240-k-no",
+    "kgmid": "/g/11w34qfkh6",
+    "businessProfileId": "7693971043298417662"
   }
 ]

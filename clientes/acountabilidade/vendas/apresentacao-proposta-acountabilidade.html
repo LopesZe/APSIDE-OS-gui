@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acountabilidade — Diagnóstico de Vazamento de Vendas | APSIDE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --primary:#4130D8;
+  --secondary:#2F2399;
+  --accent:#4331e9;
+  --accent-txt:#6E5CFF;
+  --bg:#000000;
+  --surface:#E7E6EF;
+  --borda-esc:rgba(255,255,255,0.08);
+  --borda-cla:rgba(24,23,33,0.10);
+  --sombra-esc:0 4px 24px rgba(0,0,0,0.5);
+  --sombra-cla:0 4px 24px rgba(24,23,33,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{font-family:'Plus Jakarta Sans',sans-serif;background:#000;overflow:hidden}
+
+.slide{position:absolute;inset:0;display:none;flex-direction:column;padding:5vh 7vw;justify-content:center}
+.slide.active{display:flex}
+.dark{background:radial-gradient(125% 68% at 50% 112%,rgba(47,35,153,.92) 0%,rgba(47,35,153,.38) 36%,rgba(47,35,153,0) 70%),var(--bg);color:var(--surface)}
+.dark .hl,.dark .kicker{color:var(--accent-txt)}
+.regua{position:absolute;top:0;left:0;right:0;height:6px;background:var(--primary)}
+
+header{position:absolute;top:3.2vh;right:7vw;display:flex;align-items:center;gap:14px}
+header img{width:110px;display:block}
+
+h1{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(30px,4.4vw,58px);line-height:1.08;margin-bottom:2.4vh}
+h2{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(24px,3vw,42px);line-height:1.12;margin-bottom:2.6vh}
+h3{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(16px,1.5vw,21px);margin-bottom:8px}
+p,li{font-size:clamp(14px,1.3vw,18px);line-height:1.55}
+.kicker{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(12px,1vw,15px);letter-spacing:.18em;text-transform:uppercase;margin-bottom:2vh}
+.sub{opacity:.75;font-size:clamp(14px,1.25vw,17px);line-height:1.5}
+
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:2.2vw;margin-top:1vh}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.6vw;margin-top:1vh}
+.card{border-radius:12px;padding:2.2vh 1.6vw}
+.dark .card{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc);box-shadow:var(--sombra-esc)}
+.card p{font-size:clamp(13px,1.1vw,16px);line-height:1.5}
+
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4vw;margin-top:3vh}
+.stats-3{grid-template-columns:repeat(3,1fr)}
+.stat{border-radius:12px;padding:2.4vh 1vw;text-align:center}
+.dark .stat{border:1px solid var(--borda-esc);background:rgba(255,255,255,.04)}
+.stat .num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(24px,2.8vw,42px);line-height:1}
+.dark .stat .num{color:var(--accent)}
+.stat .lbl{font-size:clamp(11px,1vw,14px);opacity:.7;margin-top:8px}
+
+ul.clean{list-style:none;display:flex;flex-direction:column;gap:1.1vh;margin-top:1vh}
+ul.clean li{padding-left:30px;position:relative}
+ul.clean li::before{content:"";position:absolute;left:0;top:.5em;width:14px;height:14px;border-radius:50%}
+.dark ul.clean li::before{border:3px solid var(--accent)}
+ul.clean li b{font-weight:600}
+
+.quote{font-family:'DM Sans',sans-serif;font-weight:600;font-size:clamp(20px,2.5vw,34px);line-height:1.3}
+.big-quote{font-size:clamp(23px,3.2vw,46px);line-height:1.22;font-weight:700}
+
+table{width:100%;border-collapse:collapse;margin-top:1vh}
+th,td{text-align:left;padding:1.1vh 1vw;font-size:clamp(12px,1.1vw,16px);line-height:1.4;border-bottom:1px solid}
+.dark th,.dark td{border-color:var(--borda-esc)}
+th{font-family:'DM Sans',sans-serif;font-weight:600;opacity:.75;font-size:clamp(11px,.95vw,14px);text-transform:uppercase;letter-spacing:.08em}
+td b{font-weight:600}
+.dark tr.destaque td{background:rgba(67,49,233,.18)}
+
+.flow{display:flex;align-items:stretch;gap:10px;margin-top:2vh;flex-wrap:wrap}
+.flow .step{flex:1;min-width:130px;border-radius:12px;padding:1.8vh 1vw;position:relative}
+.dark .step{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.step .n{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(13px,1.05vw,15px);margin-bottom:6px}
+.dark .step .n{color:var(--accent)}
+.step p{font-size:clamp(11.5px,1vw,14px);line-height:1.4}
+.step .pct{display:block;margin-top:8px;font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(15px,1.5vw,22px)}
+.dark .step .pct{color:var(--accent)}
+
+.calc{border-radius:12px;padding:2.4vh 1.8vw;margin-top:2vh}
+.dark .calc{background:rgba(65,48,216,.16);border:1px solid rgba(65,48,216,.5)}
+.calc .linha{display:flex;justify-content:space-between;padding:.8vh 0;font-size:clamp(13px,1.15vw,17px)}
+.calc .linha.total{border-top:2px solid var(--primary);margin-top:1vh;padding-top:1.4vh;font-weight:700;font-size:clamp(15px,1.4vw,20px)}
+.dark .calc .linha.total{border-color:var(--accent)}
+.calc .linha .v{font-family:'JetBrains Mono',monospace;font-weight:700}
+.dark .calc .linha .v{color:var(--accent)}
+
+.note{margin-top:2.2vh;padding:1.6vh 1.4vw;border-radius:12px;font-size:clamp(13px,1.1vw,16px);line-height:1.5}
+.dark .note{border-left:4px solid var(--accent);background:rgba(67,49,233,.14)}
+
+.price-box{border-radius:16px;padding:3.4vh 2.4vw;text-align:center;margin-top:2.5vh}
+.dark .price-box{background:rgba(65,48,216,.18);border:2px solid var(--primary)}
+.price-box .val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(28px,3.4vw,50px);line-height:1.15}
+.dark .price-box .val{color:var(--accent)}
+.price-box .cap{font-size:clamp(13px,1.15vw,17px);opacity:.75;margin-top:10px}
+
+.price{display:grid;grid-template-columns:repeat(3,1fr);gap:1.4vw;margin-top:2vh}
+.price .p{border-radius:12px;padding:2.4vh 1.4vw;text-align:center}
+.dark .p{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.p .val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(19px,2.1vw,32px);line-height:1.1}
+.dark .p .val{color:var(--accent)}
+.p .cap{font-size:clamp(11.5px,1vw,14px);opacity:.7;margin-top:8px}
+
+.garantia{display:inline-block;border-radius:999px;padding:8px 22px;font-weight:700;font-size:clamp(13px,1.15vw,17px);margin-top:2vh;background:var(--primary);color:var(--surface)}
+
+/* grid numerado das peças */
+.pecas{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5vw 1.3vw;margin-top:2vh;align-content:stretch}
+.pecas .peca{border-radius:12px;padding:2.8vh 1.3vw;position:relative;text-align:center;display:flex;flex-direction:column;justify-content:center}
+.dark .pecas .peca{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.pecas .num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(20px,2vw,30px);line-height:1;margin-bottom:8px}
+.dark .pecas .num{color:var(--accent)}
+.pecas h4{font-family:'DM Sans',sans-serif;font-size:clamp(13px,1.1vw,16px);font-weight:600;margin-bottom:6px}
+.pecas p{font-size:clamp(11.5px,.95vw,13.5px);line-height:1.42;opacity:.8}
+.pecas .peca.full{grid-column:auto}
+
+.sheet{width:100%;border-collapse:collapse;border-radius:14px;overflow:hidden;border:1px solid var(--borda-esc);background:rgba(255,255,255,.04);margin-top:1vh}
+.sheet th,.sheet td{text-align:center;padding:1.6vh 1vw;font-size:clamp(12px,1.05vw,15.5px);line-height:1.45;border-bottom:1px solid var(--borda-esc);border-right:1px solid var(--borda-esc)}
+.sheet th:last-child,.sheet td:last-child{border-right:none}
+.sheet tr:last-child td{border-bottom:none}
+.sheet th{background:rgba(65,48,216,.4);color:var(--surface);opacity:1;font-size:clamp(11px,.9vw,13px);letter-spacing:.1em;padding:1.7vh 1vw}
+.sheet tr:nth-child(even) td{background:rgba(255,255,255,.03)}
+.sheet tr.destaque td{background:rgba(67,49,233,.22)}
+.sheet .per{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--accent);white-space:nowrap}
+.sheet .ent{font-weight:600}
+.sheet .note-cell{opacity:.75}
+
+/* slide 8 — a ordem certa */
+.ordem{display:grid;grid-template-columns:1fr 1fr;gap:2vw 2vw;margin-top:1vh;align-items:stretch}
+.ordem .nota-ordem{grid-column:1 / -1;margin-top:0}
+.ordem .sheet{height:100%}
+.camadas{display:flex;flex-direction:column;gap:1.2vh;height:100%}
+.camada{border-radius:12px;padding:1.6vh 1.2vw;display:flex;gap:14px;align-items:flex-start;flex:1}
+.dark .camada{background:rgba(255,255,255,.04);border:1px solid var(--borda-esc)}
+.camada .cnum{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(18px,1.7vw,26px);line-height:1;color:var(--accent)}
+.camada h4{font-family:'DM Sans',sans-serif;font-size:clamp(13px,1.15vw,17px);font-weight:600;margin-bottom:4px}
+.camada p{font-size:clamp(11.5px,1vw,14px);line-height:1.45;opacity:.8}
+.camada.agora{background:rgba(67,49,233,.20)!important;border:1px solid rgba(67,49,233,.55)!important}
+
+/* slide 10 — mocks */
+.mocks{display:grid;grid-template-columns:1fr 1.1fr 1.1fr;gap:1.6vw;margin-top:1vh}
+.mock{border-radius:14px;overflow:hidden;background:#0b0b12;border:1px solid var(--borda-esc);box-shadow:var(--sombra-esc);display:flex;flex-direction:column}
+.mock .mtop{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:9px 12px;background:rgba(255,255,255,.05);border-bottom:1px solid var(--borda-esc)}
+.mock .mbrand{font-family:'DM Sans',sans-serif;font-weight:800;font-size:clamp(9px,.75vw,12px);letter-spacing:.1em;text-transform:uppercase;color:#fff}
+.mock .murl{font-size:clamp(8.5px,.7vw,11px);color:rgba(231,230,239,.6);background:rgba(255,255,255,.07);border-radius:6px;padding:3px 8px;font-family:'DM Sans',sans-serif}
+.mock .mbody{padding:10px 12px 12px;flex:1}
+.mock .mlbl{font-family:'DM Sans',sans-serif;font-size:clamp(10px,.8vw,12px);text-transform:uppercase;letter-spacing:.1em;opacity:.6;margin-bottom:8px}
+
+.chat{display:flex;flex-direction:column;gap:6px}
+.msg{max-width:88%;border-radius:12px;padding:6px 9px;font-size:clamp(10px,.8vw,12px);line-height:1.35}
+.msg.me{align-self:flex-end;background:#1f4d3a;color:#e8f7f0}
+.msg.bot{align-self:flex-start;background:rgba(67,49,233,.30);border:1px solid rgba(110,92,255,.45);color:#efeeff}
+.msg .who{display:block;font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(8.5px,.65vw,10.5px);opacity:.75;margin-bottom:3px;letter-spacing:.06em;text-transform:uppercase}
+.chat .meta{text-align:center;font-family:'JetBrains Mono',monospace;font-size:clamp(9px,.7vw,11px);opacity:.6;margin-top:4px}
+
+/* mock landing page de qualificação */
+.lp-mock .tagline{display:inline-block;font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(9px,.7vw,11px);letter-spacing:.1em;text-transform:uppercase;color:#6E5CFF;background:rgba(110,92,255,.14);border:1px solid rgba(110,92,255,.4);border-radius:999px;padding:4px 10px;margin-bottom:10px}
+.lp-mock h5{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(13px,1.15vw,17px);line-height:1.25;margin-bottom:9px;color:#fff}
+.lp-mock .lp-line{font-size:clamp(10.5px,.85vw,13px);line-height:1.5;color:rgba(231,230,239,.78);padding-left:16px;position:relative;margin-bottom:5px}
+.lp-mock .lp-line::before{content:"";position:absolute;left:0;top:.45em;width:8px;height:8px;border-radius:50%;background:var(--accent-txt)}
+.lp-mock .lp-cta{display:block;text-align:center;border-radius:9px;padding:8px 0;margin-top:10px;font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(11px,.9vw,13px);color:#fff;background:var(--accent)}
+.lp-mock .lp-foot{margin-top:9px;font-size:clamp(9.5px,.75vw,11.5px);opacity:.55;text-align:center}
+
+/* mock painel do funil (CRM) */
+.funnel{display:flex;flex-direction:column;gap:10px}
+.frow{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center}
+.frow .flabel{font-size:clamp(10.5px,.85vw,13px);color:rgba(231,230,239,.85)}
+.frow .fval{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(12px,1.05vw,15px);color:var(--accent-txt)}
+.fbar{grid-column:1 / -1;height:9px;border-radius:999px;background:rgba(255,255,255,.08);overflow:hidden}
+.fbar span{display:block;height:100%;background:linear-gradient(90deg,var(--primary),var(--accent-txt))}
+.fmeta{margin-top:10px;border-radius:10px;padding:8px 10px;background:rgba(255,255,255,.05);border:1px solid var(--borda-esc);font-size:clamp(10.5px,.85vw,13px);line-height:1.45;color:rgba(231,230,239,.85)}
+.fmeta b{color:var(--accent-txt)}
+
+/* padrão centralizado */
+.slide .kicker,.slide h1,.slide h2,.slide .quote,.slide .sub{text-align:center}
+.slide th,.slide td{text-align:center}
+.slide .card h3{text-align:center}
+.slide .note{text-align:left}
+
+.pills{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:1.6vh}
+.pills .garantia{margin-top:0}
+.garantia.alt{background:rgba(255,255,255,.10);color:var(--surface);border:1px solid rgba(255,255,255,.3)}
+
+/* ancoragem */
+.ancora{display:grid;grid-template-columns:1fr 1fr;gap:2vw;margin-top:1vh}
+.ancora .col{border-radius:14px;padding:2.4vh 1.7vw;background:rgba(255,255,255,.04);border:1px solid var(--borda-esc);box-shadow:var(--sombra-esc)}
+.ancora .t{font-family:'DM Sans',sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.12em;font-size:clamp(11px,.9vw,13px);color:var(--accent);margin-bottom:1.2vh}
+.ancora .linha{display:flex;justify-content:space-between;align-items:baseline;gap:1vw;padding:.95vh 0;font-size:clamp(13px,1.15vw,17px);border-bottom:1px solid var(--borda-esc)}
+.ancora .linha.total{font-weight:700;border-bottom:2px solid var(--accent)}
+.ancora .linha .v{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--accent);white-space:nowrap}
+.ancora .linha span:first-child{opacity:.85}
+.payback{margin-top:1.7vh;text-align:center;border-radius:12px;padding:2.2vh 1vw;background:rgba(67,49,233,.14);border:1px solid rgba(67,49,233,.4)}
+.payback .plbl{font-family:'DM Sans',sans-serif;font-size:clamp(11px,.9vw,13px);text-transform:uppercase;letter-spacing:.12em;font-weight:700;opacity:.75}
+.payback .pval{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(36px,4vw,58px);color:var(--accent);line-height:1.05;margin:.6vh 0}
+.payback .pcap{font-size:clamp(12px,1vw,15px);opacity:.75;line-height:1.45}
+
+/* slides específicos */
+.s3 .step{padding:2.2vh 1.1vw}
+.s3 .step .n{font-size:clamp(15px,1.35vw,20px)}
+.s3 .step p{font-size:clamp(13.5px,1.2vw,17px)}
+.s3 .step .pct{font-size:clamp(19px,1.9vw,28px);margin-top:10px}
+.s3 .stat .num{font-size:clamp(30px,3.4vw,52px)}
+.s3 .stat .lbl{font-size:clamp(13px,1.2vw,17px);opacity:.8}
+.s3 .note{font-size:clamp(15px,1.3vw,19px);line-height:1.55}
+.stack ul.clean{gap:1.7vh;margin-top:1.4vh}
+.stack ul.clean li{font-size:clamp(15px,1.4vw,21px);line-height:1.5}
+.s11 .card{padding:2.8vh 1.9vw}
+.s10 .note{margin-top:1.4vh;font-size:clamp(12px,1vw,15px)}
+.s11 ul.clean{gap:1.8vh}
+.s11 ul.clean li{font-size:clamp(14px,1.2vw,17px);line-height:1.55;padding-left:34px}
+.s11 ul.clean li::before{content:"✓";width:21px;height:21px;border-radius:50%;top:.02em;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;border:none;background:rgba(67,49,233,.22);color:var(--accent-txt)}
+
+.nav{position:fixed;bottom:0;left:0;right:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);z-index:50}
+.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:14px;color:#fff;background:rgba(255,255,255,.12);border:none;border-radius:12px;padding:9px 20px;cursor:pointer}
+.nav .btn:hover{background:var(--primary)}
+.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(255,255,255,.12)}
+.nav .counter{color:#fff;font-size:13px;font-family:'DM Sans',sans-serif;letter-spacing:.06em}
+.progress{position:fixed;top:0;left:0;height:6px;background:var(--accent);z-index:60;transition:width .25s ease}
+.hint{position:fixed;bottom:60px;right:22px;color:rgba(231,230,239,.8);font-size:12px;z-index:50;background:rgba(24,23,33,.8);padding:5px 11px;border-radius:8px}
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<!-- 1 — CAPA · sem valores de perda -->
+<section class="slide dark active">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Diagnóstico de vazamento de vendas · Proposta</div>
+  <h1>Acountabilidade<br>O funil já trava <span class="hl">no segundo toque</span></h1>
+  <p class="sub">100 leads entram por mês. Só 8 viram contrato. Investigação completa do seu funil — entrevista com o time, concorrentes auditados no Google e o plano pra ocupar a capacidade que sobra.</p>
+  <div class="stats stats-3">
+    <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:clamp(16px,1.6vw,24px)">Funil</div><div class="lbl">mapeado etapa por etapa, com as taxas da sua operação</div></div>
+    <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:clamp(16px,1.6vw,24px)">Concorrentes</div><div class="lbl">auditados no Google, um por um</div></div>
+    <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:clamp(16px,1.6vw,24px)">Plano</div><div class="lbl">com prazo, preço e garantia escrita</div></div>
+  </div>
+</section>
+
+<!-- 2 — METODOLOGIA · só o que analisamos -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Como este diagnóstico foi feito</div>
+  <h2>Investigação do funil de vendas — <span class="hl">não um checklist</span></h2>
+  <div class="card stack">
+    <h3>O que entrou na análise</h3>
+    <ul class="clean">
+      <li><b>Entrevista com o time comercial</b> — como uma venda acontece hoje, do clique do anúncio ao contrato assinado</li>
+      <li><b>Taxas reais por etapa</b> — 100 leads → 35 reuniões → 20 propostas → 8 contratos, tiradas da sua operação</li>
+      <li><b>Verificação campo a campo do Google</b> — fotos, avaliações, posts, categorias e link do perfil</li>
+      <li><b>Auditoria de concorrentes</b> — nota, número de avaliações, fotos, site e redes de quem disputa a mesma busca em Ponta Grossa</li>
+      <li><b>Leitura das campanhas ativas</b> — Google Ads, Meta Ads e o site de planos como estão hoje</li>
+    </ul>
+  </div>
+  <div class="note">Cada número deste diagnóstico veio da sua operação ou de verificação direta — nenhum número é estimativa genérica de mercado.</div>
+</section>
+
+<!-- 3 — FUNIL ATUAL -->
+<section class="slide dark s3">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Seu funil de vendas hoje · mapeado com o time comercial</div>
+  <h2>Como uma venda acontece na Acountabilidade <span class="hl">agora</span></h2>
+  <div class="flow">
+    <div class="step"><div class="n">1 · Lead</div><p>Google Ads, Meta Ads ou indicação</p><span class="pct">100</span></div>
+    <div class="step"><div class="n">2 · WhatsApp</div><p>Qualificação rápida: nicho, faturamento, sócios</p></div>
+    <div class="step"><div class="n">3 · Diagnóstico</div><p>Reunião tributária de 20 min no Meet</p><span class="pct">35%</span></div>
+    <div class="step"><div class="n">4 · Proposta</div><p>Plano ideal + link de contratação</p><span class="pct">57%</span></div>
+    <div class="step"><div class="n">5 · Contrato</div><p>Fechamento e onboarding</p><span class="pct">40%</span></div>
+  </div>
+  <div class="stats stats-3">
+    <div class="stat"><div class="num">8%</div><div class="lbl">conversão final — 8 contratos a cada 100 leads</div></div>
+    <div class="stat"><div class="num">R$ 460</div><div class="lbl">MRR médio por contrato</div></div>
+    <div class="stat"><div class="num">25<span style="font-size:.55em">/mês</span></div><div class="lbl">capacidade da equipe — vocês usam 8 a 10</div></div>
+  </div>
+  <div class="note">Seu funil <b>tem volume e tem fechamento</b>: quem chega na proposta, fecha 40% das vezes. O que derruba é o meio — <b>65 de cada 100 leads nunca chegam na reunião</b> e 12 propostas enviadas param sem resposta.</div>
+</section>
+
+<!-- 4 — EVIDÊNCIA campo a campo -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Evidência · estado real da operação e do seu Google</div>
+  <h2>Verificação campo a campo — <span class="hl">o que encontramos</span></h2>
+  <table class="sheet">
+    <tr><th>Campo</th><th>Status</th><th>O impacto</th></tr>
+    <tr><td><b>Resposta no WhatsApp (1º contato)</b></td><td>⚠️ Acima de 15 min</td><td>Lead que espera mais de 15 min fecha com quem responde primeiro</td></tr>
+    <tr><td><b>Follow-up após proposta</b></td><td>❌ Sem rotina estruturada</td><td>12 propostas/mês param na caixa de entrada e esfriam</td></tr>
+    <tr><td><b>Filtro de ICP</b></td><td>⚠️ Manual, na conversa</td><td>MEI e comércio consomem tempo de quem deveria atender prestador de serviço</td></tr>
+    <tr><td><b>Fotos no Google</b></td><td>❌ 1 foto de fachada</td><td>57 avaliações 5,0 trabalhando sozinhas — concorrentes exibem 13 a 26 fotos</td></tr>
+    <tr><td><b>Site</b></td><td>⚠️ Só tabela de planos</td><td>Conversão baixa sem atendimento prévio — quem chega compara preço e some</td></tr>
+    <tr><td><b>Mídia paga</b></td><td>⚠️ CPC alto / volume morno</td><td>Google Ads caro e Meta Ads com volume não qualificado enquanto o funil escorre</td></tr>
+  </table>
+  <div class="note">O que está <b>bom</b>: nota 5,0 com 57 avaliações é prova social forte de mercado — está subutilizada. O que <b>vaza</b>: velocidade e continuidade do atendimento, não qualidade do serviço.</div>
+</section>
+
+<!-- 5 — CONCORRÊNCIA -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Auditoria de concorrentes · quem domina a busca hoje</div>
+  <h2>Quem o cliente vê <span class="hl">antes de ver você</span></h2>
+  <table class="sheet">
+    <tr><th>Escritório (Ponta Grossa)</th><th>Google</th><th>Fotos</th><th>O que já fazem</th></tr>
+    <tr><td><b>Bianco Contabilidade</b></td><td>5,0 ★ · 313 avaliações</td><td>18</td><td>Site próprio, presença consolidada</td></tr>
+    <tr><td><b>Garcia Contabilidade</b></td><td>5,0 ★ · 124 avaliações</td><td>13</td><td>Site próprio com conteúdo</td></tr>
+    <tr><td><b>KSB Consultoria</b></td><td>5,0 ★ · 119 avaliações</td><td>13</td><td>Site com CTA de WhatsApp no rodapé</td></tr>
+    <tr><td><b>TCM Contabilidade</b></td><td>5,0 ★ · 102 avaliações</td><td>14</td><td>Blog, páginas por especialidade, WhatsApp</td></tr>
+    <tr><td><b>Castanho Contabilidade</b></td><td>5,0 ★ · 76 avaliações</td><td>26</td><td>Site próprio, maior volume de fotos do Centro</td></tr>
+    <tr><td><b>LCI Contabilidade</b></td><td>4,9 ★ · 68 avaliações</td><td>17</td><td>"100% digital", foco declarado em serviços</td></tr>
+    <tr class="destaque"><td><b>Acountabilidade</b></td><td><b>5,0 ★ · 57 avaliações</b></td><td><b>1</b></td><td><b>1 foto, sem posts, site só de planos</b></td></tr>
+  </table>
+  <div class="note">Ninguém na lista tem nota fraca — a disputa não é por estrela, é por <b>presença</b>. Você já tem a prova social (5,0 com 57 avaliações) que eles levaram anos pra juntar; falta exibir ela. Fonte: auditoria do Google em 06/10/2026; linha do cliente informada pelo operador.</div>
+</section>
+
+<!-- 6 — QUANTIFICAÇÃO -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Quantificação · o custo da capacidade que sobra</div>
+  <h2>Quanto isso custa <span class="hl">por mês</span></h2>
+  <div class="calc">
+    <div class="linha"><span>Contratos fechados hoje (8% de 100 leads)</span><span class="v">8/mês</span></div>
+    <div class="linha"><span>Capacidade da equipe técnica e fiscal</span><span class="v">25/mês</span></div>
+    <div class="linha"><span>Vagas ociosas — lead entra, contrato não nasce</span><span class="v">15/mês</span></div>
+    <div class="linha"><span>MRR médio por contrato</span><span class="v">R$ 460</span></div>
+    <div class="linha total"><span>RECEITA QUE CABE MAS NASCE</span><span class="v">R$ 6.900/mês</span></div>
+    <div class="linha total"><span>MESMO CENÁRIO EM 12 MESES</span><span class="v">R$ 82.800</span></div>
+  </div>
+  <div class="note"><b>Premissa honesta:</b> a conta usa só a capacidade que você declarou (25 clientes/mês, 8 a 10 usados) — não projeta equipe nova, aumento de preço nem melhora de mídia. Cenário conservador, recuperando apenas <b>40% dessas vagas</b>: <b>R$ 2.760/mês (R$ 33.120/ano)</b>. Validaremos com os dados reais do primeiro relatório.</div>
+</section>
+
+<!-- 7 — VAZAMENTOS -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Diagnóstico · 6 pontos de vazamento, cada um com fonte</div>
+  <h2>De onde exatamente sai <span class="hl">cada contrato perdido</span></h2>
+  <div class="cols3">
+    <div class="card">
+      <h3 class="hl">1 · Primeiro contato lento</h3>
+      <p>Resposta acima de 15 min no WhatsApp. O lead fecha com quem responde primeiro.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: entrevista com o time comercial</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">2 · Proposta órfã</h3>
+      <p>Depois do envio, o lead some no WhatsApp: sem follow-up rápido e estruturado.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: entrevista — 12 propostas/mês sem toque</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">3 · Lead fora do ICP</h3>
+      <p>MEI e comércio/indústria entram na fila e consomem a qualificação.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: entrevista — fila de atendimento</p>
+    </div>
+  </div>
+  <div class="cols3" style="margin-top:1.6vh">
+    <div class="card">
+      <h3 class="hl">4 · Comparação com R$ 89</h3>
+      <p>O preço da consultoria é comparado com contabilidade automatizada barata, sem ver o valor.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: entrevista — objeção recorrente</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">5 · Mídia cara e morna</h3>
+      <p>Google Ads com CPC alto; Meta Ads gera volume com baixa qualificação.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: conta de anúncios do operador</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">6 · Prova social dormindo</h3>
+      <p>57 avaliações 5,0 com 1 foto de fachada e nenhum post no perfil.</p>
+      <p style="margin-top:8px;opacity:.65;font-size:clamp(11px,.9vw,13px)">Fonte: verificação de campo no Google</p>
+    </div>
+  </div>
+  <div class="note">Os seis se conectam: o lead chega caro, é filtrado à mão, espera a resposta e esfria antes da proposta fechar. <b>O sistema fecha os seis ao mesmo tempo.</b></div>
+</section>
+
+<!-- 8 — A ORDEM CERTA (framework) -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">A ordem certa · receita primeiro</div>
+  <h2>Por onde começar — <span class="hl">e o que fica pra depois</span></h2>
+  <div class="ordem">
+    <div class="camadas">
+      <div class="camada agora"><div class="cnum">①</div><div><h4>Receita — atacar agora</h4><p>Front office: marketing e vendas. É onde estão os 6 vazamentos — quem responde, filtra e fecha.</p></div></div>
+      <div class="camada"><div class="cnum">②</div><div><h4>Eficiência — depois</h4><p>Back office: processos internos, relatórios e rotinas da equipe fiscal que hoje consomem tempo manual.</p></div></div>
+      <div class="camada"><div class="cnum">③</div><div><h4>Escala — por último</h4><p>Dados e automações de gestão: só faz sentido quando o funil já converte com previsibilidade.</p></div></div>
+    </div>
+    <div>
+      <table class="sheet">
+        <tr><th>Vazamento</th><th>Camada</th><th>Onde</th></tr>
+        <tr><td>1 · Resposta lenta</td><td>① Receita</td><td>Q1</td></tr>
+        <tr><td>2 · Proposta órfã</td><td>① Receita</td><td>Q1</td></tr>
+        <tr><td>3 · Lead fora do ICP</td><td>① Receita</td><td>Q1</td></tr>
+        <tr><td>4 · Comparação com R$ 89</td><td>① Receita</td><td>Q4</td></tr>
+        <tr><td>5 · Mídia cara e morna</td><td>① Receita</td><td>Q1</td></tr>
+        <tr><td>6 · Prova social dormindo</td><td>① Receita</td><td>Q4</td></tr>
+      </table>
+    </div>
+    <div class="note nota-ordem">Q1 = alto impacto e colado na receita (atacar primeiro) · Q4 = rápido e barato (testar já). Nada aqui entra hoje na camada ② — <b>primeiro a venda entra, depois a eficiência.</b></div>
+  </div>
+</section>
+
+<!-- 9 — SISTEMA (grid numerado) -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">A solução · o que será instalado</div>
+  <h2>Sistema de atendimento da Acountabilidade — <span class="hl">7 peças</span></h2>
+  <div class="pecas">
+    <div class="peca"><div class="num">01</div><h4>Resposta instantânea no WhatsApp</h4><p>Primeira resposta em segundos, 24/7. Fecha o vazamento 1.</p></div>
+    <div class="peca"><div class="num">02</div><h4>Qualificação por ICP</h4><p>Perguntas que separam prestador de TI e médico de MEI e comércio. Fecha o 3.</p></div>
+    <div class="peca"><div class="num">03</div><h4>Agendamento do diagnóstico</h4><p>Reunião de 20 min direto na agenda, confirmada na hora. Fecha o 1.</p></div>
+    <div class="peca"><div class="num">04</div><h4>Follow-up de proposta</h4><p>5 toques em 14 dias até o sim. Fecha o 2.</p></div>
+    <div class="peca"><div class="num">05</div><h4>CRM com funil</h4><p>100 → 35 → 20 → 8 visível, com taxa por etapa e lead sem toque há 24h.</p></div>
+    <div class="peca"><div class="num">06</div><h4>Página de qualificação</h4><p>Leva o lead certo pro WhatsApp sem expor a tabela de planos. Fecha o 4.</p></div>
+    <div class="peca"><div class="num">07</div><h4>Google Meu Negócio ativo</h4><p>Fotos, posts e respostas: as 57 avaliações 5,0 passam a trazer lead. Fecha o 6.</p></div>
+    <div class="peca full"><div class="num">→</div><h4>Regra de ouro</h4><p>Se a peça não move "lead → reunião → proposta → contrato", ela não existe. Nada de métrica de vaidade.</p></div>
+  </div>
+</section>
+
+<!-- 10 — PEÇA-CHAVE (mocks tangíveis) -->
+<section class="slide dark s10">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">As peças na prática · como elas funcionam amanhã</div>
+  <h2>Lead responde em <span class="hl">segundos</span> — e chega na reunião filtrado</h2>
+  <div class="mocks">
+    <div class="mock">
+      <div class="mtop"><span class="mbrand">WhatsApp · Acountabilidade</span><span class="murl">resposta automática</span></div>
+      <div class="mbody">
+        <div class="mlbl">Conversa real do fluxo</div>
+        <div class="chat">
+          <div class="msg me"><span class="who">Lead (22h14)</span>Vi seu anúncio, quanto custa pra abrir minha empresa?</div>
+          <div class="msg bot"><span class="who">Acountabilidade · 8s</span>Boa noite! Em 30 seg te passo tudo: 1) já tem CNPJ ou vai abrir? 2) faturamento mensal? 3) qual a área?</div>
+          <div class="msg me"><span class="who">Lead</span>Já tenho CNPJ, presto serviço de TI, uns R$ 30 mil/mês</div>
+          <div class="msg bot"><span class="who">Acountabilidade · 6s</span>Perfeito — é nosso perfil. Amanhã tenho 10h ou 15h pro diagnóstico de 20 min. Qual serve?</div>
+          <div class="msg me"><span class="who">Lead</span>10h</div>
+          <div class="msg bot"><span class="who">Acountabilidade · 4s</span>Agendado ✓ Link do Meet no e-mail. Amanhã te explico quanto dá pra economizar.</div>
+          <div class="meta">1º contato respondido em 8 segundos · 22h14 · sem equipe acordada</div>
+        </div>
+      </div>
+    </div>
+    <div class="mock lp-mock">
+      <div class="mtop"><span class="mbrand">Página de qualificação</span><span class="murl">acountabilidade.com.br/diagnostico</span></div>
+      <div class="mbody">
+        <div class="mlbl">Sem tabela de planos na vitrine</div>
+        <span class="tagline">Diagnóstico tributário · 20 min</span>
+        <h5>Quanto sua empresa paga a mais de imposto todo ano — e dá pra legalmente reduzir</h5>
+        <div class="lp-line">Análise do seu enquadramento e regime tributário</div>
+        <div class="lp-line">Cenário de economia projetado na conversa</div>
+        <div class="lp-line">Plano de ação com prioridade e prazo</div>
+        <span class="lp-cta">Quero meu diagnóstico pelo WhatsApp</span>
+        <div class="lp-foot">Só para prestadores de serviço · sua empresa é do nosso perfil?</div>
+      </div>
+    </div>
+    <div class="mock">
+      <div class="mtop"><span class="mbrand">CRM · funil da semana</span><span class="murl">painel em tempo real</span></div>
+      <div class="mbody">
+        <div class="mlbl">Cada lead com dono e próximo passo</div>
+        <div class="funnel">
+          <div class="frow"><span class="flabel">Leads recebidos</span><span class="fval">100</span><div class="fbar"><span style="width:100%"></span></div></div>
+          <div class="frow"><span class="flabel">Reuniões realizadas</span><span class="fval">35</span><div class="fbar"><span style="width:35%"></span></div></div>
+          <div class="frow"><span class="flabel">Propostas enviadas</span><span class="fval">20</span><div class="fbar"><span style="width:20%"></span></div></div>
+          <div class="frow"><span class="flabel">Contratos fechados</span><span class="fval">8</span><div class="fbar"><span style="width:8%"></span></div></div>
+          <div class="fmeta">Tempo médio de resposta: <b>12 s</b> · Leads sem toque há 24h: <b>0</b><br>Propostas em follow-up: <b>7 de 14 toques</b> · Reuniões agendadas hoje: <b>3</b></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="note">Os três trabalham juntos: a página traz o lead certo, o WhatsApp responde na hora e filtra, o CRM garante que <b>nenhuma proposta fique sem toque</b>.</div>
+</section>
+
+<!-- 11 — MÉTRICAS POR PEÇA -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Do clique ao contrato · como cada peça vende</div>
+  <h2>Cada peça com <span class="hl">métrica de venda</span> — não de vaidade</h2>
+  <table class="sheet">
+    <tr><th>Peça</th><th>Métrica de venda</th><th>Hoje → meta</th></tr>
+    <tr><td><b>Resposta instantânea</b></td><td>Tempo médio da 1ª resposta × leads respondidos</td><td>&gt; 15 min → <b>&lt; 1 min</b></td></tr>
+    <tr><td><b>Qualificação por ICP</b></td><td>Reuniões realizadas com lead qualificado</td><td>35% → <b>50%</b> dos leads</td></tr>
+    <tr><td><b>Agendamento</b></td><td>Reuniões de 20 min marcadas por semana</td><td>~8/semana → <b>12/semana</b></td></tr>
+    <tr><td><b>Follow-up de proposta</b></td><td>Taxa de fechamento das propostas enviadas</td><td>40% → <b>50%</b></td></tr>
+    <tr><td><b>CRM com funil</b></td><td>Leads sem toque há mais de 24h</td><td>hoje invisível → <b>0</b></td></tr>
+    <tr><td><b>Google Meu Negócio</b></td><td>Leads orgânicos por mês (fora do Ads)</td><td>≈ 0 → <b>medir e crescer</b></td></tr>
+  </table>
+  <div class="note"><b>Regra de ouro desta entrega:</b> tudo que não puder ser medido em "lead → reunião → proposta → contrato" não entra no escopo. Se não move venda, não é peça do sistema.</div>
+</section>
+
+<!-- 12 — PRECIFICAÇÃO -->
+<section class="slide dark s11">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Precificação · setup + operação mensal</div>
+  <h2>Dois valores, direto ao ponto — <span class="hl">sem letras miúdas</span></h2>
+  <div class="price">
+    <div class="p"><div class="val">R$ 10.000</div><div class="cap"><b>Setup</b> — implantação única das 7 peças (nível com integrações e CRM)</div></div>
+    <div class="p"><div class="val">R$ 1.000<span style="font-size:.55em">/mês</span></div><div class="cap"><b>Operação</b> — o sistema vivo, revisado e ajustado todo mês</div></div>
+    <div class="p"><div class="val">0%</div><div class="cap"><b>Sobre suas vendas</b> — não cobramos comissão nenhuma</div></div>
+  </div>
+  <div class="cols" style="margin-top:2.2vh">
+    <div class="card">
+      <h3>O que entra no setup (R$ 10.000)</h3>
+      <ul class="clean">
+        <li>Integração de WhatsApp (resposta instantânea, qualificação e agendamento)</li>
+        <li>CRM com funil configurado do jeito da sua operação + follow-up de proposta</li>
+        <li>Página de qualificação + Google Meu Negócio completo (fotos, posts, respostas)</li>
+        <li>Teste ponta a ponta até o primeiro relatório com dados reais</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>O que entra na operação (R$ 1.000/mês)</h3>
+      <ul class="clean">
+        <li>Revisão quinzenal: o que não está gerando reunião ou fechamento, a gente ajusta</li>
+        <li>Relatório mensal — tempo de resposta, reuniões, propostas e contratos</li>
+        <li>Suporte, correções e evolução das automações conforme o funil muda</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note">Por que o nível intermediário: <b>o escopo pede integração de WhatsApp e CRM</b> — é o nível de setup que cobre exatamente isso (existem níveis de R$ 5 mil só com peças padrão e de R$ 15 mil com CRM sob medida). Sem porcentagem sobre vendas: nosso ganho é o setup + a operação, <b>previsível pra você, sem conflito de interesse</b>.</div>
+</section>
+
+<!-- 13 — GARANTIA + ANCORA -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Garantia · o risco é nosso, resultado medido junto</div>
+  <h2>O setup é menor que <span class="hl">2 meses</span> do que está vazando</h2>
+  <div class="ancora">
+    <div class="col">
+      <div class="t">O custo da inércia</div>
+      <div class="linha"><span>Contratos hoje (8% de 100 leads)</span><span class="v">8/mês</span></div>
+      <div class="linha"><span>Capacidade da equipe</span><span class="v">25/mês</span></div>
+      <div class="linha"><span>Vagas ociosas</span><span class="v">15/mês</span></div>
+      <div class="linha"><span>MRR médio por contrato</span><span class="v">R$ 460</span></div>
+      <div class="linha total"><span>Receita que cabe mas não nasce</span><span class="v">R$ 6.900/mês</span></div>
+      <div class="linha"><span>Mesmo cenário em 12 meses</span><span class="v">R$ 82.800</span></div>
+    </div>
+    <div class="col">
+      <div class="t">O que a APSIDE cobra</div>
+      <div class="linha"><span>Setup — implantação das 7 peças</span><span class="v">R$ 10.000</span></div>
+      <div class="linha"><span>Operação mensal</span><span class="v">R$ 1.000/mês</span></div>
+      <div class="linha"><span>Comissão sobre vendas</span><span class="v">0%</span></div>
+      <div class="payback">
+        <div class="plbl">Payback estimado do cliente</div>
+        <div class="pval">3,6 meses</div>
+        <div class="pcap">Recuperação conservadora (40% das vagas — R$ 2.760/mês). Cenário cheio (R$ 6.900/mês): o setup se paga em 1,4 mês.</div>
+      </div>
+    </div>
+  </div>
+  <div class="pills">
+    <span class="garantia">60 dias por escrito: se o sistema não responder em menos de 1 minuto, não qualificar e não fazer follow-up de 100% das propostas, a gente ajusta sem custo até rodar</span>
+    <span class="garantia alt">Medido no relatório, junto com você</span>
+  </div>
+</section>
+
+<!-- 14 — CRONOGRAMA -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Execução · prazos conservadores de propósito</div>
+  <h2>Cronograma: <span class="hl">prometemos com folga, entregamos adiantado</span></h2>
+  <table class="sheet">
+    <tr><th>Período</th><th>Entrega</th><th>O que você vê no ar</th></tr>
+    <tr><td class="per">Semana 1</td><td class="ent">Resposta instantânea + ICP</td><td class="note-cell">WhatsApp respondendo em segundos, 24/7, separando prestador de serviço de MEI e comércio</td></tr>
+    <tr><td class="per">Semana 2</td><td class="ent">Agendamento + follow-up</td><td class="note-cell">Reunião de 20 min marcada na hora e sequência de 5 toques em 14 dias rodando nas propostas</td></tr>
+    <tr><td class="per">Semana 3</td><td class="ent">CRM + página de qualificação</td><td class="note-cell">Funil 100 → 35 → 20 → 8 visível com taxa por etapa; página no ar sem tabela de planos</td></tr>
+    <tr><td class="per">Semana 4</td><td class="ent">Google Meu Negócio completo</td><td class="note-cell">Fotos, categorias, posts e respostas às 57 avaliações 5,0 — o perfil passa a trabalhar</td></tr>
+    <tr><td class="per">Dia 60</td><td class="ent">Checkpoint de garantia</td><td class="note-cell">Relatório de tempo de resposta, reuniões qualificadas, propostas com toque e contratos fechados</td></tr>
+  </table>
+  <div class="note">Por que prazos com folga? Porque <b>atrasar entrega é o que mata confiança</b>. Preferimos prometer 7 dias e entregar em 4 — do que prometer 4 e entregar em 7. Você nunca espera a gente.</div>
+</section>
+
+<!-- 15 — FECHAMENTO -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">Fechamento · o que muda a partir de amanhã</div>
+  <h2>De 8 contratos por mês pra um funil que <span class="hl">não deixa lead escapar</span></h2>
+  <div class="cols3">
+    <div class="card"><h3>Hoje</h3><p>Resposta acima de 15 min, proposta sem follow-up, ICP filtrado na mão. <b>15 vagas ociosas por mês</b> enquanto o lead esfria.</p></div>
+    <div class="card"><h3>Em 30 dias</h3><p>WhatsApp respondendo em segundos, qualificação e agendamento automáticos, follow-up de 100% das propostas. <b>CRM com o funil visível.</b></p></div>
+    <div class="card"><h3>Em 90 dias</h3><p>Google trabalhando com 57 avaliações 5,0, relatório mensal com taxa por etapa. <b>Decisão de escalar com número na mão.</b></p></div>
+  </div>
+  <div class="price-box">
+    <div class="val">R$ 10.000 setup + R$ 1.000/mês</div>
+    <div class="cap">7 peças implantadas · operação revisada quinzenalmente · sem comissão sobre vendas</div>
+    <div class="pills">
+      <span class="garantia">Garantia de 60 dias por escrito — sistema respondendo, qualificando e fazendo follow-up, medido junto</span>
+      <span class="garantia alt">Cada mês de espera deixa R$ 2.760 a R$ 6.900 na mesa</span>
+    </div>
+  </div>
+  <div class="note" style="margin-top:2vh"><b>Próximo passo:</b> aprovação hoje = kickoff na semana que vem = primeiro relatório com dados reais em 30 dias. A decisão está com você.</div>
+</section>
+
+<!-- 16 — CONTATO -->
+<section class="slide dark">
+  <div class="regua"></div>
+  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <div class="kicker">APSIDE · Estruturação digital para negócios locais</div>
+  <p class="quote big-quote">"Não vendemos presença no Google.<br>Vendemos <span class="hl">contatos qualificados</span> que viram contrato pago."</p>
+  <div class="cols" style="margin-top:3vh">
+    <div class="card">
+      <h3 class="hl">Guilherme · APSIDE</h3>
+      <p>WhatsApp: <b>(42) 99995-5452</b><br>wa.me/5542999955452<br>Ponta Grossa, PR</p>
+    </div>
+    <div class="card">
+      <h3 class="hl">Documentos deste diagnóstico</h3>
+      <p>Relatório completo: <b>diagnostico-vendas-acountabilidade-2026-10-06.md</b><br>Cálculos, fontes de dados, decisões de escopo e plano de recuperação.</p>
+    </div>
+  </div>
+  <p class="sub" style="margin-top:3vh">APSIDE · proposta gerada em 06/10/2026 · use ← → para navegar</p>
+</section>
+
+<div class="hint">← → navegar</div>
+<div class="nav">
+  <button class="btn" id="prev">← Anterior</button>
+  <span class="counter" id="counter">1 / 16</span>
+  <button class="btn" id="next">Próxima →</button>
+</div>
+
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+function show(n){
+  i=Math.max(0,Math.min(slides.length-1,n));
+  slides.forEach((s,k)=>s.classList.toggle('active',k===i));
+  document.getElementById('counter').textContent=(i+1)+' / '+slides.length;
+  document.getElementById('progress').style.width=((i+1)/slides.length*100)+'%';
+  document.getElementById('prev').disabled=i===0;
+  document.getElementById('next').disabled=i===slides.length-1;
+}
+document.getElementById('prev').onclick=()=>show(i-1);
+document.getElementById('next').onclick=()=>show(i+1);
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown'){e.preventDefault();show(i+1)}
+  if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();show(i-1)}
+  if(e.key==='Home')show(0);
+  if(e.key==='End')show(slides.length-1);
+});
+show(0);
+</script>
+</body>
+</html>

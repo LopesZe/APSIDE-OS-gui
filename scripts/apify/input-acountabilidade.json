@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "Acountabilidade Ponta Grossa",
+    "Acountabilidade contabilidade",
+    "contabilidade em Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 12,
+  "proxyConfiguration": { "useApifyProxy": false }
+}
