@@ -7,7 +7,7 @@ sensível — vive versionado no git (Regra 4 de `RULES.md`).
 ultima_sincronizacao:  2026-10-06
 ultima_auditoria:      2026-10-05
 pendencias_vencidas:   nenhum (1 item condicional em memoria/pendencias.md)
-github:                05/10 — sync (auditoria; push `40a497b..e4fcf57` — identidade v3.1, deck ANG, ang-festas absorvido no repo)
+github:                07/10 — push (vídeo institucional 101s v4 + demo motion, sheets referência OpenAI, pipeline no TOOLS, learnings no AGENTS)
 ```
 
 ## Alertas a resolver
@@ -39,6 +39,14 @@ github:                05/10 — sync (auditoria; push `40a497b..e4fcf57` — id
 
 ## Histórico
 
+- **07/10/2026** — Vídeo institucional **concluído, v4** (`saidas/video-solucao-apside/`):
+  motion graphic 101,2s, 1920×1080/30fps, estilo OpenAI "dots" (12 atos, sem áudio,
+  sem preços, cliente fictício Vitália); v2 com 9 ajustes do operador (coluna no A2,
+  clique→GMB, primeiro→melhor, GARGALO central, tags V1-V3, chips A6, funil A7,
+  pulso atrás do card A8, PROCESSANDO→FEITO A9); v4 com 3 correções finais +
+  títulos -70px (celular sem corte no zoom, clique→abertura da aba do cliente que
+  dá origem ao A3, swap primeiro→melhor centralizado); pipeline Puppeteer+FFmpeg
+  no `TOOLS.md`; QA 98/98 + PSNR MP4==render; learnings em `AGENTS.md`
 - **06/10/2026** — Site institucional **concluído**: tipografia v3.1 (DM Sans/
   Jakarta/JetBrains Mono), copy do reposicionamento AI-First, stats com fonte
   verificada, modal vertical (exemplo em cima, X fora da caixa, sem hover, CTA

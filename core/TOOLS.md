@@ -7,6 +7,9 @@ em `.env` (ignorado pelo git) — **nunca** neste arquivo.
 - **opencode** — agente e skills (este repo).
 - **GitHub** — versionamento (`/salvar` faz commit+push).
 - **Playwright** — render de carrosséis/posts em PNG.
+- **Puppeteer + FFmpeg** — motion graphics em vídeo MP4 (HTML+CSS/JS com
+  `window.__seek(t)` → frames PNG → `libx264`; sem ferramenta externa de vídeo).
+  Pipeline em `saidas/video-solucao-apside/` (`motion.html` + `render.cjs`).
 - **Apify** — scraping de Google Maps, Instagram, Facebook, LinkedIn (`APIFY_API_TOKEN` no `.env`).
   - Google Maps: `scripts/apify/run_actor.js` (compass~crawler-google-places)
   - Instagram profiles: `scripts/instaloader/extrair-perfil.js` (instagram-scraper~instagram-profile-scraper, $0.50/1k)

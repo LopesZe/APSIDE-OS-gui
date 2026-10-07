@@ -146,6 +146,15 @@ Quando o usuário pedir imagens (posts, capas, thumbnails, cards):
 - **Edge headless** NÃO funciona pra screenshots no Windows
 - **Midjourney/DALL-E** NÃO funcionam pra imagens de negócio local (genérico demais)
 
+### Motion vídeo (ref: sessão 2026-10-07)
+
+| Erro | Correção | Regra |
+|---|---|---|
+| `rect.w`/`rect.h` não existem em DOMRect → `NaN` → CSS inválido descartado em silêncio (janela da aba nunca abriu, sem exceção no console) | usar `rect.width`/`rect.height` | ao animar dimensão via style, conferir `el.style.cssText` — valor inválido some sem erro |
+| palavra do swap centralizava no track do `inline-grid` (max-content do maior filho), não na caixa — no final ficava +19px deslocada, grudada na palavra vizinha | `grid-template-columns:100%` no container | QA programático passou mesmo com o bug — medir gaps por pixels antes de aprovar título |
+| leitura de PNG devolveu frame errado/stale (parecia vídeo quebrado quando estava certo) | validar com PSNR (`ffmpeg -lavfi psnr` vs render live) e medição de pixels por região | PSNR ≥35 dB = mesmo frame; ~12 dB = controle. Nunca concluir verificação visual só pelo read |
+| ffmpeg Windows: `-pattern_type glob` não existe e decimal pt-BR quebra args | `%04d` + `-start_number`; sempre ponto decimal | frames sempre em temp, apagados após o encode |
+
 ---
 
 ## Perfil do negócio

@@ -14,3 +14,7 @@ Thumbs.db
 site/MODELO FEITO COM CHAT GPT ASTRA/
 temp/next.js/
 temp/skills/
+
+# Vídeo motion: frames regeneráveis e referências baixadas (re-render recria)
+saidas/**/frames/
+analise/referencia-openai-dots/*.mp4

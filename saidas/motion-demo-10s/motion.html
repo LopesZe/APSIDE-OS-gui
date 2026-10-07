@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>APSIDE — 10s motion</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#000000;
+  --text:#E7E6EF;
+  --accent:#6E5CFF;
+  --rule:#4130D8;
+  --deep:#2F2399;
+  --border:rgba(255,255,255,0.08);
+  --card:rgba(255,255,255,0.03);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--bg)}
+body{font-family:'DM Sans',sans-serif;color:var(--text);position:relative}
+
+#fade{position:absolute;left:0;right:0;bottom:0;height:46%;
+  background:linear-gradient(to top, rgba(47,35,153,0.55), rgba(47,35,153,0));
+  pointer-events:none;z-index:1}
+
+.scene{position:absolute;inset:0;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;z-index:2;will-change:opacity,transform}
+
+#logo-mini{position:absolute;top:44px;left:60px;height:26px;z-index:3;opacity:0}
+
+/* ---------- Cena A ---------- */
+#ruleA{width:120px;height:4px;background:var(--rule);border-radius:2px;
+  transform-origin:center;margin-bottom:24px}
+#kickerA{font-family:'JetBrains Mono',monospace;font-size:15px;font-weight:600;
+  letter-spacing:.38em;text-transform:uppercase;color:var(--accent);margin-bottom:38px}
+#h1{font-size:84px;font-weight:700;line-height:1.1;text-align:center;max-width:1500px}
+.hl{color:var(--accent)}
+.w{display:inline-block;will-change:transform,opacity}
+
+/* ---------- Cena B ---------- */
+#cards{display:flex;gap:30px}
+.card{width:370px;padding:34px 30px;border-radius:12px;background:var(--card);
+  border:1px solid var(--border);box-shadow:0 4px 24px rgba(0,0,0,0.5);
+  will-change:transform,opacity}
+.card .num{font-family:'JetBrains Mono',monospace;font-size:38px;font-weight:700;
+  color:var(--accent);line-height:1;margin-bottom:14px}
+.card h3{font-size:21px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;
+  margin-bottom:10px}
+.card p{font-family:'Plus Jakarta Sans',sans-serif;font-size:15.5px;line-height:1.55;
+  opacity:.72}
+
+/* ---------- Cena C ---------- */
+#h2{font-size:72px;font-weight:700;line-height:1.12;text-align:center}
+#sub{font-family:'Plus Jakarta Sans',sans-serif;font-size:24px;font-weight:400;
+  opacity:.8;margin-top:26px;text-align:center}
+#sub b{font-weight:600;color:var(--accent)}
+
+/* ---------- Cena D ---------- */
+#final{display:flex;flex-direction:column;align-items:center}
+#frow{display:flex;align-items:center;gap:40px}
+.frule{width:150px;height:4px;background:var(--rule);border-radius:2px}
+.frule.l{transform-origin:right center}
+.frule.r{transform-origin:left center}
+#logo{width:380px;display:block;will-change:transform,opacity}
+#kickerD{font-family:'JetBrains Mono',monospace;font-size:16px;font-weight:600;
+  letter-spacing:.42em;text-transform:uppercase;margin-top:38px;color:var(--text)}
+</style>
+</head>
+<body>
+
+<div id="fade"></div>
+<img id="logo-mini" src="../../identidade/logo-apside.svg" alt="APSIDE">
+
+<!-- A: abertura + headline -->
+<div class="scene" id="sceneA">
+  <div id="ruleA"></div>
+  <div id="kickerA">Consultoria AI-First</div>
+  <h1 id="h1">
+    <span class="w">Ajudo</span> <span class="w">seu</span> <span class="w">negócio</span>
+    <span class="w">a</span> <span class="w">ser</span> <span class="w hl">AI-First</span>
+    <span class="w">e</span> <span class="w">vender</span> <span class="w">mais.</span>
+  </h1>
+</div>
+
+<!-- B: 3 fases -->
+<div class="scene" id="sceneB">
+  <div id="cards">
+    <div class="card">
+      <div class="num">01</div>
+      <h3>Diagnóstico</h3>
+      <p>Achar o gargalo real do negócio — não vender serviço desnecessário.</p>
+    </div>
+    <div class="card">
+      <div class="num">02</div>
+      <h3>Solução</h3>
+      <p>Implementar o que resolve: Google, site, captação, processo.</p>
+    </div>
+    <div class="card">
+      <div class="num">03</div>
+      <h3>Operação</h3>
+      <p>Medição contínua e ajuste — receita primeiro, sempre.</p>
+    </div>
+  </div>
+</div>
+
+<!-- C: frase de posicionamento -->
+<div class="scene" id="sceneC">
+  <h2 id="h2">
+    <span class="w">Google</span> <span class="w">é</span>
+    <span class="w"><span class="hl">meio</span>,</span> <span class="w">não</span>
+    <span class="w"><span class="hl">fim</span>.</span>
+  </h2>
+  <p id="sub">Contatos qualificados que viram <b>sinal pago</b>.</p>
+</div>
+
+<!-- D: fechamento -->
+<div class="scene" id="sceneD">
+  <div id="final">
+    <div id="frow">
+      <span class="frule l"></span>
+      <img id="logo" src="../../identidade/logo-apside.svg" alt="APSIDE">
+      <span class="frule r"></span>
+    </div>
+    <div id="kickerD">Ponta Grossa · Consultoria AI-First</div>
+  </div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const sceneA=$('sceneA'), sceneB=$('sceneB'), sceneC=$('sceneC'), sceneD=$('sceneD');
+const ruleA=$('ruleA'), kickerA=$('kickerA'), logoMini=$('logo-mini');
+const h1Words=[...document.querySelectorAll('#h1 .w')];
+const h2Words=[...document.querySelectorAll('#h2 .w')];
+const cards=[...document.querySelectorAll('.card')];
+const sub=$('sub');
+const fruleL=document.querySelector('.frule.l'), fruleR=document.querySelector('.frule.r');
+const logo=$('logo'), kickerD=$('kickerD');
+
+const clamp=(x,a,b)=>Math.min(b,Math.max(a,x));
+const seg=(t,a,b)=>clamp((t-a)/(b-a),0,1);
+const eOut=p=>1-Math.pow(1-p,3);
+const eExpo=p=>p>=1?1:1-Math.pow(2,-10*p);
+
+function seek(t){
+  // fundo: respiração sutil do fade índigo
+  $('fade').style.opacity = (0.55 + 0.12*Math.sin(t*0.9)).toFixed(3);
+
+  // ---- Cena A ----
+  const pRule = eExpo(seg(t,0.15,1.0));
+  ruleA.style.transform = `scaleX(${pRule})`;
+  ruleA.style.opacity = pRule;
+
+  const pK = eOut(seg(t,0.45,1.25));
+  kickerA.style.opacity = pK;
+  kickerA.style.letterSpacing = (0.62 - 0.24*pK).toFixed(3) + 'em';
+  kickerA.style.transform = `translateY(${(1-pK)*12}px)`;
+
+  h1Words.forEach((w,i)=>{
+    const s = 1.15 + i*0.10;
+    const p = eExpo(seg(t,s,s+0.60));
+    w.style.opacity = p;
+    w.style.transform = `translateY(${(1-p)*52}px)`;
+  });
+  const outA = eOut(seg(t,3.05,3.60));
+  sceneA.style.opacity = 1-outA;
+  sceneA.style.transform = `translateY(${-outA*46}px)`;
+
+  // logo mini no topo
+  const mIn = eOut(seg(t,0.75,1.35)), mOut = eOut(seg(t,7.50,7.90));
+  logoMini.style.opacity = (mIn*(1-mOut)).toFixed(3);
+  logoMini.style.transform = `translateY(${(1-mIn)*-14}px)`;
+
+  // ---- Cena B ----
+  cards.forEach((c,i)=>{
+    const s = 3.40 + i*0.16;
+    const pIn = eExpo(seg(t,s,s+0.65));
+    const pOut = eOut(seg(t,5.45 + i*0.06, 5.95));
+    const bob = Math.sin((t-s)*2.4)*6 * pIn * (1-pOut) * seg(t,s+0.65,s+1.2);
+    c.style.opacity = (pIn*(1-pOut)).toFixed(3);
+    c.style.transform =
+      `translateY(${(1-pIn)*74 - eOut(pOut)*50 + bob}px) scale(${(0.94+0.06*pIn).toFixed(3)})`;
+  });
+
+  // ---- Cena C ----
+  h2Words.forEach((w,i)=>{
+    const s = 5.80 + i*0.11;
+    const p = eExpo(seg(t,s,s+0.55));
+    w.style.opacity = p;
+    w.style.transform = `translateY(${(1-p)*44}px)`;
+  });
+  const pSub = eOut(seg(t,6.65,7.20));
+  sub.style.opacity = pSub;
+  sub.style.transform = `translateY(${(1-pSub)*26}px)`;
+  const outC = eOut(seg(t,7.55,7.95));
+  sceneC.style.opacity = 1-outC;
+  sceneC.style.transform = `translateY(${-outC*38}px)`;
+
+  // ---- Cena D ----
+  const pFR = eExpo(seg(t,7.95,8.70));
+  fruleL.style.transform = `scaleX(${pFR})`;
+  fruleR.style.transform = `scaleX(${pFR})`;
+  fruleL.style.opacity = pFR; fruleR.style.opacity = pFR;
+
+  const pLogo = eOut(seg(t,8.15,8.95));
+  logo.style.opacity = pLogo;
+  logo.style.transform = `translateY(${(1-pLogo)*26}px) scale(${(0.93+0.07*pLogo).toFixed(3)})`;
+
+  const pKD = eOut(seg(t,8.60,9.30));
+  kickerD.style.opacity = (pKD*0.8).toFixed(3);
+  kickerD.style.letterSpacing = (0.60 - 0.18*pKD).toFixed(3) + 'em';
+  kickerD.style.transform = `translateY(${(1-pKD)*14}px)`;
+}
+window.__seek = seek;
+seek(0);
+</script>
+</body>
+</html>
