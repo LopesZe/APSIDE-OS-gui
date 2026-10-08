@@ -21,7 +21,7 @@
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{height:100%}
-body{font-family:'Plus Jakarta Sans',sans-serif;background:#000;overflow:hidden}
+body{font-family:'Plus Jakarta Sans',sans-serif;background:#E7E6EF;overflow:hidden}
 
 .slide{position:absolute;inset:0;display:none;flex-direction:column;padding:5vh 7vw;justify-content:center}
 .slide.active{display:flex}
@@ -231,30 +231,30 @@ td b{font-weight:600}
 /* — pílulas de garantia — */
 .pills{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:1.6vh}
 .pills .garantia{margin-top:0}
-.garantia.alt{background:rgba(255,255,255,.10);color:var(--surface);border:1px solid rgba(255,255,255,.3)}
+.garantia.alt{background:rgba(65,48,216,.08);color:var(--bg);border:1px solid rgba(65,48,216,.35)}
 
 /* — cronograma em planilha — */
 .s13 .kicker,.s13 h2{text-align:center}
-.sheet{width:90%;margin:2vh auto 0;border-collapse:collapse;border-radius:14px;overflow:hidden;border:1px solid var(--borda-esc);background:rgba(255,255,255,.04)}
-.sheet th,.sheet td{text-align:center;padding:1.6vh 1vw;font-size:clamp(12px,1.05vw,15.5px);line-height:1.45;border-bottom:1px solid var(--borda-esc);border-right:1px solid var(--borda-esc)}
+.sheet{width:90%;margin:2vh auto 0;border-collapse:collapse;border-radius:14px;overflow:hidden;border:1px solid var(--borda-cla);background:#fff}
+.sheet th,.sheet td{text-align:center;padding:1.6vh 1vw;font-size:clamp(12px,1.05vw,15.5px);line-height:1.45;border-bottom:1px solid var(--borda-cla);border-right:1px solid var(--borda-cla)}
 .sheet th:last-child,.sheet td:last-child{border-right:none}
 .sheet tr:last-child td{border-bottom:none}
 .sheet th{background:rgba(65,48,216,.4);color:var(--surface);opacity:1;font-size:clamp(11px,.9vw,13px);letter-spacing:.1em;padding:1.7vh 1vw}
-.sheet tr:nth-child(even) td{background:rgba(255,255,255,.03)}
-.sheet tr.destaque td{background:rgba(67,49,233,.22)}
+.sheet tr:nth-child(even) td{background:rgba(24,23,33,.03)}
+.sheet tr.destaque td{background:rgba(65,48,216,.10)}
 .sheet .per{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--accent-txt);white-space:nowrap}
 .sheet .ent{font-weight:600}
 .s13 .sheet th:nth-child(1),.s13 .sheet td:nth-child(1){width:18%}
 .s13 .sheet th:nth-child(2),.s13 .sheet td:nth-child(2){width:40%}
 .sheet .note-cell{opacity:.75}
 
-.nav{position:fixed;bottom:0;left:0;right:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);z-index:50}
-.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:14px;color:#fff;background:rgba(255,255,255,.12);border:none;border-radius:12px;padding:9px 20px;cursor:pointer}
-.nav .btn:hover{background:var(--primary)}
-.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(255,255,255,.12)}
-.nav .counter{color:#fff;font-size:13px;font-family:'DM Sans',sans-serif;letter-spacing:.06em}
+.nav{position:fixed;bottom:0;left:0;right:0;height:52px;display:flex;align-items:center;justify-content:space-between;padding:0 22px;background:rgba(255,255,255,.75);backdrop-filter:blur(8px);z-index:50;border-top:1px solid var(--borda-cla)}
+.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:14px;color:var(--bg);background:rgba(24,23,33,.08);border:none;border-radius:12px;padding:9px 20px;cursor:pointer}
+.nav .btn:hover{background:var(--primary);color:#fff}
+.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(24,23,33,.08)}
+.nav .counter{color:var(--bg);font-size:13px;font-family:'DM Sans',sans-serif;letter-spacing:.06em}
 .progress{position:fixed;top:0;left:0;height:6px;background:var(--accent);z-index:60;transition:width .25s ease}
-.hint{position:fixed;bottom:60px;right:22px;color:rgba(231,230,239,.8);font-size:12px;z-index:50;background:rgba(24,23,33,.8);padding:5px 11px;border-radius:8px}
+.hint{position:fixed;bottom:60px;right:22px;color:#5a5470;font-size:12px;z-index:50;background:rgba(255,255,255,.85);padding:5px 11px;border-radius:8px;border:1px solid var(--borda-cla)}
 </style>
 </head>
 <body>
@@ -262,9 +262,9 @@ td b{font-weight:600}
 <div class="progress" id="progress"></div>
 
 <!-- 1 — CAPA (escuro) · sem valores de perda: gera curiosidade -->
-<section class="slide dark active">
+<section class="slide light active">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Diagnóstico de vazamento de vendas · Proposta</div>
   <h1>Terminal Materiais<br>Você recebe <span class="hl">10 pedidos por dia</span> — o plano é não deixar nenhum escorrer</h1>
   <p class="sub">Investigação completa do funil: do primeiro "oi" no WhatsApp ao sinal pago. Concorrentes auditados um a um, cada vazamento com fonte, e o plano com prazo, preço e garantia.</p>
@@ -276,9 +276,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 2 — METODOLOGIA (escuro) · só o que analisamos -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Como este diagnóstico foi feito</div>
   <h2>Investigação do funil de vendas — <span class="hl">não um checklist</span></h2>
   <div class="card stack">
@@ -294,9 +294,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 3 — FUNIL ATUAL (escuro) -->
-<section class="slide dark s3">
+<section class="slide light s3">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Seu funil de vendas hoje · mapeado com a operação</div>
   <h2>Como uma venda acontece na Terminal <span class="hl">agora</span></h2>
   <div class="flow">
@@ -314,9 +314,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 4 — EVIDÊNCIA (escuro) · campo a campo -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Evidência · verificação campo a campo</div>
   <h2>O que encontramos — <span class="hl">cada achado com fonte</span></h2>
   <table class="sheet">
@@ -331,9 +331,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 5 — CONCORRÊNCIA (escuro) -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Auditoria de concorrentes · quem disputa a mesma busca</div>
   <h2>Quem o cliente vê <span class="hl">ao lado de você</span></h2>
   <table class="sheet">
@@ -347,9 +347,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 6 — QUANTIFICAÇÃO (escuro) · premissa honesta -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Quantificação · o custo do vazamento silencioso</div>
   <h2>Quanto isso custa <span class="hl">por mês</span></h2>
   <div class="calc">
@@ -365,9 +365,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 7 — VAZAMENTOS (escuro) · fonte citada -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Diagnóstico · 3 pontos de vazamento, cada um com fonte</div>
   <h2>De onde exatamente sai <span class="hl">cada pedido perdido</span></h2>
   <div class="cols3">
@@ -391,9 +391,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 8 — O SISTEMA (escuro) · grid numerado -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">A solução · o que será instalado</div>
   <h2>Sistema de vendas da Terminal — <span class="hl">7 peças</span></h2>
   <div class="pecas">
@@ -409,9 +409,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 9 — AUTOMAÇÃO (escuro) · mocks tangíveis do que roda sozinho -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">O que trabalha sozinho · enquanto a loja atende o balcão</div>
   <h2>O WhatsApp respondendo, seguindo e recuperando — <span class="hl">sem ninguém lembrar</span></h2>
   <div class="mocks">
@@ -455,9 +455,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 10 — MÉTRICAS POR PEÇA (escuro) -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Do pedido ao fechamento · como cada peça vende</div>
   <h2>Cada peça com <span class="hl">métrica de venda</span> — não de vaidade</h2>
   <table class="sheet">
@@ -473,9 +473,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 11 — PRECIFICAÇÃO (escuro) · setup + recorrência, sem comissão -->
-<section class="slide dark s11">
+<section class="slide light s11">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Precificação · setup padrão + operação mensal</div>
   <h2>Dois valores, direto ao ponto — <span class="hl">sem letras miúdas</span></h2>
   <div class="price">
@@ -505,9 +505,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 12 — ANCORAÇÃO (escuro) -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Ancoragem de preço · a conta que o cliente faz sozinho</div>
   <h2>O vazamento dele custa <span class="hl">muito mais</span> que o setup da APSIDE</h2>
   <div class="ancora">
@@ -535,9 +535,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 13 — CRONOGRAMA (escuro) · conservador -->
-<section class="slide dark s13">
+<section class="slide light s13">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Execução · prazos conservadores de propósito</div>
   <h2>Cronograma: <span class="hl">prometemos com folga, entregamos adiantado</span></h2>
   <table class="sheet">
@@ -553,9 +553,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 14 — FECHAMENTO (escuro) -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">Fechamento · o que muda a partir de amanhã</div>
   <h2>De <span class="hl">8 pedidos perdidos por dia</span> pra um sistema medindo cada venda</h2>
   <div class="cols3">
@@ -575,9 +575,9 @@ td b{font-weight:600}
 </section>
 
 <!-- 15 — CONTATO (escuro) -->
-<section class="slide dark">
+<section class="slide light">
   <div class="regua"></div>
-  <header><img src="../../../identidade/logo-apside.svg" alt="APSIDE"></header>
+  <header><img src="../../../identidade/logo-apside-claro.svg" alt="APSIDE"></header>
   <div class="kicker">APSIDE · Estruturação digital para negócios locais</div>
   <p class="quote big-quote">"Não vendemos presença no Google.<br>Vendemos <span class="hl">pedidos qualificados</span> que viram venda paga."</p>
   <div class="cols" style="margin-top:3vh">

@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terminal Materiais — Diagnóstico de Vazamento de Vendas | APSIDE</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#E7E6EF; --text:#181721; --ink:#000000;
+  --accent:#4331e9; --rule:#4130D8; --deep:#2F2399;
+  --bd:rgba(24,23,33,.10); --surf:#FFFFFF;
+  --shadow:0 4px 24px rgba(24,23,33,.15);
+  --muted:rgba(24,23,33,.62);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{font-family:'Plus Jakarta Sans',sans-serif;background:var(--bg);overflow:hidden;color:var(--text)}
+
+/* ---------- base slide ---------- */
+.slide{position:absolute;inset:0;display:none;flex-direction:column;padding:56px 90px 84px;background:var(--bg)}
+.slide.active{display:flex}
+.slide [data-a]{opacity:0;transform:translateY(26px);transition:opacity .55s ease,transform .55s cubic-bezier(.2,.7,.2,1)}
+.slide.active [data-a]{opacity:1;transform:none}
+.vfill{flex:1;display:flex;flex-direction:column;justify-content:center}
+
+.mono{font-family:'JetBrains Mono',monospace}
+.hl{color:var(--accent)}
+b,strong{font-weight:700}
+
+/* logo + kicker */
+.slogo{position:absolute;top:30px;left:56px;height:24px;z-index:40}
+.kicker{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+h1{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(30px,3.6vw,52px);line-height:1.12;letter-spacing:-.01em}
+h2{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(24px,2.6vw,38px);line-height:1.14;letter-spacing:-.01em;margin-bottom:26px}
+.sub{font-size:clamp(14px,1.15vw,17px);line-height:1.55;color:var(--muted);max-width:1050px}
+
+/* ---------- chip (motion) ---------- */
+.chip{display:inline-flex;align-items:center;gap:9px;font-family:'JetBrains Mono',monospace;
+  font-size:12.5px;font-weight:700;letter-spacing:.08em;padding:9px 16px;border-radius:9px;
+  background:var(--rule);color:#E7E6EF;box-shadow:var(--shadow);white-space:nowrap}
+.chip.ghost{background:rgba(24,23,33,.04);border:1px solid var(--bd);color:var(--accent);box-shadow:none}
+.chip .pdot{width:8px;height:8px;border-radius:50%;background:#E7E6EF;flex:0 0 8px}
+.chip.ghost .pdot{background:var(--accent);animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+
+/* ---------- card (motion) ---------- */
+.card{background:var(--surf);border:1px solid var(--bd);border-radius:12px;box-shadow:var(--shadow)}
+.card h3{font-family:'DM Sans',sans-serif;font-size:19px;font-weight:700;margin-bottom:6px}
+.card p{font-size:14px;line-height:1.5;color:var(--muted)}
+.card p b{color:var(--text)}
+
+/* icon box (motion .ri) */
+.ri{width:46px;height:46px;border-radius:11px;border:1.5px solid rgba(67,49,233,.45);
+  display:flex;align-items:center;justify-content:center;margin-bottom:14px;flex:0 0 46px;
+  background:rgba(65,48,216,.06)}
+.ri svg{stroke:var(--accent);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* note bar */
+.note{margin-top:auto;padding:16px 22px;border-radius:12px;background:rgba(65,48,216,.06);
+  border-left:4px solid var(--rule);font-size:14.5px;line-height:1.55;color:var(--text)}
+.note b{color:var(--accent)}
+
+/* status chip */
+.st{font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:700;letter-spacing:.1em;
+  padding:8px 14px;border-radius:8px;display:inline-block;border:1px solid var(--bd);
+  background:rgba(24,23,33,.04);color:var(--muted)}
+.st.ok{background:rgba(65,48,216,.10);border-color:rgba(65,48,216,.4);color:var(--accent)}
+.st.bad{background:rgba(24,23,33,.05);color:var(--text)}
+
+/* ---------- stats ---------- */
+.stats{display:flex;gap:22px;margin-top:34px}
+.stat{flex:1;background:var(--surf);border:1px solid var(--bd);border-radius:12px;
+  padding:26px 24px;box-shadow:var(--shadow)}
+.stat .num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(30px,3vw,46px);
+  line-height:1;color:var(--accent)}
+.stat .lbl{font-size:14px;color:var(--muted);margin-top:10px;line-height:1.45}
+
+/* ---------- funnel (motion A7) ---------- */
+.funil{display:flex;flex-direction:column;align-items:center;gap:0;margin-top:8px}
+.fbar{border-radius:14px;display:flex;align-items:center;justify-content:center;gap:22px;
+  border:1px solid var(--bd);box-shadow:var(--shadow);background:var(--surf)}
+.fbar .fnum{font-family:'JetBrains Mono',monospace;font-size:clamp(28px,2.6vw,40px);font-weight:700;line-height:1;color:var(--accent)}
+.fbar .flab{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;letter-spacing:.18em;color:var(--muted)}
+.fbar.hot{background:var(--rule);border-color:transparent}
+.fbar.hot .fnum,.fbar.hot .flab{color:#E7E6EF}
+.fbar.dashed{border-style:dashed;background:rgba(24,23,33,.03)}
+.fbar.dashed .fnum{color:var(--muted)}
+.flink{display:inline-flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;
+  font-size:14px;font-weight:700;padding:8px 16px;border-radius:9px;background:rgba(24,23,33,.04);
+  border:1px dashed rgba(67,49,233,.5);color:var(--accent);margin:10px 0}
+
+/* ---------- rcards (motion A4) ---------- */
+.rcards{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.rcard{background:var(--surf);border:1px solid var(--bd);border-radius:12px;padding:22px;
+  box-shadow:var(--shadow);position:relative}
+.rcard .rname{font-family:'DM Sans',sans-serif;font-size:17.5px;font-weight:700;margin-bottom:5px}
+.rcard .rdesc{font-size:13px;color:var(--muted);line-height:1.45}
+.rcard .rdesc b{color:var(--text)}
+.rcard .rst{margin-top:14px}
+.rcard.gargalo{border-color:rgba(67,49,233,.55);box-shadow:0 0 0 2px rgba(67,49,233,.18),0 0 44px rgba(65,48,216,.22),var(--shadow)}
+.rcard .gdetail{font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--accent);
+  margin-top:12px;padding-top:11px;border-top:1px dashed rgba(67,49,233,.35);line-height:1.5}
+
+/* ---------- concorrência (motion A3 panels) ---------- */
+.panels{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.pnl{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:22px;
+  box-shadow:var(--shadow);display:flex;flex-direction:column}
+.pnl .pname{font-size:18px;font-weight:700;font-family:'DM Sans',sans-serif}
+.pnl .pcat{font-size:12.5px;color:var(--muted);margin-top:3px}
+.pnl .prate{display:flex;align-items:center;gap:10px;margin-top:14px}
+.pnl .stars{font-size:16px;letter-spacing:2px;color:var(--accent)}
+.pnl .stars .s{color:rgba(24,23,33,.18)}
+.pnl .pcount{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700}
+.pnl .pwhat{margin-top:auto;padding-top:14px;font-size:13px;line-height:1.5;color:var(--muted)}
+.pnl .pchips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.pnl .pchip{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;padding:6px 10px;
+  border-radius:7px;background:rgba(24,23,33,.05);border:1px solid var(--bd);color:var(--muted)}
+.pnl.destaque{border:1.5px solid var(--rule);box-shadow:0 0 0 2px rgba(65,48,216,.15),var(--shadow)}
+.pnl.destaque .pchip.on{background:rgba(65,48,216,.10);border-color:rgba(65,48,216,.4);color:var(--accent)}
+
+/* ---------- calc ---------- */
+.calc{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:28px 30px;
+  box-shadow:var(--shadow);max-width:980px}
+.calc .linha{display:flex;justify-content:space-between;align-items:baseline;gap:20px;
+  padding:11px 0;font-size:15.5px;border-bottom:1px solid rgba(24,23,33,.07)}
+.calc .linha .v{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--text);white-space:nowrap}
+.calc .linha.total{border-bottom:none;border-top:2px solid var(--rule);margin-top:8px;padding-top:16px;
+  font-weight:700;font-size:18px}
+.calc .linha.total .v{color:var(--accent);font-size:22px}
+
+/* ---------- peças grid ---------- */
+.pecas{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.peca{background:var(--surf);border:1px solid var(--bd);border-radius:12px;padding:20px;
+  box-shadow:var(--shadow)}
+.peca .num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:26px;color:var(--accent);line-height:1;margin-bottom:10px}
+.peca h4{font-family:'DM Sans',sans-serif;font-size:15.5px;font-weight:700;margin-bottom:6px}
+.peca p{font-size:12.5px;line-height:1.5;color:var(--muted)}
+
+/* ---------- phone (motion) ---------- */
+.phone{width:340px;height:660px;border-radius:38px;border:1px solid rgba(24,23,33,.3);
+  background:#181721;box-shadow:0 12px 40px rgba(24,23,33,.35);position:relative;overflow:hidden;flex:0 0 auto}
+.notch{position:absolute;top:11px;left:50%;transform:translateX(-50%);width:112px;height:23px;
+  border-radius:12px;background:#000;z-index:6;border:1px solid rgba(255,255,255,.12)}
+.wscreen{position:absolute;inset:9px;border-radius:30px;overflow:hidden;background:#ECE5DD;
+  display:flex;flex-direction:column}
+.whead{background:#075E54;color:#fff;padding:40px 14px 10px;display:flex;align-items:center;gap:10px;flex:0 0 auto}
+.wav{width:30px;height:30px;border-radius:50%;background:rgba(255,255,255,.22);display:flex;
+  align-items:center;justify-content:center;font-size:12px;font-weight:700;flex:0 0 30px}
+.wname{font-size:13.5px;font-weight:700;display:block}
+.won{font-family:'JetBrains Mono',monospace;font-size:9.5px;opacity:.75;display:block;margin-top:2px}
+.chat{padding:14px 12px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.bub{max-width:88%;padding:9px 12px;border-radius:12px;font-size:13px;line-height:1.45;color:#111;
+  font-family:'Plus Jakarta Sans',sans-serif}
+.bub.in{background:#fff;align-self:flex-start;border-bottom-left-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,.08)}
+.bub.out{background:#DCF8C6;align-self:flex-end;border-bottom-right-radius:4px}
+.bub .t{display:block;text-align:right;font-family:'JetBrains Mono',monospace;font-size:9px;opacity:.5;margin-top:3px}
+.bub .auto{display:block;font-family:'JetBrains Mono',monospace;font-size:9px;opacity:.6;margin-top:3px;color:#075E54}
+.wfoot{background:#F7F7F7;border-top:1px solid #e2e2e2;padding:9px 10px;text-align:center;
+  font-family:'JetBrains Mono',monospace;font-weight:700;font-size:11px;color:#5b6472;flex:0 0 auto}
+
+/* ---------- browser (motion) ---------- */
+.browser{width:600px;border-radius:14px;overflow:hidden;background:#fff;color:#000;
+  border:1px solid var(--bd);box-shadow:0 10px 34px rgba(24,23,33,.25)}
+.bbar{height:42px;background:#EFEFF3;display:flex;align-items:center;gap:8px;padding:0 16px;flex:0 0 auto}
+.bdot{width:11px;height:11px;border-radius:50%;background:rgba(24,23,33,.18)}
+.burl{flex:1;height:26px;border-radius:13px;background:rgba(24,23,33,.07);margin-left:8px;
+  display:flex;align-items:center;padding:0 14px;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:rgba(24,23,33,.55)}
+.bstage{padding:22px 26px 24px}
+.bnav{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+.blogo{font-weight:800;letter-spacing:.14em;font-size:14px}
+.blinks{display:flex;gap:18px;font-size:12px;color:rgba(24,23,33,.55);font-weight:500}
+.bhero .bh1{font-family:'DM Sans',sans-serif;font-size:24px;font-weight:800;line-height:1.12;letter-spacing:-.01em}
+.bsub{font-size:12.5px;color:rgba(24,23,33,.6);margin-top:8px;line-height:1.45;font-family:'Plus Jakarta Sans',sans-serif}
+.bfeats{display:flex;gap:10px;margin-top:16px}
+.bfeat{flex:1;border:1px solid rgba(24,23,33,.12);border-radius:10px;padding:10px 12px;background:rgba(24,23,33,.03)}
+.bft{font-size:12.5px;font-weight:700}
+.bfs{font-size:10.5px;color:rgba(24,23,33,.55);margin-top:2px;font-family:'Plus Jakarta Sans',sans-serif}
+.bcta{display:inline-flex;align-items:center;gap:8px;background:var(--rule);color:#E7E6EF;
+  font-size:13px;font-weight:600;padding:11px 20px;border-radius:8px;margin-top:16px}
+.bsocial{text-align:center;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:#6b7280;margin-top:14px}
+
+/* ---------- table ---------- */
+.tbl{width:100%;border-collapse:separate;border-spacing:0;background:var(--surf);
+  border:1px solid var(--bd);border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
+.tbl th{font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:700;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);text-align:left;padding:14px 20px;background:rgba(24,23,33,.04);
+  border-bottom:1px solid var(--bd)}
+.tbl td{padding:15px 20px;font-size:14.5px;border-bottom:1px solid rgba(24,23,33,.07);line-height:1.45;vertical-align:top}
+.tbl tr:last-child td{border-bottom:none}
+.tbl td b{font-weight:700}
+.tbl .mono{color:var(--accent);font-weight:700;white-space:nowrap}
+.tbl tr.destaque td{background:rgba(65,48,216,.06)}
+.tbl td ul{margin:0;padding-left:18px}
+.tbl td ul li{margin-bottom:5px;line-height:1.4}
+.tbl td ul li:last-child{margin-bottom:0}
+
+/* ---------- price ---------- */
+.price{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.p{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:28px 24px;
+  text-align:center;box-shadow:var(--shadow)}
+.p .val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(24px,2.2vw,34px);
+  line-height:1.1;color:var(--accent)}
+.p .cap{font-size:13.5px;color:var(--muted);margin-top:10px;line-height:1.5}
+.p .cap b{color:var(--text)}
+.p.ativo{border:2px solid var(--rule);box-shadow:0 0 0 3px rgba(65,48,216,.15),var(--shadow)}
+
+/* bullet list visível */
+ul.tops{list-style:none;display:flex;flex-direction:column;gap:12px;margin-top:14px}
+ul.tops li{padding-left:30px;position:relative;font-size:14.5px;line-height:1.5;color:var(--muted)}
+ul.tops li b{color:var(--text)}
+ul.tops li::before{content:"";position:absolute;left:0;top:.42em;width:16px;height:16px;border-radius:50%;
+  background:rgba(65,48,216,.12);border:2px solid var(--rule)}
+
+/* ---------- ancora ---------- */
+.ancora{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.ancora .col{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:26px 28px;box-shadow:var(--shadow)}
+.ancora .t{font-family:'JetBrains Mono',monospace;font-weight:700;text-transform:uppercase;
+  letter-spacing:.14em;font-size:12px;color:var(--accent);margin-bottom:16px}
+.ancora .linha{display:flex;justify-content:space-between;align-items:baseline;gap:16px;
+  padding:11px 0;font-size:14.5px;border-bottom:1px solid rgba(24,23,33,.08)}
+.ancora .linha .v{font-family:'JetBrains Mono',monospace;font-weight:700;white-space:nowrap}
+.ancora .linha.total{font-weight:700;border-bottom:2px solid var(--rule)}
+.ancora .linha.total .v{color:var(--accent);font-size:18px}
+.ancora .linha span:first-child{color:var(--muted)}
+.payback{margin-top:18px;text-align:center;border-radius:12px;padding:20px 16px;
+  background:var(--rule);color:#E7E6EF}
+.payback .plbl{font-family:'JetBrains Mono',monospace;font-size:11px;text-transform:uppercase;
+  letter-spacing:.14em;font-weight:700;opacity:.8}
+.payback .pval{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(34px,3.4vw,52px);
+  line-height:1.05;margin:6px 0}
+.payback .pcap{font-size:12.5px;opacity:.85;line-height:1.5}
+
+/* ---------- price box / pills ---------- */
+.price-box{background:var(--rule);color:#E7E6EF;border-radius:16px;padding:28px 34px;
+  text-align:center;box-shadow:var(--shadow);max-width:980px}
+.price-box .val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(24px,2.4vw,36px)}
+.price-box .cap{font-size:14px;opacity:.85;margin-top:8px}
+.pills{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:18px}
+.garantia{display:inline-flex;align-items:center;gap:9px;border-radius:999px;padding:9px 20px;
+  font-weight:700;font-size:13.5px;background:var(--rule);color:#E7E6EF;box-shadow:var(--shadow)}
+.garantia.alt{background:rgba(24,23,33,.05);color:var(--text);border:1px solid var(--bd);box-shadow:none}
+.garantia .pdot{width:8px;height:8px;border-radius:50%;background:#E7E6EF;animation:pulse 1.6s ease-in-out infinite}
+.garantia.alt .pdot{background:var(--accent)}
+
+/* ---------- quote / contato ---------- */
+.quote{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(26px,2.8vw,42px);
+  line-height:1.22;letter-spacing:-.01em;text-align:center;max-width:1200px}
+.biglogo{width:340px;margin-bottom:30px}
+
+/* ---------- nav compacta ---------- */
+.nav{position:fixed;bottom:0;left:0;right:0;height:44px;display:flex;align-items:center;
+  justify-content:space-between;padding:0 18px;background:rgba(255,255,255,.8);
+  backdrop-filter:blur(10px);z-index:50;border-top:1px solid var(--bd)}
+.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:13px;color:var(--text);
+  background:rgba(24,23,33,.06);border:none;border-radius:10px;padding:7px 16px;cursor:pointer}
+.nav .btn:hover{background:var(--rule);color:#E7E6EF}
+.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(24,23,33,.06);color:var(--text)}
+.nav .counter{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.06em;color:var(--muted)}
+.progress{position:fixed;top:0;left:0;height:4px;background:var(--rule);z-index:60;transition:width .25s ease}
+
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.mt8{margin-top:8px}.mt16{margin-top:16px}.mt24{margin-top:24px}.mt32{margin-top:32px}
+.center{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<!-- 1 — CAPA -->
+<section class="slide active">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="vfill center" style="text-align:center">
+    <div class="chip" data-a>DIAGNÓSTICO DE VAZAMENTO DE VENDAS · PROPOSTA</div>
+    <h1 class="mt16" data-a>Você recebe <span class="hl">10 pedidos por dia</span> — o plano é não deixar nenhum escorrer</h1>
+    <p class="sub mt16" data-a style="margin-left:auto;margin-right:auto">Investigação completa do funil: do primeiro "oi" no WhatsApp ao sinal pago. Concorrentes auditados um a um, cada vazamento com fonte, e o plano com prazo, preço e garantia.</p>
+    <div class="stats" data-a style="max-width:1150px;margin-left:auto;margin-right:auto;width:100%">
+      <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:22px">Funil</div><div class="lbl">mapeado etapa por etapa, com a operação</div></div>
+      <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:22px">Concorrentes</div><div class="lbl">auditados no Google, um por um</div></div>
+      <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:22px">Plano</div><div class="lbl">com prazo, preço e garantia escrita</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 2 — METODOLOGIA -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>COMO ESTE DIAGNÓSTICO FOI FEITO</div>
+  <h2 data-a>Investigação do funil de vendas — <span class="hl">não um checklist</span></h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:1fr 1fr;max-width:1150px;margin:0 auto;width:100%" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 00-4-4H7a4 4 0 00-4 4v2"/><circle cx="10" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg></div>
+        <div class="rname">Entrevista com a operação</div>
+        <div class="rdesc">Como uma venda acontece hoje, do primeiro contato ao fechamento, com volume diário e ticket médio</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/><path d="M8 11l2 2 4-4"/></svg></div>
+        <div class="rname">Verificação campo a campo</div>
+        <div class="rdesc">Google Meu Negócio (nota, fotos, avaliações, respostas) e site visitado linha por linha</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="12" cy="8" r="6"/><path d="M15.5 13l1.5 8-5-3-5 3 1.5-8"/></svg></div>
+        <div class="rname">Auditoria de concorrentes</div>
+        <div class="rdesc">Nota, nº de avaliações, site, WhatsApp de orçamento e promoções de quem disputa o mesmo bairro</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M22 3H2l8 9.46V19l4 2v-8.54z"/></svg></div>
+        <div class="rname">Leitura do funil</div>
+        <div class="rdesc">Quantos contatos entram, quantos fecham e onde some o resto</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Cada número deste diagnóstico veio de verificação direta, entrevista com a operação ou dados públicos do Google — <b>nenhum número é estimativa genérica de mercado</b>.</div>
+</section>
+
+<!-- 3 — FUNIL ATUAL -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>SEU FUNIL DE VENDAS HOJE · MAPEADO COM A OPERAÇÃO</div>
+  <h2 data-a>Como uma venda acontece na Terminal <span class="hl">agora</span></h2>
+  <div style="display:flex;gap:60px;align-items:center;flex:1">
+    <div class="funil" style="flex:1" data-a>
+      <div class="fbar" style="width:100%;height:92px"><span class="fnum">10</span><span class="flab">PEDIDOS DE ORÇAMENTO / DIA</span></div>
+      <span class="flink">↓ ORÇAMENTO — SEM REGISTRO</span>
+      <div class="fbar dashed" style="width:64%;height:92px"><span class="fnum">?</span><span class="flab">RESPONDIDO NO WHATSAPP — NÃO MEDIDO</span></div>
+      <span class="flink">↓ 80% SE PERDEM NO CAMINHO</span>
+      <div class="fbar hot" style="width:38%;height:92px"><span class="fnum">2</span><span class="flab">FECHAMENTOS · 20%</span></div>
+    </div>
+    <div style="width:330px" data-a>
+      <div class="stat" style="margin-top:0"><div class="num">8</div><div class="lbl">pedidos por dia que não fecham — e ninguém sabe o porquê</div></div>
+      <div class="stat mt16"><div class="num">R$ 600</div><div class="lbl">ticket médio de cada pedido que some</div></div>
+    </div>
+  </div>
+  <div class="note" data-a>O funil tem um buraco no meio: entre o orçamento e o fechamento <b>não existe registro de nada</b>. Ninguém sabe se os 8 que não fecham morreram por preço, por demora na resposta ou porque foram pro concorrente — porque ninguém anotou.</div>
+</section>
+
+<!-- 4 — EVIDÊNCIA -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>EVIDÊNCIA · VERIFICAÇÃO CAMPO A CAMPO</div>
+  <h2 data-a>O que encontramos — <span class="hl">cada achado com fonte</span></h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:repeat(5,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></div>
+        <div class="rname">Origem do lead</div>
+        <div class="rdesc">Não medida — "às vezes promoção, às vezes Google"</div>
+        <div class="rst"><span class="st bad">✕ ACHADO</span></div>
+        <div class="gdetail">fonte: entrevista · decisão de investir e cortar no escuro</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M22 3H2l8 9.46V19l4 2v-8.54z"/></svg></div>
+        <div class="rname">Orçamento → fechamento</div>
+        <div class="rdesc">Sem registro do que acontece com os 8 não fechados</div>
+        <div class="rst"><span class="st bad">✕ ACHADO</span></div>
+        <div class="gdetail">fonte: entrevista · o maior vazamento é invisível</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 01-9 8.4L3 21l1.1-4.1A8.4 8.4 0 1121 11.5z"/></svg></div>
+        <div class="rname">WhatsApp</div>
+        <div class="rdesc">"Chamei no watts e não respondem, dois dias aguardando"</div>
+        <div class="rst"><span class="st bad">⚠ ACHADO</span></div>
+        <div class="gdetail">fonte: avaliação pública + resposta do dono</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/></svg></div>
+        <div class="rname">Site</div>
+        <div class="rdesc">Template Joomla © 2017, sem orçamento guiado, sem rastreio</div>
+        <div class="rst"><span class="st bad">✕ ACHADO</span></div>
+        <div class="gdetail">fonte: auditoria 05/10 · quem cai no site não tem caminho de pedido</div>
+      </div>
+      <div class="rcard gargalo">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M12 21s7-6.1 7-11a7 7 0 10-14 0c0 4.9 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
+        <div class="rname">Google Meu Negócio</div>
+        <div class="rdesc">4,5★ · 222 avaliações, fotos recentes</div>
+        <div class="rst"><span class="st ok">✓ PONTO FORTE</span></div>
+        <div class="gdetail">falta transformar a base em origem medida de lead</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>A loja <b>não tem problema de reputação</b> — tem problema de processo. Onde não existe registro, existe vazamento.</div>
+</section>
+
+<!-- 5 — CONCORRÊNCIA -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>AUDITORIA DE CONCORRENTES · QUEM DISPUTA A MESMA BUSCA</div>
+  <h2 data-a>Quem o cliente vê <span class="hl">ao lado de você</span></h2>
+  <div class="vfill">
+    <div class="panels" data-a>
+      <div class="pnl">
+        <div class="pname">Antunes Materiais</div>
+        <div class="pcat">Nova Russia, seu bairro</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">4,5 · 314 avaliações</span></div>
+        <div class="pwhat">Catálogo online, orçamento pelo Instagram/Facebook, promoções ativas (6.200 seguidores)</div>
+        <div class="pchips"><span class="pchip">catálogo online</span><span class="pchip">orçamento IG/FB</span><span class="pchip">6.200 seguidores</span></div>
+      </div>
+      <div class="pnl">
+        <div class="pname">Prado Materiais</div>
+        <div class="pcat">Ponta Grossa</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">4,9 · 67 avaliações</span></div>
+        <div class="pwhat">Site moderno com "Faça seu orçamento" e WhatsApp direto</div>
+        <div class="pchips"><span class="pchip">site moderno</span><span class="pchip">whatsapp direto</span></div>
+      </div>
+      <div class="pnl">
+        <div class="pname">LGO Materiais</div>
+        <div class="pcat">Oficinas</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s">★</span></span><span class="pcount">site + 2 WhatsApps</span></div>
+        <div class="pwhat">Site moderno, dois números de orçamento, atendimento consultivo</div>
+        <div class="pchips"><span class="pchip">2 whatsapps</span><span class="pchip">consultivo</span></div>
+      </div>
+      <div class="pnl destaque">
+        <div class="pname">Terminal Materiais</div>
+        <div class="pcat">Nova Russia · sua loja</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">4,5 · 222 avaliações</span></div>
+        <div class="pwhat">Site de 2017, origem do lead não medida, sem follow-up de orçamento</div>
+        <div class="pchips"><span class="pchip on">2ª maior base</span><span class="pchip on">mesma nota do líder</span><span class="pchip on">sem trilha de orçamento</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Você tem a 2ª maior base de avaliações da comparação e a <b>mesma nota do líder</b>. Eles não vendem melhor que você — eles capturam e respondem orçamento com trilha ativa, enquanto 8 dos seus 10 pedidos diários somem sem registro.</div>
+</section>
+
+<!-- 6 — QUANTIFICAÇÃO -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>QUANTIFICAÇÃO · O CUSTO DO VAZAMENTO SILENCIOSO</div>
+  <h2 data-a>Quanto isso custa <span class="hl">por mês</span></h2>
+  <div style="display:flex;gap:50px;align-items:flex-start;flex:1">
+    <div class="calc" data-a>
+      <div class="linha"><span>Pedidos de orçamento/dia (WhatsApp)</span><span class="v">10</span></div>
+      <div class="linha"><span>Fecham hoje</span><span class="v">2 (20%)</span></div>
+      <div class="linha"><span>Não fecham, sem follow-up</span><span class="v">8</span></div>
+      <div class="linha"><span>Recuperação conservadora (1 de cada 8)</span><span class="v">+1 venda/dia</span></div>
+      <div class="linha"><span>Ticket médio</span><span class="v">R$ 600</span></div>
+      <div class="linha total"><span>GANHO CONSERVADOR POR MÊS (26 dias)</span><span class="v">R$ 15.600</span></div>
+      <div class="linha total"><span>TETO PLAUSÍVEL (+3/dia)</span><span class="v">R$ 46.800/mês</span></div>
+    </div>
+    <div style="width:380px;display:flex;flex-direction:column;gap:18px" data-a>
+      <div class="card" style="padding:20px 24px;display:flex;gap:16px;align-items:center">
+        <span class="ri" style="margin-bottom:0"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M12 8v5l3 2"/><circle cx="12" cy="12" r="9"/></svg></span>
+        <div><div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">CUSTO DA INÉRCIA</div><div style="font-size:16px;font-weight:600;margin-top:4px">R$ 187.200/ano parado</div></div>
+      </div>
+      <div class="card" style="padding:20px 24px;display:flex;gap:16px;align-items:center">
+        <span class="ri" style="margin-bottom:0"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></span>
+        <div><div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">PREMISSA</div><div style="font-size:16px;font-weight:600;margin-top:4px">Loja pode vender mais — o gargalo é o WhatsApp</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a><b>Premissa honesta:</b> esta conta assume que a loja <b>pode vender mais</b> (equipe, estoque e entrega disponíveis — o gargalo declarado é o atendimento no WhatsApp, não a capacidade física). E assume recuperação de apenas <b>1 dos 8</b> por dia: parte dos que não fecham é pesquisa de preço e não é recuperável. Os primeiros 30 dias servem para validar isso com dados reais.</div>
+</section>
+
+<!-- 7 — VAZAMENTOS -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>DIAGNÓSTICO · 3 PONTOS DE VAZAMENTO, CADA UM COM FONTE</div>
+  <h2 data-a>De onde exatamente sai <span class="hl">cada pedido perdido</span></h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:repeat(3,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></div>
+        <div class="rname">1 · Origem não medida</div>
+        <div class="rdesc">A loja não sabe se o lead veio do Google, de promoção ou de indicação. Impossível saber onde investir — ou onde cortar.</div>
+        <div class="gdetail">FONTE: entrevista com a operação (05/10/2026)</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 01-9 8.4L3 21l1.1-4.1A8.4 8.4 0 1121 11.5z"/></svg></div>
+        <div class="rname">2 · WhatsApp sem trilha</div>
+        <div class="rdesc">8 pedidos/dia não fecham e nenhum tem follow-up registrado: sem toque de 24h/72h, sem motivo da perda, sem reativação.</div>
+        <div class="gdetail">FONTE: entrevista + avaliação pública ("dois dias aguardando")</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/></svg></div>
+        <div class="rname">3 · Site folheto</div>
+        <div class="rdesc">Template © 2017, catálogo sem preço nem orçamento por produto, sem rastreio. Existe, mas não participa do funil.</div>
+        <div class="gdetail">FONTE: auditoria de terminalconstrucao.com.br (05/10/2026)</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Os três vazamentos se conectam: sem origem medida você não sabe onde consertar; sem trilha no WhatsApp o pedido morre no volume de mensagens; sem site no funil, o pesquisador que cai não tem para onde ir. <b>O sistema fecha os três ao mesmo tempo.</b></div>
+</section>
+
+<!-- 8 — O SISTEMA -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>A SOLUÇÃO · O QUE SERÁ INSTALADO</div>
+  <h2 data-a>Sistema de vendas da Terminal — <span class="hl">7 peças</span></h2>
+  <div class="vfill">
+    <div class="pecas" data-a>
+      <div class="peca"><div class="num">01</div><h4>Pré-qualificação automática</h4><p>Resposta inicial no WhatsApp já faz as 3 perguntas (o que precisa, pra quando, entrega onde) — orçamento certo na primeira resposta</p></div>
+      <div class="peca"><div class="num">02</div><h4>Follow-up automático</h4><p>3 toques em 7 dias pra cada pedido que não fechou — o volume de mensagens deixa de matar lead</p></div>
+      <div class="peca"><div class="num">03</div><h4>Reativação automática</h4><p>Quem pediu orçamento e não comprou recebe toque de volta em 30 dias — venda que já está no celular da loja</p></div>
+      <div class="peca"><div class="num">04</div><h4>Rastreio de origem</h4><p>Link de WhatsApp por fonte (Google, promoção, site): cada pedido carrega a origem, virando relatório</p></div>
+      <div class="peca"><div class="num">05</div><h4>Página de orçamento</h4><p>Uma página direta de pedido, destino do Google e das promoções — o site de 2017 deixa de ser beco sem saída</p></div>
+      <div class="peca"><div class="num">06</div><h4>GMB ativo</h4><p>Posts semanais de promoção, fotos de obra entregue, resposta a toda avaliação — a base de 222 avaliações trabalhando</p></div>
+      <div class="peca"><div class="num">07</div><h4>Medição por venda</h4><p>Cada pedido rastreado até o fechamento. Todo mês: quantas vendas vieram de cada fonte</p></div>
+      <div class="peca"><div class="num">→</div><h4>Regra de ouro</h4><p>Se a peça não move "pedido → orçamento → fechamento", ela não existe. Zero métrica de vaidade.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 9 — AUTOMAÇÃO -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>O QUE TRABALHA SOZINHO · ENQUANTO A LOJA ATENDE O BALCÃO</div>
+  <h2 data-a>O WhatsApp respondendo, seguindo e recuperando — <span class="hl">sem ninguém lembrar</span></h2>
+  <div style="display:flex;gap:36px;align-items:center;flex:1;justify-content:center">
+    <div class="phone" data-a>
+      <div class="notch"></div>
+      <div class="wscreen">
+        <div class="whead"><span class="wav">T</span><span><span class="wname">Terminal Materiais</span><span class="won">whatsapp business · online</span></span></div>
+        <div class="chat">
+          <div class="bub in">Oi, bom dia! Quanto tá o cimento de 50kg?<span class="t">08:12</span></div>
+          <div class="bub out">Oi! Pra te dar o preço certo já na primeira resposta: qual material? Pra quando? Entregamos onde?<span class="auto">resposta automática · 0,2s</span></div>
+          <div class="bub in">Cimento, 20 sacos, quinta, Centro<span class="t">08:13</span></div>
+          <div class="bub out">Anotado! 20 sacos pra quinta no Centro — orçamento fechado em até 1h, com entrega combinada.<span class="auto">qualificação completa</span></div>
+        </div>
+        <div class="wfoot">01 · PRÉ-QUALIFICAÇÃO AUTOMÁTICA</div>
+      </div>
+    </div>
+    <div class="phone" data-a>
+      <div class="notch"></div>
+      <div class="wscreen">
+        <div class="whead"><span class="wav">T</span><span><span class="wname">Terminal Materiais</span><span class="won">whatsapp business · automação</span></span></div>
+        <div class="chat">
+          <div class="bub out">Oi! O orçamento de ontem ainda vale — programo a entrega pra semana?<span class="auto">follow-up automático · dia 3</span></div>
+          <div class="bub in">Então, acabei comprando de outro jeito<span class="t">09:40</span></div>
+          <div class="bub out">Combinado! Só me diz o motivo que ajuda a gente a melhorar.<span class="auto">motivo da perda registrado</span></div>
+          <div class="bub in">Prazo de entrega<span class="t">09:41</span></div>
+          <div class="bub out">Anotado — entrega é nosso ponto forte, vou avisar das próximas promoções de material pesado.<span class="auto">reativação agendada · 30 dias</span></div>
+        </div>
+        <div class="wfoot">02 · FOLLOW-UP + MOTIVO DA PERDA</div>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px" data-a>
+      <div class="browser">
+        <div class="bbar"><span class="bdot"></span><span class="bdot"></span><span class="bdot"></span><div class="burl">terminalconstrucao.com.br/orcamento</div></div>
+        <div class="bstage">
+          <div class="bnav"><span class="blogo">TERMINAL</span><span class="blinks"><span>Obra</span><span>Reforma</span><span>Profissionais</span></span></div>
+          <div class="bhero">
+            <div class="bh1">Peça seu orçamento em 2 minutos</div>
+            <div class="bsub">Destino do Google e das promoções: mesma loja, pedido guiado pelo WhatsApp — o site de 2017 deixa de ser beco sem saída.</div>
+          </div>
+          <div class="bfeats">
+            <div class="bfeat"><div class="bft">Lista em 2 min</div><div class="bfs">pelo celular</div></div>
+            <div class="bfeat"><div class="bft">Entrega agendada</div><div class="bfs">no dia da obra</div></div>
+            <div class="bfeat"><div class="bft">Resposta em 1h</div><div class="bfs">horário comercial</div></div>
+          </div>
+          <span class="bcta">Enviar pedido pelo WhatsApp</span>
+          <div class="bsocial">★ 4,5 · 222 avaliações · Nova Russia</div>
+        </div>
+      </div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap">
+        <span class="chip ghost"><span class="pdot"></span> FOLLOW-BACK AUTOMÁTICO</span>
+        <span class="chip ghost"><span class="pdot"></span> MOTIVO DA PERDA REGISTRADO</span>
+        <span class="chip ghost"><span class="pdot"></span> REATIVAÇÃO · 30 DIAS</span>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Nada aqui substitui o atendimento humano da loja — <b>tira das costas da equipe a parte mecânica</b>: primeira resposta, cobrança de retorno e reativação. Cada conversa acima ainda termina com o vendedor fechando o pedido.</div>
+</section>
+
+<!-- 10 — MÉTRICAS -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>DO PEDIDO AO FECHAMENTO · COMO CADA PEÇA VENDE</div>
+  <h2 data-a>Cada peça com <span class="hl">métrica de venda</span> — não de vaidade</h2>
+  <div class="vfill">
+    <table class="tbl" data-a>
+      <tr><th style="width:26%">Peça</th><th style="width:30%">Público</th><th>Métrica de venda</th></tr>
+      <tr><td><b>Pré-qualificação automática</b></td><td>10 pedidos/dia de hoje</td><td class="mono">Conversão orçamento → fechamento (hoje 20%, meta 30%)</td></tr>
+      <tr><td><b>Follow-up automático</b></td><td>Pedido que não fechou</td><td class="mono">% recuperado em 7 dias + motivo da perda registrado</td></tr>
+      <tr><td><b>Reativação automática</b></td><td>Base que pediu e não comprou</td><td class="mono">Vendas de reativação/mês</td></tr>
+      <tr><td><b>Rastreio de origem</b></td><td>Todo pedido que chega</td><td class="mono">% de leads com fonte conhecida (meta: 100%)</td></tr>
+      <tr><td><b>Página de orçamento</b></td><td>Quem cai pelo Google/promoção</td><td class="mono">Pedidos enviados pela página/mês</td></tr>
+      <tr><td><b>GMB ativo</b></td><td>Busca local em Ponta Grossa</td><td class="mono">Pedidos vindos do perfil Google/mês</td></tr>
+    </table>
+  </div>
+  <div class="note" data-a><b>Regra de ouro desta entrega:</b> tudo que não puder ser medido em "pedido → orçamento → fechamento" não entra no escopo. Se não move venda, não é peça do sistema.</div>
+</section>
+
+<!-- 11 — PRECIFICAÇÃO -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>PRECIFICAÇÃO · SETUP PADRÃO + OPERAÇÃO MENSAL</div>
+  <h2 data-a>Dois valores, direto ao ponto — <span class="hl">sem letras miúdas</span></h2>
+  <div class="price" data-a>
+    <div class="p ativo"><div class="val">R$ 10.000</div><div class="cap"><b>Setup</b> — implantação única das 7 peças com automações (nível intermediário)</div></div>
+    <div class="p"><div class="val">R$ 1.000<span style="font-size:.55em">/mês</span></div><div class="cap"><b>Operação</b> — o sistema vivo, revisado e ajustado todo mês</div></div>
+    <div class="p"><div class="val">0%</div><div class="cap"><b>Sobre suas vendas</b> — não cobramos comissão nenhuma</div></div>
+  </div>
+  <div class="cols2 mt24" data-a>
+    <div class="card" style="padding:24px 28px">
+      <h3>O que entra no setup (R$ 10.000)</h3>
+      <ul class="tops">
+        <li>3 automações de WhatsApp (pré-qualificação, follow-up, reativação)</li>
+        <li>Rastreio de origem + página de orçamento + GMB + medição</li>
+        <li>Configuração integral até o primeiro relatório de vendas por fonte</li>
+        <li>Nível intermediário da escada — o escopo tem automação e integração</li>
+        <li>Nível base (R$ 5 mil) seria sem automação — é ela que resolve seus 8 pedidos/dia</li>
+        <li>Nível alto (R$ 15 mil) é CRM sob medida, sem necessidade agora</li>
+      </ul>
+    </div>
+    <div class="card" style="padding:24px 28px">
+      <h3>O que entra na operação (R$ 1.000/mês)</h3>
+      <ul class="tops">
+        <li>Revisão quinzenal: o que não está gerando pedido fechado, a gente ajusta</li>
+        <li>Relatório mensal de pedidos por origem, com motivos de perda registrados</li>
+        <li>Suporte, correções e evolução contínua das automações</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note" data-a>Sem porcentagem sobre as suas vendas: nosso ganho é o setup + a operação mensal. <b>Previsível pra você, sem conflito de interesse</b> — nossa meta é a sua meta, medida em pedidos que viram venda.</div>
+</section>
+
+<!-- 12 — ANCORAÇÃO -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>ANCORAGEM DE PREÇO · A CONTA QUE O CLIENTE FAZ SOZINHO</div>
+  <h2 data-a>O vazamento dele custa <span class="hl">muito mais</span> que o setup da APSIDE</h2>
+  <div class="vfill">
+    <div class="ancora" data-a>
+      <div class="col">
+        <div class="t">O prejuízo da inércia</div>
+        <div class="linha"><span>Pedidos de orçamento/dia</span><span class="v">10</span></div>
+        <div class="linha"><span>Não fecham, sem follow-up</span><span class="v">8</span></div>
+        <div class="linha"><span>Recuperação conservadora (1 de cada 8)</span><span class="v">+1 venda/dia</span></div>
+        <div class="linha"><span>Ticket médio</span><span class="v">R$ 600</span></div>
+        <div class="linha"><span>Margem média de mercado (material de construção)</span><span class="v">25%</span></div>
+        <div class="linha total"><span>Lucro perdido / mês</span><span class="v">R$ 3.900</span></div>
+        <div class="linha"><span>Lucro perdido / ano</span><span class="v">R$ 46.800</span></div>
+      </div>
+      <div class="col">
+        <div class="t">O que a APSIDE cobra</div>
+        <div class="linha"><span>Setup — implantação única das 7 peças com automações</span><span class="v">R$ 10.000</span></div>
+        <div class="linha"><span>Operação mensal</span><span class="v">R$ 1.000/mês</span></div>
+        <div class="linha"><span>Comissão sobre vendas</span><span class="v">0%</span></div>
+        <div class="payback">
+          <div class="plbl">Payback estimado do cliente</div>
+          <div class="pval">~67 dias</div>
+          <div class="pcap">Setup ÷ lucro/dia recuperado (R$ 600 × 25% de margem = R$ 150/dia). Margem média de mercado para material de construção.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Ancoragem simples: o setup de <b>R$ 10.000 paga a si mesmo em ~67 dias de lucro recuperado</b> — e cada mês de espera tira R$ 3.900 de lucro da loja. O cálculo usa margem média de mercado (25%), não receita.</div>
+</section>
+
+<!-- 13 — CRONOGRAMA -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>EXECUÇÃO · PRAZOS CONSERVADORES DE PROPÓSITO</div>
+  <h2 data-a>Cronograma: <span class="hl">prometemos com folga, entregamos adiantado</span></h2>
+  <div class="vfill">
+    <table class="tbl" data-a>
+      <tr><th style="width:13%">Período</th><th style="width:24%">Entrega</th><th>O que você vê no ar</th></tr>
+      <tr><td class="mono">Dias 1–7</td><td><b>Pré-qualificação + rastreio</b></td><td><ul><li>Resposta automática com as 3 perguntas no WhatsApp</li><li>Link de WhatsApp por origem</li><li>No ar já na primeira semana</li></ul></td></tr>
+      <tr><td class="mono">Dias 7–21</td><td><b>Follow-up + reativação</b></td><td><ul><li>Sequência de 3 toques em 7 dias nos pedidos não fechados</li><li>Toque de 30 dias na base que não comprou</li></ul></td></tr>
+      <tr><td class="mono">Dias 21–40</td><td><b>Página de orçamento + GMB</b></td><td><ul><li>/orcamento no ar — destino do Google e das promoções</li><li>Post semanal no perfil</li><li>Resposta a toda avaliação</li></ul></td></tr>
+      <tr><td class="mono">Dias 40–55</td><td><b>Calibração com dados reais</b></td><td><ul><li>Ajuste de mensagens, horários e gatilhos</li><li>Conforme os primeiros pedidos com origem medida</li></ul></td></tr>
+      <tr><td class="mono">Dia 70</td><td><b>Primeiro relatório completo</b></td><td><ul><li>Pedidos por origem, fechados e não fechados</li><li>Motivos de perda registrados</li><li>Ajustes definidos pelos dados reais</li></ul></td></tr>
+      <tr class="destaque"><td class="mono">Dia 90</td><td><b>Checkpoint de garantia</b></td><td><ul><li>+1 venda/dia em média?</li><li>Sim → escala · Não → ajuste grátis até bater</li></ul></td></tr>
+    </table>
+  </div>
+  <div class="note" data-a>Por que prazos com folga? Porque <b>atrasar entrega é o que mata confiança</b>. Preferimos prometer 21 dias e entregar em 10 — do que prometer 10 e entregar em 21. Você nunca espera a gente.</div>
+</section>
+
+<!-- 14 — FECHAMENTO -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>FECHAMENTO · O QUE MUDA A PARTIR DE AMANHÃ</div>
+  <h2 data-a>De <span class="hl">8 pedidos perdidos por dia</span> pra um sistema medindo cada venda</h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:repeat(3,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div>
+        <div class="rname">Hoje</div>
+        <div class="rdesc">10 pedidos, 2 fechamentos, origem no escuro, 8 por dia sem retorno e sem registro do porquê. <b>R$ 3.900/mês de lucro ficando na mesa.</b></div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div>
+        <div class="rname">Em 30 dias</div>
+        <div class="rdesc">Automações no ar (pré-qualificação, follow-up, reativação), origem medida, GMB com post semanal. <b>Primeira leitura de onde vem cada venda.</b></div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg></div>
+        <div class="rname">Em 90 dias</div>
+        <div class="rdesc">Página de orçamento no ar, follow-up medindo pedido até fechamento, motivos de perda registrados. <b>Meta: +1 venda por dia, comprovada em relatório.</b></div>
+      </div>
+    </div>
+    <div class="mt24" style="display:flex;flex-direction:column;align-items:center;gap:0" data-a>
+      <div class="price-box">
+        <div class="val">R$ 10.000 setup + R$ 1.000/mês</div>
+        <div class="cap">7 peças implantadas · 3 automações de WhatsApp · operação revisada quinzenalmente · sem comissão sobre vendas</div>
+      </div>
+      <div class="pills">
+        <span class="garantia"><span class="pdot"></span> Garantia de 90 dias por escrito — +1 venda/dia ou ajuste grátis até atingir</span>
+        <span class="garantia alt"><span class="pdot"></span> Cada mês de espera tira R$ 3.900 de lucro</span>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a><b>Próximo passo:</b> aprovação hoje = kickoff amanhã = primeiros pedidos com origem medida já na primeira semana. A decisão está com você.</div>
+</section>
+
+<!-- 15 — CONTATO -->
+<section class="slide">
+  <img class="slogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="center" style="flex:1;justify-content:center">
+    <img class="biglogo" src="../identidade/logo-apside-claro.svg" alt="APSIDE" data-a>
+    <div class="quote" data-a>"Não vendemos presença no Google.<br>Vendemos <span class="hl">pedidos qualificados</span> que viram venda paga."</div>
+    <div class="cols2 mt32" style="max-width:980px;width:100%" data-a>
+      <div class="card" style="padding:24px 28px">
+        <h3 class="hl">Guilherme · APSIDE</h3>
+        <p style="margin-top:10px">WhatsApp: <b>(42) 99995-5452</b><br>wa.me/5542999955452<br>Ponta Grossa, PR</p>
+      </div>
+      <div class="card" style="padding:24px 28px">
+        <h3 class="hl">Documentos deste diagnóstico</h3>
+        <p style="margin-top:10px">Relatório completo: <b>diagnostico-vendas-terminal-ponta-grossa-2026-10-05.md</b><br>Cálculos, fontes de dados e plano de recuperação detalhado.</p>
+      </div>
+    </div>
+    <p class="sub mt24" style="text-align:center;font-size:13px" data-a>APSIDE · proposta gerada em 05/10/2026</p>
+  </div>
+</section>
+
+<div class="nav">
+  <button class="btn" id="prev">← Anterior</button>
+  <span class="counter" id="counter">1 / 15</span>
+  <button class="btn" id="next">Próxima →</button>
+</div>
+
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+function show(n){
+  i=Math.max(0,Math.min(slides.length-1,n));
+  slides.forEach((s,k)=>{
+    s.classList.toggle('active',k===i);
+    if(k!==i) s.querySelectorAll('[data-a]').forEach(el=>{el.style.transitionDelay='0ms'});
+  });
+  const cur=slides[i].querySelectorAll('[data-a]');
+  cur.forEach((el,j)=>{ el.style.transitionDelay=(j*70)+'ms'; });
+  document.getElementById('counter').textContent=(i+1)+' / '+slides.length;
+  document.getElementById('progress').style.width=((i+1)/slides.length*100)+'%';
+  document.getElementById('prev').disabled=i===0;
+  document.getElementById('next').disabled=i===slides.length-1;
+}
+document.getElementById('prev').onclick=()=>show(i-1);
+document.getElementById('next').onclick=()=>show(i+1);
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown'){e.preventDefault();show(i+1)}
+  if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();show(i-1)}
+  if(e.key==='Home')show(0);
+  if(e.key==='End')show(slides.length-1);
+});
+show(0);
+</script>
+</body>
+</html>
