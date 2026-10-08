@@ -4,7 +4,8 @@ Toda sessão (ou `/abrir`) deve seguir esta ordem. O objetivo é carregar contex
 orçamento de tokens enxuto e não deixar nada de fora.
 
 ## Ordem de leitura
-0. **`git pull origin master`** — puxar últimas atualizações do GitHub antes de tudo.
+0. **`git pull origin main`** — puxar últimas atualizações do GitHub antes de tudo.
+   - Branch ativo é `main`; `master` é espelho (manter em sync no push).
    - Se houver merge conflitos ou mudanças locais não commitadas, orientar a rodar `/salvar` antes.
 1. `core/IDENTITY.md` — quem é o agente, missão, limites.
 2. `core/CONTEXT.md` — índice das verdades fixas.
