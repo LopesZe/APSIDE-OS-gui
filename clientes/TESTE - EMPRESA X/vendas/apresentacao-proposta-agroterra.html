@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AgroTerra Contabilidade — Diagnóstico de Vazamento de Vendas | APSIDE</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#E7E6EF; --text:#181721; --ink:#000000;
+  --accent:#4331e9; --rule:#4130D8; --deep:#2F2399;
+  --bd:rgba(24,23,33,.10); --surf:#FFFFFF;
+  --shadow:0 4px 24px rgba(24,23,33,.15);
+  --muted:rgba(24,23,33,.62);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%}
+body{font-family:'Plus Jakarta Sans',sans-serif;background:var(--bg);overflow:hidden;color:var(--text)}
+
+/* ---------- base slide ---------- */
+.slide{position:absolute;inset:0;display:none;flex-direction:column;padding:56px 90px 84px;background:var(--bg)}
+.slide.active{display:flex}
+.slide [data-a]{opacity:0;transform:translateY(26px);transition:opacity .55s ease,transform .55s cubic-bezier(.2,.7,.2,1)}
+.slide.active [data-a]{opacity:1;transform:none}
+.vfill{flex:1;display:flex;flex-direction:column;justify-content:center}
+
+.mono{font-family:'JetBrains Mono',monospace}
+.hl{color:var(--accent)}
+b,strong{font-weight:700}
+
+/* logo + kicker */
+.slogo{position:absolute;top:30px;left:56px;height:24px;z-index:40}
+.kicker{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+h1{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(30px,3.6vw,52px);line-height:1.12;letter-spacing:-.01em}
+h2{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(24px,2.6vw,38px);line-height:1.14;letter-spacing:-.01em;margin-bottom:26px}
+.sub{font-size:clamp(14px,1.15vw,17px);line-height:1.55;color:var(--muted);max-width:1050px}
+
+/* ---------- chip (motion) ---------- */
+.chip{display:inline-flex;align-items:center;gap:9px;font-family:'JetBrains Mono',monospace;
+  font-size:12.5px;font-weight:700;letter-spacing:.08em;padding:9px 16px;border-radius:9px;
+  background:var(--rule);color:#E7E6EF;box-shadow:var(--shadow);white-space:nowrap}
+.chip.ghost{background:rgba(24,23,33,.04);border:1px solid var(--bd);color:var(--accent);box-shadow:none}
+.chip .pdot{width:8px;height:8px;border-radius:50%;background:#E7E6EF;flex:0 0 8px}
+.chip.ghost .pdot{background:var(--accent);animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+
+/* ---------- card (motion) ---------- */
+.card{background:var(--surf);border:1px solid var(--bd);border-radius:12px;box-shadow:var(--shadow)}
+.card h3{font-family:'DM Sans',sans-serif;font-size:19px;font-weight:700;margin-bottom:6px}
+.card p{font-size:14px;line-height:1.5;color:var(--muted)}
+.card p b{color:var(--text)}
+
+/* icon box (motion .ri) */
+.ri{width:46px;height:46px;border-radius:11px;border:1.5px solid rgba(67,49,233,.45);
+  display:flex;align-items:center;justify-content:center;margin-bottom:14px;flex:0 0 46px;
+  background:rgba(65,48,216,.06)}
+.ri svg{stroke:var(--accent);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* note bar */
+.note{margin-top:auto;padding:16px 22px;border-radius:12px;background:rgba(65,48,216,.06);
+  border-left:4px solid var(--rule);font-size:14.5px;line-height:1.55;color:var(--text)}
+.note b{color:var(--accent)}
+
+/* status chip */
+.st{font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:700;letter-spacing:.1em;
+  padding:8px 14px;border-radius:8px;display:inline-block;border:1px solid var(--bd);
+  background:rgba(24,23,33,.04);color:var(--muted)}
+.st.ok{background:rgba(65,48,216,.10);border-color:rgba(65,48,216,.4);color:var(--accent)}
+.st.bad{background:rgba(24,23,33,.05);color:var(--text)}
+
+/* ---------- stats ---------- */
+.stats{display:flex;gap:22px;margin-top:34px}
+.stat{flex:1;background:var(--surf);border:1px solid var(--bd);border-radius:12px;
+  padding:26px 24px;box-shadow:var(--shadow)}
+.stat .num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(30px,3vw,46px);
+  line-height:1;color:var(--accent)}
+.stat .lbl{font-size:14px;color:var(--muted);margin-top:10px;line-height:1.45}
+
+/* ---------- funnel (motion A7) ---------- */
+.funil{display:flex;flex-direction:column;align-items:center;gap:0;margin-top:8px}
+.fbar{border-radius:14px;display:flex;align-items:center;justify-content:center;gap:22px;
+  border:1px solid var(--bd);box-shadow:var(--shadow);background:var(--surf)}
+.fbar .fnum{font-family:'JetBrains Mono',monospace;font-size:clamp(28px,2.6vw,40px);font-weight:700;line-height:1;color:var(--accent)}
+.fbar .flab{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;letter-spacing:.18em;color:var(--muted)}
+.fbar.hot{background:var(--rule);border-color:transparent}
+.fbar.hot .fnum,.fbar.hot .flab{color:#E7E6EF}
+.fbar.dashed{border-style:dashed;background:rgba(24,23,33,.03)}
+.fbar.dashed .fnum{color:var(--muted)}
+.flink{display:inline-flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;
+  font-size:14px;font-weight:700;padding:8px 16px;border-radius:9px;background:rgba(24,23,33,.04);
+  border:1px dashed rgba(67,49,233,.5);color:var(--accent);margin:10px 0}
+
+/* ---------- rcards (motion A4) ---------- */
+.rcards{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.rcard{background:var(--surf);border:1px solid var(--bd);border-radius:12px;padding:22px;
+  box-shadow:var(--shadow);position:relative}
+.rcard .rname{font-family:'DM Sans',sans-serif;font-size:17.5px;font-weight:700;margin-bottom:5px}
+.rcard .rdesc{font-size:13px;color:var(--muted);line-height:1.45}
+.rcard .rdesc b{color:var(--text)}
+.rcard .rst{margin-top:14px}
+.rcard.gargalo{border-color:rgba(67,49,233,.55);box-shadow:0 0 0 2px rgba(67,49,233,.18),0 0 44px rgba(65,48,216,.22),var(--shadow)}
+.rcard .gdetail{font-family:'JetBrains Mono',monospace;font-size:11.5px;color:var(--accent);
+  margin-top:12px;padding-top:11px;border-top:1px dashed rgba(67,49,233,.35);line-height:1.5}
+
+/* ---------- concorrência (motion A3 panels) ---------- */
+.panels{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.pnl{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:22px;
+  box-shadow:var(--shadow);display:flex;flex-direction:column}
+.pnl .pname{font-size:18px;font-weight:700;font-family:'DM Sans',sans-serif}
+.pnl .pcat{font-size:12.5px;color:var(--muted);margin-top:3px}
+.pnl .prate{display:flex;align-items:center;gap:10px;margin-top:14px}
+.pnl .stars{font-size:16px;letter-spacing:2px;color:var(--accent)}
+.pnl .stars .s{color:rgba(24,23,33,.18)}
+.pnl .stars .s.on{color:var(--accent)}
+.pnl .pcount{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700}
+.pnl .pwhat{margin-top:auto;padding-top:14px;font-size:13px;line-height:1.5;color:var(--muted)}
+.pnl .pchips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.pnl .pchip{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;padding:6px 10px;
+  border-radius:7px;background:rgba(24,23,33,.05);border:1px solid var(--bd);color:var(--muted)}
+.pnl.destaque{border:1.5px solid var(--rule);box-shadow:0 0 0 2px rgba(65,48,216,.15),var(--shadow)}
+.pnl.destaque .pchip.on{background:rgba(65,48,216,.10);border-color:rgba(65,48,216,.4);color:var(--accent)}
+
+/* ---------- calc ---------- */
+.calc{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:28px 30px;
+  box-shadow:var(--shadow);max-width:980px}
+.calc .linha{display:flex;justify-content:space-between;align-items:baseline;gap:20px;
+  padding:11px 0;font-size:15.5px;border-bottom:1px solid rgba(24,23,33,.07)}
+.calc .linha .v{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--text);white-space:nowrap}
+.calc .linha.total{border-bottom:none;border-top:2px solid var(--rule);margin-top:8px;padding-top:16px;
+  font-weight:700;font-size:18px}
+.calc .linha.total .v{color:var(--accent);font-size:22px}
+
+/* ---------- peças grid ---------- */
+.pecas{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.peca{background:var(--surf);border:1px solid var(--bd);border-radius:12px;padding:20px;
+  box-shadow:var(--shadow)}
+.peca .num{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:26px;color:var(--accent);line-height:1;margin-bottom:10px}
+.peca h4{font-family:'DM Sans',sans-serif;font-size:15.5px;font-weight:700;margin-bottom:6px}
+.peca p{font-size:12.5px;line-height:1.5;color:var(--muted)}
+
+/* ---------- phone (motion) ---------- */
+.phone{width:340px;height:660px;border-radius:38px;border:1px solid rgba(24,23,33,.3);
+  background:#181721;box-shadow:0 12px 40px rgba(24,23,33,.35);position:relative;overflow:hidden;flex:0 0 auto}
+.notch{position:absolute;top:11px;left:50%;transform:translateX(-50%);width:112px;height:23px;
+  border-radius:12px;background:#000;z-index:6;border:1px solid rgba(255,255,255,.12)}
+.wscreen{position:absolute;inset:9px;border-radius:30px;overflow:hidden;background:#ECE5DD;
+  display:flex;flex-direction:column}
+.whead{background:#075E54;color:#fff;padding:40px 14px 10px;display:flex;align-items:center;gap:10px;flex:0 0 auto}
+.wav{width:30px;height:30px;border-radius:50%;background:rgba(255,255,255,.22);display:flex;
+  align-items:center;justify-content:center;font-size:12px;font-weight:700;flex:0 0 30px}
+.wname{font-size:13.5px;font-weight:700;display:block}
+.won{font-family:'JetBrains Mono',monospace;font-size:9.5px;opacity:.75;display:block;margin-top:2px}
+.chat{padding:14px 12px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.bub{max-width:88%;padding:9px 12px;border-radius:12px;font-size:13px;line-height:1.45;color:#111;
+  font-family:'Plus Jakarta Sans',sans-serif}
+.bub.in{background:#fff;align-self:flex-start;border-bottom-left-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,.08)}
+.bub.out{background:#DCF8C6;align-self:flex-end;border-bottom-right-radius:4px}
+.bub .t{display:block;text-align:right;font-family:'JetBrains Mono',monospace;font-size:9px;opacity:.5;margin-top:3px}
+.bub .auto{display:block;font-family:'JetBrains Mono',monospace;font-size:9px;opacity:.6;margin-top:3px;color:#075E54}
+.wfoot{background:#F7F7F7;border-top:1px solid #e2e2e2;padding:9px 10px;text-align:center;
+  font-family:'JetBrains Mono',monospace;font-weight:700;font-size:11px;color:#5b6472;flex:0 0 auto}
+
+/* ---------- browser (motion) ---------- */
+.browser{width:600px;border-radius:14px;overflow:hidden;background:#fff;color:#000;
+  border:1px solid var(--bd);box-shadow:0 10px 34px rgba(24,23,33,.25)}
+.bbar{height:42px;background:#EFEFF3;display:flex;align-items:center;gap:8px;padding:0 16px;flex:0 0 auto}
+.bdot{width:11px;height:11px;border-radius:50%;background:rgba(24,23,33,.18)}
+.burl{flex:1;height:26px;border-radius:13px;background:rgba(24,23,33,.07);margin-left:8px;
+  display:flex;align-items:center;padding:0 14px;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:rgba(24,23,33,.55)}
+.bstage{padding:22px 26px 24px}
+.bnav{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+.blogo{font-weight:800;letter-spacing:.14em;font-size:14px}
+.blinks{display:flex;gap:18px;font-size:12px;color:rgba(24,23,33,.55);font-weight:500}
+.bhero .bh1{font-family:'DM Sans',sans-serif;font-size:24px;font-weight:800;line-height:1.12;letter-spacing:-.01em}
+.bsub{font-size:12.5px;color:rgba(24,23,33,.6);margin-top:8px;line-height:1.45;font-family:'Plus Jakarta Sans',sans-serif}
+.bfeats{display:flex;gap:10px;margin-top:16px}
+.bfeat{flex:1;border:1px solid rgba(24,23,33,.12);border-radius:10px;padding:10px 12px;background:rgba(24,23,33,.03)}
+.bft{font-size:12.5px;font-weight:700}
+.bfs{font-size:10.5px;color:rgba(24,23,33,.55);margin-top:2px;font-family:'Plus Jakarta Sans',sans-serif}
+.bcta{display:inline-flex;align-items:center;gap:8px;background:var(--rule);color:#E7E6EF;
+  font-size:13px;font-weight:600;padding:11px 20px;border-radius:8px;margin-top:16px}
+.bsocial{text-align:center;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:#6b7280;margin-top:14px}
+
+/* ---------- table ---------- */
+.tbl{width:100%;border-collapse:separate;border-spacing:0;background:var(--surf);
+  border:1px solid var(--bd);border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
+.tbl th{font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:700;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);text-align:left;padding:14px 20px;background:rgba(24,23,33,.04);
+  border-bottom:1px solid var(--bd)}
+.tbl td{padding:15px 20px;font-size:14.5px;border-bottom:1px solid rgba(24,23,33,.07);line-height:1.45;vertical-align:top}
+.tbl tr:last-child td{border-bottom:none}
+.tbl td b{font-weight:700}
+.tbl .mono{color:var(--accent);font-weight:700;white-space:nowrap}
+.tbl tr.destaque td{background:rgba(65,48,216,.06)}
+.tbl td ul{margin:0;padding-left:18px}
+.tbl td ul li{margin-bottom:5px;line-height:1.4}
+.tbl td ul li:last-child{margin-bottom:0}
+
+/* ---------- price ---------- */
+.price{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.p{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:28px 24px;
+  text-align:center;box-shadow:var(--shadow)}
+.p .val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(24px,2.2vw,34px);
+  line-height:1.1;color:var(--accent)}
+.p .cap{font-size:13.5px;color:var(--muted);margin-top:10px;line-height:1.5}
+.p .cap b{color:var(--text)}
+.p.ativo{border:2px solid var(--rule);box-shadow:0 0 0 3px rgba(65,48,216,.15),var(--shadow)}
+
+/* bullet list visível */
+ul.tops{list-style:none;display:flex;flex-direction:column;gap:12px;margin-top:14px}
+ul.tops li{padding-left:30px;position:relative;font-size:14.5px;line-height:1.5;color:var(--muted)}
+ul.tops li b{color:var(--text)}
+ul.tops li::before{content:"";position:absolute;left:0;top:.42em;width:16px;height:16px;border-radius:50%;
+  background:rgba(65,48,216,.12);border:2px solid var(--rule)}
+
+/* ---------- ancora ---------- */
+.ancora{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.ancora .col{background:var(--surf);border:1px solid var(--bd);border-radius:14px;padding:26px 28px;box-shadow:var(--shadow)}
+.ancora .t{font-family:'JetBrains Mono',monospace;font-weight:700;text-transform:uppercase;
+  letter-spacing:.14em;font-size:12px;color:var(--accent);margin-bottom:16px}
+.ancora .linha{display:flex;justify-content:space-between;align-items:baseline;gap:16px;
+  padding:11px 0;font-size:14.5px;border-bottom:1px solid rgba(24,23,33,.08)}
+.ancora .linha .v{font-family:'JetBrains Mono',monospace;font-weight:700;white-space:nowrap}
+.ancora .linha.total{font-weight:700;border-bottom:2px solid var(--rule)}
+.ancora .linha.total .v{color:var(--accent);font-size:18px}
+.ancora .linha span:first-child{color:var(--muted)}
+.payback{margin-top:18px;text-align:center;border-radius:12px;padding:20px 16px;
+  background:var(--rule);color:#E7E6EF}
+.payback .plbl{font-family:'JetBrains Mono',monospace;font-size:11px;text-transform:uppercase;
+  letter-spacing:.14em;font-weight:700;opacity:.8}
+.payback .pval{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(34px,3.4vw,52px);
+  line-height:1.05;margin:6px 0}
+.payback .pcap{font-size:12.5px;opacity:.85;line-height:1.5}
+
+/* ---------- price box / pills ---------- */
+.price-box{background:var(--rule);color:#E7E6EF;border-radius:16px;padding:28px 34px;
+  text-align:center;box-shadow:var(--shadow);max-width:980px}
+.price-box .val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:clamp(24px,2.4vw,36px)}
+.price-box .cap{font-size:14px;opacity:.85;margin-top:8px}
+.pills{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:18px}
+.garantia{display:inline-flex;align-items:center;gap:9px;border-radius:999px;padding:9px 20px;
+  font-weight:700;font-size:13.5px;background:var(--rule);color:#E7E6EF;box-shadow:var(--shadow)}
+.garantia.alt{background:rgba(24,23,33,.05);color:var(--text);border:1px solid var(--bd);box-shadow:none}
+.garantia .pdot{width:8px;height:8px;border-radius:50%;background:#E7E6EF;animation:pulse 1.6s ease-in-out infinite}
+.garantia.alt .pdot{background:var(--accent)}
+
+/* ---------- quote / contato ---------- */
+.quote{font-family:'DM Sans',sans-serif;font-weight:700;font-size:clamp(26px,2.8vw,42px);
+  line-height:1.22;letter-spacing:-.01em;text-align:center;max-width:1200px}
+.biglogo{width:340px;margin-bottom:30px}
+
+/* ---------- nav compacta ---------- */
+.nav{position:fixed;bottom:0;left:0;right:0;height:44px;display:flex;align-items:center;
+  justify-content:space-between;padding:0 18px;background:rgba(255,255,255,.8);
+  backdrop-filter:blur(10px);z-index:50;border-top:1px solid var(--bd)}
+.nav .btn{font-family:'DM Sans',sans-serif;font-weight:600;font-size:13px;color:var(--text);
+  background:rgba(24,23,33,.06);border:none;border-radius:10px;padding:7px 16px;cursor:pointer}
+.nav .btn:hover{background:var(--rule);color:#E7E6EF}
+.nav .btn:disabled{opacity:.3;cursor:default;background:rgba(24,23,33,.06);color:var(--text)}
+.nav .counter{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.06em;color:var(--muted)}
+.progress{position:fixed;top:0;left:0;height:4px;background:var(--rule);z-index:60;transition:width .25s ease}
+
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.mt8{margin-top:8px}.mt16{margin-top:16px}.mt24{margin-top:24px}.mt32{margin-top:32px}
+.center{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+
+/* ---------- ajustes por slide ---------- */
+.metod .rcard{padding:30px 34px}
+.metod .ri{width:58px;height:58px;flex:0 0 58px;border-radius:14px}
+.metod .ri svg{width:28px;height:28px}
+.metod .rname{font-size:24px;margin-bottom:8px}
+.metod .rdesc{font-size:16.5px;line-height:1.6}
+.s6 .calc{max-width:100%;padding:18px 30px}
+.s6 .calc .linha{padding:8px 0}
+.s9 .peca{padding:26px 24px}
+.s9 .peca .num{font-size:30px}
+.s9 .peca h4{font-size:17px}
+.s9 .peca p{font-size:13.5px;line-height:1.55}
+.pie{width:150px;height:150px;border-radius:50%;flex:0 0 150px}
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<!-- 1 — CAPA -->
+<section class="slide active">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="vfill center" style="text-align:center">
+    <div class="chip" data-a>DIAGNÓSTICO DE VAZAMENTO DE VENDAS · PROPOSTA</div>
+    <h1 class="mt16" data-a>Você tem <span class="hl">47 contatos por mês</span> — o plano é transformar isso em 90 clientes</h1>
+    <p class="sub mt16" data-a style="margin-left:auto;margin-right:auto">Investigação completa do funil da AgroTerra: do primeiro "oi" no WhatsApp ao honorário pago. Concorrentes auditados no Google um a um, cada vazamento com fonte, e o plano com prazo, preço e garantia.</p>
+    <div class="stats" data-a style="max-width:1150px;margin-left:auto;margin-right:auto;width:100%">
+      <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:22px">Funil</div><div class="lbl">47 contatos/mês mapeados por canal, com a operação</div></div>
+      <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:22px">Concorrentes</div><div class="lbl">auditados no Google, um por um</div></div>
+      <div class="stat"><div class="num" style="font-family:'DM Sans',sans-serif;font-size:22px">Plano</div><div class="lbl">com prazo, preço e garantia escrita</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 2 — METODOLOGIA -->
+<section class="slide metod">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>COMO ESTE DIAGNÓSTICO FOI FEITO</div>
+  <h2 data-a>Investigação do funil de vendas — <span class="hl">não um checklist</span></h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:1fr 1fr;max-width:1260px;margin:0 auto;width:100%" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 00-4-4H7a4 4 0 00-4 4v2"/><circle cx="10" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg></div>
+        <div class="rname">Entrevista com a operação</div>
+        <div class="rdesc">Funil por canal, tempo de resposta, capacidade da equipe, meta de 12 meses e quem decide — com a sócia e o sócio financeiro</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/><path d="M8 11l2 2 4-4"/></svg></div>
+        <div class="rname">Verificação campo a campo</div>
+        <div class="rdesc">Google Meu Negócio (nota, avaliações, website, posts) e Instagram visitados perfil por perfil</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="12" cy="8" r="6"/><path d="M15.5 13l1.5 8-5-3-5 3 1.5-8"/></svg></div>
+        <div class="rname">Auditoria de concorrentes</div>
+        <div class="rdesc">Nota, nº de avaliações e site de quem disputa a mesma busca em Ponta Grossa — dados do Google Maps</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M22 3H2l8 9.46V19l4 2v-8.54z"/></svg></div>
+        <div class="rname">Leitura do funil</div>
+        <div class="rdesc">Quantos contatos entram por canal, quantos fecham e onde some o resto — direto da planilha do escritório</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Concorrência e perfil do Google: <b>verificação direta em 08/10/2026</b>. Funil e operação: planilha do escritório. Cada número deste diagnóstico tem fonte declarada.</div>
+</section>
+
+<!-- 3 — FUNIL ATUAL -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>SEU FUNIL DE VENDAS HOJE · MAPEADO COM A OPERAÇÃO</div>
+  <h2 data-a>Como um cliente acontece na AgroTerra <span class="hl">agora</span></h2>
+  <div style="display:flex;gap:60px;align-items:center;flex:1">
+    <div class="funil" style="flex:1" data-a>
+      <div class="fbar" style="width:100%;height:84px"><span class="fnum">47</span><span class="flab">CONTATOS / MÊS</span></div>
+      <span class="flink">↓ 43 NÃO FECHAM — SEM FOLLOW-UP REGISTRADO</span>
+      <div class="fbar dashed" style="width:74%;height:76px"><span class="fnum">43</span><span class="flab">CAEM SEM TRILHA</span></div>
+      <span class="flink">↓ 8,5% CONVERTEM</span>
+      <div class="fbar hot" style="width:40%;height:84px"><span class="fnum">4</span><span class="flab">NOVOS CLIENTES · 8,5%</span></div>
+    </div>
+    <div style="width:330px" data-a>
+      <div class="stat" style="margin-top:0"><div class="num">4,2%</div><div class="lbl">conversão do Instagram + Google — o pior canal, com 26% dos contatos</div></div>
+      <div class="stat mt16"><div class="num">5,5 h</div><div class="lbl">de primeira resposta no WhatsApp na média</div></div>
+    </div>
+  </div>
+  <div class="note" data-a>O funil tem volume — 47 contatos/mês — mas a <b>indicação converte 25% e o digital só 4,2%</b>. Os 43 que não fecham não recebem segundo toque, não têm motivo registrado e não voltam: são a maior reserva de clientes do escritório.</div>
+</section>
+
+<!-- 4 — EVIDÊNCIA -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>EVIDÊNCIA · VERIFICAÇÃO CAMPO A CAMPO</div>
+  <h2 data-a>O que encontramos — <span class="hl">cada achado com fonte</span></h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:repeat(5,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="12" cy="8" r="6"/><path d="M15.5 13l1.5 8-5-3-5 3 1.5-8"/></svg></div>
+        <div class="rname">Reputação</div>
+        <div class="rdesc">5,0 ★ com 13 avaliações — nota impecável</div>
+        <div class="rst"><span class="st ok">✓ PONTO FORTE</span></div>
+        <div class="gdetail">fonte: verificação do GMB (08/10)</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/></svg></div>
+        <div class="rname">Website</div>
+        <div class="rdesc">O perfil do Google não tem website cadastrado</div>
+        <div class="rst"><span class="st bad">✕ ACHADO</span></div>
+        <div class="gdetail">fonte: verificação do GMB (08/10)</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 01-9 8.4L3 21l1.1-4.1A8.4 8.4 0 1121 11.5z"/></svg></div>
+        <div class="rname">WhatsApp</div>
+        <div class="rdesc">5,5 h de 1ª resposta; noite e fim de semana só na manhã seguinte</div>
+        <div class="rst"><span class="st bad">✕ ACHADO</span></div>
+        <div class="gdetail">fonte: entrevista com a operação</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M22 3H2l8 9.46V19l4 2v-8.54z"/></svg></div>
+        <div class="rname">Instagram</div>
+        <div class="rdesc">190 seguidores, 30 posts — conteúdo bom, alcance pequeno</div>
+        <div class="rst"><span class="st bad">⚠ ACHADO</span></div>
+        <div class="gdetail">fonte: verificação do perfil (08/10)</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg></div>
+        <div class="rname">Fechamento mensal</div>
+        <div class="rdesc">PDF por e-mail — "quase ninguém lê até o fim"</div>
+        <div class="rst"><span class="st bad">✕ ACHADO</span></div>
+        <div class="gdetail">fonte: entrevista — valor invisível sustenta churn</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>A AgroTerra <b>não tem problema de reputação nem de conteúdo</b> — tem problema de encontrabilidade e velocidade. Nota 5,0 e Instagram ativo existem; website no Google e resposta rápida, não.</div>
+</section>
+
+<!-- 5 — CONCORRÊNCIA -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>AUDITORIA DE CONCORRENTES · QUEM DISPUTA A MESMA BUSCA</div>
+  <h2 data-a>Quem o produtor vê <span class="hl">ao lado de você</span></h2>
+  <div class="vfill">
+    <div class="panels" data-a>
+      <div class="pnl">
+        <div class="pname">BIANCO Contabilidade</div>
+        <div class="pcat">Oficinas · Ponta Grossa</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">5,0 · 313 avaliações</span></div>
+        <div class="pwhat">Maior base de avaliações da cidade, com website no perfil</div>
+        <div class="pchips"><span class="pchip">313 avaliações</span><span class="pchip">site no GMB</span></div>
+      </div>
+      <div class="pnl">
+        <div class="pname">Garcia Contabilidade</div>
+        <div class="pcat">Cará-Cará · Ponta Grossa</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">5,0 · 124 avaliações</span></div>
+        <div class="pwhat">160+ empresas, site com planos e promessa de "WhatsApp que responde hoje"</div>
+        <div class="pchips"><span class="pchip">site + planos</span><span class="pchip">20+ anos</span></div>
+      </div>
+      <div class="pnl">
+        <div class="pname">KSB Contabilidade</div>
+        <div class="pcat">Órfãs · Ponta Grossa</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">5,0 · 119 avaliações</span></div>
+        <div class="pwhat">Site com blog, consultoria e WhatsApp de atendimento no topo da página</div>
+        <div class="pchips"><span class="pchip">site + blog</span><span class="pchip">whatsapp</span></div>
+      </div>
+      <div class="pnl destaque">
+        <div class="pname">AgroTerra Contabilidade</div>
+        <div class="pcat">Santa Paula · seu escritório</div>
+        <div class="prate"><span class="stars"><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span><span class="s on">★</span></span><span class="pcount">5,0 · 13 avaliações</span></div>
+        <div class="pwhat">Mesma nota do topo — mas sem website no perfil e 24× menos avaliações que o líder</div>
+        <div class="pchips"><span class="pchip on">mesma nota 5,0</span><span class="pchip on">sem site</span><span class="pchip on">13 avaliações</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Vocês <b>não perdem por qualidade</b> — a nota é a mesma do líder. Perdem por encontrabilidade: 6 dos 7 maiores têm website no Google, a base de avaliações deles é 10–24× maior, e o de vocês está em 13 com o digital convertendo 4,2%.</div>
+</section>
+
+<!-- 6 — QUANTIFICAÇÃO -->
+<section class="slide s6">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>QUANTIFICAÇÃO · O QUE O FUNIL DEIXA DE ENTREGAR</div>
+  <h2 data-a>Quanto isso custa <span class="hl">por mês</span></h2>
+  <div class="vfill" style="gap:16px" data-a>
+    <div class="calc">
+      <div class="linha"><span>Contatos por mês (planilha)</span><span class="v">47</span></div>
+      <div class="linha"><span>Fecham hoje — conversão 8,5%</span><span class="v">4</span></div>
+      <div class="linha"><span>Conversão conservadora (12% — indicação já faz 25%)</span><span class="v">5,6</span></div>
+      <div class="linha"><span>Ganho de captação (47 × 3,5 p.p.)</span><span class="v">+1,6 cliente/mês</span></div>
+      <div class="linha"><span>Contribuição por cliente (R$ 7.800/ano × 35%)</span><span class="v">R$ 2.730/ano · 227,50/mês</span></div>
+      <div class="linha total"><span>RITMO PLENO — CONTRIBUICÃO EXTRA</span><span class="v">+R$ 374/mês</span></div>
+      <div class="linha total"><span>EQUIVALENTE ANUAL</span><span class="v">≈ R$ 4,5 mil/ano</span></div>
+    </div>
+    <div class="cols2">
+      <div class="card" style="padding:18px 24px;display:flex;gap:16px;align-items:center">
+        <span class="ri" style="margin-bottom:0"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M12 8v5l3 2"/><circle cx="12" cy="12" r="9"/></svg></span>
+        <div><div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">CUSTO DA INÉRCIA</div><div style="font-size:16px;font-weight:600;margin-top:4px">R$ 57.330/ano de contribuição perdidos só no churn (2,5% a.m.)</div></div>
+      </div>
+      <div class="card" style="padding:18px 24px;display:flex;gap:16px;align-items:center">
+        <span class="ri" style="margin-bottom:0"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></span>
+        <div><div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">PREMISSA</div><div style="font-size:16px;font-weight:600;margin-top:4px">Capacidade 80, carteira 70 — sem +1 contratação, o ganho trava no mês 5</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a><b>Premissa honesta:</b> o ritmo pleno (+1,6 cliente/mês) só se atinge após ~90 dias de calibração; contando do zero, a contribuição acumulada cobre o setup por volta do 7º mês. Conta usa margem de <b>35% declarada pelo escritório</b> e a conservadora de 12% de conversão — ainda 13 pp abaixo da sua própria indicação.</div>
+</section>
+
+<!-- 7 — VAZAMENTOS -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>DIAGNÓSTICO · 3 PONTOS DE VAZAMENTO, CADA UM COM FONTE</div>
+  <h2 data-a>De onde exatamente sai <span class="hl">cada cliente perdido</span></h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:repeat(3,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg></div>
+        <div class="rname">1 · Digital que não converte</div>
+        <div class="rdesc">Instagram e Google trazem 26% dos contatos e convertem só <b>4,2%</b> — o pior canal. O perfil do Google nem tem website cadastrado.</div>
+        <div class="gdetail">FONTE: planilha do funil + verificação do GMB (08/10/2026)</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 01-9 8.4L3 21l1.1-4.1A8.4 8.4 0 1121 11.5z"/></svg></div>
+        <div class="rname">2 · WhatsApp que dorme</div>
+        <div class="rdesc"><b>5,5 h</b> de primeira resposta na média. Noite e fim de semana só são vistos na manhã seguinte — lead esfria antes de falar com a sócia.</div>
+        <div class="gdetail">FONTE: entrevista com a operação (08/10/2026)</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M22 3H2l8 9.46V19l4 2v-8.54z"/></svg></div>
+        <div class="rname">3 · 43 contatos sem trilha</div>
+        <div class="rdesc">Quem não fecha <b>não recebe follow-up nem vira dado</b>: sem motivo da perda, sem segundo toque, sem reativação. A conversão fica travada em 8,5%.</div>
+        <div class="gdetail">FONTE: planilha do funil (08/10/2026)</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Os três se conectam: sem resposta rápida o lead esfria; sem trilha os 43 caem toda vez; sem website o digital mal nasce. <b>O sistema fecha os três ao mesmo tempo.</b></div>
+</section>
+
+<!-- 8 — A ORDEM CERTA -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>A ORDEM CERTA · RECEITA PRIMEIRO, EFICIÊNCIA DEPOIS, ESCALA POR ÚLTIMO</div>
+  <h2 data-a>Por onde começar — <span class="hl">a ordem importa mais que a pressa</span></h2>
+  <div class="vfill" style="gap:16px;justify-content:flex-start;padding-top:4px">
+    <div class="cols2" data-a>
+      <div style="display:flex;flex-direction:column;gap:16px">
+        <div class="card" style="padding:18px 24px">
+          <div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">FRONT OFFICE · APARECER E CONVERTER</div>
+          <div style="margin-top:8px;font-size:15px;line-height:1.55"><b>Aqui está o vazamento</b> — digital 4,2%, WhatsApp 5,5 h, 43 contatos sem trilha.</div>
+        </div>
+        <div class="card" style="padding:18px 24px">
+          <div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">BACK OFFICE · OPERAÇÃO CONTÁBIL</div>
+          <div style="margin-top:8px;font-size:15px;line-height:1.55;color:var(--muted)"><b style="color:var(--text)">Sólido</b> — 70 clientes atendidos, nota 5,0, fechamento em dia.</div>
+        </div>
+      </div>
+      <div class="card" style="padding:18px 24px;display:flex;gap:22px;align-items:center">
+        <div class="pie" style="background:conic-gradient(#4130D8 0 280deg,#9A90F0 280deg 320deg,rgba(24,23,33,.18) 320deg 360deg)"></div>
+        <div>
+          <div class="mono" style="font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--accent)">A CONTAGEM DO PROBLEMA</div>
+          <div style="margin-top:8px;font-size:15px;line-height:1.55">Meta de <b>90 clientes</b> no ano · capacidade de <b>80</b> · esgota no <b>mês 5</b>.</div>
+          <div style="margin-top:8px;display:flex;flex-direction:column;gap:5px;font-size:13px;color:var(--muted)">
+            <span><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#4130D8;margin-right:7px"></span><b style="color:var(--text)">70</b> atendidos hoje</span>
+            <span><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#9A90F0;margin-right:7px"></span><b style="color:var(--text)">10</b> espaço livre (até a capacidade 80)</span>
+            <span><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:rgba(24,23,33,.18);margin-right:7px"></span><b style="color:var(--text)">10</b> sem capacidade (falta pra meta 90)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="rcards" style="grid-template-columns:repeat(3,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg></div>
+        <div class="rname">Receita — agora</div>
+        <div class="rdesc">GMB completo + landing page + follow-up dos 43. Fecha os <b>vazamentos 1 e 3</b>: é onde está a receita travada.</div>
+        <div class="gdetail">CAMADA Q1 · IMEDIATO</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M12 8v5l3 2"/><circle cx="12" cy="12" r="9"/></svg></div>
+        <div class="rname">Eficiência — depois</div>
+        <div class="rdesc">WhatsApp com primeira resposta em minutos e triagem fora de horário. Fecha o <b>vazamento 2</b> e devolve horas pra operação.</div>
+        <div class="gdetail">CAMADA EFICIÊNCIA · 30 DIAS</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 00-4-4H7a4 4 0 00-4 4v2"/><circle cx="10" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg></div>
+        <div class="rname">Escala — por último</div>
+        <div class="rdesc">+1 contratação <b>antes do mês 5</b>, quando o funil calibrado encher as 10 vagas. Escalar antes de converter é pagar pra escorrer.</div>
+        <div class="gdetail">CAMADA ESCALA · MÊS 4–5</div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Regra do framework: <b>receita primeiro</b>. Instalar captação e conversão antes de eficiência; eficiência antes de escala. Cada vazamento do slide anterior está classificado por camada — nada entra fora de ordem.</div>
+</section>
+
+<!-- 9 — SISTEMA -->
+<section class="slide s9">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>A SOLUÇÃO · O QUE SERÁ INSTALADO</div>
+  <h2 data-a>Sistema de captação da AgroTerra — <span class="hl">4 peças</span></h2>
+  <div class="vfill">
+    <div class="pecas" data-a>
+      <div class="peca"><div class="num">01</div><h4>GMB completo</h4><p>Website anexado ao perfil, fotos do escritório e da equipe, post semanal, resposta a toda avaliação — a nota 5,0 passa a ser encontrada</p></div>
+      <div class="peca"><div class="num">02</div><h4>Landing page do produtor rural</h4><p>Uma página para "contador para produtor rural PJ" em Ponta Grossa — destino do Google e do Instagram, CTA direto no WhatsApp</p></div>
+      <div class="peca"><div class="num">03</div><h4>WhatsApp em minutos</h4><p>Primeira resposta automática em menos de 1 minuto, 24/7, com as 3 perguntas de triagem; humana no horário comercial</p></div>
+      <div class="peca"><div class="num">04</div><h4>Follow-up dos 43</h4><p>Sequência de 3 toques em 7 dias para todo contato que não fecha — com motivo da perda registrado em planilha</p></div>
+      <div class="peca" style="grid-column:1/-1;display:flex;gap:20px;align-items:center">
+        <div class="num" style="margin-bottom:0">→</div>
+        <div><h4>Regra de ouro</h4><p>Se a peça não move "contato → conversa → honorário", ela não entra. Zero métrica de vaidade: nada de curtidas, alcance ou seguidores como meta.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 10 — PEÇA-CHAVE -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>A PEÇA-CHAVE · COMO O PRODUTOR RURAL ENCONTRA E CONVERTE</div>
+  <h2 data-a>Da busca no Google ao WhatsApp — <span class="hl">sem lead esfriando</span></h2>
+  <div style="display:flex;gap:36px;align-items:center;flex:1;justify-content:center">
+    <div style="width:245px;height:475px;position:relative;flex:0 0 auto" data-a>
+    <div class="phone" style="position:absolute;top:0;left:0;transform:scale(.72);transform-origin:top left">
+      <div class="notch"></div>
+      <div class="wscreen">
+        <div class="whead"><span class="wav">A</span><span><span class="wname">AgroTerra Contabilidade</span><span class="won">whatsapp business · online 24/7</span></span></div>
+        <div class="chat">
+          <div class="bub in">Boa noite! Preciso de contador pro CNPJ da fazenda, tem como ajudar?<span class="t">21:47</span></div>
+          <div class="bub out">Boa noite! Recebido — já anotei seu CNPJ e a atividade. São 3 rapidinhas: faturamento por ano, quem é o sócio e se já tem funcionário?<span class="auto">resposta automática · 0,2s</span></div>
+          <div class="bub in">Uns R$ 2 milhões, eu e meu irmão, 2 funcionários<span class="t">21:49</span></div>
+          <div class="bub out">Combinado! Amanhã às 9h te retorno já com o passo a passo e o honorário fechado pra seu caso.<span class="auto">qualificação completa · lead na fila da manhã</span></div>
+        </div>
+        <div class="wfoot">01 · PRIMEIRA RESPOSTA EM &lt;1 MIN · 24/7</div>
+      </div>
+    </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:16px;width:700px;flex:0 0 auto" data-a>
+      <div class="browser" style="width:100%">
+        <div class="bbar"><span class="bdot"></span><span class="bdot"></span><span class="bdot"></span><div class="burl">agroterra.com.br/produtor-rural</div></div>
+        <div class="bstage">
+          <div class="bnav"><span class="blogo">AGROTERRA</span><span class="blinks"><span>Produtor rural</span><span>Holding</span><span>Serviços</span></span></div>
+          <div class="bhero">
+            <div class="bh1">Contador para produtor rural PJ em Ponta Grossa</div>
+            <div class="bsub">Escrituração, impostos e obrigações do seu CNPJ sem você correr atrás — 12 anos atendendo o agro da região.</div>
+          </div>
+          <div class="bfeats">
+            <div class="bfeat"><div class="bft">Resposta em minutos</div><div class="bfs">WhatsApp, 24/7</div></div>
+            <div class="bfeat"><div class="bft">12 anos · 70+ empresas</div><div class="bfs">atendimento regional</div></div>
+            <div class="bfeat"><div class="bft">5,0 no Google</div><div class="bfs">nota dos clientes</div></div>
+          </div>
+          <span class="bcta">Falar no WhatsApp agora</span>
+          <div class="bsocial">★ 5,0 · AgroTerra Contabilidade · Santa Paula</div>
+        </div>
+      </div>
+      <div style="display:flex;gap:12px;width:100%">
+        <span class="chip ghost" style="flex:1 1 auto;justify-content:center"><span class="pdot"></span> 4,2% → META 10% EM 90 DIAS</span>
+        <span class="chip ghost" style="flex:1 1 auto;justify-content:center"><span class="pdot"></span> GMB COM WEBSITE</span>
+        <span class="chip ghost" style="flex:1 1 auto;justify-content:center"><span class="pdot"></span> FOLLOW-UP 7 DIAS</span>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a>Esta peça fecha o vazamento 1 (digital que não converte) e o 3 (43 sem trilha): <b>mesmo lead, resposta imediata, trilha registrada</b>. O WhatsApp acima fecha o vazamento 2. Nada aqui substitui a sócia — tira das costas dela a primeira resposta e a triagem.</div>
+</section>
+
+<!-- 11 — MÉTRICAS -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>DO CONTATO AO HONORÁRIO · COMO CADA PEÇA VENDE</div>
+  <h2 data-a>Cada peça com <span class="hl">métrica de venda</span> — não de vaidade</h2>
+  <div class="vfill">
+    <table class="tbl" data-a>
+      <tr><th style="width:26%">Peça</th><th style="width:30%">O que move</th><th>Métrica de venda</th></tr>
+      <tr><td><b>01 · GMB completo</b></td><td>Busca local em Ponta Grossa</td><td class="mono">Contatos vindos do perfil Google/mês (hoje: 0 — sem website)</td></tr>
+      <tr><td><b>02 · Landing page produtor rural</b></td><td>Conversão do digital (4,2% →)</td><td class="mono">Visita → conversa no WhatsApp (meta ≥ 10%)</td></tr>
+      <tr><td><b>03 · WhatsApp &lt;1 min</b></td><td>Velocidade de resposta (5,5 h →)</td><td class="mono">1ª resposta &lt; 1 min (auto) · humana ≤ 2 h no horário</td></tr>
+      <tr><td><b>04 · Follow-up dos 43</b></td><td>Recuperação do que não fechou</td><td class="mono">Contatos recuperados em 7 dias + motivo da perda registrado</td></tr>
+      <tr class="destaque"><td><b>Régua de gestão</b></td><td>O funil inteiro</td><td class="mono">Conversão geral: 8,5% hoje → 10% (30 d) → 12% (90 d)</td></tr>
+    </table>
+  </div>
+  <div class="note" data-a><b>Regra de ouro desta entrega:</b> tudo que não puder ser medido em "contato → conversa → honorário" não entra no escopo. Se não move cliente, não é peça do sistema.</div>
+</section>
+
+<!-- 12 — PRECIFICAÇÃO -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>PRECIFICAÇÃO · SETUP PADRÃO + OPERAÇÃO MENSAL</div>
+  <h2 data-a>Dois valores, direto ao ponto — <span class="hl">sem letras miúdas</span></h2>
+  <div class="price" data-a>
+    <div class="p ativo"><div class="val">R$ 10.000</div><div class="cap"><b>Setup</b> — implantação única das 4 peças com automação de WhatsApp (nível intermediário)</div></div>
+    <div class="p"><div class="val">R$ 500<span style="font-size:.55em">/mês</span></div><div class="cap"><b>Operação</b> — o sistema vivo, revisado e ajustado todo mês</div></div>
+    <div class="p"><div class="val">0%</div><div class="cap"><b>Sobre seus honorários</b> — não cobramos comissão nenhuma</div></div>
+  </div>
+  <div class="cols2 mt24" data-a>
+    <div class="card" style="padding:24px 28px">
+      <h3>O que entra no setup (R$ 10.000)</h3>
+      <ul class="tops">
+        <li>GMB completo (website, fotos, posts, respostas)</li>
+        <li>Landing page do produtor rural PJ + automação do WhatsApp</li>
+        <li>Follow-up de 7 dias nos 43 contatos/mês + medição de origem e conversão</li>
+        <li>Nível intermediário da escada — com automação e integração de WhatsApp</li>
+        <li>Níveis base (R$ 5 mil, sem automação) e alto (R$ 15 mil, CRM sob medida) não se aplicam agora</li>
+      </ul>
+    </div>
+    <div class="card" style="padding:24px 28px">
+      <h3>O que entra na operação (R$ 500/mês)</h3>
+      <ul class="tops">
+        <li>Revisão quinzenal: o que não está virando conversa, a gente ajusta</li>
+        <li>Relatório mensal de contatos por canal e conversão por canal</li>
+        <li>Motivos de perda registrados mês a mês</li>
+        <li>Suporte e correções</li>
+        <li>Evolução contínua das automações</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note" data-a>Sem porcentagem sobre honorários: nosso ganho é o setup + a operação mensal. <b>Previsível pra você, sem conflito de interesse</b> — nossa meta é a sua meta, medida em contatos que viram cliente.</div>
+</section>
+
+<!-- 13 — GARANTIA / ANCORAÇÃO -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>ANCORAGEM DE PREÇO · A CONTA QUE O ESCRITÓRIO FAZ SOZINHO</div>
+  <h2 data-a>O vazamento dele custa <span class="hl">muito mais</span> que o setup da APSIDE</h2>
+  <div class="vfill">
+    <div class="ancora" data-a>
+      <div class="col">
+        <div class="t">O prejuízo da inércia</div>
+        <div class="linha"><span>Contatos/mês que não fecham, sem trilha</span><span class="v">43</span></div>
+        <div class="linha"><span>Churn (2,5% a.m.) — clientes/ano perdidos</span><span class="v">~21</span></div>
+        <div class="linha"><span>Receita média por cliente</span><span class="v">R$ 7.800/ano</span></div>
+        <div class="linha"><span>Margem de lucro declarada</span><span class="v">35%</span></div>
+        <div class="linha"><span>Contribuição por cliente</span><span class="v">R$ 2.730/ano · 227,50/mês</span></div>
+        <div class="linha"><span>Funil parado em 8,5% → 12% — +1,6 cliente/mês perdidos</span><span class="v">R$ 374/mês</span></div>
+        <div class="linha total"><span>Perda por ano (churn + funil)</span><span class="v">≈ R$ 61,8 mil</span></div>
+      </div>
+      <div class="col">
+        <div class="t">O que a APSIDE cobra</div>
+        <div class="linha"><span>Setup — implantação única das 4 peças</span><span class="v">R$ 10.000</span></div>
+        <div class="linha"><span>Operação mensal</span><span class="v">R$ 500/mês</span></div>
+        <div class="linha"><span>Comissão sobre honorários</span><span class="v">0%</span></div>
+        <div class="payback">
+          <div class="plbl">Payback estimado do escritório</div>
+          <div class="pval">~7º mês</div>
+          <div class="pcap">Contando do zero: +1,6 cliente/mês acumula a contribuição de R$ 227,50/mês por cliente (margem de 35%) e cobre os R$ 10.000 de setup por volta do 7º mês.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a><b>Garantia de 90 dias por escritura:</b> se em 90 dias a conversão não chegar a 12%, ajustamos até chegar, sem custo extra. O setup de R$ 10.000 equivale a <b>~2 meses do que o problema custa</b> (churn + funil somam ~R$ 5,2 mil/mês).</div>
+</section>
+
+<!-- 14 — CRONOGRAMA -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>EXECUÇÃO · PRAZOS CONSERVADORES DE PROPÓSITO</div>
+  <h2 data-a>Cronograma: <span class="hl">prometemos com folga, entregamos adiantado</span></h2>
+  <div class="vfill">
+    <table class="tbl" data-a>
+      <tr><th style="width:13%">Período</th><th style="width:24%">Entrega</th><th>O que você vê no ar</th></tr>
+      <tr><td class="mono">Dias 1–10</td><td><b>GMB completo</b></td><td><ul><li>Website anexado ao perfil</li><li>Fotos do escritório e da equipe</li><li>Post semanal + resposta a toda avaliação</li></ul></td></tr>
+      <tr><td class="mono">Dias 10–21</td><td><b>Landing page do produtor rural</b></td><td><ul><li>Página no ar, destino do Google e do Instagram</li><li>CTA de WhatsApp rastreado por origem</li></ul></td></tr>
+      <tr><td class="mono">Dias 21–30</td><td><b>WhatsApp em minutos</b></td><td><ul><li>Resposta automática &lt;1 min com as 3 perguntas</li><li>Triagem fora do horário comercial</li></ul></td></tr>
+      <tr><td class="mono">Dias 30–45</td><td><b>Follow-up dos 43</b></td><td><ul><li>Sequência de 3 toques em 7 dias no ar</li><li>Motivo da perda registrado a cada não fechamento</li></ul></td></tr>
+      <tr><td class="mono">Dia 60</td><td><b>1º relatório completo</b></td><td><ul><li>Contatos e conversão por canal</li><li>Ajustes definidos por dados reais</li></ul></td></tr>
+      <tr class="destaque"><td class="mono">Dia 90</td><td><b>Checkpoint de garantia</b></td><td><ul><li>Conversão ≥ 12%?</li><li>Sim → escala (contratação) · Não → ajuste grátis até bater</li></ul></td></tr>
+    </table>
+  </div>
+  <div class="note" data-a>Por que prazos com folga? Porque <b>atrasar entrega é o que mata confiança</b>. Preferimos prometer 21 dias e entregar em 10 — do que prometer 10 e entregar em 21. Você nunca espera a gente.</div>
+</section>
+
+<!-- 15 — FECHAMENTO -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="kicker" data-a>FECHAMENTO · O QUE MUDA A PARTIR DE AMANHÃ</div>
+  <h2 data-a>De <span class="hl">4 clientes por mês</span> pra um sistema medindo cada conversão</h2>
+  <div class="vfill">
+    <div class="rcards" style="grid-template-columns:repeat(3,1fr)" data-a>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div>
+        <div class="rname">Hoje</div>
+        <div class="rdesc">47 contatos, 4 clientes, conversão 8,5%, digital a 4,2%, WhatsApp a 5,5 h e 43 caídos por mês. <b>Meta de 90 esbarra na capacidade no mês 5.</b></div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div>
+        <div class="rname">Em 30 dias</div>
+        <div class="rdesc">GMB com website, landing page no ar, WhatsApp respondendo em minutos. <b>Primeira leitura de conversão por canal.</b> Conversão alvo: 10%.</div>
+      </div>
+      <div class="rcard">
+        <div class="ri"><svg width="22" height="22" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M7 15l4-5 3 3 5-7"/></svg></div>
+        <div class="rname">Em 90 dias</div>
+        <div class="rdesc">Funil medido ponta a ponta, follow-up recuperando o que caía. <b>Conversão 12% — +1,6 cliente/mês</b>, caminho aberto pros 90 clientes.</div>
+      </div>
+    </div>
+    <div class="mt24" style="display:flex;flex-direction:column;align-items:center;gap:0" data-a>
+      <div class="price-box">
+        <div class="val">R$ 10.000 setup + R$ 500/mês</div>
+        <div class="cap">4 peças implantadas · automação de WhatsApp · operação revisada quinzenalmente · sem comissão sobre honorários</div>
+      </div>
+      <div class="pills">
+        <span class="garantia"><span class="pdot"></span> Garantia de 90 dias por escrito — conversão a 12% ou ajuste grátis até atingir</span>
+        <span class="garantia alt"><span class="pdot"></span> Cada mês de espera: ≈ R$ 61,8 mil/ano de contribuição saindo pela porta</span>
+      </div>
+    </div>
+  </div>
+  <div class="note" data-a><b>Próximo passo:</b> aprovação com o sócio financeiro = kickoff na semana seguinte = GMB completo já na primeira semana. A decisão está com vocês.</div>
+</section>
+
+<!-- 16 — CONTATO -->
+<section class="slide">
+  <img class="slogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE">
+  <div class="center" style="flex:1;justify-content:center">
+    <img class="biglogo" src="../../../identidade/logo-apside-claro.svg" alt="APSIDE" data-a>
+    <div class="quote" data-a>"Não vendemos presença no Google.<br>Vendemos <span class="hl">contatos qualificados</span> que viram honorário pago."</div>
+    <div class="cols2 mt32" style="max-width:980px;width:100%" data-a>
+      <div class="card" style="padding:24px 28px">
+        <h3 class="hl">Guilherme · APSIDE</h3>
+        <p style="margin-top:10px">WhatsApp: <b>(42) 99995-5452</b><br>wa.me/5542999955452<br>Ponta Grossa, PR</p>
+      </div>
+      <div class="card" style="padding:24px 28px">
+        <h3 class="hl">Documentos deste diagnóstico</h3>
+        <p style="margin-top:10px">Relatório completo: <b>diagnostico-vendas-agroterra-2026-10-08.md</b><br>Cálculos, fontes de dados e decisão de escopo e preço.</p>
+      </div>
+    </div>
+    <p class="sub mt24" style="text-align:center;font-size:13px" data-a>APSIDE · apresentação de teste com dados simulados · 08/10/2026</p>
+  </div>
+</section>
+
+<div class="nav">
+  <button class="btn" id="prev">← Anterior</button>
+  <span class="counter" id="counter">1 / 16</span>
+  <button class="btn" id="next">Próxima →</button>
+</div>
+
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+function show(n){
+  i=Math.max(0,Math.min(slides.length-1,n));
+  slides.forEach((s,k)=>{
+    s.classList.toggle('active',k===i);
+    if(k!==i) s.querySelectorAll('[data-a]').forEach(el=>{el.style.transitionDelay='0ms'});
+  });
+  const cur=slides[i].querySelectorAll('[data-a]');
+  cur.forEach((el,j)=>{ el.style.transitionDelay=(j*70)+'ms'; });
+  document.getElementById('counter').textContent=(i+1)+' / '+slides.length;
+  document.getElementById('progress').style.width=((i+1)/slides.length*100)+'%';
+  document.getElementById('prev').disabled=i===0;
+  document.getElementById('next').disabled=i===slides.length-1;
+}
+document.getElementById('prev').onclick=()=>show(i-1);
+document.getElementById('next').onclick=()=>show(i+1);
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown'){e.preventDefault();show(i+1)}
+  if(e.key==='ArrowLeft'||e.key==='PageUp'){e.preventDefault();show(i-1)}
+  if(e.key==='Home')show(0);
+  if(e.key==='End')show(slides.length-1);
+});
+show(0);
+</script>
+</body>
+</html>

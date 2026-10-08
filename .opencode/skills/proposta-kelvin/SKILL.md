@@ -81,18 +81,18 @@ slides 8–15, passar por esta análise e registrar a decisão no diagnóstico:
 | # | Slide | Regra |
 |---|-------|-------|
 | 1 | Capa | **SEM valores de perda** — manter curiosidade |
-| 2 | Metodologia | Só "o que analisamos" — **nunca** "o que não fazemos" |
+| 2 | Metodologia | Só "o que analisamos" — **nunca** "o que não fazemos". **Cards grandes** (aprendido 08/10): padding ≥30px, título ≥24px, texto ≥16px — card miúdo passa sensação de amadorismo |
 | 3 | Funil atual | % de conversão em cada etapa, apresentável |
-| 4 | Evidência campo a campo | Tabela verificação → impacto |
+| 4 | Evidência campo a campo | Tabela verificação → impacto. **Sem "brilho" decorativo**: box-shadow colorido/glow só em card com significado real (ex.: gargalo) — card comum nunca ganha destaque visual |
 | 5 | Concorrentes | Obrigatório: nota + avaliações + o que fazem; cliente destacado |
-| 6 | Quantificação | Cálculo + **premissa honesta** (limitação física/ocupação) + margem de lucro do setor para payback |
+| 6 | Quantificação | Cálculo **full-width no topo**, cards secundários (custo da inércia / premissa) **abaixo, lado a lado** — nunca coluna estreita ao lado do cálculo. **Conta certa:** contribuição mensal = anual ÷ 12 (R$ 2.730/ano = R$ 227,50/mês); ganho = +1,6 cliente/mês × R$ 227,50 = **+R$ 374/mês**, nunca rotular valor anual como "/mês" (erro da AgroTerra: R$ 4.482/mês) |
 | 7 | Vazamentos | Cada um com **fonte citada** |
-| 8 | A ordem certa | Framework `vendas/framework-crescimento-ia.md`: mapa simplificado do negócio do cliente (front office = onde o vazamento está) + a ordem — ① **Receita (Q1)** agora → ② Eficiência depois → ③ Escala por último. Classificar cada vazamento do slide 7 por **camada/quadrante**. **Regra:** mostrar foco e por onde começar — máx 1 tela, sem virar aula de framework |
-| 9 | Sistema | Grid numerado 01–N (nunca lista feia) — N e composição saem do gargalo do passo 4, não da ANG |
-| 10 | Peça-chave | **Mocks tangíveis** (URL, headline, bullets, CTA) — LPs múltiplas só se captação por público; senão mock da peça que existe (conversa automatizada, página de orçamento) |
+| 8 | A ordem certa | Framework `vendas/framework-crescimento-ia.md`: **front office e back office em cards separados** (vazamento vs operação sólida) + a ordem — Receita (Q1) agora → Eficiência depois → Escala por último, **sem ①②③ nos títulos**. "A contagem do problema" ganha **pizza sólida** (`conic-gradient`, sem furo) com legenda. Classificar cada vazamento do slide 7 por **camada/quadrante**. **Regra:** máximo 1 tela, sem virar aula de framework |
+| 9 | Sistema | Grid numerado 01–N (nunca lista feia) — N e composição saem do gargalo do passo 4, não da ANG. Card extra/rodapé ocupa **`grid-column:1/-1` (largura total)** — nunca span parcial que deixa célula vazia (desproporção) |
+| 10 | Peça-chave | **Mocks tangíveis** (URL, headline, bullets, CTA). Browser mock e linha de chips embaixo na **mesma largura, bordas alinhadas** (largura fixa no wrapper, `width:100%` em ambos, chips `flex:1 1 auto`); phone escalado (`transform:scale` + wrapper com tamanho reservado) pra caber sem cortar a barra de nota. **Nunca:** mock cortado ou desalinhado dos cards de baixo |
 | 11 | Métricas | Métrica de venda por peça — zero métrica de vaidade |
-| 12 | Preço | 2 valores: setup por nível (5/10/15k — nível decidido no passo 4) + mensalidade (R$500+). **NUNCA % sobre vendas** |
-| 13 | Garantia | "O risco é nosso, resultado medido junto" + payback por margem de lucro do setor |
+| 12 | Preço | 2 valores: setup por nível (5/10/15k — nível decidido no passo 4) + mensalidade (R$500+). **NUNCA % sobre vendas**. Colunas irmãs equilibradas: **mesmo nº de itens (~5) e alturas iguais** — dividir bullets pra nenhum card ficar vazio |
+| 13 | Garantia | "O risco é nosso, resultado medido junto" + payback por margem de lucro do setor. **Linha explícita "Margem de lucro declarada — X%"**; totais tem que fechar (churn + funil somados = total anual); payback **contando do zero (acumulado)**, não run-rate — e propagar qualquer correção de número pro `.md` do diagnóstico e aos demais slides |
 | 14 | Cronograma | **Conservador**: se demora 7 dias, promete 7–14 — entregar adiantado |
 | 15 | Fechamento | Conversão (hoje/30/90 dias), 2 valores condensados, próximo passo claro |
 | 16 | Contato | Frase-âncora + WhatsApp + documentos |
@@ -108,6 +108,10 @@ slides 8–15, passar por esta análise e registrar a decisão no diagnóstico:
 - Payback: calcular pela **margem de lucro do setor do cliente** (média de
   mercado), nunca por receita bruta. Fórmula: lucro/dia = ticket médio × margem
   do setor; payback = setup ÷ lucro/dia. Declarar a margem usada e a fonte.
+  Quando o ganho é recorrente e se acumula mês a mês (novos clientes/percentual
+  de conversão), apresentar **também** o payback acumulado contando do zero —
+  e nunca misturar os dois (run-rate rotulado como verba imediata = erro da
+  AgroTerra).
 
 ### 6. Render dos previews
 
@@ -131,6 +135,30 @@ node ".opencode/skills/proposta-kelvin/render.cjs" "camin/para/o/deck.html"
 - Slide 14 com prazos folgados; leitura visual dos slides 1, 5, 8, 10, 12, 14, 15.
 - **Payback calculado por margem de lucro do setor** (não receita bruta) —
   margem declarada no slide e no diagnóstico.
+- **QA numérico (antes de entregar):** conferir cada conta do deck —
+  contribuição mensal = anual ÷ 12; totais = soma das linhas; payback = setup ÷
+  (perda mensal) bate com a nota. Achar número misturando ano/mês (ex.:
+  "+R$ 4.482/mês" vindo de 1,6 × R$ 2.730/**ano**) = corrigir em **todos** os
+  slides + no `.md` do diagnóstico de uma vez (fonte única propaga).
+
+### QA programático (obrigatório quando a leitura de imagem falhar)
+
+O harness às vezes entrega **mídia errada/stale** na leitura de PNG (imagem de
+outro slide, cache repetido) — nunca concluir validação visual só pelo que
+"pareceu" vir. Após o render, rodar checagem de geometria no DOM (puppeteer,
+script temporário semelhante ao `render.cjs`) e só então tentar a leitura
+visual:
+
+1. **Overflow:** todo filho direto de cada `.slide` com `bottom ≤ 767` e
+   `right ≤ 1441` (view 1440×810, nav 44px) — pega nota de rodapé cortada.
+2. **Texto clipado:** em `.card/.rcard/.p/.col/.peca/.calc/.stat/.pnl`,
+   `scrollHeight ≤ clientHeight + 2` (e idem para width).
+3. **Regras do pedido:** comparar larguras/posições declaradas (ex.: browser
+   vs linha de chips com delta 0px; cálculo acima dos cards; alturas iguais em
+   colunas irmãs) e asserts de texto (números novos presentes, antigos ausentes).
+4. Se a leitura visual devolver mídia trocada: repetir com arquivo de nome
+   novo — se persistir, **validar por geometria** e avisar o operador pra
+   conferir os PNGs com o olho humano.
 
 ## Notas
 
