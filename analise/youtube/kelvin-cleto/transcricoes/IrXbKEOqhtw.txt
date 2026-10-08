@@ -1,0 +1,626 @@
+﻿# Transcrição — Masterclass: Consultoria de IA Para Empresas (2026)
+
+- URL: https://www.youtube.com/watch?v=IrXbKEOqhtw
+- Canal: Kelvin Cleto | Publicado: 08/10/2026 | Duração: 54:36
+- Método: yt-dlp (áudio) + faster-whisper small (int8, VAD) — vídeo novo, sem legendas oficiais
+- Atenção: transcrição automática — termos técnicos podem estar errados (ex.: "com amigo", "Homem", "Gotu")
+[00:03] fala galera meu deus cara eu deus é possível gente eu tento tentando de
+[00:10] verdade fazer essa live eu tô tentando eu não sei por que meu bs tá caindo eu
+[00:18] não sei o que está acontecendo eu não sei o que está acontecendo eu não tenho
+[00:24] ideia peraí vou até vou vamos vamos extravar isso aqui e quem vai cantar
+[00:33] Vamo ficar na energia, consegui fazer essa live aqui pra você, ai galera, vamo que vamo,
+[00:49] voltando, voltando, peço desculpas pra quem tava na primeira live, meu OBS que é o software
+[00:57] que eu transmito aqui os vídeos, ele está travando, ele literalmente para de funcionar
+[01:04] assim do nada. E aí eu não tô conseguindo fazer. Mas agora vai dar certo. Agora já
+[01:10] deu certo. Deixa eu ver se tá transmitindo agora. Será que agora está transmitindo?
+[01:25] Fazer. Mas agora tá transmitindo. We back. Estamos de volta. Boa. Cara, que loucura,
+[01:36] que loucura, faz parte né, faz parte. Deixa eu só ver agora como que eu consigo voltar
+[01:45] a visualizar o que vocês estão falando comigo aqui. Live chat, tá tudo ok, changes, tudo
+[01:53] certinho, só que eu quero ver em tempo real o que vocês estão falando. Está sim,
+[02:07] qual a diferença? Voltamos, tão de volta, tão de volta! Gente ó, eu vou fazer a
+[02:12] última tentativa. Se, por algum motivo, cair, me comprometo a vocês de gravar esse conteúdo
+[02:21] aqui e soltar ainda hoje. Então, isso aqui vai pro ar, por bem ou por mal? Simples assim.
+[02:29] Então vai por bem ou vai por mal? Resumindo, vou voltar aqui porque, como esse vídeo aqui
+[02:34] já foi gravado, vamos lá, seguinte, a gente tá falando aqui, vamos falar sobre consultorias
+[02:38] de inteligência artificial. Então, qual é a diferença do consultor tradicional para um
+[02:43] consultor de A? O que vai acontecer? Todo consultor vai ter que virar um consultor de A em algum
+[02:50] momento. Ah, que alvinha, isso é mentira, isso não existe, isso não tem como tá tudo
+[02:53] bem. Crença sua, opinião minha, faz parte da vida e assim, cada um acredita naquilo
+[03:01] que faz sentido. Só que com o avanço da inteligência artificial, o modo como
+[03:06] algumas empresas querem inteligência artificial, não faz sentido mais, o consultor agir como
+[03:14] 1990, agir como 2020, 2015, 2010, acabou, isso acabou. Então o foco do consultor de A é entender
+[03:29] mapear, então ele tem que entender do negócio, ele vai ter que se aprofundar na empresa, só que
+[03:34] ele também vai ter que entregar parte da execução, ele pode entregar a inteligência artificial,
+[03:40] ele pode entregar uma estrutura completa, ele pode criar a própria ferramenta, então ele
+[03:46] pode, cara, hoje vocês podem criar a própria ferramenta de vocês com inteligência artificial
+[03:52] e com a metodologia do consultor lá dentro e com partes de coisas que são comuns em
+[03:59] problemas de empresa. Isso é totalmente factível e eu acho que esse é algo incrível se fazer, tá?
+[04:05] Então, quando a gente fala de consultor para o consultor de A, o modelo de negócio aqui é
+[04:12] o escopo fechado. O cara contrata o consultor, o consultor fica 3 meses trabalhando lá e acabou,
+[04:17] terminou o projeto. O consultor de A, ele tem a oportunidade, como ele vai entregar parte do
+[04:23] ele pode cobrar recorrência, gente. Ele pode cobrar recorrência. Ele pode cobrar os
+[04:30] três primeiros meses lá, a pancada, vamos supor 20k por mês, um contrato de três meses e 60 mil.
+[04:36] E depois que finalizar todo o processo de plantação, ele pode cobrar lá mais 5k,
+[04:41] mais 10k, diminuir o valor, 10 mil, tá? 10k aqui é 10 mil, só vocês saberem.
+[04:47] Tudo vai depender de quem? Do tamanho da empresa. Um ponto importante do consultor
+[04:52] O consultor de A não é necessário para empresas pequenas, empresas, vocês sabem, eu já falo
+[05:00] muito isso para vocês, é empresas que faturam, eu não vejo muita necessidade de uma consultoria
+[05:08] para uma empresa que fatura menos de 5 milhões, por exemplo, de verdade, não sei se faz
+[05:14] muito esse título, talvez até menos que 10 milhões, porque eu acho que é muita
+[05:19] energia para pouco resultado aqui, é uma opinião minha, tá? Então o consultor de A ele encaixa
+[05:28] muito em empresas já médio-porte de 10 a não sei quantos milhões, aqui N milhões, N milhões,
+[05:35] tranquilamente, sem problema nenhum. Agora vamos olhar aqui ó, então o Ford é para a
+[05:40] indeniga, expliquei para vocês, e o que vocês tem que pensar? Qual que é o, qual que é a
+[05:47] pergunta que um consultor de L tem que responder. Pô, ele entrou na empresa, ele mapeou o processo,
+[05:54] ele vai entregar alguma coisa. Como ele vai entregar o que? Ele tem que responder algumas
+[05:59] perguntas, como? Como que esse processo ele funciona de verdade? Quais sistemas estão
+[06:05] envolvidos nessa empresa? O que que já tem? Aonde estão os dados? O que que precisa
+[06:11] integrar ou deixar de integrar? O que que é código aqui dentro? O que que é automação?
+[06:15] o que que realmente precisa de LLM, como colocar isso aqui em produção, o que que
+[06:21] faz sentido entrar em produção primeiro, ou depois escalar a operação, então o
+[06:27] conceito aqui do consultor de A é entrar na empresa, ele entra na operação, na
+[06:39] operação, ele entende os gargalos, depois que ele entende os gargalos, ele resolve
+[06:51] esses gargalos com IA. Só que aqui tem um ponto muito legal, que é o que? A IA tem que
+[07:01] estar no cerno da empresa, então ela não pode estar desaconponhada de processo. Então
+[07:07] é inteligência artificial, mas processo, sempre olhando para o que? Para resultado.
+[07:15] Para resultado. Aquela estruturação de processo, aquela inteligência artificial,
+[07:21] nova ferramenta, tem que gerar resultado. E aqui, quando você começa a entender estes gargalos,
+[07:28] como você começa a olhar para o processo de forma profunda, você vai começar a encontrar
+[07:33] coisas como isso daqui, ó. Por exemplo, vou pegar, isso aqui é um processo que eu vou mostrar para
+[07:38] vocês, ó. Pô, um mapeamento. Telefonia, usa uma ferramenta chamada com amigo, usa o como também
+[07:45] também aqui e aí existem oito planilhas de Excel que precisam ser planchidas. Então quando você
+[07:51] começa a encontrar este tipo de coisa na operação, cara, isso aqui você resolve com um IA? Não,
+[07:59] porra, não precisa de IA aqui para resolver. Você pode usar IA para criar o sistema, logicamente,
+[08:04] né? Mas lá na ponta, no dia a dia, não é um modelo de IA, não é uma LLM que está fazendo
+[08:08] Às vezes, o resultado ele vem só de alterar como um processo tradicional funciona para
+[08:15] um novo modelo de processo, remover coisas antigas, ferramentas.
+[08:20] Existe um negócio que acontece em todas as empresas, aonde que eu estava, estava aqui
+[08:24] aqui ó, que é o seguinte, quando a empresa ela nasce, imagina que ela nasce, o empreendedor
+[08:30] foi lá e montou uma empresa, ela nasceu, aí essa empresa começa a crescer, ela
+[08:36] começa a crescer. Nesse processo de crescimento, o empresário começa a contratar pessoas,
+[08:47] e essas pessoas trazem a cultura dela, elas trazem o processo que ela aprendeu em algum
+[08:51] outro lugar, elas trazem isso e começam a implementar dentro dessa empresa que nasceu
+[08:58] e que está crescendo. Só que essa empresa continua crescendo, crescendo, crescendo.
+[09:02] Essa pessoa sai, outra pessoa entra no lugar e aquele processo está lá. Então é muito
+[09:07] comum você entrar em empresas, principalmente empresas que estão ali na
+[09:11] faixa de 30, 40, 50 milhões de faturamento anual, e você encontrar o que?
+[09:16] Você encontrar uma planilha que ninguém sabe porque está preenchendo, mas estão
+[09:20] preenchendo, você encontrar gaps operacionais absurdos, você encontrar muito
+[09:27] problema que não deveria ter se alguém tivesse ali olhando já desde o
+[09:33] começo e refatorando o processo, melhorando o processo, a empresa já
+[09:36] seria mais eficiente. Isso é muito bom, sabe por que isso é muito bom? Porque isso significa
+[09:41] o seguinte, empresas têm problemas para você poder resolver. E muitos desses problemas
+[09:51] você pode resolver sem a e a. E aí, a hora que você resolve isso sem a e a, você vai
+[09:57] ajustar nesse processo, você já traz resultado. Então, o resultado aqui é praticamente
+[10:03] imediato, porque existe o desperdício. Se o resultado é imediato, significa que a chance
+[10:12] de você gerar ROI, o que é ROI? Retorno sobre investimento. O cara te pagou lá. Mas eu vou
+[10:21] dar um exemplo aqui, 70 mil, total do contrato, sem a recorrência ainda, só de você fazer
+[10:27] sua consultoria. Só esse trabalho que você faz e essa reestruturação que você começa
+[10:33] gerar aqui, esse 70 mil já se pagou, já se pagou rápido. Quanto maior a empresa, maior
+[10:43] é o ROI que você gera, que você é capaz de gerar, na verdade. Então, tipo, por que?
+[10:48] Porque qualquer ajuste de parafuso que você dê ali, qualquer ajuste fino, cara, você
+[10:57] consegue trazer uma pancada de dinheiro. Imagine uma empresa que faz 5 milhões por mês.
+[11:02] Se você consegue trazer ali um incremental, cara, isso é muito louco, isso aqui é muito
+[11:07] interessante.
+[11:08] Olha que legal.
+[11:09] Imagina que a empresa faz lá, 5 milhões por mês.
+[11:12] Ela faturou isso aqui.
+[11:13] Imagina que você traz um incremental de 0,5% cara, é 5 milhões e 250 mil.
+[11:22] Então olha o impacto que isso aqui gera, tá vendo que 5% de melhoria é muito rápido
+[11:30] você fazer.
+[11:31] existe, sim, algumas barreiras aqui. Não estou simplificando absurdamente para você, tá?
+[11:38] Mas quais são as principais barreiras que você vai enfrentar a principal pessoas?
+[11:46] As pessoas usarem. Então, dentro das empresas, existe um conceito que você tem que usar,
+[11:58] que é procurar os key-users, que são as pessoas chaves dessa operação.
+[12:03] São as pessoas que, porra, essas pessoas aqui vão apoiar você,
+[12:08] elas vão usar, elas entendem muito do processo,
+[12:11] elas estão querendo a mudança também, então essas pessoas existem,
+[12:15] e elas meio que vão evangelizar as outras a implementar aquilo que você está propondo,
+[12:20] a usar aquilo que você está propando.
+[12:22] Inclusive, elas vão te ajudar. Então, o processo do trabalho do consultor de A,
+[12:26] Resumidamente, é igual do consultor tradicional, a grande diferença é que o consultor de IA
+[12:32] está focado em inteligência artificial e ele entrega, ele implementa as coisas.
+[12:36] E o FDE, Kelvin, vamos trazer o seguinte, o real FDE, o Forward Plur Engineer, ele é
+[12:43] um consultor de IA mais bombado.
+[12:45] O FDE é mais técnico, na verdade, ele é muito técnico, é um cara que já é de
+[12:51] tecnologia, ele não precisa necessariamente ter sido um programador, mas ele já vivencia
+[12:55] área de tecnologia, alguns anos ele já foi um P.O., um gerente de projeto, um gerente
+[13:01] produto ou um arquiteto de software, até mesmo um dev que vê e escalando, agora é um senior
+[13:06] e agora começou a desenvolver a habilidade comercial, a habilidade de negócio, esse
+[13:11] cara ele vai entendendo mais e ele tem muito mais capacidade e técnica para entrar
+[13:17] no micro detalle e conseguir construir soluções ou melhor, propor soluções mais robustas
+[13:24] arquiteturalmente. Acho que eu consegui explicar aqui, eu defini de forma simples, eu acho que é isso
+[13:30] para vocês, tá bom? Agora, vamos lá, o Caio mandou assim ó, tem algum exemplo prático de alguma
+[13:35] solução nesse caso? Vou mostrar para vocês, tá, vamos pegar aqui, eu vou chegar aqui exemplos
+[13:40] práticos para vocês entenderem. Dois exemplos práticos de setores completamente diferente
+[13:45] que eu fiz, tá? Vamos olhar aqui, ó, vamos olhar para esse framework. Isso aqui é muito
+[13:50] interessante. Vamos olhar aqui, deixa eu ver se isso aqui faz sentido eu mostrar aqui
+[13:54] para vocês que eu trouxe. Mercado, problema, resultado, solução, oferta,
+[14:00] isso aqui não faz sentido que isso aqui vai alongar demais. Gente, aproveitando,
+[14:04] sábado eu vou fazer meu workshop, você já comprou o ingresso? Já comprou a
+[14:08] gravação para você que não vai poder assistir para assistir depois?
+[14:11] Se não, lê o QR Code aí, o QR Code e também está fixado aqui nos
+[14:17] comentários, o link da GROFEI é para vocês entarem.
+[14:20] Ó, esse aqui é o passo a passo de um consultor de A.
+[14:23] Vamos pegar aqui como que funciona o método de entrega.
+[14:26] Primeira coisa, cara, entenda isso aqui, ó.
+[14:30] Em algum momento você vai ter que nichar.
+[14:33] Isso aqui é muito importante.
+[14:34] Que que é nichar, Kelvin?
+[14:35] Eu sou um cara especializado em clínicas, em hospitais,
+[14:41] no setor de seguros, eu sou um cara especializado em
+[14:43] corretoras de médio grande porte,
+[14:46] Eu sou um cara especializado em seguradoras, isso aqui vai facilitar muito pra você, pra
+[14:51] que você possa fazer um negócio chamado produtização.
+[14:54] Por quê?
+[14:56] Porque o consultor, cara, ele não consegue produtizar, o que é que é produtizar?
+[15:00] Ele replicar aquilo que ele fez de uma empresa em outra, porque ele atende de várias empresas
+[15:05] de vários setores, de vários tipos diferentes, toda vez que você faz isso, você basicamente
+[15:09] ainda está vendendo a sua hora, você está vendendo a sua hora a homem, o seu serviço
+[15:13] e isso é um problema.
+[15:14] E pensa assim, cara, qual que é o melhor jeito de você empreender?
+[15:18] É você conseguir os seus primeiros clientes.
+[15:21] Toda vez que você fala diretamente para a dor daquele cliente específico, para aquele
+[15:25] setor específico, até o seu processo de vendas facilita.
+[15:28] Ah, mas eu não vou perder dinheiro, que você iniciando, não vai, pelo contrário
+[15:32] você vai fazer mais dinheiro.
+[15:33] Toda vez que você enincha, você faz mais dinheiro, tá?
+[15:37] Então isso é muito importante.
+[15:38] Vamos olhar aqui, ó, o método de entrega.
+[15:41] Qual que é a jornada?
+[15:42] Primeira etapa.
+[15:43] etapa de diagnóstico. Pra que essa etapa serve? Gente, tô assumindo que todos vocês aqui
+[15:49] conseguiram uma empresa, um cliente pra vender. Primeira etapa do consultor é entender o negócio
+[15:54] antes da tecnologia, a tecnologia ela vem depois, o objetivo da etapa de diagnóstico,
+[15:58] entender qual que é a meta daquele negócio e descobrir aonde o tempo e o dinheiro estão
+[16:03] escapando. Aqui ele ainda não vai falar de ferramenta, ele não vai entrar em
+[16:08] nada, então ele vai diagnosticar. Primeiro, quais são essas três metas do negócio
+[16:11] para os próximos 12 meses, como funciona esse setor, já entrar preparado, onde que a equipe
+[16:15] perde mais tempo com tarefas repetitivas.
+[16:18] Isso aqui é como se fosse um diagnóstico inicial, nada aprofundado no detalhamento do processo.
+[16:24] Isso aqui já é vendável, eu ia falar vendível, isso aqui já dá para vender, porque dependendo
+[16:31] do tamanho da empresa, é isso que ela está buscando inicialmente, ela está buscando
+[16:34] ter clareza dos problemas com uma visão de fora, entende?
+[16:39] Então vamos olhar aqui, entrevista com o dono da empresa, com os sócios, uma conversa rápida
+[16:45] com as pessoas chaves da operação, uma pessoa do financeiro, uma pessoa do RH, uma pessoa
+[16:50] da própria operação diretamente, geralmente aqui com os gerentes ou com os coordenadores
+[16:54] da área, depois um levantamento das ferramentas e uso de sistema atual para você fazer
+[16:59] uma avaliação de maturidade, digital e dados.
+[17:01] Esse diagnóstico, geralmente, ele sai isso aqui, então imagina o seguinte, diagnóstico
+[17:06] inicial.
+[17:07] Isso aqui é uma rede de clínicas, um hospital, um hospital pequeno, uma rede hospitalar.
+[17:21] Então quais são as principais dores ali conversando?
+[17:24] Imagina o seguinte, o Kelvin está aqui com um papel de consultor de IA e aí uma empresa
+[17:35] contratou ele, pum, através de mecanismos de venda, estruturação, posicionamento, mas
+[17:42] vamos lá, vou colocar essa rede de hospitais, contratou o Kelvin, consultor de A, para responder
+[17:50] à seguinte pergunta, eu quero entrar nesse mundo da IA, quero ferramentas de IA na minha
+[17:58] operação para resolver, ou melhor, para diminuir meus custos operacionais, é literalmente
+[18:08] que as pessoas vêm buscando isso aqui ó. Pô, preciso de uma ferramenta para fazer isso
+[18:12] para mim e tudo mais. Qual que é o cenário dessa empresa? É uma empresa que tem, se eu
+[18:17] não me engano, 22 anos? 22? É, vou deixar como exemplo aqui. Essa empresa aqui, ela
+[18:24] faz de 11 a 13 milhões por ano. Então aqui, a média é 1 milhão, 1 milhão e pouco
+[18:34] por mês. É uma empresa que tem 114 funcionários. O cara chega pra você e fala assim, eu
+[18:46] quero entrar nesse mundo de inteligência artificial, quero ia, quero isso, quero aquilo,
+[18:48] quero melhorar meu processo, tá, tá, tá. Quanto que você cobra? Responde aqui pra
+[18:52] mim vocês. Caraca, já tem 69 pessoas aqui. Fala gente, que bom que vocês estão aqui.
+[18:57] Vocês, como que vocês precificam isso daqui? Comenta aqui, esse miro pode ser disponibilizado
+[19:05] em algum lugar no workshop, compra o meu workshop que eu disponibilizo em mim.
+[19:09] Pensa assim ó, tá lá, 22 anos de empresa, de 11 a 13 milhões, cara, quantas pessoas
+[19:20] já passaram por aqui?
+[19:22] Quantas vezes a cultura da empresa mudou?
+[19:25] Quais são os processos que foram implementados?
+[19:26] É uma empresa que tá operando, ela fatura de 11 a 13 milhões, cara, qual que é o
+[19:33] tamanho desse negócio?
+[19:35] É só você imaginar.
+[19:37] Entende?
+[19:38] Cara, são 114 funcionários. É uma vida, é uma vida, meu amigo. Aí o que você tem que fazer?
+[19:46] Precificar? Como? Respondam pra mim. Comenta aqui. A Juliana falou. 100 mil. E aí, Juliana, se você
+[19:57] cobrar 100 mil e você gastar 100 mil em... em... em... em horas. Você entendeu? E se você
+[20:07] comprar 100 mil, cobrar 100 mil e você gastar 100 mil em horas. Outra coisa, como que esse
+[20:13] cara vai pagar 100 mil, 100 mil pelo que? O que você vai vender para ele? Chatbot, uma
+[20:18] ferramenta? Um CRM implantado? O que vai ser vendido? Não tem essa resposta. A resposta,
+[20:25] o papel do consultor aqui, ó, é o seguinte, cara, sinceramente, eu não sei o que
+[20:33] você precisa. Aqui é o papel do conselheiro confiável, falar, velho, eu sei que você
+[20:40] precisa de A. Eu sei que eu posso gerar resultado para você, mas onde? Eu não sei. Eu não
+[20:45] consigo saber. Eu não conheço a tua operação. Eu não conheço a tua empresa. Eu não conheço
+[20:50] teus processos. Eu não sei quais são suas principais dores. Eu não sei onde estão
+[20:53] os gargalos. Eu não sei como funciona o seu processo financeiro, seu processo de atendimento,
+[20:57] seu processo de cobrança, seu processo de recebimento de cliente. Eu não conheço
+[21:01] nada. Eu não conheço o processo de emissão de nota fiscal. Eu não conheço nada.
+[21:05] Então olha que foda. Não tem como cobrar. Ah, vou cobrar um percentual do faturamento.
+[21:10] pra quê? O que eu vou entregar pra ele por esse percentual do faturamento? Vocês entendem
+[21:13] que o jogo aqui é outro, gente? Pegou? Pega comigo? Ei! Psyl, pay attention, please? Gente,
+[21:23] me ajudam a fazer essa live e subir, cara. Eu tenta a pessoa só, manda pra o pessoal
+[21:27] aí. Ó, quem mandar esse link em algum grupo, fala assim, mano, vocês tem que conectar
+[21:33] aqui na live do kelv e agora vai ganhar um abraço meu digital
+[21:43] me ajuda porra, estou entregando um bom cotudo de 6, vamos subir essa porra aqui
+[21:47] vai, sobe, coraçãozinho, cadê os corações, dá coraçãozinho, comenta, dá joinha que o youtube entrega mais
+[21:52] bora, coração, coração, coração, coração, coração, coração, coração, coração
+[21:55] vamos, que eu estou gerando valor para vocês aqui
+[21:57] então assim, o combinado é o seguinte, eu gera o valor para você, você gera valor para mim
+[22:02] beleza, então vamos lá
+[22:03] Aí tá aqui ó, o que Alvin não sabe, então o meu papel, se eu tentar chegar nesse cara
+[22:10] aqui, nesse dono de empresa, nesse empresário, nesse empresário, e falar assim pra ele,
+[22:16] ó, é empresário, eu vou te cobrar 70 mil, mas pelo que, por nada, acabou, eu já
+[22:25] queimei a venda, olha, obrigado gente, é isso, coraçãozinho, bora porra, coração,
+[22:29] coração, coração, coração. Como que era? Lembra aquela trend lá? É rosa, rosa, coração,
+[22:39] coração, coração, coração. Toda vez vocês vão dar coração, falar coração. Eu vou me queimar
+[22:45] com ele. Por que? Porque não faz sentido e ele sabe disso. Então meu papel aqui eu chego pra ele
+[22:51] e falo assim, eu prospecto esse cara no linkadinho em algum lugar, bom não importa, não vou
+[22:56] vou falar do fluxo de venda, vou falar do processo agora de fechamento.
+[22:59] Fulano, sinceramente, se eu tentar ativer de qualquer coisa aqui, vai ser inviável.
+[23:04] Você fatura de 11 a 13 milhões, você tem 22 anos, você quer inteligência artificial,
+[23:08] eu tenho a capacidade de gerar resultado, só que você tem um processo já instalado,
+[23:12] você tem 114 funcionários.
+[23:14] Então o caminho aqui é nós fazermos um processo, um acessimento.
+[23:18] Ah, acessimento, acessimento, que porra de acessimento.
+[23:21] Um diagnóstico, um entendimento.
+[23:23] Deixa eu entender a tua operação.
+[23:25] Eu preciso entrar na sua empresa, preciso entender a sua operação e aí eu vou fazer esse trabalho
+[23:30] em algumas fases.
+[23:31] A primeira fase é eu vou fazer um diagnóstico e para fazer esse diagnóstico eu vou te cobrar
+[23:36] 22 mil reais, é um exemplo, tá, ou 10 mil reais.
+[23:40] E se desse diagnóstico eu vou mapear os primeiros gargalos e depois, nos primeiros gargalos
+[23:46] eu já vou ter uma noção do que é possível fazer, mas eu ainda não posso implementar
+[23:50] nada, depois eu vou ter que me aprofundar e mapear os processos, porque eu preciso
+[23:53] mapear os processos, porque eu preciso entender de forma profunda realmente o que a gente pode
+[23:57] mudar ou não.
+[23:58] Depois a gente vai priorizar, depois do mapeamento dos processos, eu vou dar pra você um mapa
+[24:03] do que você precisa implementar ou não, do que a gente pode fazer, então eu vou te
+[24:07] dar um fluxograma desse processo, uma planilha de custo pro processo, uma lista de oportunidades.
+[24:12] E daí dessa lista de oportunidades, a gente pode priorizar isso junto.
+[24:16] Eu posso já implementar pra você as coisas que você precisa, ou você pode contratar
+[24:21] uma outra pessoa. Eu acho que é um jogo aberto, sabe? É o tipo de relacionamento que tem
+[24:25] que ser um relacionamento transparente. É um negócio, tá? E aí depois a gente entra
+[24:30] para uma etapa de piloto, se eu for implementado e ser pose de piloto, a gente a profunda faz
+[24:34] uma implementação completa e aí depois a gente entra num processo de escala e otimização.
+[24:39] Legal. Então, esse diagnóstico desse caso aqui, ó, PUM, foi isso aqui, ó. Cara,
+[24:45] logicamente não tá, não é só isso aqui, tem um documento, né? Mas é só para vocês
+[24:49] entender. Cara, o que que a empresa usa? Pô, eu estou querendo trocar de RP, o
+[24:55] com amigo é uma plataforma de 1990, só que é o RP da empresa, então é complexo
+[25:01] tirar, vale a pena tirar? Eles liberam a API? Aí aqui, qual que foi meu papel? Pô,
+[25:07] vamos entrar em contato com a com amigo, ligar lá para a galera e perguntar
+[25:12] sobre API, para entender quais são as barreiras, isso aqui está dentro do
+[25:16] diagnóstico, eu preciso entender se eu tenho uma barreira, se o RP do cara tem uma
+[25:19] barreira, o RP do cara é o CERN, é o centro da operação, entendeu? Vai ficar gravado,
+[25:26] precisa sair agora, mas eu fui com a tua vibe, um beijo, eu também fui com a tua, fui dar
+[25:30] uma carona e já volto, um beijo no teu coração cara, vai com Deus, vai ficar gravado, só
+[25:36] pra você, se você der um coraçãozinho, vai, vai, fica em paz, estarei aqui, veras,
+[25:55] Eu só vou continuar aqui o conhecimento, seu conteúdo é muito valioso, infelizmente não
+[26:03] entendo muito.
+[26:04] Pero o que é de ouro?
+[26:05] De ouro ou ablar em espanhol com os tê?
+[26:11] Vamos lá, volta, volta, volta.
+[26:13] Aí aqui tem o como.
+[26:15] Ele usa o como como CRM.
+[26:17] Eu vou falar mais devagar para você, tá?
+[26:19] O RODMAX.
+[26:21] Ele tem o GOTU CRM aqui implementado.
+[26:24] implementado. O que o Gotu faz? Olha que interessante. Isso aqui é o primeiro
+[26:27] mapeamento, gente. Cara, o Gotu é o VoIP. Então, um cara que tem VoIP.
+[26:30] Pô, usa muito o Planexel, usa muito o Planexel, usa Google Drive, usa o
+[26:37] Homem, o Homem tá fatoramento. Então, pô, tem um RP, mas tem um Homem. Não tá fazendo sentido.
+[26:41] Por que? Por que que tem Homem? Então, estão pegando.
+[26:44] My friends, my friends, people,
+[26:50] Peatecho, estão pegando. Vocês estão entendendo?
+[26:54] Porque aqui a gente já vai olhando essas ferramentas e você vai entendendo, cara, tem um Google Drive,
+[26:58] tem o com amigo, tem o como, tem o homem, isso aqui é um RP, isso aqui também é meio que um RP,
+[27:05] mas um financeiro. Aí tem o GoTo, que é o VoIP, que não tem nada a ver com nada, e tem planilinhas de Excel.
+[27:10] Aí nas primeiras conversas você já vai mapeando, cara, quais são os principais dores? Uma falta
+[27:17] de eficiência operacional absurda, operação manual, problema com performance de time,
+[27:21] processos que são feitos que ninguém sabe o porquê, tecnologia defasada, baixo
+[27:26] retorno sobre investimento em marketing vendas, então até investimento em
+[27:29] marketing. O Calcenter não suporta a demanda, significa que é uma empresa que
+[27:34] não adianta colocar mais cliente lá dentro, uma empresa de 11 milhões, 13
+[27:38] milhões, ela já não tem mais problema de vendas, ela tem problema de
+[27:41] processo. Esse é o papel do consultor, vocês estão pegando gente? Eu estou
+[27:45] perguntando toda hora, vocês estão pegando né? Porra, mania do caralho, acho que
+[27:49] que vocês estão entendendo, tá? Conheça a empresa, mas não conheço programação e estou
+[27:53] aprendendo ferramentas, estou no caminho certo? 100% Sérgio, você vai ter que entender mais
+[27:57] sobre as possibilidades que você tem. E eu já vou falar sobre isso, tá bom?
+[28:03] Vira, primeiramente parabéns pelo trabalho, infelizmente eu não tenho dinheiro para acessar
+[28:07] sua plataforma, eu estou montando os sais, não tem problema, você vai conseguir, só
+[28:10] não para. Se não tem dinheiro agora, tá tudo bem, isso é uma condição atual
+[28:14] do teu momento. O importante é você continuar e não parar, porque a gente está vivendo
+[28:18] um novo momento e é o momento de quem quer empreender, de quem quer escalar as coisas não
+[28:23] são feitas do dia para a noite, então energia para você, dependência de tomadas de decisões
+[28:28] intuitivas significa que caralho, os caras tem um RP, mas as decisões estão tomadas
+[28:35] no chute, por que? Porque estão na planilha, baixa margem de lucro, baixa margem de lucro
+[28:43] isso aqui é subjetivo, por que é subjetivo? Porque existem modelos de negócios que
+[28:48] margem é baixa, existem modelos de negócios que a margem é alta. E por aí vai, é assim
+[28:52] que funciona. A alta dependência de pessoas. Existem negócios que têm alta dependência
+[28:57] de pessoas, não tem o que fazer. Agora, será que eu consigo resolver isso? Será que eu
+[29:00] consigo resolver isso? Será que eu consigo resolver isso? Será que eu consigo resolver
+[29:03] isso? Como eu resolveria isso? Tão pegando aqui, ó, de novo. Eu tô viciado em falar
+[29:10] que tô pegando. Colaboradoras têm na cabeça o que deve ser feito. Falta de mapeamento
+[29:15] de processo, falta de sops, e aí por aí vai, e aí começou a mapear. Beleza, mapear as
+[29:22] dores. Mapear as dores, aqui já cobrou, pum. E agora, o que que dá pra fazer? Aí você
+[29:29] entra no mapeamento do processo. Cara, esse aqui é um exemplo, tá gente? Mas isso aqui
+[29:36] tem que ser desenhado mais bonitinho, isso aqui tem que ser desenhado assim, porque
+[29:39] quanto mais bonito, mais gourmet, fluxo de garantia, macro etapas, quem são os atores,
+[29:46] tem o cliente, tem o comercial, tem canais, tem a célula técnica, tem o back office,
+[29:50] tem o canal, tem a seguradora, tem as dores, tem as oportunidades, aqui então são os atores.
+[29:54] Aí como funciona a prospecção, procura, eu não vou poder mostrar isso aqui muito
+[29:58] no zoom para vocês, funciona desse jeito, entendimento do cliente funciona desse
+[30:01] jeito, cotação em missão de apólico funciona desse jeito, cadastro de apólico, isso
+[30:05] aqui já é um fluxo de mercado seguro, endosso, como que funciona, áreas macro áreas, pós-vendas,
+[30:12] backups, pré-vendas, vendas, como que funciona, mapeamento do processo, pós-vendas, parte
+[30:18] de endosso, parte de cadastro de apólice, tá vendo que é bem detalhado, é bem detalhado,
+[30:24] até mesmo nesse fluxo dessa grande empresa aqui, olha aqui, tem o Seus Force, tem a
+[30:29] área 1, área 2, área 3, área 4, as integrações, os pontos de integração, como que a
+[30:34] que a gente sabe disso? A gente sabe disso porque é feito isso aqui, é feito o que?
+[30:41] O mapeamento do processo. Vocês conseguem entender o valor que isso aqui tem?
+[30:47] Isso aqui, de novo, eu pergunto, caralho, que mania chata. Isso aqui tem um valor absurdo.
+[30:52] Por que? Porque se você juntar conhecimento de processo, mais conhecimento técnico,
+[31:03] E, de novo, esse técnico, não precisa ser um técnico profundo, mas trabalhar bastante
+[31:07] com o IA e o entendimento de como funcionar arquitetura de sistemas, integrações, etc.
+[31:17] Você consegue mapear gargalos e, principalmente, onde você é capaz de gerar resultado.
+[31:25] Se você sabe o que dá para fazer, o que é possível fazer, você consegue propor.
+[31:29] E depois que você propõe, você implementa, não, isso aí é uma burrice.
+[31:34] Você faz uma POC, um piloto.
+[31:38] POC, para quem não conhece, Proof of Concern, prova de conceito.
+[31:42] É chamado de piloto, vamos provar o valor rápido, em pequena escala, e ver se isso funciona
+[31:46] de verdade.
+[31:47] Pô, se eu acho que dá para automatizar, vou dar um exemplo rápido.
+[31:51] Eu mapeei aqui que tem VoIP, e eu mapeei também que tem gargalo no atendimento.
+[31:56] Aí eu vou olhar o fluxo do atendimento no calcenter, eu vejo, o paciente liga para central,
+[32:01] aqui a ferramenta, que é o GoTo, vai para dois caminhos, ou ele liga para fazer uma consulta,
+[32:08] para a gente dar uma consulta ou para pegar um exame, sempre pegar um exame, isso aqui
+[32:12] pode ser particular ou de convênio, se é uma consulta pode ser particular ou convênio,
+[32:17] nesse momento existe o que?
+[32:19] Planilha de valores para convênio e planilha de convênio, olha que loucura, aqui em
+[32:23] em cima mesma coisa. Planilha de valores, planilha de convenho. Aí integra com
+[32:27] com amigo, entrega com amigo, com amigo, com amigo. Aí manda o WhatsApp e vai
+[32:31] pro como? Com amigo ou CRM? É o RP. Aí a gente mapeou o que? Planilhas. Planilhas
+[32:38] aqui ó, vermelho. Planilha, planilha, planilha, planilha. Cara, olha o gargalo disso aqui.
+[32:42] Aí agora eu te pergunto. Pô, poderia ter um maiaque? Poderia ter um maia de atendimento.
+[32:47] Aí ade atendimento, faz sentido ou não? Pensa comigo. Aí ade atendimento, faz sentido ou não?
+[32:52] faz sentido ou não? Não sei. Teoricamente ela faz sentido. Então o que que a gente vai testar e
+[32:59] projetar? Olha que interessante agora. Aí você monta o consultor, o papel dele, é montar essas
+[33:06] provas de conceito baseada no ROI. ROI é retorno sobre investimento e dinheiro. Então calcenter,
+[33:16] área, calcenter. Mapei o processo lá. Aí agora eu vou desenhar qual que seria a minha solução.
+[33:23] Marcação de consultas e exame. Como que seria um modelo fluxo real de uma consulta de exame,
+[33:31] marcação de consulta por exame com inteligência artificial? Uma IA para atendimento por voiz
+[33:35] e agendamento, um agente conversacional que atende as ligações telefônicas no VoIP que ele fornece
+[33:41] as informações sobre a clínica e ele realiza esse agendamento de consultas e exames totalmente
+[33:45] integrado com CRM e com um RP. Essa IA pode ser de atendimento por voiz para quem liga ou no
+[33:50] automática. Legal. Que ferramentas eu posso usar? Eleven Labs? O que é Eleven Labs? Olha
+[33:57] aqui o conhecimento sobre a IA. Posso usar Eleven Labs, posso usar Twilio, posso usar
+[34:02] Telnix, posso usar o próprio GoTo, integrado aqui com Eleven Labs mais GoTo. Mais integração
+[34:10] com o RP. Tem que estar integrado com o RP. Cara, qual que é o tempo gasto estimado?
+[34:16] Eu tenho um gestor naquela área. Olha que importância de se mapear o processo.
+[34:20] Como que eu sei que tem um gestor? Porque a gente se aprofunda no processo.
+[34:23] Eu tenho mais ou menos quatro horas por dia por gestor.
+[34:26] Significa que eu tenho quatro horas do gestor por dia cobrando o time de atendimento,
+[34:32] mais oito dias por atendente, igual a 432 horas por semana. São nove atendentes.
+[34:41] E eu tenho uma taxa de perda de 20% das ligações. Como que eu sei disso?
+[34:47] Como que eu sei disso? Aqui, ó, mapeamento do processo, porque quais são as perguntas?
+[34:57] Pô, nessa área, quem faz, qual que é a ferramenta, quanto tempo, onde está o retrabalho e as
+[35:01] passagens e bastões, o que é a regra claro, o que exige julgamento humano, quanto que
+[35:05] esse processo custa por mês, quem faz ele, me explica aí, deixa eu entender mais.
+[35:09] Pô, você faz isso, por que você preenche essa planilha?
+[35:12] Eu preenche essa planilha porque pedindo para eu preencher, mas por que você preenche,
+[35:15] que é pedido pra preencher, pergunta pro fulano. Aí chegando e falou fulano, por que é que
+[35:19] é que é que é que é que você pediu pra aquela pessoa pedir pra aquela planilha?
+[35:22] Ah, porque alguém... tava me cobrando, aí eu pedi pra preencher a planilha pra mim,
+[35:29] só que nem precisa! É desse jeito gente, é assim que...
+[35:37] Meu, vocês tem que cruzar aí pra campo e eu faria isso aqui até de graça, só pra aprender.
+[35:47] Porque se aprende muito, tá?
+[35:49] Aí vamos lá, vamos continuar aqui.
+[35:51] Perdão, eu me exalto, eu me exalto.
+[35:53] Eu sou assim, eu sou assim.
+[35:54] Desculpa, desculpa.
+[35:55] Vamos embora.
+[35:56] Mantei a postura.
+[35:57] Então gente, conforme estávamos analisando, vamos analisar os gaps operacionais.
+[36:03] Depois que nós fizemos todo esse mapeamento, nós devemos fazer tal coisa.
+[36:08] Então aqui gente, qual que é o tempo gasto? Isso aqui. E aí tem essa aqui. Pô cara, perda de 20% das ligações.
+[36:15] Como assim perda de 20% das ligações? E o que acontece? Aí existe um problema.
+[36:19] Agora vamos lá. Se eu colocar cia, significa que eu teria uma eficiência estimada de 20 a 37%.
+[36:29] Quanto que é uma eficiência estimada de 20 a 37%.
+[36:36] Olha isso aqui, vocês têm que entender como calcula isso.
+[36:43] Imagine que eu contrato uma tendente, ela custa R$ 2.500 mais 60, 70% de imposto, ela
+[36:49] custa para a empresa R$ 4.250 dividido por R$ 168, então a cada hora dessa tendente
+[36:56] é R$ 25.
+[36:58] Se eu tenho uma eficiência em horas dela de 20 a 30%, é só eu calcular 30%, 25%
+[37:08] Reais. Vou pegar aqui 168,0.20% da 33 horas vezes, esqueci quanto que é, 25 Reais, então
+[37:16] eu já tenho ali uma eficiência de 840 Reais. Pegaram? A lógica é transformar o custo operacional
+[37:25] em dinheiro. Então significa que se eu implementar uma AI eu vou ter uma economia de 2.348 Reais
+[37:31] por semana sem considerar as perdas de atendimento com o time inteiro. Então 2.348 por semana
+[37:38] vezes 4 semanas no mês, é uma economia de R$ 9.392 no mês, vezes 12 meses é uma economia
+[37:46] de R$ 112 mil no ano. Legal, e qual que é o custo para implementar? Qual é a estimativa
+[37:52] de hora homem de desenvolvimento? Aproximadamente R$ 36.690. Então aqui, a gente começa a
+[38:02] trazer o quê? Que implementar a marcação de consulta e exame pode ser um bom caminho.
+[38:09] Eu posso ou não investir em fazer isso daqui?
+[38:15] O que eu preciso fazer antes?
+[38:17] Saber se isso aqui realmente funciona.
+[38:21] Então, por isso que a próxima etapa é piloto.
+[38:27] Qual que é o melhor jeito para testar mais rápido possível
+[38:31] um atendimento por inteligência artificial em uma operação?
+[38:36] É simples.
+[38:38] Você pega, já sei, o Gotiu
+[38:45] E você coloca lá uma regra para que 5% das ligações que chegaram lá no VoIP vão ser
+[38:54] direcionadas para um número específico, vão ser redirecionadas para um número específico.
+[39:00] Esse número específico vai estar no 11 Labs, mais o Twilio.
+[39:04] O que é o Twilio?
+[39:06] O que é o Twilio?
+[39:07] O Twilio é uma ferramenta de VoIP.
+[39:10] E aí, esse 5% aqui é a nossa medição, o nosso pedaço que a gente vai medir e
+[39:17] vai ver eficiência.
+[39:18] E a gente vai ver como se comporta este processo aqui.
+[39:21] E aí depois, aqui ele vai fazer uma parte, eu posso até depois redirecionar para uma pessoa.
+[39:27] Só que aqui o que vai acontecer?
+[39:28] Aqui eu vou começar a ter métricas e eu posso simplesmente fazer essa pessoa perguntar
+[39:32] o que você achou do nosso atendimento?
+[39:33] Você acabou de passar por ele com inteligência artificial?
+[39:36] Você gostou ou não gostou?
+[39:37] Então isso aqui é uma prova de conceito que a gente consegue rodar em menos de uma semana.
+[39:43] E se eu consigo rodar essa prova de conceito em menos de uma semana,
+[39:47] significa que eu consigo validar rápido se aqueles números são certeiros ou não.
+[39:53] Esse é o trabalho de um consultor de A, esse é um trabalho de um FDR,
+[39:58] só que ele não faz isso em uma única área, ele faz isso em todas as áreas.
+[40:01] Então, por exemplo, eu tenho aqui o detalhamento do call center,
+[40:06] deixa eu ver se caiu, não caiu não.
+[40:11] Eu tenho aqui o detalhamento do call center, eu tenho aqui o detalhamento do call center
+[40:16] também tarefas manuais, recepção, ó, calcentre de tarefas manuais, recepção
+[40:21] autorização, faturamento de processo manual, faturamento financeiro, recepção
+[40:25] faturamento, recepção faturamento glosa, contratos laudo gestão, laudo
+[40:29] processo manual. Então para cada processo que foi analisado
+[40:35] detalhadamente, eu tenho gargalos, que são esses vermelhos, que podem ser
+[40:43] removidos deste processo, e eu também tenho soluções que trazem melhorias para o processo.
+[40:54] Essas melhorias, elas sempre têm cálculos de economia de tempo estimativa de custo.
+[41:00] Vou dar um exemplo aqui, por exemplo, olha, esse aqui que legal, esse aqui, cara, não
+[41:04] dá para estimar a eficiência desse item, não dá para saber, por quê?
+[41:08] Porque a recepção de autorização e mais faturamento de tarefa manual.
+[41:12] resolver isso. Uma OCR para Avalidação de Documento, agente de reconhecimento que interpreta
+[41:17] pedidos médicos, documento, papapá. Preciso usar uma LLM, preciso usar uma automação,
+[41:22] mas automação gotiu. Tá vendo o que? Aqui tem um RPA. O que é um RPA? É um robozinho
+[41:27] que entra nos sites. Por quê? Porque a recepção tem que entrar nos sites das empresas
+[41:34] que tem convênio para fazer integração com elas, para mandar o pedido lá dentro.
+[41:40] que é um custo absurdo, só que olha a redução que isso aqui gera, 70%, mas olha o custo,
+[41:48] 100 mil para fazer, vocês estão pegando, depois que você monta tudo isso aqui, deixa
+[41:54] eu ver se isso aqui ordena, ordenar, agrobai, duplicate, sort, skin, aqui ó, depois que
+[42:06] isso aqui termina eu posso pegar simplesmente e ó descobrir isso qual que é a tarefa que
+[42:14] vai custar menos e que vai trazer o maior retorno por exemplo essa tarefa que custa 40
+[42:21] horas para fazer o 8.875 mais redução de equipe redução da tarefa em 100% mais acompanhamento
+[42:27] então eu consigo gerar uma redução de equipe absurdamente faz sentido eu priorizar
+[42:31] essa faz sentido eu priorizar essa faz sentido eu priorizar essa qual que faz sentido eu
+[42:36] priorizar aquela que vai dar resultado mais rápido e que vai ter o menor custo de
+[42:42] execução. E isso aqui é o trabalho de um consultor de A. Agora vocês que estão me
+[42:50] ouvindo aqui, vocês acham que isso aqui gera valor para uma empresa? Comenta aqui
+[42:54] comigo, isso aqui gera valor, isso aqui gera resultado, isso aqui traz dinheiro
+[43:00] para um negócio. Qual que é a opinião de vocês? Então isso daqui é o que vai
+[43:08] transformar as empresas. Isto aqui é o que, por exemplo, o PNAI, a Cloud estão contra,
+[43:16] a Antropiq estão contratando consultores FDS para fazer isso em grandes contas.
+[43:21] Só que, cara, se acha que a Cloud, a Antropiq, a Accentree, a BRQ, a Stefanini estão
+[43:29] preocupadas com empresas que faturam 6 milhões, 7 milhões, 10 milhões por ano, 15 milhões
+[43:35] por ano, eles estão cagando pra isso. Por que eles estão cagando pra isso? Porque eles têm empresas
+[43:38] que faturam bilhões, 400 milhões, 500 milhões, 600 milhões, 800 bilhões, 1 bilhão, 2 bilhões,
+[43:44] 3 bilhões, 5 bilhões. Eles estão preocupados com as grandes operações e quanto maior o faturamento,
+[43:50] maior a complexidade, quanto maior a complexidade, mais caro fica. Aqui tem um jogo muito legal,
+[43:55] porque se você fica nessa linha de ser consultor, isso aqui dá dinheiro, isso aqui dá
+[44:00] dinheiro. Eu vou até trazer antes aqui um comentário. Teve um cara que comentou aqui, eu gosto de
+[44:04] comentários mais trabalhados que eu vejo que a pessoa pelo menos pensou para falar. Esse cara
+[44:08] falou assim, eu gosto muito de seu conteúdo, eu entendi, entendo que está influenciando as
+[44:13] pessoas, a serem consultores de AI anichado e primeiro que eu nem influenciei as pessoas
+[44:16] ser consultor. Estou falando de consultor porque todo mundo gostou. Eu comecei como
+[44:20] consultor de negócio colocando AI lá em 2023, eu mudei a minha abordagem para vender
+[44:24] consultoria de AI e decolou, parabéns legal. O princípio é um, vender o que o empresário
+[44:29] Tem o quê? Tem empresas, tem empresários de... Ah, não vou ler essa porra toda não, mas
+[44:35] resumidamente o que ele falou aqui. Ele falou assim, cara, existem empresas que querem ferramenta,
+[44:43] empresas que querem uma consultoria, empresas que querem isso, aquilo, tudo funciona. Entenda
+[44:48] uma coisa, nesse mundo do empreendedorismo tudo funciona mesmo. Dá para fazer dinheiro
+[44:52] com tudo, dá para fazer dinheiro vendendo droga, dá para fazer dinheiro vendendo
+[44:56] na tomação, vendendo ferramenta, vendendo produto na shopping, dá para fazer dinheiro
+[45:00] montando, ah, fazendo arbitragem, não tem caminho certo ou caminho errado.
+[45:06] Não existe caminho certo ou caminho errado.
+[45:08] Agora, o meu objetivo aqui com vocês é mostrar para vocês caminhos que fazem mais
+[45:14] sentido, logicamente, da minha visão e minha interpretação como empresário e como empreendedor,
+[45:21] E vocês cabem a vocês avaliar o que que entra melhor na vida de vocês, entendeu?
+[45:27] O que que encaixa melhor nesse momento de cada um de vocês.
+[45:33] Agora, um ponto que eu quero deixar aqui muito claro é que vocês não podem cair em ser
+[45:39] uma software house, tá?
+[45:41] Não podem ser um constor de A e virar uma software house, porque o cliente A pede
+[45:45] uma coisa, o cliente B pede outra, o cliente C pede outra, aí quando você vê se tem
+[45:49] 10 clientes, 10 códigos, 10 projetos, 10 problemas para resolver, cada novo cliente
+[45:54] vai virar um novo problema para você.
+[45:56] Isso aqui não vai ajudar você a escalar, isso aqui vai ajudar você a se fuder.
+[45:59] Agora, onde que você ganha se você produtizar?
+[46:04] Então o primeiro cliente é acostumizável, o segundo cliente pode até ser, mas você
+[46:10] tem que encontrar padrões, você tem que estruturar um método, você tem que criar
+[46:16] um produto e isso transformar isso numa plataforma, porque a cada novo cliente que entrar e se você
+[46:22] já tiver um método ou um produto, você não fica mais na linha de como estomização, entendeu?
+[46:28] E para você fazer isso, você tem que encontrar as coisas que se repetem.
+[46:32] E para encontrar coisas que se repetem, você tem que escolher um mercado, você tem que
+[46:36] entender aquele problema que se repete, você tem que entender como fazer isso, virar
+[46:40] a mesma implementação, a mesma integração, o mesmo processo comercial, o mesmo board.
+[46:45] esse é o conceito você encontrar os pontos de
+[46:50] padronização porque porque isso vai trazer para vocês escala isso aqui pode
+[46:56] trazer para vocês terem um produto único entendeu
+[47:00] eu vendo pano de prato necessário porta terço etc vender é possível sim
+[47:05] seja um pano para bem estális ó que Deus abençoe você o seu negócio entendeu
+[47:11] é isso mesmo sejam os pano de prato seja um software venda é venda venda é
+[47:16] venda. Pô, o caminho do Tarlis está errado? Não está errado não, cara. Não existe
+[47:21] caminho errado. Ah, o cara que trabalha CLT está errado? Não, eu tenho um amigo
+[47:26] meu que é bilionário trabalhando em uma empresa, ele trabalha na NVIDIA. Amigo
+[47:30] pessoal, fé! Se você vai me assistir, não abraça e vai tomar no cu.
+[47:37] Aqui ó, está Jun. Pô, você está vendendo conhecimento técnico, você está aqui como
+[47:44] freelancer dia ou só com um projeto estágio 2 você vira consultor estágio 3 vira o consultor
+[47:53] especializado aqui ó é o consultor dia consultor dia consultor dia tá aqui ou fdx seja você tem
+[48:04] que ir para o estágio 4 você não pode parar aqui se não você fica só vender na hora o que
+[48:09] que é estágio 4 o serviço produtizado vou dar um exemplo você entra na acelera você tem
+[48:16] acessa agro-fai, a agro-fai é a nossa infraestrutura, onde eu ajudo pessoas a empreender.
+[48:21] Como que eu ajudo elas a empreender?
+[48:23] Eu produtizo?
+[48:24] Como que eu produtizo?
+[48:25] Cara, se você quer empreender, você tem que abrir um CNPJ, você tem que tomar conta
+[48:29] financeira, você tem que ter um modelo de negócio, você tem que emitir nota fiscal,
+[48:33] então eu tenho todo o processo de acompanhamento e eu também tenho o quê?
+[48:37] Eu tenho as formações, eu tenho a acadêmia, eu tenho os vídeos gravados, eu tenho
+[48:42] as bibliotecas.
+[48:43] Então, cara, você quer empreender? Eu já validei 84 nichos, então eu trago esses 84 nichos aqui.
+[48:49] Pô, jurídico, advocacia previdenciária, você tem lá o playbook completo para esse nicho específico.
+[48:57] É só isso em medo. Eu tenho parceiros, eu tenho benefícios. Por quê? Porque tá começando a empreender, você precisa ter desconto.
+[49:05] Eu tenho o CRM pronto, você precisa empreender, você tem que criar um funil de vendas, uma estrutura pronta.
+[49:09] Então eu já trago Funio, Pipeline, Contata, Automação, Agenda.
+[49:13] Eu trago a estrutura de marketing pronto, planejador social,
+[49:16] a campanha de marketing rodando.
+[49:18] Eu trago a estrutura de gestão, catálogo de produto,
+[49:21] formulário, integrações, conexões.
+[49:24] Eu trago o cérebro, todo mundo quer criar cérebro de ar.
+[49:26] Então eu já trago o meu cérebro pronto.
+[49:28] Eu trago o mentor de ar para eles.
+[49:30] Eu trago tudo isso mais o quê?
+[49:32] Mais acompanhamento, mais aula comigo toda quinta-feira,
+[49:37] mais um time de tecnologia para ajudar as pessoas a empreender a tirada do papel, eu trago o modelo
+[49:43] de negócio, projeção francesa, metodologias de entendimento de mercado, de nicho de dores,
+[49:47] precificação, ajudo eles na negociação. Você consegue entender que isso é produtizado?
+[49:52] Então assim, desse jeito eu consigo ter o quê? Eu consigo ter 300 e poucos parceiros, eu consigo
+[49:57] ter 400, 500, 600. E se alguém que faz a mesma coisa que eu não tenho isso,
+[50:01] ela consegue atender 20, malemar 30, sofrendo. Então aqui, estágio de
+[50:06] produtização, para depois ir para criar uma infraestrutura e plataforma, para
+[50:10] depois você ter o que? Você ter o último estágio, você é dono do mercado, você tem uma oferta
+[50:14] incrível, você tem uma máquina de aquisição, você tem uma estrutura de
+[50:16] venda, você tem tecnologia, você tem método, você tem entrega e você tem recorrenciar.
+[50:21] Tem que ter recorrência. Então isso aqui é o que um construtor de A deve fazer.
+[50:27] Isso aqui é o que um construtor de A deve fazer. Isso aqui que vocês viram, aqui
+[50:29] é parte de um entrega isso aqui pode ser simples ou pode ser complexo o que vai
+[50:34] mudar se é simples ou complexo o tamanho do cliente o tamanho do problema aqui eu
+[50:39] tenho um outro cliente eu tenho exis eu tenho tubi eu tenho macro fluxo esse aqui
+[50:45] eu não posso dar muito detalhe eu tenho micro fluxo detalhado de cada área
+[50:49] entender o micro fluxo ideal que olha aqui ó micro fluxo atual que que é o
+[50:55] atual é o exis, isso aqui é o exis, como está hoje?
+[51:00] Tubi, como deveria ser? Tá vendo? Tubi, como deveria ser?
+[51:06] Exis, como está hoje? Como deveria ser? Olha a comparação, como está hoje?
+[51:11] Esse monte de laranjinha, como deveria ser? O que deveria entrar?
+[51:14] Aí isso aqui desdobra para o quê? Desdobra para um fluxo mais arquitetural.
+[51:23] área 1, área 2, área 3, elas se comunicam desse jeito, no meio, uma ferramenta, as is,
+[51:29] como deveria ser o fluxo em chuto de como os sistemas vão se integrar. Vou tentar tirar os seus
+[51:36] forços? Não consigo. Seus forços são o coração da empresa, eu nem tenho a capacidade de tirar ele
+[51:42] porque eu não tenho nada para substituir, que é melhor. Ah, coloca a grofeia e não entra, nem
+[51:47] faz sentido, seria loucura, entendeu? Então olha aqui, isso aqui seria o que um consultor
+[51:53] de a deve fazer. Isso aqui seria o melhor caminho hoje para você que quer ser consultor do que você
+[52:01] tem que entregar, entenderam? Kelvin, como preci fica isso? Cara, isso aqui de verdade é um modelo
+[52:08] de precificação complicado. Por quê? Porque não é só cobrar por projeto, por hora, você cobra
+[52:16] também por desenvolvimento. Tipo assim, ó, esse contrato aqui é um contrato como estimativa de
+[52:21] de R$320 mil, reais só de desenvolvimento, fora esse desenvolvimento tem todo o processo
+[52:28] de imapeamento, então vocês conseguem entender que isso aqui é um projeto de R$6 milhão,
+[52:35] porque o cliente permite esse tipo de cobrança e principalmente nós conseguimos gerar muito
+[52:42] resultado, então tudo tem número, tudo é calculado e segue o processo e as etapas,
+[52:49] Alvin, quero fechar contratos desse jeito, isso é uma outra jogada, não dá pra você
+[52:57] sair da série 6 e jogar série A, e eu nem to na série A aqui, isso aqui não é ser
+[53:02] A ainda, isso aqui é brasileirão, brasileirão não é Champions, isso aqui é brasileirão,
+[53:10] quero jogar Champions, aí é contratos gigantescos, então tem uma escada, mas tranquilamente
+[53:16] você consegue fazer projetos de 70 mil, 80 mil, 100 mil, recorrências, 2, 3, 5 mil,
+[53:26] como construindo uma autoridade, entendendo, fechando os primeiros contratos menores, aprendendo,
+[53:33] nichando pra um mercado que tenha players, que tem dinheiro, não adianta vender pra pobre,
+[53:40] entende?
+[53:41] E eu vou falar muito mais sobre isso no workshop que vai rolar sábado, por isso que é importante
+[53:44] você tá lá pra você tá lá comigo tirar suas dúvidas entender nicho entender
+[53:49] oferta entender mecanismo entender como entender as dores vai ser cinco horas
+[53:56] aqui a gente já tá nossa gente é uma hora e 38 eu vou desconectar que eu também
+[54:00] tenho que trabalhar um pouco espero que vocês tenham entendido esse vídeo foi
+[54:03] sobre você já comprou o workshop não então compra porra compra aqui ó
+[54:06] 69 reais aquel que era o gravado compra gravação também não vai se
+[54:12] para se arrepender. Tem certeza que se você já gastou mais com iFood ontem do que esse
+[54:16] workshop, então não perca essa oportunidade. Deixa você fazer essa cabecinha sua e fervilhar.
