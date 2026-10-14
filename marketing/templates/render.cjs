@@ -9,7 +9,7 @@ const fs = require('fs');
   const out = path.join(__dirname, 'instagram');
   fs.mkdirSync(out, { recursive: true });
   const browser = await chromium.launch();
-  const page = await browser.newPage({ viewport: { width: 1080, height: 1080 }, deviceScaleFactor: 1 });
+  const page = await browser.newPage({ viewport: { width: 1080, height: 1080 }, deviceScaleFactor: 2 });
   await page.goto('file://' + path.resolve(__dirname, file));
   const slides = await page.$$('.slide');
   for (let i = 0; i < slides.length; i++) {

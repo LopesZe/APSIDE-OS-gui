@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ============================================================
+     POST ÚNICO BASE — APSIDE (1080x1080, paleta v3.1)
+     Mesmo padrão do carrossel. Correção tranquila: edite as
+     5 variáveis em :root. Para post de DADO (número grande),
+     remova o comentário da linha .numeral abaixo e use texto curto.
+     Ver identidade/design-guide.md.
+     ============================================================ */
+  :root {
+    --fundo-escuro: #000000;
+    --fundo-claro:  #E7E6EF;
+    --regua: #4130D8;            /* régua/barras — nos dois fundos */
+    --destaque-escuro: #6E5CFF;  /* palavra/numeral no escuro (4,6:1) */
+    --destaque-claro:  #4130D8;  /* palavra/numeral no claro */
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  .slide {
+    width: 1080px; height: 1080px; position: relative; overflow: hidden;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    display: flex; flex-direction: column; align-items: flex-start; justify-content: center;
+    text-align: left; padding: 90px;
+  }
+  .slide > * { position: relative; z-index: 1; }
+  .dark { background: var(--fundo-escuro); color: #E7E6EF; --destaque: var(--destaque-escuro); }
+  .light { background: var(--fundo-claro); color: #000000; --destaque: var(--destaque-claro); }
+  /* Exceção única de gradiente: fade #2F2399 subindo do rodapé (só no escuro) */
+  .dark::after {
+    content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 30%;
+    background: linear-gradient(to top, rgba(47,35,153,0.55), rgba(47,35,153,0));
+    z-index: 0; pointer-events: none;
+  }
+  .counter { position: absolute; top: 74px; right: 90px; font-size: 16px; font-family: 'DM Sans', sans-serif; font-weight: 600; letter-spacing: 0.18em; opacity: 0.7; z-index: 2; }
+  .logo-top { position: absolute; top: 70px; left: 90px; width: 160px; opacity: 0.95; z-index: 2; }
+  .handle { position: absolute; bottom: 76px; left: 90px; font-size: 22px; font-family: 'DM Sans', sans-serif; font-weight: 600; z-index: 2; }
+  .topic {
+    color: var(--destaque); font-family: 'DM Sans', sans-serif; font-weight: 600;
+    font-size: 24px; letter-spacing: 0.02em; margin-bottom: 20px; text-transform: none;
+  }
+  h2 {
+    font-family: 'DM Sans', sans-serif; font-weight: 800; font-size: 72px;
+    line-height: 1.08; letter-spacing: -0.03em; max-width: 880px;
+  }
+  .hl { color: var(--destaque); }
+  .rule { width: 56px; height: 5px; background: var(--regua); margin: 30px 0; border-radius: 9999px; }
+  .light p { color: #2F2399; }
+  .dark p { color: rgba(231,230,239,0.78); }
+  p { font-size: 28px; font-weight: 400; line-height: 1.55; max-width: 820px; }
+  /* Descomente para post de DADO (número gigante):
+  .numeral { font-family: 'DM Sans', sans-serif; font-size: 260px; font-weight: 800; line-height: 0.9; letter-spacing: -0.04em; color: var(--destaque); margin-bottom: 10px; }
+  */
+</style>
+</head>
+<body>
+
+<!-- POST ÚNICO (escuro) — frase de impacto -->
+<div class="slide dark">
+  <img class="logo-top" src="../../../identidade/logo-apside.svg" alt="APSIDE">
+  <div class="counter">POST</div>
+  <div class="topic">TÓPICO</div>
+  <!-- Para post de DADO, troque o h2 por: <div class="numeral">90%</div><h2>texto curto</h2> -->
+  <h2>Frase de impacto com <span class="hl">destaque</span> na marca.</h2>
+  <div class="rule"></div>
+  <p>Apoio ou contexto curto, se necessário.</p>
+  <div class="handle">@apside</div>
+</div>
+
+</body>
+</html>
