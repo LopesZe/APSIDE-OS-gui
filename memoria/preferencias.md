@@ -46,6 +46,11 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 - Barra `#4130D8` 4px no rodapé (nunca gradiente).
 - Mockups realistas (celular com WhatsApp, navegador com site, card de avaliação).
 
+### Prospecção / abordagem
+
+- **NUNCA abrir com lista de perguntas nem pesquisa direta** ("quem chega perguntando tão direto assim faz o cliente fugir"). Abrir com conversa normal: nome, cidade, contexto curto, convite pra conversar. Perguntas de diagnóstico entram aos poucos, na conversa. (regra do Guilherme, 14/10/2026)
+- Abertura aprovada pelo Guilherme: "Olá, me chamo Guilherme, sou daqui de Ponta Grossa. Estou ajudando empresas de contabilidade a se tornarem ativas em IA — pra dar resultado, que é venda, que é o que importa. Podemos conversar?"
+
 ### O que NÃO fazer
 
 - Não criar prompts de IA com palavras-vazia ("photorealistic", "editorial style", "stunning").

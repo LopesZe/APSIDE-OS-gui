@@ -95,6 +95,62 @@ produto — é teste de **dor** e de **bolso**.
 - **Não vender** nem "deixar o cartão" — quem vende nessa fase polui o teste.
 - **Não pular bloco 2** — se ele nunca gastou com nada, H2 já morreu ali.
 
+## Abordagem por WhatsApp — abertura natural (14/10/2026)
+
+> Decisão do operador: **NÃO abrir com perguntas** ("quem chega perguntando tão
+> direto assim faz o cliente fugir"). Abertura é conversa normal; as 5 perguntas
+> viram o **guia da conversa**, perguntadas uma a uma conforme o assunto aparecer.
+> Zap faz a pré-triagem (blocos 0-2) e puxa a **reunião de 20 min**, onde o teste
+> é decidido (blocos 3-5). Canal não importa — o que importa é chegar nas 5
+> respostas com frase literal.
+
+### Msg 1 — abertura natural (fala do operador)
+
+> Olá, me chamo Guilherme, sou daqui de Ponta Grossa. Estou ajudando empresas
+> de contabilidade a se tornarem ativas em IA — pra dar resultado, que é venda,
+> que é o que importa. Podemos conversar?
+
+### Depois do "sim" — conversa, não questionário
+
+Falar 20%, ouvir 80%. As 5 perguntas entram **uma por vez**, conforme o assunto
+surgir — **nunca em lista numerada**:
+
+| Pergunta (na conversa, sem pressa) | Testa | Roteiro |
+|---|---|---|
+| Quantos clientes perderam em 2 anos e o que o cliente disse ao sair | **H1** | pergunta 6 |
+| Como mostra pro cliente o que a contabilidade fez por ele no mês | **H1** | perguntas 4-5 |
+| Quanto gasta/mês em ferramenta e se já pôs dinheiro em marketing | **H2** | perguntas 9-10 |
+| Quanto custa perder 1 cliente — faturamento × tempo pra repor | **H2** | pergunta 11 |
+| Quantos clientes de R$1-10mi com venda que dá pra rastrear | **H4** | pergunta 17 |
+
+A pergunta do custo de perder cliente é a mais matadora: força a conta na hora e
+vira **callback** na reunião ("você me disse que cada cliente saindo custa R$X…").
+
+### Fechamento — puxar a reunião
+
+> Valeu, trocar essa ideia foi bom. Tenho uns 20 min pra te mostrar o que eu
+> andei vendo de IA em contabilidade — [dia/hora] serve?
+
+### Regras do canal
+
+- **Nunca mandar lista de perguntas de uma vez** — lista numerada de desconhecido
+  afasta (correção do operador, 14/10/2026).
+- **Pergunta-chave 12 (fixo + %) só na reunião**, com confiança construída — a
+  reação (não só a resposta) é o dado.
+- **Nunca mandar** link/PDF da apresentação antes da reunião.
+- **Apresentação (`saidas/apresentacao-validacao-contadores-2026-10-02.html`)
+  é guia interno** (teleprompter do operador) — é interna (mostra hipóteses e
+  regras); não exibir pro contador.
+- Se recusar reunião mas engajar no texto: fechar blocos 3-4 por zap é válido —
+  frase literal fica até melhor preservada em texto.
+- Reunião fechando sempre com pergunta 20 (indicação) e 21 (resumo).
+
+### Mapa zap × reunião
+
+| Zap (pré-triagem) | Reunião 20 min (decisão) |
+|---|---|
+| Blocos 0, 1, 2 (5 perguntas acima) | Blocos 3, 4, 5 (perguntas 12, 18, indicação, resumo) |
+
 ## Onde achar os 5
 
 - Grupo de contadores no Facebook/WhatsApp (cidade/estado)
