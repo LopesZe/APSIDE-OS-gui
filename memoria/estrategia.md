@@ -5,108 +5,63 @@
 
 ## Fase
 
-Reposicionamento em curso (02/10/2026): sair de "vender peças" (landing page,
-post avulso) pra "consultoria que opera o resultado" — diagnóstico → dashboard →
-operacao recorrente.
-
-**Decisão B aprovada pelo operador em 02/10/2026** — migração em 2 etapas: mantém
-as peças (palco 1) como caixa enquanto valida a consultoria em paralelo. ~~Nada de
-mudar preço ou cobrar recorrência antes da validação.~~ **Revisto em 05/10/2026:**
-o operador aprovou o modelo de setup por nível + mensalidade fixa (R$ 5.000 +
-R$ 500/mês na ANG), **sem % sobre vendas** — ver `vendas/escada-precos.md` ›
-"SETUP POR NÍVEL + OPERAÇÃO MENSAL".
-
-## Direção (decisão B — aprovada 02/10/2026)
-
-Mudança de modelo proposta em 02/10/2026, baseada na análise do canal Kelvin Cleto
-(`analise/youtube/kelvin-cleto/`) e do case SP Alumínio/Kistra OS:
-
-1. **Porta de entrada:** diagnóstico pago (GMB + site + dados) — mantém o que já
-   funciona hoje.
-2. **Palco 2 — setup:** dashboard/CRM do cliente rodando (ranking de clientes por
-   margem, tracking de site/redes, funil). Personalizar o *entendimento* do cliente,
-   entregar plataforma padronizada (reuso por vertical).
-3. **Palco 3 — recorrência:** operação + medição contínua, com fixo + variável
-   (% sobre resultado), sem teto — é essa a alavanca de preço do modelo Kelvin.
-   **(Revisto 05/10/2026: o operador removeu a % sobre vendas do modelo vigente —
-   setup por nível + mensalidade fixa só, enquanto ele for novo no mercado.)**
-
-**Contabilidade — DESCARTADO (15/10/2026):** 5 conversas feitas, 0 reações
-positivas ("já uso IA e tô satisfeito" = dor ausente, porta fechada). Tese
-"Contab OS" fora; H1 e H4 morreram (H2 confirmado — eles gastam com IA, só não
-com a APSIDE). H3 (fixo + %) nunca chegou a ser testado. Palco 3 continua
-bloqueado. Roteiro e aprendizados preservados em
-`vendas/validacao-contadores.md`. **Próximo: definir nova vertical.**
-
-**Feito na etapa B (02/10):** escada reorganizada nos 3 palcos
-(`vendas/escada-precos.md`, valores inalterados), template de diagnóstico
-(`vendas/diagnostico-template.md`), `site/index.html` fechado (links, SEO,
-CTAs funcionais).
-
-**Site institucional CONCLUÍDO em 06/10/2026** (`site/SITE.md`) — conteúdo,
-design e exemplos fechados. **Deploy adiado: não fazer agora** (decisão do
-operador).
-
-**Framework de crescimento com IA adotado em 06/10/2026** — receita primeiro
-(front office → back office; ordem: ① Receita → ② Eficiência → ③ Escala;
-matriz Q1→Q4→Q2). Fonte única: `vendas/framework-crescimento-ia.md`; aplicado
-no diagnóstico (§6 e §8) e no slide 8 da `/proposta-kelvin`.
-
-**Ferramenta de CRM:** não construir agora. Decidir a base (HubSpot Free /
-planilha / Twenty / Frappe CRM / ERPNext) quando o primeiro cliente pagante
-definir a complexidade. ERPNext avaliado em 02/10: módulo CRM depreciado,
-pesado — descartado como base imediata.
+Fase inicial — 0 clientes pagantes. Consultoria AI-First que entra nas empresas
+por problemas digitais concretos e evolui pra operação do resultado.
 
 ## Prioridade principal
 
-**Dominar entrega:** Google Meu Negócio + criação de site (base de tudo).
+**Vender o primeiro cliente pagante.** Dominar entrega (Google Meu Negócio +
+site) é a base — não criar mais estruturas, skills, páginas ou automações antes
+de entregar bem e cobrar por isso. Regra de ouro.
 
-Prospecção segue pausada até a oferta ser reescrita no novo formato.
+## Vertical de atuação
 
-## O que fazer agora
+**A definir.** A escolha passa por estes filtros (aprendidos na validação de
+nicho de 10/2026):
 
-1. **Google Meu Negócio**
-   - Otimização completa de perfis
-   - Fotos, categorias, descrições, posts
-   - Gestão de avaliações
-   - SEO local
-   - ✅ Imagens PNG prontas pra upload (9 imagens, `marketing/gmb-imagens/png/`)
-   - ✅ Skill `gmb-imagens` criada pra reusar o workflow
+- O nicho **depende de ser encontrado** (busca ativa do cliente) — não vive só
+  de indicação ou Instagram
+- Tem **bolso**: já gasta com marketing/ferramenta ou o ticket paga o setup
+- Tem **dor de aquisição visível**: o problema é venda, não estrutura interna
+- **Braga justa**: a maioria tem presença digital fraca (sem agência instalada)
 
-2. **Criação de site**
-   - Landing pages para negócios locais
-   - Sites simples e funcionais
-   - Mobile-first, rápido, bonito
+Candidatos a varrer: reformas/obras (engenharia, marcenaria, serralheria),
+imobiliárias, esquadrias/portas de aço, oficinas especializadas.
+
+## Decisão de posicionamento (em aberto)
+
+Google/busca vs. eficiência/automação. Dados até agora: buscas locais ainda
+geram lead pra negócio com GMB forte; dor de eficiência é dispersa e o próprio
+framework manda receita primeiro (`vendas/framework-crescimento-ia.md`).
+Teste barato antes de decidir: publicar o GMB da APSIDE (imagens já prontas) e
+medir 2-3 semanas.
+
+## Ações imediatas
+
+1. **Publicar as 9 imagens + posts no GMB da APSIDE** (`marketing/gmb-imagens/png/`)
+2. **Fechar a vertical** — varredura real no Google Maps (Apify) com os filtros acima
+3. **1 vídeo de teste em vídeo/conteúdo** como canal de autoridade (secundário, não substitui prospecção)
+4. **Continuar prospecção** da vertical escolhida — abordagem natural por WhatsApp (ver `memoria/preferencias.md`)
 
 ## O que está pausado
 
-- Prospecção ativa (Instagram-first)
-- Sistema de prospecção (descontinuado)
-- Bundle GMB + site como produto principal
+- Prospecção em massa / sistema de prospecção
+- Tráfego pago (Google Ads + Meta Ads) — só depois de ter entrega + cliente
+- CRM (decidir a base quando o primeiro cliente definir a complexidade)
 
 ## Meta de curto prazo
 
-10 clientes em 60-90 dias. Ticket médio inicial: R$ 497-697.
-
-## Regra de ouro agora
-
-Não criar mais skills, páginas, automações e estruturas antes de dominar a entrega.
-
-## O que pode esperar
-
-- **Prospecção:** Pausada até dominar entrega
-- Google Meu Negócio como primeiro produto (R$497-697)
-- Landing page como segundo produto (R$997-1.500)
-- Bundle GMB + site como "presença completa" (R$1.697)
-- Projetos maiores conforme a confiança cresce
+**A definir pelo operador** — número de clientes e prazo conforme a vertical
+escolhida e a escada vigente (`vendas/escada-precos.md`).
 
 ## O que NÃO priorizar agora
 
-- Social recorrente R$397-597/mês (recall 01/10 corrigiu o preço; ainda não priorizar)
-- Mentoria R$2.000 (precisa de cases primeiro)
-- CRM/automação/IA (usar conforme problemas aparecerem)
-- Trafego pago (não oferecer até ter Google + site prontos)
+- % sobre vendas / comissão
+- Social recorrente como produto principal
+- Mentoria (precisa de cases)
+- Nova vertical, novo posicionamento ou novo canal antes de testar com dados
 
 ## Contexto com prazo
 
-O nicho de agentes de IA satura em ~18-24 meses. Mas esse não é o foco agora. O foco é: entregar com qualidade e construir cases reais.
+O nicho de agentes de IA satura em ~18-24 meses. Foco agora: entregar com
+qualidade e construir cases reais.

@@ -3,5 +3,7 @@
 Tarefas em aberto. Formato: `- [ ] (dd/mm) @prioridade descrição #projeto`.
 Curadoria mensal: ao concluir, mover para `archive/` (nunca `rm`).
 
-- [ ] (26/09) @media Quando o Guilherme pedir transcrições de YouTube: fazer o fluxo com os scripts de `analise/youtube/money-home-office-jorge/` (get-videos → yt-dlp → clean-subs), aprender com o que funcionar/errar e então criar a skill `/transcrever-youtube` — só criar a skill a partir do uso real, não antes. #ferramentas
-- [x] (14/10) @alta Validação contábil — **ENCERRADA 15/10: 5 conversas feitas, 0 positivas. Nicho descartado** (ver `memoria/estrategia.md`). Próxima ação: definir nova vertical. #validacao-contabeis
+- [ ] (15/10) @alta Publicar as 9 imagens + posts no GMB da APSIDE (`marketing/gmb-imagens/png/`) e medir contato por 2-3 semanas #gmb
+- [ ] (15/10) @alta Fechar a vertical de atuação — varredura no Google Maps (Apify) com os filtros de `memoria/estrategia.md` #vendas
+- [ ] (15/10) @media 1 vídeo de teste como canal de autoridade (secundário à prospecção) #conteudo
+- [ ] (26/09) @media Quando o Guilherme pedir transcrições de YouTube: usar os scripts de `analise/youtube/money-home-office-jorge/` (get-videos → yt-dlp → clean-subs); skill `/transcrever-youtube` só a partir do uso real #ferramentas

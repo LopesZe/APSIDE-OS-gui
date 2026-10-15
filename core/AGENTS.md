@@ -12,11 +12,11 @@ quem está lidando.
 - **Dependências:** skills em `.opencode/skills/`, memória em `memoria/`.
 
 ## Estado
-- Saudável. Auditoria 01/10 sem críticos (`reports/audits/2026-10-01.md`); `design-guide.md` completo.
-- **0 clientes pagantes** — ANG Festas reclassificada como **teste, não cliente** (01/10/2026); site ANG mantido como histórico.
-- Análise do canal Kelvin Cleto salva em `analise/youtube/kelvin-cleto/` (206 transcrições, análise, apresentação HTML).
-- **02/10/2026** — `sistema/` (herança de outro projeto) movido para `archive/sistema-representante/`.
-- **06/10/2026** — site institucional **concluído** (`site/SITE.md`); deploy
-  **adiado** (decisão do operador: não fazer agora).
-- Próximo passo recomendado: dominar entrega (GMB + site) e **definir nova
-  vertical** (contabilidade descartada em 15/10: 5 conversas, 0 positivas).
+- Saudável. Última auditoria 14/10/2026 sem críticos (`reports/audits/2026-10-14.md`);
+  `design-guide.md` completo.
+- **0 clientes pagantes** — ANG Festas e TESTE - EMPRESA X (Agroterra) são testes,
+  não clientes nem cases.
+- Site institucional concluído (`site/SITE.md`); deploy pendente de decisão do operador.
+- Análise do canal Kelvin Cleto em `analise/youtube/kelvin-cleto/` (206 transcrições).
+- Próximo passo: vender o primeiro cliente — fechar vertical de atuação
+  (`memoria/estrategia.md`) e publicar o GMB da APSIDE.

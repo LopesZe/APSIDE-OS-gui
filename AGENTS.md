@@ -114,8 +114,8 @@ Quando o usuário pedir skill nova:
 
 **Regra:** não criar skill à parte pra guardar procedimento que cabe na fonte do
 assunto. Atualização de informação vai na fonte dela (ex.: recall de preços vive
-em `vendas/escada-precos.md`, não numa skill `recall-precos` — criada e removida
-em 01/10/2026). Skill só pra workflow próprio, com dependências e gatilhos próprios.
+em `vendas/escada-precos.md`, não numa skill `recall-precos`). Skill só pra
+workflow próprio, com dependências e gatilhos próprios.
 
 ---
 

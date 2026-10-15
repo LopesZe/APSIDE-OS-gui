@@ -77,22 +77,18 @@ A logo deve ter ao menos metade de sua altura como espaço livre ao redor.
 
 ---
 
-## 3. Ícone — DESCONTINUADO (05/10/2026)
+## 3. Ícone — não usar
 
-O símbolo orbital (átomo) foi **removido da marca por ordem do operador**. Os
-quatro arquivos `icone-apside*.svg` foram apagados do repositório.
-
-- A marca é **só o wordmark** (seção 2).
+A marca é **só o wordmark** (seção 2).
 - Favicon, perfil social e cantos de peça usam a palavra APSIDE — nunca um símbolo.
-- Nenhuma peça nova pode referenciar `icone-apside*`.
+- Nenhuma peça pode referenciar `icone-apside*` (arquivos não existem).
 
 ---
 
 ## 4. Paleta de Cores
 
-Paleta — índigo sobre preto (ordem do operador, 05/10/2026). Atualização da
-noite de 05/10/2026: accent virou `#4331e9` e o fundo escuro virou `#000000`
-com fade de `#2F2399` subindo do rodapé.
+Paleta — índigo sobre preto: accent `#4331e9`, fundo escuro `#000000` com fade de
+`#2F2399` subindo do rodapé.
 
 ### 4.1 Tokens
 

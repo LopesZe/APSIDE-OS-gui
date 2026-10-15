@@ -1,9 +1,8 @@
 # Validação do nicho contábil — 5 conversas
 
-> **Gatilho:** decisão B do modelo (02/10/2026) — `memoria/estrategia.md`.
-> **Fonte única deste roteiro.** A apresentação
-> `saidas/apresentacao-validacao-contadores-2026-10-02.html` é espelho visual.
-> **Nenhuma proposta, preço ou demo do palco 3 antes de fechar as 5 conversas.**
+> **Status: ENCERRADA (15/10/2026) — 0 reações positivas, nicho não validado.**
+> Mantido como aprendizado (critérios de seleção de nicho já absorvidos em
+> `memoria/estrategia.md` e `memoria/clientes-ideais.md`). Não usar em proposta.
 
 ## Objetivo
 
@@ -97,7 +96,7 @@ produto — é teste de **dor** e de **bolso**.
 
 ## Abordagem por WhatsApp — abertura natural (14/10/2026)
 
-> Decisão do operador: **NÃO abrir com perguntas** ("quem chega perguntando tão
+> **NUNCA abrir com perguntas** ("quem chega perguntando tão
 > direto assim faz o cliente fugir"). Abertura é conversa normal; as 5 perguntas
 > viram o **guia da conversa**, perguntadas uma a uma conforme o assunto aparecer.
 > Zap faz a pré-triagem (blocos 0-2) e puxa a **reunião de 20 min**, onde o teste

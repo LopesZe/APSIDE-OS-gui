@@ -7,9 +7,7 @@
 
 ## 1. Paleta de cores
 
-Paleta (ordem do operador, 05/10/2026) — índigo sobre preto. Substitui
-todo o time marinho/verde/azul anterior. Atualização da noite de 05/10/2026:
-accent virou `#4331e9`, fundo escuro virou `#000000` com fade de `#2F2399`.
+Paleta — índigo sobre preto: accent `#4331e9`, fundo escuro `#000000` com fade de `#2F2399`.
 
 ### Tokens
 
@@ -36,24 +34,21 @@ accent virou `#4331e9`, fundo escuro virou `#000000` com fade de `#2F2399`.
 | Escuro (`#000000`) | **Índigo claro `#6E5CFF`** | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
 | Claro (`#E7E6EF`) | **Índigo `#4130D8`** (ou `#4331e9`) | `#4130D8` | `#4130D8` + texto `#E7E6EF` |
 
-**Contraste no escuro:** `#4331e9` sobre preto dá 2,9:1 — serve pra barras,
-bordas e superfícies, mas **não como texto** (mesmo problema do antigo
-`#4130D8`). O texto de destaque é `#6E5CFF` (4,6:1). No fundo claro,
-`#4331e9` dá 5,9:1 e pode ser usado como texto normalmente.
+`#4331e9` sobre preto dá 2,9:1 — serve pra barras, bordas e superfícies, mas
+**não como texto** (mesmo problema do `#4130D8`). O texto de destaque é `#6E5CFF`
+(4,6:1). No fundo claro, `#4331e9` dá 5,9:1 e pode ser usado como texto normalmente.
 
 ### Cores fora da paleta (proibidas)
 
-`#1F2133` (marinho antigo), `#34544C` (verde antigo), `#0066FF` (azul antigo),
-`#00E65B`, `#6E00FF`, `#FFFFFF` como fundo. Branco puro só aparece dentro de
-fotos, prints e mockups de terceiros.
+`#1F2133`, `#34544C`, `#0066FF`, `#00E65B`, `#6E00FF`, `#FFFFFF` como fundo.
+Branco puro só aparece dentro de fotos, prints e mockups de terceiros.
 
-### Gradiente — ABOLIDO (1 exceção)
+### Gradiente — proibido (1 exceção)
 
 Nenhum gradiente em elementos, botões, cards ou texto. Cores chapadas.
-**Exceção única (05/10/2026):** fade do fundo escuro — `#2F2399` subindo do
-rodapé e dissolvendo no preto (`radial-gradient` ou `linear-gradient`), sem
-nunca passar por trás de texto de corpo. (Trio antigo verde→azul→roxo abolido
-em 02/10/2026.)
+**Exceção única:** fade do fundo escuro — `#2F2399` subindo do rodapé e
+dissolvendo no preto (`radial-gradient` ou `linear-gradient`), sem nunca passar
+por trás de texto de corpo.
 
 ### Bordas e sombra
 
@@ -66,7 +61,7 @@ em 02/10/2026.)
 
 ## 2. Tipografia
 
-Sistema de 3 fontes (ordem do operador, 05/10/2026). **Inter saiu.**
+Sistema de 3 fontes.
 
 | Token | Fonte | Papel | Pesos |
 |---|---|---|---|
@@ -122,14 +117,11 @@ Tipo: texto "APSIDE" em DM Sans Bold, letter-spacing largo. **Sem símbolo.**
 
 ---
 
-## 5. Ícone — DESCONTINUADO (05/10/2026)
+## 5. Ícone — não usar
 
-O símbolo orbital (átomo) foi **removido da marca por ordem do operador**. Os
-quatro arquivos `icone-apside*.svg` foram apagados. A marca é só o wordmark.
-
-- Não existe favicon/perfil com símbolo: usar recorte do wordmark ou a palavra
-  em fundo `#000000`.
-- Nenhuma peça nova pode referenciar `icone-apside*`.
+A marca é **só o wordmark**. Não existe favicon/perfil com símbolo: usar
+recorte do wordmark ou a palavra em fundo `#000000`. Nenhuma peça pode
+referenciar `icone-apside*` (arquivos não existem).
 
 ---
 
@@ -144,9 +136,9 @@ quatro arquivos `icone-apside*.svg` foram apagados. A marca é só o wordmark.
 - Usar as cores de borda e sombra conforme a tabela
 
 ### Nunca fazer
-- Usar cor fora dos 6 tokens (marinho, verde, azul elétrico antigos estão mortos)
+- Usar cor fora dos 6 tokens
 - Usar gradiente em elementos, botões, cards ou texto (só o fade de fundo `#2F2399`→preto é permitido)
-- Usar o ícone `icone-apside*` — apagado em 05/10/2026
+- Usar o ícone `icone-apside*` (arquivos não existem)
 - Usar `#4130D8` ou `#4331e9` como texto de destaque sobre o fundo escuro (2,2:1 e 2,9:1 — usar `#6E5CFF`)
 - Usar `#6E5CFF` como texto sobre fundo claro (contraste baixo — usar `#4331e9` ou `#2F2399`)
 - Misturar paletas de marcas diferentes na mesma peça
@@ -189,10 +181,10 @@ Templates em `marketing/templates/`:
 - `post-unico-base.html` (1080×1080)
 - `story-base.html` (1080×1920, 9:16)
 - `legenda-modelo.md`
-- `render.js`
+- `render.cjs`
 
-Para criar peça nova: copiar para `marketing/conteudo/carrossel-<tema>-<AAAA-MM-DD>/` e trocar texto. Cores paramêtricas no topo do CSS (`:root`) — trocar pela paleta 05/10/2026.
+Para criar peça nova: copiar para `marketing/conteudo/carrossel-<tema>-<AAAA-MM-DD>/` e trocar texto. Cores paramêtricas no topo do CSS (`:root`) — usar a paleta deste guia.
 
 ---
 
-*Atualizado em 2026-10-05 — accent `#4331e9` / texto `#6E5CFF`, fundo preto com fade `#2F2399`, ícone removido.*
+*Paleta vigente: índigo sobre preto — accent `#4331e9`, texto `#6E5CFF`, fundo `#000000` com fade `#2F2399`.*

@@ -1,16 +1,8 @@
 # Precificação — APSIDE
 
 > Faixas de preço por tipo de problema. Referência interna, não caminho obrigatório do cliente.
-> **Recall de 01/10/2026:** faixas repaginadas após análise da proposta Conta Gestor
-> (escopo cobrava chatbot dentro de R$1.497 — subfaturado ~70%). Fonte única: este arquivo.
-> **Display NFC descontinuado em 01/10/2026** — não vender, não cobrar, não incluir em propostas.
-> **Reorganização em 3 palcos em 02/10/2026** (decisão B do reposicionamento, ver
-> `memoria/estrategia.md`). Nenhum valor mudou — só a estrutura. Toda faixa nova ou
-> alteração passa por gate humano (tabela antes → depois aprovada).
-> **Modelo de setup + mensalidade aprovado em 05/10/2026** (áudio do operador —
-> ele escolheu os valores): ver seção "SETUP POR NÍVEL + OPERAÇÃO MENSAL".
-> **% sobre vendas REMOVIDA do modelo vigente em 05/10/2026** — operador novo no
-> mercado, comissão é dor de cabeça, não dinheiro. Só volta se ele decidir.
+> Fonte única de preços. Toda faixa nova ou alteração passa por gate humano
+> (tabela antes → depois aprovada pelo operador).
 
 ## PRINCÍPIO
 
@@ -22,7 +14,7 @@ Nunca cobrar pelo tempo de execução. Se uma solução pode ser produzida em 3 
 
 ---
 
-## OS TRÊS PALCOS (modelo B — migração em 2 etapas)
+## OS TRÊS PALCOS
 
 | Palco | O que entrega | Faixa | Papel no caixa |
 |-------|---------------|-------|----------------|
@@ -107,8 +99,7 @@ Um lead respondido em 1 minuto às 22h vale o projeto inteiro — **nunca embuti
 
 **O que inclui:** 8 peças/mês (posts ou reels), calendário editorial, legendas.
 
-**Obs:** o social recorrente antigo (R$197/mês) tinha relação esforço/receita ruim —
-o recall de 01/10 corrige isso. Só vender se faturar a faixa completa (ver `estrategia.md`).
+**Obs:** social recorrente só se faturar a faixa completa (ver `memoria/estrategia.md`).
 
 ---
 
@@ -152,35 +143,33 @@ o recall de 01/10 corrige isso. Só vender se faturar a faixa completa (ver `est
 
 ## PALCO 3 — RECORRÊNCIA (operação do resultado)
 
-**Status: NÃO VALIDADO.** Tese do reposicionamento de 02/10/2026 (modelo Kelvin Cleto +
-case SP Alumínio/Kistra). Não sai em proposta antes das 5 conversas de validação
-(`vendas/validacao-contadores.md`) e do gate humano.
+**Status: NÃO VALIDADO.** Não sai em proposta antes de 1 cliente real pagando no
+formato e do gate humano.
 
 **O que resolve:** o cliente não quer "mais um fornecedor" — quer alguém que opere o
 resultado e mostre o número todo mês.
 
-**Formato (revisto em 05/10/2026):** fixo, sem variável:
+**Formato:** fixo, sem variável:
 - **Setup:** entrada única que custa a implantação (nível conforme escopo — ver
   "SETUP POR NÍVEL + OPERAÇÃO MENSAL" abaixo).
 - **Mensalidade fixa:** operação + revisão quinzenal + relatório mensal.
-- **Variável (% sobre resultado): REMOVIDA** em 05/10/2026 por decisão do operador
-  ("sou muito novo no mercado, comissão sobre vendas é mais dor de cabeça que
-  dinheiro"). Não cobrar % em proposta nenhuma até nova ordem.
+- **NUNCA % sobre vendas / comissão** enquanto o operador for novo no mercado —
+  não cobrar % em proposta nenhuma até nova ordem.
 
 **Referência de partida (extraída do canal Kelvin, calibrar com o primeiro cliente):**
 - Setup ≈ 10% do valor gerado no primeiro ciclo
 - Mensalidade ≈ 10–20% do setup
 
 **O que NÃO fazer nesse palco:**
-- Cobrar % sobre vendas enquanto o operador for novo no mercado (05/10/2026)
+- Cobrar % sobre vendas enquanto o operador for novo no mercado
 - Pular a prova de resultado do palco 2 antes de cobrar recorrência
 
 ---
 
-## SETUP POR NÍVEL + OPERAÇÃO MENSAL (modelo vigente — aprovado 05/10/2026)
+## SETUP POR NÍVEL + OPERAÇÃO MENSAL (modelo vigente)
 
-**Decisão direta do operador (áudio, 05/10/2026).** Vale pra todo fluxo
-diagnóstico → apresentação → proposta (skill `proposta-kelvin`).
+**Vale pra todo fluxo diagnóstico → apresentação → proposta** (skill
+`proposta-kelvin`).
 
 ### Setup (implantação única) — 3 níveis
 
@@ -205,14 +194,6 @@ diagnóstico → apresentação → proposta (skill `proposta-kelvin`).
 
 ---
 
-## DISPLAY NFC — DESCONTINUADO
-
-**Não vender mais (ordem do operador, 01/10/2026).**
-- Fora de propostas, pacotes, scripts e do guia de preços.
-- Placas já entregues seguem configuradas (sem cobrança nova, sem prospecção).
-
----
-
 ## COMO DEFINIR O PREÇO DO PROJETO
 
 Para cada cliente, avaliar:
@@ -234,15 +215,15 @@ Para cada cliente, avaliar:
 
 ## EVOLUÇÃO DOS PREÇOS
 
-~~Após 3-4 cases com resultado comprovado:~~ **Aplicado no recall de 01/10/2026:**
-- Presença no Google: R$ 497–697 ✅
-- Landing Page: R$ 997–1.500 ✅
-- Estruturação: R$ 2.500–7.500 ✅
-- Chatbot WhatsApp: R$ 3.000–5.000 (item novo) ✅
+Faixas vigentes:
+- Presença no Google: R$ 497–697
+- Landing Page: R$ 997–1.500
+- Estruturação: R$ 2.500–7.500
+- Chatbot WhatsApp: R$ 3.000–5.000
 
 Reajuste a cada 6 meses (próximo: 01/04/2027).
 
-### Como rodar o recall (esse arquivo é a fonte — nada de skill à parte)
+### Como atualizar os preços (esse arquivo é a fonte — nada de skill à parte)
 
 1. **Gate humano:** tabela antes → depois aprovada pelo operador antes de escrever.
 2. **Repaginar esta escada** (data no cabeçalho) e **propagar os valores novos:**
@@ -252,8 +233,8 @@ Reajuste a cada 6 meses (próximo: 01/04/2027).
    - `clientes/_template/` e `memoria/estrategia.md`
    - `memoria/mentores.md`: NUNCA trocar preços dos mentores
 3. **Corrigir erros na hora:** conta que não fecha, bundle fora das faixas, ticket
-   abaixo do piso. **Retirar da venda ativa** o que foi descontinuado (caso Display
-   NFC: escada, empresa, scripts, skills, guia — históricos não tocar).
+   abaixo do piso. **Retirar da venda ativa** o que não existe mais (históricos não
+   tocar).
 4. **Re-render:** `node vendas/render-guia.cjs` (guia) + escopos de cliente
    (`render-apside.cjs` — playwright, nunca Edge headless).
 5. **Varredura final:** grep por preço velho e nome de descontinuado em `*.md`/`*.html`,

@@ -1,11 +1,10 @@
 # Preferências
 
 > Como o OpenCode escreve em nome da APSIDE. Tom, estilo, vícios a evitar.
-> Preenchido pelo `/instalar`.
 
 ## Tom de voz
 
-Fala direto, informal, pensamento solto e estratégico — estilo conversa de WhatsApp / áudio transcrito. Escreve como fala: usa "né", "acabou que", "belo serviço", "no sufoco". Exemplo real capturado: raciocínio sobre pesquisa de agentes de IA (Bruno Okamoto / Pixel AI Hub), saturação do nicho em 18–24 meses, construção de autoridade via conteúdo, e a dificuldade de investir agora (Cloud R$500/mês ainda pesa).
+Fala direto, informal, pensamento solto e estratégico — estilo conversa de WhatsApp / áudio transcrito. Escreve como fala: usa "né", "acabou que", "belo serviço", "no sufoco".
 
 ## O que evitar
 
@@ -25,7 +24,7 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 
 ### Logo APSIDE
 
-- **NUNCA usar a logo em gradiente** (`logo-apside-gradiente*`). Regra dita pelo Guilherme em 28/09/2026 — os arquivos foram excluídos do repositório.
+- **NUNCA usar a logo em gradiente.** Os arquivos de gradiente não existem mais.
 - Usar o wordmark sólido: `identidade/logo-apside.svg` (branco) em fundo escuro, `identidade/logo-apside-claro.svg` (preto) em fundo claro.
 - Vale pra tudo: prévias, PDFs de cliente, propostas, posts.
 
@@ -34,7 +33,7 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 - **NÃO usar prompts de IA** (Midjourney, DALL-E) pra imagens do GMB. Resultado sempre ruim, genérico, "horrible" nas palavras do Guilherme.
 - **SIM usar HTML + CSS → PNG** via puppeteer. Layout split: fundo claro à esquerda com badge + título + features, fundo escuro da paleta (`#000000` com fade de `#2F2399`) à direita com visual/mockup.
 - Template base: `marketing/gmb-imagens/gerar-pngs.cjs` + HTMLs na mesma pasta.
-- **Cores e fontes: só `identidade/design-guide.md`** (paleta índigo/obsidian desde 05/10/2026). **NUNCA gradiente da marca** (verde→azul→roxo abolido em 02/10/2026); roxo `#6E00FF` fora da paleta.
+- **Cores e fontes: só `identidade/design-guide.md`** (paleta índigo/obsidian). **NUNCA gradiente da marca**; roxo `#6E00FF` fora da paleta.
 - **Palavra de destaque, botões e barras:** conforme a tabela de destaque do `design-guide.md` (escuro → `#6E5CFF`, claro → `#4130D8`). `#4331e9` só em barras/bordas, nunca como texto no escuro.
 - Sempre gerar em **2x (deviceScaleFactor: 2)** pra qualidade boa em telas Retina.
 
@@ -48,7 +47,7 @@ Honesto sobre limitações (grana, fase inicial). Estratégico, enxerga o mercad
 
 ### Prospecção / abordagem
 
-- **NUNCA abrir com lista de perguntas nem pesquisa direta** ("quem chega perguntando tão direto assim faz o cliente fugir"). Abrir com conversa normal: nome, cidade, contexto curto, convite pra conversar. Perguntas de diagnóstico entram aos poucos, na conversa. (regra do Guilherme, 14/10/2026)
+- **NUNCA abrir com lista de perguntas nem pesquisa direta** ("quem chega perguntando tão direto assim faz o cliente fugir"). Abrir com conversa normal: nome, cidade, contexto curto, convite pra conversar. Perguntas de diagnóstico entram aos poucos, na conversa.
 - Abertura aprovada pelo Guilherme: "Olá, me chamo Guilherme, sou daqui de Ponta Grossa. Estou ajudando empresas de contabilidade a se tornarem ativas em IA — pra dar resultado, que é venda, que é o que importa. Podemos conversar?"
 
 ### O que NÃO fazer
