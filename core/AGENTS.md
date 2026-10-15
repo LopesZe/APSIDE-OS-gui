@@ -18,5 +18,5 @@ quem está lidando.
 - **02/10/2026** — `sistema/` (herança de outro projeto) movido para `archive/sistema-representante/`.
 - **06/10/2026** — site institucional **concluído** (`site/SITE.md`); deploy
   **adiado** (decisão do operador: não fazer agora).
-- Próximo passo recomendado: dominar entrega (GMB + site) e avançar a validação
-  do nicho contábil (`vendas/validacao-contadores.md`).
+- Próximo passo recomendado: dominar entrega (GMB + site) e **definir nova
+  vertical** (contabilidade descartada em 15/10: 5 conversas, 0 positivas).

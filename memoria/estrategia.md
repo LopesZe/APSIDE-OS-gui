@@ -31,13 +31,12 @@ Mudança de modelo proposta em 02/10/2026, baseada na análise do canal Kelvin C
    **(Revisto 05/10/2026: o operador removeu a % sobre vendas do modelo vigente —
    setup por nível + mensalidade fixa só, enquanto ele for novo no mercado.)**
 
-**Nicho candidato a validar:** contabilidade (tese "Contab OS" — margem 30% →
-50-60%, "instala numa, instala na outra"). Ainda não validado com cliente real.
-
-**Validação em andamento:** roteiro das 5 conversas com contadores em
-`vendas/validacao-contadores.md` + apresentação de perguntas em
-`saidas/apresentacao-validacao-contadores-2026-10-02.html`. Aprovação = 3 das 5
-conversas com reação positiva ao formato fixo + variável.
+**Contabilidade — DESCARTADO (15/10/2026):** 5 conversas feitas, 0 reações
+positivas ("já uso IA e tô satisfeito" = dor ausente, porta fechada). Tese
+"Contab OS" fora; H1 e H4 morreram (H2 confirmado — eles gastam com IA, só não
+com a APSIDE). H3 (fixo + %) nunca chegou a ser testado. Palco 3 continua
+bloqueado. Roteiro e aprendizados preservados em
+`vendas/validacao-contadores.md`. **Próximo: definir nova vertical.**
 
 **Feito na etapa B (02/10):** escada reorganizada nos 3 palcos
 (`vendas/escada-precos.md`, valores inalterados), template de diagnóstico

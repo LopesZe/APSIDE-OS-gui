@@ -32,9 +32,10 @@ github:                14/10 — pull (deck Agroterra 08/10 + validacao-contador
 - **Deploy do site institucional** — site **CONCLUÍDO em 06/10/2026**
   (`site/SITE.md`); deploy **adiado por decisão do operador (06/10: não fazer
   agora)**. `og:image`/`og:url` entram só quando o deploy acontecer
-- **Validação do nicho contábil** — reescrita **14/10** (5 perguntas viraram guia
-  de conversa no WhatsApp, `vendas/validacao-contadores.md`); **conversas a fazer**
-  (nenhuma feita ainda); nenhuma proposta do palco 3 antes disso
+- **Validação do nicho contábil** — **ENCERRADA 15/10: 5 conversas, 0 reações
+  positivas → nicho descartado** (ver `memoria/estrategia.md`). Roteiro e
+  aprendizados preservados em `vendas/validacao-contadores.md`. Próximo:
+  definir nova vertical
 - **Deck Agroterra** — `clientes/TESTE - EMPRESA X/vendas/apresentacao-proposta-agroterra.html`
   com 2 cores mortas (baixa; revisar no próximo uso)
 - **`diarios/` vazio** — registro diário parado desde o início (`decisoes/` iniciado em 01/10)
