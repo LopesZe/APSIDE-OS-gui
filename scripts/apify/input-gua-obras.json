@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "engenharia civil Guarapuava PR",
+    "marcenaria Guarapuava PR",
+    "construção e reforma Guarapuava PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

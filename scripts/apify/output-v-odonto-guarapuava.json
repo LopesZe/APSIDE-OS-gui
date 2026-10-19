@@ -1,0 +1,3617 @@
+[
+  {
+    "title": "Clínica Odonto Center Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Quintino Bocaiúva, 1333 - Centro, Guarapuava - PR, 85010-100, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quintino Bocaiúva, 1333",
+    "city": "Guarapuava",
+    "postalCode": "85010-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.odontocenterguarapuava.com.br/",
+    "phone": "+55 42 3626-2602",
+    "phoneUnformatted": "+554236262602",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3971601,
+      "lng": -51.4691324
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQBcSiw275QRdJwjELTTkFA",
+    "categories": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Orthodontist"
+    ],
+    "fid": "0x94ef362c4a5c0001:0x5090d3b410239c74",
+    "cid": "5805372689998912628",
+    "reviewsCount": 34,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Odonto%20Center%20Guarapuava&query_place_id=ChIJAQBcSiw275QRdJwjELTTkFA",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc19RzOj6r4iP56wNRexUo2tdrA3N1WEw4K48t3OI_JNQc6ygCdXBnkDHSGmYZWY8o16-hksO2isLjfLqlxsiBncJZPkRIcsY5e2bPi-i0QJVTHODq45VpUury22vauFZgOHHy6nA=w408-h272-k-no",
+    "kgmid": "/g/11fy9g0n1d",
+    "businessProfileId": "6222634697851556900"
+  },
+  {
+    "title": "Oral Unic Implantes Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Padre Chagas, 2717 - Centro, Guarapuava - PR, 85010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Chagas, 2717",
+    "city": "Guarapuava",
+    "postalCode": "85010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://oralunicguarapuava.com.br/",
+    "phone": "+55 42 99152-5611",
+    "phoneUnformatted": "+5542991525611",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3888376,
+      "lng": -51.4620949
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDTSR0qs375QR7Ml63oVO9ik",
+    "categories": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "fid": "0x94ef37abd291340d:0x29f64e85de7ac9ec",
+    "cid": "3023690536696072684",
+    "reviewsCount": 213,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 211
+    },
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oral%20Unic%20Implantes%20Guarapuava&query_place_id=ChIJDTSR0qs375QR7Ml63oVO9ik",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu18KWmo8rcDzXjYXBsoRRkHkJSVi2Qwsn9DYHj1ktMobSq7qIeVWJ8JurWTYR3B31syfiE7TZUTGQuuB0cJoDjgQU1cTw4uFV8cpMmEfIRGtsfjkfG6bmhMwV6WTPRINp2tnxrhLYvvWE=w408-h544-k-no",
+    "kgmid": "/g/11qsmmh74v",
+    "businessProfileId": "18186791626528893974"
+  },
+  {
+    "title": "OrthoDontic",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Mal. Floriano Peixoto, 1670 - Sl 1 - Centro, Guarapuava - PR, 85010-250, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Floriano Peixoto, 1670 - Sl 1",
+    "city": "Guarapuava",
+    "postalCode": "85010-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.orthodonticbrasil.com.br/clinicas/clinica-odontologica-orthodontic-guarapuava-218/",
+    "phone": "+55 42 3035-7222",
+    "phoneUnformatted": "+554230357222",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.392576,
+      "lng": -51.4671554
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpboVBwU375QR45aejktRhyU",
+    "categories": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Emergency dental service",
+      "Endodontist",
+      "Orthodontist",
+      "Orthotics & prosthetics service",
+      "Specialized clinic"
+    ],
+    "fid": "0x94ef37050715baa5:0x2587514b8e9e96e3",
+    "cid": "2704219486216427235",
+    "reviewsCount": 276,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 5,
+      "fiveStar": 267
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OrthoDontic&query_place_id=ChIJpboVBwU375QR45aejktRhyU",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aFeM0d1vLZ1RAScNO12NaA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=46.040154&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rw9018jy",
+    "businessProfileId": "9631221183316859974"
+  },
+  {
+    "title": "OdontoTop",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. XV de Novembro, nº 7636 - Sl B - Centro, Guarapuava - PR, 85010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. XV de Novembro, nº 7636 - Sl B",
+    "city": "Guarapuava",
+    "postalCode": "85010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://odontotophospitaldodente.com.br/guarapuava/",
+    "phone": "+55 42 98886-2648",
+    "phoneUnformatted": "+5542988862648",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3942071,
+      "lng": -51.4674039
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf-3Zqm4375QRWF8Szsc1htc",
+    "categories": [
+      "Dental clinic",
+      "Dentist",
+      "Dental implants periodontist",
+      "Dental radiology",
+      "Oral surgeon"
+    ],
+    "fid": "0x94ef376eaad9ed7f:0xd78635c7ce125f58",
+    "cid": "15530159497305808728",
+    "reviewsCount": 108,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 100
+    },
+    "imagesCount": 33,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OdontoTop&query_place_id=ChIJf-3Zqm4375QRWF8Szsc1htc",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk5TqlQvOq2j6tkTRDiJNGHFPIJ6VdMI6IK1foRfVWPR511Sr-aTJoV5f9eGu1mJ47Ve3nMFZleMcpi8dANT-9h54PbzCJbWy9rAwczleRmHxk19FeD01vt9QZQ5cE1twB5rnJig=w408-h271-k-no",
+    "kgmid": "/g/11mw72c6wy",
+    "businessProfileId": "5571316769112910388"
+  },
+  {
+    "title": "Clínica Vitta odontologia e bem estar",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Clínica de Harmonização Facial em Guarapuava - Rua Xavier da Silva, 1470 Os Melhores Dentista em - Centro, Guarapuava - PR, 85010-220, Brazil",
+    "neighborhood": "Centro",
+    "street": "Clínica de Harmonização Facial em Guarapuava - Rua Xavier da Silva, 1470 Os Melhores Dentista em",
+    "city": "Guarapuava",
+    "postalCode": "85010-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://clinicavittaguarapuava.com.br/",
+    "phone": "+55 42 98814-8443",
+    "phoneUnformatted": "+5542988148443",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3889843,
+      "lng": -51.4672209
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLR2eVDE275QR1QJLXhjwJUE",
+    "categories": [
+      "Dental clinic",
+      "Dentist",
+      "Orthodontist"
+    ],
+    "fid": "0x94ef3631549e1d2d:0x4125f0185e4b02d5",
+    "cid": "4694422174055465685",
+    "reviewsCount": 112,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 111
+    },
+    "imagesCount": 64,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Vitta%20odontologia%20e%20bem%20estar&query_place_id=ChIJLR2eVDE275QR1QJLXhjwJUE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC3sRNXLGOOh8jq-U5uffK9c_L22BQQ1vT4ePCnJzA7YUqvv2RlyFTYwlATjDhVO2q9Nbe0pHizdAhCFbVgLtNp9yVVJd2v7kXF7hqcuI27F2Vzs9PJs0NUwT5K0KxZURfpCsT1CXQ1vw=w408-h725-k-no",
+    "kgmid": "/g/11c2nc6g57",
+    "businessProfileId": "18086360348708087061"
+  },
+  {
+    "title": "Dedicatta Odontologia Especializada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Rua Capitão Frederico Virmond, 2634 - Santa Cruz, Guarapuava - PR, 85010-120, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "Rua Capitão Frederico Virmond, 2634",
+    "city": "Guarapuava",
+    "postalCode": "85010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3304-4233",
+    "phoneUnformatted": "+554233044233",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3980479,
+      "lng": -51.4688133
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJweh0Cc375QRLIwGev15yPA",
+    "categories": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "fid": "0x94ef3727d0a10727:0xf0c879fd7a068c2c",
+    "cid": "17350251694025772076",
+    "reviewsCount": 96,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 96
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dedicatta%20Odontologia%20Especializada&query_place_id=ChIJJweh0Cc375QRLIwGev15yPA",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtzVcrF3WCuFZZhvY7_Y0XPXeUB7cRk5WbDBkejB8HdQi5v_rwMko2q-ZVE1PrzzEePP3D2MKNrbUuvATU3dyC1L1zgTzTj44G6oSCOFE4irKxv78tEq9arUpAqluJZIaKFBxC=w408-h291-k-no",
+    "kgmid": "/g/11rtslnxlh",
+    "businessProfileId": "1791404992842446651"
+  },
+  {
+    "title": "Master Odontologia e Saúde",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Guaíra, 3280 - Centro, Guarapuava - PR, 85010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Guaíra, 3280",
+    "city": "Guarapuava",
+    "postalCode": "85010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.masterodontologiaesaude.com/",
+    "phone": "+55 4299383282",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.392446,
+      "lng": -51.468394
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB6C2OjI275QRN3alUaRCPC4",
+    "categories": [
+      "Dental clinic",
+      "Dentist",
+      "Oral surgeon"
+    ],
+    "fid": "0x94ef36323ab6a007:0x2e3c42a451a57637",
+    "cid": "3331611097859192375",
+    "reviewsCount": 65,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 65
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Master%20Odontologia%20e%20Sa%C3%BAde&query_place_id=ChIJB6C2OjI275QRN3alUaRCPC4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc95X8wfS3dmEey8P4zlyIamol7G1sLnnUPocEkClaY0l8AGWqbkt60QHadLSoKxZ9UJNk57Mj8ts4GP_zG-TjtJ3Wq9KediMDhHNLtaEvXsl54f91P5QDCMp_ZxBKLNNUYJMZ_jZfzqm7s=w408-h612-k-no",
+    "kgmid": "/g/11bw5_sxz1",
+    "businessProfileId": "17689222879740654157"
+  },
+  {
+    "title": "DENTISTA 24 HORAS - Clínica Espaço Sorriso",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Vicente Machado, 1539 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 1539",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/espacosorriso.guarapuava?igsi=NzQzaTMzajQyZzU3&utm_source=qr",
+    "phone": "+55 42 99963-5885",
+    "phoneUnformatted": "+5542999635885",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3938875,
+      "lng": -51.4672451
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNd44R_E375QRR0NMnnFnJh4",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef37f14738de35:0x1e2667719e4c4347",
+    "cid": "2172537607937606471",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DENTISTA%2024%20HORAS%20-%20Cl%C3%ADnica%20Espa%C3%A7o%20Sorriso&query_place_id=ChIJNd44R_E375QRR0NMnnFnJh4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvkhnkfUlRWV0J8nSiOVH3BnuRLva6Sk_mTPh7M5L_LNF_KMywKWqBm02LX5-fjXropW2UAcluxLnbiFrNC5aAbaz5IF5UH6uCAFSCtMTQEQl8nHki9Zvsn3rI3ojyIIi0-oiS5hBz6uM=w408-h882-k-no",
+    "kgmid": "/g/11zf61_9bq",
+    "businessProfileId": "4283109957139135556"
+  },
+  {
+    "title": "OrthoDontic",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Mal. Floriano Peixoto, 1644 - Centro, Guarapuava - PR, 85010-250, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Floriano Peixoto, 1644",
+    "city": "Guarapuava",
+    "postalCode": "85010-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.orthodonticbrasil.com.br/clinicas/clinica-odontologica-orthodontic-guarapuava-38/",
+    "phone": "+55 42 3035-3737",
+    "phoneUnformatted": "+554230353737",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.392656,
+      "lng": -51.4670523
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ81u3yDM275QRTyQS3VDbZfQ",
+    "categories": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Emergency dental service",
+      "Endodontist",
+      "Orthodontist",
+      "Orthotics & prosthetics service",
+      "Specialized clinic"
+    ],
+    "fid": "0x94ef3633c8b75bf3:0xf465db50dd12244f",
+    "cid": "17610723058255012943",
+    "reviewsCount": 449,
+    "reviewsDistribution": {
+      "oneStar": 20,
+      "twoStar": 2,
+      "threeStar": 5,
+      "fourStar": 11,
+      "fiveStar": 411
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OrthoDontic&query_place_id=ChIJ81u3yDM275QRTyQS3VDbZfQ",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYnAblR4NZWBu5j1P7oV9-XQkBakzmcXQWqZMnzEKeDQmuS3PAH0WYDUNvsev0sAkJtOS1IgZi_nR-fiIEbYNY2z-e77YgliWLaD4xku86LRg4W9QJyrhvOijZF92U8nTFaOfZ=w408-h306-k-no",
+    "kgmid": "/g/11bzyvgksk",
+    "businessProfileId": "6954120379320344687"
+  },
+  {
+    "title": "DENTISTA 24 HORAS - MAZON ODONTOLOGIA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "Av. Manoel Ribas, 1082 - Centro, Guarapuava - PR, 85070-180, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Manoel Ribas, 1082",
+    "city": "Guarapuava",
+    "postalCode": "85070-180",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://mazonodonto.wixsite.com/mazonodontologia",
+    "phone": "+55 42 98884-1876",
+    "phoneUnformatted": "+5542988841876",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3939788,
+      "lng": -51.4553918
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDw66Fmo375QRVJdAbhPDV-w",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Endodontist",
+      "Orthodontist"
+    ],
+    "fid": "0x94ef376a16ba0e0f:0xec57c3136e409754",
+    "cid": "17030295004146341716",
+    "reviewsCount": 41,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 41
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DENTISTA%2024%20HORAS%20-%20MAZON%20ODONTOLOGIA&query_place_id=ChIJDw66Fmo375QRVJdAbhPDV-w",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBoVBGrTwbB4XbTKgTi12WmsKntEVdycinfYx6iVvDdmZ8RIdrUAa2uraAtAtdBClNIY-wOzYGkSVUDwp3ijU2UFYftetW8aVHjqBuINB5J7taM-r6YnlO6om3QelxdKvy9EDS0P0DG1E=w408-h885-k-no",
+    "kgmid": "/g/11rwn5nfqy",
+    "businessProfileId": "15835975068639041588"
+  },
+  {
+    "title": "CEO Centro de Especialidades Odontológicas Municipal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Dr. Laranjeiras, 540 - Centro, Guarapuava - PR, 85010-030, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Laranjeiras, 540",
+    "city": "Guarapuava",
+    "postalCode": "85010-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://guarapuava.pr.gov.br/administracao-direta/saude/",
+    "phone": "+55 42 3142-1598",
+    "phoneUnformatted": "+554231421598",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3900221,
+      "lng": -51.4675928
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa6FxyMs375QR6OZiOkv8fX8",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef37cbc871a16b:0x7f7dfc4b3a62e6e8",
+    "cid": "9186776214937986792",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 34
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM, 5:01 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM, 5:01 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM, 5:01 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM, 5:01 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM, 5:01 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CEO%20Centro%20de%20Especialidades%20Odontol%C3%B3gicas%20Municipal&query_place_id=ChIJa6FxyMs375QR6OZiOkv8fX8",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz0EQWrXg5w58GvY0Dj1yfeTPMeVsyqfqeS1npVSUilpgRpfaFDnblXj6G-fdvBi5NE2p8vrterA9O0_2QFvIxoFGguHBerE0cc1DvCvu8zxk33qeCAl03G5Dl9f8-VruxZE9w=w430-h240-k-no",
+    "kgmid": "/g/11bx2gf65n",
+    "businessProfileId": "7166015136623162127"
+  },
+  {
+    "title": "Clínica Dentária Central",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Guaíra, 3264 - Centro, Guarapuava - PR, 85010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Guaíra, 3264",
+    "city": "Guarapuava",
+    "postalCode": "85010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99986-2095",
+    "phoneUnformatted": "+5542999862095",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3923364,
+      "lng": -51.4682077
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi5t5JTI275QR_39QeJun7_Y",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef363225799b8b:0xf6efa79b78507fff",
+    "cid": "17793624938944430079",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 6
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Dent%C3%A1ria%20Central&query_place_id=ChIJi5t5JTI275QR_39QeJun7_Y",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AdPrM0ksX59fjIA9btgynA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=261.10364&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hc_3cnp3",
+    "businessProfileId": null
+  },
+  {
+    "title": "Clínica Dentária Sorriso",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. XV de Novembro, 7426 - Centro, Guarapuava - PR, 85010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. XV de Novembro, 7426",
+    "city": "Guarapuava",
+    "postalCode": "85010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3623-0573",
+    "phoneUnformatted": "+554236230573",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3928417,
+      "lng": -51.4657589
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ25Gm2jE275QRc7hS74H-A4g",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef3631daa691db:0x8803fe81ef52b873",
+    "cid": "9800957048107743347",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Dent%C3%A1ria%20Sorriso&query_place_id=ChIJ25Gm2jE275QRc7hS74H-A4g",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QaTvZcPHdtAWXStSf2LWIA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=303.32388&pitch=0.9180199&thumbfov=100",
+    "kgmid": "/g/11gfh9dp75",
+    "businessProfileId": "4508326587366495448"
+  },
+  {
+    "title": "KOAH - Clínica Odontológica Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Vicente Machado, 1031 - Espaço Blume - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 1031 - Espaço Blume",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.koahguarapuava.com.br/",
+    "phone": "+55 42 99111-4131",
+    "phoneUnformatted": "+5542991114131",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3972282,
+      "lng": -51.4635688
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTeGuS3A375QRT3Ih1rOfm9c",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef37704baee14d:0xd79b9fb3d621724f",
+    "cid": "15536186934285136463",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 17
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.184Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=KOAH%20-%20Cl%C3%ADnica%20Odontol%C3%B3gica%20Guarapuava&query_place_id=ChIJTeGuS3A375QRT3Ih1rOfm9c",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx5USNhkkx2b1z9WcmDjmakA093cFNcFZT4fg9flHinoWL54aJ_DGEHEKZfdIDQYFMgqQyPT_9Nif50J_BAfsyCH_NPQJ_1ACY2u7QmKvukxSO01YnPkuni3vW4IGzZ9PSGQClKg=w408-h272-k-no",
+    "kgmid": "/g/11v72v_8ff",
+    "businessProfileId": "11967721424127497139"
+  },
+  {
+    "title": "Sorria Sim Clínicas Odontológicas - Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Mal. Floriano Peixoto, 1680 - Centro, Guarapuava - PR, 85010-250, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Floriano Peixoto, 1680",
+    "city": "Guarapuava",
+    "postalCode": "85010-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://sorriasimclinicas.com.br/",
+    "phone": "+55 42 3304-6111",
+    "phoneUnformatted": "+554233046111",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3924744,
+      "lng": -51.4672634
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7dd-5NI375QRjJLqDDqR1hA",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef37d2e47ed7ed:0x10d6913a0cea928c",
+    "cid": "1213316828133757580",
+    "reviewsCount": 43,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 37
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sorria%20Sim%20Cl%C3%ADnicas%20Odontol%C3%B3gicas%20-%20Guarapuava&query_place_id=ChIJ7dd-5NI375QRjJLqDDqR1hA",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkcSs7Rm-IHzSn5L7RTm8jsTu4G8sa3VsYAyST7fgJfcIa8Rn-ACTXwIggphCrJa8IBnPCJSc5kyBHQpg-DazRkrDxPqGkharR4I_jqz5ip8-8uWIAgYF8WZfGxFQGPtiaBJw=w409-h240-k-no",
+    "kgmid": "/g/11sm7wcds5",
+    "businessProfileId": "8163462729516984927"
+  },
+  {
+    "title": "Clínica OdontoArt Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Anexo Lago Clínica Integrada - R. Sen. Pinheiro Machado, 2640 - Centro, Guarapuava - PR, 85010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "Anexo Lago Clínica Integrada - R. Sen. Pinheiro Machado, 2640",
+    "city": "Guarapuava",
+    "postalCode": "85010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/odontoartguarapuava",
+    "phone": "+55 42 99950-1112",
+    "phoneUnformatted": "+5542999501112",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3979601,
+      "lng": -51.4698035
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJha1zA78375QRn4HChaOwjUU",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef37bf0373ad85:0x458db0a385c2819f",
+    "cid": "5011856176703504799",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20OdontoArt%20Guarapuava&query_place_id=ChIJha1zA78375QRn4HChaOwjUU",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3h6XA9whUywUS90PNEGxkQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=222.48439&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ln0g92p6",
+    "businessProfileId": "4538410271575446692"
+  },
+  {
+    "title": "Centro Odontológico Evolua | Facetas, Implantes Dentários e Próteses Fixas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. XV de Novembro, 7466 - Centro, Guarapuava - PR, 85010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. XV de Novembro, 7466",
+    "city": "Guarapuava",
+    "postalCode": "85010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://evoluaodontologia.com.br/",
+    "phone": "+55 42 99141-1091",
+    "phoneUnformatted": "+5542991411091",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3930718,
+      "lng": -51.4661983
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ1mdlSI375QRcnEtR-pz0Yg",
+    "categories": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "fid": "0x94ef3722959d5967:0x88d173ea472d7172",
+    "cid": "9858788509344428402",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 31
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Odontol%C3%B3gico%20Evolua%20%7C%20Facetas%2C%20Implantes%20Dent%C3%A1rios%20e%20Pr%C3%B3teses%20Fixas&query_place_id=ChIJZ1mdlSI375QRcnEtR-pz0Yg",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXeWIgvYkcq8ImxrJozmwLIcyI3UCcQ4yvX9orwjRQEf2QXdgCPd8dBwRnNY5Lak3DNF2iR0QjW2bvFrP2r25al4t05BoHy-WyXejO7J6Coll1LAetzpZDIrIBaaW-WwMzmYlJD4yYCv8x=w408-h270-k-no",
+    "kgmid": "/g/11sw48w61y",
+    "businessProfileId": "17217721709870179719"
+  },
+  {
+    "title": "Clinivile Clínica de Saúde",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Prof. Becker, 2441 - Centro, Guarapuava - PR, 85010-170, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Prof. Becker, 2441",
+    "city": "Guarapuava",
+    "postalCode": "85010-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://clinivile.com.br/",
+    "phone": "+55 42 3035-2367",
+    "phoneUnformatted": "+554230352367",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3982922,
+      "lng": -51.4638121
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfSkCURM375QRrQW-n-RmiwA",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94ef37135102297d:0x8b66e49fbe05ad",
+    "cid": "39238153881388461",
+    "reviewsCount": 125,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 124
+    },
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clinivile%20Cl%C3%ADnica%20de%20Sa%C3%BAde&query_place_id=ChIJfSkCURM375QRrQW-n-RmiwA",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvXVCZp4mdK2cNXPn4pMN2LZVrMlH8Y--kg2jVSpymQdRaRnl6zXTznlWGv8y3Kw6D5jAQNdp94iFoVSJOGCB7lZwXoNgYp9VIR5OOf3_6nRgbx2rUp3lIxwpFwTxvd5ocniqX0Bw9unvH=w408-h725-k-no",
+    "kgmid": "/g/11hq3rmxps",
+    "businessProfileId": "13292761360555464967"
+  },
+  {
+    "title": "Clínica odontológica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "Rua Capitão Frederico Virmond, 1441 - Centro, Guarapuava - PR, 85010-120, Brazil",
+    "neighborhood": "Centro",
+    "street": "Rua Capitão Frederico Virmond, 1441",
+    "city": "Guarapuava",
+    "postalCode": "85010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3626-2272",
+    "phoneUnformatted": "+554236262272",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3906483,
+      "lng": -51.4603098
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-dxf3To275QR00CvQbX9_S4",
+    "categories": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dentist",
+      "Dental implants periodontist",
+      "Endodontist"
+    ],
+    "fid": "0x94ef363add5fdcf9:0x2efdfdb541af40d3",
+    "cid": "3386141449785393363",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20odontol%C3%B3gica&query_place_id=ChIJ-dxf3To275QR00CvQbX9_S4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VatVqVsjIZEbQRhsoRq5Nw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=121.128075&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g8ww2_l1",
+    "businessProfileId": null
+  },
+  {
+    "title": "CLOE - Clínica Odontológica Especializada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Vicente Machado, 2065 - Sl 5 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 2065 - Sl 5",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/cloeodontologia/",
+    "phone": "+55 42 98835-8610",
+    "phoneUnformatted": "+5542988358610",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.390479,
+      "lng": -51.4708971
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ77AKxE375QReTOFmn415-4",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef37112bc0be67:0xeee7357e9a853379",
+    "cid": "17214786918521582457",
+    "reviewsCount": 32,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 32
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:18:57.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CLOE%20-%20Cl%C3%ADnica%20Odontol%C3%B3gica%20Especializada&query_place_id=ChIJZ77AKxE375QReTOFmn415-4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20odontol%C3%B3gica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica odontológica Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6ltAWm-YDPFScvGR2GhrBz9cb6rTpEPQ7Zd8YVI49JuzTHOz-jb9ojbPZcz_1CohIlS99o6nZ3Y_XVBmd2Z-8H3QS42odjZP-VFug3CyQfeuk2sX8yS8lqEzcQgTTV4QILty6rA=w408-h272-k-no",
+    "kgmid": "/g/11sqpgz1d_",
+    "businessProfileId": "6018087088593225908"
+  },
+  {
+    "title": "Reis Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Quintino Bocaiúva, 1603 - Centro, Guarapuava - PR, 85010-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quintino Bocaiúva, 1603",
+    "city": "Guarapuava",
+    "postalCode": "85010-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/reisodonto_/",
+    "phone": "+55 42 99109-1841",
+    "phoneUnformatted": "+5542991091841",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3954369,
+      "lng": -51.4709491
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0RftSQA375QRp99Doh861RM",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef370049ed17d1:0x13d53a1fa243dfa7",
+    "cid": "1429112364300754855",
+    "reviewsCount": 25,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Reis%20Odontologia&query_place_id=ChIJ0RftSQA375QRp99Doh861RM",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnGihPuH_NnLpd43WHOR0vggajyHemU3O_BR8Xhs9QP4yMg-6ROd1M8HNsxLjigPZBRLgWT_CeEyCMCXlAFf_1w3tJmT4pxtI9sBTRTpbaFN1TR6qLsanDBHbm0tahQBT9e-ISLL_nevQ=w408-h271-k-no",
+    "kgmid": "/g/11mrz703r8",
+    "businessProfileId": "12932998372230060843"
+  },
+  {
+    "title": "Studio Renovar Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Azevedo Portugal, 865 - Centro, Guarapuava - PR, 85010-200, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Azevedo Portugal, 865",
+    "city": "Guarapuava",
+    "postalCode": "85010-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98887-4464",
+    "phoneUnformatted": "+5542988874464",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3887705,
+      "lng": -51.4648485
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl58vZew375QRQUh01UKyKWc",
+    "categories": [
+      "Dental clinic"
+    ],
+    "fid": "0x94ef37ec652f9f97:0x6729b242d5744841",
+    "cid": "7433668660070467649",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Studio%20Renovar%20Odontologia&query_place_id=ChIJl58vZew375QRQUh01UKyKWc",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6mmZUosMoKz3gmT8uXYsJB97WT1nf51rrkQcLKsD-beY3ZTz26eg4RWiRlLMg8TOBsBHpvkdGisyfdhIFyo9SeoXAIlSNjdBQxp2vN64AQoCJlGGGYreRZY5y5ZpknX4f7zMtI27p1YA=w408-h306-k-no",
+    "kgmid": "/g/11z60tc9dm",
+    "businessProfileId": "11483951948001623629"
+  },
+  {
+    "title": "Dra. Rafaela Franciosi - Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Mal. Floriano Peixoto, 1866 - Centro, Guarapuava - PR, 85010-250, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Floriano Peixoto, 1866",
+    "city": "Guarapuava",
+    "postalCode": "85010-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://clinicaodontomaster.com.br/",
+    "phone": "+55 42 3623-8107",
+    "phoneUnformatted": "+554236238107",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3912031,
+      "lng": -51.4684963
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH2L2I8w375QRcQ4_k4lev2Y",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef37cc23f6621f:0x66bf5e89933f0e71",
+    "cid": "7403740257394298481",
+    "reviewsCount": 33,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 33
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra.%20Rafaela%20Franciosi%20-%20Odontologia&query_place_id=ChIJH2L2I8w375QRcQ4_k4lev2Y",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcLMjJsoJ3EvWGWzAJZik6Tl-5t0ouvGscJ6uFEp5kLoqEN3m5GsXlP9YXhAMZCEH0ZPqZXMpKmQ7VBhuFlxDDDMcYOirbgBVG5xm-ciKRvAYA89A62x_lXbwOsPDNJjJNojaK=w408-h271-k-no",
+    "kgmid": "/g/11krqb_xd2",
+    "businessProfileId": "4914278507651873042"
+  },
+  {
+    "title": "Dr Igor Totti | Especialista Lentes de Resina em Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cosmetic dentist",
+    "address": "R. Brg. Rocha, 2440 - Centro, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Brg. Rocha, 2440",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99933-4179",
+    "phoneUnformatted": "+5542999334179",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3869876,
+      "lng": -51.4681886
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp73pJYU375QR0QmGTAj7yAk",
+    "categories": [
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dentist"
+    ],
+    "fid": "0x94ef378525e9bda7:0x9c8fb084c8609d1",
+    "cid": "705089354745645521",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 72,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Igor%20Totti%20%7C%20Especialista%20Lentes%20de%20Resina%20em%20Guarapuava&query_place_id=ChIJp73pJYU375QR0QmGTAj7yAk",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV9u-fLQ_WJ3OVf3pxDEyvktNDXMULCfrF_Gvaj_laUkSkUxo9n9ilo5aDFD3fd5F4FJFENZWGIdkrdWiOyCKtxoNwSB6_f36_6ZcH_veuVZfwfZOKrT_LysUaCPri3U4bIBDvMBujFrQ1=w408-h612-k-no",
+    "kgmid": "/g/11z21f9r8b",
+    "businessProfileId": "5965871171981293417"
+  },
+  {
+    "title": "Dentista Guarapuava - Odontosan",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Saldanha Marinho, 1506 - Sl 01 - Centro, Guarapuava - PR, 85010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Saldanha Marinho, 1506 - Sl 01",
+    "city": "Guarapuava",
+    "postalCode": "85010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3035-7272",
+    "phoneUnformatted": "+554230357272",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3951159,
+      "lng": -51.4692321
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz9t_5UM375QRdVTOmL0zO8s",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef3743e57fdbcf:0xcb3b33bd98ce5475",
+    "cid": "14644355502730794101",
+    "reviewsCount": 70,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 62
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dentista%20Guarapuava%20-%20Odontosan&query_place_id=ChIJz9t_5UM375QRdVTOmL0zO8s",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWNi-xwkQ4vwUj4VO9w7dqGuPNOzRT0hR8iNbF5SPm1XBASgLmJaXunoXMsqh_V1KTFJn6R5GSfV10OwVMBPpm_bo7p-S9JkuKWh4dqdPPmrEbCYgdvWzMzj4WeJl2pDL1F2er=w408-h548-k-no",
+    "kgmid": "/g/11fkth0yxq",
+    "businessProfileId": "11970071612577546623"
+  },
+  {
+    "title": "Consultório Odontológico Dra. Gisele Kaminski Milazzo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "Av. Sebastião de Camargo Ribas, 661 - 03 - São Cristóvão, Guarapuava - PR, 85060-340, Brazil",
+    "neighborhood": "São Cristóvão",
+    "street": "Av. Sebastião de Camargo Ribas, 661 - 03",
+    "city": "Guarapuava",
+    "postalCode": "85060-340",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/Dra.GiseleMilazzo/",
+    "phone": "+55 42 99998-9191",
+    "phoneUnformatted": "+5542999989191",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3724326,
+      "lng": -51.4626861
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC9B6BFA275QRIgvR2mW_O2M",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef3650047ad00b:0x633bbf65dad10b22",
+    "cid": "7150519277564529442",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Consult%C3%B3rio%20Odontol%C3%B3gico%20Dra.%20Gisele%20Kaminski%20Milazzo&query_place_id=ChIJC9B6BFA275QRIgvR2mW_O2M",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeydXMbzVS8BTiMhXXozzSZm8H2_U7VLHgobsbv8updx3yGET41k-uW7S__nSEU1PRfSD1CXBPwqUl1WbzaWGEiehyHgCCEbJZUERTuazDvgIBKGskJvPWnbByTk3kIDQnhQB1Y=w408-h288-k-no",
+    "kgmid": "/g/1tf2tcrq",
+    "businessProfileId": "15759008752453539281"
+  },
+  {
+    "title": "Fix-up Odonto",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Barão do Rio Branco, 1200 - Centro, Guarapuava - PR, 85010-040, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Barão do Rio Branco, 1200",
+    "city": "Guarapuava",
+    "postalCode": "85010-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://fixupodonto.com.br/",
+    "phone": "+55 42 3622-0012",
+    "phoneUnformatted": "+554236220012",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3937365,
+      "lng": -51.4729223
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-268XF0375QR5Vx9rnS2gMY",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef375d5cbc6efb:0xc680b674ae7d5ce5",
+    "cid": "14303633028788608229",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 27
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fix-up%20Odonto&query_place_id=ChIJ-268XF0375QR5Vx9rnS2gMY",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz1dc8VGJyKkijTrAZA5LaDVRtES-bjwq9XMDIZsmaiLOpb-EyedYxAH1_XPesWWBF1O7KBU5EEC6bmGSzN3Id0waoaZL0WDoLsoDs0A_KPaGlU6JS6hepBtk_uuBsxcNH7_pi=w408-h306-k-no",
+    "kgmid": "/g/11fj2fbk7m",
+    "businessProfileId": "7511649523285866030"
+  },
+  {
+    "title": "Dr. Thiago Tatim - Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Mal. Floriano Peixoto, 1866 - Centro, Guarapuava - PR, 85010-250, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Floriano Peixoto, 1866",
+    "city": "Guarapuava",
+    "postalCode": "85010-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://clinicaodontomaster.com.br/",
+    "phone": "+55 42 99148-6256",
+    "phoneUnformatted": "+5542991486256",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3912031,
+      "lng": -51.4684963
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgzozCHk375QRpbuPCVbeQQM",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef377908333a83:0x341de56098fbba5",
+    "cid": "234713116708944805",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 26
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Thiago%20Tatim%20-%20Odontologia&query_place_id=ChIJgzozCHk375QRpbuPCVbeQQM",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUPLkU84sYvw3rb3GE7DNtJ1k4YX4_ANYNLg-9x7WowrClWnhqkysOYcpy_G5N_QIUTCwGbXF8cGoCJ2hh3zkoLn9gy7u5OY8_wrkEfMty2-xA6CARgsArBD6QSEdGceAA1Ua9FA=w408-h406-k-no",
+    "kgmid": "/g/11kphghlns",
+    "businessProfileId": "13269074914411485622"
+  },
+  {
+    "title": "Clínica Sorriso Gleden",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Andrade Neves, 1785 - Trianon, Guarapuava - PR, 85012-020, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Andrade Neves, 1785",
+    "city": "Guarapuava",
+    "postalCode": "85012-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99801-4381",
+    "phoneUnformatted": "+5542998014381",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4020379,
+      "lng": -51.4644457
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ9NkORc375QR1bOX0GDw7p4",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef37173964d343:0x9eeef060d097b3d5",
+    "cid": "11452355201056879573",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Sorriso%20Gleden&query_place_id=ChIJQ9NkORc375QR1bOX0GDw7p4",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcL5_uX01ENh04q6GWsBTLzJVscYkM34RhH4PiVlF6DFboXDnkBH8fIDh9I4jlMR0ZJp5BS3f_OmVsJT7OPylKU5vR_RBW7nT_tfV7ce-kN2AYaSrlWSkdTGEGPQ0N47NW-WyleAv8dPPQ=w408-h510-k-no",
+    "kgmid": "/g/11nc2jq5xs",
+    "businessProfileId": "4615545718158096280"
+  },
+  {
+    "title": "Odontologia Fusinato - Laminados Estéticos Dentais- Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "R. Luís Vicente Verlangieri, 3430 - Bonsucesso, Guarapuava - PR, 85045-090, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Luís Vicente Verlangieri, 3430",
+    "city": "Guarapuava",
+    "postalCode": "85045-090",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99855-6353",
+    "phoneUnformatted": "+5542998556353",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3788552,
+      "lng": -51.4799502
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG83Wncs375QRnqiEJUJM86E",
+    "categories": [
+      "Dentist",
+      "Oral surgeon"
+    ],
+    "fid": "0x94ef37cb9dd6cd1b:0xa1f34c422584a89e",
+    "cid": "11669754906428090526",
+    "reviewsCount": 44,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 44
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:01.573Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Odontologia%20Fusinato%20-%20Laminados%20Est%C3%A9ticos%20Dentais-%20Guarapuava&query_place_id=ChIJG83Wncs375QRnqiEJUJM86E",
+    "searchPageUrl": "https://www.google.com/maps/search/dentista%20Guarapuava%20PR?hl=en",
+    "searchString": "dentista Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPj5KfAI0duaCY6ysjHllsPz_iQnJAw-qMjSqtCbnX474EDpmkvTjw1Q5JqrQHABV7Zt5BHqs8GDo1aX0bWnD-KLNxI0JCCnxW1B69WcP0aafAEHm62BXoNXl1CUQEuLZcvkOzeQ=w408-h306-k-no",
+    "kgmid": "/g/11f2wlkzz9",
+    "businessProfileId": "18036463156874973395"
+  },
+  {
+    "title": "OdontoTop Guarapuava - Bonsucesso",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dentist",
+    "address": "Av. Manoel Ribas, 3972 - Bonsucesso, Guarapuava - PR, 85055-010, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "Av. Manoel Ribas, 3972",
+    "city": "Guarapuava",
+    "postalCode": "85055-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://odontotophospitaldodente.com.br/guarapuava/",
+    "phone": "+55 42 98886-2648",
+    "phoneUnformatted": "+5542988862648",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3742038,
+      "lng": -51.4739135
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWcXwCOE375QRdO20vZ_sqzM",
+    "categories": [
+      "Dentist"
+    ],
+    "fid": "0x94ef37e108f0c559:0x33abec9fbdb4ed74",
+    "cid": "3723329687778553204",
+    "reviewsCount": 66,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 64
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:04.605Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OdontoTop%20Guarapuava%20-%20Bonsucesso&query_place_id=ChIJWcXwCOE375QRdO20vZ_sqzM",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20dent%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica dentária Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYwcv-wrCJ765ABgcOKvJMJY4Xi65Gm6btvn4C9tO-ouaEw-Gs_w_8frqNZBksFhE0Das0hPMF1pZcY6vuTrMJ0Nzhk_NKq0w6utdB8oESyrz6YegxX7DqT7QjxndoKLSB0uql=w408-h272-k-no",
+    "kgmid": "/g/11vxxrjd7s",
+    "businessProfileId": "6073912990623746079"
+  },
+  {
+    "title": "DRA LUCIANE FLAREÇO ODONTOLOGIA E ESTETICA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dental clinic",
+    "address": "R. Sen. Pinheiro Machado, 1794 - Sl 02 - Centro, Guarapuava - PR, 85010-100, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Sen. Pinheiro Machado, 1794 - Sl 02",
+    "city": "Guarapuava",
+    "postalCode": "85010-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98829-7870",
+    "phoneUnformatted": "+5542988297870",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3925117,
+      "lng": -51.4640761
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL0FiHus375QRKOuBopjswzw",
+    "categories": [
+      "Dental clinic",
+      "Dentist"
+    ],
+    "fid": "0x94ef37eb1e62412f:0x3cc3ec98a281eb28",
+    "cid": "4378603403039861544",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:04.605Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DRA%20LUCIANE%20FLARE%C3%87O%20ODONTOLOGIA%20E%20ESTETICA&query_place_id=ChIJL0FiHus375QRKOuBopjswzw",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20dent%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica dentária Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvB_K9EYqmcCKXlR1i6mRzSE2Qkt8wA425omEED8_UMHM-pYsrKSabZ8_bNSDStejouLhprZfdwmijBNtd9F23KU5igqkcwXTrUTrhqlaxncC9UKBzsQnhLBr-pXAkj4jaS124L_j-BewB=w408-h506-k-no",
+    "kgmid": "/g/11njpfx_r5",
+    "businessProfileId": "18030667166939984975"
+  }
+]

@@ -1,0 +1,5278 @@
+[
+  {
+    "title": "Adquira Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Mal. Deodoro da Fonseca, n° 473 - Centro, Ponta Grossa - PR, 84010-030, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Deodoro da Fonseca, n° 473",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.adquiraimoveis.net/",
+    "phone": "+55 42 3027-7778",
+    "phoneUnformatted": "+554230277778",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.097451,
+      "lng": -50.1602976
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO-Ove0Ea6JQRdXQfC0ktlqI",
+    "categories": [
+      "Real estate agency",
+      "Insurance broker",
+      "Attorney",
+      "Real estate appraiser",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94e81a417bafe33b:0xa2962d490b1f7475",
+    "cid": "11715601272393397365",
+    "reviewsCount": 1131,
+    "reviewsDistribution": {
+      "oneStar": 36,
+      "twoStar": 10,
+      "threeStar": 20,
+      "fourStar": 39,
+      "fiveStar": 1026
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adquira%20Im%C3%B3veis&query_place_id=ChIJO-Ove0Ea6JQRdXQfC0ktlqI",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfg8h4M6kpr-SR0SVmR2uZQ0QtyyqESfkj2rrwXpSgOrKN3WAc6_kxt1qksSuDuj_ffsJpvvso_dGMppmDTDO_Rulaf2XQijRM3yzBjkTIahZ-CtI0sER3DsgJcBHcACYLau5_T=w408-h306-k-no",
+    "kgmid": "/g/1td_zrt4",
+    "businessProfileId": "7305200106584225134"
+  },
+  {
+    "title": "SuperZelo Inteligência Condominial",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Property administration service",
+    "address": "R. Benjamin Constant, 851 - Centro, Ponta Grossa - PR, 84010-380, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Benjamin Constant, 851",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-380",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://superzelo.com.br/",
+    "phone": "+55 42 3028-7318",
+    "phoneUnformatted": "+554230287318",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.090816,
+      "lng": -50.1566806
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCYTb9xYa6JQRV9gA5heqJOc",
+    "categories": [
+      "Property administration service"
+    ],
+    "fid": "0x94e81a16f7db8409:0xe724aa17e600d857",
+    "cid": "16655624341542721623",
+    "reviewsCount": 2055,
+    "reviewsDistribution": {
+      "oneStar": 30,
+      "twoStar": 3,
+      "threeStar": 9,
+      "fourStar": 44,
+      "fiveStar": 1969
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SuperZelo%20Intelig%C3%AAncia%20Condominial&query_place_id=ChIJCYTb9xYa6JQRV9gA5heqJOc",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZCqT2QNZwi1BEOBQjYDNV4WLVXvcfQErFoGb4-pcwlZgizDdqkLYnIlZ6-BmSMWsb7iBeIycR27uCakAxSotx7CotDxzhYUMQc9e6gplWzG1uNw2BvSQAH47UWQrsx_IPjuw=w408-h306-k-no",
+    "kgmid": "/g/11b7qxvsdd",
+    "businessProfileId": "1508167986598825633"
+  },
+  {
+    "title": "Imobiliária - DAT Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cel. Dulcídio, 819 - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 819",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://datimoveis.com.br/",
+    "phone": "+55 42 99824-1822",
+    "phoneUnformatted": "+5542998241822",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.093828,
+      "lng": -50.1616438
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQYCxgz8a6JQRsq1x1OMY64g",
+    "categories": [
+      "Real estate agency",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Corporate office",
+      "Modular home dealer",
+      "Real estate agent",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94e81a3f83b18041:0x88eb18e3d471adb2",
+    "cid": "9866006775486066098",
+    "reviewsCount": 310,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 0,
+      "threeStar": 3,
+      "fourStar": 9,
+      "fiveStar": 288
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20-%20DAT%20Im%C3%B3veis&query_place_id=ChIJQYCxgz8a6JQRsq1x1OMY64g",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQnGdw3hzgRdTUys00S38qCPB4LahjS9gD8DabWDw3uD64XGNHrQ6yvDyfL78wVsMYiGi0SvrZUocTejKn4LWY1G8w_-q4_ZQOciWCPkvnqgCGcme-Sd030nbq32Aeau9oLHsp=w408-h306-k-no",
+    "kgmid": "/g/11b7hkvgg8",
+    "businessProfileId": "984373959473765711"
+  },
+  {
+    "title": "Aspen Imobiliária Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Dr. Leopoldo Guimarães da Cunha, 174 - Oficinas, Ponta Grossa - PR, 84035-310, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Dr. Leopoldo Guimarães da Cunha, 174",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imobiliariaaspen.com.br/",
+    "phone": "+55 42 3027-7065",
+    "phoneUnformatted": "+554230277065",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1106364,
+      "lng": -50.1566394
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6S_hQHob6JQR8rHDqCWH59A",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Real estate consultant"
+    ],
+    "fid": "0x94e81b7a40e12fe9:0xd0e78725a8c3b1f2",
+    "cid": "15053148875324109298",
+    "reviewsCount": 35,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 35
+    },
+    "imagesCount": 126,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 11 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aspen%20Imobili%C3%A1ria%20Ponta%20Grossa&query_place_id=ChIJ6S_hQHob6JQR8rHDqCWH59A",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLek9S8Zs4UuJszo1Xjr4IpmN7YWcc3yy8itBojUpmAP2nheu5EtSwdqfrIoj0ALg2L0Eto8mwA63GfzA7L8lXdifP28By81RyIgqETX9wovlPI2xn08vLTPbK3_0Fvqy3lyDC0=w408-h611-k-no",
+    "kgmid": "/g/11qbspg266",
+    "businessProfileId": "16858719430370454540"
+  },
+  {
+    "title": "Fayad Imóveis",
+    "subTitle": "Fayad Imóveis - Ponta Grossa",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. Bonifácio Vilela, 200 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 200",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.fayadimoveis.com/",
+    "phone": "+55 42 3325-1000",
+    "phoneUnformatted": "+554233251000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0909989,
+      "lng": -50.1594218
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFSwgbD8a6JQRhW88DUZrY-o",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a3f6c202c15:0xea636b460d3c6f85",
+    "cid": "16889460976183439237",
+    "reviewsCount": 194,
+    "reviewsDistribution": {
+      "oneStar": 16,
+      "twoStar": 0,
+      "threeStar": 9,
+      "fourStar": 6,
+      "fiveStar": 163
+    },
+    "imagesCount": 32,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fayad%20Im%C3%B3veis&query_place_id=ChIJFSwgbD8a6JQRhW88DUZrY-o",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaej3Wgw9EqTNnU1PE14e19qiKkmpoRaNfCB80lo59tiYY8HJRc-U3vB0ZqcohnFpe8M_i5wIqTljB21OsHmob4h-B0nV3AzclsEpzg19Oi5ebk9a0BiGFLH-rcuFyd8niRapw1KzMeQs=w408-h408-k-no",
+    "kgmid": "/g/119wcrczh",
+    "businessProfileId": "8125875429488902158"
+  },
+  {
+    "title": "IMOBILIARIA IDEAL PONTA GROSSA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Comendador Miró, 399 - Centro, Ponta Grossa - PR, 84010-160, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Comendador Miró, 399",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://idealpg.com.br/",
+    "phone": "+55 42 99864-1171",
+    "phoneUnformatted": "+5542998641171",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.092093,
+      "lng": -50.1572492
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3aWnbxcb6JQR7922rQvKl9c",
+    "categories": [
+      "Real estate agency",
+      "Business broker",
+      "Investment service"
+    ],
+    "fid": "0x94e81b176fa7a5dd:0xd797ca0badb6ddef",
+    "cid": "15535107591145709039",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 59
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=IMOBILIARIA%20IDEAL%20PONTA%20GROSSA&query_place_id=ChIJ3aWnbxcb6JQR7922rQvKl9c",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdv0_-8itYmgT7X4Dlmn4T_C2nHk5vyjq5eKri1StakW1xH4STWCAkGf-pBf3sQ6lIutfm5ZE75Ry6DTlJbe6cxeZ4apLlVNhigOKZm_p2LyhqpjouRUn4M9gUqQogEyYnuo_0RgQ=w408-h510-k-no",
+    "kgmid": "/g/11l0m4xw8z",
+    "businessProfileId": "13200352013879184388"
+  },
+  {
+    "title": "Centralize Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Augusto Ribas, 360 - Centro, Ponta Grossa - PR, 84010-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Augusto Ribas, 360",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://centralizeimoveis.com.br/",
+    "phone": "+55 42 3323-6902",
+    "phoneUnformatted": "+554233236902",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0988632,
+      "lng": -50.1597922
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmwA5r2sb6JQRgyaQMrXSZ8E",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81b6baf39009b:0xc167d2b532902683",
+    "cid": "13936339247600510595",
+    "reviewsCount": 363,
+    "reviewsDistribution": {
+      "oneStar": 21,
+      "twoStar": 4,
+      "threeStar": 3,
+      "fourStar": 10,
+      "fiveStar": 325
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Centralize%20Im%C3%B3veis&query_place_id=ChIJmwA5r2sb6JQRgyaQMrXSZ8E",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNDhqFY9nbtkfPkcVRAqcw1aMMAvpvRnaSz1VY7lplpdkuAMToByjFtykuIqcNUoO0OxrLP0OaOIq4IP8ECAP89AfqmHsEPbt7As4pUuVsGEGkcFtt-ACaPkF7nr-zgh1gIN_GKQ=w408-h245-k-no",
+    "kgmid": "/g/11y6gcvby_",
+    "businessProfileId": "9603411877725116046"
+  },
+  {
+    "title": "Fraccaro Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Nestor Guimarães, 111 - Estrela, Ponta Grossa - PR, 84040-130, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Nestor Guimarães, 111",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-130",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.fraccaroimoveis.com.br/",
+    "phone": "+55 42 99861-7363",
+    "phoneUnformatted": "+5542998617363",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.103357,
+      "lng": -50.1594181
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZZcbytkb6JQRyYIwLdez6qo",
+    "categories": [
+      "Real estate agency",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Property administration service",
+      "Real estate agent"
+    ],
+    "fid": "0x94e81bd9ca1b9765:0xaaeab3d72d3082c9",
+    "cid": "12315853867755537097",
+    "reviewsCount": 66,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 64
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fraccaro%20Im%C3%B3veis&query_place_id=ChIJZZcbytkb6JQRyYIwLdez6qo",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdII5PuwHMVWOlEjEsQ7Kv-CP0x41VYnjHbHj5g8tHcFarQrVD8KPLzS_MsxkzUqZ1-ZcBmkqJUbAnr_K84L_48Q7fZqB3iwi650Qhz0mF7sHHStrglR46nkUyhMSKFn-HMVBEJXQc922Kk=w408-h306-k-no",
+    "kgmid": "/g/11y12s_vg6",
+    "businessProfileId": "12266387869627530098"
+  },
+  {
+    "title": "Apolar Imóveis Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Balduíno Taques, 173 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 173",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.apolar.com.br/pontagrossa",
+    "phone": "+55 42 3301-9088",
+    "phoneUnformatted": "+554233019088",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0948644,
+      "lng": -50.1632745
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJybESikEa6JQRam7e5uIlWuw",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Commercial real estate agency",
+      "Condominium rental agency",
+      "Real estate agent",
+      "Real estate appraiser",
+      "Real estate rental agency",
+      "Real estate surveyor",
+      "Vacation home rental agency"
+    ],
+    "fid": "0x94e81a418a12b1c9:0xec5a25e2e6de6e6a",
+    "cid": "17030966597321125482",
+    "reviewsCount": 84,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 3,
+      "fiveStar": 72
+    },
+    "imagesCount": 32,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apolar%20Im%C3%B3veis%20Ponta%20Grossa&query_place_id=ChIJybESikEa6JQRam7e5uIlWuw",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0f7CypU1LeJjtzU_cg-C3pNWKgSYv7BsywMYjI3qKUNLU7ZPetovJyxFtSkqkEoNJJrTWJn6uVip3n1yo1z-OvYC8PY9SdnI-KFAus2FI7kfYrIVS6jYG3ALhN5rcm-MYCXvw=w408-h306-k-no",
+    "kgmid": "/g/1tycxtc4",
+    "businessProfileId": "16189813962025416812"
+  },
+  {
+    "title": "Tavarnaro Consultoria Imobiliária",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Balduíno Taques, 502 - Estrela, Ponta Grossa - PR, 84040-000, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Balduíno Taques, 502",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.tavarnaroconsultoria.com.br/",
+    "phone": "+55 42 2101-0000",
+    "phoneUnformatted": "+554221010000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1038213,
+      "lng": -50.1621738
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2fdLZEEa6JQRiuVKmLjTlDs",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a41644bf7d9:0x3b94d3b8984ae58a",
+    "cid": "4293289134573413770",
+    "reviewsCount": 1960,
+    "reviewsDistribution": {
+      "oneStar": 138,
+      "twoStar": 15,
+      "threeStar": 54,
+      "fourStar": 118,
+      "fiveStar": 1635
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tavarnaro%20Consultoria%20Imobili%C3%A1ria&query_place_id=ChIJ2fdLZEEa6JQRiuVKmLjTlDs",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcf86FI_Lkh5Aadu3XUZFgzFr_GBnGAjivhN9IF3bZ_sLEKKWLpG_9ZrAMfppV3Dyk9qPBTQfbxWT2fZ2WAuubNHgOIAC-uU4Aq9fHmCQ2KGPuNACpGiYpU6-N7targ1UVoPUw_=w408-h306-k-no",
+    "kgmid": "/g/1tfh_r7k",
+    "businessProfileId": "5383221768816850100"
+  },
+  {
+    "title": "Concept Homes Ponta Grossa",
+    "subTitle": "Imobiliária Conceito Imóveis Ponta Grossa",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. Dr. Vicente Machado, 721 - Centro, Ponta Grossa - PR, 84010-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Dr. Vicente Machado, 721",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://conceitoimoveispg.com.br/",
+    "phone": "+55 42 3025-1818",
+    "phoneUnformatted": "+554230251818",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0956983,
+      "lng": -50.163218
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC807_z4a6JQR8xYGtRaKUzA",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a3eff3bcd0b:0x30538a16b50616f3",
+    "cid": "3482278767018514163",
+    "reviewsCount": 1400,
+    "reviewsDistribution": {
+      "oneStar": 32,
+      "twoStar": 3,
+      "threeStar": 5,
+      "fourStar": 37,
+      "fiveStar": 1323
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Concept%20Homes%20Ponta%20Grossa&query_place_id=ChIJC807_z4a6JQR8xYGtRaKUzA",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZmqoMnmGH2UQYE7yG_hZPmKPoIhxkpuLlAcEPkXd9PDRCKlBtas8QWe4yml8Y0wgv-mjZuRV8cifxcArRKgBLN7BH6er4pMkJexkTzodHZvTHXaADMAGJW7sXOi85wgJwL7I=w408-h544-k-no",
+    "kgmid": "/g/11by_h9df8",
+    "businessProfileId": "15983922476553587980"
+  },
+  {
+    "title": "Property Torre Blanca",
+    "subTitle": "Torre Blanca Imóveis",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quinze de Novembro, 316 - Centro, Ponta Grossa - PR, 84010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quinze de Novembro, 316",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.torreblanca.com.br/",
+    "phone": "+55 42 3228-4800",
+    "phoneUnformatted": "+554232284800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.096315,
+      "lng": -50.158672
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVfpgXkEa6JQRVKDXuiuIlls",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a415e60fa55:0x5b96882bbad7a054",
+    "cid": "6599612025357705300",
+    "reviewsCount": 1102,
+    "reviewsDistribution": {
+      "oneStar": 84,
+      "twoStar": 8,
+      "threeStar": 27,
+      "fourStar": 53,
+      "fiveStar": 930
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Property%20Torre%20Blanca&query_place_id=ChIJVfpgXkEa6JQRVKDXuiuIlls",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0csS4mcJJ59X0-5si1mXc5uWLb8ZgE_kQ_OqEdDADbTlJiVhCqZdMHzQ9hhmi-yQwHNbD0vjYobeirJbaf_gUwvBNrv44aspGmlPIcChL9qU2dJypPpT_d4FpVJWZ4G6O3wU=w408-h244-k-no",
+    "kgmid": "/g/1v3_3vjj",
+    "businessProfileId": "12506235600017172553"
+  },
+  {
+    "title": "CCM Imobiliária",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. Bonifácio Vilela, 443 - Centro, Ponta Grossa - PR, 84010-330, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Bonifácio Vilela, 443",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.ccmimobiliaria.com.br/",
+    "phone": "+55 42 3225-8852",
+    "phoneUnformatted": "+554232258852",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0889769,
+      "lng": -50.1598963
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ60BNUz4a6JQRHeNEC25qx6M",
+    "categories": [
+      "Real estate agency",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Real estate agent",
+      "Real estate appraiser"
+    ],
+    "fid": "0x94e81a3e534d40eb:0xa3c76a6e0b44e31d",
+    "cid": "11801518369415684893",
+    "reviewsCount": 1017,
+    "reviewsDistribution": {
+      "oneStar": 99,
+      "twoStar": 5,
+      "threeStar": 9,
+      "fourStar": 16,
+      "fiveStar": 888
+    },
+    "imagesCount": 55,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CCM%20Imobili%C3%A1ria&query_place_id=ChIJ60BNUz4a6JQRHeNEC25qx6M",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqQOh5WBdod2EuwgVdKHDP1uzjZ1nd7SZ6-5rJbZi-DI4X2eNUBD_0wQK75t5-xrNVjazZbV8eKbSspP6r57AwxIm6NG8uY9Pig5IfP4VnzY2MbCbxWgE5vOwMjI6cbpWUlj7nBg=w408-h306-k-no",
+    "kgmid": "/g/11h0l076g",
+    "businessProfileId": "9852274214288805494"
+  },
+  {
+    "title": "imobiliaria granada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Júlio de Castilho, 1070 - Centro, Ponta Grossa - PR, 84010-220, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Júlio de Castilho, 1070",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://imobiliariagranada.com.br/",
+    "phone": "+55 42 3222-9110",
+    "phoneUnformatted": "+554232229110",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.088686,
+      "lng": -50.1660188
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBYe-H0Qa6JQRvF4eeUQIs0Y",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a441fbe8705:0x46b30844791e5ebc",
+    "cid": "5094424693668994748",
+    "reviewsCount": 63,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 58
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=imobiliaria%20granada&query_place_id=ChIJBYe-H0Qa6JQRvF4eeUQIs0Y",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-OAWvTvOzbi-CklFW_otLWK4CQR59iDGyBud-O8VUXxZ6BKo48qFzxFDF3yN_0A6k08w_ja41ta9Qm1bBIP-ItXE_UVZ5B9GM4Jv0wuihtv-NGGBz2nE8ijIiwqPB2feNtJo=w426-h240-k-no",
+    "kgmid": "/g/11jcml2ng3",
+    "businessProfileId": "15181336610581764182"
+  },
+  {
+    "title": "SindCond Condomínios e Imoveis em Ponta Grossa PR",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Business administration service",
+    "address": "Anexo ao Edifício Champagnat - R. Antônio João, 448 - Sala 4 - Jardim Carvalho, Ponta Grossa - PR, 84015-370, Brazil",
+    "neighborhood": "Jardim Carvalho",
+    "street": "Anexo ao Edifício Champagnat - R. Antônio João, 448 - Sala 4",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-370",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://sindcondcondominios.com.br/",
+    "phone": "+55 42 99965-2865",
+    "phoneUnformatted": "+5542999652865",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0765877,
+      "lng": -50.158641
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP6BqRCAX6JQRdxT1ZanIt4U",
+    "categories": [
+      "Business administration service",
+      "Condominium complex",
+      "Property administration service",
+      "Real estate attorney"
+    ],
+    "fid": "0x94e81720446aa03f:0x85b7c8a965f51477",
+    "cid": "9635390557668054135",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SindCond%20Condom%C3%ADnios%20e%20Imoveis%20em%20Ponta%20Grossa%20PR&query_place_id=ChIJP6BqRCAX6JQRdxT1ZanIt4U",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTysHPcHN5s0xzq33BwX7TqW7GuUr8a-26mYOdCjKlYOZIorfLDhcn63mm0RNOF3ZPpGRUFw12EpSPB5ZN87peTc7cW6oe0zKGWg4bnFYLMF_E540BTuLPYZimEMviUq6WTSi2=w408-h544-k-no",
+    "kgmid": "/g/11qm36tsw0",
+    "businessProfileId": "10980990651498653095"
+  },
+  {
+    "title": "CDC Imóveis - Imobiliária Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Sete de Setembro, 635 - Centro, Ponta Grossa - PR, 84010-350, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Sete de Setembro, 635",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-350",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://cdcimoveispg.com.br/",
+    "phone": "+55 42 99912-0011",
+    "phoneUnformatted": "+5542999120011",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0966356,
+      "lng": -50.1581543
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfwtf2uwb6JQR4K3xXUwHKRI",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Real estate consultant",
+      "Vacation home rental agency"
+    ],
+    "fid": "0x94e81becda5f0b7f:0x1229074c5df1ade0",
+    "cid": "1308585191302868448",
+    "reviewsCount": 58,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 58
+    },
+    "imagesCount": 138,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 11 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CDC%20Im%C3%B3veis%20-%20Imobili%C3%A1ria%20Ponta%20Grossa&query_place_id=ChIJfwtf2uwb6JQR4K3xXUwHKRI",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL-TKLNcDMc5ePw4fhwG-jdgambK1z9bRU7dK_QCzshtUUTrS6cj7dw9DukxN3Fa3uZXLSvxx_1GQ8k9hvKXGB0wyXoWxEy4YC45uP8NtIwvapopaMDi8hUoKARJSRp98fLhql-w=w408-h299-k-no",
+    "kgmid": "/g/11tdpd2dd1",
+    "businessProfileId": "9090476216739771844"
+  },
+  {
+    "title": "Flow - Imobiliária Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quinze de Novembro, 308 - Sala 7 - Centro, Ponta Grossa - PR, 84010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quinze de Novembro, 308 - Sala 7",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://flowimobiliaria.com.br/",
+    "phone": "+55 42 99980-0127",
+    "phoneUnformatted": "+5542999800127",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0961856,
+      "lng": -50.1585261
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVVVlXEEa6JQRmUdpWMi7xPE",
+    "categories": [
+      "Real estate agency",
+      "Real estate agent",
+      "Real estate appraiser",
+      "Real estate consultant"
+    ],
+    "fid": "0x94e81a415c655555:0xf1c4bbc858694799",
+    "cid": "17421255727727069081",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 29
+    },
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11:30 AM, 1:30 to 5:45 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11:30 AM, 1:30 to 5:45 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11:30 AM, 1:30 to 5:45 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11:30 AM, 1:30 to 5:45 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11:30 AM, 1 to 5:45 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Flow%20-%20Imobili%C3%A1ria%20Ponta%20Grossa&query_place_id=ChIJVVVlXEEa6JQRmUdpWMi7xPE",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4d3oJr22vBY_jo9NvQru-Yblv1NDy7AIFCSEjiAQM2jpRMLQIRapOWruJeG7NpHip9V_UV260YPZEpAZwRuVu_77mKWfHor2kohDig5-kM859GciLUClbLmo8aJE7fvFovMHz=w408-h544-k-no",
+    "kgmid": "/g/11k4jlw3qk",
+    "businessProfileId": "13891237978645361202"
+  },
+  {
+    "title": "Dom Prime Consultoria Imobiliária",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Gen. Carneiro, 1490 - Centro, Ponta Grossa - PR, 84010-370, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Gen. Carneiro, 1490",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-370",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://domprimeimob.com.br/",
+    "phone": "+55 42 99827-0024",
+    "phoneUnformatted": "+5542998270024",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0867956,
+      "lng": -50.157883
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsxuALQEb6JQRSiZy0l8dgOg",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81b012d801bb3:0xe8801d5fd272264a",
+    "cid": "16753422911208040010",
+    "reviewsCount": 30,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 28
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dom%20Prime%20Consultoria%20Imobili%C3%A1ria&query_place_id=ChIJsxuALQEb6JQRSiZy0l8dgOg",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRRV6EvOk2s6q1b52R4Z1mLjzvjmIxJoJhGuFk7cOy_Vv0RZU16vP9VbmcB7pz33QxxXFV46iqiF7fzlUfyoc-gwJDEM9l15q9EA30BymAZLmuyClRo9Y09WONKqOl4szegD__moZcw1UF=w426-h240-k-no",
+    "kgmid": "/g/11sn_7htdr",
+    "businessProfileId": "14131576780331200318"
+  },
+  {
+    "title": "Agente Negócios Imobiliários Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. General Carlos Cavalcanti, 1255 - Uvaranas, Ponta Grossa - PR, 84025-000, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. General Carlos Cavalcanti, 1255",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.agenteni.com.br/",
+    "phone": "+55 42 3323-6345",
+    "phoneUnformatted": "+554233236345",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0910891,
+      "lng": -50.1394889
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPUyPYMgb6JQRX-Zxw1qjnsI",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Commercial real estate agency",
+      "Condominium rental agency",
+      "Home builder",
+      "Land allotment",
+      "Real estate agent",
+      "Real estate consultant"
+    ],
+    "fid": "0x94e81bc8608f4c3d:0xc29ea35ac371e65f",
+    "cid": "14023825899899709023",
+    "reviewsCount": 59,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 53
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Agente%20Neg%C3%B3cios%20Imobili%C3%A1rios%20Ponta%20Grossa&query_place_id=ChIJPUyPYMgb6JQRX-Zxw1qjnsI",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNL_x2uSYFrTDw7InD6cie8mS6iHD0FiPgdDkjRxYuNMUQXsCR72bgRhWpjx1IVnGh2pM9mzZUwRdMofZMjhrfOd2fBUKhCYdTfeb9seh7XB9Wd8k_ydFJDZ47yVgMgcuipaS_ug=w408-h306-k-no",
+    "kgmid": "/g/11fkf89wtv",
+    "businessProfileId": "10834170372414399737"
+  },
+  {
+    "title": "Imobiliaria Fabiana - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Pedro Ferreira Dias, 44 - Cará-Cará, Ponta Grossa - PR, 84034-012, Brazil",
+    "neighborhood": "Cará-Cará",
+    "street": "R. Pedro Ferreira Dias, 44",
+    "city": "Ponta Grossa",
+    "postalCode": "84034-012",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://imobiliariafabiana.com.br/",
+    "phone": "+55 42 99912-6586",
+    "phoneUnformatted": "+5542999126586",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1331114,
+      "lng": -50.1127829
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb1Oh7kEa6JQRiPWNjQWTj3k",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a41eea1536f:0x798f93058d8df588",
+    "cid": "8759381452317914504",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 49,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:18.140Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobiliaria%20Fabiana%20-%20Ponta%20Grossa&query_place_id=ChIJb1Oh7kEa6JQRiPWNjQWTj3k",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "administradora de imóveis Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdI3MMwRRkutAaD6C6s_BtmOFJqBrn2WuoQogooGgOBkg8iPTxZpNE5bcv94_6fZ1991TdLlpWd_eyBgqBW-dljtJZsN6x2eREJQlEMO8Mogkv7-K4Ll8fiqRNtbiHcsZlpyWYQ=w408-h306-k-no",
+    "kgmid": "/g/11hdcbrfvf",
+    "businessProfileId": "7816883741344076082"
+  },
+  {
+    "title": "Thafe Imóveis - Imobiliária em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Santos Dumont, 540 - Sl 12 - Centro, Ponta Grossa - PR, 84010-360, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Santos Dumont, 540 - Sl 12",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://thafeimoveis.com.br/",
+    "phone": "+55 42 99830-3771",
+    "phoneUnformatted": "+5542998303771",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0968113,
+      "lng": -50.1570854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnVjH_XEb6JQRHS5iK4Z_dy8",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81b71fdc7589d:0x2f777f862b622e1d",
+    "cid": "3420342656241380893",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.563Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Thafe%20Im%C3%B3veis%20-%20Imobili%C3%A1ria%20em%20Ponta%20Grossa&query_place_id=ChIJnVjH_XEb6JQRHS5iK4Z_dy8",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5E48vL4GpkjtvU26zipTRw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=99.83121&pitch=0&thumbfov=100",
+    "kgmid": "/g/11zyz0fnwm",
+    "businessProfileId": "14176636069134639922"
+  },
+  {
+    "title": "BDG Company | Imobiliária em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. Ernesto Viléla, 668 - Sl 17 - Nova Rússia, Ponta Grossa - PR, 84070-000, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "Av. Ernesto Viléla, 668 - Sl 17",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.bdgcompany.com.br/",
+    "phone": "+55 42 99815-0085",
+    "phoneUnformatted": "+5542998150085",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0868225,
+      "lng": -50.1715311
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2ZTEDTQb6JQRDVh4eg_4-Gk",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81b340dc494d9:0x69f8f80f7a78580d",
+    "cid": "7636125913569581069",
+    "reviewsCount": 34,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 34
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.563Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BDG%20Company%20%7C%20Imobili%C3%A1ria%20em%20Ponta%20Grossa&query_place_id=ChIJ2ZTEDTQb6JQRDVh4eg_4-Gk",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0xXJKU3MJE0MIkzcFk77mFCDuYdngwRu8BNxdO3OVJ85UhXJukk5HdQdQT7Rp7knYVOaxnEdPNhe5u2I9bktJ-_jYFHNSMn_dFq5sUG_qQv1YkiSr-kYlhTwEuOYND8Oh2d3AMx2P2fu9=w408-h306-k-no",
+    "kgmid": "/g/11myvvpmcm",
+    "businessProfileId": "13733865031679765975"
+  },
+  {
+    "title": "Imobiliária Vidal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Comendador Miró, 790 - Centro, Ponta Grossa - PR, 84010-160, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Comendador Miró, 790",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://imobiliariavidal.imb.br/",
+    "phone": "+55 42 99802-6154",
+    "phoneUnformatted": "+5542998026154",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0924383,
+      "lng": -50.1612942
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIfi1h0sb6JQR4mHBdtqY2AI",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81b4b87b5f821:0x2d898da76c161e2",
+    "cid": "205081847108035042",
+    "reviewsCount": 209,
+    "reviewsDistribution": {
+      "oneStar": 14,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 195
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Vidal&query_place_id=ChIJIfi1h0sb6JQR4mHBdtqY2AI",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLec5bgaUnV92OuHPaKxTGJ2UJxygd2W3hrW0w7vMKb7-P_-EBiHoIHnoWamSXiGE5yOr6-LyHh92j-Zq8JAFSmIDIq5JDQWHDzTDv_RSTOV6U1vIxxGolgsU985M_gDV37JFEC265tH0D_q=w408-h544-k-no",
+    "kgmid": "/g/11tt8n9pd8",
+    "businessProfileId": "10680820983014822914"
+  },
+  {
+    "title": "Imobiliária Desafio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Dr. Paula Xavier, 816 - Centro, Ponta Grossa - PR, 84010-270, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Paula Xavier, 816",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.imobiliariadesafio.com.br/",
+    "phone": "+55 42 98819-0184",
+    "phoneUnformatted": "+5542988190184",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1019658,
+      "lng": -50.1610395
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr5YtykIa6JQRD1M5d5lOHUE",
+    "categories": [
+      "Real estate agency",
+      "Commercial real estate agency",
+      "Commercial real estate inspector",
+      "Furniture rental service",
+      "Home inspector",
+      "Real estate agent",
+      "Real estate appraiser",
+      "Real estate consultant",
+      "Real estate surveyor"
+    ],
+    "fid": "0x94e81a42ca2d96af:0x411d4e997739530f",
+    "cid": "4691992807827133199",
+    "reviewsCount": 136,
+    "reviewsDistribution": {
+      "oneStar": 18,
+      "twoStar": 8,
+      "threeStar": 9,
+      "fourStar": 20,
+      "fiveStar": 81
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 AM–9 PM"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Desafio&query_place_id=ChIJr5YtykIa6JQRD1M5d5lOHUE",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdE-tFT_pck42zVhqlrJD1EdIJSYKl9cWheERMpj_MF00Br6DXi0cK8oK1eFj59iHaKGAIr31BiGYl6ZfJpCxBZn1fSPFg865YOjTvSlbLXSATzG4w4auZqwz2uF37VzPrNv8a6=w408-h306-k-no",
+    "kgmid": "/g/11h13n910",
+    "businessProfileId": "2017747379656410122"
+  },
+  {
+    "title": "Imobiliária NOHAL IMÓVEIS Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cel. Dulcídio, 1183 - sala 11 2 andar - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 1183 - sala 11 2 andar",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://nohalimoveis.com.br/",
+    "phone": "+55 42 99826-2828",
+    "phoneUnformatted": "+5542998262828",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.090621,
+      "lng": -50.162011
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVVWlmUEa6JQRxjsF1v0UAhY",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a4199a55555:0x160214fdd6053bc6",
+    "cid": "1585853099237784518",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 28
+    },
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20NOHAL%20IM%C3%93VEIS%20Ponta%20Grossa&query_place_id=ChIJVVWlmUEa6JQRxjsF1v0UAhY",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezhFM5D3XFAoLlHt0HugNFpARoNxhhH3g8wrMyT80cSerQnBm0W6BHWYQyyYhISHls9lqcOF7sdAe0_RKFSErU11RfT0fCUOC7ek6lcseNrYjaXQyhDk9T2pd0lSFtb3Ha2TOTcg=w408-h544-k-no",
+    "kgmid": "/g/11l5zcbvk5",
+    "businessProfileId": "12639764729881630368"
+  },
+  {
+    "title": "Solenne Imóveis Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agent",
+    "address": "R. Dr. Leopoldo Guimarães da Cunha, 364 - Oficinas, Ponta Grossa - PR, 84035-310, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Dr. Leopoldo Guimarães da Cunha, 364",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.solenneimoveispg.com.br/",
+    "phone": "+55 42 99829-6173",
+    "phoneUnformatted": "+5542998296173",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1109535,
+      "lng": -50.1560579
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu-fLH9gb6JQR0CFQHYAXOjA",
+    "categories": [
+      "Real estate agent"
+    ],
+    "fid": "0x94e81bd81fcbe7bb:0x303a17801d5021d0",
+    "cid": "3475115901484802512",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Solenne%20Im%C3%B3veis%20Ponta%20Grossa&query_place_id=ChIJu-fLH9gb6JQR0CFQHYAXOjA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qgLAt2Q_ZJXQUf9alwtkDQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=213.76836&pitch=0&thumbfov=100",
+    "kgmid": "/g/11xkh2pzxx",
+    "businessProfileId": "11492953652706809403"
+  },
+  {
+    "title": "Alvorê Negócios Imobiliários",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quinze de Novembro, 512 - Sl 105 - Centro, Ponta Grossa - PR, 84010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quinze de Novembro, 512 - Sl 105",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://alvoreimobiliaria.com.br/",
+    "phone": "+55 42 99989-1906",
+    "phoneUnformatted": "+5542999891906",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0962638,
+      "lng": -50.1606364
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk7w8Y0sb6JQRbfgHVy0ksow",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81b4b633cbc93:0x8cb2242d5707f86d",
+    "cid": "10138205488316676205",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alvor%C3%AA%20Neg%C3%B3cios%20Imobili%C3%A1rios&query_place_id=ChIJk7w8Y0sb6JQRbfgHVy0ksow",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLffR7NEqBcFEuddkVOWNX3Yfxf1el8kXgNoD4Yob1arXepaqeszY9PDn6iOR76GMZ-qxyHTpx6PLWlqTcKKmjZLC7hF_0JN_mxceaT1y-JHxNQUIZCLtf1QSaOqMHR4bEcdPTdzM0eBLgWP=w408-h544-k-no",
+    "kgmid": "/g/11njzb4s4c",
+    "businessProfileId": "7286714521603611840"
+  },
+  {
+    "title": "Imobiliária Casa Top",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Balduíno Taques, 344 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 344",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imobiliariacasatop.com.br/",
+    "phone": "+55 42 3028-0545",
+    "phoneUnformatted": "+554230280545",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0968957,
+      "lng": -50.1625168
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJixIBskYa6JQR59fRGDPYlPQ",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81a46b201128b:0xf494d83318d1d7e7",
+    "cid": "17623948955778930663",
+    "reviewsCount": 1357,
+    "reviewsDistribution": {
+      "oneStar": 51,
+      "twoStar": 7,
+      "threeStar": 16,
+      "fourStar": 54,
+      "fiveStar": 1229
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Casa%20Top&query_place_id=ChIJixIBskYa6JQR59fRGDPYlPQ",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqZUhWCtxAWIh-e5i2bAhydqqE4f8KwvPMaB_LSxQCHN2zR2n-WwaGxHgsR66xYvGJ3Oh7h52YoEn6miTeufqmofziCJNtJzKMX4QEPJmrkXB5tLoXwHBRXIwLkzpSEyHdYm-oZiWzuSK9=w408-h306-k-no",
+    "kgmid": "/g/11bw61p8cz",
+    "businessProfileId": "9248622980917551188"
+  },
+  {
+    "title": "Perissutti Imóveis - Imobiliária Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Franco Grilo, 255 - Colonia Dona Luiza, Ponta Grossa - PR, 84045-320, Brazil",
+    "neighborhood": "Colonia Dona Luiza",
+    "street": "R. Franco Grilo, 255",
+    "city": "Ponta Grossa",
+    "postalCode": "84045-320",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://perissuttiimoveis.com.br/",
+    "phone": "+55 42 99813-1371",
+    "phoneUnformatted": "+5542998131371",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.121623,
+      "lng": -50.1576249
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfV7_J8Eb6JQRdV9x_kc4ZLM",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Real estate agent",
+      "Real estate appraiser",
+      "Real estate consultant"
+    ],
+    "fid": "0x94e81bc127ff5e7d:0xb3643847fe715f75",
+    "cid": "12926518712322842485",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 18
+    },
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:20:28.564Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 11 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Perissutti%20Im%C3%B3veis%20-%20Imobili%C3%A1ria%20Ponta%20Grossa&query_place_id=ChIJfV7_J8Eb6JQRdV9x_kc4ZLM",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "imobiliária Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdW22lvJpNlLSEjB2sqoO67kmYhcRSlOQGTzv6sqZd5rTTXtmGZoV_KDfK0cqKohlZvW_YbwTy6zuY_m0ZJ2RlMA8gDyDsw8U52Y-PGqiua_LHaYv4oehHimHFsqBH-gui9LxdFgiHl1Rli=w408-h306-k-no",
+    "kgmid": "/g/11h7q6tcp7",
+    "businessProfileId": "7163570329584794163"
+  },
+  {
+    "title": "ImobCastro - Imobiliária em Castro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Rua Dr. Javert Madureira, 1127 - Vila Rio Branco, Castro - PR, 84174-410, Brazil",
+    "neighborhood": "Vila Rio Branco",
+    "street": "Rua Dr. Javert Madureira, 1127",
+    "city": "Castro",
+    "postalCode": "84174-410",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://imobcastro.net.br/",
+    "phone": "+55 42 98835-6873",
+    "phoneUnformatted": "+5542988356873",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7990112,
+      "lng": -49.9938864
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb4EpdHmdwpQRHq4W2WjlU5U",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d797429816f:0x9553e568d916ae1e",
+    "cid": "10760196173199748638",
+    "reviewsCount": 117,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 3,
+      "fourStar": 3,
+      "fiveStar": 107
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.553Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ImobCastro%20-%20Imobili%C3%A1ria%20em%20Castro&query_place_id=ChIJb4EpdHmdwpQRHq4W2WjlU5U",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9qiYEbTgJ4vAO5WCmVrBFFYjJQiDpUD-C1DFwX-TvquGmo_Y6Ofr5WBPOkCwYM_YMQT7IkcwCUwsACe8y2qpdqhmf9ysxM-F3wyaRfye1Wbi95NDnWbOx2VZPk8ocMlheJxNB=w426-h240-k-no",
+    "kgmid": "/g/11smhpff8t",
+    "businessProfileId": "12815901045744570500"
+  },
+  {
+    "title": "Classe A - Imobiliária Castro PR",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Rodrigo Otávio Tôrres Pereira, 55 - Sl 2 - Vila Rio Branco, Castro - PR, 84172-280, Brazil",
+    "neighborhood": "Vila Rio Branco",
+    "street": "R. Rodrigo Otávio Tôrres Pereira, 55 - Sl 2",
+    "city": "Castro",
+    "postalCode": "84172-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://classeaimoveiscastro.com.br/",
+    "phone": "+55 42 99979-8892",
+    "phoneUnformatted": "+5542999798892",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7891017,
+      "lng": -50.000517
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLQcNXv6dwpQR7_RLF6rAXTg",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Industrial real estate agency",
+      "Vacation home rental agency"
+    ],
+    "fid": "0x94c29dfe5e0d072d:0x385dc0aa174bf4ef",
+    "cid": "4061614275725882607",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 60
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.553Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 11 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Classe%20A%20-%20Imobili%C3%A1ria%20Castro%20PR&query_place_id=ChIJLQcNXv6dwpQR7_RLF6rAXTg",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSsuHYnIDVls1ho176pAQh_ZsxXqGeOYshXOv23WvYR0YGwouYHSyJ1YMOkfpyaY3k43uatMyYa7v8K4WWmxn3-jrjjSo0NWficBbDWS6FqeKSGJ9VdW3D2_D4joB8WdnXvmcX=w408-h522-k-no",
+    "kgmid": "/g/11vxpl5d6q",
+    "businessProfileId": "12870333518403765755"
+  },
+  {
+    "title": "Imóveis Prática",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Dr. Romário Martins, 536 - Centro, Castro - PR, 84165-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Romário Martins, 536",
+    "city": "Castro",
+    "postalCode": "84165-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imoveispratica.com.br/",
+    "phone": "+55 42 3233-7100",
+    "phoneUnformatted": "+554232337100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7871463,
+      "lng": -50.0087681
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtUaDBVGdwpQRHXhlStU13FI",
+    "categories": [
+      "Real estate agency",
+      "Property management company",
+      "Real estate developer",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94c29d51058346b5:0x52dc35d54a65781d",
+    "cid": "5970706396178905117",
+    "reviewsCount": 728,
+    "reviewsDistribution": {
+      "oneStar": 16,
+      "twoStar": 4,
+      "threeStar": 18,
+      "fourStar": 40,
+      "fiveStar": 650
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.553Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Im%C3%B3veis%20Pr%C3%A1tica&query_place_id=ChIJtUaDBVGdwpQRHXhlStU13FI",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftsneWqk_TmFm8LRi6SYYiRi_wO7vBDs0j9ZgeVBidhcJX6pNUT7b1LrZhgR-Zo68UmRHtgV-P9NkJYxCK3Z1j0s4Z6EMK8ngXXq2C7s6kQvGc5G6IEe0S0UxPrZnpmk--Wz_-=w408-h306-k-no",
+    "kgmid": "/g/11xj7b3p3",
+    "businessProfileId": "10280688997291812938"
+  },
+  {
+    "title": "Torriê Imóveis",
+    "subTitle": "Torriê Imóveis - Imobiliária em Castro",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Dr. Romário Martins, 256-1 - Centro, Castro - PR, 84165-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Romário Martins, 256-1",
+    "city": "Castro",
+    "postalCode": "84165-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://torrieimoveis.com.br/?utm_source=gbp&utm_medium=organico&utm_campaign=perfil-da-empresa",
+    "phone": "+55 42 99912-0362",
+    "phoneUnformatted": "+5542999120362",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7847727,
+      "lng": -50.007761
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2Q9islSDwpQRxGHvBXOOycY",
+    "categories": [
+      "Real estate agency",
+      "Apartment rental agency",
+      "Commercial real estate agency",
+      "Construction company",
+      "Property management company",
+      "Real estate appraiser",
+      "Real estate consultant",
+      "Real estate developer",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94c28354b2620fd9:0xc6c98e7305ef61c4",
+    "cid": "14324136714500530628",
+    "reviewsCount": 306,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 297
+    },
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.553Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Torri%C3%AA%20Im%C3%B3veis&query_place_id=ChIJ2Q9islSDwpQRxGHvBXOOycY",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSvqkamwcrNIgvfmQmyFOkvyOWjxr8i0t-xRigI4YXtsiLXrRqlMmsDcc2aEDAhXNXPxIBN5D1307yGWPKFROuAiQH7XjjPX0INhoAFhKQmE4hJeFM3MvRaFKPzSPbB6beWpOudGh0IbrY=w408-h240-k-no-pi-20-ya10.000016-ro-0-fo100",
+    "kgmid": "/g/11mhbl9s_7",
+    "businessProfileId": "13282734767739665103"
+  },
+  {
+    "title": "Ética imobiliária - Loja 01",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Felix Tadeu Meyer, 60 - Jardim Social Primavera, Castro - PR, 84174-050, Brazil",
+    "neighborhood": "Jardim Social Primavera",
+    "street": "R. Felix Tadeu Meyer, 60",
+    "city": "Castro",
+    "postalCode": "84174-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imobiliariaetica.com/",
+    "phone": "+55 42 3233-4105",
+    "phoneUnformatted": "+554232334105",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.8029294,
+      "lng": -49.9934434
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUyrw4BWdwpQRF5JKdyI9NeU",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d15e0f02a53:0xe5353d22774a9217",
+    "cid": "16516174426690720279",
+    "reviewsCount": 79,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 3,
+      "threeStar": 7,
+      "fourStar": 16,
+      "fiveStar": 48
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.553Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=%C3%89tica%20imobili%C3%A1ria%20-%20Loja%2001&query_place_id=ChIJUyrw4BWdwpQRF5JKdyI9NeU",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7tVlPq-djOJgi9--rhfCdbYvByoFIJuvAwqVR53-JwU9-oTeflNhLpl29Fr3wCqhk6_DbG17FskSGKv_Dra95yOdWzNyFq56NIgPpGtHzYi5hu_K3nJAea5JVtskW8iogz1U=w426-h240-k-no",
+    "kgmid": "/g/11fzfdvtbq",
+    "businessProfileId": "7866997714845475580"
+  },
+  {
+    "title": "Central Assessoria Imobiliaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quinze de Novembro, 441 - Centro, Castro - PR, 84165-680, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quinze de Novembro, 441",
+    "city": "Castro",
+    "postalCode": "84165-680",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://centraldeimoveiscastro.com.br/",
+    "phone": "+55 42 99161-1500",
+    "phoneUnformatted": "+5542991611500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7883682,
+      "lng": -50.0067672
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpRxQDk2dwpQRHsneKBgTYl0",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d4d0e501ca5:0x5d62131828dec91e",
+    "cid": "6728961787730774302",
+    "reviewsCount": 45,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 2,
+      "threeStar": 7,
+      "fourStar": 6,
+      "fiveStar": 25
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Central%20Assessoria%20Imobiliaria&query_place_id=ChIJpRxQDk2dwpQRHsneKBgTYl0",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ChiCzxMgpG7NrY2o6LHEfw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=111.13641&pitch=0&thumbfov=100",
+    "kgmid": "/g/11c1rtxzk5",
+    "businessProfileId": "2855925319767998590"
+  },
+  {
+    "title": "FGK IMOBILIARIA LTDA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Ao lado Atacado Appeldorn - R. Luiz Cardoso, 340 - Jardim das Araucarias, Castro - PR, 84172-575, Brazil",
+    "neighborhood": "Jardim das Araucarias",
+    "street": "Ao lado Atacado Appeldorn - R. Luiz Cardoso, 340",
+    "city": "Castro",
+    "postalCode": "84172-575",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://fgkimobiliaria.com.br/",
+    "phone": "+55 42 99951-5656",
+    "phoneUnformatted": "+5542999515656",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.8045353,
+      "lng": -49.9957432
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZTgzvS-dwpQRevrCXobrWMQ",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d2fbd333865:0xc458eb865ec2fa7a",
+    "cid": "14148317191732394618",
+    "reviewsCount": 179,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 6,
+      "fiveStar": 168
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FGK%20IMOBILIARIA%20LTDA&query_place_id=ChIJZTgzvS-dwpQRevrCXobrWMQ",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXvns_iZOWDT3Uw1nAlClUBrUXcv4iQk0yzhlOqVX8jfLVO3gKDYrJ-kaaxzFfptbd46l64NZv8ncdrlEiS3fpdPwi9lPMOZ_4Qyh79FosyVna6AtZ6MkkyIgnwO-aSRxnNTSq=w721-h240-k-no",
+    "kgmid": "/g/11h4zkh_xj",
+    "businessProfileId": "10261986978830174179"
+  },
+  {
+    "title": "Nava Imóveis e Mais Seguros Corretora de Seguros",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Gen. Câmara, 335 - Centro, Castro - PR, 84165-190, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Gen. Câmara, 335",
+    "city": "Castro",
+    "postalCode": "84165-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://navaimoveis.com.br/",
+    "phone": "+55 42 3232-4747",
+    "phoneUnformatted": "+554232324747",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7878909,
+      "lng": -50.0070871
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnZ4js1KdwpQRY04gzgLze-c",
+    "categories": [
+      "Real estate agency",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94c29d52b3239e9d:0xe77bf302ce204e63",
+    "cid": "16680192838270471779",
+    "reviewsCount": 138,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 3,
+      "threeStar": 10,
+      "fourStar": 14,
+      "fiveStar": 106
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nava%20Im%C3%B3veis%20e%20Mais%20Seguros%20Corretora%20de%20Seguros&query_place_id=ChIJnZ4js1KdwpQRY04gzgLze-c",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5aGP0GrEu22phAoPmkAeP5MSvp0zbTf88ei8v64Mn3SgQchvOWsvDxXHO-XkdSJeZKRH16gIR93ufqvi6MR8m0Zw-qp0mWqVNR0FZzp_F7x0ImcTGJ-qayydQJtGbL9hWAr8EJg=w408-h272-k-no",
+    "kgmid": "/g/1tx1v8_9",
+    "businessProfileId": "6428785115518262834"
+  },
+  {
+    "title": "Liebel Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Tiradentes, 95 - Centro, Castro - PR, 84165-630, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tiradentes, 95",
+    "city": "Castro",
+    "postalCode": "84165-630",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.liebelimoveis.com.br/",
+    "phone": "+55 42 98428-3841",
+    "phoneUnformatted": "+5542984283841",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.789065,
+      "lng": -50.0020546
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa0UNlQGdwpQRYFvUklfFmsU",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d01950d456b:0xc59ac55792d45b60",
+    "cid": "14238910151801461600",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 61,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Liebel%20Im%C3%B3veis&query_place_id=ChIJa0UNlQGdwpQRYFvUklfFmsU",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrJrO38tYDYepUWSV6e1swWKKBl2ltFwyor14b8vjpxNuH007Aa1t-bSoZN_z5bo1xs0YXfLHW9MJwhw7zm9DjhhAMBgzUy9rR3YAvopdOJqpQUDs62IVCn-dEa_7hd2vymK6FBQ=w408-h544-k-no",
+    "kgmid": "/g/11n08nbmtr",
+    "businessProfileId": "15066660610652175855"
+  },
+  {
+    "title": "Ética Imobiliária - Loja 03",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Dr. Romário Martins, 670 - Centro, Castro - PR, 84165-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Romário Martins, 670",
+    "city": "Castro",
+    "postalCode": "84165-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.imobiliariaetica.com/imoveis-locacao",
+    "phone": "+55 42 99929-7006",
+    "phoneUnformatted": "+5542999297006",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7882845,
+      "lng": -50.0091336
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJzjOolKdwpQR70S8ISkoVe0",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d52a2ce3827:0xed55282921bc44ef",
+    "cid": "17101619317134083311",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=%C3%89tica%20Imobili%C3%A1ria%20-%20Loja%2003&query_place_id=ChIJJzjOolKdwpQR70S8ISkoVe0",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLft3vvruzYf3qb1KcDkQU_8uv-bmd6KT6WStIJSvAzPXiVHQEaFiwrLN_0DGfR8tkjCAxs7HmmVzX_qsWWbrrmg3wZXguP3LjLwG6yKodcDRUAuhOnoRqe3kQwq18LostObeJ7R=w408-h306-k-no",
+    "kgmid": "/g/11vj3373pz",
+    "businessProfileId": "5958877348914226715"
+  },
+  {
+    "title": "Ecology Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Dr. Jorge Xavier da Silva, 620 - Centro, Castro - PR, 84165-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Jorge Xavier da Silva, 620",
+    "city": "Castro",
+    "postalCode": "84165-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.ecologyimoveis.com.br/",
+    "phone": "+55 42 3232-5488",
+    "phoneUnformatted": "+554232325488",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -24.7907453,
+      "lng": -50.0090759
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv6bQclKdwpQRndfHY5_tEKA",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d5272d0a6bf:0xa010ed9f63c7d79d",
+    "cid": "11533979914525464477",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 1,
+      "fiveStar": 15
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ecology%20Im%C3%B3veis&query_place_id=ChIJv6bQclKdwpQRndfHY5_tEKA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oitK-WRVk7-jKP8xgHL5tA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=305.26984&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f4r96n6d",
+    "businessProfileId": null
+  },
+  {
+    "title": "Lacustre Negócios Imobiliários",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cel. Olegário de Macedo, 748 - Água Suja, Castro - PR, 84165-690, Brazil",
+    "neighborhood": "Água Suja",
+    "street": "R. Cel. Olegário de Macedo, 748",
+    "city": "Castro",
+    "postalCode": "84165-690",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://lacustreimoveis.com/",
+    "phone": "+55 42 99872-6378",
+    "phoneUnformatted": "+5542998726378",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7947819,
+      "lng": -50.0072118
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWWmpLumdwpQRqQIv2VBxhVc",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29de92ea96959:0x57857150d92f02a9",
+    "cid": "6306571445257306793",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 29,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lacustre%20Neg%C3%B3cios%20Imobili%C3%A1rios&query_place_id=ChIJWWmpLumdwpQRqQIv2VBxhVc",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbhId1IRlsaXaMsEC0emh9bIHj17GkgcnXDUb7-aA1pxTAyhYDWV0bLy1RMbQMy5Xk0tM_I1aEjjbnc2KSX40xSWAu1GyDFUaTW5pDcbhO27PlVZn9ysCC_mSZ8fCs_LRry9Pv=w458-h240-k-no",
+    "kgmid": "/g/11p16szbz9",
+    "businessProfileId": "9949330686620620270"
+  },
+  {
+    "title": "ISR IMÓVEIS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Padre Dâmaso, 30 - Centro, Castro - PR, 84165-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Dâmaso, 30",
+    "city": "Castro",
+    "postalCode": "84165-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.isimoveispr.com.br/",
+    "phone": "+55 42 99109-6673",
+    "phoneUnformatted": "+5542991096673",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7887846,
+      "lng": -50.0072666
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ1BWNMsb6JQR4uxa8OObi30",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94e81bcb34565043:0x7d8b9be3f05aece2",
+    "cid": "9046495679796145378",
+    "reviewsCount": 49,
+    "reviewsDistribution": {
+      "oneStar": 11,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 37
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ISR%20IM%C3%93VEIS&query_place_id=ChIJQ1BWNMsb6JQR4uxa8OObi30",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe58DV3dq6qS_-NNGt_B6Y-I57zTZ3l-JoxbrgtNgp2yPVHBNKumfVWkoZ0lq-M6lXuV6JS0LyxgP4EO82IN0XNBCovic93167033Gy99wLHcvZyPozB5TfZPUbG5t7-4MqtoOzlewLq3PV=w408-h703-k-no",
+    "kgmid": "/g/11t1kpvhrq",
+    "businessProfileId": "5031418516250188026"
+  },
+  {
+    "title": "Novo Rio Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quinze de Novembro, 427 - Centro, Castro - PR, 84165-680, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quinze de Novembro, 427",
+    "city": "Castro",
+    "postalCode": "84165-680",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://novorioimoveis.com/",
+    "phone": "+55 42 99973-0002",
+    "phoneUnformatted": "+5542999730002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7882462,
+      "lng": -50.0066473
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWeV32NWdwpQRILuOhGDAnRA",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29dd5d877e559:0x109dc060848ebb20",
+    "cid": "1197324596723759904",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Novo%20Rio%20Im%C3%B3veis&query_place_id=ChIJWeV32NWdwpQRILuOhGDAnRA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vHuIj701WohxrVKNUuctZg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=87.5017&pitch=0&thumbfov=100",
+    "kgmid": "/g/11nqm0b_yy",
+    "businessProfileId": "650401767344358857"
+  },
+  {
+    "title": "Appeldorn Negócios Imobiliários",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Luiz Cardoso - Jardim das Araucarias, Castro - PR, 84172-575, Brazil",
+    "neighborhood": "Jardim das Araucarias",
+    "street": "R. Luiz Cardoso",
+    "city": "Castro",
+    "postalCode": "84172-575",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99861-0038",
+    "phoneUnformatted": "+5542998610038",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.80476,
+      "lng": -49.9956386
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQZ83xp2dwpQRY-2VhXklchQ",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d9dc6379f41:0x147225798595ed63",
+    "cid": "1473281231966039395",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Appeldorn%20Neg%C3%B3cios%20Imobili%C3%A1rios&query_place_id=ChIJQZ83xp2dwpQRY-2VhXklchQ",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemGqtpJcUwP_NhNjP7yfnRLU19vVSmfCGd6EbSEG0WuUQx_LK8ajy0BNFtGLxHElQznxJG5S_V4voYGidKJlS7v2sKnSs_ZjX-eILmBmwqNMgS77yT1zM5X7Ku5Jq2gGVsLm_h=w427-h240-k-no",
+    "kgmid": "/g/11wj9cjmr9",
+    "businessProfileId": "1065399708763568297"
+  },
+  {
+    "title": "BG Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cel. Jorge Marcondes, 197 - Vila Rio Branco, Castro - PR, 84172-020, Brazil",
+    "neighborhood": "Vila Rio Branco",
+    "street": "R. Cel. Jorge Marcondes, 197",
+    "city": "Castro",
+    "postalCode": "84172-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3232-0915",
+    "phoneUnformatted": "+554232320915",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -24.8019755,
+      "lng": -49.9976146
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrXBtEACdwpQROd2JYdjcxfw",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d00106d70ad:0xfcc5dcd86189dd39",
+    "cid": "18214207089877310777",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BG%20Im%C3%B3veis&query_place_id=ChIJrXBtEACdwpQROd2JYdjcxfw",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rd_a-Ji5upg0egnKcILc2w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=6.7299213&pitch=-0.85180855&thumbfov=100",
+    "kgmid": "/g/11vylgvr_3",
+    "businessProfileId": null
+  },
+  {
+    "title": "Beta Imobiliária e Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cruz Machado, n° 1289 - A - Vila Rio Branco, Castro - PR, 84168-040, Brazil",
+    "neighborhood": "Vila Rio Branco",
+    "street": "R. Cruz Machado, n° 1289 - A",
+    "city": "Castro",
+    "postalCode": "84168-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://betaimobiliariaeengenharia.com.br/",
+    "phone": "+55 42 98434-9247",
+    "phoneUnformatted": "+5542984349247",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.800592,
+      "lng": -49.9925935
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSS3XezWdwpQRJA6EPIklyeI",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d357bd72d49:0xe2c925893c840e24",
+    "cid": "16341633994246589988",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Beta%20Imobili%C3%A1ria%20e%20Engenharia&query_place_id=ChIJSS3XezWdwpQRJA6EPIklyeI",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mue6Czk5L9ptDkZooZDMmw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=93.28657&pitch=0&thumbfov=100",
+    "kgmid": "/g/11n3_623fx",
+    "businessProfileId": "17096823016487522706"
+  },
+  {
+    "title": "Registro de Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Land registry office",
+    "address": "Pr. Manoel Ribas, 120 - Centro, Castro - PR, 84165-510, Brazil",
+    "neighborhood": "Centro",
+    "street": "Pr. Manoel Ribas, 120",
+    "city": "Castro",
+    "postalCode": "84165-510",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.registrodeimoveisdecastro.com/",
+    "phone": "+55 42 3125-0206",
+    "phoneUnformatted": "+554231250206",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.789479,
+      "lng": -50.007297
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH3MeHfGdwpQRcEED4CFKij0",
+    "categories": [
+      "Land registry office"
+    ],
+    "fid": "0x94c29df11d1e731f:0x3d8a4a21e0034170",
+    "cid": "4434438292452360560",
+    "reviewsCount": 63,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 60
+    },
+    "imagesCount": 44,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Registro%20de%20Im%C3%B3veis&query_place_id=ChIJH3MeHfGdwpQRcEED4CFKij0",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwqPGUHvQC6gmrQJ_6iEPRb8kelLubQmo8td6mmnEBY2o0l14G-BgOS6Tf1nnnV0yMzAp5-gMgKfz-jyy-F4JhCsB6_6ZTQ7XdP_iDlYPFZsrWfEYFjgWY-lkNKdfmjWW5_OpgExZrc5L8=w408-h306-k-no",
+    "kgmid": "/g/11k45bb0dp",
+    "businessProfileId": "10492925785892271831"
+  },
+  {
+    "title": "Empreendimento NOVA CASTRO- Fazenda Cantagalo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Karl Joseph Hoffman, 100 - CANTA GALO, Castro - PR, 84178-275, Brazil",
+    "neighborhood": "CANTA GALO",
+    "street": "R. Karl Joseph Hoffman, 100",
+    "city": "Castro",
+    "postalCode": "84178-275",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://novacastro.com.br/",
+    "phone": "+55 42 99132-2586",
+    "phoneUnformatted": "+5542991322586",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.8146992,
+      "lng": -49.9952791
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqVDvrA2dwpQRDljmib13fsc",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d0dacef50a9:0xc77e77bd89e6580e",
+    "cid": "14375058716559300622",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 21
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Empreendimento%20NOVA%20CASTRO-%20Fazenda%20Cantagalo&query_place_id=ChIJqVDvrA2dwpQRDljmib13fsc",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqVWI2IBw_9X0-f-4HZlwzx2mnWD-Oy7yZmBxpDj3LM6kqoHeUIEY0LOIXdxf1AZvknmgSK_TZUjMiKNGSVVHwG_z8ZGm4zmMz7NzVe2Mu6QZASqBA0yPkSWIN13VkP8gyjXYY=w408-h272-k-no",
+    "kgmid": "/g/11c550xxtr",
+    "businessProfileId": "667041680813917210"
+  },
+  {
+    "title": "Oz Negócios Imobiliários",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Visc. do Rio Branco, 153 - Centro, Castro - PR, 84165-470, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Visc. do Rio Branco, 153",
+    "city": "Castro",
+    "postalCode": "84165-470",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://oznegociosimobiliarios.com.br/",
+    "phone": "+55 42 3233-3405",
+    "phoneUnformatted": "+554232333405",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -24.7869579,
+      "lng": -50.0046934
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ59kawEydwpQR_gGhVGgqOoo",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94c29d4cc01ad9e7:0x8a3a2a6854a101fe",
+    "cid": "9960320153468076542",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 2,
+      "fiveStar": 10
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:23:34.555Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oz%20Neg%C3%B3cios%20Imobili%C3%A1rios&query_place_id=ChIJ59kawEydwpQR_gGhVGgqOoo",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Castro%20PR?hl=en",
+    "searchString": "imobiliária Castro PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciBlW5lAAZONh9Oa4oHOrJupauqkc2IlXnwz0bxWSCxk4QbRAt-fkiea-IwldAu19T24NjR6VncsGKYgEh3pBV0ceujVxon7DaQjagS-ZpMJm-abb45QSfMcjX0Epz_NesZHKGDA=w426-h240-k-no",
+    "kgmid": "/g/11c6f12kvw",
+    "businessProfileId": "7718885365730554978"
+  }
+]

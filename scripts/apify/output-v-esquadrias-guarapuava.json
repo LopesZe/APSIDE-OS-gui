@@ -1,0 +1,4015 @@
+[
+  {
+    "title": "Esquadrias de Ferro Oliveira",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Afonso Alves de Camargo, 176 - Santana, Guarapuava - PR, 85070-200, Brazil",
+    "neighborhood": "Santana",
+    "street": "R. Afonso Alves de Camargo, 176",
+    "city": "Guarapuava",
+    "postalCode": "85070-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98839-6988",
+    "phoneUnformatted": "+5542988396988",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3971008,
+      "lng": -51.4500652
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRUq8zR8275QRkLYl_YSbU5U",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94ef361fcdbc4a45:0x95539b84fd25b690",
+    "cid": "10760114930203342480",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 1,
+      "fiveStar": 4
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.141Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20de%20Ferro%20Oliveira&query_place_id=ChIJRUq8zR8275QRkLYl_YSbU5U",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLel7uM8JSLnl1uHSIFez9LhVeJn371Sf_Qy_REOpMKDCF5U-wTcZx6eWZxnfK-NOcJOfaYpLXCk1LlFqYgcCQXdaCDB6eXMOO4-WRVJo7gLABabe5PkblPyG9qnk6zWLEv_I0MyGbCZTvjo=w408-h544-k-no",
+    "kgmid": "/g/1ptvxc4m9",
+    "businessProfileId": "3536654753450872986"
+  },
+  {
+    "title": "Metalúrgica Galpão do ferro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Prof. Becker, 1202 - Alto da XV, Guarapuava - PR, 85065-030, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Prof. Becker, 1202",
+    "city": "Guarapuava",
+    "postalCode": "85065-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99928-8888",
+    "phoneUnformatted": "+5542999288888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3892294,
+      "lng": -51.4548732
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm0V8pSU275QRMhMwYXiatcw",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94ef3625a57c459b:0xccb59a7861301332",
+    "cid": "14750865996339221298",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metal%C3%BArgica%20Galp%C3%A3o%20do%20ferro&query_place_id=ChIJm0V8pSU275QRMhMwYXiatcw",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1fm6FggdDmTPpOi3wgOytQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=331.50513&pitch=0&thumbfov=100",
+    "kgmid": "/g/1pv2f_d71",
+    "businessProfileId": "12037536695313123593"
+  },
+  {
+    "title": "Esquadria de Ferro Pinheiro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "Av. Pres. Castelo Branco, 874 - São Cristóvão, Guarapuava - PR, 85065-230, Brazil",
+    "neighborhood": "São Cristóvão",
+    "street": "Av. Pres. Castelo Branco, 874",
+    "city": "Guarapuava",
+    "postalCode": "85065-230",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.facebook.com/pages/Esquadria-de-ferro-pinheiro/233724103410089",
+    "phone": "+55 42 99987-4643",
+    "phoneUnformatted": "+5542999874643",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3718559,
+      "lng": -51.4583507
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMePWl0Q275QR3BAog8IGS6k",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94ef364497d6e331:0xa94b06c2832810dc",
+    "cid": "12198851448156983516",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadria%20de%20Ferro%20Pinheiro&query_place_id=ChIJMePWl0Q275QR3BAog8IGS6k",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTcOeqE1XAD42a0TJtlNpQUsrsDioDhall9osGqz8wjNRTRTBwW8KgOL0crrlG3ySQOXaxtWOM8BZXwhgRk-dQSQ6xxDiLtO5DeflEwiPoog_rP2Me5VoHaWVQbWQGfPl0acvJ=w408-h541-k-no",
+    "kgmid": "/g/11g_0h6th",
+    "businessProfileId": "3982374780273397688"
+  },
+  {
+    "title": "Esquadria de ferro centro oeste",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Scaffolding rental service",
+    "address": "R. Barão do Rio Branco, 2377 - Batel, Guarapuava - PR, 85015-300, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Barão do Rio Branco, 2377",
+    "city": "Guarapuava",
+    "postalCode": "85015-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://esquadriacentrooeste.com.br/",
+    "phone": "+55 42 3627-3979",
+    "phoneUnformatted": "+554236273979",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.4018518,
+      "lng": -51.4800862
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJraOmI0U375QRhkIFDmnlPJo",
+    "categories": [
+      "Scaffolding rental service"
+    ],
+    "fid": "0x94ef374523a6a3ad:0x9a3ce5690e054286",
+    "cid": "11114010219813094022",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadria%20de%20ferro%20centro%20oeste&query_place_id=ChIJraOmI0U375QRhkIFDmnlPJo",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-Cz2CIXUsjvIRz_jozWwtQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=135.71619&pitch=0&thumbfov=100",
+    "kgmid": "/g/11nsb4ks82",
+    "businessProfileId": null
+  },
+  {
+    "title": "Bortolanza Esquadria de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Saldanha Marinho, 3044 - Dos Estados, Guarapuava - PR, 85035-160, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. Saldanha Marinho, 3044",
+    "city": "Guarapuava",
+    "postalCode": "85035-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://cwww.amarelasinternet.com/esquadriabortolanza",
+    "phone": "+55 42 98828-1066",
+    "phoneUnformatted": "+5542988281066",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3853187,
+      "lng": -51.4800842
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO_do9rY375QRtMjajl5q34s",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94ef37b6f668f73b:0x8bdf6a5e8edac8b4",
+    "cid": "10078891445434632372",
+    "reviewsCount": 216,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 3,
+      "threeStar": 18,
+      "fourStar": 38,
+      "fiveStar": 154
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bortolanza%20Esquadria%20de%20Alum%C3%ADnio&query_place_id=ChIJO_do9rY375QRtMjajl5q34s",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfl1906DkU0_2KSu6VNzmuxN0zu_IF-Sat6C55x5CLYiVT-lppTn6ugOTD1-Kpb-nYRpWmdI1u58t3QxTdhBH8SKRL9QuxemPAX865zDmA5YSmn_21PTRBfVdNETVO1hP2O8QSC=w408-h724-k-no",
+    "kgmid": "/g/1tfg47m8",
+    "businessProfileId": "10699482625258462740"
+  },
+  {
+    "title": "Esquadrias Metálicas São Domingos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "Rua Cinco de Outubro, 2454 - Trianon, Guarapuava - PR, 85015-020, Brazil",
+    "neighborhood": "Trianon",
+    "street": "Rua Cinco de Outubro, 2454",
+    "city": "Guarapuava",
+    "postalCode": "85015-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3622-4486",
+    "phoneUnformatted": "+554236224486",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4087988,
+      "lng": -51.4674798
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH3hg_tNJ75QR1UQF3Up00gs",
+    "categories": [
+      "Metallurgy company",
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94ef49d3fe60781f:0xbd2744add0544d5",
+    "cid": "851871144410957013",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 33,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20Met%C3%A1licas%20S%C3%A3o%20Domingos&query_place_id=ChIJH3hg_tNJ75QR1UQF3Up00gs",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2h3rMXKiX14um1X6fceV_BnNHm0zFLHjy5PUBHWbH0wsH2brToMNBs9lv5e9i8WD6aHeX3Lq9DvXm-dQwnulVjRts9amI_czUF0iWtG3-N-uTaRoSdUNyg81A1m66_hPnAZM=w426-h240-k-no",
+    "kgmid": "/g/1tg2fn6j",
+    "businessProfileId": "4890656597132100362"
+  },
+  {
+    "title": "Esquadria Emafer",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "Rua Leonardo Valente Hiczy, 138 - 3629-5036 - Primavera, Guarapuava - PR, 85050-440, Brazil",
+    "neighborhood": "Primavera",
+    "street": "Rua Leonardo Valente Hiczy, 138 - 3629-5036",
+    "city": "Guarapuava",
+    "postalCode": "85050-440",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.rededobem.net/emafer-metalurgica-e-esquadria",
+    "phone": "+55 42 3629-5036",
+    "phoneUnformatted": "+554236295036",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3586833,
+      "lng": -51.4744814
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-T5EXgI375QRQi9ypPZKoh4",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94ef37025e443ef9:0x1ea24af6a4722f42",
+    "cid": "2207409190546321218",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadria%20Emafer&query_place_id=ChIJ-T5EXgI375QRQi9ypPZKoh4",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yPm_ytj7S9J2yG3SDzgKYQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=255.8179&pitch=0.69479287&thumbfov=100",
+    "kgmid": "/g/1tmy669t",
+    "businessProfileId": null
+  },
+  {
+    "title": "Esquadrias Metálicas Verde Brasil Metalúrgica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Santa Maria, 44 - Industrial, Guarapuava - PR, 85045-430, Brazil",
+    "neighborhood": "Industrial",
+    "street": "R. Santa Maria, 44",
+    "city": "Guarapuava",
+    "postalCode": "85045-430",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/verdebrasilesquadrias",
+    "phone": "+55 42 99856-0117",
+    "phoneUnformatted": "+5542998560117",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3632297,
+      "lng": -51.4794692
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtcvD0Pw375QRavDw94-BmRI",
+    "categories": [
+      "Metallurgy company",
+      "Metalwork"
+    ],
+    "fid": "0x94ef37fcd0c3cbb5:0x1299818ff7f0f06a",
+    "cid": "1340244819459502186",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.142Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20Met%C3%A1licas%20Verde%20Brasil%20Metal%C3%BArgica&query_place_id=ChIJtcvD0Pw375QRavDw94-BmRI",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqj1rmevTr9Xom4d68m8DmvNaFOuFzmB8ZISqTF6iHlTHbSuBLd2Msm6Lmz4PZUrnkZtgZ6qamnW6riI0HoFapccx_JWxwwm_WN2st4idfdzqsJk8KXG_k9qSV3CMuLJcBf8A=w408-h544-k-no",
+    "kgmid": "/g/11fkpnhdpp",
+    "businessProfileId": "11537872550491155995"
+  },
+  {
+    "title": "ESQUADRIAS DE FERRO A.J.L.",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Rui Barbosa, 387 - Boqueirão, Guarapuava - PR, 85020-540, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "R. Rui Barbosa, 387",
+    "city": "Guarapuava",
+    "postalCode": "85020-540",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.4091806,
+      "lng": -51.4895241
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTzMGO98375QRA_zqojd00tw",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94ef37df3b06334f:0xdcd27437a2eafc03",
+    "cid": "15911908215758715907",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:06.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ESQUADRIAS%20DE%20FERRO%20A.J.L.&query_place_id=ChIJTzMGO98375QRA_zqojd00tw",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de aço Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Osx7ZojGAvoBVRFEiUZ7A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=71.82104&pitch=-0.109292574&thumbfov=100",
+    "kgmid": "/g/11s7tjwq28",
+    "businessProfileId": null
+  },
+  {
+    "title": "Outlet do Aço Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Nincia Maciel Ribas, 187 - Morro Alto, Guarapuava - PR, 85065-470, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "R. Nincia Maciel Ribas, 187",
+    "city": "Guarapuava",
+    "postalCode": "85065-470",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99802-0787",
+    "phoneUnformatted": "+5542998020787",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3696716,
+      "lng": -51.4495915
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNRN6KpM375QR1miX7RWaqek",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94ef37932a7a1335:0xe9a99a15ed9768d6",
+    "cid": "16837158100872423638",
+    "reviewsCount": null,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Outlet%20do%20A%C3%A7o%20Guarapuava&query_place_id=ChIJNRN6KpM375QR1miX7RWaqek",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVz_QRnq81YzkFO68Uox3Y_wGso6qVkf3YWlT4ir8klvrAK0EQbEerYRjF-4K1vv2dHG6JZ13B262MNY6mgo8yRevDHDWoHMBzb-puWQbwxtL7wW1PzooEBW4MELbMEa0L5MCH=w427-h240-k-no",
+    "kgmid": "/g/11fm6q3dcm",
+    "businessProfileId": "11812720484355937258"
+  },
+  {
+    "title": "PARANAFER - Ferro e Aço Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "R. Alzino Carazzai, 3021 - Primavera, Guarapuava - PR, 85050-450, Brazil",
+    "neighborhood": "Primavera",
+    "street": "R. Alzino Carazzai, 3021",
+    "city": "Guarapuava",
+    "postalCode": "85050-450",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.paranafer.com.br/",
+    "phone": "+55 42 99902-9000",
+    "phoneUnformatted": "+5542999029000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.347724,
+      "lng": -51.4529576
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQw6AQd8575QRmbKQ2cZRiE0",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94ef39df41800e43:0x4d8851c6d990b299",
+    "cid": "5586805252248613529",
+    "reviewsCount": 55,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 55
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:20 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PARANAFER%20-%20Ferro%20e%20A%C3%A7o%20Guarapuava&query_place_id=ChIJQw6AQd8575QRmbKQ2cZRiE0",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfATljFrwTahIfjLrSCP9ilrMTgNhDBuSZ4flnn7x7bJ2ROoXjzQMTa2wQ4eHnTo3TFfliMz6vPCLhANF_Ldgn1LboEfPEZ8jT35DMR1IxXQpFCi8eeEJKJfmNyqAzZ1nzwC8goLXJHR6c=w426-h240-k-no",
+    "kgmid": "/g/11t8p1yprp",
+    "businessProfileId": "3565247086391064826"
+  },
+  {
+    "title": "Portas Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door supplier",
+    "address": "Av. Ver. Serafim Ribas, 454 - Boqueirão, Guarapuava - PR, 85023-500, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "Av. Ver. Serafim Ribas, 454",
+    "city": "Guarapuava",
+    "postalCode": "85023-500",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/portasguarapuava2020/",
+    "phone": "+55 42 99807-6152",
+    "phoneUnformatted": "+5542998076152",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.409508,
+      "lng": -51.4717453
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMwt3pTRJ75QRd5V8UUtcufU",
+    "categories": [
+      "Door supplier"
+    ],
+    "fid": "0x94ef4934a5770b33:0xf5b95c4b517c9577",
+    "cid": "17706284888543237495",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Portas%20Guarapuava&query_place_id=ChIJMwt3pTRJ75QRd5V8UUtcufU",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfV51in7mq7qxWItznNBSeIFowcXQVzt20czMrV6o5NpZshDbLtKf_Aaif0GCvj3jebKv-8w0ojJ72RCWujpvepacyXd7-Lr4qYa-0LevP7JToIb2w5_ORZgLDcowPYrq96l20=w408-h544-k-no",
+    "kgmid": "/g/11fsvpw9hl",
+    "businessProfileId": "15165353918915566035"
+  },
+  {
+    "title": "Installport Portas e Rodapés",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door supplier",
+    "address": "R. Belmiro de Miranda, 283 - Trianon, Guarapuava - PR, 85012-230, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Belmiro de Miranda, 283",
+    "city": "Guarapuava",
+    "postalCode": "85012-230",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99162-0208",
+    "phoneUnformatted": "+5542991620208",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3984172,
+      "lng": -51.459326
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuWMYKX4375QRslTjggEEXwg",
+    "categories": [
+      "Door supplier"
+    ],
+    "fid": "0x94ef377e291863b9:0x85f040182e354b2",
+    "cid": "603205279628350642",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 37,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Installport%20Portas%20e%20Rodap%C3%A9s&query_place_id=ChIJuWMYKX4375QRslTjggEEXwg",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfijpVnxgAPnzhfPQkrKmSsDi3LdAbGyL1KJ1Q7GvBBzJMSj93jhzZLPZLoRrbDfda7bkEbqzfRwL4qZf7DlKUekx8DAAql6eJWlib44qDpAoZExgPyxLN_N6poou6pqTWdPbOsTaNX-Xik=w408-h543-k-no",
+    "kgmid": "/g/11nqlqz8ll",
+    "businessProfileId": "9373730538248822618"
+  },
+  {
+    "title": "Porterite Portas e Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door supplier",
+    "address": "R. Saldanha Marinho, 2487 - Dos Estados, Guarapuava - PR, 85035-160, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. Saldanha Marinho, 2487",
+    "city": "Guarapuava",
+    "postalCode": "85035-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.porterite.com.br/",
+    "phone": "+55 42 98875-6547",
+    "phoneUnformatted": "+5542988756547",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3888805,
+      "lng": -51.4762253
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc_9cpbI375QRPI8QNW0yhZ0",
+    "categories": [
+      "Door supplier",
+      "Lock Store"
+    ],
+    "fid": "0x94ef37b2a55cff73:0x9d85326d35108f3c",
+    "cid": "11350533880480304956",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 4,
+      "fourStar": 7,
+      "fiveStar": 24
+    },
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Porterite%20Portas%20e%20Acess%C3%B3rios&query_place_id=ChIJc_9cpbI375QRPI8QNW0yhZ0",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqnxtEQDYllpDausFAqZW1YqGRIT7InSw-vfEZkDb1BMoCoKZyiZZEygre_dRpMrRNxrWsJj8HpzdRPTp53KkwMYnk_xuTTNDhGvtGSlRn8YBX-9YkWmSuGW0ENQvR0MikmPX8rw=w408-h272-k-no",
+    "kgmid": "/g/11hczf171t",
+    "businessProfileId": "1332574255798017620"
+  },
+  {
+    "title": "ArcelorMittal Rede – Guarapuava / PR",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "R. Deputado Bernardo Guimarães Ribas Carli, 3805 - Jardim das Americas, Guarapuava - PR, 85040-364, Brazil",
+    "neighborhood": "Jardim das Americas",
+    "street": "R. Deputado Bernardo Guimarães Ribas Carli, 3805",
+    "city": "Guarapuava",
+    "postalCode": "85040-364",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://brasil.arcelormittal.com/onde-comprar",
+    "phone": "+55 42 3622-8088",
+    "phoneUnformatted": "+554236228088",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3798598,
+      "lng": -51.5077306
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ588tM_s375QRl3GSnZNQ9qg",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94ef37fb332dcfe7:0xa8f650939d927197",
+    "cid": "12175007237576749463",
+    "reviewsCount": 46,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 38
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:12 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ArcelorMittal%20Rede%20%E2%80%93%20Guarapuava%20%2F%20PR&query_place_id=ChIJ588tM_s375QRl3GSnZNQ9qg",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZ0s0ZjRVoV2YlGW4wjghIT1I7LDZ50QDdkJRZmA5rt7iuZrdJtKqCyhGpW2UbKTidYX_xQBPPFTn6XLYFuVo0qO2NfS_AoI1ViabwcVy9CvUc0wNFdCd2HDuE0ZjHLhusxArhxA=w408-h306-k-no",
+    "kgmid": "/g/11btwmmbd8",
+    "businessProfileId": "14129666786180625307"
+  },
+  {
+    "title": "Emergência portas de aço",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door manufacturer",
+    "address": "Av. Visc. de Guarapuava, 2540 - Centro, Curitiba - PR, 80010-100, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Visc. de Guarapuava, 2540",
+    "city": "Curitiba",
+    "postalCode": "80010-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://emergenciaportasdeaco.com.br/",
+    "phone": "+55 41 99964-5298",
+    "phoneUnformatted": "+5541999645298",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4355634,
+      "lng": -49.2660159
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg7encBvl3JQRTfnjVNsix_M",
+    "categories": [
+      "Door manufacturer"
+    ],
+    "fid": "0x94dce51b70a7b783:0xf3c722db54e3f94d",
+    "cid": "17566047196999317837",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 21
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5 AM to 11:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Emerg%C3%AAncia%20portas%20de%20a%C3%A7o&query_place_id=ChIJg7encBvl3JQRTfnjVNsix_M",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dIa6VWVcXu-uXYQ1JS-LFg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=350.13617&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wfhx4cq3",
+    "businessProfileId": "13976851148912217726"
+  },
+  {
+    "title": "Ferropar - Ferro, Aço e Telha Termoacústica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "R. Deputado Bernardo Guimarães Ribas Carli, 4119 - Jardim das Americas, Guarapuava - PR, 85040-364, Brazil",
+    "neighborhood": "Jardim das Americas",
+    "street": "R. Deputado Bernardo Guimarães Ribas Carli, 4119",
+    "city": "Guarapuava",
+    "postalCode": "85040-364",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/ferroparguarapuava/",
+    "phone": "+55 42 3624-8674",
+    "phoneUnformatted": "+554236248674",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3812845,
+      "lng": -51.5088835
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJExldMaE375QRdHYKabObDFM",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94ef37a1315d1913:0x530c9bb3690a7674",
+    "cid": "5984329199732291188",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 25
+    },
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ferropar%20-%20Ferro%2C%20A%C3%A7o%20e%20Telha%20Termoac%C3%BAstica&query_place_id=ChIJExldMaE375QRdHYKabObDFM",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-OyAus0Z5u4Y67fPxO7Fr2CGmy-zge3TBt22HF6LhM5mioHdvxTWGl_LIBkTXF-e1KanypDsPzsGyNZVBtvArCIJLyQYtyWErjhQdrFKNmIO7bt_D5jUm2G_iYC6mJjuiU8Y=w426-h240-k-no",
+    "kgmid": "/g/11bxfh_cmr",
+    "businessProfileId": "3164836908569838600"
+  },
+  {
+    "title": "Guarafer Ferro e Aço",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "Av. Pref. Moacyr Júlio Silvestri, 576 - 1 - Dos Estados, Guarapuava - PR, 85010-090, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "Av. Pref. Moacyr Júlio Silvestri, 576 - 1",
+    "city": "Guarapuava",
+    "postalCode": "85010-090",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://guarafer.com.br/",
+    "phone": "+55 42 3035-4613",
+    "phoneUnformatted": "+554230354613",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3854111,
+      "lng": -51.4725143
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9bjtVjU275QRW6R9sQsmnqA",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94ef363556edb8f5:0xa09e260bb17da45b",
+    "cid": "11573729924053050459",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 13
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Guarafer%20Ferro%20e%20A%C3%A7o&query_place_id=ChIJ9bjtVjU275QRW6R9sQsmnqA",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGjdtiiGUyLIwAUUHH9Z3U5NbLx2-GlO5kuu0YYhnMCBTtULePwZL0r9epeXLqH9i-WO1PBk26yCCDSGL9HreYgTA58-K-Z3tg80fOx7B7WMHu2rDl486XI9BoIzOYDkVo058u=w408-h271-k-no",
+    "kgmid": "/g/1tk242gv",
+    "businessProfileId": "3052229693364642961"
+  },
+  {
+    "title": "Metalúrgica Metal Matos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Home builder",
+    "address": "R. Generoso de Paula Bastos, 2671 - Trianon, Guarapuava - PR, 85012-060, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Generoso de Paula Bastos, 2671",
+    "city": "Guarapuava",
+    "postalCode": "85012-060",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98804-9028",
+    "phoneUnformatted": "+5542988049028",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4111948,
+      "lng": -51.4679648
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ498pOY5J75QRQ-H0HctiUSQ",
+    "categories": [
+      "Home builder"
+    ],
+    "fid": "0x94ef498e3929dfe3:0x245162cb1df4e143",
+    "cid": "2616981482999439683",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.938Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metal%C3%BArgica%20Metal%20Matos&query_place_id=ChIJ498pOY5J75QRQ-H0HctiUSQ",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc09wtIrfUoXgiAnlsjI5mHOzOMLmwzd3xpqthO2qtq_VU0kNHTZeYykK3I13_Z1P-_bm8cIorJTD0xsIe0BlkGppXU9YcxSgqPAmxoA1PN1HsAj9UjnBf94GABOUxRfVgW8wOEWA=w408-h306-k-no",
+    "kgmid": "/g/11rrprph28",
+    "businessProfileId": "3862064535468107720"
+  },
+  {
+    "title": "Ferropar",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Building materials supplier",
+    "address": "Umuarama, Paraná, Brazil",
+    "neighborhood": "Umuarama",
+    "street": null,
+    "city": "Umuarama",
+    "postalCode": null,
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.ferropar.com.br/",
+    "phone": "+55 44 3626-2008",
+    "phoneUnformatted": "+554436262008",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -23.7770552,
+      "lng": -53.2790002
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk-c0IRTR8pQRunsJI_tFwnM",
+    "categories": [
+      "Building materials supplier"
+    ],
+    "fid": "0x94f2d1142134e793:0x73c245fb23097bba",
+    "cid": "8341306404770511802",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 20
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.939Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ferropar&query_place_id=ChIJk-c0IRTR8pQRunsJI_tFwnM",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RlXjIj9p8mdrUhM0IbrCPg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=1.6273273&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hzm3d_ps",
+    "businessProfileId": null
+  },
+  {
+    "title": "Telhaço Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metal supplier",
+    "address": "Av. Bento Munhoz da Rocha Neto, 2460 - Aldeia, Guarapuava - PR, 85050-150, Brazil",
+    "neighborhood": "Aldeia",
+    "street": "Av. Bento Munhoz da Rocha Neto, 2460",
+    "city": "Guarapuava",
+    "postalCode": "85050-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.telhaco.com.br/",
+    "phone": "+55 42 3304-3177",
+    "phoneUnformatted": "+554233043177",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3452666,
+      "lng": -51.4895653
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL5ywjRs375QR6eqdlMhNGgA",
+    "categories": [
+      "Metal supplier",
+      "Roofing contractor",
+      "Truss manufacturer"
+    ],
+    "fid": "0x94ef371b8db09c2f:0x1a4dc8949deae9",
+    "cid": "7403873276652265",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 6
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.939Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Telha%C3%A7o%20Guarapuava&query_place_id=ChIJL5ywjRs375QR6eqdlMhNGgA",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVyBaQTagXcbZTyE9jA6NPwVk9XaZhPa60huNytasL1bf_2mHZuauU5Vt5EMsJbAj8hnJncgb39ky2VJtUkFdfC_GD7rYUQIJBwWoZebslXYGVGoQh-WszqDWCk3ZEvW3c-hkkKN2vMKTp=w408-h725-k-no",
+    "kgmid": "/g/11rn4n6mkw",
+    "businessProfileId": "11054658004212582709"
+  },
+  {
+    "title": "Araufer - Ferro, Aço e Telha Termoacústica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Tool & die shop",
+    "address": "R. Sen. Nereu Ramos, 2164 - Bonsucesso, Guarapuava - PR, 85035-300, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Sen. Nereu Ramos, 2164",
+    "city": "Guarapuava",
+    "postalCode": "85035-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.araufer.com.br/",
+    "phone": "+55 42 3623-3749",
+    "phoneUnformatted": "+554236233749",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3800298,
+      "lng": -51.4727199
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaVxfdQQ375QRt_xOQEPWIQU",
+    "categories": [
+      "Tool & die shop",
+      "Abrasives supplier",
+      "Building materials supplier",
+      "Metal supplier",
+      "Metallurgy company",
+      "Metalwork",
+      "Roofing supply store",
+      "Tool store",
+      "Turnery",
+      "Welding supply store"
+    ],
+    "fid": "0x94ef3704755f5c69:0x521d643404efcb7",
+    "cid": "369812228751162551",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 12
+    },
+    "imagesCount": 57,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.939Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Araufer%20-%20Ferro%2C%20A%C3%A7o%20e%20Telha%20Termoac%C3%BAstica&query_place_id=ChIJaVxfdQQ375QRt_xOQEPWIQU",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKimR50vhYfGCUcRkYSxYvv78uSqPomWBvVkEp7C3t_wh-Jl5oueC4kM70shNzlZ223t2ncrdMYjxvkadhfWLWMR2iZ56zkx_xNUqFFj7LiFhIYIoBCu_xZl06AIxV3EsOY1-6bCKWArGZ=w408-h510-k-no",
+    "kgmid": "/g/1tl9nqtw",
+    "businessProfileId": "5051700693570829742"
+  },
+  {
+    "title": "Porta Enrolar Automatica Curitiba - Fábrica de Portas de Aço",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door supplier",
+    "address": "Av. Visc. de Guarapuava, 2480 - Centro, Curitiba - PR, 80010-100, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Visc. de Guarapuava, 2480",
+    "city": "Curitiba",
+    "postalCode": "80010-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 41 99931-0181",
+    "phoneUnformatted": "+5541999310181",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.4355122,
+      "lng": -49.2658064
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT5BUsmLl3JQRnq3BkEAa3UQ",
+    "categories": [
+      "Door supplier"
+    ],
+    "fid": "0x94dce562b254904f:0x44dd1a4090c1ad9e",
+    "cid": "4962151229040995742",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.939Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Porta%20Enrolar%20Automatica%20Curitiba%20-%20F%C3%A1brica%20de%20Portas%20de%20A%C3%A7o&query_place_id=ChIJT5BUsmLl3JQRnq3BkEAa3UQ",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0VDe353pg9bytQAsqrztrbaUi1hAtr3r_TF6vjDrWGjuuSVAV01hZr0nFcBnuPeMvkKJhJ-kOofRQXeIXCICyBEiKJkVAD6pf_qz05bxhhIEUg1gH975E_OunafiFHQ0bAlnu=w408-h544-k-no",
+    "kgmid": "/g/11jjz2v79w",
+    "businessProfileId": null
+  },
+  {
+    "title": "Metalúrgica Condor",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "Av. Manoel Ribas, 4253 - Centro, Guarapuava - PR, 85055-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Manoel Ribas, 4253",
+    "city": "Guarapuava",
+    "postalCode": "85055-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3622-0827",
+    "phoneUnformatted": "+554236220827",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3716719,
+      "lng": -51.474556
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVZfQmzs275QRJcESQFB4v6M",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94ef363b9bd09755:0xa3bf78504012c125",
+    "cid": "11799281834801676581",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 82,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.939Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 to 11:30 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metal%C3%BArgica%20Condor&query_place_id=ChIJVZfQmzs275QRJcESQFB4v6M",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7OuBCMCH7U_s1Ax-uivmSXKrs9YX_Z0ft9SCt6Jedr3iaX5yhqhzpDVMiWtZsWftGR2WHYukYGen9F6tmU-0px3Db1BRY29Q96yXDc5Gnqpw2aTAw-bIWChvmD-FwcILHSgf26sTLPTxf=w408-h364-k-no",
+    "kgmid": "/g/1tgjmfy3",
+    "businessProfileId": "9776459896345628940"
+  },
+  {
+    "title": "Pontual Portas de Aço",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Manufacturer",
+    "address": "Av. Visc. de Guarapuava, 2492 - Centro, Curitiba - PR, 80010-100, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Visc. de Guarapuava, 2492",
+    "city": "Curitiba",
+    "postalCode": "80010-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 41 3323-4153",
+    "phoneUnformatted": "+554133234153",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.4353299,
+      "lng": -49.2659407
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO0hkpWnk3JQR9V05DmzmuUo",
+    "categories": [
+      "Manufacturer"
+    ],
+    "fid": "0x94dce469a564483b:0x4ab9e66c0e395df5",
+    "cid": "5384588181267635701",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 0
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:31:52.939Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pontual%20Portas%20de%20A%C3%A7o&query_place_id=ChIJO0hkpWnk3JQR9V05DmzmuUo",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Guarapuava%20PR?hl=en",
+    "searchString": "portas de aço Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YlUn7oX8Q4FHZ9B658Vpzw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=334.6605&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ckvqr4b1",
+    "businessProfileId": null
+  },
+  {
+    "title": "Vidrocor Esquadrias de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. XV de Novembro, 3950 - Morro Alto, Guarapuava - PR, 85065-694, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "R. XV de Novembro, 3950",
+    "city": "Guarapuava",
+    "postalCode": "85065-694",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://wa.me/5542999683942",
+    "phone": "+55 42 99968-3942",
+    "phoneUnformatted": "+5542999683942",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3703437,
+      "lng": -51.4407466
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ63goTM275QRnBmg_mj44IM",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94ef3633a1e0ad67:0x83e0f868fea0199c",
+    "cid": "9502868343583938972",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 262,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vidrocor%20Esquadrias%20de%20Alum%C3%ADnio&query_place_id=ChIJZ63goTM275QRnBmg_mj44IM",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjtWdLIDqlzEOAdsW6qbhoW9ZpKgaYWosjkZEgt3HO52BkL_rnIaF9qn6r7625w7lh1C6K03VDkJCpWGdpNmJx0TTGODWTYeBGykgv-_BKStzBfFEradVw1awhVs35pgWdTQun=w426-h240-k-no",
+    "kgmid": "/g/11c2nt8w0j",
+    "businessProfileId": "14854615589215737005"
+  },
+  {
+    "title": "RD Vidros - Vidraçaria e Esquadrias de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Rua Juliano Francisquini N° 141 Loteamento Nova Cidade 1 - Morro Alto, Guarapuava - PR, 85015-970, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "Rua Juliano Francisquini N° 141 Loteamento Nova Cidade 1",
+    "city": "Guarapuava",
+    "postalCode": "85015970",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://wa.me/5542999196146",
+    "phone": "+55 42 99919-6146",
+    "phoneUnformatted": "+5542999196146",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3534301,
+      "lng": -51.4499254
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTdUMV4s375QRrlmyoRock9U",
+    "categories": [
+      "Aluminum frames supplier",
+      "Aluminum supplier",
+      "Glass & mirror shop",
+      "Aluminum welder",
+      "Aluminum window",
+      "Glass cutting service",
+      "Glass repair service",
+      "Glass shop",
+      "Glazier"
+    ],
+    "fid": "0x94ef378b570cd54d:0xd5931c1aa1b259ae",
+    "cid": "15389675252362664366",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 122,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RD%20Vidros%20-%20Vidra%C3%A7aria%20e%20Esquadrias%20de%20Alum%C3%ADnio&query_place_id=ChIJTdUMV4s375QRrlmyoRock9U",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0OZIcaD_lhbF8VzGPWRnNBDgQj3D_3xhH_hF9HyCnQzmaGZmxAfzyMXzCLtoH_8whBILEo40P3XK2aWsyynBdnXidE1_jpMDh3Zc3pxm0Qig-_cP2t6IbtdW0ULWqCB-RhZiGzg=w408-h306-k-no",
+    "kgmid": "/g/11q4m28zwf",
+    "businessProfileId": "10422460735488512854"
+  },
+  {
+    "title": "Kamaleão Esquadrias e Vidros",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Glass & mirror shop",
+    "address": "R. Afonso Alves de Camargo, 1433 - Centro - Centro, Guarapuava - PR, 85010-320, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Afonso Alves de Camargo, 1433 - Centro",
+    "city": "Guarapuava",
+    "postalCode": "85010-320",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://kamaleaovidros.com.br/",
+    "phone": "+55 42 99117-1623",
+    "phoneUnformatted": "+5542991171623",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3890142,
+      "lng": -51.4591125
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrShcFCc375QRllX5lnMgxMk",
+    "categories": [
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94ef3727145c28ad:0xc9c4207396f95596",
+    "cid": "14538781177885054358",
+    "reviewsCount": 38,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 34
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:10 to 11:20 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:10 to 11:20 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:10 to 11:20 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:10 to 11:20 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:10 to 11:20 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:50 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kamale%C3%A3o%20Esquadrias%20e%20Vidros&query_place_id=ChIJrShcFCc375QRllX5lnMgxMk",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSGclZScj-OkgQpbmXkCHSXkizLt6NZdFWgzmebmgANBmqOppKm_9pU9F-yc29ddRVasdNrWnrWBhI10xelibWySbdLbfvUSq2TMyHcisHz6KYktZVfYCNkQ-oF5B8DGSBlaHrjQ=w408-h612-k-no",
+    "kgmid": "/g/11vqzq6jyn",
+    "businessProfileId": "8903866623368283005"
+  },
+  {
+    "title": "GUARACAL VIDROS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Av. Ver. Serafim Ribas, 3030 - Boqueirão, Guarapuava - PR, 85023-500, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "Av. Ver. Serafim Ribas, 3030",
+    "city": "Guarapuava",
+    "postalCode": "85023-500",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.guaracal.com.br/",
+    "phone": "+55 42 99925-0303",
+    "phoneUnformatted": "+5542999250303",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4158367,
+      "lng": -51.4840893
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw9stgn8275QRJ_A2XjRzDv0",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94ef367f822ddbc3:0xfd0e73345e36f027",
+    "cid": "18234638610025869351",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GUARACAL%20VIDROS&query_place_id=ChIJw9stgn8275QRJ_A2XjRzDv0",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1NQKQU5zzl5iUO2soAnlc28Coawmm5SkCThClWJ_01aqBsB3qZa67TUv8Aei18DH_CYk-sXPCBHsseyeIUUNML9dtdrT9bYUEdQ8968xlppJf8DaO4zIC7UI7hZSBubXFxxXg=w408-h279-k-no",
+    "kgmid": "/g/1tdymc9s",
+    "businessProfileId": "18009583395554603312"
+  },
+  {
+    "title": "Vidropuava - Vidros e Esquadrias",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Glass & mirror shop",
+    "address": "Av. Pref. Moacyr Júlio Silvestri, 384 - Dos Estados, Guarapuava - PR, 85010-090, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "Av. Pref. Moacyr Júlio Silvestri, 384",
+    "city": "Guarapuava",
+    "postalCode": "85010-090",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.vidropuava.com.br/",
+    "phone": "+55 42 3622-2552",
+    "phoneUnformatted": "+554236222552",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3843775,
+      "lng": -51.4712049
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ3LzkEo275QR8FR-hy_5FQo",
+    "categories": [
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94ef364a90f37243:0xa15f92f877e54f0",
+    "cid": "726760897422185712",
+    "reviewsCount": 53,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 6,
+      "fourStar": 7,
+      "fiveStar": 35
+    },
+    "imagesCount": 101,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vidropuava%20-%20Vidros%20e%20Esquadrias&query_place_id=ChIJQ3LzkEo275QR8FR-hy_5FQo",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQ3vzROQmL1iw5o14EG4G4p7dhPuaSYvSJF5_rqchb_lnsydTr4t8T0SbGcJ1zE1jQOtmK_EOr5TNv39XHtuUv_Jb6Rf11JuSpdlbJNror51OjUnE_7BWxU5iqEEf622HXseaS=w408-h306-k-no",
+    "kgmid": "/g/11xf5653t",
+    "businessProfileId": "12739234379513643161"
+  },
+  {
+    "title": "Aluvitec",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Av. Turíbio Gomes, 52 - Vila Bela, Guarapuava - PR, 85025-250, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "Av. Turíbio Gomes, 52",
+    "city": "Guarapuava",
+    "postalCode": "85025-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3627-3212",
+    "phoneUnformatted": "+554236273212",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3938845,
+      "lng": -51.4928194
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQRE_NsA375QRmpf346xNqVg",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94ef37c0363f1141:0x58a94dace3f7979a",
+    "cid": "6388722951356127130",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 1,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aluvitec&query_place_id=ChIJQRE_NsA375QRmpf346xNqVg",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8DybLI87FWv2J-BsCZ9xaw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=257.97467&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g7y_0fb2",
+    "businessProfileId": null
+  },
+  {
+    "title": "Esquadria Ferro e Dragão",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": null,
+    "address": "R. Dr. Laranjeiras, 2155 - Centro, Guarapuava - PR, 85050-190, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Laranjeiras, 2155",
+    "city": "Guarapuava",
+    "postalCode": "85050-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99964-5008",
+    "phoneUnformatted": "+5542999645008",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.4014746,
+      "lng": -51.4793705
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR57OfNE375QRUYJXCrXYN8g",
+    "categories": [],
+    "fid": "0x94ef37d17cce9e47:0xc837d8b50a578251",
+    "cid": "14427238203378860625",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadria%20Ferro%20e%20Drag%C3%A3o&query_place_id=ChIJR57OfNE375QRUYJXCrXYN8g",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OvmtVma7gNBOLaeuxiL30w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=131.55688&pitch=0&thumbfov=100",
+    "kgmid": "/g/1thnpyfh",
+    "businessProfileId": null
+  },
+  {
+    "title": "Acelumix Distribuidora de Alumínio e Acessórios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum supplier",
+    "address": "R. Azevedo Portugal, 1853 - Centro, Guarapuava - PR, 85010-200, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Azevedo Portugal, 1853",
+    "city": "Guarapuava",
+    "postalCode": "85010-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.acelumix.com.br/",
+    "phone": "+55 42 3624-5653",
+    "phoneUnformatted": "+554236245653",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3827495,
+      "lng": -51.4718644
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKVD92sA375QR-8gER6o7O2M",
+    "categories": [
+      "Aluminum supplier",
+      "Aluminum frames supplier",
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94ef37c0dafd5029:0x633b3baa4704c8fb",
+    "cid": "7150374435902769403",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Acelumix%20Distribuidora%20de%20Alum%C3%ADnio%20e%20Acess%C3%B3rios&query_place_id=ChIJKVD92sA375QR-8gER6o7O2M",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrotOfdc_hXh9nrjJrIwenjFWI1YuGYsPulFUseO7rxUsIjPSZI7ArHM9b4QQjTP3tKk7lJ-jrOwsGCl7AlVRXXzNV5rq24UOXQ1eyEyr4Nh8YcXeKrMI4Qz9O2fcYNsjOpKI=w408-h279-k-no",
+    "kgmid": "/g/11fpk0q1k1",
+    "businessProfileId": "12434272698574112533"
+  },
+  {
+    "title": "Incovidral Vidraçaria - Esquadrias de Alumínio e Vidros Temperados",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Window supplier",
+    "address": "R. Iguacu - Conradinho, Guarapuava - PR, 85045-302, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "R. Iguacu",
+    "city": "Guarapuava",
+    "postalCode": "85045-302",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/incovidral",
+    "phone": "+55 42 3624-2754",
+    "phoneUnformatted": "+554236242754",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3687748,
+      "lng": -51.4747111
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFdHrHas375QRmi8m0rqLoN0",
+    "categories": [
+      "Window supplier",
+      "Aluminum frames supplier",
+      "Aluminum window",
+      "Glass & mirror shop",
+      "Glass manufacturer",
+      "Glass repair service",
+      "Glass shop",
+      "Glazier"
+    ],
+    "fid": "0x94ef37ab1debd115:0xdda08bbad2262f9a",
+    "cid": "15969917913161674650",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Incovidral%20Vidra%C3%A7aria%20-%20Esquadrias%20de%20Alum%C3%ADnio%20e%20Vidros%20Temperados&query_place_id=ChIJFdHrHas375QRmi8m0rqLoN0",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6sNtAzdKbGeMVsO3MNuDgReH8dWaK9CtCIcSJNrLQp6TYHb_GjizRsdP_fgmJwTxtFlWR1Ux9Tqt2fLyeoKCCvocnbaUvvYYJgh4jZ0nK2jIk_EwClium769wNkiDGBUZLhfaXQ=w408-h306-k-no",
+    "kgmid": "/g/11t49y7xkp",
+    "businessProfileId": "11017449082659284075"
+  },
+  {
+    "title": "OKNO ESQUADRIAS DE PVC",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Manufacturer",
+    "address": "Av. Pref. Moacyr Júlio Silvestri, 3241 - Alto Cascavel, Guarapuava - PR, 85025-010, Brazil",
+    "neighborhood": "Alto Cascavel",
+    "street": "Av. Pref. Moacyr Júlio Silvestri, 3241",
+    "city": "Guarapuava",
+    "postalCode": "85025-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99961-9588",
+    "phoneUnformatted": "+5542999619588",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3942505,
+      "lng": -51.5006157
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU3G00eY375QRTed4Kdn0vJM",
+    "categories": [
+      "Manufacturer"
+    ],
+    "fid": "0x94ef37e6d1b47153:0x93bcf4d92978e74d",
+    "cid": "10645652832737879885",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.830Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OKNO%20ESQUADRIAS%20DE%20PVC&query_place_id=ChIJU3G00eY375QRTed4Kdn0vJM",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdS364_bSO44IhkLDUhFDWnfWPAVytpkisLwN-Hci3X0CLFaqIQr6K702P1Vyxgf7V1UpJ7qLau04gt_c0DX1KMimaZpePolGyRHmDImdHfGMpenE5qxYNn1UcU9aZEbi5nRVXPMASy5GYJ=w408-h725-k-no",
+    "kgmid": "/g/11xrcpt3ch",
+    "businessProfileId": "11838264101604826847"
+  },
+  {
+    "title": "Exclusiva Glass",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Av. Bento de Camargo Ribas, 1059 - Morro Alto, Guarapuava - PR, 85063-000, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "Av. Bento de Camargo Ribas, 1059",
+    "city": "Guarapuava",
+    "postalCode": "85063-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98870-2482",
+    "phoneUnformatted": "+5542988702482",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3697703,
+      "lng": -51.4468424
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc964QWs375QRkoe6PdIjs9Y",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94ef376b41b8de73:0xd6b323d23dba8792",
+    "cid": "15470748530833524626",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.831Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Exclusiva%20Glass&query_place_id=ChIJc964QWs375QRkoe6PdIjs9Y",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cYOp83nIGjQFk6FdOoaXkw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=209.59239&pitch=0&thumbfov=100",
+    "kgmid": "/g/11x8d75pcw",
+    "businessProfileId": "2663414031882793368"
+  },
+  {
+    "title": "Central dos Vidros - Vidraçaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. XV de Novembro, 5896 - Alto da XV, Guarapuava - PR, 85065-000, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. XV de Novembro, 5896",
+    "city": "Guarapuava",
+    "postalCode": "85065-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://centraldosvidrosguarapuava.com.br/",
+    "phone": "+55 42 99977-0510",
+    "phoneUnformatted": "+5542999770510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3833053,
+      "lng": -51.4551565
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGy-5Ajc275QRfJzjwJhWTTw",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94ef363702b92f1b:0x3c4d5698c0e39c7c",
+    "cid": "4345224429553556604",
+    "reviewsCount": 78,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 75
+    },
+    "imagesCount": 127,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.831Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Central%20dos%20Vidros%20-%20Vidra%C3%A7aria&query_place_id=ChIJGy-5Ajc275QRfJzjwJhWTTw",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbJc6qf_iaYOkyfBXxjN5YJ9wWVe6hk9OCyBcvZh4_fOdlhCK2acP72zYHCFlZgP2dkXIMqLtqgUyyC0zii9tsvgbo8r3Zz4XiaC7XSKj15lu0Bi254Xyc8hPUV7jwGeQ3c5Xc=w426-h240-k-no",
+    "kgmid": "/g/11cjg8df56",
+    "businessProfileId": "9406487584992497345"
+  },
+  {
+    "title": "JV esquadria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Cristiano Kugler, 195 - Boqueirão, Guarapuava - PR, 85020-550, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "R. Cristiano Kugler, 195",
+    "city": "Guarapuava",
+    "postalCode": "85020-550",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 41 99721-9770",
+    "phoneUnformatted": "+5541997219770",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4133399,
+      "lng": -51.4913329
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw_CvBMVJ75QR2G7IFQHnL78",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94ef49c504aff0c3:0xbf2fe70115c86ed8",
+    "cid": "13776483776996077272",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:00.831Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JV%20esquadria&query_place_id=ChIJw_CvBMVJ75QR2G7IFQHnL78",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Guarapuava%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y0RurzFi0vesq_Wq2zSy-g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=195.18268&pitch=0&thumbfov=100",
+    "kgmid": "/g/11lymcrsjk",
+    "businessProfileId": "3329967551839638293"
+  }
+]

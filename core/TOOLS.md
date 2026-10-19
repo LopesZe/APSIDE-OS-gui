@@ -13,6 +13,9 @@ em `.env` (ignorado pelo git) — **nunca** neste arquivo.
 - **Apify** — scraping de Google Maps, Instagram, Facebook, LinkedIn (`APIFY_API_TOKEN` no `.env`).
   - Google Maps: `scripts/apify/run_actor.js` (compass~crawler-google-places)
   - Instagram profiles: `scripts/instaloader/extrair-perfil.js` (instagram-scraper~instagram-profile-scraper, $0.50/1k)
+  - Volume de busca/CPC de keywords (Google Ads via DataForSEO): `koalabed~keyword-search-volume`
+    ($0.01/keyword; endpoint rápido `run-sync-get-dataset-items`; country=BR, language=pt;
+    keywords COM acento — as sem acento não têm dado no provedor)
 
 ## Planejadas (marcar conforme instala)
 - [ ] Notion

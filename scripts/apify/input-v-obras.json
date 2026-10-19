@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "engenharia civil Ponta Grossa PR",
+    "marcenaria Ponta Grossa PR",
+    "construção e reforma Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

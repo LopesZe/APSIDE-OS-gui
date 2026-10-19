@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "oficina mecânica especializada Ponta Grossa PR",
+    "funilaria e pintura automotiva Ponta Grossa PR",
+    "oficina de suspensão Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

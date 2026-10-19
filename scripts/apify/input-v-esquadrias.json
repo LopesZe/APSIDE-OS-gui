@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "esquadrias de aço Ponta Grossa PR",
+    "portas de aço Ponta Grossa PR",
+    "esquadrias de alumínio Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

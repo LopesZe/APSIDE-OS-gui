@@ -1,0 +1,6271 @@
+[
+  {
+    "title": "Estúdio da Marcenaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Woodworker",
+    "address": "R. Rui Barbosa, 1045 - Boqueirão, Guarapuava - PR, 85020-540, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "R. Rui Barbosa, 1045",
+    "city": "Guarapuava",
+    "postalCode": "85020-540",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/estudiodamarcenaria/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4672976469373566688",
+    "phone": "+55 42 99835-3079",
+    "phoneUnformatted": "+5542998353079",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4151578,
+      "lng": -51.491009
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ089qTyRJ75QRWrxGJgeAz_w",
+    "categories": [
+      "Woodworker",
+      "Furniture store",
+      "Millwork shop"
+    ],
+    "fid": "0x94ef49244f6acfd3:0xfccf80072646bc5a",
+    "cid": "18216919785932242010",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 19
+    },
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%BAdio%20da%20Marcenaria&query_place_id=ChIJ089qTyRJ75QRWrxGJgeAz_w",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWQSGjEI4I9zo0EKAxpdQ_D6T2fV__P7-LHCJdbUkEHKY4gk20nZ9_BkQomWnMokTTVZyygiQu0YkjO8O9-HFeN81XWfSg0aaLGkMOzGck1IemWhYYQR177HRbHeaSjAKpIJRRDJ00asGK=w408-h272-k-no",
+    "kgmid": "/g/11svm8g7zv",
+    "businessProfileId": "4672976469373566688"
+  },
+  {
+    "title": "Marcenaria Do irmão Móveis Planejados",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cabinet maker",
+    "address": "R. Miguel Losso - Industrial, Guarapuava - PR, 85053-170, Brazil",
+    "neighborhood": "Industrial",
+    "street": "R. Miguel Losso",
+    "city": "Guarapuava",
+    "postalCode": "85053-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://pt-br.facebook.com/Marcenariadoirmao",
+    "phone": "+55 42 99105-0659",
+    "phoneUnformatted": "+5542991050659",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3548664,
+      "lng": -51.4852823
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_8IQzhA375QRoRWr98vX8oM",
+    "categories": [
+      "Cabinet maker"
+    ],
+    "fid": "0x94ef3710ce10c2ff:0x83f2d7cbf7ab15a1",
+    "cid": "9507899034366055841",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 37,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marcenaria%20Do%20irm%C3%A3o%20M%C3%B3veis%20Planejados&query_place_id=ChIJ_8IQzhA375QRoRWr98vX8oM",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgkx_LsYycAH-EqTdnfUXHX79RxAm4422-qUeJZpngNSP626R7gm6AI57hlQTgyL82aBdI46k42P33qSoFJMf0BSo4m_cWe6RCh_zXhT0drMT6lGHms6KUA6p702LB4SoIFxDjpA=w530-h240-k-no",
+    "kgmid": "/g/11hbk4dbld",
+    "businessProfileId": "18438854136323201784"
+  },
+  {
+    "title": "Portal do Marceneiro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture maker",
+    "address": "Av. Prof. Pedro Carli, 4057 - Vila Carli, Guarapuava - PR, 85040-550, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "Av. Prof. Pedro Carli, 4057",
+    "city": "Guarapuava",
+    "postalCode": "85040-550",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.portaldomarceneiro.com.br/",
+    "phone": "+55 42 3622-7775",
+    "phoneUnformatted": "+554236227775",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3779706,
+      "lng": -51.4863819
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwYIbpitI75QRydq-iRmmp58",
+    "categories": [
+      "Furniture maker",
+      "Tool & die shop",
+      "Tool store",
+      "Wood frame supplier"
+    ],
+    "fid": "0x94ef482ba61b82c1:0x9fa7a61989bedac9",
+    "cid": "11504346401756601033",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 2,
+      "threeStar": 3,
+      "fourStar": 12,
+      "fiveStar": 39
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Portal%20do%20Marceneiro&query_place_id=ChIJwYIbpitI75QRydq-iRmmp58",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDWglldrGpxxQrWzpNExejSFpNc8mUd5-xMbcxXJjQJZ7cee6Ysrujn7lFPHVH3dNnx8_fv3vwwFdeQRPRbzUTsNO5iPHgvtI_kK59BlsV61YUNI3qS8hxt-_w_P-fGY1nctkT=w408-h407-k-no",
+    "kgmid": "/g/12vr96cby",
+    "businessProfileId": "7991082447479801780"
+  },
+  {
+    "title": "Moveis Majufi Ltda",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture maker",
+    "address": "R. Gov. Pedro Viriato Parigot de Souza, 189 - Alto da XV, Guarapuava - PR, 85065-160, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Gov. Pedro Viriato Parigot de Souza, 189",
+    "city": "Guarapuava",
+    "postalCode": "85065-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98891-4291",
+    "phoneUnformatted": "+5542988914291",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3846737,
+      "lng": -51.4509404
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_0yUgPM375QRPYh_Pgyupjo",
+    "categories": [
+      "Furniture maker"
+    ],
+    "fid": "0x94ef37f380944cff:0x3aa6ae0c3e7f883d",
+    "cid": "4226256667945175101",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 26
+    },
+    "imagesCount": 179,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Moveis%20Majufi%20Ltda&query_place_id=ChIJ_0yUgPM375QRPYh_Pgyupjo",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRYI6BhevBB4E52HPEWMYE_fpX5sgjEqGN7t6XYutfsJR0VRa-U3cHQbvtNuKhoMo-CZs2VeWI05p9GUdpRylUIvnR5xv1D2Yl5dz_ra-P4Zu6058vOZlqahUZVBqxvqgz9F90PIGjtLXE=w408-h510-k-no",
+    "kgmid": "/g/11hdnqnzpq",
+    "businessProfileId": "16529096091561660911"
+  },
+  {
+    "title": "042 Marcenaria | Móveis Planejados | Arquitetura de Interiores",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Woodworker",
+    "address": "R. João Lacerda Caldas, 200 - Alto da XV, Guarapuava - PR, 85065-190, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. João Lacerda Caldas, 200",
+    "city": "Guarapuava",
+    "postalCode": "85065-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://wa.me/5542984089303",
+    "phone": "+55 42 98408-9303",
+    "phoneUnformatted": "+5542984089303",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3825476,
+      "lng": -51.4502717
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr0YfLs3PjYMRHaGKMgeprSc",
+    "categories": [
+      "Woodworker",
+      "Architect",
+      "Interior architect office"
+    ],
+    "fid": "0x838dcfcd2e1f46af:0x27ada907328aa11d",
+    "cid": "2859127186827944221",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 263,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=042%20Marcenaria%20%7C%20M%C3%B3veis%20Planejados%20%7C%20Arquitetura%20de%20Interiores&query_place_id=ChIJr0YfLs3PjYMRHaGKMgeprSc",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO_4rBGovoEL4QpPoFZTvw4IRVS80_nBA4jOKHChoLL-_qW3WiuBK998Hs3N-8Z5XlGpW5_dX8VNrlw6h-ERpLRAsnLIbEKi5SlZfiovclToMsD6mOEknj7GyjAwcChvEISbRJWTRsWuwN=w408-h262-k-no",
+    "kgmid": "/g/11xv1mq_lf",
+    "businessProfileId": "12026676167010273951"
+  },
+  {
+    "title": "Marcenaria Vicente",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cabinet maker",
+    "address": "Boqueirão, Guarapuava - Paraná, 85012-060, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": null,
+    "city": "Guarapuava",
+    "postalCode": "85012-060",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98408-5239",
+    "phoneUnformatted": "+5542984085239",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4262649,
+      "lng": -51.4921081
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH0nXkhJJ75QRHdvnM-gFeZk",
+    "categories": [
+      "Cabinet maker"
+    ],
+    "fid": "0x94ef491292d7491f:0x997905e833e7db1d",
+    "cid": "11058876854846348061",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marcenaria%20Vicente&query_place_id=ChIJH0nXkhJJ75QRHdvnM-gFeZk",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcluBdWn0fF7lhCFkb6fO8iu0bI6qFaN5cLyrJRA-2qUv1ri5_MX7M7aGP-RVu3IUtsSMbn_NxymaF9TTZVRIZJTIril3SpvJKeTzBjjPRE7kNQ7QLqGa5wXnYNUE9fojCFqIT8Lg=w408-h408-k-no",
+    "kgmid": "/g/11ngprwcwj",
+    "businessProfileId": "16389697433437255175"
+  },
+  {
+    "title": "Marcenaria São Bento",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Woodworker",
+    "address": "Av. Antônio Farah, 252 - Santana, Guarapuava - PR, 85070-360, Brazil",
+    "neighborhood": "Santana",
+    "street": "Av. Antônio Farah, 252",
+    "city": "Guarapuava",
+    "postalCode": "85070-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/marcenaria_sao_bento/",
+    "phone": "+55 42 99873-0740",
+    "phoneUnformatted": "+5542998730740",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3901311,
+      "lng": -51.4415009
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDcDSRrwkYqYRUnAeDM9Emx8",
+    "categories": [
+      "Woodworker"
+    ],
+    "fid": "0xa66224bc46d2c00d:0x1f9b44cf0c1e7052",
+    "cid": "2277489692618158162",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marcenaria%20S%C3%A3o%20Bento&query_place_id=ChIJDcDSRrwkYqYRUnAeDM9Emx8",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6DsnyLoaEUuNhwLJDwuQThGFmf3wIcUA13Ka62lCa68SfT19rkG6T6PMobQI4Z9uMxMxm4-maYbK1LOfsD_lNIpxZ5Vyk8SAEtI1c2h0WwdSvZE0BgaF00VG8VMHuWjf0GyPi=w408-h544-k-no",
+    "kgmid": "/g/11x7d3dpkt",
+    "businessProfileId": "2702243608996537896"
+  },
+  {
+    "title": "GMAD Guarapuava - Tudo para Móveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cabinet maker",
+    "address": "Rua Santa Catarina, 3000 - Dos Estados, Guarapuava - PR, 85035-150, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "Rua Santa Catarina, 3000",
+    "city": "Guarapuava",
+    "postalCode": "85035-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.gmad.com.br/gmad-guarapuava-lp",
+    "phone": "+55 42 3035-1301",
+    "phoneUnformatted": "+554230351301",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.386206,
+      "lng": -51.4803135
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJefJfgks275QRjL_83FukyUE",
+    "categories": [
+      "Cabinet maker",
+      "Architect",
+      "Millwork shop",
+      "Furniture accessories",
+      "Hardware store",
+      "Kitchen supply store",
+      "Lumber store",
+      "Tool & die shop"
+    ],
+    "fid": "0x94ef364b825ff279:0x41c9a45bdcfcbf8c",
+    "cid": "4740500797240688524",
+    "reviewsCount": 88,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 6,
+      "fiveStar": 73
+    },
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GMAD%20Guarapuava%20-%20Tudo%20para%20M%C3%B3veis&query_place_id=ChIJefJfgks275QRjL_83FukyUE",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLejKHrl9N7BPYKzPnwX9nC-LKJzQWXo-q1-90awjPR_rNLvzPSD7S3IlTJE8M4AWl2g-PQrK9Z7l3kwJGuC3jLyr_W1PGeZgJz0F3ivx3zWiH7ynYPfEycphsIviETu2O6Q9vizwQ=w426-h240-k-no",
+    "kgmid": "/g/11g9m95hvg",
+    "businessProfileId": "8137033868275153342"
+  },
+  {
+    "title": "O Marceneiro Planejados",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cabinet maker",
+    "address": "R. Carla Selhorst de Souza, 332 - São Cristóvão, Guarapuava - PR, 85063-200, Brazil",
+    "neighborhood": "São Cristóvão",
+    "street": "R. Carla Selhorst de Souza, 332",
+    "city": "Guarapuava",
+    "postalCode": "85063-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98826-8677",
+    "phoneUnformatted": "+5542988268677",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3649818,
+      "lng": -51.4525554
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkax278g375QRYu5loX4TB4M",
+    "categories": [
+      "Cabinet maker"
+    ],
+    "fid": "0x94ef37c8ef76ac91:0x8307137ea165ee62",
+    "cid": "9441536578400153186",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=O%20Marceneiro%20Planejados&query_place_id=ChIJkax278g375QRYu5loX4TB4M",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciRV_l6kWaVDvahNMhsRrbJa5Qdvaqtle2mA8vdNV9aU48AFYvDy4bx4wwkzenNMYcHgu4CqX_YyxGXOElvcepxddXHT4Msf6ummBYsTM9xE1IzUVwMUmpzR0T7l--p1ZqOsXe=w408-h544-k-no",
+    "kgmid": "/g/11rr1_bs3y",
+    "businessProfileId": "11024144911088478779"
+  },
+  {
+    "title": "MARCENARIA CARNEIRO",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Manufacturer",
+    "address": "R. Marcílio Dias, 68 - Vila Carli, Guarapuava - PR, 85040-430, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "R. Marcílio Dias, 68",
+    "city": "Guarapuava",
+    "postalCode": "85040-430",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://marcenariacarneiro.wix.com/marcenariacarneiro",
+    "phone": "+55 42 98401-3148",
+    "phoneUnformatted": "+5542984013148",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.370547,
+      "lng": -51.4839666
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC7KA3Kc375QRTr_OQaCBuww",
+    "categories": [
+      "Manufacturer"
+    ],
+    "fid": "0x94ef37a7dc80b20b:0xcbb81a041cebf4e",
+    "cid": "917469474398846798",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MARCENARIA%20CARNEIRO&query_place_id=ChIJC7KA3Kc375QRTr_OQaCBuww",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfroRjLzDvmzJPxs6VpOCllRwCt5cZV7XQyqITmUFsyXZMUkNR4yb1NOnwlarWjIFCNnhXenxyRpzXn4BgpM66l3eSG7m2V0VB9WV6orHeca_Yra83dPT_11vLG5vu0jWCE7SaW=w408-h544-k-no",
+    "kgmid": "/g/11c55g198l",
+    "businessProfileId": null
+  },
+  {
+    "title": "Marcenaria Fênix Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Corporate office",
+    "address": "R. Gen. Osório - Vila Carli, Guarapuava - PR, 85040-040, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "R. Gen. Osório",
+    "city": "Guarapuava",
+    "postalCode": "85040-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3035-1446",
+    "phoneUnformatted": "+554230351446",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3896165,
+      "lng": -51.4867565
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVSFVg7g375QRUWr6sCaiFqw",
+    "categories": [
+      "Corporate office"
+    ],
+    "fid": "0x94ef37b883552155:0xac16a226b0fa6a51",
+    "cid": "12400276911072897617",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 0
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marcenaria%20F%C3%AAnix%20Guarapuava&query_place_id=ChIJVSFVg7g375QRUWr6sCaiFqw",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11c5n08l1f",
+    "businessProfileId": null
+  },
+  {
+    "title": "J&N MÓVEIS SOBRE MEDIDA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Millwork shop",
+    "address": "Avenida Paraná Entre Rios - Colonia Vitoria, Guarapuava - PR, 85139-400, Brazil",
+    "neighborhood": "Colonia Vitoria",
+    "street": "Avenida Paraná Entre Rios",
+    "city": "Guarapuava",
+    "postalCode": "85139-400",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99825-6778",
+    "phoneUnformatted": "+5542998256778",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.5734145,
+      "lng": -51.491717
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn1FU70NR75QRej1yln5ms9w",
+    "categories": [
+      "Millwork shop"
+    ],
+    "fid": "0x94ef5143ef54519f:0xdcb3667e96723d7a",
+    "cid": "15903167403051335034",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 64,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=J%26N%20M%C3%93VEIS%20SOBRE%20MEDIDA&query_place_id=ChIJn1FU70NR75QRej1yln5ms9w",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQ072K3R4veA9Qv83qYsE1ox2CSMgKt1RXJK2vkndxx3A2ZT6xzGPVWpAzsibni2or_xYwBJPxretbTFzRGY_JhwXqsPzYnRFJ__dA_m0DjurVHg_ljyMXt36GlNbA65-scYz3Kuq4_up7=w408-h509-k-no",
+    "kgmid": "/g/11mrqc0_5w",
+    "businessProfileId": "9970636103690463043"
+  },
+  {
+    "title": "J.G Móveis Planejados",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cabinet maker",
+    "address": "R. Ernesto F. de Queiroz, 157 - Vila Carli, Guarapuava - PR, 85040-440, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "R. Ernesto F. de Queiroz, 157",
+    "city": "Guarapuava",
+    "postalCode": "85040-440",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3624-7879",
+    "phoneUnformatted": "+554236247879",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3699876,
+      "lng": -51.4847498
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMRYpjac375QRy-zRPSwZwaI",
+    "categories": [
+      "Cabinet maker"
+    ],
+    "fid": "0x94ef37a78d291631:0xa2c1192c3dd1eccb",
+    "cid": "11727682582455905483",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=J.G%20M%C3%B3veis%20Planejados&query_place_id=ChIJMRYpjac375QRy-zRPSwZwaI",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYpqNGbwerVAwhM92CcZsm96SJ9gGtjw4RbBZvMvpBgGaf_Veid2vZPYK13lCwOeTKQD0D5EIYpFCFSMiBXPExkxQQYWe145PlmSp9H903VSHukY6ZIVnu8KJDorvuG3s7y5F0Zw=w408-h408-k-no",
+    "kgmid": "/g/11c45nmhg9",
+    "businessProfileId": "16403091807267629748"
+  },
+  {
+    "title": "GG Planejados - Marcenaria e Marmoraria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture store",
+    "address": "R. Lourival Araújo, 731 - CDI - São Cristóvão, Guarapuava - PR, 85063-580, Brazil",
+    "neighborhood": "São Cristóvão",
+    "street": "R. Lourival Araújo, 731 - CDI",
+    "city": "Guarapuava",
+    "postalCode": "85063-580",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99827-3916",
+    "phoneUnformatted": "+5542998273916",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.356022,
+      "lng": -51.4537259
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfYSH9lA375QRN_quB6tVdco",
+    "categories": [
+      "Furniture store",
+      "Bedroom furniture store",
+      "Furniture maker",
+      "Furniture manufacturer",
+      "Kitchen furniture store",
+      "Marble supplier",
+      "Woodworker"
+    ],
+    "fid": "0x94ef3750f687847d:0xca7555ab07aefa37",
+    "cid": "14588660760993266231",
+    "reviewsCount": 38,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 29
+    },
+    "imagesCount": 140,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GG%20Planejados%20-%20Marcenaria%20e%20Marmoraria&query_place_id=ChIJfYSH9lA375QRN_quB6tVdco",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9ps6QyD9XL4XU6wktQC6SiEEMMTMN_T6YJKWtUBWfk0mVyF1KWecknY-RtisPlJtdsFY1Nal5uERqg-0EkjATNHKouPwusjj5-H0VEQVZnelM01tyQdibv_T0yZmzlzoN2osWcw=w408-h306-k-no",
+    "kgmid": "/g/11h7x57q9s",
+    "businessProfileId": "5508424683081944873"
+  },
+  {
+    "title": "Magnum móveis planejados",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture maker",
+    "address": "R. Gino Marli Pizano - pizzano, Guarapuava - PR, 85055-290, Brazil",
+    "neighborhood": "pizzano",
+    "street": "R. Gino Marli Pizano",
+    "city": "Guarapuava",
+    "postalCode": "85055-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98403-6044",
+    "phoneUnformatted": "+5542984036044",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3653683,
+      "lng": -51.467182
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD9VhZb0375QREqbXXzXgn2U",
+    "categories": [
+      "Furniture maker"
+    ],
+    "fid": "0x94ef37bd6561d50f:0x659fe0355fd7a612",
+    "cid": "7322818038973572626",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 36
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Magnum%20m%C3%B3veis%20planejados&query_place_id=ChIJD9VhZb0375QREqbXXzXgn2U",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcedisZM-w-6yHojKJ7RU0gi1zSdSDA3bEuJvZ66V5BQV0CsFRP0f5TPldp6vAK12u_pfx6EJBvyJQxOWJHAC9uuuNUaQkdCjFn5IugSgduyi9XyFC9TWih6jMoe5ArExGLoipr4brwe3s=w408-h493-k-no",
+    "kgmid": "/g/11ycxwr7cr",
+    "businessProfileId": "13487412974713558739"
+  },
+  {
+    "title": "Lc marcenaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Woodworker",
+    "address": "Rua Frederico Taques, 60 - Aeroporto, Guarapuava - PR, 85030-232, Brazil",
+    "neighborhood": "Aeroporto",
+    "street": "Rua Frederico Taques, 60",
+    "city": "Guarapuava",
+    "postalCode": "85030-232",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99863-3644",
+    "phoneUnformatted": "+5542998633644",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3557864,
+      "lng": -51.4928571
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDaIl5l8375QRxK0KEaEI19U",
+    "categories": [
+      "Woodworker"
+    ],
+    "fid": "0x94ef375fe625a20d:0xd5d708a1110aadc4",
+    "cid": "15408794137940110788",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 7 AM, 8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lc%20marcenaria&query_place_id=ChIJDaIl5l8375QRxK0KEaEI19U",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=egTHKOCyNuubX9mdaEiZ7g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=121.36388&pitch=0&thumbfov=100",
+    "kgmid": "/g/11z2knlr1_",
+    "businessProfileId": "17765788235842530519"
+  },
+  {
+    "title": "Movelaria Correa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Woodworker",
+    "address": "R. Padre Chagas, 1587 - Alto da XV, Guarapuava - PR, 85065-050, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Padre Chagas, 1587",
+    "city": "Guarapuava",
+    "postalCode": "85065-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99113-6773",
+    "phoneUnformatted": "+5542991136773",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3815094,
+      "lng": -51.4542901
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ29VrkIQ375QRcI6rQb0qSa4",
+    "categories": [
+      "Woodworker"
+    ],
+    "fid": "0x94ef3784906bd5db:0xae492abd41ab8e70",
+    "cid": "12558616028238286448",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.656Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Movelaria%20Correa&query_place_id=ChIJ29VrkIQ375QRcI6rQb0qSa4",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBNOU5bSvD2XAm16jUErGjAgq_p_WDIfErPndVa22nFSx9LPnlXTt5xW1kUlf8prOXk_-BrExRftEmQ3ybcD0nSbGGb_qXdIY_NBayypNKfMVhNZ_y9ODWCj--QWrawlwuQerk=w408-h725-k-no",
+    "kgmid": "/g/11w59tcn17",
+    "businessProfileId": "8365386296367937585"
+  },
+  {
+    "title": "Zer07 Design Marcenaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cabinet maker",
+    "address": "Av. Ver. Serafim Ribas, 3030 - Barracão 07 - Boqueirão, Guarapuava - PR, 85023-500, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "Av. Ver. Serafim Ribas, 3030 - Barracão 07",
+    "city": "Guarapuava",
+    "postalCode": "85023-500",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99807-2700",
+    "phoneUnformatted": "+5542998072700",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4164654,
+      "lng": -51.4823943
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt-03LNc375QRXtyCNLGgY1g",
+    "categories": [
+      "Cabinet maker"
+    ],
+    "fid": "0x94ef37d72c37edb7:0x5863a0b13482dc5e",
+    "cid": "6369110980982660190",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.657Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zer07%20Design%20Marcenaria&query_place_id=ChIJt-03LNc375QRXtyCNLGgY1g",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2qmn22DjAvVCdYBhi8uii_Ofr063RijlsfILpGyh_eVK89I7_hYJ4dXqbR1cs1WHiAWYrJ8CViDIiSgtKOATEhUuHJXN7JAZxtKxpv0easDjtXwK2NdkdWjZb5seinJgcNVc=w426-h240-k-no",
+    "kgmid": "/g/11f663p2nz",
+    "businessProfileId": "15281783089082666240"
+  },
+  {
+    "title": "J.A.M móveis sob medida",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture maker",
+    "address": "R. São Paulo, 2121 Bairro - Dos Estados, Guarapuava - PR, 85035-150, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. São Paulo, 2121 Bairro",
+    "city": "Guarapuava",
+    "postalCode": "85035-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.classeaflex.com.br/",
+    "phone": "+55 42 3623-7105",
+    "phoneUnformatted": "+554236237105",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3865764,
+      "lng": -51.4809211
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtarJ-rc375QR_8XUmjVsa1s",
+    "categories": [
+      "Furniture maker",
+      "Furniture wholesaler"
+    ],
+    "fid": "0x94ef37b7fac9aab5:0x5b6b6c359ad4c5ff",
+    "cid": "6587477857446184447",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 47,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.657Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=J.A.M%20m%C3%B3veis%20sob%20medida&query_place_id=ChIJtarJ-rc375QR_8XUmjVsa1s",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZahbLxRlqr-xQ7XYF9QI_MR6gkJAzqt1ee7MymgMml5J5t835ykblCgP1vB02bGNEl5wWa6qdySP9bcs4_U69GX723sBG8yOuHD7udfyTkmAuSebEwf8l0BuIo3HTO3SFO9Ic=w426-h240-k-no",
+    "kgmid": "/g/1tggvpb8",
+    "businessProfileId": "5478202176606579635"
+  },
+  {
+    "title": "Hope Móveis Planejados e Marcenaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture manufacturer",
+    "address": "R. XV de Novembro, 5065 - Morro Alto, Guarapuava - PR, 85055-400, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "R. XV de Novembro, 5065",
+    "city": "Guarapuava",
+    "postalCode": "85055-400",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99147-5200",
+    "phoneUnformatted": "+5542991475200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3783181,
+      "lng": -51.4490915
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLZLiUiI375QR9iLwV7jRQrM",
+    "categories": [
+      "Furniture manufacturer"
+    ],
+    "fid": "0x94ef372252e2922d:0xb342d1b857f022f6",
+    "cid": "12917117270931546870",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 59,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:10.657Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hope%20M%C3%B3veis%20Planejados%20e%20Marcenaria&query_place_id=ChIJLZLiUiI375QR9iLwV7jRQrM",
+    "searchPageUrl": "https://www.google.com/maps/search/marcenaria%20Guarapuava%20PR?hl=en",
+    "searchString": "marcenaria Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehfyJ1R9gsfEhghEZS9D81B8RCM6zeTuVpw6JlEXXdw5vqbWXoqwWyD_0c7vsg_N0AIbltKoRgXfo3v-EA4hnhaWfv3DoFOHngEG2KtuH_X85-Dvq_RXdrwHHRxMp4wR6hWyqmXQ=w408-h402-k-no",
+    "kgmid": "/g/11v0rc92qn",
+    "businessProfileId": "16445590871077505570"
+  },
+  {
+    "title": "PRM Projetos Engenharia Civil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Xavier da Silva, n° 1931 - Centro, Guarapuava - PR, 85010-220, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Xavier da Silva, n° 1931",
+    "city": "Guarapuava",
+    "postalCode": "85010-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://instagram.com/prm_projetos?igshid=ZDdkNTZiNTM=",
+    "phone": "+55 42 98864-1360",
+    "phoneUnformatted": "+5542988641360",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3863526,
+      "lng": -51.470815
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRU88rrw375QRjPS70NV0wvQ",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef37bcae3c4f45:0xf4c274d5d0bbf48c",
+    "cid": "17636787552415118476",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 2
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.197Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PRM%20Projetos%20Engenharia%20Civil&query_place_id=ChIJRU88rrw375QRjPS70NV0wvQ",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWBDcZhvEwh584LD_DEo6mysLYPU4E-gMpy993eL_98kbr-FVWBmM_nI5QkeWwtrHozoS1DgCEiKkzd_jFkCIUyIkcr7KjW63SUv8_IktBDhg7PxzsoSbZi5zrPE3DDpFZXSBaDw=w408-h408-k-no",
+    "kgmid": "/g/11ssz_q5sj",
+    "businessProfileId": "15079675740233331864"
+  },
+  {
+    "title": "Chilli da Brasa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Barão de Capanema, 1791 - Batel, Guarapuava - PR, 85015-314, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Barão de Capanema, 1791",
+    "city": "Guarapuava",
+    "postalCode": "85015-314",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99914-4321",
+    "phoneUnformatted": "+5542999144321",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3979211,
+      "lng": -51.4770849
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXTvdRtI375QRG6LSH8SOMlo",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef37d246dd3b5d:0x5a328ec41fd2a21b",
+    "cid": "6499414185247679003",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.197Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Chilli%20da%20Brasa&query_place_id=ChIJXTvdRtI375QRG6LSH8SOMlo",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN4YaUcTC1KCEOlLDmcfUe2de48CkGGSGN6CiRi1GkyhIf1-XdtimRcnQuoVLWNT3rxLE4Q0beq-bEcn-BPo32PQz9bVydebKToWH14NpBiGgD8zg9DN6gqfL-4wLQLjhUrJ_v=w408-h301-k-no",
+    "kgmid": "/g/11clgfgnst",
+    "businessProfileId": "11150256527542653859"
+  },
+  {
+    "title": "Aldrin Cordeiro Camargo Engenharia Civil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineer",
+    "address": "R. Guaíra, 3035 - Centro, Guarapuava - PR, 85010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Guaíra, 3035",
+    "city": "Guarapuava",
+    "postalCode": "85010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3627-5090",
+    "phoneUnformatted": "+554236275090",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3908969,
+      "lng": -51.4664712
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOUgVdjE275QRwdddIaKAEW0",
+    "categories": [
+      "Civil engineer"
+    ],
+    "fid": "0x94ef363176154839:0x6d1180a2215dd7c1",
+    "cid": "7859204258571081665",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.197Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aldrin%20Cordeiro%20Camargo%20Engenharia%20Civil&query_place_id=ChIJOUgVdjE275QRwdddIaKAEW0",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xkx3Loj2XurO7s_pwhoKyw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=102.1287&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tflnlkn",
+    "businessProfileId": null
+  },
+  {
+    "title": "LSR Escritório de Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineer",
+    "address": "R. Dezessete de Julho, 1614 - Trianon, Guarapuava - PR, 85070-110, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Dezessete de Julho, 1614",
+    "city": "Guarapuava",
+    "postalCode": "85070-110",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://lsrengenharia.com.br/",
+    "phone": "+55 42 98402-6004",
+    "phoneUnformatted": "+5542984026004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4036669,
+      "lng": -51.4633874
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf7wP7NdJ75QR4oFdb2cbP3U",
+    "categories": [
+      "Civil engineer",
+      "Construction company"
+    ],
+    "fid": "0x94ef49d7ec0fbc7f:0x753f1b676f5d81e2",
+    "cid": "8448501557034320354",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LSR%20Escrit%C3%B3rio%20de%20Engenharia&query_place_id=ChIJf7wP7NdJ75QR4oFdb2cbP3U",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9kBD7ZH1p3NWMdpejiMpawZGzpgA4VBFd3Fx9Ud8cIR-WqANomYqC3BdUhlawA9f7KuIQ6s8ZqU_SZ1fd8URAAsXICizVNjnQzpa3ti0tHPLK_bG4XtVwHcuflAhaw86vTKgBccFCFCZK=w408-h306-k-no",
+    "kgmid": "/g/1trsz4_t",
+    "businessProfileId": "173636734429922571"
+  },
+  {
+    "title": "Quetoni Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Mechanical engineer",
+    "address": "Centro, Guarapuava - Paraná, 85010-080, Brazil",
+    "neighborhood": "Centro",
+    "street": null,
+    "city": "Guarapuava",
+    "postalCode": "85010-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99818-7448",
+    "phoneUnformatted": "+5542998187448",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3876015,
+      "lng": -51.472395
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL7XtjgU375QRWR34ArXn0wU",
+    "categories": [
+      "Mechanical engineer"
+    ],
+    "fid": "0x94ef37058eedb52f:0x5d3e7b502f81d59",
+    "cid": "419933954900499801",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Quetoni%20Engenharia&query_place_id=ChIJL7XtjgU375QRWR34ArXn0wU",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe12fUpp_Pm1woFwbHS-qpReGG-UVWSe7sOkBM8Xlagu70i7M9RMcFHEcdLAVl9rsvKlISJBNvAVDo1AItqVsOntUX9y6yl7fDKoyUNGLu6vHt0I3JiEMcc8wyL3Y8pnIPiZNZSnQ1FUIY=w408-h612-k-no",
+    "kgmid": "/g/11nvtt8zzv",
+    "businessProfileId": "15331677440949802828"
+  },
+  {
+    "title": "Brick Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "Av. Guarapuava, 800 - Cidade dos Lagos, Guarapuava - PR, 85053-525, Brazil",
+    "neighborhood": "Cidade dos Lagos",
+    "street": "Av. Guarapuava, 800",
+    "city": "Guarapuava",
+    "postalCode": "85053-525",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98422-9645",
+    "phoneUnformatted": "+5542984229645",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3502221,
+      "lng": -51.4794797
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW3-iJxk375QRd-getX2bkmA",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef371927a27f5b:0x60929b7db51ee877",
+    "cid": "6958795338452756599",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brick%20Engenharia&query_place_id=ChIJW3-iJxk375QRd-getX2bkmA",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbqWthN7K0WYP3Q4RrZZnYgWNlSzn0KY1vbrB33q_r2ZAdnjZo2X-JpSM_MkckHUhHUt4-CQmEmgsmNj3cBPqGs16gt8dBcS8eRruPIQkQ-31EnMyP-hQ0_2tduShTJwIQ11lwAu0V-MuF=w408-h249-k-no",
+    "kgmid": "/g/11dyzq700c",
+    "businessProfileId": "17177249794775777874"
+  },
+  {
+    "title": "Kbana Engenharia e Design",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Padre Chagas, 4040 - Morro Alto, Guarapuava - PR, 85015-270, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "R. Padre Chagas, 4040",
+    "city": "Guarapuava",
+    "postalCode": "85015-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/kbanaengenhariaedesign?igsh=NHpvcW1mcHZ0NGxl",
+    "phone": "+55 42 99956-6075",
+    "phoneUnformatted": "+5542999566075",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3969676,
+      "lng": -51.4717999
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg7ahkGM375QRKoGJOGgcYSw",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef376390a1b683:0x2c611c683889812a",
+    "cid": "3197868444360474922",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 15
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kbana%20Engenharia%20e%20Design&query_place_id=ChIJg7ahkGM375QRKoGJOGgcYSw",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7FM8clqgBu1rtEfKuvkeT6AWjIqYBQHvr-uY-dnwT-cS_R0a0-YRqb-ExnmJAtdeXZ70KS2cYWo99NKmAFry9dfpR8qcUOhOhxxEhJPyIs9oWBo-SNggQU3IynH36h6BRpC763IpCvhvs=w408-h544-k-no",
+    "kgmid": "/g/11x8wbc5r2",
+    "businessProfileId": "9690724453300656926"
+  },
+  {
+    "title": "Eng-Hey",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Alcione Bastos, 1979 - Centro, Guarapuava - PR, 85010-160, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Alcione Bastos, 1979",
+    "city": "Guarapuava",
+    "postalCode": "85010-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/eng.hey/",
+    "phone": "+55 42 99959-2839",
+    "phoneUnformatted": "+5542999592839",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3923499,
+      "lng": -51.459397
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJURICm8I375QRrPTkhVfp1s8",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef37c29b021251:0xcfd6e95785e4f4ac",
+    "cid": "14976414172984964268",
+    "reviewsCount": null,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eng-Hey&query_place_id=ChIJURICm8I375QRrPTkhVfp1s8",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iBaZGQt1o77Q98bvnW6NFA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=114.58776&pitch=0&thumbfov=100",
+    "kgmid": "/g/11t6_v858t",
+    "businessProfileId": "12231520970588796624"
+  },
+  {
+    "title": "EC - Eduardo Campos Engenharia Civil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "Av. Ver. Rubéns Siqueira Ribas - Santa Cruz, Guarapuava - PR, 85015-080, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "Av. Ver. Rubéns Siqueira Ribas",
+    "city": "Guarapuava",
+    "postalCode": "85015-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/eng.eduardocamposs/",
+    "phone": "+55 42 99864-7401",
+    "phoneUnformatted": "+5542998647401",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.408654,
+      "lng": -51.4620533
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF6pf__9J75QR9FM7F6NyPLo",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef49ffff5faa17:0xba3c72a3173b53f4",
+    "cid": "13419727034452235252",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=EC%20-%20Eduardo%20Campos%20Engenharia%20Civil&query_place_id=ChIJF6pf__9J75QR9FM7F6NyPLo",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VeQMu9Rg737S2VBTvg7xpg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=205.48602&pitch=0&thumbfov=100",
+    "kgmid": "/g/11jz8t1m_4",
+    "businessProfileId": "5435565274657083284"
+  },
+  {
+    "title": "Alexandre T. V. de Godoi Engenheiro Civil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineer",
+    "address": "R. Tiradentes, 1133 - Centro, Guarapuava - PR, 85010-310, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tiradentes, 1133",
+    "city": "Guarapuava",
+    "postalCode": "85010-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98822-2958",
+    "phoneUnformatted": "+5542988222958",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3990279,
+      "lng": -51.4685065
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDc2jIYk375QRpWcFNoK9S2g",
+    "categories": [
+      "Civil engineer",
+      "Civil engineering company",
+      "Construction company",
+      "Structural engineer"
+    ],
+    "fid": "0x94ef378921a3cd0d:0x684bbd82360567a5",
+    "cid": "7515308770147526565",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alexandre%20T.%20V.%20de%20Godoi%20Engenheiro%20Civil&query_place_id=ChIJDc2jIYk375QRpWcFNoK9S2g",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8azZtOGcWsxDX0ZI6KxPoQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=231.76898&pitch=0&thumbfov=100",
+    "kgmid": "/g/11glfzlsby",
+    "businessProfileId": "12808550320867084743"
+  },
+  {
+    "title": "Cedro Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Afonso Alves de Camargo, 1530 - Alto da XV, Guarapuava - PR, 85010-320, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Afonso Alves de Camargo, 1530",
+    "city": "Guarapuava",
+    "postalCode": "85010-320",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99800-2380",
+    "phoneUnformatted": "+5542998002380",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3881577,
+      "lng": -51.4596283
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNXN3nXU375QRYJmInAzCkTw",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef37759d777335:0x3c91c20c9c889960",
+    "cid": "4364482873320315232",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cedro%20Engenharia&query_place_id=ChIJNXN3nXU375QRYJmInAzCkTw",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M4enl5eLvWK4HQ96R9qzzA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=51.018757&pitch=0&thumbfov=100",
+    "kgmid": "/g/11z1ky12gk",
+    "businessProfileId": "14960688776462801183"
+  },
+  {
+    "title": "S.A.O Engenharia Sergio Augusto de Onofre Engenheiro Civil e Segurança do Trabalho",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Arlíndo Ribeiro, 925 - Centro, Guarapuava - PR, 85010-070, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Arlíndo Ribeiro, 925",
+    "city": "Guarapuava",
+    "postalCode": "85010-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://wa.me/5542991085060?text=Ol%C3%A1,+vim+pelo+Google+maps,+quero+tirar+d%C3%BAvidas!",
+    "phone": "+55 42 99108-5060",
+    "phoneUnformatted": "+5542991085060",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3898641,
+      "lng": -51.4732312
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJebgTTMs375QRwLByx2NqCLE",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef37cb4c13b879:0xb1086a63c772b0c0",
+    "cid": "12756562921307418816",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=S.A.O%20Engenharia%20Sergio%20Augusto%20de%20Onofre%20Engenheiro%20Civil%20e%20Seguran%C3%A7a%20do%20Trabalho&query_place_id=ChIJebgTTMs375QRwLByx2NqCLE",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9DgN043YL34KjQU3vcTlGb7n8ff3Xilwq6r5Qlx9LuLzktDsJVLqp4EiU44ukZssMbU1r04rv3phhTNzSRr8KSSX-kgFcJXPPuQWxPydr3gauevnSogpS5QAnPHjJKnK2Pl8IsQ=w426-h240-k-no",
+    "kgmid": "/g/11f263_nxt",
+    "businessProfileId": null
+  },
+  {
+    "title": "Munhoz Engenharia e Construção",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineer",
+    "address": "R. Frei Caneca, 2911 - Santa Cruz, Guarapuava - PR, 85012-320, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "R. Frei Caneca, 2911",
+    "city": "Guarapuava",
+    "postalCode": "85012-320",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99930-2937",
+    "phoneUnformatted": "+5542999302937",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4016005,
+      "lng": -51.4657877
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5W-jsSk275QRRYHZzrN6THI",
+    "categories": [
+      "Civil engineer"
+    ],
+    "fid": "0x94ef3629b1a36fe5:0x724c7ab3ced98145",
+    "cid": "8236092731241890117",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Munhoz%20Engenharia%20e%20Constru%C3%A7%C3%A3o&query_place_id=ChIJ5W-jsSk275QRRYHZzrN6THI",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWTdyfEAGU_ase6OHbO0ixSJOkGPo3aCHvnnz-xed5eMuCrtbg6GVonp7iNiihYiOJGituSks1wYNFnqbQ0f6Cn_Z0mbtzU5HiC8DUwDX9V-7WdOZKZ-p8_ImOpDcYJf4i1rTCeA=w408-h306-k-no",
+    "kgmid": "/g/11dfq2c7l_",
+    "businessProfileId": "3751827390204718560"
+  },
+  {
+    "title": "EDSON BELLI ENGENHEIRO CREA PR 202724/D",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineer",
+    "address": "R. Trajano Reis, 690 - Sl 2 - Alto da XV, Guarapuava - PR, 85065-170, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Trajano Reis, 690 - Sl 2",
+    "city": "Guarapuava",
+    "postalCode": "85065-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99993-0000",
+    "phoneUnformatted": "+5542999930000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3815256,
+      "lng": -51.4543227
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg-rwlHQ375QRM0Tfaf3NazE",
+    "categories": [
+      "Civil engineer",
+      "Blueprint service",
+      "Engineering consultant",
+      "Hydraulic engineer",
+      "Remodeler"
+    ],
+    "fid": "0x94ef377494f0ea83:0x316bcdfd69df4433",
+    "cid": "3561166418653168691",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=EDSON%20BELLI%20ENGENHEIRO%20CREA%20PR%20202724%2FD&query_place_id=ChIJg-rwlHQ375QRM0Tfaf3NazE",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7HewAspbobhlIWcAyqoaRXF02ptHzIf4XLQP8p87n_0rJrGB8miJSFLMgz1-S71zge3Ggdl1hPUU3mLZXYBI4uzxFCTkrHbOMv-F9tIAVkLW7gVYL3gJzXQasLz9vwqP0YOGO=w408-h460-k-no",
+    "kgmid": "/g/11rbyxx35r",
+    "businessProfileId": "15723961866812274649"
+  },
+  {
+    "title": "Duo Engenharia e Construções",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Rio Grande do Norte, 3300 - Dos Estados, Guarapuava - PR, 85035-120, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. Rio Grande do Norte, 3300",
+    "city": "Guarapuava",
+    "postalCode": "85035-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99919-9419",
+    "phoneUnformatted": "+5542999199419",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3869407,
+      "lng": -51.4851942
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm0JcMcg87I0R1KKn4qjOV6Q",
+    "categories": [
+      "Civil engineering company",
+      "Blueprint service",
+      "Construction company"
+    ],
+    "fid": "0x8dec3cc8315c429b:0xa457cea8e2a7a2d4",
+    "cid": "11842160969946473172",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Duo%20Engenharia%20e%20Constru%C3%A7%C3%B5es&query_place_id=ChIJm0JcMcg87I0R1KKn4qjOV6Q",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G4zjMJw0Zc_sxzjpVEyVXQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=42.34635&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wqpg3c6v",
+    "businessProfileId": "599240205817585236"
+  },
+  {
+    "title": "Iareski Engenharia & Construtora",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Antônio Kais, 282 - Conradinho, Guarapuava - PR, 85055-260, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "R. Antônio Kais, 282",
+    "city": "Guarapuava",
+    "postalCode": "85055-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99907-6463",
+    "phoneUnformatted": "+5542999076463",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3651199,
+      "lng": -51.4619683
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUY6OmAc375QRaFOB0kVzcRA",
+    "categories": [
+      "Civil engineering company",
+      "Bricklayer",
+      "Civil engineer",
+      "Construction company",
+      "Remodeler"
+    ],
+    "fid": "0x94ef3707988e8e51:0x10717345d2815368",
+    "cid": "1184854920696779624",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Iareski%20Engenharia%20%26%20Construtora&query_place_id=ChIJUY6OmAc375QRaFOB0kVzcRA",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n1RBl6R6vMhGbLVJtKdYAw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=237.81349&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h580kb4s",
+    "businessProfileId": "14938548048221869824"
+  },
+  {
+    "title": "L A Koppe Engenharia Civil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Engineering consultant",
+    "address": "R. Francisco Cândido Xavier, 1291 - Industrial, Guarapuava - PR, 85053-517, Brazil",
+    "neighborhood": "Industrial",
+    "street": "R. Francisco Cândido Xavier, 1291",
+    "city": "Guarapuava",
+    "postalCode": "85053-517",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3624-3325",
+    "phoneUnformatted": "+554236243325",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3488658,
+      "lng": -51.4867519
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT3MwvT0375QRalJNFePCEPA",
+    "categories": [
+      "Engineering consultant"
+    ],
+    "fid": "0x94ef373dbd30734f:0xf010c2e3154d526a",
+    "cid": "17298540449300828778",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=L%20A%20Koppe%20Engenharia%20Civil&query_place_id=ChIJT3MwvT0375QRalJNFePCEPA",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Bzq0x0gTnd-diab39K8Tw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=238.71608&pitch=0&thumbfov=100",
+    "kgmid": "/g/1ptyk20qm",
+    "businessProfileId": null
+  },
+  {
+    "title": "SAO Engenharia - INSS de Obras",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineer",
+    "address": "R. Xavier da Silva, 903 - Centro, Guarapuava - PR, 85010-220, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Xavier da Silva, 903",
+    "city": "Guarapuava",
+    "postalCode": "85010-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://saoinssdeobras.com/",
+    "phone": "+55 42 99108-5060",
+    "phoneUnformatted": "+5542991085060",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3926556,
+      "lng": -51.4633438
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMeXcpow375QRDhnwRHBtXC4",
+    "categories": [
+      "Civil engineer"
+    ],
+    "fid": "0x94ef378ca6dce531:0x2e5c6d7044f0190e",
+    "cid": "3340665352562415886",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SAO%20Engenharia%20-%20INSS%20de%20Obras&query_place_id=ChIJMeXcpow375QRDhnwRHBtXC4",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ed1dL-I_UIfvywm5SN3yVg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=203.85916&pitch=0&thumbfov=100",
+    "kgmid": "/g/11zh4w4trk",
+    "businessProfileId": "2119694827137079736"
+  },
+  {
+    "title": "Paraná Company Engenharia e Consultoria Especializada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Mechanical engineer",
+    "address": "R. Francisco Missino - Vila Bela, Guarapuava - PR, 85027-260, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "R. Francisco Missino",
+    "city": "Guarapuava",
+    "postalCode": "85027-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://sites.google.com/view/parana-company-engenharia/p%C3%A1gina-inicial",
+    "phone": "+55 42 98836-3652",
+    "phoneUnformatted": "+5542988363652",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4104582,
+      "lng": -51.4953511
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9eSii3k375QRi5v66ozt7yI",
+    "categories": [
+      "Mechanical engineer",
+      "Occupational safety and health"
+    ],
+    "fid": "0x94ef37798ba2e4f5:0x22efed8ceafa9b8b",
+    "cid": "2517491906216893323",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 55,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Paran%C3%A1%20Company%20Engenharia%20e%20Consultoria%20Especializada&query_place_id=ChIJ9eSii3k375QRi5v66ozt7yI",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWWkbqAXO1FtJfL3m-r-7J2cOmoo9YywjcLSlM9Vx9-hXShYbf0ELjsG8ej7VM8K2MFQgs-aLczpvtuqH-17kTdCoy6TzZ_zGOILmGOIQj_egUj1m5y-00bC2NJA4-maBeFi4WbmSEu5yp=w430-h240-k-no",
+    "kgmid": "/g/11npyr6hrc",
+    "businessProfileId": "4610380755955965938"
+  },
+  {
+    "title": "Baldissera Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Civil engineering company",
+    "address": "R. Guaíra, 3174 - Sl 4, Piso 2 - Centro, Guarapuava - PR, 85010-010, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Guaíra, 3174 - Sl 4, Piso 2",
+    "city": "Guarapuava",
+    "postalCode": "85010-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://baldisseraengenharia.com.br/",
+    "phone": "+55 42 99114-2783",
+    "phoneUnformatted": "+5542991142783",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.39165,
+      "lng": -51.467598
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrf65LKY375QRy2T89gfGnfI",
+    "categories": [
+      "Civil engineering company"
+    ],
+    "fid": "0x94ef37a62cb9fead:0xf29dc607f6fc64cb",
+    "cid": "17482347066032940235",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:15.198Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baldissera%20Engenharia&query_place_id=ChIJrf65LKY375QRy2T89gfGnfI",
+    "searchPageUrl": "https://www.google.com/maps/search/engenharia%20civil%20Guarapuava%20PR?hl=en",
+    "searchString": "engenharia civil Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKqZhX3EXKyXkMqBaxXWmXc7cPJt51MnBE9LyeP05oyWrOgth5IzlGJHBku8y5aK_yayvZE248fIvKvkESjVRybup3u48rSJpALBFdt7oST68mgaeH5ILZ7dQC3PvO5rLQQe9QIA=w426-h240-k-no",
+    "kgmid": "/g/11w2_rfx51",
+    "businessProfileId": "9775398038292698542"
+  },
+  {
+    "title": "Dix Construtora",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "R. Quintino Bocaiúva, 1465 - Centro, Guarapuava - PR, 85010-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quintino Bocaiúva, 1465",
+    "city": "Guarapuava",
+    "postalCode": "85010-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.dixconstrutora.com/",
+    "phone": "+55 42 99977-2793",
+    "phoneUnformatted": "+5542999772793",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3963031,
+      "lng": -51.470001
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOyTvcyo375QR0s6pQ79y7EU",
+    "categories": [
+      "Construction company",
+      "Architect",
+      "Architecture firm"
+    ],
+    "fid": "0x94ef372a73ef243b:0x45ec72bf43a9ced2",
+    "cid": "5038528248920264402",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dix%20Construtora&query_place_id=ChIJOyTvcyo375QR0s6pQ79y7EU",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwlEThZcIsQqTi8f3znE4vxlHp1rHxmLvmfF79icP0jMHaE4lSkhn8mTfjAwl4mNXdZhnurqf43m76MNO3KCUFos_vDF1jt5VTSwsVLzO8ykJRLo2nK1R9ghQ7wTeFdjBmRRWT=w426-h240-k-no",
+    "kgmid": "/g/11y4q318zg",
+    "businessProfileId": "15045570227820806522"
+  },
+  {
+    "title": "BDL ENGENHARIA E OBRAS - CONSTRUTORA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Custom home builder",
+    "address": "R. Rufino Pacheco, 154 - Bonsucesso, Guarapuava - PR, 85055-200, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Rufino Pacheco, 154",
+    "city": "Guarapuava",
+    "postalCode": "85055-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://bdlengenhariaeobras.com.br/",
+    "phone": "+55 42 99933-3425",
+    "phoneUnformatted": "+5542999333425",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3747607,
+      "lng": -51.4679298
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwQ86LOc375QRD4kYBo-r828",
+    "categories": [
+      "Custom home builder"
+    ],
+    "fid": "0x94ef37e72c3a0fc1:0x6ff3ab8f0618890f",
+    "cid": "8066979988321634575",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 20
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BDL%20ENGENHARIA%20E%20OBRAS%20-%20CONSTRUTORA&query_place_id=ChIJwQ86LOc375QRD4kYBo-r828",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcr9kyLBJ60fpIq77m33lh7YTzCoB4Is9k6wgn1zfUQ33KB1HN-WBr6rv-UzjgF600PnieU_NTC4xvBeEwSjKofDFuHeyvGIJ3lRxTUq4kbhPIp09zsnMxSXNLDpjeTnq8Zf7o=w408-h408-k-no",
+    "kgmid": "/g/11tms92zq0",
+    "businessProfileId": "8970538069629765333"
+  },
+  {
+    "title": "construções e reformas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Bricklayer",
+    "address": "R. Curitiba, 270 - Bonsucesso, Guarapuava - PR, 85045-220, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Curitiba, 270",
+    "city": "Guarapuava",
+    "postalCode": "85045-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99933-0697",
+    "phoneUnformatted": "+5542999330697",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3733558,
+      "lng": -51.4790135
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW8Qelq4375QR83IUkyV2q6w",
+    "categories": [
+      "Bricklayer"
+    ],
+    "fid": "0x94ef37ae961ec45b:0xacab7625931472f3",
+    "cid": "12442168299294585587",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 29,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=constru%C3%A7%C3%B5es%20e%20reformas&query_place_id=ChIJW8Qelq4375QR83IUkyV2q6w",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK8foFJmHeCHClXC97lJ6qk2iFAyFOXGPN2GKzXwgzpMbGSBncHOohvX4XNRSZRzCFYkPu6WP0idAsJDaxSj5kxDnaYzLxD-mx7QiR_818mnUKbh0MdOdSL4UDGuvJzkKdZGzavA=w408-h306-k-no",
+    "kgmid": "/g/1jkvsfgpf",
+    "businessProfileId": "2460990822726390038"
+  },
+  {
+    "title": "Construtora Conceito | Obras em Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "Av. Manoel Ribas, 1575 - Sl 5 - Santana, Guarapuava - PR, 85070-180, Brazil",
+    "neighborhood": "Santana",
+    "street": "Av. Manoel Ribas, 1575 - Sl 5",
+    "city": "Guarapuava",
+    "postalCode": "85070-180",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.conceitobr.com/",
+    "phone": "+55 42 99142-0312",
+    "phoneUnformatted": "+5542991420312",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3911807,
+      "lng": -51.4591201
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz28p4ko375QRT6O_pnZTMxc",
+    "categories": [
+      "Construction company",
+      "Civil engineer",
+      "Civil engineering company",
+      "Building consultant",
+      "Electrical engineer",
+      "Engineer",
+      "Floor refinishing service",
+      "Foundation",
+      "General contractor",
+      "Remodeler"
+    ],
+    "fid": "0x94ef374ae2296fcf:0x17335376a6bfa34f",
+    "cid": "1671771655753409359",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Construtora%20Conceito%20%7C%20Obras%20em%20Guarapuava&query_place_id=ChIJz28p4ko375QRT6O_pnZTMxc",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJUfoX07w1zfHdNlJVbtZNbB7cwLIZL_qZd4U_Ln3GotOBoKzQ4t7tIpyLWfQhnbdr58A505KDiGNMnNByS4SxyJLTQQ8JfBjmXJdg4rL4ePR3v9Og-G46bAJfn8wl8gXoMSkvrg=w408-h544-k-no",
+    "kgmid": "/g/11h_0vrcnh",
+    "businessProfileId": "1483083677723836199"
+  },
+  {
+    "title": "Tecno Obras Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Building materials store",
+    "address": "R. Seriema, 918 - Conradinho, Guarapuava - PR, 85055-420, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "R. Seriema, 918",
+    "city": "Guarapuava",
+    "postalCode": "85055-420",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://tecnoobras.com.br/",
+    "phone": "+55 42 99158-8889",
+    "phoneUnformatted": "+5542991588889",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3661524,
+      "lng": -51.4729868
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo5bn1kY375QRu0q6Jh4Fs8g",
+    "categories": [
+      "Building materials store",
+      "Dry wall supply store",
+      "Insulation materials store"
+    ],
+    "fid": "0x94ef3746d6e796a3:0xc8b3051e26ba4abb",
+    "cid": "14461908455473695419",
+    "reviewsCount": 35,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 34
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tecno%20Obras%20Guarapuava&query_place_id=ChIJo5bn1kY375QRu0q6Jh4Fs8g",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4DJl-QBZ1BjEvVqNXtZiz5Lb83YEBzaNmfcxTLooaAz-BXdy56Ye3SvoqciXeOnIgjhbmFrYOj-zOeyM_hVHQhuIvPSMvtCmwiPB-_xD2M7p7YCW5CdfJywzuw1-tAARifTXb=w408-h485-k-no",
+    "kgmid": "/g/11n5s2tkcz",
+    "businessProfileId": "6371943296031986130"
+  },
+  {
+    "title": "Mega Obras e Reformas Guarapuava PR",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Home builder",
+    "address": "Centro, Guarapuava - Paraná, 85010-240, Brazil",
+    "neighborhood": "Centro",
+    "street": null,
+    "city": "Guarapuava",
+    "postalCode": null,
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.megaobrasereformas.com.br/",
+    "phone": "+55 41 99524-3516",
+    "phoneUnformatted": "+5541995243516",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3911847,
+      "lng": -51.4670182
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdTmkxMk375QRdRYTaB06L88",
+    "categories": [
+      "Home builder"
+    ],
+    "fid": "0x94ef37c9c4a43975:0xcf2f3a1d68131675",
+    "cid": "14929215187731027573",
+    "reviewsCount": null,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mega%20Obras%20e%20Reformas%20Guarapuava%20PR&query_place_id=ChIJdTmkxMk375QRdRYTaB06L88",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwaYy2cZZP3KfX5jCjl9HQXEH-0wqA9l7fX-RtCZ0ei_AIDKdM_tOaNZyXikTFDPfVUKGf6Ab7b2Ok9EyQ47cMJ5GGcUg01HycGRbH90gGvVR9XP6Fpwy48Wy-xJxkcLYcnXqAQA=w408-h397-k-no",
+    "kgmid": "/g/11q2lyz4ln",
+    "businessProfileId": null
+  },
+  {
+    "title": "SOUZA E SILVA reformas e construções.",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "General contractor",
+    "address": "R. Amazonas, n° 845 - Colonia Vitoria, Guarapuava - PR, 85108-000, Brazil",
+    "neighborhood": "Colonia Vitoria",
+    "street": "R. Amazonas, n° 845",
+    "city": "Guarapuava",
+    "postalCode": "85108-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99123-9040",
+    "phoneUnformatted": "+5542991239040",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.5794184,
+      "lng": -51.4861436
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv9-BCCtR75QRoM6mbBr2LaM",
+    "categories": [
+      "General contractor"
+    ],
+    "fid": "0x94ef512b0881dfbf:0xa32df61a6ca6cea0",
+    "cid": "11758324795486686880",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 2
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SOUZA%20E%20SILVA%20reformas%20e%20constru%C3%A7%C3%B5es.&query_place_id=ChIJv9-BCCtR75QRoM6mbBr2LaM",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepQ7liOz_qsVjEk9kwAfBmYsZbRlv6kga35I_UNSd5AAtaITD1-I0BCnN_E7JQR68ZEIYGpaaJfENiGKumdmxCM6cAR8XqQ7DjiiTzduw2EUNr8eVxH912ZS2WuEr5GzpoOop5=w408-h240-k-no",
+    "kgmid": "/g/11jljp4z9n",
+    "businessProfileId": "11692441715745932105"
+  },
+  {
+    "title": "Modell Construtora",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "Av. dos Lagos, 868 - Cidade dos Lagos, Guarapuava - PR, 85051-035, Brazil",
+    "neighborhood": "Cidade dos Lagos",
+    "street": "Av. dos Lagos, 868",
+    "city": "Guarapuava",
+    "postalCode": "85051-035",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://modellconstrutora.com.br/",
+    "phone": "+55 42 3304-6330",
+    "phoneUnformatted": "+554233046330",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3449348,
+      "lng": -51.4777725
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmzcFh9FJ75QRIsUIfg7Zfao",
+    "categories": [
+      "Construction company",
+      "Architect",
+      "Building consultant",
+      "Civil engineer",
+      "Earth works company",
+      "Electrical engineer",
+      "Engineer",
+      "Home builder",
+      "Remodeler"
+    ],
+    "fid": "0x94ef49d18705379b:0xaa7dd90e7e08c522",
+    "cid": "12285214014803854626",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 10
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Modell%20Construtora&query_place_id=ChIJmzcFh9FJ75QRIsUIfg7Zfao",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLVEDPIOY9_BL9NRb5wlniqKrzimuh6d5WA5zXi00gAILCXUU-Z9HXzZna_M0S89rr-f4u5cejMX23iv75CqdoG5WL1N4Q9tIrFkXTrBIENITx0SfvXyBXm31G-QTPEvyIuS7c=w426-h240-k-no",
+    "kgmid": "/g/11c52td48b",
+    "businessProfileId": "16847446524284020190"
+  },
+  {
+    "title": "Obra Forte Locações",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Tool rental service",
+    "address": "Av. Sebastião de Camargo Ribas - São Cristóvão, Guarapuava - PR, 85060-340, Brazil",
+    "neighborhood": "São Cristóvão",
+    "street": "Av. Sebastião de Camargo Ribas",
+    "city": "Guarapuava",
+    "postalCode": "85060-340",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99121-1105",
+    "phoneUnformatted": "+5542991211105",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3706581,
+      "lng": -51.4602113
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe4nUDwA375QRjFz9pssQbV8",
+    "categories": [
+      "Tool rental service"
+    ],
+    "fid": "0x94ef37000fd4897b:0x5f6d10cba6fd5c8c",
+    "cid": "6876170672930643084",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Obra%20Forte%20Loca%C3%A7%C3%B5es&query_place_id=ChIJe4nUDwA375QRjFz9pssQbV8",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV7W6ANMUqYQ-avF-HjQtMDNa9F_y7qAVud5WOU32T8QKHS0vHh-XO4n1dwBrIAlNmGaZWG5SbD0sw-x9RibhqAHH2MX_l537ZAo-6kQcQrT6zVUOFRXMDWdzcsj15remM2PVUTW4nssjV=w408-h408-k-no",
+    "kgmid": "/g/11xvlq61ng",
+    "businessProfileId": "10236837781619338917"
+  },
+  {
+    "title": "Construtora Gutierrez",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "R. Comendador Norberto, 430 - Centro - Centro, Guarapuava - PR, 85010-140, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Comendador Norberto, 430 - Centro",
+    "city": "Guarapuava",
+    "postalCode": "85010-140",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.construtoragutierrez.com.br/",
+    "phone": "+55 42 3622-6426",
+    "phoneUnformatted": "+554236226426",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3987472,
+      "lng": -51.466478
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPdP6vdg375QR-elAVvz2Rxg",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef37d8bdfad33d:0x1847f6fc5640e9f9",
+    "cid": "1749638543896013305",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Construtora%20Gutierrez&query_place_id=ChIJPdP6vdg375QR-elAVvz2Rxg",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4O3ZI3ZYSOSrI5MklFtuV9SRCIAeqdJ8xPqAae2cw0c4hEgErH0N6XRxArPVRvEa6_f-AOtlyuNylG9Fs7SAs8iIdKWo7QxCZEDSysuY0MfD274xLjKI4YXR2JJ6VSqWqJ6dx=w408-h272-k-no",
+    "kgmid": "/g/11qp54zcz2",
+    "businessProfileId": "13152187944491678241"
+  },
+  {
+    "title": "Fbm construção e reforma",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Event venue",
+    "address": "R. Francisco Missino - Guarapuava, PR, 85027-260, Brazil",
+    "neighborhood": "Guarapuava",
+    "street": "R. Francisco Missino",
+    "city": "Guarapuava",
+    "postalCode": "85027-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99870-4600",
+    "phoneUnformatted": "+5542998704600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4106777,
+      "lng": -51.4942387
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-Svc2Vg375QRsLCTz0C19Mc",
+    "categories": [
+      "Event venue"
+    ],
+    "fid": "0x94ef3758d9dc2bf9:0xc7f4b540cf93b0b0",
+    "cid": "14408340397830156464",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fbm%20constru%C3%A7%C3%A3o%20e%20reforma&query_place_id=ChIJ-Svc2Vg375QRsLCTz0C19Mc",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iklzwW3ciOUEyiG-7rf11A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=282.63287&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wmx86772",
+    "businessProfileId": "14140071135064866458"
+  },
+  {
+    "title": "Construtora Guaraenge Ltda",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "Av. Sebastião de Camargo Ribas, 1995 - Bonsucesso, Guarapuava - PR, 85055-000, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "Av. Sebastião de Camargo Ribas, 1995",
+    "city": "Guarapuava",
+    "postalCode": "85055-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.guaraenge.com.br/",
+    "phone": "+55 42 3624-3675",
+    "phoneUnformatted": "+554236243675",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3764087,
+      "lng": -51.4750108
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYVVVnVI275QRM8PvTDvjHGM",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef36529d555561:0x631ce33b4cefc333",
+    "cid": "7141832952936121139",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Construtora%20Guaraenge%20Ltda&query_place_id=ChIJYVVVnVI275QRM8PvTDvjHGM",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7sjfLtsvkKjw_fKLMSQ8lU27qHJ__z3g1pG0HVpgyxi23Se7WRcaTib1XDOgXwYUDIdKMtHcg01zZMJ5r0yzYOrRgBFUUPYoTpKCkWCnnvWIJv2fnEd42mo99hajF3vcWvXQ=w408-h306-k-no",
+    "kgmid": "/g/1tdyxj5w",
+    "businessProfileId": "6528634324957573177"
+  },
+  {
+    "title": "JL Construtura e Engenharia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "R. Palmira K Rocha, 260 - Bonsucesso, Guarapuava - PR, 85045-170, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Palmira K Rocha, 260",
+    "city": "Guarapuava",
+    "postalCode": "85045-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://jlconstrutoraengenharia.com.br/",
+    "phone": "+55 42 98818-5778",
+    "phoneUnformatted": "+5542988185778",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3758143,
+      "lng": -51.4753823
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoUnaea0375QRUkaDryqYyI4",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef37ad79da49a1:0x8ec8982aaf834652",
+    "cid": "10288640657828562514",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JL%20Construtura%20e%20Engenharia&query_place_id=ChIJoUnaea0375QRUkaDryqYyI4",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_wH4-uTn3VJ8v7kuFE12Pw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=64.827866&pitch=0&thumbfov=100",
+    "kgmid": "/g/11svj3x2cw",
+    "businessProfileId": null
+  },
+  {
+    "title": "Construart Materiais de Construção",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Building materials store",
+    "address": "Av. Paraná, 696 - Vila Carli, Guarapuava - PR, 85045-120, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "Av. Paraná, 696",
+    "city": "Guarapuava",
+    "postalCode": "85045-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3624-9882",
+    "phoneUnformatted": "+554236249882",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3724713,
+      "lng": -51.4815784
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb7x41qg375QRrhog1JtkMEc",
+    "categories": [
+      "Building materials store",
+      "Building materials market",
+      "Building materials supplier"
+    ],
+    "fid": "0x94ef37a8d678bc6f:0x4730649bd4201aae",
+    "cid": "5129710596016577198",
+    "reviewsCount": 353,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 4,
+      "threeStar": 16,
+      "fourStar": 53,
+      "fiveStar": 272
+    },
+    "imagesCount": 45,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Construart%20Materiais%20de%20Constru%C3%A7%C3%A3o&query_place_id=ChIJb7x41qg375QRrhog1JtkMEc",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWmfRTlI71Ce1w1bWAL7TZhttf98VcyQiE94ljHplCcPZVpQj1oqF2vURH6_L-Rnfd0JRXzKUJQHNfKrs2ulXjKf_S0iCFnPUbokPvO61lPupZcRqFE2X7xTlQn2faMRIgbu7xQVOFSyC7=w408-h544-k-no",
+    "kgmid": "/g/1tfh_rc1",
+    "businessProfileId": "8354549737563644363"
+  },
+  {
+    "title": "Flabel Construção Civil",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "Rua Capitão Frederico Virmond, 2401 - Centro, Guarapuava - PR, 85010-120, Brazil",
+    "neighborhood": "Centro",
+    "street": "Rua Capitão Frederico Virmond, 2401",
+    "city": "Guarapuava",
+    "postalCode": "85010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.flabel.com.br/",
+    "phone": "+55 42 3623-3935",
+    "phoneUnformatted": "+554236233935",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3967537,
+      "lng": -51.4670257
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfz8yKNA375QRbBSZulyOJmk",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef37d028323f7f:0x69268e5cba99146c",
+    "cid": "7576899952016168044",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 1,
+      "fiveStar": 14
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Flabel%20Constru%C3%A7%C3%A3o%20Civil&query_place_id=ChIJfz8yKNA375QRbBSZulyOJmk",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN89HLNJGt7kMEhibr-PuiMwmbvtGKq_9-VoE5MvIGQRaa7qTJMqPLccxrT97JLH2yBsNxdlTAU1PqJ19rce82e_AQNkwmCBHeHIg0-Rttiy2E1IvO18b4wx49Cq--p_LYEdy_=w408-h306-k-no",
+    "kgmid": "/g/1wd3x669",
+    "businessProfileId": "9868714284037171590"
+  },
+  {
+    "title": "Casa Gesso - Materiais para Construção a Seco",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Building materials store",
+    "address": "R. Conselheiro Jesuíno Marcondes, 2532 - Batel, Guarapuava - PR, 85015-294, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Conselheiro Jesuíno Marcondes, 2532",
+    "city": "Guarapuava",
+    "postalCode": "85015-294",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.casagesso.com/",
+    "phone": "+55 42 99973-8782",
+    "phoneUnformatted": "+5542999738782",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3925393,
+      "lng": -51.4790539
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE3sHswk375QR-wwcA0z8LJ8",
+    "categories": [
+      "Building materials store"
+    ],
+    "fid": "0x94ef3709b3077b13:0x9f2cfc4c031c0cfb",
+    "cid": "11469819754405694715",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 36
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Access": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM–12 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Gesso%20-%20Materiais%20para%20Constru%C3%A7%C3%A3o%20a%20Seco&query_place_id=ChIJE3sHswk375QR-wwcA0z8LJ8",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKvuyqn0c8tioSaikD39_qqGLIvkDIFmNc6KVaGjJhEV98e89svX6hHBZqJeTnCtt_TNo66L83k6OA3LTOuComOwNe6f9YAn3KcIH3Tj9h2mvPpjIFukERZcLfNkwli-bwFIC8R-absEQ=w408-h544-k-no",
+    "kgmid": "/g/11zx47skvl",
+    "businessProfileId": "7288362297778905685"
+  },
+  {
+    "title": "Construtora Schrader",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Custom home builder",
+    "address": "R. Azevedo Portugal, 1314 - Centro, Guarapuava - PR, 85010-200, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Azevedo Portugal, 1314",
+    "city": "Guarapuava",
+    "postalCode": "85010-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://bio.site/construtoraschrader?fbclid=PAZXh0bgNhZW0CMTEAAacu3_5yvJGFXu3I69XZqoYE_aN5IZZpC4tudGPKFaC-c6o9U9iRlHZT8jORrQ_aem_xu_LnznO4kumHaXPj8ea8A",
+    "phone": "+55 42 99125-9925",
+    "phoneUnformatted": "+5542991259925",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3858865,
+      "lng": -51.4677248
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcx4CF-w375QRccWnYMXEMKQ",
+    "categories": [
+      "Custom home builder",
+      "Architect",
+      "Civil engineer",
+      "Construction company",
+      "Interior architect office",
+      "Interior designer",
+      "Remodeler"
+    ],
+    "fid": "0x94ef37ec17021e73:0xa430c4c560a7c571",
+    "cid": "11831172573111502193",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Construtora%20Schrader&query_place_id=ChIJcx4CF-w375QRccWnYMXEMKQ",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetxwJ8iDREIR45XrV0MXDfUKLmWyU2yYy8Kuh6Zf7QFWfq7X2Jj1IgPq1D3yZ9ISmbsdTcjSSobuQCzKFgTsLuRYWEcedHtk_nABt7vdvL6VtQy7zpujgJJYc2JbCFJMgYdLZdoawnTR6V=w408-h491-k-no",
+    "kgmid": "/g/11st_bnhrv",
+    "businessProfileId": "18172308785819545441"
+  },
+  {
+    "title": "BENS Construtora e Incorporadora",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "R. São Paulo, 1835 - Dos Estados, Guarapuava - PR, 85035-000, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. São Paulo, 1835",
+    "city": "Guarapuava",
+    "postalCode": "85035-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.bensconstrutora.com.br/",
+    "phone": "+55 42 99108-9008",
+    "phoneUnformatted": "+5542991089008",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3849562,
+      "lng": -51.4789184
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy0Mizdw375QRd8USwiVbTTY",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef37dccd2243cb:0x364d5b25c212c577",
+    "cid": "3912883868982756727",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BENS%20Construtora%20e%20Incorporadora&query_place_id=ChIJy0Mizdw375QRd8USwiVbTTY",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_aF2DMleZHa47pCz-EXckmy8sGPJVU8loOX9lJlQ6B16cCamoW7qQ5HWuI2U_jelTaBDqUuKLWCyGsdm3RKBRlXl_NtxlTg0uR5gLPH5m0uMmwdfJM2txiwNfr3Iu6hesP8C2mjH7ZrTG=w426-h240-k-no",
+    "kgmid": "/g/11q95l3dv7",
+    "businessProfileId": "18439600116054612717"
+  },
+  {
+    "title": "Construtora GLF",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "R. Garoto da Gaita, 151 - Conradinho, Guarapuava - PR, 85055-390, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "R. Garoto da Gaita, 151",
+    "city": "Guarapuava",
+    "postalCode": "85055-390",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3623-0927",
+    "phoneUnformatted": "+554236230927",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3694736,
+      "lng": -51.4625136
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr80UvVA275QR2sEqgrfyMS4",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef3650bd14cdaf:0x2e31f2b7822ac1da",
+    "cid": "3328708469580284378",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Construtora%20GLF&query_place_id=ChIJr80UvVA275QR2sEqgrfyMS4",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QeScCACtYVBMSeLhaIyzlA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=58.474705&pitch=0&thumbfov=100",
+    "kgmid": "/g/1ptw1q1dp",
+    "businessProfileId": null
+  },
+  {
+    "title": "Pedrosa Edificações",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Construction company",
+    "address": "R. Quintino Bocaiúva, 602 - Trianon, Guarapuava - PR, 85012-290, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Quintino Bocaiúva, 602",
+    "city": "Guarapuava",
+    "postalCode": "85012-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.401784,
+      "lng": -51.4639094
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-Tk7iwE375QR-Mzb_yfoGdw",
+    "categories": [
+      "Construction company"
+    ],
+    "fid": "0x94ef37018b3b39f9:0xdc19e827ffdbccf8",
+    "cid": "15859962821255875832",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:29:38.171Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pedrosa%20Edifica%C3%A7%C3%B5es&query_place_id=ChIJ-Tk7iwE375QR-Mzb_yfoGdw",
+    "searchPageUrl": "https://www.google.com/maps/search/constru%C3%A7%C3%A3o%20e%20reforma%20Guarapuava%20PR?hl=en",
+    "searchString": "construção e reforma Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3Aq--NKU3iHKm7llL28QLb6OtzXp1hukT44qZOhnJfMu82WHOysykkUpFVeA5s4O_HdguuBpeWmoS9f2jflZ_v_3EfF_URVsgAr2kzn0TZIIi7YdkkdpEO6yx8aEZBX6V5n7S=w408-h725-k-no",
+    "kgmid": "/g/11w3xcr84f",
+    "businessProfileId": "17815021630952336768"
+  }
+]

@@ -1,0 +1,4080 @@
+[
+  {
+    "title": "Centro Estético Sculpt",
+    "subTitle": "Clínica de Estética Virtuosa - Ponta Grossa",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Col - R. Cel. Francisco Ribas, 240 - Centro, Ponta Grossa - PR, 84010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "Col - R. Cel. Francisco Ribas, 240",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98418-3750",
+    "phoneUnformatted": "+5542984183750",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0918985,
+      "lng": -50.1625996
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO9TvmJQb6JQRmlT8HI7eE8s",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b9498efd43b:0xcb13de8e1cfc549a",
+    "cid": "14633284316209894554",
+    "reviewsCount": 110,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 3,
+      "threeStar": 7,
+      "fourStar": 10,
+      "fiveStar": 83
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.221Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Centro%20Est%C3%A9tico%20Sculpt&query_place_id=ChIJO9TvmJQb6JQRmlT8HI7eE8s",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRsqMhCJN_gTKFV4Rh55eE2SKO4w_6oWdJtqJzn0_uQiESRR32Zm6yutQTRdGK1Vvcw6uIhJdEeXfNAkTjibfTPpGNo4jpL3PXVv7jZwyl02rAxSCnW5HuTQ9PbABMKKK5OYoDpQ=w408-h544-k-no",
+    "kgmid": "/g/11j6rv0fbn",
+    "businessProfileId": null
+  },
+  {
+    "title": "Emporium da Beleza Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Mal. Deodoro da Fonseca, 128 - Centro, Ponta Grossa - PR, 84010-030, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Mal. Deodoro da Fonseca, 128",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/emporiumdabeleza.pontagrossa",
+    "phone": "+55 42 99833-4545",
+    "phoneUnformatted": "+5542998334545",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.096938,
+      "lng": -50.1569217
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoS0AyGsb6JQREw_bMtCkIyI",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81b6bc8002da1:0x2223a4d032db0f13",
+    "cid": "2459991035587792659",
+    "reviewsCount": 155,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 153
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Emporium%20da%20Beleza%20Ponta%20Grossa&query_place_id=ChIJoS0AyGsb6JQREw_bMtCkIyI",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2ktvQ-3THga6qzy55gxbqpQENSsd7eYabH-YmdOQ2j-rCbNYTLw9SR9zILiF3i21DkDmzLPGb9zVJBlzlFm0l2nmr4hTpOT2D1Dv5OhjCvIDu_Ie5XyzynfweU-d-CavDHJoeOA=w408-h272-k-no",
+    "kgmid": "/g/11q9n_1c9w",
+    "businessProfileId": "6101956174827221386"
+  },
+  {
+    "title": "Clínica Corpo e Arte - Medicina e Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Cel. Dulcídio, 08 - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 08",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.clinicacea.com.br/",
+    "phone": "+55 42 3223-4101",
+    "phoneUnformatted": "+554232234101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1037809,
+      "lng": -50.159328
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3WvJ-lwa6JQRAclH_cKl0jk",
+    "categories": [
+      "Health and beauty shop",
+      "Doctor"
+    ],
+    "fid": "0x94e81a5cfac96bdd:0x39d2a5c2fd47c901",
+    "cid": "4166574862162708737",
+    "reviewsCount": 299,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 295
+    },
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Corpo%20e%20Arte%20-%20Medicina%20e%20Est%C3%A9tica&query_place_id=ChIJ3WvJ-lwa6JQRAclH_cKl0jk",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLel2RMXI_MbezYh3ZsB2zmTx7v552Zd-Go6jU23F26e3ZoP69T93AUncIL_4M0XRaVoKkJOCn3s13VMrHRosbwgniegYSXt_MrvqaiiVS5VpdAGeaOxmum2WTB3wNVeCSTUFia8=w408-h272-k-no",
+    "kgmid": "/g/11h0p3g9b",
+    "businessProfileId": "10986167879666424075"
+  },
+  {
+    "title": "Estética Sabres - Clínica de estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "Tv. Debret, 55 - Órfãs, Ponta Grossa - PR, 84070-100, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "Tv. Debret, 55",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98442-3165",
+    "phoneUnformatted": "+5542984423165",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0849892,
+      "lng": -50.1703064
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo1B0EiQb6JQR4RcCDng0RRM",
+    "categories": [
+      "Beautician"
+    ],
+    "fid": "0x94e81b24127450a3:0x134534780e0217e1",
+    "cid": "1388573750349404129",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 21
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Sabres%20-%20Cl%C3%ADnica%20de%20est%C3%A9tica&query_place_id=ChIJo1B0EiQb6JQR4RcCDng0RRM",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckAtcshUWCKNxpR7vzmhgwye28yMEdxgBFmrTRrSLiwRm00eqVcr1AnlWiF1V5SQITtMndpKr84HrEWS9rt5RBl6XU5V2iPXGt7yt5vY49PhN9pnkv7lPx67KsRB14z4I9CBsQia7dFxbJ=w408-h544-k-no",
+    "kgmid": "/g/11z2g1hwwt",
+    "businessProfileId": "1718443346059632221"
+  },
+  {
+    "title": "Dra Priscila Lachman - Estética Avançada e Saúde - Ponta Grossa- PR",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Nurse practitioner",
+    "address": null,
+    "neighborhood": null,
+    "street": null,
+    "city": null,
+    "postalCode": null,
+    "state": null,
+    "countryCode": null,
+    "website": "https://www.instagram.com/drapriscila.lachman?igsh=MWVhOXJ3c25pejQ2Zg==",
+    "phone": "+55 42 99931-1491",
+    "phoneUnformatted": "+5542999311491",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -14.4095262,
+      "lng": -51.3168626
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQb9P3bAb6JQRFCNnRYnZ1Yc",
+    "categories": [
+      "Nurse practitioner",
+      "Service establishment",
+      "Health spa"
+    ],
+    "fid": "0x94e81bb0dd4fbf41:0x87d5d98945672314",
+    "cid": "9787968548757775124",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 16
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra%20Priscila%20Lachman%20-%20Est%C3%A9tica%20Avan%C3%A7ada%20e%20Sa%C3%BAde%20-%20Ponta%20Grossa-%20PR&query_place_id=ChIJQb9P3bAb6JQRFCNnRYnZ1Yc",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxAYYWrT_d-QsZjfWIFTfolMWtPsMcvChrKSWoXJqwV8qnc20Lz3nM2_kcs46VmRFDvIP4n07Scv98oBJhLEoWqrNGWqIV29XH6ShqsOvHkZeYsthMuL8n3xlUMlsVDDwVXHT1=w408-h612-k-no",
+    "kgmid": "/g/11rfcd4y2g",
+    "businessProfileId": "7414591441335583772"
+  },
+  {
+    "title": "Ad Clinic - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Cel. Dulcídio, 1226 - Centro, Ponta Grossa - PR, 84010-045, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 1226",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-045",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3323-4276",
+    "phoneUnformatted": "+554233234276",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0902487,
+      "lng": -50.1618162
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK3uv10Ia6JQRDRHPWo-D6uE",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81a42d7af7b2b:0xe1ea838f5acf110d",
+    "cid": "16278968454811160845",
+    "reviewsCount": 552,
+    "reviewsDistribution": {
+      "oneStar": 35,
+      "twoStar": 11,
+      "threeStar": 26,
+      "fourStar": 26,
+      "fiveStar": 454
+    },
+    "imagesCount": 47,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ad%20Clinic%20-%20Ponta%20Grossa&query_place_id=ChIJK3uv10Ia6JQRDRHPWo-D6uE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQPDkb85LB9ySt702wyj8EHwX9XgzXm-eGp-tCtS8Owmf6nM0SLuh9zg1lZRsG1p4j7RLmTAg408Ak882sKC4z2QL13o4hVxbd1m3pu29MheRnDOLMyR5Eyf8oL1yg3JQ6n4Emf5Pdxk8=w408-h270-k-no",
+    "kgmid": "/g/11c67s66rw",
+    "businessProfileId": "2554642450915661971"
+  },
+  {
+    "title": "Giselle Bortolin Estética Avançada | Clínica Estética em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. João Gualberto, 381 - Colonia Dona Luiza, Ponta Grossa - PR, 84046-070, Brazil",
+    "neighborhood": "Colonia Dona Luiza",
+    "street": "R. João Gualberto, 381",
+    "city": "Ponta Grossa",
+    "postalCode": "84046-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://gisellebortolinesteticaavancadapg.querooferta.net.br/giselle-bortolin-estetica-avancada-harmonizacao-facial-em-ponta-grossa",
+    "phone": "+55 42 99914-2820",
+    "phoneUnformatted": "+5542999142820",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1364352,
+      "lng": -50.1685742
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJWGntr0a6JQRYzl_x4bALrM",
+    "categories": [
+      "Health and beauty shop",
+      "Hair removal service",
+      "Beautician",
+      "Massage spa",
+      "Nail salon",
+      "Sauna"
+    ],
+    "fid": "0x94e81abdb6a76125:0xb32ec086c77f3963",
+    "cid": "12911468866822945123",
+    "reviewsCount": 94,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 93
+    },
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Giselle%20Bortolin%20Est%C3%A9tica%20Avan%C3%A7ada%20%7C%20Cl%C3%ADnica%20Est%C3%A9tica%20em%20Ponta%20Grossa&query_place_id=ChIJJWGntr0a6JQRYzl_x4bALrM",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWX2VO7lQI2tsnSTVVcg05FbNRliTy6yzZ3TfsfNgSom_ZmsXVSYWVc77MBy0RTY-bJJUWE1cyaO6Vl8Pb8BSH52jbvNCKumrNQzL-DAjbSsN4KOmt4m0U5v8snjSFx9zt-hA35KvTsD25=w408-h272-k-no",
+    "kgmid": "/g/11fylldcz2",
+    "businessProfileId": "7470375666026830273"
+  },
+  {
+    "title": "La Bella Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. General Carlos Cavalcanti, 1255 - Uvaranas, Ponta Grossa - PR, 84025-000, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. General Carlos Cavalcanti, 1255",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99909-3400",
+    "phoneUnformatted": "+5542999093400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0911907,
+      "lng": -50.1399627
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSfItVD8b6JQRxfgNd_IIG3g",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b3f542df249:0x781b08f2770df8c5",
+    "cid": "8654520946395052229",
+    "reviewsCount": 37,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 34
+    },
+    "imagesCount": 54,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Bella%20Est%C3%A9tica&query_place_id=ChIJSfItVD8b6JQRxfgNd_IIG3g",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXygtZrk1dfe0XsxqBIG1ECyYdiEckcuc183LMGVUGAIG756qTYW6KG_cuz4L2J21NRvySUOqp41tmepibm7rlSlQoBUbbhzg1G59SFRje6J2zkBkCzC7ZGwNj3ufGsSl7TnIGKI0VEy0w=w408-h272-k-no",
+    "kgmid": "/g/11qnvn1l45",
+    "businessProfileId": "6039512305163940012"
+  },
+  {
+    "title": "Clínica Biavatti Ponta Grossa - Botox, Preenchimento, Estética e Bioestimulador de Colágeno",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Balduíno Taques, 1439 - Centro, Ponta Grossa - PR, 84010-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Balduíno Taques, 1439",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 2702-1873",
+    "phoneUnformatted": "+554227021873",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0871924,
+      "lng": -50.1650299
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUf8RfwIb6JQR4RfEu1POWrE",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81b027f11ff51:0xb15ace53bbc417e1",
+    "cid": "12779753751645001697",
+    "reviewsCount": 96,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 90
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Biavatti%20Ponta%20Grossa%20-%20Botox%2C%20Preenchimento%2C%20Est%C3%A9tica%20e%20Bioestimulador%20de%20Col%C3%A1geno&query_place_id=ChIJUf8RfwIb6JQR4RfEu1POWrE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMK2UB_fiawkOTnvt6_SGS3aFiWUlm9hIAaaNjP6Maxqoh8zOgHr6oNDJT0o2DHPjAVBTPkVfG40y0lEd5WfwpXhrVFvl4V2I0cwqkGST94vT6aDP2H6gh1e3UqCpQi5IZ9hI_=w408-h272-k-no",
+    "kgmid": "/g/11pdgnjg4r",
+    "businessProfileId": "17025728210773161337"
+  },
+  {
+    "title": "Dra Fernanda Milan | Longevidade Estética | Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Rua Quinze de Setembro, 1383 Jardim Conceição - Neves, Ponta Grossa - PR, 84020-050, Brazil",
+    "neighborhood": "Neves",
+    "street": "Rua Quinze de Setembro, 1383 Jardim Conceição",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/dra.fernandamilan",
+    "phone": "+55 42 99914-9149",
+    "phoneUnformatted": "+5542999149149",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0816859,
+      "lng": -50.1316825
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8wTd-FAb6JQRGX_BHz_QjsY",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b50f8dd04f3:0xc68ed03f1fc17f19",
+    "cid": "14307602035736936217",
+    "reviewsCount": 61,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 60
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra%20Fernanda%20Milan%20%7C%20Longevidade%20Est%C3%A9tica%20%7C%20Ponta%20Grossa&query_place_id=ChIJ8wTd-FAb6JQRGX_BHz_QjsY",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxVSkUllU8fOSHC8aYYaSRw2GaMnAFAoCKhV2JGIJOT2NYrU5NbK2ZifuKZc9WjHBOQTDdfBKtCOssy8EkPTsiXuH7ZgwllN_ocn2bpYE3zC6OaufkieumXEZYwKAhQxlQFlM=w408-h544-k-no",
+    "kgmid": "/g/11kq8ffffw",
+    "businessProfileId": "8494519925895552156"
+  },
+  {
+    "title": "Estética Essência da Pele",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. República da Argentina, 277 - Órfãs, Ponta Grossa - PR, 84015-410, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. República da Argentina, 277",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-410",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99107-3200",
+    "phoneUnformatted": "+5542991073200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0789752,
+      "lng": -50.1652095
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLVZ4W0Eb6JQR1c2OcfRuuSY",
+    "categories": [
+      "Health and beauty shop",
+      "Facial spa",
+      "Foot bath",
+      "Hair removal service",
+      "Laser hair removal service",
+      "Massage therapist",
+      "Wellness center"
+    ],
+    "fid": "0x94e81b415b78562d:0x26b96ef4718ecdd5",
+    "cid": "2790383440288992725",
+    "reviewsCount": 226,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 223
+    },
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Ess%C3%AAncia%20da%20Pele&query_place_id=ChIJLVZ4W0Eb6JQR1c2OcfRuuSY",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBce12_szI4bxunKESiRNgtk0dXWKnBnjSEo7e8zFscAd2bbkX9Wnf2ywNTFjSecO6WMDWvLZN3yph9n4HozYiWmui6RfwjooEOCpI2p5XZlFIfwyMMHSrLIHaJ1IzzG_fd-L_=w408-h307-k-no",
+    "kgmid": "/g/11fd4d213d",
+    "businessProfileId": "2229859050851870536"
+  },
+  {
+    "title": "Clínica Essense Esthetics",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Eusébio Batista Rosas, 683 - Jardim Carvalho, Ponta Grossa - PR, 84015-470, Brazil",
+    "neighborhood": "Jardim Carvalho",
+    "street": "Av. Eusébio Batista Rosas, 683",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-470",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99827-6975",
+    "phoneUnformatted": "+5542998276975",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0795568,
+      "lng": -50.1578577
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhQnfbd8b6JQR1VjTl5tJ3hM",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Doctor"
+    ],
+    "fid": "0x94e81bdf6ddf0985:0x13de499b97d358d5",
+    "cid": "1431662664166365397",
+    "reviewsCount": 40,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 40
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Essense%20Esthetics&query_place_id=ChIJhQnfbd8b6JQR1VjTl5tJ3hM",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_mVkzvhFbPVdYPWCch9Prfb6cypEgPRHx0LO4AjLAYHr19-hEfODOPeN5u2KDuUPRYsEgZQfFrFehhTNGk-QhBoVaIW08NnLgFQ_uyBgQ1U6LIvOC0MBFW5-TvoKSZHZ2KYro1PVKJvg6=w408-h306-k-no",
+    "kgmid": "/g/11ycz0kr73",
+    "businessProfileId": "11059453291940647187"
+  },
+  {
+    "title": "Clínica de Estética Avançada Dra Cris Assunção I Ponta Grossa Centro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Tiradentes, 377 - Centro, Ponta Grossa - PR, 84010-190, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tiradentes, 377",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99147-7035",
+    "phoneUnformatted": "+5542991477035",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0899852,
+      "lng": -50.1570891
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGZLtQ2gb6JQR6gJhw9ERj3c",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b6843ed9219:0x778f11d1c36102ea",
+    "cid": "8615124204806800106",
+    "reviewsCount": null,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Est%C3%A9tica%20Avan%C3%A7ada%20Dra%20Cris%20Assun%C3%A7%C3%A3o%20I%20Ponta%20Grossa%20Centro&query_place_id=ChIJGZLtQ2gb6JQR6gJhw9ERj3c",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUF6krgY8yRygLfef_CkTD-8IqoU6YDL45h5UUTbiDJJhAHb65LfSzyO3DNVk6ZPLr0CH7oUAsQAZtqfE5jtHTAAioVQ9oEnF9QbjA7IbyRBAE2mbvGn7L7BoPxZsknLovvsXkAr2hcQsy=w408-h408-k-no",
+    "kgmid": "/g/11yrcgnmsv",
+    "businessProfileId": "5467082860572033036"
+  },
+  {
+    "title": "L'Essence Saúde Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Quinze de Setembro, 184 - Uvaranas, Ponta Grossa - PR, 84020-050, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Quinze de Setembro, 184",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99901-4835",
+    "phoneUnformatted": "+5542999014835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0884803,
+      "lng": -50.1431276
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ717GxEoa6JQR33eezP4Wc5w",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81a4ac4c65eef:0x9c7316fecc9e77df",
+    "cid": "11273379575848925151",
+    "reviewsCount": 50,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 50
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=L'Essence%20Sa%C3%BAde%20Est%C3%A9tica&query_place_id=ChIJ717GxEoa6JQR33eezP4Wc5w",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRIKFqnAw5VQTnfxQRXTTntYuAKKvI4qtmQof6IPxSXGFP3zezmrFGaQyXdmVb2e_y227MDx-tnOcoF1w4LHElpVVsx9HsMUsGPomHP3hn0f1zWxx1dH4wYluRnLKCt-0IMv8BTw=w513-h240-k-no",
+    "kgmid": "/g/11b7t38trm",
+    "businessProfileId": "8047174668910413653"
+  },
+  {
+    "title": "Clínica Estética MagraSS Ponta Grossa, Emagrecimento, Criolipólise, Tratamento Gordura Localizada, Estria, Celulite, Enzimas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Weight loss service",
+    "address": "R. Dr. Paula Xavier, 1203 - Centro, Ponta Grossa - PR, 84010-270, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Dr. Paula Xavier, 1203",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.unidadesmagrass.com.br/ponta-grossa",
+    "phone": "+55 42 98807-1509",
+    "phoneUnformatted": "+5542988071509",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0985201,
+      "lng": -50.1617743
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXdmzWgIb6JQRH3KxlMf7lr8",
+    "categories": [
+      "Weight loss service",
+      "Health and beauty shop",
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81b025ab3d95d:0xbf96fbc794b1721f",
+    "cid": "13805498542362554911",
+    "reviewsCount": 185,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 182
+    },
+    "imagesCount": 93,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Est%C3%A9tica%20MagraSS%20Ponta%20Grossa%2C%20Emagrecimento%2C%20Criolip%C3%B3lise%2C%20Tratamento%20Gordura%20Localizada%2C%20Estria%2C%20Celulite%2C%20Enzimas&query_place_id=ChIJXdmzWgIb6JQRH3KxlMf7lr8",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdW071Hf_C7BG2wD8zkMs_n30PAQc0_NJ-Vgng1pTVGZ54usR5ujzpGhsABugF0t3O3JHhn9i2ngo7lEDauL6IUIM5mdGzOSzwSWsj80ZOO-y0rVeBhvXlgoBpjeUFeEh2OIvN_aSgsqDv8=w408-h272-k-no",
+    "kgmid": "/g/11lyjrg7vn",
+    "businessProfileId": "4315076702237146937"
+  },
+  {
+    "title": "Clínica Lavie - Ponta Grossa | Estética e Odontologia",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Siqueira Campos, 606 - Uvaranas, Ponta Grossa - PR, 84031-030, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. Siqueira Campos, 606",
+    "city": "Ponta Grossa",
+    "postalCode": "84031-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://soulavie.com.br/",
+    "phone": "+55 42 99931-4529",
+    "phoneUnformatted": "+5542999314529",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0984157,
+      "lng": -50.1262808
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-8Ufff8b6JQRWz5E0soR4MQ",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental laboratory",
+      "Dentist",
+      "Health spa",
+      "Laser hair removal service",
+      "Massage therapist",
+      "Tattoo removal service"
+    ],
+    "fid": "0x94e81bff7d1fc5fb:0xc4e011cad2443e5b",
+    "cid": "14186358389025816155",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Lavie%20-%20Ponta%20Grossa%20%7C%20Est%C3%A9tica%20e%20Odontologia&query_place_id=ChIJ-8Ufff8b6JQRWz5E0soR4MQ",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2af4SYJgdtEfhEJePcKeETpUTMhI6F7TVHqdSZ3wqG0DoO8CHxDXCexwvUV0EnBaOksgbvFJPDXb9RqOuTUWmn2rt2kopX9FQNx9LKtba87TkBcXernXoowULnNozyOg4TLeb7iiVvWo=w408-h725-k-no",
+    "kgmid": "/g/11mdxrczyw",
+    "businessProfileId": "13159520675193522546"
+  },
+  {
+    "title": "Homenz Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Cel. Dulcídio, 167 - Centro, Ponta Grossa - PR, 84010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Dulcídio, 167",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://homenzpg.com.br/",
+    "phone": "+55 42 99995-7052",
+    "phoneUnformatted": "+5542999957052",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0996407,
+      "lng": -50.1608199
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzdfnYeIb6JQRq0oZfYKmmIA",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81be261e7d7cd:0x8098a6827d194aab",
+    "cid": "9266339312689564331",
+    "reviewsCount": 87,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 2,
+      "fiveStar": 82
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Homenz%20Ponta%20Grossa&query_place_id=ChIJzdfnYeIb6JQRq0oZfYKmmIA",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjsvaZvCVtnLk5cUIuOPR8qCMW7whYrlxNn3IT_uiPk130q3gIlPsQNjg_M6eNCgoiX9EkDGzTpm-1f78KGdTasdxjdE85FZ4-CPgFquiTya1964yk8tHrVd-m-znRFO_kAe5E1acY1s8W=w408-h544-k-no",
+    "kgmid": "/g/11w7mhgtpp",
+    "businessProfileId": "15572199759694890858"
+  },
+  {
+    "title": "Glow Uniq Estética e Café",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Edifício Santos Dumont - R. Benjamin Constant, 01 - Sl 05 - Olarias, Ponta Grossa - PR, 84010-380, Brazil",
+    "neighborhood": "Olarias",
+    "street": "Edifício Santos Dumont - R. Benjamin Constant, 01 - Sl 05",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-380",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.glowuniq.com.br/",
+    "phone": "+55 42 98858-6594",
+    "phoneUnformatted": "+5542988586594",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1002848,
+      "lng": -50.1563202
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu_r7q_8b6JQRqCaWKQPE-K4",
+    "categories": [
+      "Health and beauty shop",
+      "Espresso bar",
+      "Pastry shop"
+    ],
+    "fid": "0x94e81bffabfbfabb:0xaef8c403299626a8",
+    "cid": "12608042674685355688",
+    "reviewsCount": 155,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 153
+    },
+    "imagesCount": 37,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Glow%20Uniq%20Est%C3%A9tica%20e%20Caf%C3%A9&query_place_id=ChIJu_r7q_8b6JQRqCaWKQPE-K4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1eB53ycAeGfYmLO35rN19ApTEqTEK1lOSNHdK-smthqdxKiQR4u-wkIh3vwa_2KYiboh34wo8Pj_gHzAEhxhc-pUJhKuqqGP_45bCboiu_0ClUREu7F3D8Uf8BWjY1TtdTBiu=w408-h509-k-no",
+    "kgmid": "/g/11vdszk3sj",
+    "businessProfileId": "15348511474006608491"
+  },
+  {
+    "title": "Estúdio TS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Cel. Francisco Ribas, n° 1696 - Órfãs, Ponta Grossa - PR, 84015-000, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Cel. Francisco Ribas, n° 1696",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://bit.ly/estudiocorpo",
+    "phone": "+55 42 99947-5537",
+    "phoneUnformatted": "+5542999475537",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0793088,
+      "lng": -50.1614878
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmZtWvgsb6JQRSDunYIMIvKs",
+    "categories": [
+      "Health and beauty shop",
+      "Facial spa",
+      "Reiki therapist",
+      "Specialized clinic",
+      "Tanning salon"
+    ],
+    "fid": "0x94e81b0bbe569b99:0xabbc088360a73b48",
+    "cid": "12374775236462590792",
+    "reviewsCount": 70,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 70
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%BAdio%20TS&query_place_id=ChIJmZtWvgsb6JQRSDunYIMIvKs",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xq4k1x4kCfLqsopj7JC8nQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=119.13593&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f9j8zb0d",
+    "businessProfileId": null
+  },
+  {
+    "title": "Clínica Monnyer Slusars I Estética Facial e Corporal em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Aldo Vergani, 334 - Oficinas, Ponta Grossa - PR, 84036-150, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Aldo Vergani, 334",
+    "city": "Ponta Grossa",
+    "postalCode": "84036-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://monnyerslusars.com.br/",
+    "phone": "+55 42 99872-5420",
+    "phoneUnformatted": "+5542998725420",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1201892,
+      "lng": -50.1515218
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjf1RjzcZ6JQRgZY5-5V0iM4",
+    "categories": [
+      "Specialized clinic",
+      "Beautician",
+      "Esthetics service",
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e819378f51fd8d:0xce887495fb399681",
+    "cid": "14882273156159608449",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 26
+    },
+    "imagesCount": 52,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:34.222Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Monnyer%20Slusars%20I%20Est%C3%A9tica%20Facial%20e%20Corporal%20em%20Ponta%20Grossa&query_place_id=ChIJjf1RjzcZ6JQRgZY5-5V0iM4",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "clínica de estética Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL0SpLczmw51iyjN35kURQfJnCRAhqKjS559cjXhmSIepdbVODv34SH7R1n3hfcqZBjej80_AWr_0pWFl1uhdY3chmWiPAovAHEsYCTKOXLhSei5fTomvlX8LZBfMrXPEOZY-b_QwF4NCL=w408-h544-k-no",
+    "kgmid": "/g/11y1vyq21c",
+    "businessProfileId": "4772531221636488131"
+  },
+  {
+    "title": "Claudia Almeida Estética Facial Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "R. Paranavaí, 101 - Uvaranas, Ponta Grossa - PR, 84025-170, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Paranavaí, 101",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99805-9924",
+    "phoneUnformatted": "+5542998059924",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.084738,
+      "lng": -50.1344246
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCa5v4Pcb6JQR6zydPLw8oz4",
+    "categories": [
+      "Beautician"
+    ],
+    "fid": "0x94e81bf7e06fae09:0x3ea33cbc3c9d3ceb",
+    "cid": "4513518030723824875",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Claudia%20Almeida%20Est%C3%A9tica%20Facial%20Avan%C3%A7ada&query_place_id=ChIJCa5v4Pcb6JQR6zydPLw8oz4",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_ytZhb7-NaU7T83QRGorCK2t9CMM5POh1kHp_obxRmG5YTN8qT4gjNwPFVv_dA08QP0n3p7JReElsfhBDzyaVZo26oHCKuqYdkNEHHx2KiKtm5g68O2tm6hlLmQ9FkajT2a136YEXLU8=w408-h725-k-no",
+    "kgmid": "/g/11njn_tw8v",
+    "businessProfileId": "8529737073775574623"
+  },
+  {
+    "title": "CJB ESTÉTICA AVANÇADA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Ercílio Slaviero, 16 - Boa Vista, Ponta Grossa - PR, 84073-210, Brazil",
+    "neighborhood": "Boa Vista",
+    "street": "R. Ercílio Slaviero, 16",
+    "city": "Ponta Grossa",
+    "postalCode": "84073-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/cjb.estetica?igsh=dDhlOTAzNDh5MGs4",
+    "phone": "+55 42 98406-4856",
+    "phoneUnformatted": "+5542984064856",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0545224,
+      "lng": -50.1593501
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlQKrLSwZ6JQRaz3xM0tXgj8",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e8192c2dab0295:0x3f82574b33f13d6b",
+    "cid": "4576316151867456875",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CJB%20EST%C3%89TICA%20AVAN%C3%87ADA&query_place_id=ChIJlQKrLSwZ6JQRaz3xM0tXgj8",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfShVweGb7S9RI_j493dqr1CKwD5c9i-ZybLKfzlFJ5maphbwfe9UqmQrBI4xkN-rAq8ODIy0ishE0Ee1Wfv0I-_ysv_DehyfaIY8fmhCGdZDAFjC6V2LlkH0Ev1szwuu-czfnOFVXkDpmY=w408-h510-k-no",
+    "kgmid": "/g/11z21d685f",
+    "businessProfileId": "17527564120205168272"
+  },
+  {
+    "title": "Paola Martins Estética Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. João Dubois, 312 - Oficinas, Ponta Grossa - PR, 84045-180, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. João Dubois, 312",
+    "city": "Ponta Grossa",
+    "postalCode": "84045-180",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99948-0475",
+    "phoneUnformatted": "+5542999480475",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.120815,
+      "lng": -50.1597196
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm0Efswob6JQRZL3VvYiOgfk",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b0ab31f419b:0xf9818e88bdd5bd64",
+    "cid": "17978807905391328612",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Paola%20Martins%20Est%C3%A9tica%20Avan%C3%A7ada&query_place_id=ChIJm0Efswob6JQRZL3VvYiOgfk",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLevK9EsphTBApD_-76ICWtpil-3l9MVuYsKiV0DziJKl477ZQX3U70eKQTtSJBl4P48OD7TzIpWEfKoCDis2F5KUT3c-uE1o8DgvkU1nERQEnQuhT-6wwbN6xxOsGaJ9AdX4jw0BCOQpGeY=w408-h713-k-no",
+    "kgmid": "/g/11npbhp_12",
+    "businessProfileId": "17046159752170962879"
+  },
+  {
+    "title": "Carla Ribeiro | Estética Corporal | Limpeza Facial em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Bento Ribeiro, 380 - Nova Rússia, Ponta Grossa - PR, 84010-020, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Bento Ribeiro, 380",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99812-7678",
+    "phoneUnformatted": "+5542998127678",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0820909,
+      "lng": -50.178946
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq3vTZJAb6JQRV5o4qMmvx8s",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician"
+    ],
+    "fid": "0x94e81b9064d37bab:0xcbc7afc9a8389a57",
+    "cid": "14683898390710360663",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 21
+    },
+    "imagesCount": 51,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carla%20Ribeiro%20%7C%20Est%C3%A9tica%20Corporal%20%7C%20Limpeza%20Facial%20em%20Ponta%20Grossa&query_place_id=ChIJq3vTZJAb6JQRV5o4qMmvx8s",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_W1ps3xAn2vjnPcmvuqsFSwKIWSKbCoWFPS4UqIjnheFFp0efcsyrEfrBXmoXuaL9OzQEWCed8YPR1yslrrySoX2JluvHJEhN98k2YuBH862hY5uxN6p2mYB1ohNgXdo8rkPPRsHm4m8h=w408-h272-k-no",
+    "kgmid": "/g/11ys52gznq",
+    "businessProfileId": "18341719628115787896"
+  },
+  {
+    "title": "Michele Amaral Harmonização Facial Ponta Grossa Paraná",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "Rua são Nicola 56 Santa Luzia - Chapada, Ponta Grossa - PR, 84063-300, Brazil",
+    "neighborhood": "Chapada",
+    "street": "Rua são Nicola 56 Santa Luzia",
+    "city": "Ponta Grossa",
+    "postalCode": "84063-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98408-1274",
+    "phoneUnformatted": "+5542984081274",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0674362,
+      "lng": -50.2080475
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNzFzNloX6JQRSWcyIvFgcpY",
+    "categories": [
+      "Beautician"
+    ],
+    "fid": "0x94e8175a36733137:0x967260f122326749",
+    "cid": "10840833841811318601",
+    "reviewsCount": 52,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 51
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Michele%20Amaral%20Harmoniza%C3%A7%C3%A3o%20Facial%20Ponta%20Grossa%20Paran%C3%A1&query_place_id=ChIJNzFzNloX6JQRSWcyIvFgcpY",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5BUTBpEwHuSEh6eCrLev3UoBpOoRIMuNJFhn8wpQT-BlaWdr-HUOWJN63AcZumoN6utBIgwzqodKdgKa285VOI2z2TTg8pTjL0uIA6jEZJhXcUxiFBe1yKteVgxLzFboVSTcLDL5RLwBt=w408-h725-k-no",
+    "kgmid": "/g/11r_v_cwl_",
+    "businessProfileId": "14270298406393033968"
+  },
+  {
+    "title": "Carla Blasius - Estética Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "Av. João Manoel dos Santos Ribas, 610 - Sl 122 - Nova Rússia, Ponta Grossa - PR, 84053-005, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "Av. João Manoel dos Santos Ribas, 610 - Sl 122",
+    "city": "Ponta Grossa",
+    "postalCode": "84053-005",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://carlablasiusestetica.com.br/",
+    "phone": "+55 42 99115-6290",
+    "phoneUnformatted": "+5542991156290",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0899644,
+      "lng": -50.1699428
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwQoTi7Yb6JQRrMpu_gLsMJ8",
+    "categories": [
+      "Beautician"
+    ],
+    "fid": "0x94e81bb68b130ac1:0x9f30ec02fe6ecaac",
+    "cid": "11470927748515416748",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carla%20Blasius%20-%20Est%C3%A9tica%20Avan%C3%A7ada&query_place_id=ChIJwQoTi7Yb6JQRrMpu_gLsMJ8",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9AQXCxzAWAXfNfZanpgzaHcz8qtEapMufrtP-NtwdhoCT32wm6XJh9nmx5vP-GqDDhuoe1VirphbCY5zn71poN7A3-YwioVKc1VYMYHkySi_Uytc4fWKNJHDjI0TFfc-2APd5TWAujpgl=w408-h612-k-no",
+    "kgmid": "/g/11ycbf5h_z",
+    "businessProfileId": "16153431717271089379"
+  },
+  {
+    "title": "Estética Aviva - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Rocha Pombo, 54 - Jardim Carvalho, Ponta Grossa - PR, 84016-000, Brazil",
+    "neighborhood": "Jardim Carvalho",
+    "street": "Av. Rocha Pombo, 54",
+    "city": "Ponta Grossa",
+    "postalCode": "84016-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://instagram.com/avivaestetica?igshid=YmMyMTA2M2Y=",
+    "phone": "+55 42 99914-9086",
+    "phoneUnformatted": "+5542999149086",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0866762,
+      "lng": -50.1541066
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM19C6NNm4CwR-XGyfi5MiV8",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x2ce066d3e8425f33:0x5f894c2e7eb271f9",
+    "cid": "6884117267990344185",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.242Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Aviva%20-%20Ponta%20Grossa&query_place_id=ChIJM19C6NNm4CwR-XGyfi5MiV8",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lTcOHWuu3j0QPO0zvlCk-Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=139.85042&pitch=3.3361673&thumbfov=100",
+    "kgmid": "/g/11sy3j80lv",
+    "businessProfileId": null
+  },
+  {
+    "title": "Clínica Vollare | Estética Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Nestor Guimarães, 77 - Estrela, Ponta Grossa - PR, 84040-130, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Nestor Guimarães, 77",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-130",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99986-0065",
+    "phoneUnformatted": "+5542999860065",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1032528,
+      "lng": -50.1589075
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCTgCDSsb6JQRX01b34gIW78",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b2b0d023809:0xbf5b0888df5b4d5f",
+    "cid": "13788624068080782687",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 18
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.243Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Vollare%20%7C%20Est%C3%A9tica%20Avan%C3%A7ada&query_place_id=ChIJCTgCDSsb6JQRX01b34gIW78",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLejcWGuqO_SzrFZu5i29EIfEztqzPC4NzrwRpM8R0XEKwUd7h5_-fLU24aeoT6KdouFDtfGHvg631DJQeLmme-AzkQcmIanONZ0ZfrF5aQiAv8u2lZ0gn8bOyu3LhLwY7lYY2QRwLjqdq_M=w408-h612-k-no",
+    "kgmid": "/g/11nr0ybrfk",
+    "businessProfileId": "11778714336253481008"
+  },
+  {
+    "title": "Dermo 360º - Estética Avançada Bio Ortomolecular e Cursos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Júlio de Castilho, 219 - Centro, Ponta Grossa - PR, 84010-220, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Júlio de Castilho, 219",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99823-4294",
+    "phoneUnformatted": "+5542998234294",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0871981,
+      "lng": -50.1576129
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMycXF4Qb6JQR8O277RheYjw",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81b8417172733:0x3c625e18edbbedf0",
+    "cid": "4351143651154062832",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 21
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.243Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dermo%20360%C2%BA%20-%20Est%C3%A9tica%20Avan%C3%A7ada%20Bio%20Ortomolecular%20e%20Cursos&query_place_id=ChIJMycXF4Qb6JQR8O277RheYjw",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjm3gEY4CF6ksjibzX-96ZO9blwQnSa0fCS3qs-rBXv-aN1Aunks41ylsLzH94R_qCiTLS1RKF5Ox6SXTh1FvVGshLpVmwh0HhTJ7yAhRkHzTUmUkvYByfaU9ACxVqn7VePvTc=w408-h306-k-no",
+    "kgmid": "/g/11nmjr2z7h",
+    "businessProfileId": "2762504407906988804"
+  },
+  {
+    "title": "Estética Avançada Solange de Almeida",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Padre Ildefonso, 475 Sala 26 - 2º Andar - Centro, Ponta Grossa - PR, 84010-620, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Ildefonso, 475 Sala 26 - 2º Andar",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-620",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98413-3309",
+    "phoneUnformatted": "+5542984133309",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0997527,
+      "lng": -50.1604743
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN3izYtMb6JQRx3_SPPEXeEs",
+    "categories": [
+      "Health and beauty shop",
+      "Specialized clinic"
+    ],
+    "fid": "0x94e81bd362b37837:0x4b7817f13cd27fc7",
+    "cid": "5438122874924859335",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.243Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Avan%C3%A7ada%20Solange%20de%20Almeida&query_place_id=ChIJN3izYtMb6JQRx3_SPPEXeEs",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zxPNktkNfMVAKd6mZXcMww&cb_client=search.gws-prod.grass&w=408&h=240&yaw=335.84717&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fjzw8qp3",
+    "businessProfileId": "7881647809334471754"
+  },
+  {
+    "title": "DIOMARA VIEIRA ESTÉTICA AVANÇADA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Amazonas, 215 - Estrela, Ponta Grossa - PR, 84040-160, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Amazonas, 215",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/diomaravieira.estetica?igsh=MW9jMzMyYXBoeGduMg==",
+    "phone": "+55 42 98856-9051",
+    "phoneUnformatted": "+5542988569051",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1060892,
+      "lng": -50.1616384
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI4hSFPQb6JQR3MvwtVMugJ0",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician"
+    ],
+    "fid": "0x94e81bf414528823:0x9d802e53b5f0cbdc",
+    "cid": "11349121998043270108",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 53,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.243Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DIOMARA%20VIEIRA%20EST%C3%89TICA%20AVAN%C3%87ADA&query_place_id=ChIJI4hSFPQb6JQR3MvwtVMugJ0",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemheMlAqT31eChifSPT3C0Rlgg-MzbS9hSkyf5M9TN0gbhMyJYn0Iqqc91h3UZtVNQxTSZ7tDcfeXUYyaiRts0caG_ZFSeEihGE7SYu9nvHk8FHFXnasXF3Y9HsZwNxlp5LR5WZmWD8UQj=w408-h306-k-no",
+    "kgmid": "/g/11xyp979ms",
+    "businessProfileId": "11446767366095741621"
+  },
+  {
+    "title": "Gabriela Muchau - Estética Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Nicolau Kluppel Neto, 1112 - 2° andar - Contorno, Ponta Grossa - PR, 84061-000, Brazil",
+    "neighborhood": "Contorno",
+    "street": "R. Nicolau Kluppel Neto, 1112 - 2° andar",
+    "city": "Ponta Grossa",
+    "postalCode": "84061-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/dra.gabrielamuchau/",
+    "phone": "+55 42 98871-0440",
+    "phoneUnformatted": "+5542988710440",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0977872,
+      "lng": -50.2011956
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2R8me-Eb6JQRNo3riSe_9pY",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94e81be17b261fd9:0x96f6bf2789eb8d36",
+    "cid": "10878092126498557238",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:38.243Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gabriela%20Muchau%20-%20Est%C3%A9tica%20Avan%C3%A7ada&query_place_id=ChIJ2R8me-Eb6JQRNo3riSe_9pY",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética avançada Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdkGRR6ZqlPlvMOW1ieKsV7C4uhi0kwi8SWA5P8hp-bqTCd-tQzwDpuNOl17tLq1MVnDjprmAoUgHbhwhPetAQMLpkA2cie5IRTvn4eOQU2Uj2ioGgUwPoYVa7GCkToguelRnSW2sN2x4R=w426-h240-k-no",
+    "kgmid": "/g/11z4mflfhm",
+    "businessProfileId": "14113789603321131359"
+  },
+  {
+    "title": "Lu estética facial e corporal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "R. Santa Rita, 140 - Casa 118 - Cará-Cará, Ponta Grossa - PR, 84033-170, Brazil",
+    "neighborhood": "Cará-Cará",
+    "street": "R. Santa Rita, 140 - Casa 118",
+    "city": "Ponta Grossa",
+    "postalCode": "84033-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98433-2325",
+    "phoneUnformatted": "+5542984332325",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1223946,
+      "lng": -50.1063197
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJISXQaJMb6JQRGEQ1v_vsz6I",
+    "categories": [
+      "Beautician",
+      "Beauty salon",
+      "Facial spa",
+      "Massage spa",
+      "Specialized clinic",
+      "Hairdresser"
+    ],
+    "fid": "0x94e81b9368d02521:0xa2cfecfbbf354418",
+    "cid": "11731856120312316952",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:54.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 to 11 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lu%20est%C3%A9tica%20facial%20e%20corporal&query_place_id=ChIJISXQaJMb6JQRGEQ1v_vsz6I",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética facial e corporal Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0Qf5zCoQkT3nxV0VHDql3nfII9V4ntfZN_xrca9dpwXk2lgIOQUFVq8xPyZSRVwBh3E2KXFsO1XITRDvy-74dOM2CLs14pLar0f2oGPDqqLjIgf9Hg71j6J9WL-4GLMJbeMp0vbLML6Ti=w408-h612-k-no",
+    "kgmid": "/g/11z5_n5p3g",
+    "businessProfileId": "547752678998250992"
+  },
+  {
+    "title": "Ingrid Bergmann Estética Facial e Corporal",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "R. Medeiros de Albuquerque, 382 - Oficinas, Ponta Grossa - PR, 84035-390, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Medeiros de Albuquerque, 382",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-390",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/ingridbergmann.estetica?igsh=MTJvOG0xdnl6c2xwaw==",
+    "phone": "+55 42 99900-6081",
+    "phoneUnformatted": "+5542999006081",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1100115,
+      "lng": -50.1548178
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIdy2KBEb6JQRKoNuu2UgE54",
+    "categories": [
+      "Beautician"
+    ],
+    "fid": "0x94e81b1128b6dc21:0x9e132065bb6e832a",
+    "cid": "11390483503858484010",
+    "reviewsCount": 53,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 53
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:54.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ingrid%20Bergmann%20Est%C3%A9tica%20Facial%20e%20Corporal&query_place_id=ChIJIdy2KBEb6JQRKoNuu2UgE54",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética facial e corporal Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LiPw9Mh6JgJnEgqYKmRMRw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=120.66933&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fl7fygdx",
+    "businessProfileId": "4478070079351740542"
+  },
+  {
+    "title": "Dra Carla Guarnieri | Harmonização Facial e Corporal Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Esthetics service",
+    "address": "Av. Ernesto Viléla, 1012 - sala 2 - Nova Rússia, Ponta Grossa - PR, 84070-000, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "Av. Ernesto Viléla, 1012 - sala 2",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/dracarlaguarnieri",
+    "phone": "+55 42 99918-5699",
+    "phoneUnformatted": "+5542999185699",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0855145,
+      "lng": -50.1746041
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyb80MQAb6JQRm5cyP3w0vxU",
+    "categories": [
+      "Esthetics service"
+    ],
+    "fid": "0x94e81b003134bfc9:0x15bf347c3f32979b",
+    "cid": "1567028903589091227",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:54.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra%20Carla%20Guarnieri%20%7C%20Harmoniza%C3%A7%C3%A3o%20Facial%20e%20Corporal%20Ponta%20Grossa&query_place_id=ChIJyb80MQAb6JQRm5cyP3w0vxU",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética facial e corporal Ponta Grossa PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy0KUALrO6NVJQaua9t7nVTbHe1odZapitUh2d40QCqPLs7PgU8V60CfeL2BFkIYWHw_U4QiXwM46Etbpcfxgse475PNzNufcbzdrg100-JIYKJe8zschcNaaczDzkfZKlyGYZC-8NQyQ=w408-h271-k-no",
+    "kgmid": "/g/11vps2v81z",
+    "businessProfileId": "5000914532551750015"
+  },
+  {
+    "title": "Fisio Slim Saúde e Estética - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Laser hair removal service",
+    "address": "R. Cerejeira, 534 - Contorno, Ponta Grossa - PR, 84061-210, Brazil",
+    "neighborhood": "Contorno",
+    "street": "R. Cerejeira, 534",
+    "city": "Ponta Grossa",
+    "postalCode": "84061-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://api.whatsapp.com/send?phone=5542998095553&text=Ol%C3%A1!%20Te%20achei%20no%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.",
+    "phone": "+55 42 3238-4778",
+    "phoneUnformatted": "+554232384778",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.097421,
+      "lng": -50.2041455
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc3LLPmgR6JQRTPL73PFmK8M",
+    "categories": [
+      "Laser hair removal service",
+      "Beauty salon",
+      "Hair removal service",
+      "Health and beauty shop",
+      "Specialized clinic"
+    ],
+    "fid": "0x94e811683ecb7273:0xc32b66f1dcfbf24c",
+    "cid": "14063447450375156300",
+    "reviewsCount": 41,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 41
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:54.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fisio%20Slim%20Sa%C3%BAde%20e%20Est%C3%A9tica%20-%20Ponta%20Grossa&query_place_id=ChIJc3LLPmgR6JQRTPL73PFmK8M",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética facial e corporal Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-JoeHR-p7_VL-3l6dcPmqItifTf9C5mIy8fO3QbtpMTCUtyB4xScWOvDgZpspEhulpgd3ADuRem56_CRtLUIOdQNzA1ELkWN3OhvQTMa1kr16L00EqlbNzaYr9xrMCUaWXsb0LA=w408-h544-k-no",
+    "kgmid": "/g/11nxcfpysc",
+    "businessProfileId": "12969535009209523593"
+  },
+  {
+    "title": "Patty Belli | SPA | Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beauty salon",
+    "address": "R. Bahia, 123 - Nova Rússia, Ponta Grossa - PR, 84070-300, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Bahia, 123",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://pattybelli.com.br/",
+    "phone": "+55 42 3025-3749",
+    "phoneUnformatted": "+554230253749",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0857939,
+      "lng": -50.1750428
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK2M2DQUa6JQRbsYI76uCrTo",
+    "categories": [
+      "Beauty salon",
+      "Facial spa",
+      "Spa"
+    ],
+    "fid": "0x94e81a050d36632b:0x3aad82abef08c66e",
+    "cid": "4228179300132111982",
+    "reviewsCount": 90,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 83
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:54.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Patty%20Belli%20%7C%20SPA%20%7C%20Est%C3%A9tica&query_place_id=ChIJK2M2DQUa6JQRbsYI76uCrTo",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética facial e corporal Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZFNtGrCu-OlWg6xcW4wDLwKA6Fm0uZYZZu-iey6LUHaBjobZgsHZIIOmtizVaSw7_3tKvc9V2MPDMRJxkw4PjdS4whgTh3aZKihxy9wAauUfxatlLybMmnKThElE8RfgaYoWV=w408-h408-k-no",
+    "kgmid": "/g/11csqjpcrv",
+    "businessProfileId": "544608958709353343"
+  },
+  {
+    "title": "Estética Flor da Pele",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Esthetics service",
+    "address": "R. Barão de Capanema, 886 - Órfãs, Ponta Grossa - PR, 84070-290, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Barão de Capanema, 886",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://beacons.ai/clinicaesteticaflordapele",
+    "phone": "+55 42 98434-6370",
+    "phoneUnformatted": "+5542984346370",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.07912,
+      "lng": -50.170516
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ-ClcUIb6JQRxMFRCC6Ox74",
+    "categories": [
+      "Esthetics service",
+      "Health and beauty shop",
+      "Health spa",
+      "Wellness center"
+    ],
+    "fid": "0x94e81b4271a5e027:0xbec78e2e0851c1c4",
+    "cid": "13747112715930943940",
+    "reviewsCount": 41,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 41
+    },
+    "imagesCount": 65,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:17:54.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Est%C3%A9tica%20Flor%20da%20Pele&query_place_id=ChIJJ-ClcUIb6JQRxMFRCC6Ox74",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "estética facial e corporal Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTNTu1p6jbf1yo3RWCx3IAq2xftpAx4X8hByEk3YQ-zRxLQXxZShLd9znb61HqaQw3-WA0-xfjSkwsh0LjGtY0XkDdhHlv1Rm8uoG0SmxApVS7pI9h-WBuRMG7YbJeYNPNcKoiUVLIs0Dk=w408-h510-k-no",
+    "kgmid": "/g/11h51218lc",
+    "businessProfileId": "17769883164245825866"
+  }
+]

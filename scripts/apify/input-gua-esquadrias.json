@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "esquadrias de aço Guarapuava PR",
+    "portas de aço Guarapuava PR",
+    "esquadrias de alumínio Guarapuava PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

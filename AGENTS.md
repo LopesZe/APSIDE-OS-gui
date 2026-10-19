@@ -155,6 +155,13 @@ Quando o usuário pedir imagens (posts, capas, thumbnails, cards):
 | leitura de PNG devolveu frame errado/stale (parecia vídeo quebrado quando estava certo) | validar com PSNR (`ffmpeg -lavfi psnr` vs render live) e medição de pixels por região | PSNR ≥35 dB = mesmo frame; ~12 dB = controle. Nunca concluir verificação visual só pelo read |
 | ffmpeg Windows: `-pattern_type glob` não existe e decimal pt-BR quebra args | `%04d` + `-start_number`; sempre ponto decimal | frames sempre em temp, apagados após o encode |
 
+### APIs JSON com acento via PowerShell (ref: sessão 2026-10-19)
+
+| Erro | Correção | Regra |
+|---|---|---|
+| `Invoke-RestMethod -Body $string` no PowerShell 5.1 envia em ANSI → JSON com acento chega corrompido (`est?tica`, `harmoniza??o`) → provedor não acha a keyword e cobra mesmo assim | `$bytes = [Text.Encoding]::UTF8.GetBytes($body)` + `-ContentType "application/json; charset=utf-8"` + `-Body $bytes` | POST/PUT JSON com acento via PowerShell sempre em bytes UTF-8 |
+| Keywords sem acento digitadas "como o usuário digita" não têm dado no DataForSEO (o provedor guarda a forma canonizada com acento) | testar as duas formas só quando fizer sentido; cobrar a canônica | volume de keyword: a forma COM acento é a que tem dado |
+
 ---
 
 ## Perfil do negócio

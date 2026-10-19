@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "clínica odontológica Ponta Grossa PR",
+    "dentista Ponta Grossa PR",
+    "clínica dentária Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

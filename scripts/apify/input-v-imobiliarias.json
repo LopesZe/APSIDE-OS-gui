@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "imobiliária Ponta Grossa PR",
+    "imobiliária Castro PR",
+    "administradora de imóveis Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

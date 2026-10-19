@@ -1,0 +1,5257 @@
+[
+  {
+    "title": "MISTER CAR PEÇAS ACESSÓRIOS FUNILARIA REPARAÇÃO E PINTURA AUTOMOTIVA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto bodywork mechanic",
+    "address": "R. Saldanha Marinho, 2222 - Centro, Guarapuava - PR, 85010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Saldanha Marinho, 2222",
+    "city": "Guarapuava",
+    "postalCode": "85010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3623-2758",
+    "phoneUnformatted": "+554236232758",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3904177,
+      "lng": -51.4742708
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2-vRacs375QR1_o9zl4Bdjs",
+    "categories": [
+      "Auto bodywork mechanic",
+      "Auto painting",
+      "Auto parts store",
+      "Auto restoration service",
+      "Car accessories store",
+      "Used auto parts store"
+    ],
+    "fid": "0x94ef37cb69d1ebdb:0x3b76015ece3dfad7",
+    "cid": "4284613602188327639",
+    "reviewsCount": 50,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 49
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.432Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MISTER%20CAR%20PE%C3%87AS%20ACESS%C3%93RIOS%20FUNILARIA%20REPARA%C3%87%C3%83O%20E%20PINTURA%20AUTOMOTIVA&query_place_id=ChIJ2-vRacs375QR1_o9zl4Bdjs",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZqTDT53yQzIGXYAuNeILB1X5Y6j3hJjIMz3EvLwKRStv48pT22xZ-wvUufadOZz9RYJbm4g1B7O-RmpnB9pYQXmfAQqjs4C7s0q-Ay5qTzyriuOaAg0ixTGT4thqPKBrru-DylwGHonc=w426-h240-k-no",
+    "kgmid": "/g/11hb5q7921",
+    "businessProfileId": "10408329171719182830"
+  },
+  {
+    "title": "Renovacar Pintura Automotiva",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Francisco Missino, 500 - Vila Bela, Guarapuava - PR, 85027-260, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "R. Francisco Missino, 500",
+    "city": "Guarapuava",
+    "postalCode": "85027-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.rededobem.net/renovacar-pintura-automotiva",
+    "phone": "+55 42 99932-5359",
+    "phoneUnformatted": "+5542999325359",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4104163,
+      "lng": -51.4949245
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-ZRl598375QRuNIIm24eslY",
+    "categories": [
+      "Auto repair shop",
+      "Painting"
+    ],
+    "fid": "0x94ef37dfe76594f9:0x56b21e6e9b08d2b8",
+    "cid": "6247089093512581816",
+    "reviewsCount": 67,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 3,
+      "fourStar": 14,
+      "fiveStar": 46
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Renovacar%20Pintura%20Automotiva&query_place_id=ChIJ-ZRl598375QRuNIIm24eslY",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iiXnRUH8DFDQ4GmxccE1SA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=225.78474&pitch=-1.752104&thumbfov=100",
+    "kgmid": "/g/11dyngcjp5",
+    "businessProfileId": "10664816786996452306"
+  },
+  {
+    "title": "Alecar Funilaria Automotiva",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto bodywork mechanic",
+    "address": "R. Dr. Mario Augusto Teixeira Freitas, 57 - Vila Bela, Guarapuava - PR, 85027-140, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "R. Dr. Mario Augusto Teixeira Freitas, 57",
+    "city": "Guarapuava",
+    "postalCode": "85027-140",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/alexandrer._santos/",
+    "phone": "+55 42 99991-7811",
+    "phoneUnformatted": "+5542999917811",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.399897,
+      "lng": -51.4939918
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ69dRVwA375QRdOUk4unEtKg",
+    "categories": [
+      "Auto bodywork mechanic"
+    ],
+    "fid": "0x94ef37005751d7eb:0xa8b4c4e9e224e574",
+    "cid": "12156557802980304244",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alecar%20Funilaria%20Automotiva&query_place_id=ChIJ69dRVwA375QRdOUk4unEtKg",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciunWRjtVD2ajrXsrz9NZYuiBr3v5LsHmZTdKnKMOnEjwB_hos3D2hctf31KCGtwsRf3ln0MEfIbuhSQ76xYTS3ZSnB0P9Dqr3UYCyZQVaE6kKMK35mUyV1cz44KlUifBj9SzdA7kLaihz=w408-h306-k-no",
+    "kgmid": "/g/11mz9vby7_",
+    "businessProfileId": null
+  },
+  {
+    "title": "Autocar funilaria e pintura",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto bodywork mechanic",
+    "address": "R. Tiradentes, 1248 - Centro, Guarapuava - PR, 85010-310, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Tiradentes, 1248",
+    "city": "Guarapuava",
+    "postalCode": "85010-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98409-0707",
+    "phoneUnformatted": "+5542984090707",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3951307,
+      "lng": -51.4719548
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4_2qyY0375QRPlAZbsdmbvA",
+    "categories": [
+      "Auto bodywork mechanic"
+    ],
+    "fid": "0x94ef378dc9aafde3:0xf06e66c76e19503e",
+    "cid": "17324897823272554558",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Autocar%20funilaria%20e%20pintura&query_place_id=ChIJ4_2qyY0375QRPlAZbsdmbvA",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLpqIX02Cx9DhAFvh8WTxOoIfqXrhLhAWoZ_FJ0CF-90Tyys2bBOrZ3_5J1IwUHw9aWHc4ECC8AnP4QhrO3XWeyPt1Bag0SZjPYyxdHcGWo5ZshJiFYZspnM0fwPv2rELAg3tdm7erGZFF=w408-h725-k-no",
+    "kgmid": "/g/11z2g3zqjn",
+    "businessProfileId": "1989071669214138718"
+  },
+  {
+    "title": "BM Pintura Automotiva",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto painting",
+    "address": "R. Afonso Botelho, 1737 - Trianon, Guarapuava - PR, 85015-000, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Afonso Botelho, 1737",
+    "city": "Guarapuava",
+    "postalCode": "85015-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://bm-pintura-automotiva.winnerss.club/",
+    "phone": "+55 42 99912-0678",
+    "phoneUnformatted": "+5542999120678",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4077455,
+      "lng": -51.469174
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdaCj0iM275QRGy4iJ71wMi0",
+    "categories": [
+      "Auto painting"
+    ],
+    "fid": "0x94ef3623d2a3a075:0x2d3270bd27222e1b",
+    "cid": "3256789438249971227",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 7
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BM%20Pintura%20Automotiva&query_place_id=ChIJdaCj0iM275QRGy4iJ71wMi0",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbU4Manhx4aQgtwCTrs0w-ZphcerPmrnNKVzYln_hjWEZe_KEHEQi6_44M8Pui44s-gHEW05DrwOvPClGNB-cHsxkTBq3BUh0hvaEI91OhPUAZIZc8mmNvkmOS0Aso-mpErAQMpg=w408-h326-k-no",
+    "kgmid": "/g/11fxvp0wnb",
+    "businessProfileId": "3813047201885861810"
+  },
+  {
+    "title": "JTK Renovadora de Veículos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto bodywork mechanic",
+    "address": "R. Afonso Botelho, 866 - Trianon, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Afonso Botelho, 866",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99994-8860",
+    "phoneUnformatted": "+5542999948860",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.402085,
+      "lng": -51.4632566
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb1rhOSI375QRoOwh6lVlE-0",
+    "categories": [
+      "Auto bodywork mechanic",
+      "Auto painting"
+    ],
+    "fid": "0x94ef372239e15a6f:0xed136555ea21eca0",
+    "cid": "17083109231221140640",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JTK%20Renovadora%20de%20Ve%C3%ADculos&query_place_id=ChIJb1rhOSI375QRoOwh6lVlE-0",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSYmAdDR284yPdAZrJOCizYBRwwLgUxDFcBzwCH8xsb6IpRD1TXqJIQ_7fxv4zpa-rCS8GPSCZZLlNapsCWwnw-mBq8QVMffaGymgMu60y2rHIvyjCLjrm21Rurqkn9GoL2IkjUTo6kjez=w408-h725-k-no",
+    "kgmid": "/g/11xt2y9wjw",
+    "businessProfileId": "5301086808170698633"
+  },
+  {
+    "title": "Recar Recuperadora de Veículos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto bodywork mechanic",
+    "address": "R. Arizona, 577 - Morro Alto, Guarapuava - PR, 85067-080, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "R. Arizona, 577",
+    "city": "Guarapuava",
+    "postalCode": "85067-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/recargp",
+    "phone": "+55 42 99901-5374",
+    "phoneUnformatted": "+5542999015374",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3760223,
+      "lng": -51.4408454
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMzwzBys375QRQBP9MypeTQo",
+    "categories": [
+      "Auto bodywork mechanic"
+    ],
+    "fid": "0x94ef372b07333c33:0xa4d5e2a33fd1340",
+    "cid": "742353048939860800",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 13
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Recar%20Recuperadora%20de%20Ve%C3%ADculos&query_place_id=ChIJMzwzBys375QRQBP9MypeTQo",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rjIEmJRHRJ4n_nZUub0YZw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=144.02837&pitch=0&thumbfov=100",
+    "kgmid": "/g/11jr30phb8",
+    "businessProfileId": "1975449784092152167"
+  },
+  {
+    "title": "MARTELINHO DE OURO E ESCAPAMENTOS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Cap. Rocha, 3271 - Bonsucesso, Guarapuava - PR, 85035-170, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Cap. Rocha, 3271",
+    "city": "Guarapuava",
+    "postalCode": "85035-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99857-9014",
+    "phoneUnformatted": "+5542998579014",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3833163,
+      "lng": -51.4797851
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW1-heCY375QR3IHgHKXjXuQ",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef372678a15f5b:0xe45ee3a51ce081dc",
+    "cid": "16455840386751955420",
+    "reviewsCount": 62,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 7,
+      "fourStar": 8,
+      "fiveStar": 41
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MARTELINHO%20DE%20OURO%20E%20ESCAPAMENTOS&query_place_id=ChIJW1-heCY375QR3IHgHKXjXuQ",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtnT3BTdpu0ZFN4R66XfJCA5xu69nKmQmuuw6O5LAt3VWWLgmTs1_1AEAjDIWt0vcEWMJNg11ibKnKILqjNLgbt6P4LF4JWj5NvPhlAWdt5LUg1ibG5QZTjfy-Y2k5xGTdSFam=w428-h240-k-no",
+    "kgmid": "/g/11gmcw2l1d",
+    "businessProfileId": "6824628395094256242"
+  },
+  {
+    "title": "Ponto Pneu Lataria e Pintura",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto painting",
+    "address": "Av. Ver. Serafim Ribas, 3627 - Santa Cruz, Guarapuava - PR, 85023-500, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "Av. Ver. Serafim Ribas, 3627",
+    "city": "Guarapuava",
+    "postalCode": "85023-500",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98404-7980",
+    "phoneUnformatted": "+5542984047980",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4061341,
+      "lng": -51.4721199
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe_06nmc375QR1FbRXCwEeHQ",
+    "categories": [
+      "Auto painting"
+    ],
+    "fid": "0x94ef37679e3afd7b:0x7478042c5cd156d4",
+    "cid": "8392462494187214548",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ponto%20Pneu%20Lataria%20e%20Pintura&query_place_id=ChIJe_06nmc375QR1FbRXCwEeHQ",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSzBf_sfog_BdEdxZa_ZpYYldoip1NSdtHPC9tvUAE7TlQzuzL-_FOYAGNBzP59Ra2KtkGmP80dCGIPG7Nren_ViRouUODl3DfCQhvho1NGOBgBMjJiZZ0wLRNKYTlpxLUzfOO=w408-h306-k-no",
+    "kgmid": "/g/11tk94f9wg",
+    "businessProfileId": "9768693603126748342"
+  },
+  {
+    "title": "Adrifer Centro Automotivo - Oficina funilaria, pintura e mecânica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto painting",
+    "address": "Av. Bento Munhoz da Rocha Neto, 2706 - Bela Vista, Guarapuava - PR, 85053-110, Brazil",
+    "neighborhood": "Bela Vista",
+    "street": "Av. Bento Munhoz da Rocha Neto, 2706",
+    "city": "Guarapuava",
+    "postalCode": "85053-110",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.adrifer.com.br/",
+    "phone": "+55 42 3623-0787",
+    "phoneUnformatted": "+554236230787",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3440722,
+      "lng": -51.4902625
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvX7M1D0275QRe4R9klO2dwc",
+    "categories": [
+      "Auto painting",
+      "Auto bodywork mechanic",
+      "Auto repair shop",
+      "Auto spring shop",
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef363dd4cc7ebd:0x777b653927d847b",
+    "cid": "538099150550303867",
+    "reviewsCount": 317,
+    "reviewsDistribution": {
+      "oneStar": 14,
+      "twoStar": 2,
+      "threeStar": 12,
+      "fourStar": 31,
+      "fiveStar": 258
+    },
+    "imagesCount": 70,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:45 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:45 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:45 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:45 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:45 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adrifer%20Centro%20Automotivo%20-%20Oficina%20funilaria%2C%20pintura%20e%20mec%C3%A2nica&query_place_id=ChIJvX7M1D0275QRe4R9klO2dwc",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdor6_zO_oi-00-8GWV-SOVOHUpcUFGVn2oRz_ZCDqpP4XYKLDtBAAB9GqM8qUnAKHjOAS6G3InxKy3Exuk7t3NbOGhizgnxdUyHrMxGtbeUQ9VRAYgKNSzpB_TbKx3ceeEEnk=w426-h240-k-no",
+    "kgmid": "/g/1tfzcbjv",
+    "businessProfileId": "9843370068585861581"
+  },
+  {
+    "title": "Alcimar Serviços de lataria e pintura",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto bodywork mechanic",
+    "address": "R. Alasca - Morro Alto, Guarapuava - PR, 85067-010, Brazil",
+    "neighborhood": "Morro Alto",
+    "street": "R. Alasca",
+    "city": "Guarapuava",
+    "postalCode": "85067-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/alcimarservicosdelatariaepintura/",
+    "phone": "+55 42 3623-8249",
+    "phoneUnformatted": "+554236238249",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3780069,
+      "lng": -51.4451902
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1c378uQ375QR6uzvzjO3240",
+    "categories": [
+      "Auto bodywork mechanic"
+    ],
+    "fid": "0x94ef37e4f2fbcdd5:0x8ddbb733ceefecea",
+    "cid": "10221965212390517994",
+    "reviewsCount": 30,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 6,
+      "fiveStar": 24
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:45 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:45 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:45 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:45 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:45 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:45 to 11 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alcimar%20Servi%C3%A7os%20de%20lataria%20e%20pintura&query_place_id=ChIJ1c378uQ375QR6uzvzjO3240",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcP4gCcsB0eriES7_iU69Vgmh_Rnq960vFigxRopnPPnBIqavW7MG2FWQY0bIqqRvsU1MnoL91KvzcqRqEaK0aIo4eWyOuRnVsHwnRm3Bshx2ZljkKz0SVhoph0OyEq_Y7zJwC-Xw=w408-h408-k-no",
+    "kgmid": "/g/11ffwbd194",
+    "businessProfileId": null
+  },
+  {
+    "title": "PINTURA AUTOMOTIVA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Cel. Saldanha, 1674 - Centro, Guarapuava - PR, 85010-130, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Cel. Saldanha, 1674",
+    "city": "Guarapuava",
+    "postalCode": "85010-130",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3913777,
+      "lng": -51.461529
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvZ4ayzo275QRXH3n4lMkKUA",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef363acb1a9ebd:0x40292453e2e77d5c",
+    "cid": "4623266435180232028",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PINTURA%20AUTOMOTIVA&query_place_id=ChIJvZ4ayzo275QRXH3n4lMkKUA",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iqy4hVJnHLRsg6Jy2lPjhA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=357.59897&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tg9p8tz",
+    "businessProfileId": "15251423367728247174"
+  },
+  {
+    "title": "POLICAR LATARIA, PINTURA E POLIMENTOS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Bento Munhoz da Rocha Neto, 1932 - Primavera, Guarapuava - PR, 85050-150, Brazil",
+    "neighborhood": "Primavera",
+    "street": "Av. Bento Munhoz da Rocha Neto, 1932",
+    "city": "Guarapuava",
+    "postalCode": "85050-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3624-5371",
+    "phoneUnformatted": "+554236245371",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3493251,
+      "lng": -51.4868698
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5xAkjho375QR4jCW_c8WK-4",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef371a8e2410e7:0xee2b16cffd9630e2",
+    "cid": "17161835887593926882",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 8,
+      "fiveStar": 24
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:28.433Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=POLICAR%20LATARIA%2C%20PINTURA%20E%20POLIMENTOS&query_place_id=ChIJ5xAkjho375QR4jCW_c8WK-4",
+    "searchPageUrl": "https://www.google.com/maps/search/funilaria%20e%20pintura%20automotiva%20Guarapuava%20PR?hl=en",
+    "searchString": "funilaria e pintura automotiva Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KyanAEgppuWHF3cMao6zVQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=65.5033&pitch=0&thumbfov=100",
+    "kgmid": "/g/11c37kxtnb",
+    "businessProfileId": null
+  },
+  {
+    "title": "O Especialista Centro Automotivo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Brg. Rocha, 3414 - Bonsucesso, Guarapuava - PR, 85035-270, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Brg. Rocha, 3414",
+    "city": "Guarapuava",
+    "postalCode": "85035-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3622-7778",
+    "phoneUnformatted": "+554236227778",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3817026,
+      "lng": -51.4745808
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRTJV8rU375QRZQUw50pqzho",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef37b5f2553245:0x1ace6a4ae7300565",
+    "cid": "1931598160127329637",
+    "reviewsCount": 52,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 44
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=O%20Especialista%20Centro%20Automotivo&query_place_id=ChIJRTJV8rU375QRZQUw50pqzho",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd6K0C9N3OrIJFr7Zh0pu64Tm3UgMwFfP1C1m2DOtWW-yXKQPgCeFVrNXcq_bNCGZ5O2YQ--iASE2Igu-ZmHUPmZXm6YdGTmam3FyUVyXEh-woDPjE-Hy30arUWTsTn3NUhIg60w=w408-h544-k-no",
+    "kgmid": "/g/11bxdwzvw7",
+    "businessProfileId": null
+  },
+  {
+    "title": "Oficina Mecânica Guarapuava - Mecânica do Osni",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Pedro Alves, 2763 - Batel, Guarapuava - PR, 85015-360, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Pedro Alves, 2763",
+    "city": "Guarapuava",
+    "postalCode": "85015-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/oficina_do_osni_/",
+    "phone": "+55 42 99818-6956",
+    "phoneUnformatted": "+5542998186956",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3958589,
+      "lng": -51.4820571
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiTleqzg375QR2MvbCYxHUck",
+    "categories": [
+      "Auto repair shop",
+      "Car inspection station",
+      "Car repair and maintenance service",
+      "Mechanic"
+    ],
+    "fid": "0x94ef3738ab5e3989:0xc951478c09dbcbd8",
+    "cid": "14506454541523471320",
+    "reviewsCount": 86,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 9,
+      "fiveStar": 72
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oficina%20Mec%C3%A2nica%20Guarapuava%20-%20Mec%C3%A2nica%20do%20Osni&query_place_id=ChIJiTleqzg375QR2MvbCYxHUck",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpPdQH8y4BiCeHk9B-2sx-Af_Y8Y4LZia9E5KpQ1iKht6yT0X_nyHl5ihIK2xraGunKU8tKkNs_xnpF4h7aEq78Ffe__I5zYB60IiA-QhMsoPjpJdpX_VUrR3-8L5o_RK4Myb9xQ=w408-h544-k-no",
+    "kgmid": "/g/11j7bs2l83",
+    "businessProfileId": "11183221980069862667"
+  },
+  {
+    "title": "Mavi Mecânica e Centro Automotivo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Prof. Iank, 495 - Bonsucesso, Guarapuava - PR, 85035-020, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Prof. Iank, 495",
+    "city": "Guarapuava",
+    "postalCode": "85035-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3304-5415",
+    "phoneUnformatted": "+554233045415",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3805305,
+      "lng": -51.4700494
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG_JqWeM375QR4KKYRkqrZk4",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37e3596af21b:0x4e66ab4a4698a2e0",
+    "cid": "5649391118083203808",
+    "reviewsCount": 96,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 95
+    },
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mavi%20Mec%C3%A2nica%20e%20Centro%20Automotivo&query_place_id=ChIJG_JqWeM375QR4KKYRkqrZk4",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctmU-BQWcSrew4U6nF8kjwg488GjrFCzKcU1XSFMQybiyA0FphozWkzLzbRzVnUjF43FosJcuMh6CHVsTceBVBHcH_6HZcOk951tfF9cl3LRuWnLvicfkTZ1MKv3N0QGsNAdCC=w408-h544-k-no",
+    "kgmid": "/g/11sv9cfffw",
+    "businessProfileId": "6517114745925585677"
+  },
+  {
+    "title": "OFICINA AGENDACAR SERVIÇOS AUTOMOTIVOS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Dr. Aragão de Mattos Leão Filho, 2752 - Jardim das Americas, Guarapuava - PR, 85030-020, Brazil",
+    "neighborhood": "Jardim das Americas",
+    "street": "Av. Dr. Aragão de Mattos Leão Filho, 2752",
+    "city": "Guarapuava",
+    "postalCode": "85030-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://oficinaagendacar.com.br/",
+    "phone": "+55 42 99960-1932",
+    "phoneUnformatted": "+5542999601932",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3914586,
+      "lng": -51.5072968
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ55OUTSM375QR0CGCqCFIZKs",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef37234d9493e7:0xab644821a88221d0",
+    "cid": "12350075387554963920",
+    "reviewsCount": 177,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 173
+    },
+    "imagesCount": 130,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OFICINA%20AGENDACAR%20SERVI%C3%87OS%20AUTOMOTIVOS&query_place_id=ChIJ55OUTSM375QR0CGCqCFIZKs",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-0vBbW-48n8eUucg5Gh8iCWgYmtuk5-RoyIEKGoqPaeYxw1RdsZ7MKeolUaFeM-6O8JLm-sKNxnkv85FjtxA9JoY8NtOqsyWcN-Q0poAISUjaTGdXi5ErLK4JDa1EmUktuBuXJg=w408-h544-k-no",
+    "kgmid": "/g/11vrtvx8mm",
+    "businessProfileId": "1801765373166567263"
+  },
+  {
+    "title": "A.L oficina mecânica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Mechanic",
+    "address": "Juarez Martins Lustosa, R. Xarquinho, 898, Guarapuava - PR, 85053-010, Brazil",
+    "neighborhood": "Industrial",
+    "street": "Juarez Martins Lustosa, R. Xarquinho, 898",
+    "city": "Guarapuava",
+    "postalCode": "85053-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 98854-3535",
+    "phoneUnformatted": "+5542988543535",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3592631,
+      "lng": -51.492133
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi_PHNG0375QRatotLbvF7zg",
+    "categories": [
+      "Mechanic"
+    ],
+    "fid": "0x94ef376d34c7f38b:0x38efc5bb2d2dda6a",
+    "cid": "4102715193265347178",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A.L%20oficina%20mec%C3%A2nica&query_place_id=ChIJi_PHNG0375QRatotLbvF7zg",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLduQ6DW82sWGn6nWS77AOPbyhFc8Fn1h54t8ZWcGO69q72zOxwXYCKytVxQiYlrrRdZgGBE0LSeEVcBXeK9wAd2hvfzmc7wzDf26u0PgAJUKzlBTeJwv_ZnAUMsHMOw2wPfFw_Y0f-yj9J1=w408-h544-k-no",
+    "kgmid": "/g/11zyn7g2p9",
+    "businessProfileId": "16105469556245102535"
+  },
+  {
+    "title": "Oficina do Rafa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Pedro Alves, 54 - Centro, Guarapuava - PR, 85010-080, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Pedro Alves, 54",
+    "city": "Guarapuava",
+    "postalCode": "85010-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/oficinadorafagpva/",
+    "phone": "+55 42 3622-7124",
+    "phoneUnformatted": "+554236227124",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.383573,
+      "lng": -51.4681576
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkX2vBEo275QRvY3M0Kd6B8c",
+    "categories": [
+      "Auto repair shop",
+      "Car repair and maintenance service",
+      "Car inspection station",
+      "Mechanic",
+      "Oil change service"
+    ],
+    "fid": "0x94ef364a04af7d91:0xc7077aa7d0cc8dbd",
+    "cid": "14341566399565827517",
+    "reviewsCount": 140,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 12,
+      "fiveStar": 126
+    },
+    "imagesCount": 66,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oficina%20do%20Rafa&query_place_id=ChIJkX2vBEo275QRvY3M0Kd6B8c",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUA6T-4AQExZ3GoU3lH0ofzpGt90sgONonsoLSF-MuDwT3oax6gXV4IFyqs6UhrfKzeaCg9tQwqeN_6Q8PSycok5x_rbGvUNhVeqpbGQ1CKIQQYZ1qmvymlXDbRStqnV-taU6Zhg=w408-h334-k-no",
+    "kgmid": "/g/11f3rwrdrn",
+    "businessProfileId": "7964286399629545172"
+  },
+  {
+    "title": "Auto Mecanica Estrela",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Azevedo Portugal, 1579 - Centro, Guarapuava - PR, 85010-200, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Azevedo Portugal, 1579",
+    "city": "Guarapuava",
+    "postalCode": "85010-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3623-7419",
+    "phoneUnformatted": "+554236237419",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3844116,
+      "lng": -51.4697966
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBUaOeUo275QRsy5F8avVFNk",
+    "categories": [
+      "Auto repair shop",
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef364a798e4605:0xd914d5abf1452eb3",
+    "cid": "15642362340228542131",
+    "reviewsCount": 53,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 2,
+      "fiveStar": 49
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Mecanica%20Estrela&query_place_id=ChIJBUaOeUo275QRsy5F8avVFNk",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=me9YQtsa7sU1Znc8xqIr9w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=257.25958&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f611j8zm",
+    "businessProfileId": "6970870650164420209"
+  },
+  {
+    "title": "Auto Mecânica San Diego",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "Av. Pres. Castelo Branco, 962 - São Cristóvão, Guarapuava - PR, 85065-230, Brazil",
+    "neighborhood": "São Cristóvão",
+    "street": "Av. Pres. Castelo Branco, 962",
+    "city": "Guarapuava",
+    "postalCode": "85065-230",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3624-7933",
+    "phoneUnformatted": "+554236247933",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3714075,
+      "lng": -51.4587718
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdZqXzEQ275QRK6_BW5gYJDw",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef3644cc979a75:0x3c2418985bc1af2b",
+    "cid": "4333615784090775339",
+    "reviewsCount": 147,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 3,
+      "fourStar": 13,
+      "fiveStar": 127
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Mec%C3%A2nica%20San%20Diego&query_place_id=ChIJdZqXzEQ275QRK6_BW5gYJDw",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNtlbxAs5-SBv17SJmSx08b_M2PKjC1FdzCQ_8aIBoee-bIPxBvKso_gOIJenN-zrqY5pPrnJK2I5qQdMAVL_7A9KClegNkWpkAidSA-YVmwi3-3QiMgj7Qoq_-kdH60DfFTjn=w408-h408-k-no",
+    "kgmid": "/g/11c58nr3pz",
+    "businessProfileId": "9153576945140245645"
+  },
+  {
+    "title": "Haray Especializada Peugeot & Citroen",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Rua: Garoto da Gaita 346, Guarapuava - PR, 85055-390, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "Rua: Garoto da Gaita 346",
+    "city": "Guarapuava",
+    "postalCode": "85055-390",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99995-3131",
+    "phoneUnformatted": "+5542999953131",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3675872,
+      "lng": -51.464044
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeQQcVdw375QRN8lnlML2ZiE",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef37dc551c0479:0x2166f6c29467c937",
+    "cid": "2406882366450026807",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Haray%20Especializada%20Peugeot%20%26%20Citroen&query_place_id=ChIJeQQcVdw375QRN8lnlML2ZiE",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIR0m1jx8wBAhJDman-V_f_zSiySQQwSmL4zWF5qwKWZQGqXTCNQyKB-8wLszTUKMHo9ffhSJvL4dAUGyQh0-bczJZObuzJWTRDayoj8tuneZIS3gZbv7264FjK_HoO6pgDQPnvWTAiaWc=w408-h306-k-no",
+    "kgmid": "/g/11rk1_q60j",
+    "businessProfileId": "13415911875812603557"
+  },
+  {
+    "title": "Garage 21 - Oficina Mecânica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Pres. Getúlio Vargas, número 2295 - Centro, Guarapuava - PR, 85010-280, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Pres. Getúlio Vargas, número 2295",
+    "city": "Guarapuava",
+    "postalCode": "85010-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3304-8507",
+    "phoneUnformatted": "+554233048507",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3899034,
+      "lng": -51.4741597
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaxoCvPo375QReM7xmeqXnt8",
+    "categories": [
+      "Auto repair shop",
+      "Diesel engine repair service"
+    ],
+    "fid": "0x94ef37fabc021a6b:0xdf9e97ea99f1ce78",
+    "cid": "16113483550639115896",
+    "reviewsCount": 35,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 32
+    },
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Garage%2021%20-%20Oficina%20Mec%C3%A2nica&query_place_id=ChIJaxoCvPo375QReM7xmeqXnt8",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7MmnnUS4m3GiXPJqSxJ97s6JxjXs9PzlQD3RDKaYu29lOXTppgM4pQW2y-42czSFqRuuDxfzkWNNSJBzHX4kzxKu9ECRK01zGX0lbc5Zw3MVYEk7NrBtKqyG_otC9RNpJsmK6=w408-h306-k-no",
+    "kgmid": "/g/11qr3cqz4k",
+    "businessProfileId": "1644218736677384465"
+  },
+  {
+    "title": "Mecânica Top car",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Mechanic",
+    "address": "R. Antônio Losso, 1388 - Conradinho, Guarapuava - PR, 85055-310, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "R. Antônio Losso, 1388",
+    "city": "Guarapuava",
+    "postalCode": "85055-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99847-1273",
+    "phoneUnformatted": "+5542998471273",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3664843,
+      "lng": -51.4660814
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiQJGBwA375QReknqFkDjbEo",
+    "categories": [
+      "Mechanic"
+    ],
+    "fid": "0x94ef370007460289:0x4a6ce34016ea497a",
+    "cid": "5362911120693283194",
+    "reviewsCount": 57,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 57
+    },
+    "imagesCount": 56,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mec%C3%A2nica%20Top%20car&query_place_id=ChIJiQJGBwA375QReknqFkDjbEo",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGddoAxxqQzHl6mlIIXbFGHXl4UgxUm_y-4_urW_m8qFUtim-ApXh37kROXpfkAXft_JnL6-fN5vge9G2gucT_hgVN_HqrGByFnX-yjhjUm6NnrfWd5j3l2f61h9eJYAKtadO8=w408-h306-k-no",
+    "kgmid": "/g/11ycyj9y9t",
+    "businessProfileId": "17785095826935222667"
+  },
+  {
+    "title": "Oficina Mecânica | Donna Car Service",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Prof. Pedro Carli, 4568 - Vila Carli, Guarapuava - PR, 85040-005, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "Av. Prof. Pedro Carli, 4568",
+    "city": "Guarapuava",
+    "postalCode": "85040-005",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99954-2021",
+    "phoneUnformatted": "+5542999542021",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.373832,
+      "lng": -51.4888317
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzdlVPKE375QRW0ixPzUZIS8",
+    "categories": [
+      "Auto repair shop",
+      "Car repair and maintenance service",
+      "Mechanic"
+    ],
+    "fid": "0x94ef37a13c55d9cd:0x2f2119353fb1485b",
+    "cid": "3396023310506608731",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.176Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oficina%20Mec%C3%A2nica%20%7C%20Donna%20Car%20Service&query_place_id=ChIJzdlVPKE375QRW0ixPzUZIS8",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNmWjIRnMLiMJfFLcgYnjaxzX0S6A5RDcr_Gv4R5_pxcfxOXSkohmfoV3zNDOuf4Wna-hMxoeaCC0kIc2zkP5u6nfVM4iYgGzc83ijFhQpLPbvSjhEYi5NgvlHvRT2JYVsOaPjTg=w408-h306-k-no",
+    "kgmid": "/g/11lw0kc6gy",
+    "businessProfileId": "14643789392017761282"
+  },
+  {
+    "title": "Oficina do Marcio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. José Carollo, 140 - Centro, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. José Carollo, 140",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99943-2004",
+    "phoneUnformatted": "+5542999432004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3839307,
+      "lng": -51.4727601
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcewLFq4375QR3U8lypSOQl0",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37ae160bec71:0x5d428e94ca254fdd",
+    "cid": "6720090363687948253",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 15
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oficina%20do%20Marcio&query_place_id=ChIJcewLFq4375QR3U8lypSOQl0",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFqQJreibymnX6WO0KqYowJSKgULvhPJWxNuWuVKD2_ZPhc8SoIxLqTFAh9dPfTiDV6gHs_0tbopqcFRrdeJCn-Har3Ap6AAgZOOECcF7GywnIJZYhYZAilryWM9WMPpNRT6WX=w426-h240-k-no",
+    "kgmid": "/g/11shc8nk08",
+    "businessProfileId": "2817319925080664452"
+  },
+  {
+    "title": "Autotech Eletrônica e Mecânica Automotiva",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Manuel Bandeira, 62 - Bonsucesso, Guarapuava - PR, 85055-230, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Manuel Bandeira, 62",
+    "city": "Guarapuava",
+    "postalCode": "85055-230",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://api.whatsapp.com/send?phone=5542999688133",
+    "phone": "+55 42 99968-8133",
+    "phoneUnformatted": "+5542999688133",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3722229,
+      "lng": -51.4644691
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvXk4N1A275QR15vratsvOMk",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef3650373879bd:0xc9382fdb6aeb9bd7",
+    "cid": "14499391619757480919",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 27
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Autotech%20Eletr%C3%B4nica%20e%20Mec%C3%A2nica%20Automotiva&query_place_id=ChIJvXk4N1A275QR15vratsvOMk",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckQ3-_1ACHov1b94PY0OiHPEwF-lZ3EiqTOjvKB40gx8YOEL5lyUnxwnsTLD-u6cWco72WOhRJN-EP2Zp1dk25XObF9HSSt3c-AXtFwNrasXEBiylrQtap1MJ_3S8qf-rImnMg=w408-h307-k-no",
+    "kgmid": "/g/11ssxh_yv0",
+    "businessProfileId": "12450983665932992928"
+  },
+  {
+    "title": "Mecanica Dekcar",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Padre Chagas, 1977 - Alto da XV, Guarapuava - PR, 85065-140, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Padre Chagas, 1977",
+    "city": "Guarapuava",
+    "postalCode": "85065-140",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/dekcarmecanica/",
+    "phone": "+55 42 3626-2190",
+    "phoneUnformatted": "+554236262190",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3834123,
+      "lng": -51.4563738
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2X9q3D4275QRdAqu9YREB6w",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef363edc6a7fd9:0xac074484f5ae0a74",
+    "cid": "12395951837208775284",
+    "reviewsCount": 91,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 12,
+      "fiveStar": 74
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mecanica%20Dekcar&query_place_id=ChIJ2X9q3D4275QRdAqu9YREB6w",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQWwJizESuRegXeJu3RU0UmvOxHec73xAYbygpyUmH8coSbI6QxdGnzmetOpG0y8ta-323lgJN_1vH7u2ToTcORjxCinoE_XzLxG_frw8FCRvh2rE-ShcGE5KPcV4rhLcPUqIK=w426-h240-k-no",
+    "kgmid": "/g/11bzyxsd2z",
+    "businessProfileId": "9772156106670056387"
+  },
+  {
+    "title": "Auto Center Pit Stop Premium | Troca de Óleo Guarapuava | Oficina Mecânica Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Pedro Alves, 54 - A - Centro, Guarapuava - PR, 85010-080, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Pedro Alves, 54 - A",
+    "city": "Guarapuava",
+    "postalCode": "85010-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/pitstoppremiumgp/",
+    "phone": "+55 42 3304-6146",
+    "phoneUnformatted": "+554233046146",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3835679,
+      "lng": -51.4682219
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTyh1xAU375QR6_Wx_1OOgG0",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef3705c475284f:0x6d808e53ffb1f5eb",
+    "cid": "7890463038576391659",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 29
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Center%20Pit%20Stop%20Premium%20%7C%20Troca%20de%20%C3%93leo%20Guarapuava%20%7C%20Oficina%20Mec%C3%A2nica%20Guarapuava&query_place_id=ChIJTyh1xAU375QR6_Wx_1OOgG0",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTURI48QZQHu2xW9tVoeAOmyr7MMqZ_LZ7qlP7H9_VFSvCdWAa8tQoJxytGm4Ukxem6MPu5i9Iol5Msp7OpDDQClQxUaVWxE-zxL4gYq2guMClNieAiBvfUD2IkeHske6IzvPPo6quBRg7=w408-h306-k-no",
+    "kgmid": "/g/11vxhb5pbn",
+    "businessProfileId": "1337214198326302164"
+  },
+  {
+    "title": "Oficina Mecânica do Joari",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Amadeu Karpinski Rocha - Bonsucesso, Guarapuava - PR, 85035-410, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Amadeu Karpinski Rocha",
+    "city": "Guarapuava",
+    "postalCode": "85035-410",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99920-7785",
+    "phoneUnformatted": "+5542999207785",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3779825,
+      "lng": -51.4750186
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlZTNNhg375QRuEFvZTSwqo4",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef371836cd9495:0x8eaab034656f41b8",
+    "cid": "10280222838513156536",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 18
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oficina%20Mec%C3%A2nica%20do%20Joari&query_place_id=ChIJlZTNNhg375QRuEFvZTSwqo4",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2lgbWzO6B8sNeiCVjDn2h7LlqsZWA8PBlOC5r7teeSOIH-SuOc4hs6BTlGcKxOrFfCfvdRLQHPXvmuOYNxDVjRGNqQgRxgxbQa5yzuEhIcG3kQRq26dekzpj-FLag99fr4ak0VQ=w480-h240-k-no",
+    "kgmid": "/g/11y30rynq7",
+    "businessProfileId": "18312023120913123699"
+  },
+  {
+    "title": "Auto Mecânica Vico",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Manoel Ribas, 1028 - Santana, Guarapuava - PR, 85070-180, Brazil",
+    "neighborhood": "Santana",
+    "street": "Av. Manoel Ribas, 1028",
+    "city": "Guarapuava",
+    "postalCode": "85070-180",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3623-6377",
+    "phoneUnformatted": "+554236236377",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3944891,
+      "lng": -51.4549341
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnSJAziM275QR5fWYouQ7hxA",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef3623ce40229d:0x10873be4a298f5e5",
+    "cid": "1190986479629301221",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 6,
+      "fiveStar": 19
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Auto%20Mec%C3%A2nica%20Vico&query_place_id=ChIJnSJAziM275QR5fWYouQ7hxA",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc37fTw1mFZPnMJO81SsUEJEIa0cncECZ-nqkPKqzVP0KYReINiiH4-cx3MGnkGJLW2z8Y6BoY5kafJeWrSE9L6HGL6NkEDRbByFFRjnF2LCqi_iJSz_QdZuCihut8keaDdvHAK=w408-h240-k-no-pi-20-ya243.5333-ro0-fo100",
+    "kgmid": "/g/1tcxfc7p",
+    "businessProfileId": null
+  },
+  {
+    "title": "Mecanica Conceito Serviços Automotivos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Al. Baden Württemberg, 243 - Colonia Vitoria, Guarapuava - PR, 85139-400, Brazil",
+    "neighborhood": "Colonia Vitoria",
+    "street": "Al. Baden Württemberg, 243",
+    "city": "Guarapuava",
+    "postalCode": "85139-400",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99944-7044",
+    "phoneUnformatted": "+5542999447044",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.5604256,
+      "lng": -51.4896952
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf_o0VgBP75QRebE9CiSFZ90",
+    "categories": [
+      "Auto repair shop",
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef4f005634fa7f:0xdd6785240a3db179",
+    "cid": "15953866594820403577",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mecanica%20Conceito%20Servi%C3%A7os%20Automotivos&query_place_id=ChIJf_o0VgBP75QRebE9CiSFZ90",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YFwShdE5HMGdtVyCRFblsQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=337.33057&pitch=0&thumbfov=100",
+    "kgmid": "/g/11y5k52735",
+    "businessProfileId": "16373752368587522540"
+  },
+  {
+    "title": "JP Sovrani meccanica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Ver. Rubéns Siqueira Ribas, 3274 - Santa Cruz, Guarapuava - PR, 85015-080, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "Av. Ver. Rubéns Siqueira Ribas, 3274",
+    "city": "Guarapuava",
+    "postalCode": "85015-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99979-0067",
+    "phoneUnformatted": "+5542999790067",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4156069,
+      "lng": -51.4650793
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ74SDcABJ75QRtEU66_pC3sk",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef4900708384ef:0xc9de42faeb3a45b4",
+    "cid": "14546137491909002676",
+    "reviewsCount": 173,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 173
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:32:58.177Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JP%20Sovrani%20meccanica&query_place_id=ChIJ74SDcABJ75QRtEU66_pC3sk",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20mec%C3%A2nica%20especializada%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina mecânica especializada Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQA9lrreaiFe2lXe8omKjm27dzx2xkRAjccnQckylvNRMSoGGIBvUVfd9gpK1V8ec7LzAClKNHsrphosWeA1XZPbbNU-89HE0tWSVP4Z0Qi19x1rk1NgSjwDYoDRGOB3rBotLUJumXe-Y=w408-h544-k-no",
+    "kgmid": "/g/11wnzgf3j3",
+    "businessProfileId": "8968151285942331855"
+  },
+  {
+    "title": "Xtreme Suspensões",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Luís Cúnico, 1471 - Vila Bela, Guarapuava - PR, 85027-030, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "R. Luís Cúnico, 1471",
+    "city": "Guarapuava",
+    "postalCode": "85027-030",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99866-7585",
+    "phoneUnformatted": "+5542998667585",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4040493,
+      "lng": -51.4970438
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU3LK0Fg375QRmehtLXLsViM",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef3758d0ca7253:0x2356ec722d6de899",
+    "cid": "2546482614457198745",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Xtreme%20Suspens%C3%B5es&query_place_id=ChIJU3LK0Fg375QRmehtLXLsViM",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC-LswINgrLFimGlBmDLINtlKe9c_304JzlA9AHa-y36flHsKzOvB5cL5RaucAKUoxFAq4M8ZdCRNhSQ33kjScgZR00S_kPhA8uP_7EfYyA6b8wQ5U85hlGWZdxqWkEsGiU8rw=w408-h544-k-no",
+    "kgmid": "/g/11v64wkl_5",
+    "businessProfileId": "6853179466083706323"
+  },
+  {
+    "title": "DTM Suspensões Especiais",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Riachuelo, 580 - Vila Carli, Guarapuava - PR, 85040-360, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "R. Riachuelo, 580",
+    "city": "Guarapuava",
+    "postalCode": "85040-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3624-1178",
+    "phoneUnformatted": "+554236241178",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3694831,
+      "lng": -51.4830213
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq7_ABag375QRBcAsdQFLSoc",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37a805c0bfab:0x874a4b01752cc005",
+    "cid": "9748686813029777413",
+    "reviewsCount": 52,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 4,
+      "fiveStar": 46
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DTM%20Suspens%C3%B5es%20Especiais&query_place_id=ChIJq7_ABag375QRBcAsdQFLSoc",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLR7Vp7ebMzAOC8AoIVWG08SeSazY9qi64kmDw2eR30RLWIPrvx-AkGnzrAkC-TT5vfeKwNvjrHb3xaqR010JWX2dQEbRs2e9zhy7df7BWTvHc7KH4_YbtdmmOZ0X9cMhhWmo=w426-h240-k-no",
+    "kgmid": "/g/11hbkcr_qk",
+    "businessProfileId": null
+  },
+  {
+    "title": "Oficina Peppa Suspensões",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Marcondes Sobrinho - Bonsucesso, Guarapuava - PR, 85055-170, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Marcondes Sobrinho",
+    "city": "Guarapuava",
+    "postalCode": "85055-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3701193,
+      "lng": -51.4732456
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcTaEjN0375QR_P3LprhfmPA",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef37dd8c843671:0xf0985fb8a6cbfdfc",
+    "cid": "17336712012239732220",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oficina%20Peppa%20Suspens%C3%B5es&query_place_id=ChIJcTaEjN0375QR_P3LprhfmPA",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=stKhSMUh8kMdhnYW_3JfEw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=88.46255&pitch=0&thumbfov=100",
+    "kgmid": "/g/11p0hvmc94",
+    "businessProfileId": null
+  },
+  {
+    "title": "Brasil Auto Center e Mecânica Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Dep. Cezar Silvestri, 6410 - Imóveis Morro Alto, Guarapuava - PR, 85015-970, Brazil",
+    "neighborhood": "Imóveis Morro Alto",
+    "street": "Av. Dep. Cezar Silvestri, 6410",
+    "city": "Guarapuava",
+    "postalCode": "85015-970",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.brasilpecasguarapuava.com.br/loja",
+    "phone": "+55 42 3627-2309",
+    "phoneUnformatted": "+554236272309",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3863719,
+      "lng": -51.4588158
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv2D_7Tw375QRATakyZlWzBI",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef373cedff60bf:0x12cc5699c9a43601",
+    "cid": "1354552806444643841",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brasil%20Auto%20Center%20e%20Mec%C3%A2nica%20Guarapuava&query_place_id=ChIJv2D_7Tw375QRATakyZlWzBI",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqHDY_P_5PBDFOpF_0m6ahqeNN3O0KOYC9GoC10joRA_42mazm1mU9YZpvZRXgX3e-ncymcBdy39efb6A6uJUyEmtd9Bt-Znpl6eQt-L4n14Yfk4WASzZSCsuZ287TtigB2fd3uNDMHk5c=w408-h399-k-no",
+    "kgmid": "/g/11mrr3cxmq",
+    "businessProfileId": "18060731537257157784"
+  },
+  {
+    "title": "Golden Car Service",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Rio Branco, 144 - Conradinho, Guarapuava - PR, 85055-470, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "R. Rio Branco, 144",
+    "city": "Guarapuava",
+    "postalCode": "85055-470",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/golden_carservice/",
+    "phone": "+55 42 98413-5215",
+    "phoneUnformatted": "+5542984135215",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3593592,
+      "lng": -51.4648012
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8SQ0h6s375QRVQtc5bl4RvY",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37ab873424f1:0xf64678b9e55c0b55",
+    "cid": "17746004121512315733",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 60
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Car%20Service&query_place_id=ChIJ8SQ0h6s375QRVQtc5bl4RvY",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-I_qXuaYeGh9oDPQloy1ZlaSg5Cq_Z3tm_D9L50cgcL2GQWC0dwKo4NGLTU01s-lFDQK0uzJTomUMVqJm3dBtq4dGqTcKxI836kE6Bv64w7FPFJJYTSsU9diumhKPpjQTTL5jCKKz8Zf2=w408-h306-k-no",
+    "kgmid": "/g/11z67lvsdn",
+    "businessProfileId": "10665166314045243874"
+  },
+  {
+    "title": "SUSPENSÂO",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Tire shop",
+    "address": "Ceramica, Guarapuava - Paraná, 85065-190, Brazil",
+    "neighborhood": "Ceramica",
+    "street": null,
+    "city": "Guarapuava",
+    "postalCode": "85065-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.amarelasinternet.com/",
+    "phone": "+55 42 3623-8415",
+    "phoneUnformatted": "+554236238415",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3828621,
+      "lng": -51.4495358
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh1VlcEA275QRcATulfDKRd8",
+    "categories": [
+      "Tire shop",
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef364070655587:0xdf45caf095ee0470",
+    "cid": "16088488378507330672",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SUSPENS%C3%82O&query_place_id=ChIJh1VlcEA275QRcATulfDKRd8",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-VKiFP6f6Zvrue4yPTVdSg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=295.09534&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfcvcw5",
+    "businessProfileId": "4040203996071683366"
+  },
+  {
+    "title": "Boxer Auto Center",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "Av. Manoel Ribas, 3835 - Conradinho, Guarapuava - PR, 85055-010, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "Av. Manoel Ribas, 3835",
+    "city": "Guarapuava",
+    "postalCode": "85055-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99128-1002",
+    "phoneUnformatted": "+5542991281002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3755611,
+      "lng": -51.4743818
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq5nib74375QRIPVs-wAKTqE",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37be6fe299ab:0xa14e0a00fb6cf520",
+    "cid": "11623238687624328480",
+    "reviewsCount": 59,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 54
+    },
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boxer%20Auto%20Center&query_place_id=ChIJq5nib74375QRIPVs-wAKTqE",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNWQ3aKExOjQNGvPI-8wn9LP5vQ72wTk8QzeWtXxofmBJZxPNumrAfbIR2I-KvwtQMAHSZBNyTbt2nJYo0Qg40TZc7-xApbFr_YlIBuZJoIVhTLY0OGHT5l4R1buhVFR3k1xqj=w408-h305-k-no",
+    "kgmid": "/g/11k4xxzhky",
+    "businessProfileId": "4079077121472905617"
+  },
+  {
+    "title": "CJ Kar's Oficina Premium LTDA",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Inácio Karpinski, 495 - Bonsucesso, Guarapuava - PR, 85055-050, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Inácio Karpinski, 495",
+    "city": "Guarapuava",
+    "postalCode": "85055-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/cjkarsoficina/",
+    "phone": "+55 42 3624-1259",
+    "phoneUnformatted": "+554236241259",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3724821,
+      "lng": -51.4665136
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ231R3Uo375QRnRJ0VfEhm2c",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef374add517ddb:0x679b21f15574129d",
+    "cid": "7465598127701234333",
+    "reviewsCount": 45,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 45
+    },
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CJ%20Kar's%20Oficina%20Premium%20LTDA&query_place_id=ChIJ231R3Uo375QRnRJ0VfEhm2c",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLesHbrC7rtDvnSYEmN9tS788akicd3nm8fpbDi2jjhsHLrU9fvRKbPRk8WZygDaPKGAcoMTcJfbMKR4quGLOigpSTXQkP6lyw4mrymXvEFpfFxY4roVYEKRyP3nE-zMJ2vXHzk_BPOeNp-z=w426-h240-k-no",
+    "kgmid": "/g/11vzc4t168",
+    "businessProfileId": "5338574436612644703"
+  },
+  {
+    "title": "Revizzi Auto Center",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Sen. Nereu Ramos, 2178 - Bonsucesso, Guarapuava - PR, 85035-300, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Sen. Nereu Ramos, 2178",
+    "city": "Guarapuava",
+    "postalCode": "85035-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/revizziauto/",
+    "phone": "+55 42 99134-0133",
+    "phoneUnformatted": "+5542991340133",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3797292,
+      "lng": -51.4729753
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxb5wbW0375QRTR0I7G15AAQ",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef376d6d70bec5:0x400796dec081d4d",
+    "cid": "288363889170062669",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 29
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:40 to 11:30 AM, 1 to 6:15 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:40 to 11:30 AM, 1 to 6:15 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:40 to 11:30 AM, 1 to 6:15 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:40 to 11:30 AM, 1 to 6:15 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:40 to 11:30 AM, 1 to 6:15 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Revizzi%20Auto%20Center&query_place_id=ChIJxb5wbW0375QRTR0I7G15AAQ",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiKamOm7TNPGbiBQ1kybwzLU9vjb9PwzSdjwsRIIkp1Ctsnc_kdjVvibgg8jHSLf7dsKAc0RsIDHNCRo88ItapePh67paXTmXF7tnZZ2czLMB8XGqaoY1YbTxhYz31ezODvFFxgg=w408-h306-k-no",
+    "kgmid": "/g/11kqz_yyrx",
+    "businessProfileId": "6975658256467330456"
+  },
+  {
+    "title": "Mecânica Goulart",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Guaíra, 3274 - Boqueirão, Guarapuava - PR, 85065-240, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "R. Guaíra, 3274",
+    "city": "Guarapuava",
+    "postalCode": "85065-240",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.instagram.com/mecanicagoulart",
+    "phone": "+55 42 99947-9644",
+    "phoneUnformatted": "+5542999479644",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4048616,
+      "lng": -51.4814311
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIdai2UE375QREKWJ6wNOySg",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef3741d9a2d621:0x28c94e03eb89a510",
+    "cid": "2938966010579494160",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 19
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mec%C3%A2nica%20Goulart&query_place_id=ChIJIdai2UE375QREKWJ6wNOySg",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoo343x5YIqXKpS_alZw7QjY-lWAvXm2kKJ21f60ypnZ3MRVLU-jYV0U7-kziJ_NVUYTRTaloiDFMwpL1BwwORRM7DBZGj_Pjn0ETdeTZT85LrtF5I-cPnDVJ9e6eJaHYza1rltbtkvzM=w408-h306-k-no",
+    "kgmid": "/g/11trgy_bjp",
+    "businessProfileId": "18213213961248029686"
+  },
+  {
+    "title": "Antunes Motorsport",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "R. Brg. Rocha, 3123 - Dos Estados, Guarapuava - PR, 85035-270, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. Brg. Rocha, 3123",
+    "city": "Guarapuava",
+    "postalCode": "85035-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://antunesmotorsport.onrender.com/",
+    "phone": "+55 42 99934-2200",
+    "phoneUnformatted": "+5542999342200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3837788,
+      "lng": -51.4724972
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi3E8xEo275QRQNxSecWTCXM",
+    "categories": [
+      "Auto repair shop",
+      "Auto parts store",
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef364ac43c718b:0x730993c57952dc40",
+    "cid": "8289319065505422400",
+    "reviewsCount": 51,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 2,
+      "threeStar": 3,
+      "fourStar": 7,
+      "fiveStar": 36
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Antunes%20Motorsport&query_place_id=ChIJi3E8xEo275QRQNxSecWTCXM",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLevsyoG1L2lqN01wbT3sQn7HGfafclnblM39iTX2LCtZNKpalTjDHoCZUqsdit53GRU29qKwCgvXkg2nIxCg3CK6jiYxqU2iPHuoqHwGh3nRQzNgOZdfvoz75QP2v7335Q-KBbz=w408-h544-k-no",
+    "kgmid": "/g/1tfbph4v",
+    "businessProfileId": "16710294638784896946"
+  },
+  {
+    "title": "Salton Service Imports",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Prof. Pedro Carli, 4467 - Vila Carli, Guarapuava - PR, 85040-005, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "Av. Prof. Pedro Carli, 4467",
+    "city": "Guarapuava",
+    "postalCode": "85040-005",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3036-1901",
+    "phoneUnformatted": "+554230361901",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.375006,
+      "lng": -51.4888744
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJweociVQ375QRRxzpFc2lAlc",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef3754891ceac1:0x5702a5cd15e91c47",
+    "cid": "6269755931507629127",
+    "reviewsCount": 30,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 30
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Salton%20Service%20Imports&query_place_id=ChIJweociVQ375QRRxzpFc2lAlc",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFx5Oih7bWM7dtq042uuFmGmwmRI1-RExRKLJQbNcp2IEIy_5haqdd0Mnxbtci9qK7m4xIJ7xoYzBcQN9TCC6ZY4O8V9sbY3G6Zj6j1_PMNR3qM708hGMMGjU57svWjyxSlmNI=w408-h306-k-no",
+    "kgmid": "/g/11p01fx_gb",
+    "businessProfileId": "13137560679979505801"
+  },
+  {
+    "title": "Toke Auto Center",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Auto repair shop",
+    "address": "Av. Turíbio Gomes, 136 - Vila Bela, Guarapuava - PR, 85025-250, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "Av. Turíbio Gomes, 136",
+    "city": "Guarapuava",
+    "postalCode": "85025-250",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3304-2993",
+    "phoneUnformatted": "+554233042993",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3945918,
+      "lng": -51.4932763
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn3BIzME375QRPvhfVRTNi3U",
+    "categories": [
+      "Auto repair shop"
+    ],
+    "fid": "0x94ef37c1cc48709f:0x758bcd14555ff83e",
+    "cid": "8470089011415742526",
+    "reviewsCount": 63,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 7,
+      "fourStar": 8,
+      "fiveStar": 46
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.272Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Toke%20Auto%20Center&query_place_id=ChIJn3BIzME375QRPvhfVRTNi3U",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLecQXYS-0erK4kUv9U_-1FQL1Q3wEyDY4a9SKbL4hY1INCBj9CYr3mV5PwPpQLtV-AuL7Tgjg0MsXhk8_KPgQNMs97IOEgai8hwONjbfN8dNCwApU-hcfjWF1aoyHZFnXJRySzmGg=w408-h576-k-no",
+    "kgmid": "/g/11df3q0wbh",
+    "businessProfileId": "6042097652100089713"
+  },
+  {
+    "title": "Valdeci Auto Center",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "Av. Prof. Pedro Carli, 4437 - Vila Carli, Guarapuava - PR, 85040-005, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "Av. Prof. Pedro Carli, 4437",
+    "city": "Guarapuava",
+    "postalCode": "85040-005",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.valdeci-autocenter.com.br/",
+    "phone": "+55 42 3624-4047",
+    "phoneUnformatted": "+554236244047",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3750118,
+      "lng": -51.4885844
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm3H4gaA375QRvJKVkOTHCr8",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37a081f8719b:0xbf0ac7e4909592bc",
+    "cid": "13766034995503534780",
+    "reviewsCount": 230,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 3,
+      "threeStar": 4,
+      "fourStar": 16,
+      "fiveStar": 202
+    },
+    "imagesCount": 46,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.273Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valdeci%20Auto%20Center&query_place_id=ChIJm3H4gaA375QRvJKVkOTHCr8",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdj_1PHm10wOk4V4cesDX6QENWj8hCo_qv54sgk1VyMnscST39S8cZI0Q3KzLsjFHFfT-76SrYQASzPPhlweXIcZDI4SuC0WZj5xJgbHprpFCwpOg179bBpGr0xZ5n8RQJuh8IF=w426-h240-k-no",
+    "kgmid": "/g/1pt_s858_",
+    "businessProfileId": "6596285954600080490"
+  },
+  {
+    "title": "Ballottin Automotivo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Car repair and maintenance service",
+    "address": "R. Palmira K Rocha, 178 - Bonsucesso, Guarapuava - PR, 85045-170, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Palmira K Rocha, 178",
+    "city": "Guarapuava",
+    "postalCode": "85045-170",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3304-6364",
+    "phoneUnformatted": "+554233046364",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3769072,
+      "lng": -51.4751168
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwbtzaNM375QRUqPrGvTjY5Y",
+    "categories": [
+      "Car repair and maintenance service"
+    ],
+    "fid": "0x94ef37d36873bbc1:0x9663e3f41aeba352",
+    "cid": "10836755765946721106",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 15
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:33:13.273Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ballottin%20Automotivo&query_place_id=ChIJwbtzaNM375QRUqPrGvTjY5Y",
+    "searchPageUrl": "https://www.google.com/maps/search/oficina%20de%20suspens%C3%A3o%20Guarapuava%20PR?hl=en",
+    "searchString": "oficina de suspensão Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxZtDHhRmAD7LM-RuKC_FCh0aJguB6fkBwoklHWiSMD9anyioB21Sn1NMB0eZBccJ_jOfxyrUFUNOGFEKppgnxYRmyK2FFFd5mcu3RvCSPUpSsoweewD-gKaMlFzsxhDMPz9Kkhg=w426-h240-k-no",
+    "kgmid": "/g/11h4q40gjg",
+    "businessProfileId": "9547284577500117974"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "imobiliária Guarapuava PR",
+    "administradora de imóveis Guarapuava PR",
+    "imobiliária Guarapuava centro"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "clínica de estética Ponta Grossa PR",
+    "estética avançada Ponta Grossa PR",
+    "estética facial e corporal Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

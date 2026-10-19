@@ -17,6 +17,9 @@ quem está lidando.
 - **0 clientes pagantes** — ANG Festas e TESTE - EMPRESA X (Agroterra) são testes,
   não clientes nem cases.
 - Site institucional concluído (`site/SITE.md`); deploy pendente de decisão do operador.
-- Análise do canal Kelvin Cleto em `analise/youtube/kelvin-cleto/` (206 transcrições).
-- Próximo passo: vender o primeiro cliente — fechar vertical de atuação
-  (`memoria/estrategia.md`) e publicar o GMB da APSIDE.
+- Análise do canal Kelvin Cleto em `analise/youtube/kelvin-cleto/` (206 transcrições);
+  framework de nicho dourado do vídeo `j9U_AyRGATg` aplicado à escolha de vertical.
+- **Vertical fechada (19/10): estética em Ponta Grossa** (ver `memoria/estrategia.md`);
+  varredura PG+GUA em `scripts/apify/`. Operador validando prospects manualmente.
+- Próximo passo: com lista qualificada, mandar a 1ª mensagem de prospecção (gate
+  humano). GMB da APSIDE ainda não publicado.

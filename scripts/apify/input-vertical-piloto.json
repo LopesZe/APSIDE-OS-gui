@@ -1,0 +1,7 @@
+{
+  "searchStringsArray": [
+    "serralheria em Ponta Grossa PR"
+  ],
+  "maxCrawledPlacesPerSearch": 10,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

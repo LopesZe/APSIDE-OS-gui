@@ -1,0 +1,3116 @@
+[
+  {
+    "title": "Clínica de Estética Avançada Dra Raiane Furquim",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Manoel Ribas, 4095 - Conradinho, Guarapuava - PR, 85055-010, Brazil",
+    "neighborhood": "Conradinho",
+    "street": "Av. Manoel Ribas, 4095",
+    "city": "Guarapuava",
+    "postalCode": "85055-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/draraianefurquim?igsh=bWlybXFtYWR3d3A5&utm_source=qr",
+    "phone": "+55 42 99869-9343",
+    "phoneUnformatted": "+5542998699343",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.373001,
+      "lng": -51.4745
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFVSpaGA375QR3eyCQ6jzuMs",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Beauty salon",
+      "Beauty school",
+      "Massage therapist"
+    ],
+    "fid": "0x94ef376068a95415:0xcbb8f3a84382ecdd",
+    "cid": "14679750889426840797",
+    "reviewsCount": 25,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 75,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.429Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Est%C3%A9tica%20Avan%C3%A7ada%20Dra%20Raiane%20Furquim&query_place_id=ChIJFVSpaGA375QR3eyCQ6jzuMs",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLccA_lKJY4FQSkApJYGTI9jI5hu4SJhD35PvJr1kujr2N9WPtNJkBpoB2ILSvsiE5eJdW2Xrtrtum1D_gTuLynoDJG8xRsAnNysxQOeDysRVyNgs5Kj4TIhM_hZ22zBQ66GGjSoTWUJ90Y=w408-h544-k-no",
+    "kgmid": "/g/11w21dhf9m",
+    "businessProfileId": "14725111059025761720"
+  },
+  {
+    "title": "Clínica de Estética - BIOESTÉTICA Dra Ariane Sales - Biomédica Esteta em Guarapuava | Botox, Preenchimento, Bioestimulador",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Andrade Neves, 1575 - sala 1 - Trianon, Guarapuava - PR, 85012-020, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Andrade Neves, 1575 - sala 1",
+    "city": "Guarapuava",
+    "postalCode": "85012-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://1sh.co/arianesales",
+    "phone": "+55 42 99833-3103",
+    "phoneUnformatted": "+5542998333103",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4005342,
+      "lng": -51.462854
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ__ms7cY375QRh-D3vXpG570",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Facial spa",
+      "Skin care clinic",
+      "Specialized clinic",
+      "Weight loss service"
+    ],
+    "fid": "0x94ef37c6edacf9ff:0xbde7467abdf7e087",
+    "cid": "13683983485775634567",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 16
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20de%20Est%C3%A9tica%20-%20BIOEST%C3%89TICA%20Dra%20Ariane%20Sales%20-%20Biom%C3%A9dica%20Esteta%20em%20Guarapuava%20%7C%20Botox%2C%20Preenchimento%2C%20Bioestimulador&query_place_id=ChIJ__ms7cY375QRh-D3vXpG570",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeG1yIlcwRTW9dSHLOoDZK4VEKcqERZfLkICJbtBvWNkYqSM9MlceZ3WILxrYLkWN9nwXMvGHKAR8gWFYur-oUVZZFtoPCAZqii9RMfrMVYdXd0ZGGR_kYKYCN4B05a_9qUHhZ2qQ=w408-h544-k-no",
+    "kgmid": "/g/11kbpybx78",
+    "businessProfileId": "9398674343552164680"
+  },
+  {
+    "title": "Clínica Patel - Saúde e Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Brg. Rocha, 2072 - Centro, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Brg. Rocha, 2072",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99990-4435",
+    "phoneUnformatted": "+5542999904435",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3892767,
+      "lng": -51.4654802
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXVXVPl0375QR1jUop1-nd7k",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef375d3ed5555d:0xb977a75fa72835d6",
+    "cid": "13364334448513398230",
+    "reviewsCount": 41,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 41
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Patel%20-%20Sa%C3%BAde%20e%20Est%C3%A9tica&query_place_id=ChIJXVXVPl0375QR1jUop1-nd7k",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLderZYnFI_fTzA0-MEzei-hSw-Zesci0ltalnVXqLF5rt_Fr_lf4u1JqwjFVQyIn8EZjJoB4yrwufgKvn-s1BuSH_6jwaooPxSkY4xv-BZiN5oTY-MAWC1KJiFsbc-d7X26J5OvDg=w408-h272-k-no",
+    "kgmid": "/g/11v3m4f8zz",
+    "businessProfileId": "1323935198118356484"
+  },
+  {
+    "title": "Clínica Skinny - LED, Laser, Criolipólise EletroFIT, Jato de Plasma, Criofrequência, Crioexposição",
+    "subTitle": "Clínica Skinny Estética Avançada",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Laser hair removal service",
+    "address": "R. Pedro Alves, 583 - Centro, Guarapuava - PR, 85015-360, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Pedro Alves, 583",
+    "city": "Guarapuava",
+    "postalCode": "85015-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/clinicaskinny/",
+    "phone": "+55 42 99902-8107",
+    "phoneUnformatted": "+5542999028107",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3869778,
+      "lng": -51.4715462
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp_qiqTQ275QRHtRkvbQMSnw",
+    "categories": [
+      "Laser hair removal service",
+      "Eyebrow bar",
+      "Health and beauty shop",
+      "Nutritionist",
+      "Weight loss service"
+    ],
+    "fid": "0x94ef3634a9a2faa7:0x7c4a0cb4bd64d41e",
+    "cid": "8955984779390800926",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Skinny%20-%20LED%2C%20Laser%2C%20Criolip%C3%B3lise%20EletroFIT%2C%20Jato%20de%20Plasma%2C%20Criofrequ%C3%AAncia%2C%20Crioexposi%C3%A7%C3%A3o&query_place_id=ChIJp_qiqTQ275QRHtRkvbQMSnw",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcudIpVsi4UgwMyP5T6qY9a0FPRamhlKq1IuEivim7mPYS7KZ2Jb50U-dLN5taTqQIRKGmksu-KAxb2yAADdvIKNyYCRMn9j6XV4xSZ5h_rocHETJYKbH0pPAA2R9QUHFn5K0Fhvg=w408-h306-k-no",
+    "kgmid": "/g/11d_9g8gf1",
+    "businessProfileId": "11967476918277039520"
+  },
+  {
+    "title": "Donna Bella",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Dezessete de Julho, 23 - Trianon, Guarapuava - PR, 85012-040, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Dezessete de Julho, 23",
+    "city": "Guarapuava",
+    "postalCode": "85012-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99826-6999",
+    "phoneUnformatted": "+5542998266999",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3990772,
+      "lng": -51.4577762
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvwJNN7o375QR12AlhpVxYvw",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef37ba374d02bf:0xfc627195862560d7",
+    "cid": "18186223132290146519",
+    "reviewsCount": 61,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 57
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Donna%20Bella&query_place_id=ChIJvwJNN7o375QR12AlhpVxYvw",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyQswTbx_B87EnfullWQWdcNg2oyQC74nuNwckw71LaapJq4cr-xiKLC6snI9zBjLZy1gCFCPljTA41wKzkvJJYyDwJEACr-aEGVfIudIEm79PFNHaLfjgPsby9e57_do-MwEJ5W5CZqI=w408-h272-k-no",
+    "kgmid": "/g/11vyp9yz7m",
+    "businessProfileId": "8961053377082364319"
+  },
+  {
+    "title": "Dra. Ana Luiza Andriola Biomédica Esteta - Harmonização facial e estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Alcione Bastos, 1723 - Centro, Guarapuava - PR, 85065-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Alcione Bastos, 1723",
+    "city": "Guarapuava",
+    "postalCode": "85065-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99104-2121",
+    "phoneUnformatted": "+5542991042121",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3907324,
+      "lng": -51.4577416
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTTTvfXo375QRhGykqlK2MQQ",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef377a7def344d:0x431b652aaa46c84",
+    "cid": "302223116177009796",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra.%20Ana%20Luiza%20Andriola%20Biom%C3%A9dica%20Esteta%20-%20Harmoniza%C3%A7%C3%A3o%20facial%20e%20est%C3%A9tica&query_place_id=ChIJTTTvfXo375QRhGykqlK2MQQ",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-hGTGCTA0I-IjhkeQb5j6ShoznMWyTwEYiN4xY04f33aAKZ0g_drP6N029vacAzQOwg5IRnnhUXFlDG0ZJHNVZsiSm2YJlwrLUSgjK8An0Od_vHtfO6UrgXLAshM014rX1Dkb=w408-h725-k-no",
+    "kgmid": "/g/11sz2y86fq",
+    "businessProfileId": "4068516186149866074"
+  },
+  {
+    "title": "Clínica Estética Bela Forma",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Padre Chagas, 4358 - Batel, Guarapuava - PR, 85015-270, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Padre Chagas, 4358",
+    "city": "Guarapuava",
+    "postalCode": "85015-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://esteticabelaforma.com.br/",
+    "phone": "+55 41 99673-9404",
+    "phoneUnformatted": "+5541996739404",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3987865,
+      "lng": -51.4738361
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY_AySS0275QR76yLZIqnAwc",
+    "categories": [
+      "Health and beauty shop",
+      "Beauty salon",
+      "Learning center",
+      "Massage therapist",
+      "Psychotherapist",
+      "Specialized clinic",
+      "Weight loss service"
+    ],
+    "fid": "0x94ef362d4932f063:0x703a78a648bacef",
+    "cid": "505431796029828335",
+    "reviewsCount": 46,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 41
+    },
+    "imagesCount": 55,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Est%C3%A9tica%20Bela%20Forma&query_place_id=ChIJY_AySS0275QR76yLZIqnAwc",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoNC2raWAxTPwwraUMb_9tTDscJ-YkdTXrpWVKBqz_RgYTQf0xdXKtsFU5qr3VxNKjRlskd-quhYfDZleigsXUcLjeBLu0vOjeq7wiFXA-OQe5VEuSibySGZO9yTgAXDwpHoGW=w408-h320-k-no",
+    "kgmid": "/g/1tdm4w_8",
+    "businessProfileId": "13021906865801507023"
+  },
+  {
+    "title": "Dermatho Clin",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Rua 09, 205 - Cidade dos Lagos, Guarapuava - PR, 85051-056, Brazil",
+    "neighborhood": "Cidade dos Lagos",
+    "street": "Rua 09, 205",
+    "city": "Guarapuava",
+    "postalCode": "85051-056",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.dermathoclin.com.br/",
+    "phone": "+55 42 99802-8482",
+    "phoneUnformatted": "+5542998028482",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.344465,
+      "lng": -51.4741951
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJObZz3jM275QRNp-wPihMyc8",
+    "categories": [
+      "Health and beauty shop",
+      "Esthetics service"
+    ],
+    "fid": "0x94ef3633de73b639:0xcfc94c283eb09f36",
+    "cid": "14972582171904089910",
+    "reviewsCount": 45,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 45
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dermatho%20Clin&query_place_id=ChIJObZz3jM275QRNp-wPihMyc8",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3NYq25WIMoJYxsmjrio5PnitxiPkhAYZCiwdn-FBW1OtULkD6Y7iYETflP_XPTJZN7cSEtVvbC7UI0Q8_xf9ya1f9BZgHSCbqgAc1RSxt4140d61RLmoedoYWS-Z1qlE9KEL3=w408-h725-k-no",
+    "kgmid": "/g/11fzpn1_d2",
+    "businessProfileId": "15503304984993144586"
+  },
+  {
+    "title": "Gislaine Danilia Oliveira.",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Arlíndo Ribeiro, 924 - sala 01 - Centro, Guarapuava - PR, 85010-070, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Arlíndo Ribeiro, 924 - sala 01",
+    "city": "Guarapuava",
+    "postalCode": "85010-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://clinicagdsaudeemestetica.com.br/go/",
+    "phone": "+55 42 99971-0924",
+    "phoneUnformatted": "+5542999710924",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3897025,
+      "lng": -51.4733184
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJedIkxAo375QRxWcDip07HHk",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef370ac424d279:0x791c3b9d8a0367c5",
+    "cid": "8726915725748561861",
+    "reviewsCount": 45,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 44
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gislaine%20Danilia%20Oliveira.&query_place_id=ChIJedIkxAo375QRxWcDip07HHk",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbGvcvT4AADP4EVhhjoRdpAiOnoNQnyxAv6oTNYURUHs7DECMX4YEIEF0bHw0GmCJidNVh_16UxjYMnEu_Woy4Vb6v8q7mofai60Y5gaL7eoYXlfpnrngi4cY8S-UBwDLJVodiCw=w478-h240-k-no",
+    "kgmid": "/g/11q9hv50m_",
+    "businessProfileId": "9077912207766581207"
+  },
+  {
+    "title": "Instituto Angelica Federizzi",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Profa. Leonidia, 290 - Sala 1 - Centro, Guarapuava - PR, 85010-100, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Profa. Leonidia, 290 - Sala 1",
+    "city": "Guarapuava",
+    "postalCode": "85010-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/institutoangelicafederizzi/",
+    "phone": "+55 42 3627-2994",
+    "phoneUnformatted": "+554236272994",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.392497,
+      "lng": -51.4643694
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv66uETA275QRL-CE76aO8Og",
+    "categories": [
+      "Health and beauty shop",
+      "Weight loss service"
+    ],
+    "fid": "0x94ef363011aeaebf:0xe8f08ea6ef84e02f",
+    "cid": "16785072658844016687",
+    "reviewsCount": 100,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 97
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11:30 AM, 1 to 7:40 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11:30 AM, 1 to 7:40 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11:30 AM, 1 to 7:40 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11:30 AM, 1 to 7:40 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Instituto%20Angelica%20Federizzi&query_place_id=ChIJv66uETA275QRL-CE76aO8Og",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSN21l221i_t0td-VSN1nNzVE9ubMDX9zwy8PncI7MtAfOrPv0LLPsDpsvHHw2S04MblaFjJ8N8fPXB79WncXPZqi4kDfvxf7h_QUlTUoiBdLaTiFB7rDvx1lCGQUlFjcdsiFgrU-aqtlc=w408-h544-k-no",
+    "kgmid": "/g/11c5rrtfj6",
+    "businessProfileId": "3261222096124370469"
+  },
+  {
+    "title": "Clínica Vanusa Decker - Estética e Spa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Ver. Serafim Ribas, 2882 - Galeria 5 - Boqueirão, Guarapuava - PR, 85023-500, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "Av. Ver. Serafim Ribas, 2882 - Galeria 5",
+    "city": "Guarapuava",
+    "postalCode": "85023-500",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.clinicavanusadecker.com.br/",
+    "phone": "+55 42 99872-0018",
+    "phoneUnformatted": "+5542998720018",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4153389,
+      "lng": -51.4814319
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj8UHOQ9J75QRgvrPalERb6s",
+    "categories": [
+      "Health and beauty shop",
+      "Beauty product supplier",
+      "Day spa",
+      "Massage spa",
+      "Nutritionist",
+      "Spa",
+      "Wellness center"
+    ],
+    "fid": "0x94ef490f3907c58f:0xab6f11516acffa82",
+    "cid": "12353111344282598018",
+    "reviewsCount": 63,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 63
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Vanusa%20Decker%20-%20Est%C3%A9tica%20e%20Spa&query_place_id=ChIJj8UHOQ9J75QRgvrPalERb6s",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwEt_s4tf7kQ1cB46tUf0H34k1h2-OC7eKn_HXSI-Q8TsFYWIsk2MKMP6Xr_PkrzbcQgJg5XDyt3BuYgjV7HINczFwEEUe-cLB71PWf9R7Cu6vVS0EUkhFeUDZlbLFclW1YokvPfpu784-=w408-h270-k-no",
+    "kgmid": "/g/11rthtnxpn",
+    "businessProfileId": "516854323054285004"
+  },
+  {
+    "title": "PATRÍCIA CAVENAGUE DIEGUES",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Arlíndo Ribeiro, 924 - Sl 04 - Térreo - Centro, Guarapuava - PR, 85010-070, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Arlíndo Ribeiro, 924 - Sl 04 - Térreo",
+    "city": "Guarapuava",
+    "postalCode": "85010-070",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.patriciadiegues.com.br/",
+    "phone": "+55 42 99905-8200",
+    "phoneUnformatted": "+5542999058200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3897025,
+      "lng": -51.4733184
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGdLfVb0375QRNKugqI6oKOo",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94ef37bd55dfd219:0xea28a88ea8a0ab34",
+    "cid": "16872921334611487540",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 28
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PATR%C3%8DCIA%20CAVENAGUE%20DIEGUES&query_place_id=ChIJGdLfVb0375QRNKugqI6oKOo",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdslX1HfcO8E7cTnJvmML95qfGEqClFxBNuH6SoMDc0qtv83hhhtKpcihym1V4_JRROZ3fWpfAThHl5-lKt3h1v6F6V72jLGOuxiW0NvLzuS6Ct8xWKboZrncRytrRZUzOvJ8RiAP8nLLw=w408-h544-k-no",
+    "kgmid": "/g/11s8y4vsx7",
+    "businessProfileId": "8689442123242932941"
+  },
+  {
+    "title": "Scullp Centro Estético",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Rua Capitão Frederico Virmond, 2423 - Centro, Guarapuava - PR, 85010-120, Brazil",
+    "neighborhood": "Centro",
+    "street": "Rua Capitão Frederico Virmond, 2423",
+    "city": "Guarapuava",
+    "postalCode": "85010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/scullpcentroestetico/",
+    "phone": "+55 42 99137-2505",
+    "phoneUnformatted": "+5542991372505",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3969693,
+      "lng": -51.4671216
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzSMmP5s375QRx6xZzS0WE6Y",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Beauty product supplier",
+      "Facial spa",
+      "Health spa",
+      "Laser hair removal service",
+      "Lymph drainage therapist",
+      "Massage spa",
+      "Physical therapy clinic",
+      "Specialized clinic"
+    ],
+    "fid": "0x94ef379b3f2623cd:0xa613162dcd59acc7",
+    "cid": "11966933020828085447",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scullp%20Centro%20Est%C3%A9tico&query_place_id=ChIJzSMmP5s375QRx6xZzS0WE6Y",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2DJU90aQm-4P7XeFysP84OO8PcGJJ9KeBznh02qVkHb7i6xljs4-9rAyaFKDI4t71CjYwZgSvysODo9CB-YNXtJoLUorvYzklcabFOFYPEBbfjJ8no0EFmI0GZJQWBh1D26h6jX-VxUU=w408-h612-k-no",
+    "kgmid": "/g/11qrfb7wdx",
+    "businessProfileId": "5189215148667038419"
+  },
+  {
+    "title": "Clinica da Beleza Biomedicina Estetica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beauty salon",
+    "address": "R. Pres. Artur Costa e Silva, 345 - Alto da XV, Guarapuava - PR, 85060-080, Brazil",
+    "neighborhood": "Alto da XV",
+    "street": "R. Pres. Artur Costa e Silva, 345",
+    "city": "Guarapuava",
+    "postalCode": "85060-080",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99956-6373",
+    "phoneUnformatted": "+5542999566373",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3833941,
+      "lng": -51.4505719
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_ZspOX8375QRaSJF8kEnNKU",
+    "categories": [
+      "Beauty salon"
+    ],
+    "fid": "0x94ef377f39299bfd:0xa5342741f2452269",
+    "cid": "11904182879238038121",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 13
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clinica%20da%20Beleza%20Biomedicina%20Estetica&query_place_id=ChIJ_ZspOX8375QRaSJF8kEnNKU",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRjqBE2BxV2B7DQuSk-WXWPFt-H4-kMr5kd2kBBR1FHUWOBAKGRP6R1QmYZFKPh-6l1HeN8tC_UrMAMYBDT7aXJKqLqTEDyvZ9KBfUm1-63BOSp4VBf8IXUpaR-X3F9NTVCKhPPA=w408-h427-k-no",
+    "kgmid": "/g/11s_yyj8lp",
+    "businessProfileId": "13672092322082251315"
+  },
+  {
+    "title": "Ana Meira Esteticista",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "R. Prof. Becker, 1155 - Santana, Guarapuava - PR, 85070-280, Brazil",
+    "neighborhood": "Santana",
+    "street": "R. Prof. Becker, 1155",
+    "city": "Guarapuava",
+    "postalCode": "85070-280",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99104-7823",
+    "phoneUnformatted": "+5542991047823",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3896168,
+      "lng": -51.4553241
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz6Nuy-JJ75QR9jBzvUT1w7A",
+    "categories": [
+      "Beautician",
+      "Facial spa",
+      "Foot massage parlor",
+      "Lymph drainage therapist",
+      "Massage therapist",
+      "Psychotherapist",
+      "Wellness center"
+    ],
+    "fid": "0x94ef49e2cb6ea3cf:0xb0c3f544bd7330f6",
+    "cid": "12737293846718918902",
+    "reviewsCount": 102,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 102
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "1:30 to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 12 PM, 1:30 to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 12 PM, 1:30 to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 12 PM, 1:30 to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 12 PM, 1:30 to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ana%20Meira%20Esteticista&query_place_id=ChIJz6Nuy-JJ75QR9jBzvUT1w7A",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfboZp4VmqXztRi7nScMP8t92Knr5WDZN9GoPbDICeiz6iZEL6mQT0tq3uC_A1uJoYDzD3k9FF_cGoo69NBx8GiXq_1oMaNWmtryNBg4zyjpZPY8E88Y6MYBGgfwvzegD5FY6w1SBAZQ47h=w408-h488-k-no",
+    "kgmid": "/g/11xkzyftp0",
+    "businessProfileId": "5902376840860759421"
+  },
+  {
+    "title": "Consultório Mariana Zaluski",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Ávio Bitencourt Ribas, 176 - Bonsucesso, Guarapuava - PR, 85035-240, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Ávio Bitencourt Ribas, 176",
+    "city": "Guarapuava",
+    "postalCode": "85035-240",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/dramarianazaluski/",
+    "phone": "+55 42 98412-5391",
+    "phoneUnformatted": "+5542984125391",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3779909,
+      "lng": -51.4794683
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQW1qRGg375QR-jGEh84-ulY",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef3768446a6d41:0x56ba3ece878431fa",
+    "cid": "6249376489687757306",
+    "reviewsCount": 47,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 47
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Consult%C3%B3rio%20Mariana%20Zaluski&query_place_id=ChIJQW1qRGg375QR-jGEh84-ulY",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf233SBF6Fb-Ihql6cNEmn4TvAlp7sQwuiIrv2uOOEdnNLnZgmttxhz7socJxQuKnpXKKeroVdL2Rl79PBEfXGvkIEp7kdALm65WbteCPaYIuLbUtiWG3kDTHq988Fy3BUH9dPFYuXCF6bY=w408-h361-k-no",
+    "kgmid": "/g/11s4r_043g",
+    "businessProfileId": "15949295733054370480"
+  },
+  {
+    "title": "Plena Clínica Estética e Salão",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Sobrado na esquina - R. Eng. Antônio Rebouças, 736 - Santa Cruz, Guarapuava - PR, 85015-410, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "Sobrado na esquina - R. Eng. Antônio Rebouças, 736",
+    "city": "Guarapuava",
+    "postalCode": "85015-410",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/plenaclinicadeestetica?igsh=NHI2dmEyYXB0cG96",
+    "phone": "+55 42 99866-1826",
+    "phoneUnformatted": "+5542998661826",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4044551,
+      "lng": -51.4676133
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6Uvs_gFJ75QRmCAWPDPVVRs",
+    "categories": [
+      "Health and beauty shop",
+      "Wellness center"
+    ],
+    "fid": "0x94ef4901feec4be9:0x1b55d5333c162098",
+    "cid": "1969714828072591512",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Plena%20Cl%C3%ADnica%20Est%C3%A9tica%20e%20Sal%C3%A3o&query_place_id=ChIJ6Uvs_gFJ75QRmCAWPDPVVRs",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX1TKQazMukWSMf_eFPRQsbt4pL0FEcrw9zDA1oTLjI4aoS6S7MLu6pKWiGnVPEJ9SlkuzftCAYYlDhp0F-bayH5QyMT3Pf9UEGiorgaYEwcwm4xLnhyCsySpxMKREV9VJibHU=w408-h449-k-no",
+    "kgmid": "/g/11j088bqk6",
+    "businessProfileId": "9660652112750801693"
+  },
+  {
+    "title": "Fabiane Moteka Estética & Beleza",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Beautician",
+    "address": "Mario Edmundo Xavier de Barros, 726 - Vila Bela, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Vila Bela",
+    "street": "Mario Edmundo Xavier de Barros, 726",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/fabianemoteka?igsh=MWI0NTV0NndsMmdhYw%3D%3D&utm_source=qr",
+    "phone": "+55 42 99800-4245",
+    "phoneUnformatted": "+5542998004245",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4029348,
+      "lng": -51.4961142
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp-XVBUg375QRwgyny5XwZ-0",
+    "categories": [
+      "Beautician"
+    ],
+    "fid": "0x94ef374805d5e5a7:0xed67f095cba70cc2",
+    "cid": "17106906235747634370",
+    "reviewsCount": 54,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 54
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fabiane%20Moteka%20Est%C3%A9tica%20%26%20Beleza&query_place_id=ChIJp-XVBUg375QRwgyny5XwZ-0",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfM-Qs0gr4o_aCQMr1yGLOT63ttSZmVe6vLIIMtpUxQtX9CLg4meWYw0U0ydw7Jwej8cyks3qf_IkQX43Hms9QWdkoT9hvMLW5tGmh7Otchx_pHEKHgilVSJowniCVQLTHATcuKMkuqUe0=w408-h612-k-no",
+    "kgmid": "/g/11yy1_ygv4",
+    "businessProfileId": "7771916753411642648"
+  },
+  {
+    "title": "Clínica Flávia Souza Estética & Enfermagem.",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Specialized clinic",
+    "address": "R. Quintino Bocaiúva, 1809 - Centro, Guarapuava - PR, 85010-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quintino Bocaiúva, 1809",
+    "city": "Guarapuava",
+    "postalCode": "85010-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/flaenfestetica/",
+    "phone": "+55 42 98812-5398",
+    "phoneUnformatted": "+5542988125398",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3940763,
+      "lng": -51.4724356
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwyi2hVo375QRynbP6yjyPos",
+    "categories": [
+      "Specialized clinic"
+    ],
+    "fid": "0x94ef375a85b628c3:0x8b3ef228ebcf76ca",
+    "cid": "10033723277396899530",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Fl%C3%A1via%20Souza%20Est%C3%A9tica%20%26%20Enfermagem.&query_place_id=ChIJwyi2hVo375QRynbP6yjyPos",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RxIzCywOoml4oLq2PNa2FA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=237.98915&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tf1cfcsf",
+    "businessProfileId": "15142582767914594443"
+  },
+  {
+    "title": "Ana Glaucia Estética Humanizada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Brg. Rocha, 1995 - Centro, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Brg. Rocha, 1995",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://sites.google.com/view/ana-glaucia-esttica-humanizada/p%C3%A1gina-inicial",
+    "phone": "+55 42 99998-9897",
+    "phoneUnformatted": "+5542999989897",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3899897,
+      "lng": -51.4650609
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUSAJEJ0375QRRO6hv5t2_zE",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef379d10092051:0x31ff769bbfa1ee44",
+    "cid": "3602728638226755140",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 15
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:19:58.430Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ana%20Glaucia%20Est%C3%A9tica%20Humanizada&query_place_id=ChIJUSAJEJ0375QRRO6hv5t2_zE",
+    "searchPageUrl": "https://www.google.com/maps/search/cl%C3%ADnica%20de%20est%C3%A9tica%20Guarapuava%20PR?hl=en",
+    "searchString": "clínica de estética Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a6LzgT7b5DZ3j1ODyXIFkA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=247.7656&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h_xg29wr",
+    "businessProfileId": "17654007319363991304"
+  },
+  {
+    "title": "Jaque Vaz - Estética e Saúde",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Guarapuava, 1011 - 12º andar, Sala 123 - Cidade dos Lagos, Guarapuava - PR, 85051-010, Brazil",
+    "neighborhood": "Cidade dos Lagos",
+    "street": "Av. Guarapuava, 1011 - 12º andar, Sala 123",
+    "city": "Guarapuava",
+    "postalCode": "85051-010",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://saudeeestetica.com.br/",
+    "phone": "+55 42 99902-1551",
+    "phoneUnformatted": "+5542999021551",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.348326,
+      "lng": -51.4769612
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoxWJNpY375QRjcg-8YEFF_w",
+    "categories": [
+      "Health and beauty shop",
+      "Beautician",
+      "Beauty school",
+      "Corporate office",
+      "Esthetics service",
+      "Hair replacement service",
+      "Specialized clinic",
+      "Training center",
+      "Weight loss service",
+      "Wellness center"
+    ],
+    "fid": "0x94ef3796368915a3:0xfc170581f13ec88d",
+    "cid": "18164993677678528653",
+    "reviewsCount": 48,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 48
+    },
+    "imagesCount": 228,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:04.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Jaque%20Vaz%20-%20Est%C3%A9tica%20e%20Sa%C3%BAde&query_place_id=ChIJoxWJNpY375QRjcg-8YEFF_w",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Guarapuava%20PR?hl=en",
+    "searchString": "estética avançada Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4FGL7qRFOQTaGQumWlTvYtOlTK6Gf5bavHNDDYUrbNdfVquAaNeAaz7uPgTRPA2V0QTchybbSGHfPqheY96fEUqcNamQl882GzD4gsZMu5eBMLIYelsb-mSL6Ysspx9JPzSMphwFNH8em=w408-h503-k-no",
+    "kgmid": "/g/11y5zfq1yt",
+    "businessProfileId": "11078754553246384568"
+  },
+  {
+    "title": "Amare",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Andrade Neves, 2561 - Santa Cruz, Guarapuava - PR, 85012-020, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "R. Andrade Neves, 2561",
+    "city": "Guarapuava",
+    "postalCode": "85012-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://instagram.com/amare_gpva?igshid=YmMyMTA2M2Y=",
+    "phone": "+55 42 98833-1004",
+    "phoneUnformatted": "+5542988331004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4069579,
+      "lng": -51.469703
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9WTYw3o375QRw0HSwTUBQU0",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef377ac3d864f5:0x4d410135c1d241c3",
+    "cid": "5566731944803320259",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 2,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 20
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:04.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2 to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Amare&query_place_id=ChIJ9WTYw3o375QRw0HSwTUBQU0",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Guarapuava%20PR?hl=en",
+    "searchString": "estética avançada Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZec0PnQeKZMOyGxZoYVtdGxQwqHdI_abwzGAW2MhEWcRwJv3OcR6TPhq5EXNS1Em-Be5U4P1nHDWj1hhrK3gXixqU3Gd_N887N3rGcwSscgnD0rsKsRyrehvXRdODim5WjjUh6w=w408-h545-k-no",
+    "kgmid": "/g/11t42t6n8l",
+    "businessProfileId": "4384447567772896967"
+  },
+  {
+    "title": "Essenz Estética Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Padre José Persch, 845 - Colonia Vitoria, Guarapuava - PR, 85139-400, Brazil",
+    "neighborhood": "Colonia Vitoria",
+    "street": "Av. Padre José Persch, 845",
+    "city": "Guarapuava",
+    "postalCode": "85139-400",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99800-3228",
+    "phoneUnformatted": "+5542998003228",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.5691599,
+      "lng": -51.48879
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ25p4tMRP75QRzLtAxHZKQBM",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef4fc4b4789adb:0x13404a76c440bbcc",
+    "cid": "1387190559189285836",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:04.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Essenz%20Est%C3%A9tica%20Avan%C3%A7ada&query_place_id=ChIJ25p4tMRP75QRzLtAxHZKQBM",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Guarapuava%20PR?hl=en",
+    "searchString": "estética avançada Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZuiiXJOK8jJLDxq6LovnCQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=338.43173&pitch=0&thumbfov=100",
+    "kgmid": "/g/11k7nc23dj",
+    "businessProfileId": null
+  },
+  {
+    "title": "ReFace Harmonização e Estética Facial",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Rua Capitão Frederico Virmond, 2050 - Sl C - Centro, Guarapuava - PR, 85010-120, Brazil",
+    "neighborhood": "Centro",
+    "street": "Rua Capitão Frederico Virmond, 2050 - Sl C",
+    "city": "Guarapuava",
+    "postalCode": "85010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3090-1023",
+    "phoneUnformatted": "+554230901023",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3946408,
+      "lng": -51.4647749
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3YDR4SU375QRvBoQD92fRek",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef3725e1d180dd:0xe9459fdd0f101abc",
+    "cid": "16809016956019546812",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:04.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ReFace%20Harmoniza%C3%A7%C3%A3o%20e%20Est%C3%A9tica%20Facial&query_place_id=ChIJ3YDR4SU375QRvBoQD92fRek",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Guarapuava%20PR?hl=en",
+    "searchString": "estética avançada Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXEg-hssAvLHSj0eSL7Ckr55512ZbZnE3_uBI94oJCQrlc-X8mq_YYSLEdHKbvrI5jdWNBZkgrKH8t3lPtfeB1BR1fDPZJvbkz7DBUoRtLEo3MYxc9LfwhlMXuHCZuGFuxgJWm5-vIPVk=w408-h395-k-no",
+    "kgmid": "/g/11z36kbxl5",
+    "businessProfileId": "4840547357754853332"
+  },
+  {
+    "title": "Dra. Sabrina Martinelli Strapasson Estética Avançada",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "Av. Paraná, 315 - Bonsucesso, Guarapuava - PR, 85045-120, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "Av. Paraná, 315",
+    "city": "Guarapuava",
+    "postalCode": "85045-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99994-4537",
+    "phoneUnformatted": "+5542999944537",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3749289,
+      "lng": -51.4781402
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ54Bt19QFMCYRm2ntiiQlkEU",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x263005d4d76d80e7:0x459025248aed699b",
+    "cid": "5012547224143227291",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:04.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dra.%20Sabrina%20Martinelli%20Strapasson%20Est%C3%A9tica%20Avan%C3%A7ada&query_place_id=ChIJ54Bt19QFMCYRm2ntiiQlkEU",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Guarapuava%20PR?hl=en",
+    "searchString": "estética avançada Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bE9w9duEDwY54c8uj97vCA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=198.18706&pitch=0&thumbfov=100",
+    "kgmid": "/g/11y4tq5m__",
+    "businessProfileId": "6301386595367408796"
+  },
+  {
+    "title": "Magnifique Guarapuava Estética",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Vicente Machado, 821 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 821",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/magnifiquegp/",
+    "phone": "+55 42 99943-8644",
+    "phoneUnformatted": "+5542999438644",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3985956,
+      "lng": -51.462127
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgzYCIiY275QRtBTka3m0BKo",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef362622023683:0xaa04b4796be414b4",
+    "cid": "12251115319948743860",
+    "reviewsCount": 32,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 30
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:04.143Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Magnifique%20Guarapuava%20Est%C3%A9tica&query_place_id=ChIJgzYCIiY275QRtBTka3m0BKo",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20avan%C3%A7ada%20Guarapuava%20PR?hl=en",
+    "searchString": "estética avançada Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuNNsNA_sAsUfF8e-rU28zCtNeAWyBHnlKywgd9LR6uRFaNkdbM4tnHuy61F-BJFXBECgS1xeapWl3_d0DGIFt58LMh-lQwxA_GoK2-yQbtxZVN2_AeDrP0xYkF0bM6-G7ieYk=w408-h263-k-no",
+    "kgmid": "/g/11gds55qhb",
+    "businessProfileId": "3045858747832348860"
+  },
+  {
+    "title": "Lili Estética - Corporal, Facial, Depilação em Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Dezessete de Julho, 5 - Trianon, Guarapuava - PR, 85012-040, Brazil",
+    "neighborhood": "Trianon",
+    "street": "R. Dezessete de Julho, 5",
+    "city": "Guarapuava",
+    "postalCode": "85012-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99858-7369",
+    "phoneUnformatted": "+5542998587369",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3983212,
+      "lng": -51.4568952
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrxLxzo4375QRQ0PKfkujfXs",
+    "categories": [
+      "Health and beauty shop",
+      "Massage spa"
+    ],
+    "fid": "0x94ef378ecef112af:0x7b7da34b7eca4343",
+    "cid": "8898447983399027523",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:12.247Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lili%20Est%C3%A9tica%20-%20Corporal%2C%20Facial%2C%20Depila%C3%A7%C3%A3o%20em%20Guarapuava&query_place_id=ChIJrxLxzo4375QRQ0PKfkujfXs",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Guarapuava%20PR?hl=en",
+    "searchString": "estética facial e corporal Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezngArB6AFD4Hqed8Htx9mNzHbbM4rTZQ8OMTFTJSXcvuFFlaNgIa94u-ZfF08O3XhnBgXwm3dVzwAMs9iK_Jr2PtzwVBm98u-n-UhjAMVwdXbmkjTZl1lyXjct7noCIDCRl8KNQ=w494-h240-k-no",
+    "kgmid": "/g/11h0vt3ng_",
+    "businessProfileId": "5165615014188184803"
+  },
+  {
+    "title": "Face Doctor Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health and beauty shop",
+    "address": "R. Padre Chagas, 3619 - Sala 01 - Centro, Guarapuava - PR, 85010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Chagas, 3619 - Sala 01",
+    "city": "Guarapuava",
+    "postalCode": "85010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://linktr.ee/FaceDoctor_Guarapuava",
+    "phone": "+55 42 99132-0826",
+    "phoneUnformatted": "+5542991320826",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3944453,
+      "lng": -51.4684348
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ14OyIWU375QRmvVtdmJ6fdI",
+    "categories": [
+      "Health and beauty shop"
+    ],
+    "fid": "0x94ef376521b283d7:0xd27d7a62766df59a",
+    "cid": "15167413683366000026",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 28
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T17:20:12.247Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Face%20Doctor%20Guarapuava&query_place_id=ChIJ14OyIWU375QRmvVtdmJ6fdI",
+    "searchPageUrl": "https://www.google.com/maps/search/est%C3%A9tica%20facial%20e%20corporal%20Guarapuava%20PR?hl=en",
+    "searchString": "estética facial e corporal Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCJjlYmOYzMmaUNhOLMoJGRywJfOgAQzKrpXaj1uBEFQDMTFYXlTip71LByw8qrVCx3QqOfiV01ctUj5OOerZXROK6V3kTODbT6aey4KbnfqxKpldWtc4rAOLyzsaaBARXGt01lg=w408-h272-k-no",
+    "kgmid": "/g/11sg9w9vfb",
+    "businessProfileId": "17248547466106667178"
+  }
+]

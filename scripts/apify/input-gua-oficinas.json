@@ -1,0 +1,9 @@
+{
+  "searchStringsArray": [
+    "oficina mecânica especializada Guarapuava PR",
+    "funilaria e pintura automotiva Guarapuava PR",
+    "oficina de suspensão Guarapuava PR"
+  ],
+  "maxCrawledPlacesPerSearch": 20,
+  "proxyConfiguration": { "useApifyProxy": false }
+}

@@ -1,0 +1,4703 @@
+[
+  {
+    "title": "Tecnoportas Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door shop",
+    "address": "R. Comendador Miró, 501 - SALA 05 - Centro, Ponta Grossa - PR, 84010-160, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Comendador Miró, 501 - SALA 05",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99904-0457",
+    "phoneUnformatted": "+5542999040457",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0922488,
+      "lng": -50.1584219
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRc_UZfAb6JQR2GgYcDOzcBM",
+    "categories": [
+      "Door shop"
+    ],
+    "fid": "0x94e81bf065d4cf45:0x1370b333701868d8",
+    "cid": "1400816517617576152",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.164Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tecnoportas%20Ponta%20Grossa&query_place_id=ChIJRc_UZfAb6JQR2GgYcDOzcBM",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemlkmms0qjq1tAwM9WQQn_15VClfEHhYhgpg2HjlZ82TtZDZpOmYa-kzWKG_MgmxvcE9lIlYvm1tX3wJimrtm5AFnjJqHG_bNwhCn_FPj0qBovG4N0QxSdhaXuguhktJtoUfNu-nTIAW39=w408-h306-k-no",
+    "kgmid": "/g/11wyb6cqk6",
+    "businessProfileId": "4692730994756371475"
+  },
+  {
+    "title": "PRO PORTAS - Portas Automáticas de Comerciais, Residenciais e Industriais",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Manufacturer",
+    "address": "R. Arapongas, 124 - Nova Rússia, Ponta Grossa - PR, 84071-050, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Arapongas, 124",
+    "city": "Ponta Grossa",
+    "postalCode": "84071-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.proportas.com.br/",
+    "phone": "+55 42 99961-8938",
+    "phoneUnformatted": "+5542999618938",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0665146,
+      "lng": -50.1693345
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3wwc348b6JQRJJpAm9T5ePA",
+    "categories": [
+      "Manufacturer",
+      "Automation company",
+      "Door manufacturer",
+      "Door shop",
+      "Garage door supplier",
+      "Home automation company",
+      "Door supplier"
+    ],
+    "fid": "0x94e81b8fdf1c0cdf:0xf078f9d49b409a24",
+    "cid": "17327874257841068580",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 27
+    },
+    "imagesCount": 149,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.164Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PRO%20PORTAS%20-%20Portas%20Autom%C3%A1ticas%20de%20Comerciais%2C%20Residenciais%20e%20Industriais&query_place_id=ChIJ3wwc348b6JQRJJpAm9T5ePA",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwTTCAoKUTrWR1bq84E5XddAG-wB3i8cmals1E2N6CJIjlBeQ07U3zpVgqscH7K6Oa6BhNq8nubPZ4umSNEBOia0Cf8CaVTCx6K7zfC85PKJ-KFMq8w6lk9qsTxZFjSUW-wkOh3PIHzGM=w426-h240-k-no",
+    "kgmid": "/g/11rtkx6yt7",
+    "businessProfileId": "9712813929221072605"
+  },
+  {
+    "title": "AJL Ferro e Aço - Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "Rua: Palmeira, 14 - Contorno, Ponta Grossa - PR, 84052-090, Brazil",
+    "neighborhood": "Contorno",
+    "street": "Rua: Palmeira, 14",
+    "city": "Ponta Grossa",
+    "postalCode": "84052-090",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://ajlferroeaco.com.br/",
+    "phone": "+55 42 3226-5590",
+    "phoneUnformatted": "+554232265590",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1023222,
+      "lng": -50.1947936
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK85mMjQR6JQR0ywseHcgvOU",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94e811343266ce2b:0xe5bc2077782c2cd3",
+    "cid": "16554142027796458707",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.164Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AJL%20Ferro%20e%20A%C3%A7o%20-%20Ponta%20Grossa&query_place_id=ChIJK85mMjQR6JQR0ywseHcgvOU",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8R1XFjV80ECcWX8uXB2NxQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=54.467056&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ntfs0bs4",
+    "businessProfileId": "5519939235750180600"
+  },
+  {
+    "title": "Metalúrgica Pitangui",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Francisco Otaviano, 1894 - Nova Rússia, Ponta Grossa - PR, 84071-110, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Francisco Otaviano, 1894",
+    "city": "Ponta Grossa",
+    "postalCode": "84071-110",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://metalurgicapitangui.com.br/",
+    "phone": "+55 42 99964-1846",
+    "phoneUnformatted": "+5542999641846",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0701154,
+      "lng": -50.1730611
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCfSKXxAa6JQR1u_yywu1obc",
+    "categories": [
+      "Metallurgy company",
+      "Metal working shop"
+    ],
+    "fid": "0x94e81a105f8af409:0xb7a1b50bcbf2efd6",
+    "cid": "13232056242462191574",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 0
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metal%C3%BArgica%20Pitangui&query_place_id=ChIJCfSKXxAa6JQR1u_yywu1obc",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQ6aKBL32z6iMBWCmGo30B-mLVsnq2jVv1zw-PcZWReVQa_G3aExrmnRwQBUmLcmdjJRf9Aoybc7pimaB4e4FOvRM1RohiClklbYlh-WwEKaULdkpp1BZL0uqcAFp7VNL9L0eM9Q=w408-h306-k-no",
+    "kgmid": "/g/1ptwg1kql",
+    "businessProfileId": "5676792747180603028"
+  },
+  {
+    "title": "Porta de enrolar automática - Direto da Fábrica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Manufacturer",
+    "address": "R. Leão Federmann - Jardim Carvalho, Ponta Grossa - PR, 84043-450, Brazil",
+    "neighborhood": "Jardim Carvalho",
+    "street": "R. Leão Federmann",
+    "city": "Ponta Grossa",
+    "postalCode": "84043-450",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.maringaportas.com.br/",
+    "phone": "+55 42 99911-1000",
+    "phoneUnformatted": "+5542999111000",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.078371,
+      "lng": -50.1534993
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbxRQQQAb6JQR0qOD-F4lHVg",
+    "categories": [
+      "Manufacturer"
+    ],
+    "fid": "0x94e81b004150146f:0x581d255ef883a3d2",
+    "cid": "6349272139488797650",
+    "reviewsCount": null,
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Porta%20de%20enrolar%20autom%C3%A1tica%20-%20Direto%20da%20F%C3%A1brica&query_place_id=ChIJbxRQQQAb6JQR0qOD-F4lHVg",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11wmplh4f_",
+    "businessProfileId": null
+  },
+  {
+    "title": "Steelon Móveis - Armario guarda celular, Estante de Aço, Cofres, Arquivo de aço - Ponta Grossa -Pr",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Office furniture store",
+    "address": "R. Martim Francisco, 220 - Nova Rússia, Ponta Grossa - PR, 84053-400, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Martim Francisco, 220",
+    "city": "Ponta Grossa",
+    "postalCode": "84053-400",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://steelonmoveis.com.br/",
+    "phone": "+55 42 3122-2209",
+    "phoneUnformatted": "+554231222209",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0850652,
+      "lng": -50.1842235
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJU6U7RXAZ6JQR9oFaJKL0LPk",
+    "categories": [
+      "Office furniture store",
+      "Cabinet store",
+      "Contractor",
+      "Furniture store",
+      "Industrial equipment supplier",
+      "Package locker",
+      "Safe & vault shop",
+      "Shelving store"
+    ],
+    "fid": "0x94e81970453ba553:0xf92cf4a2245a81f6",
+    "cid": "17954994791651115510",
+    "reviewsCount": 25,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 59,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Steelon%20M%C3%B3veis%20-%20Armario%20guarda%20celular%2C%20Estante%20de%20A%C3%A7o%2C%20Cofres%2C%20Arquivo%20de%20a%C3%A7o%20-%20Ponta%20Grossa%20-Pr&query_place_id=ChIJU6U7RXAZ6JQR9oFaJKL0LPk",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeA-c3NdQCVOXNLm92eACbA7wg9UMq5vmbzDGOfH10HmM9LOhZqJN30rRuuwCakVmia88pohuBje7ahIupj5pQOpMzb75Bgf0cFClGSIOMEb9qZz4Hj1L_GjpXM7gB0svx2E7ORDfagxeur=w408-h306-k-no",
+    "kgmid": "/g/11n43w1j59",
+    "businessProfileId": "17887574671417945121"
+  },
+  {
+    "title": "PGPORTAS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door supplier",
+    "address": "R. Xavier de Souza, 113 - Uvaranas, Ponta Grossa - PR, 84030-090, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Xavier de Souza, 113",
+    "city": "Ponta Grossa",
+    "postalCode": "84030-090",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99801-3965",
+    "phoneUnformatted": "+5542998013965",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0920246,
+      "lng": -50.1217986
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-bJ3jJgb6JQRcf3kM0HYuEo",
+    "categories": [
+      "Door supplier"
+    ],
+    "fid": "0x94e81b988c77b2f9:0x4ab8d84133e4fd71",
+    "cid": "5384291129076546929",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PGPORTAS&query_place_id=ChIJ-bJ3jJgb6JQRcf3kM0HYuEo",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11zxnw5svc",
+    "businessProfileId": "5247071147752139019"
+  },
+  {
+    "title": "STAMPAFER Comércio de Ferro e Aço Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "R. Pref. Campos Mello, 430 - Nova Rússia, Ponta Grossa - PR, 84070-420, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Pref. Campos Mello, 430",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-420",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.stampafer.com.br/",
+    "phone": "+55 42 3027-8100",
+    "phoneUnformatted": "+554230278100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0797712,
+      "lng": -50.1853149
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLZe02DIX6JQRF86rveUqwKQ",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94e81732d8b4972d:0xa4c02ae5bdabce17",
+    "cid": "11871535783966658071",
+    "reviewsCount": 38,
+    "reviewsDistribution": {
+      "oneStar": 15,
+      "twoStar": 1,
+      "threeStar": 3,
+      "fourStar": 1,
+      "fiveStar": 18
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 5:50 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 5:50 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 5:50 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 5:50 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 5:50 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=STAMPAFER%20Com%C3%A9rcio%20de%20Ferro%20e%20A%C3%A7o%20Ponta%20Grossa&query_place_id=ChIJLZe02DIX6JQRF86rveUqwKQ",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oq4vLh1f-wsAVlzC4_1W_g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=55.434494&pitch=-9.844651&thumbfov=100",
+    "kgmid": "/g/11rb5_380x",
+    "businessProfileId": "17942934015364902999"
+  },
+  {
+    "title": "Casa das Portas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Store",
+    "address": "R. Francisco Ferreira, 505 - Boa Vista, Ponta Grossa - PR, 84073-000, Brazil",
+    "neighborhood": "Boa Vista",
+    "street": "R. Francisco Ferreira, 505",
+    "city": "Ponta Grossa",
+    "postalCode": "84073-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3236-1022",
+    "phoneUnformatted": "+554232361022",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0602463,
+      "lng": -50.1675166
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT9RJsu4Z6JQR9Ol7miVb7ew",
+    "categories": [
+      "Store"
+    ],
+    "fid": "0x94e819eeb249d44f:0xeced5b259a7be9f4",
+    "cid": "17072401979495148020",
+    "reviewsCount": 57,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 7,
+      "fourStar": 12,
+      "fiveStar": 33
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Casa%20das%20Portas&query_place_id=ChIJT9RJsu4Z6JQR9Ol7miVb7ew",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTLotBpIB2wMd4n_FW1y5OzCniWhe1W8kkl6YTEcuh4ftt6Bx7Wx3bPxwS_no5ddJvgpsgcoP2cn7gID8OqMuLA_Xc1asbOzEneNx_jnBzJjjgbTPQT2xzfJYPO-DHmdcKlbY=w408-h244-k-no",
+    "kgmid": "/g/11fx7lwk13",
+    "businessProfileId": "9875043080900903053"
+  },
+  {
+    "title": "Telhaço Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel fabricator",
+    "address": "Av. Souza Naves, 3948 - Chapada, Ponta Grossa - PR, 84062-000, Brazil",
+    "neighborhood": "Chapada",
+    "street": "Av. Souza Naves, 3948",
+    "city": "Ponta Grossa",
+    "postalCode": "84062-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.telhaco.com.br/",
+    "phone": "+55 42 3225-2000",
+    "phoneUnformatted": "+554232252000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.062112,
+      "lng": -50.215661
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO36jQZ8Q6JQRubK6T0LDjmw",
+    "categories": [
+      "Steel fabricator"
+    ],
+    "fid": "0x94e8109f41a37e3b:0x6c8ec3424fbab2b9",
+    "cid": "7822404292362023609",
+    "reviewsCount": 128,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 1,
+      "threeStar": 4,
+      "fourStar": 4,
+      "fiveStar": 112
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:42 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:42 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:42 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:42 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:42 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Telha%C3%A7o%20Ponta%20Grossa&query_place_id=ChIJO36jQZ8Q6JQRubK6T0LDjmw",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB99rEXeZOEqWGevgnDf0wPfhaYVrxuKLFSSwmY-TKB8UN2VHTdjLKQiew8cKPg4_tp4rkP7uQHiGrYRYrrx3SqoGHGwHWRZHj3m6oFY3oyxgdEnC52i3_fV6ljf86nTKITAn4Wv004d-Y=w408-h306-k-no",
+    "kgmid": "/g/1yfjgqg4g",
+    "businessProfileId": "7669229613351926900"
+  },
+  {
+    "title": "HVB Serralheria.",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Júlia Lopes, 980 - Órfãs, Ponta Grossa - PR, 84070-202, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Júlia Lopes, 980",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-202",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3301-6121",
+    "phoneUnformatted": "+554233016121",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.079043,
+      "lng": -50.168713
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX8z3cx4a6JQRUT--5N53DMo",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94e81a1e73f7cc5f:0xca0c77dee4be3f51",
+    "cid": "14559143494586089297",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 9
+    },
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=HVB%20Serralheria.&query_place_id=ChIJX8z3cx4a6JQRUT--5N53DMo",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzZoFNJ5E7xqFZaIQ4X1pddQY5o5YaQtgwH04XbMohjAR5V7V2bt377Tmv7GYgAYb7hXKXSuAAcw-X1kms1LkA20jgTRDgZ6qf-uq4GMQ6thf0Kd2i_52i0XaxvipWC9Xi3twl6A=w426-h240-k-no",
+    "kgmid": "/g/11g1mm96tt",
+    "businessProfileId": "15728734580083230186"
+  },
+  {
+    "title": "REIS FERRO E AÇO - INDÚSTRIA E COMÉRCIO FERRO E AÇO E TELHAS METÁLICAS",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel fabricator",
+    "address": "Av. Pres. Kennedy, s/n - Km105 - Colonia Dona Luiza, Ponta Grossa - PR, 84043-540, Brazil",
+    "neighborhood": "Colonia Dona Luiza",
+    "street": "Av. Pres. Kennedy, s/n - Km105",
+    "city": "Ponta Grossa",
+    "postalCode": "84043-540",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://reisferroeaco.ind.br/",
+    "phone": "+55 42 2018-1414",
+    "phoneUnformatted": "+554220181414",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1370337,
+      "lng": -50.1630194
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgeFgGt4b6JQR2-KnaNI0VI8",
+    "categories": [
+      "Steel fabricator",
+      "Building materials market",
+      "Lock Store",
+      "Metallurgy company",
+      "Paint store",
+      "Roofing contractor",
+      "Sheet metal contractor",
+      "Tool store"
+    ],
+    "fid": "0x94e81bde1a60e181:0x8f5434d268a7e2db",
+    "cid": "10327937923770999515",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 2
+    },
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=REIS%20FERRO%20E%20A%C3%87O%20-%20IND%C3%9ASTRIA%20E%20COM%C3%89RCIO%20FERRO%20E%20A%C3%87O%20E%20TELHAS%20MET%C3%81LICAS&query_place_id=ChIJgeFgGt4b6JQR2-KnaNI0VI8",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePVmE35_dIoKTb5Inn-pRAgwcuUQEFkuC-uN9aHVlbg02IqrDbZzVl-QAHmBU2Xb0wOisNp8cF25Yz8tZt5aHYgP-8D0ci7ZB1lHm3Ej_L9gVjC9-06S4YY0WoxDSuewErSB9tbpbROWQ=w408-h306-k-no",
+    "kgmid": "/g/11yw4z3mxk",
+    "businessProfileId": "5384170096019135226"
+  },
+  {
+    "title": "Famma Portas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Door supplier",
+    "address": "R. Júlia Lopes, 780 - Órfãs, Ponta Grossa - PR, 84070-202, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Júlia Lopes, 780",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-202",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.facebook.com/fammaportas",
+    "phone": "+55 42 99852-1272",
+    "phoneUnformatted": "+5542998521272",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0807663,
+      "lng": -50.1694814
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT9OyqGsb6JQRHqwamiDRXtU",
+    "categories": [
+      "Door supplier"
+    ],
+    "fid": "0x94e81b6ba8b2d34f:0xd55ed1209a1aac1e",
+    "cid": "15374956115844049950",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Famma%20Portas&query_place_id=ChIJT9OyqGsb6JQRHqwamiDRXtU",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8TZJatVPB6fgU5TFVghBoseu_PzvKE6HECJr8I5cQcwzkDBX3nNN3AiL9gyPPLCgnqIk5xW1nSto67AfLHQN_NsYCYwNIWiW1BTEMcb3QLcgGemuEm4rs8lghM_EYF0RtMLbRp_tD0UH2=w408-h612-k-no",
+    "kgmid": "/g/11rq3gj44j",
+    "businessProfileId": "14933835340844604451"
+  },
+  {
+    "title": "Metalponta Metalúrgica",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "R. Barão Von Holleben, 167 - Contorno, Ponta Grossa - PR, 84060-220, Brazil",
+    "neighborhood": "Contorno",
+    "street": "R. Barão Von Holleben, 167",
+    "city": "Ponta Grossa",
+    "postalCode": "84060-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.metalponta.com.br/",
+    "phone": "+55 42 3238-2024",
+    "phoneUnformatted": "+554232382024",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.1069354,
+      "lng": -50.2153367
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj9w7wpYZ6JQRl04oyIIHDtk",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94e81996c23bdc8f:0xd90e0782c8284e97",
+    "cid": "15640446814189538967",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 4
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metalponta%20Metal%C3%BArgica&query_place_id=ChIJj9w7wpYZ6JQRl04oyIIHDtk",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QJjgbIEk-2DkeQaNp2mdkQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=224.52956&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tgxvq2g",
+    "businessProfileId": null
+  },
+  {
+    "title": "Metal Flash Metalúrgica | Porta Paletes e Armazenagem",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metallurgy company",
+    "address": "Rua Taquari dos Russos KM 3, - Shangrilá, Ponta Grossa - PR, 84126-100, Brazil",
+    "neighborhood": "Shangrilá",
+    "street": "Rua Taquari dos Russos KM 3,",
+    "city": "Ponta Grossa",
+    "postalCode": "84126-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://metalflash.com.br/",
+    "phone": "+55 42 99872-0123",
+    "phoneUnformatted": "+5542998720123",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1136802,
+      "lng": -50.2457428
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe-6g7fYR6JQRK4lcV-FsgU0",
+    "categories": [
+      "Metallurgy company"
+    ],
+    "fid": "0x94e811f6eda0ee7b:0x4d816ce1575c892b",
+    "cid": "5584864728005249323",
+    "reviewsCount": 107,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 107
+    },
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metal%20Flash%20Metal%C3%BArgica%20%7C%20Porta%20Paletes%20e%20Armazenagem&query_place_id=ChIJe-6g7fYR6JQRK4lcV-FsgU0",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK4rj5B5dlQuRg7X0QXvDSxWQLD5AIvtKjFof-8ZOGrkCcEiRF89eJE2B_YieCEqMWUnNT7_Ka4WT0A28WqpdOdLBPKMSm96Sj3oeem7CQYekrOrHn_4OKgsmUZG9_eTpxvftE=w426-h240-k-no",
+    "kgmid": "/g/11ltjvx1l5",
+    "businessProfileId": "17873590267939748046"
+  },
+  {
+    "title": "PontaAço Soluções em Aço e Ferro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "R. Antúrio, 372 - Contorno, Ponta Grossa - PR, 84060-200, Brazil",
+    "neighborhood": "Contorno",
+    "street": "R. Antúrio, 372",
+    "city": "Ponta Grossa",
+    "postalCode": "84060-200",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://pontaaco.com.br/contato",
+    "phone": "+55 42 3025-6530",
+    "phoneUnformatted": "+554230256530",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1182027,
+      "lng": -50.2031599
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_18BDzka6JQRv35Frg3m2cU",
+    "categories": [
+      "Steel distributor"
+    ],
+    "fid": "0x94e81a390f015fff:0xc5d9e60dae457ebf",
+    "cid": "14256679041850769087",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PontaA%C3%A7o%20Solu%C3%A7%C3%B5es%20em%20A%C3%A7o%20e%20Ferro&query_place_id=ChIJ_18BDzka6JQRv35Frg3m2cU",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RF-5fafyijJacC-GRj3PTA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=276.36295&pitch=0&thumbfov=100",
+    "kgmid": "/g/11p0bl1wjn",
+    "businessProfileId": "4699504802055503544"
+  },
+  {
+    "title": "Serralheria PerfilTEC",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metalwork",
+    "address": "R. Simão Pedro, 189 - Cará-Cará, Ponta Grossa - PR, 84032-570, Brazil",
+    "neighborhood": "Cará-Cará",
+    "street": "R. Simão Pedro, 189",
+    "city": "Ponta Grossa",
+    "postalCode": "84032-570",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99948-8814",
+    "phoneUnformatted": "+5542999488814",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1129359,
+      "lng": -50.1130816
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnY3_cGUb6JQRO-iU2-Gy8gY",
+    "categories": [
+      "Metalwork",
+      "Manufacturer",
+      "Remodeler"
+    ],
+    "fid": "0x94e81b6570ff8d9d:0x6f2b2e1db94e83b",
+    "cid": "500659191712901179",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 20
+    },
+    "imagesCount": 287,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.165Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Serralheria%20PerfilTEC&query_place_id=ChIJnY3_cGUb6JQRO-iU2-Gy8gY",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAobFph8GF9S9j8x5tQ7LXgCidw6rtTfA9_RsuGGBVX7909ArzYry4fxHtdKLPqarFmEF6I_avBCmGhNM392uyamHkJD2WNta64hpi0sCdJf495sIIykDcyb5Ep5T5Z-zslwPpDU_-57k=w408-h306-k-no",
+    "kgmid": "/g/11kq_26dxk",
+    "businessProfileId": "9364831258372482108"
+  },
+  {
+    "title": "Serralheria e Metalúrgica Woicizack",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Garage door supplier",
+    "address": "R. Henrique Dias, 112 - Uvaranas, Ponta Grossa - PR, 84025-050, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Henrique Dias, 112",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.woicizack.com.br/",
+    "phone": "+55 42 99972-5389",
+    "phoneUnformatted": "+5542999725389",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.090034,
+      "lng": -50.1473304
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfc0_hkka6JQRWzYh5y7FSik",
+    "categories": [
+      "Garage door supplier",
+      "Home automation company",
+      "Welder"
+    ],
+    "fid": "0x94e81a49863fcd7d:0x294ac52ee721365b",
+    "cid": "2975407309068514907",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 7
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.166Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Serralheria%20e%20Metal%C3%BArgica%20Woicizack&query_place_id=ChIJfc0_hkka6JQRWzYh5y7FSik",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4e4mvPCF5RuliOl5JDFiVi88n8EVu8VDasb1zX_GDwDeSG2lqtpQ7MoUcMQeEtnaXE1pnvUZ62qWm4l3DGDbdB9Y3sUNgEbNIUa-nzd92h-ULMrTc1LasNQw39DiGyfDIDB4=w493-h240-k-no",
+    "kgmid": "/g/1tdmg0yy",
+    "businessProfileId": "17706722582685396507"
+  },
+  {
+    "title": "Triângulo de Minas Soluções Metálicas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Furniture maker",
+    "address": "Av. Melvin Jones, 748 - Chapada, Ponta Grossa - PR, 84062-150, Brazil",
+    "neighborhood": "Chapada",
+    "street": "Av. Melvin Jones, 748",
+    "city": "Ponta Grossa",
+    "postalCode": "84062-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://triangulosm.com.br/",
+    "phone": "+55 42 99907-5167",
+    "phoneUnformatted": "+5542999075167",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.086606,
+      "lng": -50.2027119
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE-SyxkoX6JQR6BynPBfH45c",
+    "categories": [
+      "Furniture maker",
+      "Garage door supplier",
+      "Metalwork",
+      "Wood frame supplier"
+    ],
+    "fid": "0x94e8174ac6b2e413:0x97e3c7173ca71ce8",
+    "cid": "10944810422056197352",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 4
+    },
+    "imagesCount": 211,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.166Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tri%C3%A2ngulo%20de%20Minas%20Solu%C3%A7%C3%B5es%20Met%C3%A1licas&query_place_id=ChIJE-SyxkoX6JQR6BynPBfH45c",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedx4aY2jlR9JlYBa3oeVfDNC9knO_n3tVY3drIv40Wy4xPWiuZViQQffWYGQzAWys9bLqYn9jIJvpl5WGdJYrojLxU_2HO9bj99KL2Y5X4jOHypqP96hT3yqRBC1p38FoycMnF=w408-h306-k-no",
+    "kgmid": "/g/11dymxkpws",
+    "businessProfileId": "548801704129564540"
+  },
+  {
+    "title": "ConstruFerros",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Steel distributor",
+    "address": "R. João Felde, 500 - Boa Vista, Ponta Grossa - PR, 84072-307, Brazil",
+    "neighborhood": "Boa Vista",
+    "street": "R. João Felde, 500",
+    "city": "Ponta Grossa",
+    "postalCode": "84072-307",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.construferros.com.br/",
+    "phone": "+55 42 3086-4089",
+    "phoneUnformatted": "+554230864089",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0580827,
+      "lng": -50.1732856
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa_EpMsMZ6JQRNHT2UI828mY",
+    "categories": [
+      "Steel distributor",
+      "Building materials store"
+    ],
+    "fid": "0x94e819c33229f16b:0x66f2368f50f67434",
+    "cid": "7418051525399180340",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:24:46.166Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ConstruFerros&query_place_id=ChIJa_EpMsMZ6JQRNHT2UI828mY",
+    "searchPageUrl": "https://www.google.com/maps/search/portas%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "portas de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K9E9wdeWDmzmhklOKVTjVg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=116.543915&pitch=0&thumbfov=100",
+    "kgmid": "/g/1hm3w4j38",
+    "businessProfileId": "15197710184382314874"
+  },
+  {
+    "title": "Novak Esquadrias de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Manufacturer",
+    "address": "R. Ricardo Lemos, 413 - Oficinas, Ponta Grossa - PR, 84036-050, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Ricardo Lemos, 413",
+    "city": "Ponta Grossa",
+    "postalCode": "84036-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://novakesquadriasdealuminio.com.br/",
+    "phone": "+55 42 99946-3894",
+    "phoneUnformatted": "+5542999463894",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.124121,
+      "lng": -50.1510125
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq4ykdOYa6JQRguI9ghPcJzM",
+    "categories": [
+      "Manufacturer"
+    ],
+    "fid": "0x94e81ae674a48cab:0x3327dc13823de282",
+    "cid": "3686156796373623426",
+    "reviewsCount": 88,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 83
+    },
+    "imagesCount": 44,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.964Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Novak%20Esquadrias%20de%20Alum%C3%ADnio&query_place_id=ChIJq4ykdOYa6JQRguI9ghPcJzM",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJ2K7ZERezWDelbx0m19DyvldJaLF7F91u_OKdJlUBz5i6YBWgY6wxNJtC6Nmwsy7gMSKbBWlEvUn8yhN57gtKLi6MzH-irP2mD4U-4zsmLkDfXvSyGV7V_UFRHx8noB7tqu8-OA=w408-h306-k-no",
+    "kgmid": "/g/11fsm2dtx5",
+    "businessProfileId": null
+  },
+  {
+    "title": "Esquadrias Real - Portas, Janelas, Gradis, Portões Automáticos",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Sabiá, 806 - Chapada, Ponta Grossa - PR, 84064-220, Brazil",
+    "neighborhood": "Chapada",
+    "street": "R. Sabiá, 806",
+    "city": "Ponta Grossa",
+    "postalCode": "84064-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.esquadriasreal.com.br/",
+    "phone": "+55 42 3228-0068",
+    "phoneUnformatted": "+554232280068",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0558071,
+      "lng": -50.2254028
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ248i6AEX6JQRjx3mlENrv7w",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop",
+      "Metalwork"
+    ],
+    "fid": "0x94e81701e8228fdb:0xbcbf6b4394e61d8f",
+    "cid": "13600707337687276943",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 61,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.964Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 11:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20Real%20-%20Portas%2C%20Janelas%2C%20Gradis%2C%20Port%C3%B5es%20Autom%C3%A1ticos&query_place_id=ChIJ248i6AEX6JQRjx3mlENrv7w",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCHCuZu6cTCuUm1tVKN0XlyEsfGp3iR5_yAdFPGc4Ahs_Ahf_nBiozTMohXFxIcyZjL-H6aQri8xpd4eUhuJrYeStZG2G8--AddMc9NJzFaScqTpem-6hlyI5rgNbZZWu_qQ-4=w426-h240-k-no",
+    "kgmid": "/g/1tslkwp3",
+    "businessProfileId": "16973632110227823390"
+  },
+  {
+    "title": "PG INOX",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metalwork",
+    "address": "esquina com a - Rua Rômulo Gardenal, R. Jaci Monteiro, 580 - Boa Vista, Ponta Grossa - PR, 84073-245, Brazil",
+    "neighborhood": "Boa Vista",
+    "street": "esquina com a - Rua Rômulo Gardenal, R. Jaci Monteiro, 580",
+    "city": "Ponta Grossa",
+    "postalCode": "84073-245",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99973-9693",
+    "phoneUnformatted": "+5542999739693",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.056586,
+      "lng": -50.157496
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF5D4exsZ6JQR2hpgvyimi9k",
+    "categories": [
+      "Metalwork"
+    ],
+    "fid": "0x94e8191b7bf89017:0xd98ba628bf601ada",
+    "cid": "15675805621932792538",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 97,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.964Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PG%20INOX&query_place_id=ChIJF5D4exsZ6JQR2hpgvyimi9k",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1oGAYjD5VjicvGX_oYY_xZpADaqjzCOnJalO4vYeqI5Crh0PpDtC3JkTXeqVrDnUxVm2-5wr4x4wVqCOZgkAxEk2bP7zPXP8s0vCGFiTElsxhlYuKVNj1SJopk6IEnwl-JxY4DGqq-ozl=w408-h544-k-no",
+    "kgmid": "/g/11myd2b216",
+    "businessProfileId": "3771369270086130296"
+  },
+  {
+    "title": "Esquadrias de Alumínio Vitória Excellence",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Rio Amazonas, 376 - JARDIM SANTA EDWIGES, Ponta Grossa - PR, 84064-540, Brazil",
+    "neighborhood": "JARDIM SANTA EDWIGES",
+    "street": "R. Rio Amazonas, 376",
+    "city": "Ponta Grossa",
+    "postalCode": "84064-540",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.vitoriaexcellence.com.br/",
+    "phone": "+55 42 98849-9709",
+    "phoneUnformatted": "+5542988499709",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0499062,
+      "lng": -50.2368841
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5xS_kh8a6JQRB5BLBMqjk4M",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e81a1f92bf14e7:0x8393a3ca044b9007",
+    "cid": "9481101728595808263",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.964Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20de%20Alum%C3%ADnio%20Vit%C3%B3ria%20Excellence&query_place_id=ChIJ5xS_kh8a6JQRB5BLBMqjk4M",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2Mat1CxM8y-d9urGr_DXHLsMrtAvu1ugJ479M512NTPOQXwiUW2pjsW4DxZrZkstWwVGA2E7c-_gWrjDCvxPVJxuUgc6Qeu_RGn4Q4zXZiljLtPqzjXc_8pD_SCNut6LJy5c=w427-h240-k-no",
+    "kgmid": "/g/11bz0s1qm6",
+    "businessProfileId": "1032484050247881051"
+  },
+  {
+    "title": "Gold Esquadrias de Aluminio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Av. Maria Alvina Primor, 288 - Uvaranas, Ponta Grossa - PR, 84031-341, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. Maria Alvina Primor, 288",
+    "city": "Ponta Grossa",
+    "postalCode": "84031-341",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://goldesquadriasdealuminio.com.br/",
+    "phone": "+55 42 99104-8686",
+    "phoneUnformatted": "+5542991048686",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1008081,
+      "lng": -50.1134631
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ62tfYwAb6JQR2p8S0mCUgBE",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e81b00635f6beb:0x11809460d2129fda",
+    "cid": "1261171039225946074",
+    "reviewsCount": 40,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 39
+    },
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gold%20Esquadrias%20de%20Aluminio&query_place_id=ChIJ62tfYwAb6JQR2p8S0mCUgBE",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpSyygsWqN5lsNbf-21DlKG9Zh9tUsddiC879Hq4851fQ9asfp-qFlO0rNvGKnBxkBM5WSYKFg03bkLarNgl15zjpAy5VHZVHK1F2rR3e2H2Nr0Vimn7TVT_xR-_t5FppgfB2NtJG1TH9P=w408-h408-k-no",
+    "kgmid": "/g/11w_hd3xkn",
+    "businessProfileId": "16610075574380473256"
+  },
+  {
+    "title": "ClasseA Esquadrias&vidraçaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Cel. José Miró de Freitas, 1021 - Boa Vista, Ponta Grossa - PR, 84070-440, Brazil",
+    "neighborhood": "Boa Vista",
+    "street": "R. Cel. José Miró de Freitas, 1021",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-440",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99993-6995",
+    "phoneUnformatted": "+5542999936995",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0725358,
+      "lng": -50.1831581
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPwozaZoZ6JQRajE-DtXNGZE",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e8199a69330a3f:0x9119cdd50e3e316a",
+    "cid": "10455614324868002154",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ClasseA%20Esquadrias%26vidra%C3%A7aria&query_place_id=ChIJPwozaZoZ6JQRajE-DtXNGZE",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9X6x-5o-91Y_oKW5bFjRZQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=291.7253&pitch=0&thumbfov=100",
+    "kgmid": "/g/11zctcp8gg",
+    "businessProfileId": "13871853237385851260"
+  },
+  {
+    "title": "Esquadrias e Vidraçaria SCHALON",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Rio Paraná, 96 - Chapada, Ponta Grossa - PR, 84064-410, Brazil",
+    "neighborhood": "Chapada",
+    "street": "R. Rio Paraná, 96",
+    "city": "Ponta Grossa",
+    "postalCode": "84064-410",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.schalon.com.br/",
+    "phone": "+55 42 3239-9471",
+    "phoneUnformatted": "+554232399471",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0523492,
+      "lng": -50.2345589
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwXS3WlcW6JQRuH4JHUZxroQ",
+    "categories": [
+      "Aluminum frames supplier",
+      "Aluminum supplier",
+      "Aluminum window",
+      "Door supplier",
+      "Glass & mirror shop",
+      "Glazier",
+      "PVC windows supplier",
+      "Window supplier"
+    ],
+    "fid": "0x94e816575ab774c1:0x84ae71461d097eb8",
+    "cid": "9560703604902952632",
+    "reviewsCount": 34,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 3,
+      "fiveStar": 29
+    },
+    "imagesCount": 101,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:40 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:40 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:40 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:40 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:40 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20e%20Vidra%C3%A7aria%20SCHALON&query_place_id=ChIJwXS3WlcW6JQRuH4JHUZxroQ",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2LbDAgUsDMZAqdSdgIxbDK_zeSb-mOebDwN5a88Dsu1ROOeRuXD8_Z57yrx7rxFZEl6hfNucAU9iAJgMhKDo1VELRM35QBj0M1-N2p8JH1qyBfVxxb57l3y4dUtRr_5Djww4c=w426-h240-k-no",
+    "kgmid": "/g/1td39dgz",
+    "businessProfileId": "7206298199484705551"
+  },
+  {
+    "title": "KF Vidraçaria & Esquadria de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Glass & mirror shop",
+    "address": "R. Alfredo Trentin, 353 - Órfãs, Ponta Grossa - PR, 84015-060, Brazil",
+    "neighborhood": "Órfãs",
+    "street": "R. Alfredo Trentin, 353",
+    "city": "Ponta Grossa",
+    "postalCode": "84015-060",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://kfvidracaria.com.br/",
+    "phone": "+55 42 99992-8015",
+    "phoneUnformatted": "+5542999928015",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0682053,
+      "lng": -50.1622902
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX8wQESkR6JQRqxPqQjIOLKo",
+    "categories": [
+      "Glass & mirror shop",
+      "Aluminum frames supplier",
+      "Glass cutting service",
+      "Glass engraving service",
+      "Glass repair service",
+      "Glass shop",
+      "Glassware manufacturer",
+      "Glazier"
+    ],
+    "fid": "0x94e811291110cc5f:0xaa2c0e3242ea13ab",
+    "cid": "12262191494456808363",
+    "reviewsCount": 90,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 89
+    },
+    "imagesCount": 307,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=KF%20Vidra%C3%A7aria%20%26%20Esquadria%20de%20Alum%C3%ADnio&query_place_id=ChIJX8wQESkR6JQRqxPqQjIOLKo",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJCR-sQ7IPw4Lst8o1EknRysCHOXO8STituT2TPxQ0COrAMEejNNr0foVvIrBr6wHH_vvuxd0L9-eg8nWrjczJ-iUVxcSuVMD1O9m6DVIxAggySK5F_Pt8K9zEbl-m8HEvhgiA2B0TrRVA=w408-h271-k-no",
+    "kgmid": "/g/11wfz2ps6r",
+    "businessProfileId": "4407038691420746426"
+  },
+  {
+    "title": "Alumínio e Ferro Metalbox",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. São João do Caiuá, 141 - Contorno, Ponta Grossa - PR, 84052-150, Brazil",
+    "neighborhood": "Contorno",
+    "street": "R. São João do Caiuá, 141",
+    "city": "Ponta Grossa",
+    "postalCode": "84052-150",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3223-3633",
+    "phoneUnformatted": "+554232233633",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.1035145,
+      "lng": -50.1910372
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs87iepgQ6JQRtAtF_sAVHEo",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e810987ae2ceb3:0x4a1c15c0fe450bb4",
+    "cid": "5340167176798407604",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alum%C3%ADnio%20e%20Ferro%20Metalbox&query_place_id=ChIJs87iepgQ6JQRtAtF_sAVHEo",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=649DKXwGSJGgQMhCMeq2-A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=216.45026&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdz132d",
+    "businessProfileId": null
+  },
+  {
+    "title": "De Santis Esquadrias de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Padre Nóbrega, 1535 - Estrela, Ponta Grossa - PR, 84040-090, Brazil",
+    "neighborhood": "Estrela",
+    "street": "R. Padre Nóbrega, 1535",
+    "city": "Ponta Grossa",
+    "postalCode": "84040-090",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/DeSantisEsquadrias",
+    "phone": "+55 42 3223-8951",
+    "phoneUnformatted": "+554232238951",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1113414,
+      "lng": -50.1648774
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi2-t8tsb6JQRjnmWKhbebJ0",
+    "categories": [
+      "Aluminum frames supplier",
+      "Aluminum window",
+      "Door supplier"
+    ],
+    "fid": "0x94e81bdbf2ad6f8b:0x9d6cde162a96798e",
+    "cid": "11343685748224588174",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 21
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=De%20Santis%20Esquadrias%20de%20Alum%C3%ADnio&query_place_id=ChIJi2-t8tsb6JQRjnmWKhbebJ0",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZiXOTtr3_mmFtFUYoBcEEw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=240.38718&pitch=-6.343515&thumbfov=100",
+    "kgmid": "/g/11qptb3y1_",
+    "businessProfileId": "5911384420823248050"
+  },
+  {
+    "title": "Esquadrias Abba",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Cel. José Miró de Freitas, 215 - Boa Vista, Ponta Grossa - PR, 84070-440, Brazil",
+    "neighborhood": "Boa Vista",
+    "street": "R. Cel. José Miró de Freitas, 215",
+    "city": "Ponta Grossa",
+    "postalCode": "84070-440",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3236-4003",
+    "phoneUnformatted": "+554232364003",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0804072,
+      "lng": -50.1872602
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPfv3tGAX6JQRu3j8pLd93aE",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e81760b4f7fb3d:0xa1dd7db7a4fc78bb",
+    "cid": "11663616837659949243",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 4
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20Abba&query_place_id=ChIJPfv3tGAX6JQRu3j8pLd93aE",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOHik8uoxDZ8nylAuBoVT5C1HPVf7ge_3LXc6-q0LzYkmB01FqGMEHdkSGLDAJx4Rm2cpCG24YtNsjPOthowInyF7ncqh7tN79TKWZ9Po0c2RDMwR_fZEEa47Y4xwXlTxagwQq=w408-h906-k-no",
+    "kgmid": "/g/11gjs9hc65",
+    "businessProfileId": "7020184848797326532"
+  },
+  {
+    "title": "Isa Esquadrias de Alumínio e Vidraçaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Window installation service",
+    "address": "Rua Prefeito Coronel - R. Prefeito Coronel Victor Antônio Batista, 1052 - Neves, Ponta Grossa - PR, 84020-360, Brazil",
+    "neighborhood": "Neves",
+    "street": "Rua Prefeito Coronel - R. Prefeito Coronel Victor Antônio Batista, 1052",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://isaesquadrias.com.br/",
+    "phone": "+55 42 99819-6102",
+    "phoneUnformatted": "+5542998196102",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0810632,
+      "lng": -50.1339501
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWxCYWQ4b6JQRNM_UBQDan8Q",
+    "categories": [
+      "Window installation service",
+      "Aluminum supplier",
+      "Aluminum window",
+      "Window supplier"
+    ],
+    "fid": "0x94e81b0e5998105b:0xc49fda0005d4cf34",
+    "cid": "14168282646363557684",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 102,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Isa%20Esquadrias%20de%20Alum%C3%ADnio%20e%20Vidra%C3%A7aria&query_place_id=ChIJWxCYWQ4b6JQRNM_UBQDan8Q",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVF5CEc8Ye2Hugra6nOjbA3k4dlZ3zW6jJbw8Masd8OSchBIiylc7SIfo0_3-o3UeFLudCCw_g31QTKEp9guz5L3ekK7qWWZm1mLFoea6MFPU-peTX-49uPSQwYx2-iyzAI8Jy7fxi5tmw=w408-h544-k-no",
+    "kgmid": "/g/11xd4qptdf",
+    "businessProfileId": "4870458479532472364"
+  },
+  {
+    "title": "Aluponta Esquadrias de Alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Av. General Carlos Cavalcanti, 426 - Uvaranas, Ponta Grossa - PR, 84025-510, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "Av. General Carlos Cavalcanti, 426",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-510",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3224-4066",
+    "phoneUnformatted": "+554232244066",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.090408,
+      "lng": -50.1478102
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ__-jnEka6JQRcrPB3Q_W5Ko",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e81a499ca3ffff:0xaae4d60fddc1b372",
+    "cid": "12314202644771091314",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aluponta%20Esquadrias%20de%20Alum%C3%ADnio&query_place_id=ChIJ__-jnEka6JQRcrPB3Q_W5Ko",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpv9GLIXaPM5Z5P081hiZOHhGgRA5_3JGkUrvxo9VhENGOHN4Mjo2H9wey2t5gbCbmmaLZ0nZAiyRd4-Bfe45SBkpVo0C-yzvQ-XXvTtNvHKESB8xbK99rpOkrg2gsI1UFMGr7=w408-h544-k-no",
+    "kgmid": "/g/11f5dc1bzl",
+    "businessProfileId": "8228098007072847605"
+  },
+  {
+    "title": "Teruma Vidraçaria e Esquadrias",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Augusto Severo, 148 - Nova Rússia, Ponta Grossa - PR, 84053-355, Brazil",
+    "neighborhood": "Nova Rússia",
+    "street": "R. Augusto Severo, 148",
+    "city": "Ponta Grossa",
+    "postalCode": "84053-355",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://teruma.com.br/",
+    "phone": "+55 42 3227-8151",
+    "phoneUnformatted": "+554232278151",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0843535,
+      "lng": -50.1789261
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkVCyNgca6JQRW3FHzjc5QdQ",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop",
+      "Mirror shop"
+    ],
+    "fid": "0x94e81a0736b25091:0xd4413937ce47715b",
+    "cid": "15294568721373688155",
+    "reviewsCount": 215,
+    "reviewsDistribution": {
+      "oneStar": 11,
+      "twoStar": 0,
+      "threeStar": 9,
+      "fourStar": 18,
+      "fiveStar": 177
+    },
+    "imagesCount": 99,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Teruma%20Vidra%C3%A7aria%20e%20Esquadrias&query_place_id=ChIJkVCyNgca6JQRW3FHzjc5QdQ",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBj6MNhIFL3S6lfPrasgU0MQeF8LIuoYOu2Q-16NY5Pwr77w1hFSfD_GMAJ_3xQfYTPkzRdaa3t_At3cieFgSfLrUk9sInVAknY-Aq8JFJU0YNr8OPdzm6SUi4zkChgqjF4nABIQ=w408-h331-k-no",
+    "kgmid": "/g/11clsfw8ck",
+    "businessProfileId": "8661681334907385073"
+  },
+  {
+    "title": "Bella Vista Esquadrias",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "Rua Mandaguaçu, 733 - Oficinas, Ponta Grossa - PR, 84036-390, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "Rua Mandaguaçu, 733",
+    "city": "Ponta Grossa",
+    "postalCode": "84036-390",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99957-0872",
+    "phoneUnformatted": "+5542999570872",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1262328,
+      "lng": -50.1456612
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ51I8yGEb6JQRH_nJ3XhPUa0",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94e81b61c83c52e7:0xad514f78ddc9f91f",
+    "cid": "12488850622210767135",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bella%20Vista%20Esquadrias&query_place_id=ChIJ51I8yGEb6JQRH_nJ3XhPUa0",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMbr2pKsuekjEEOulGr0lDtxt2gwh_RG753JcbK07jZFAFazMLnsO2IQ15u87MqKv8UCvaWVp2ieSC5pHnTjSR2xHVkEnt9ElHEDyebvR35vI9ke5JFu-kOtEE_0zufaoW7HU=w408-h306-k-no",
+    "kgmid": "/g/11gt_wj3v7",
+    "businessProfileId": "12494707153613126875"
+  },
+  {
+    "title": "Serralheria e Esquadrias de Silferro",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metalwork",
+    "address": "R. Ucrânia, 1234 - Vila Marina, Ponta Grossa - PR, 84025-290, Brazil",
+    "neighborhood": "Vila Marina",
+    "street": "R. Ucrânia, 1234",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 3226-7561",
+    "phoneUnformatted": "+554232267561",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0841047,
+      "lng": -50.1292374
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo4V5V7gb6JQRwCnmPRTZX6Q",
+    "categories": [
+      "Metalwork"
+    ],
+    "fid": "0x94e81bb8577985a3:0xa45fd9143de629c0",
+    "cid": "11844424225968761280",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Serralheria%20e%20Esquadrias%20de%20Silferro&query_place_id=ChIJo4V5V7gb6JQRwCnmPRTZX6Q",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ae1QefXzRHAZBUD4tM4z0Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=34.074905&pitch=1.4343297&thumbfov=100",
+    "kgmid": "/g/1tdn57tv",
+    "businessProfileId": null
+  },
+  {
+    "title": "Comac - Portas, Janelas e Vidraçaria",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Glass & mirror shop",
+    "address": "R. Cordovil do Merithy, 172 - Oficinas, Ponta Grossa - PR, 84045-060, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Cordovil do Merithy, 172",
+    "city": "Ponta Grossa",
+    "postalCode": "84045-060",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.comacpg.com.br/",
+    "phone": "+55 42 3028-0735",
+    "phoneUnformatted": "+554230280735",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1168961,
+      "lng": -50.160501
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP2v9ffMa6JQRmEZYuOMOwyk",
+    "categories": [
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94e81af37dfd6b3f:0x29c30ee3b8584698",
+    "cid": "3009265347226781336",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 13,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 6,
+      "fiveStar": 17
+    },
+    "imagesCount": 32,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Comac%20-%20Portas%2C%20Janelas%20e%20Vidra%C3%A7aria&query_place_id=ChIJP2v9ffMa6JQRmEZYuOMOwyk",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSRyNp2XOyX7oTXIdsGnho9ZVrnoQaLOHOu9A-xVyxEGyu0yRBao8hW239Yab6gdupVYbabjmknwvINftdAiCYYFXq97DhXqWi9YHsXqSo2uTBx9mPJq6q82m7hnqqDp4qBTTW=w408-h489-k-no",
+    "kgmid": "/g/11byxg0180",
+    "businessProfileId": "8796011966435515687"
+  },
+  {
+    "title": "Vidraçaria Comercial Dias Ltda - Vidraçaria em Ponta Grossa",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Afonso Celso, 790 - Uvaranas, Ponta Grossa - PR, 84050-360, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Afonso Celso, 790",
+    "city": "Ponta Grossa",
+    "postalCode": "84050-360",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://vidracariacomercialdias.com.br/linktree/?utm_source=googlemeunegocio&utm_medium=organico&utm_campaign=vidracaria",
+    "phone": "+55 42 3025-5611",
+    "phoneUnformatted": "+554230255611",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.085043,
+      "lng": -50.146677
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo1p3KDQa6JQRwuIHpf6MdKk",
+    "categories": [
+      "Aluminum frames supplier",
+      "Glass & mirror shop",
+      "Glass repair service",
+      "Glass shop",
+      "Glazier",
+      "Mirror shop"
+    ],
+    "fid": "0x94e81a3428775aa3:0xa9748cfea507e2c2",
+    "cid": "12210539515026596546",
+    "reviewsCount": 104,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 3,
+      "threeStar": 9,
+      "fourStar": 23,
+      "fiveStar": 66
+    },
+    "imagesCount": 294,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:25:55.965Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:45 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:45 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:45 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:45 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:45 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vidra%C3%A7aria%20Comercial%20Dias%20Ltda%20-%20Vidra%C3%A7aria%20em%20Ponta%20Grossa&query_place_id=ChIJo1p3KDQa6JQRwuIHpf6MdKk",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20a%C3%A7o%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de aço Ponta Grossa PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyEkdovFn3kKrt6lt20deI8v61_t-4bias2ogrvbOq3YXoydYCxveRnMGkhZlvsajdw4qCyRxApLvRa0w63afCin8Bdxx9w07r0SzN73eWwnEahIwcSXG9vLho0UNmvj24L-Fd3GAvkWig=w408-h408-k-no",
+    "kgmid": "/g/1tctmz0b",
+    "businessProfileId": "9694016834306109424"
+  },
+  {
+    "title": "filial mazur vidros e Esquadrias em alumínio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Glass & mirror shop",
+    "address": "Av. Visc. de Taunay, 177 - Centro, Ponta Grossa - PR, 84010-760, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Visc. de Taunay, 177",
+    "city": "Ponta Grossa",
+    "postalCode": "84010-760",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99815-1703",
+    "phoneUnformatted": "+5542998151703",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.0941975,
+      "lng": -50.1651208
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSRAtYQAb6JQR2kIp_pP3iKg",
+    "categories": [
+      "Glass & mirror shop"
+    ],
+    "fid": "0x94e81b00612d1049:0xa888f793fe2942da",
+    "cid": "12144228610200912602",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:27:29.133Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=filial%20mazur%20vidros%20e%20Esquadrias%20em%20alum%C3%ADnio&query_place_id=ChIJSRAtYQAb6JQR2kIp_pP3iKg",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Ponta Grossa PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRrjj5SksbUZBUVlooPXxP6tQzcBF3cdfgQE2jEMFiVotE1d8i10RJ8prrg5AVWLA1nt6YJdxAT1tkWiec7ft5sCAFp5TGvKZhxTvtfa_hYfuVn3nruLZqPAWRnehS5c3Ev5pocuD8_dwm=w408-h544-k-no",
+    "kgmid": "/g/11yl3x3h8n",
+    "businessProfileId": null
+  },
+  {
+    "title": "Esquadrias O.A.K",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum frames supplier",
+    "address": "R. Ernesto Mazzardo, 84 - Chapada, Ponta Grossa - PR, 84064-606, Brazil",
+    "neighborhood": "Chapada",
+    "street": "R. Ernesto Mazzardo, 84",
+    "city": "Ponta Grossa",
+    "postalCode": "84064-606",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/OsmarAKaspary",
+    "phone": "+55 42 99945-4889",
+    "phoneUnformatted": "+5542999454889",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.052322,
+      "lng": -50.2390875
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz2IehR0X6JQR04qVgRiwH6s",
+    "categories": [
+      "Aluminum frames supplier"
+    ],
+    "fid": "0x94e8171d851e62cf:0xab1fb01881958ad3",
+    "cid": "12330767924063472339",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:27:29.133Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Esquadrias%20O.A.K&query_place_id=ChIJz2IehR0X6JQR04qVgRiwH6s",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Ponta Grossa PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLchPEmBVpzzqFYAT5Jj6zia9aTcoMtQ0glXZemMw9DDDB1Hb9wvrdFXZ93YH2NcJFPf3IiOJaLnlq-nCK1vD-xzzScILFdquxsJB8a77_N_j8_7yP-t-XQro5VXvMv-4B1aX8Rq=w408-h741-k-no",
+    "kgmid": "/g/11y1l8mb42",
+    "businessProfileId": "169294418346274013"
+  },
+  {
+    "title": "Fábrica de Esquadrias Urbano",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metalwork",
+    "address": "R. Dr. Alves Maciel, 380 - Oficinas, Ponta Grossa - PR, 84035-310, Brazil",
+    "neighborhood": "Oficinas",
+    "street": "R. Dr. Alves Maciel, 380",
+    "city": "Ponta Grossa",
+    "postalCode": "84035-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99981-4341",
+    "phoneUnformatted": "+5542999814341",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.1125648,
+      "lng": -50.1478148
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNVU7LkEb6JQRrT405a9R400",
+    "categories": [
+      "Metalwork"
+    ],
+    "fid": "0x94e81b412e3b5535:0x4de351afe5343ead",
+    "cid": "5612419376540303021",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:27:29.133Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=F%C3%A1brica%20de%20Esquadrias%20Urbano&query_place_id=ChIJNVU7LkEb6JQRrT405a9R400",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Ponta Grossa PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h0Vx7Ec-mdUgOaWK3C8nyQ&cb_client=search.gws-prod.grass&w=408&h=240&yaw=262.14752&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fm5p2_07",
+    "businessProfileId": null
+  },
+  {
+    "title": "MB Esquadrias",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metalwork",
+    "address": "Estr. José Kalinoski, 182 - Contorno, Ponta Grossa - PR, 84060-160, Brazil",
+    "neighborhood": "Contorno",
+    "street": "Estr. José Kalinoski, 182",
+    "city": "Ponta Grossa",
+    "postalCode": "84060-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99917-8535",
+    "phoneUnformatted": "+5542999178535",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.1079091,
+      "lng": -50.2075604
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAfLY5r4Q6JQRCMdqAE4Ycno",
+    "categories": [
+      "Metalwork"
+    ],
+    "fid": "0x94e810bee6d8f201:0x7a72184e006ac708",
+    "cid": "8823141343265736456",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:27:29.133Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MB%20Esquadrias&query_place_id=ChIJAfLY5r4Q6JQRCMdqAE4Ycno",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Ponta Grossa PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLea8cL6zKEQXvguP-Q_x8N7Bty6HJcRu1NPS1feg0F_Q-AxXE09Mdcre5iN1IVcJG4Wbh0_h0HH5nfyfQyQtJt9_8wHhB8LOVb0lK6TKAj4VvgOzZvwuX15g-GY7xYVvgKRyVsa=w408-h725-k-no",
+    "kgmid": "/g/1pt_3zr_h",
+    "businessProfileId": "6337214503495459583"
+  },
+  {
+    "title": "Alluv Ponta Grossa - Portas de alumínio e vidro para moveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Aluminum supplier",
+    "address": "R. Henrique Dias, 113 - Uvaranas, Ponta Grossa - PR, 84025-050, Brazil",
+    "neighborhood": "Uvaranas",
+    "street": "R. Henrique Dias, 113",
+    "city": "Ponta Grossa",
+    "postalCode": "84025-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.alluv.com.br/",
+    "phone": "+55 42 3028-8809",
+    "phoneUnformatted": "+554230288809",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0897058,
+      "lng": -50.1475612
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTxd-Iy4b6JQReLrcRu2cPqM",
+    "categories": [
+      "Aluminum supplier",
+      "Manufacturer",
+      "Furniture maker",
+      "Glass & mirror shop",
+      "Glass shop",
+      "Glazier",
+      "Mirror shop"
+    ],
+    "fid": "0x94e81b2e237e174f:0xa33e9ced46dcba78",
+    "cid": "11763011819648367224",
+    "reviewsCount": 33,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 33
+    },
+    "imagesCount": 29,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:27:29.134Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alluv%20Ponta%20Grossa%20-%20Portas%20de%20alum%C3%ADnio%20e%20vidro%20para%20moveis&query_place_id=ChIJTxd-Iy4b6JQReLrcRu2cPqM",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Ponta Grossa PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdomXR1pBOsxcfNGZDklK0-KrjYiNYfbFSRLdUeS-4fbzR0bZQRIxtWaR00Uu2iURdQCxwE4F7LpxY5TgBLyTEudtkAL4BCMYcoZx8UsYPCm89CpklwnGE2bzNCpxjcCJ9ra0Ln=w408-h470-k-no",
+    "kgmid": "/g/11h51jk6kn",
+    "businessProfileId": "10463187850199888001"
+  },
+  {
+    "title": "Dinho Esquadrias",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Metalwork",
+    "address": "R. Profa. Balbina Branco, 482 - Neves, Ponta Grossa - PR, 84020-100, Brazil",
+    "neighborhood": "Neves",
+    "street": "R. Profa. Balbina Branco, 482",
+    "city": "Ponta Grossa",
+    "postalCode": "84020-100",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "phone": "+55 42 99811-1687",
+    "phoneUnformatted": "+5542998111687",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.0768215,
+      "lng": -50.1361591
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN5uFgZgb6JQRFCIjPHoUaqc",
+    "categories": [
+      "Metalwork"
+    ],
+    "fid": "0x94e81b9881859b37:0xa76a147a3c232214",
+    "cid": "12063477067092795924",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T13:27:29.134Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 6 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dinho%20Esquadrias&query_place_id=ChIJN5uFgZgb6JQRFCIjPHoUaqc",
+    "searchPageUrl": "https://www.google.com/maps/search/esquadrias%20de%20alum%C3%ADnio%20Ponta%20Grossa%20PR?hl=en",
+    "searchString": "esquadrias de alumínio Ponta Grossa PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd24anJkL5z0fIW4m_9TQyUXF_g-Er9G0cFXKFLCzcBaSw4oBQhK-VAx4nAw7Q9arQp2oxxLGJngcdyJBs0gF53yepY2Kzx4ByAGY6TkcELOEYQ2xwsmimCpMFPbJCXcfZyeuglPA=w408-h244-k-no",
+    "kgmid": "/g/11hzfpswrh",
+    "businessProfileId": "16998194443675559563"
+  }
+]

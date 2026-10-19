@@ -1,0 +1,3747 @@
+[
+  {
+    "title": "Imobiliária Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Padre Chagas, n° 2901 - Centro, Guarapuava - PR, 85065-050, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Chagas, n° 2901",
+    "city": "Guarapuava",
+    "postalCode": "85065-050",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://imobiliariaguarapuava.com/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3899651,
+      "lng": -51.463489
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-4Yz5Ww375QRknMe2qu_uoE",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef376ce53386fb:0x81babfabda1e7392",
+    "cid": "9347994721380627346",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 21
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Guarapuava&query_place_id=ChIJ-4Yz5Ww375QRknMe2qu_uoE",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyx-mqIBIUj45-BNoh7TLH7FAbkuJTRp3Rg8WnPNvlZUcV-aQnMddCq8UqooUvQslAdyOiyZsxqF9qZyoEqsNXJxFYH_G_s41ry251vyO2xQ4HeDFH9V0bwS5XVRchpMuxQN6E=w515-h240-k-no",
+    "kgmid": "/g/11vjrnx4jm",
+    "businessProfileId": "17387619592165121264"
+  },
+  {
+    "title": "La Casa Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Rua Capitão Frederico Virmond, 1621 - Centro, Guarapuava - PR, 85010-120, Brazil",
+    "neighborhood": "Centro",
+    "street": "Rua Capitão Frederico Virmond, 1621",
+    "city": "Guarapuava",
+    "postalCode": "85010-120",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.lacasaimoveis.com.br/",
+    "phone": "+55 42 3627-2009",
+    "phoneUnformatted": "+554236272009",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3918191,
+      "lng": -51.4616201
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfRs7Ht0375QR98tg84N1VoA",
+    "categories": [
+      "Real estate agency",
+      "Apartment rental agency",
+      "Real estate agent"
+    ],
+    "fid": "0x94ef37dd1e3b1b7d:0x80567583f360cbf7",
+    "cid": "9247708094436264951",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 27
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20Im%C3%B3veis&query_place_id=ChIJfRs7Ht0375QR98tg84N1VoA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXcCOggpFukw4B3LldPXHN-uCUDwsCtAs7kSCXki4wnn_q9y7X4-PYXmXuWwX0JTwXneHd_sLSYd52QxEe0Ca1QUbIurMak_o74oeIcLpnZEpczjHQ3nYK5xztgHk4f5kF8tSvxiGXfIw=w408-h306-k-no",
+    "kgmid": "/g/11n40vdfg_",
+    "businessProfileId": "14338441336395063953"
+  },
+  {
+    "title": "Imobiliária Solo",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Saldanha Marinho, 1399 - Sl 04 - Centro, Guarapuava - PR, 85010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Saldanha Marinho, 1399 - Sl 04",
+    "city": "Guarapuava",
+    "postalCode": "85010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.imobiliariasolo.com.br/",
+    "phone": "+55 42 3623-3122",
+    "phoneUnformatted": "+554236233122",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3959018,
+      "lng": -51.4686431
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGSGBVkM375QRYWO9xwL2nAg",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef374356812119:0x89cf602c7bd6361",
+    "cid": "620641340471731041",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Solo&query_place_id=ChIJGSGBVkM375QRYWO9xwL2nAg",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPQu7RiMxqjr66qSuPdRk_H-NHJVEEoFlfDWpY1aP4xr9D7QCf2HYKCPSG8ZD3HUAGS0NWiFuDRl8kXBOHw6u3ItwLVuLd9pSKfrGy8JKF_Kc00OSyE9YBVjKfNYLNRipbXCA2BRL8Dnw=w408-h544-k-no",
+    "kgmid": "/g/11x8366x74",
+    "businessProfileId": "11432130185172678545"
+  },
+  {
+    "title": "Janete Bonassoli Imóveis Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cel. Luís Lustosa, 1501 - Santa Cruz, Guarapuava - PR, 85015-450, Brazil",
+    "neighborhood": "Santa Cruz",
+    "street": "R. Cel. Luís Lustosa, 1501",
+    "city": "Guarapuava",
+    "postalCode": "85015-450",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.instagram.com/imoveisjanetebonassoli/",
+    "phone": "+55 42 99930-2512",
+    "phoneUnformatted": "+5542999302512",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4039053,
+      "lng": -51.4755692
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAbMzCE4375QRt-VWoZbzBl4",
+    "categories": [
+      "Real estate agency",
+      "Commercial real estate agency",
+      "Real estate agent",
+      "Real estate consultant"
+    ],
+    "fid": "0x94ef374e0833b301:0x5e06f396a156e5b7",
+    "cid": "6775370517702960567",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 20
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–5 PM"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Janete%20Bonassoli%20Im%C3%B3veis%20Guarapuava&query_place_id=ChIJAbMzCE4375QRt-VWoZbzBl4",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iWmYB60WxTefROqBYDr2UA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=217.53574&pitch=0&thumbfov=100",
+    "kgmid": "/g/11nk39fz9z",
+    "businessProfileId": "4421576568554665264"
+  },
+  {
+    "title": "Ls Imóveis - Imobiliária especializado em compra e venda de imóveis em Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Padre Chagas, 4140 - Centro, Guarapuava - PR, 85010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Chagas, 4140",
+    "city": "Guarapuava",
+    "postalCode": "85010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.lsimoveis.net/",
+    "phone": "+55 42 99935-8132",
+    "phoneUnformatted": "+5542999358132",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3971998,
+      "lng": -51.4720461
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdY2uIZM375QR9T10aNBsUcw",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Condominium complex",
+      "Condominium rental agency",
+      "Land allotment",
+      "Real estate agent"
+    ],
+    "fid": "0x94ef379321ae8d75:0xcc516cd068743df5",
+    "cid": "14722668299212307957",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 39
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "8:30 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–12 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ls%20Im%C3%B3veis%20-%20Imobili%C3%A1ria%20especializado%20em%20compra%20e%20venda%20de%20im%C3%B3veis%20em%20Guarapuava&query_place_id=ChIJdY2uIZM375QR9T10aNBsUcw",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJN9bl_SS2U0y2FAxfwbzXA3CUEIIJ1tPmQe9qv-_2cKvLw_oL50RKBfallM0MB31UYdwcYarWS4dwV_nKi20LFbyvonOCcWw11ZCUkXMPkxtQeRCnuOkHT5LKuiy99LmK1hZJng=w408-h408-k-no",
+    "kgmid": "/g/11rggsl9wx",
+    "businessProfileId": "17836788053108600218"
+  },
+  {
+    "title": "FAAX Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. Prof. Pedro Carli, 4056 - Vila Carli, Guarapuava - PR, 85040-005, Brazil",
+    "neighborhood": "Vila Carli",
+    "street": "Av. Prof. Pedro Carli, 4056",
+    "city": "Guarapuava",
+    "postalCode": "85040-005",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.faax.com.br/",
+    "phone": "+55 42 3304-3301",
+    "phoneUnformatted": "+554233043301",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3777101,
+      "lng": -51.4860516
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtWlR7VE275QR84C4YwlWjrQ",
+    "categories": [
+      "Real estate agency",
+      "Appraiser",
+      "Commercial real estate agency",
+      "Property management company",
+      "Real estate agent",
+      "Real estate appraiser",
+      "Real estate consultant",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94ef3651ed5169b5:0xb48e560963b880f3",
+    "cid": "13010430971847672051",
+    "reviewsCount": 594,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 10,
+      "fiveStar": 575
+    },
+    "imagesCount": 46,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FAAX%20Im%C3%B3veis&query_place_id=ChIJtWlR7VE275QR84C4YwlWjrQ",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc42AQ1lGC-nNS1r-Ds73oqZll10DbrrWG_MxbP4a1gSVZ1M7ZODnkS5AeeBYtjDJHyJEhzZ2HIORoHv_S-DYZqX6j9kLI2Vwy_CkARrPD2n_-anbDDYhmJMu4IQ7yKBL9zOKj67A=w426-h240-k-no",
+    "kgmid": "/g/11b61rjk1q",
+    "businessProfileId": "4606755776983812701"
+  },
+  {
+    "title": "Immob Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. XV de Novembro, 6653 - Centro, Guarapuava - PR, 85065-000, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. XV de Novembro, 6653",
+    "city": "Guarapuava",
+    "postalCode": "85065-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://immobimoveis.com.br/",
+    "phone": "+55 42 99954-1166",
+    "phoneUnformatted": "+5542999541166",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3881654,
+      "lng": -51.4601335
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1URQguw375QRK72_BBCTqqA",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef37ec825044d5:0xa0aa931004bfbd2b",
+    "cid": "11577227489117715755",
+    "reviewsCount": 49,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 49
+    },
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Immob%20Im%C3%B3veis&query_place_id=ChIJ1URQguw375QRK72_BBCTqqA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXvfllRE6Vc6W5BPhFLun1pQGk_4hKVnWN7IEzB0EsC-QbI8UeXJ2avejIpxxVVl5zaeAUldGDLCPoIyOh-oVRR1I28H3vn3X4qUp_NoJkDLXjsDN6vllD_x6nfc_8SpyiIJVAww=w408-h272-k-no",
+    "kgmid": "/g/11y4lb323p",
+    "businessProfileId": "12975542106712749253"
+  },
+  {
+    "title": "Imperium Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Vicente Machado, 1360 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 1360",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imperiumimoveis.com.br/",
+    "phone": "+55 42 3621-7100",
+    "phoneUnformatted": "+554236217100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.394858,
+      "lng": -51.465596
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFQ1FTy4275QRO0R3NO7okFA",
+    "categories": [
+      "Real estate agency",
+      "Real estate appraiser",
+      "Real estate rental agency"
+    ],
+    "fid": "0x94ef362e4f450d15:0x5090e8ee3477443b",
+    "cid": "5805396029460661307",
+    "reviewsCount": 161,
+    "reviewsDistribution": {
+      "oneStar": 16,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 5,
+      "fiveStar": 139
+    },
+    "imagesCount": 66,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imperium%20Im%C3%B3veis&query_place_id=ChIJFQ1FTy4275QRO0R3NO7okFA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLckteh54m3Jy_CTZj7RwVHQKrbIhFJ3553VbyiNJJ7k7nF6HQ9sQhfaI2XHvZgcmUgK9GgVvv-v0eijWsQ45XKTrWrpNdNApaGES9H2Xe44Vv5oQDgNTpkVBbhGqX6E2sVaJkMzYw=w426-h240-k-no",
+    "kgmid": "/g/1vpptp1p",
+    "businessProfileId": "12864131560480412896"
+  },
+  {
+    "title": "Imobiliária Latitus",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Romeu Karpinski Rocha, 3673 - Bonsucesso, Guarapuava - PR, 85035-310, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Romeu Karpinski Rocha, 3673",
+    "city": "Guarapuava",
+    "postalCode": "85035-310",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.latitus.com.br/",
+    "phone": "+55 42 98421-1202",
+    "phoneUnformatted": "+5542984211202",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3797926,
+      "lng": -51.4758166
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxxC8tc4375QRVeVpuWAKins",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef37ceb5bc10c7:0x7b8a0a60b969e555",
+    "cid": "8901939023995069781",
+    "reviewsCount": 71,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 67
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Latitus&query_place_id=ChIJxxC8tc4375QRVeVpuWAKins",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS-hp-WoJtiYNUYYrOdQMS7anEUkcD2-rIDYuT19_gnFcfoEw2KGf2rXmC3hmnhvgC7Hu4yW6eZC1a_N8v341DeKOLEIOkdtwmSPliC3XVz7cksPpogCMynz6xnF8Khs5FTOU-z7nUW_M=w408-h306-k-no",
+    "kgmid": "/g/11x8d7gj87",
+    "businessProfileId": "13217243157512840611"
+  },
+  {
+    "title": "Imobliliaria Blue Crow",
+    "subTitle": "Gralha Azul",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Saldanha Marinho, 1122 - Centro, Guarapuava - PR, 85010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Saldanha Marinho, 1122",
+    "city": "Guarapuava",
+    "postalCode": "85010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.imobiliariagralhaazul.com.br/",
+    "phone": "+55 42 3623-6881",
+    "phoneUnformatted": "+554236236881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3975482,
+      "lng": -51.466517
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLysHXS0275QRnn-cHeHVJmo",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef362d5d072b2f:0x6a26d5e11d9c7f9e",
+    "cid": "7649036179976519582",
+    "reviewsCount": 377,
+    "reviewsDistribution": {
+      "oneStar": 27,
+      "twoStar": 6,
+      "threeStar": 12,
+      "fourStar": 25,
+      "fiveStar": 307
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobliliaria%20Blue%20Crow&query_place_id=ChIJLysHXS0275QRnn-cHeHVJmo",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5n3nec5EN5hzkusagbC1lFJiZCI2R6GQPGfnClJWV5OCXfH86PwzfSJ-gvckelHR9WjOlMfw2-WECal4steisUOJ-U81XIcD4p--cJTvYaJ1GPBc9NULXZz_6LozuRUjlAmmc=w408-h306-k-no",
+    "kgmid": "/g/1tflhcvt",
+    "businessProfileId": "8225206708675480755"
+  },
+  {
+    "title": "Base Real Imóveis - Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Vicente Machado, 2097 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 2097",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://baserealimoveis.com/?utm_source=google-gmb-guarapuava&utm_medium=google_meu_negocio&utm_campaign=google_meu_negocio_guarapuava&utm_content=link_bot%C3%A3o_gmb",
+    "phone": "+55 42 3122-4646",
+    "phoneUnformatted": "+554231224646",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3903596,
+      "lng": -51.4711433
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgd11ETs375QRVdRCQOGVm2o",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef373b1175dd81:0x6a9b95e14042d455",
+    "cid": "7681898384088814677",
+    "reviewsCount": 80,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 75
+    },
+    "imagesCount": 45,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Base%20Real%20Im%C3%B3veis%20-%20Guarapuava&query_place_id=ChIJgd11ETs375QRVdRCQOGVm2o",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSFqkHBDlOV_LASeCeReEzoQQ9uMRjFOv5thzuQHinVbP88c_dlL0kodprq_VLFNKUcXKVEQ22rriQa1sRIUWuvTt6lc9MrPDuwvSyjcsAnKPrwrswspBemEJrNuMK7_RLlO8=w426-h240-k-no",
+    "kgmid": "/g/11h0jkz7s5",
+    "businessProfileId": "1417447511364887101"
+  },
+  {
+    "title": "Imobiliária Evidência",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Ávio Bitencourt Ribas, 176 - Bonsucesso, Guarapuava - PR, 85035-240, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Ávio Bitencourt Ribas, 176",
+    "city": "Guarapuava",
+    "postalCode": "85035-240",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imobiliariaevidencia.com.br/",
+    "phone": "+55 42 3623-4138",
+    "phoneUnformatted": "+554236234138",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3779909,
+      "lng": -51.4794683
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJC4djuS0275QRHKjxR6YhGnE",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef362db963870b:0x711a21a647f1a81c",
+    "cid": "8149863473735641116",
+    "reviewsCount": 248,
+    "reviewsDistribution": {
+      "oneStar": 63,
+      "twoStar": 5,
+      "threeStar": 16,
+      "fourStar": 29,
+      "fiveStar": 135
+    },
+    "imagesCount": 48,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Evid%C3%AAncia&query_place_id=ChIJC4djuS0275QRHKjxR6YhGnE",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetY3QBUWx3C9qKfo-w_oRc4V_St5lmZ9WjrQcUi5LB4YqCpfPAIOHIs0WEeFo1aWvZ7eVBsilTk1IBsOsKwzfZAIz5pcTAW0A0CXY8mqgoNxjXmaDpokjgZ2dkdVQaIBqmIz7U=w408-h306-k-no",
+    "kgmid": "/g/11b5qts2_4",
+    "businessProfileId": "13060626010578771013"
+  },
+  {
+    "title": "Colossi Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Vicente Machado, 2370 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 2370",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://colossiimoveis.com.br/",
+    "phone": "+55 42 99945-9835",
+    "phoneUnformatted": "+5542999459835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3883024,
+      "lng": -51.4727556
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc7PpsZU375QRboBu-iC6OCc",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef3795b1e9b373:0x2738ba20fa6e806e",
+    "cid": "2826213416978251886",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 36
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Colossi%20Im%C3%B3veis&query_place_id=ChIJc7PpsZU375QRboBu-iC6OCc",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOUhgqwQ3Up5wjaS1PY8llSiVfFXqu6ThxJe_Oz5fpsJ9z3Y5HCZXYT1a6Cnt8u7SoMSE_w_80jbi1eTCbJj8ZI0PzIHByq1gE9_HUwUVaQ5jaXtrJD2v7I4a8yr0O32s_XDja=w408-h532-k-no",
+    "kgmid": "/g/11w1x2bwsv",
+    "businessProfileId": "11265765623560641413"
+  },
+  {
+    "title": "Apolar Imóveis Guarapuava - Venda de Casa | Apartamento | Terreno | Chácara",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quintino Bocaiúva, 1584 - Sala 2 - Centro, Guarapuava - PR, 85010-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quintino Bocaiúva, 1584 - Sala 2",
+    "city": "Guarapuava",
+    "postalCode": "85010-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.apolar.com.br/franquias/guarapuava",
+    "phone": "+55 42 3036-0955",
+    "phoneUnformatted": "+554230360955",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3953511,
+      "lng": -51.4705482
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5_OZeS0275QRRt6yFeZeqQU",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Commercial real estate agency",
+      "Condominium rental agency",
+      "Home inspector",
+      "Real estate agent",
+      "Real estate appraiser",
+      "Real estate rental agency",
+      "Vacation home rental agency"
+    ],
+    "fid": "0x94ef362d7999f3e7:0x5a95ee615b2de46",
+    "cid": "407961583553273414",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 17
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apolar%20Im%C3%B3veis%20Guarapuava%20-%20Venda%20de%20Casa%20%7C%20Apartamento%20%7C%20Terreno%20%7C%20Ch%C3%A1cara&query_place_id=ChIJ5_OZeS0275QRRt6yFeZeqQU",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiiBuVTwYV1tzmmLcb07BoKxHpH6Zrmae32nR-cOIKk5h5eM6tbvWatUD5qftULa1wMpaMadgNv_S6JHrFrB_PuEp2_9FgAMcwH45Wrtll0n6YHjJsW2WbRE8eJtg66GAIFiHjeg=w426-h240-k-no",
+    "kgmid": "/g/11hcmpz_hg",
+    "businessProfileId": "15044013023184995509"
+  },
+  {
+    "title": "Kaneko Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "esq - Rua Inácio Karpinski, Av. Manoel Ribas, 1280 - Bonsucesso, Guarapuava - PR, 85045-000, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "esq - Rua Inácio Karpinski, Av. Manoel Ribas, 1280",
+    "city": "Guarapuava",
+    "postalCode": "85045-000",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://kanekoimoveis.com.br/",
+    "phone": "+55 42 98818-0333",
+    "phoneUnformatted": "+5542988180333",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3747439,
+      "lng": -51.473876
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnUWQP-Y375QR5KOKGB6qkUg",
+    "categories": [
+      "Real estate agency",
+      "Real estate agent"
+    ],
+    "fid": "0x94ef37e63f90459d:0x4891aa1e188aa3e4",
+    "cid": "5229147688591336420",
+    "reviewsCount": 223,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 5,
+      "fourStar": 11,
+      "fiveStar": 204
+    },
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:45 AM, 1:15 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kaneko%20Im%C3%B3veis&query_place_id=ChIJnUWQP-Y375QR5KOKGB6qkUg",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLctLMPip8qFCR11pB7GiMrjc_a_dOlRKyXXz8NoM9ZDmirwH1BgEXaK6aQwU1c2_hbV2vDtA2JnXPeY5wuY6cpGD2f7UqSrvly34sEQoXPu9sTdDCWr0kE3Um5mOTrKtr9rVih6=w426-h240-k-no",
+    "kgmid": "/g/11frb80vzq",
+    "businessProfileId": "3543172983225577097"
+  },
+  {
+    "title": "Property J Losso",
+    "subTitle": "J. Losso Assessoria Imobiliária",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Barão do Rio Branco, 1027 - Centro, Guarapuava - PR, 85010-040, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Barão do Rio Branco, 1027",
+    "city": "Guarapuava",
+    "postalCode": "85010-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.jlosso.com.br/",
+    "phone": "+55 42 3623-4675",
+    "phoneUnformatted": "+554236234675",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3926268,
+      "lng": -51.47161
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9yFjPTM275QRTI_KeZWX1q4",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef36333d6321f7:0xaed6979579ca8f4c",
+    "cid": "12598423675864780620",
+    "reviewsCount": 215,
+    "reviewsDistribution": {
+      "oneStar": 40,
+      "twoStar": 4,
+      "threeStar": 11,
+      "fourStar": 14,
+      "fiveStar": 146
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:15 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:15 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:15 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:15 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:15 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Property%20J%20Losso&query_place_id=ChIJ9yFjPTM275QRTI_KeZWX1q4",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUVUt5c0JkJtx2KwghCArwpchDC8W4Mzt0IJQ5aHmVaHnPBIb0FhoPiGBLxL2kM7gkWEGC8nG-q-paMLrDC_pDPR2HWHqCcDYCbCSPT6M2pM9w6RFhb_YoBSFoMte51pveKnD0OQ=w408-h647-k-no",
+    "kgmid": "/g/11b6jgrj63",
+    "businessProfileId": "11259078739492471115"
+  },
+  {
+    "title": "Prosperità Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Saldanha Marinho, 2088 - Centro, Guarapuava - PR, 85010-290, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Saldanha Marinho, 2088",
+    "city": "Guarapuava",
+    "postalCode": "85010-290",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.prosperitaimoveis.imb.br/",
+    "phone": "+55 42 3304-6412",
+    "phoneUnformatted": "+554233046412",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.391326,
+      "lng": -51.4733096
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD5dVn3U375QRl8ptIEB0ebk",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef37759f55970f:0xb9797440206dca97",
+    "cid": "13364841187969452695",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prosperit%C3%A0%20Im%C3%B3veis&query_place_id=ChIJD5dVn3U375QRl8ptIEB0ebk",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhaEGQydD_K9Dnh7S3vAP00nrBWiGqoVs1GFpuDo7hpOOl338HvdytxCsE1jInF7jVEukZ_bP23TPIXBlVaKLNMsML69QRQRFFvfk37Xh2yg6TBikTC99pxUI-AaRrZ8JTkkrQmuAf7esF=w408-h544-k-no",
+    "kgmid": "/g/11md7lh070",
+    "businessProfileId": "16285537064444200998"
+  },
+  {
+    "title": "Imobiliária Gaspar",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Padre Chagas, 3636 - Centro, Guarapuava - PR, 85010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Padre Chagas, 3636",
+    "city": "Guarapuava",
+    "postalCode": "85010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imobiliariagaspar.com.br/",
+    "phone": "+55 42 3623-4074",
+    "phoneUnformatted": "+554236234074",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3942457,
+      "lng": -51.4689272
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwTlJ9C0275QRQ1htkBA59wk",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef362df44939c1:0x9f73910906d5843",
+    "cid": "718105408894228547",
+    "reviewsCount": 167,
+    "reviewsDistribution": {
+      "oneStar": 59,
+      "twoStar": 18,
+      "threeStar": 20,
+      "fourStar": 24,
+      "fiveStar": 46
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11:30 AM, 1 to 6:18 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20Gaspar&query_place_id=ChIJwTlJ9C0275QRQ1htkBA59wk",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XAd_0m8wxPNFLvZET3a37Q&cb_client=search.gws-prod.grass&w=408&h=240&yaw=322.83624&pitch=0.5366764&thumbfov=100",
+    "kgmid": "/g/1wb8vvr4",
+    "businessProfileId": "7556408489975174136"
+  },
+  {
+    "title": "Rede Real Imóveis Ltda",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Brg. Rocha, 2454 - Centro, Guarapuava - PR, 85010-020, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Brg. Rocha, 2454",
+    "city": "Guarapuava",
+    "postalCode": "85010-020",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://rederealimoveis.com.br/",
+    "phone": "+55 42 3622-3333",
+    "phoneUnformatted": "+554236223333",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.386919,
+      "lng": -51.4683225
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9fuYjTA275QRax__whC4M7A",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef36308d98fbf5:0xb033b810c2ff1f6b",
+    "cid": "12696694156618047339",
+    "reviewsCount": 79,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 4,
+      "fourStar": 2,
+      "fiveStar": 68
+    },
+    "imagesCount": 29,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rede%20Real%20Im%C3%B3veis%20Ltda&query_place_id=ChIJ9fuYjTA275QRax__whC4M7A",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY9wAWu9iXa8jX38R-_a3aC6bcJ7-__wOjAp_nBAvJ_3XUFz1WcdYc7x_BQ7PuSrtYE7z5KYGSAUzm5WI2-JnCFGIFoNNgncvIb0n2DYzdZ82UFu05aaqbI2QvHMJmn6T3AVoGcQ=w408-h305-k-no",
+    "kgmid": "/g/11bxdxrxl4",
+    "businessProfileId": "9691783648954508471"
+  },
+  {
+    "title": "Zuconelli Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Benjamin Constant, 505 - Centro, Guarapuava - PR, 85010-190, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Benjamin Constant, 505",
+    "city": "Guarapuava",
+    "postalCode": "85010-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.zuconelliimoveis.com.br/",
+    "phone": "+55 42 3036-1506",
+    "phoneUnformatted": "+554230361506",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3911563,
+      "lng": -51.4604331
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDX3Ztig275QRIvL7M7-s514",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef3628b6d97d0d:0x5ee7acbf33fbf222",
+    "cid": "6838624496396268066",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 8,
+      "fiveStar": 29
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:36.572Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zuconelli%20Im%C3%B3veis&query_place_id=ChIJDX3Ztig275QRIvL7M7-s514",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20PR?hl=en",
+    "searchString": "imobiliária Guarapuava PR",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRyYJN_etKEyUJpP4SmFguCb33ENT9rKFhmCoIoza5Zdy-uFJLOQRZTaC2B8m0dj7KxaH94P2DqV-012LNPUxaXNUIiCk4kuVTXf6gcl1LIMtRuStGEva-xI0Qn8tibSa_yRE2=w408-h305-k-no",
+    "kgmid": "/g/11hynbpv72",
+    "businessProfileId": "11066727303583099220"
+  },
+  {
+    "title": "Nexus Administração de Condomínios",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Business administration service",
+    "address": "R. Barão do Rio Branco, 1200 - Sl 01 - Centro, Guarapuava - PR, 85010-040, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Barão do Rio Branco, 1200 - Sl 01",
+    "city": "Guarapuava",
+    "postalCode": "85010-040",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://nexusguarapuava.com/",
+    "phone": "+55 42 3035-1600",
+    "phoneUnformatted": "+554230351600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3937365,
+      "lng": -51.4729223
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrawUxE0375QRHXvECuGAUkY",
+    "categories": [
+      "Business administration service",
+      "Janitorial service"
+    ],
+    "fid": "0x94ef374dc414acad:0x465280e10ac47b1d",
+    "cid": "5067254234781874973",
+    "reviewsCount": 221,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 212
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nexus%20Administra%C3%A7%C3%A3o%20de%20Condom%C3%ADnios&query_place_id=ChIJrawUxE0375QRHXvECuGAUkY",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBNYlwDpLjiwkNibirmY2PWdXChA_zuaoKi11rHIUOOtNXee3R53ySw_ix0xrS1Od2ZQqROCFGgcqe1THvdWQtoqp0PTGBmle-U1hD-iqQH1daf6hA7J3Aog8J6Wv94-hpMC75=w408-h306-k-no",
+    "kgmid": "/g/11f5tz2095",
+    "businessProfileId": "2379680141344782044"
+  },
+  {
+    "title": "Dom Imóveis | Imobiliária Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Brg. Rocha, 3222 - Bonsucesso, Guarapuava - PR, 85035-270, Brazil",
+    "neighborhood": "Bonsucesso",
+    "street": "R. Brg. Rocha, 3222",
+    "city": "Guarapuava",
+    "postalCode": "85035-270",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.domimoveisguarapuava.com.br/",
+    "phone": "+55 42 3035-5677",
+    "phoneUnformatted": "+554230355677",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.382843,
+      "lng": -51.4731132
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ98myMSo275QRWKMS5zF66Wg",
+    "categories": [
+      "Real estate agency",
+      "Apartment building",
+      "Apartment rental agency",
+      "Condominium rental agency",
+      "Real estate consultant",
+      "Vacation home rental agency"
+    ],
+    "fid": "0x94ef362a31b2c9f7:0x68e97a31e712a358",
+    "cid": "7559707804266832728",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 12
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dom%20Im%C3%B3veis%20%7C%20Imobili%C3%A1ria%20Guarapuava&query_place_id=ChIJ98myMSo275QRWKMS5zF66Wg",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdA_XLvpbUz9zgEAn0p821LefhafeGitEEdrqYU5qqW4p9KCLKbbkodKkqWL1D98uJFeDahHQPAOBFXRMrEG5bKUXu_XlmpMF39cQ_JSG9RF3B1s5ZC5yiM3nrAv-BUSTjHTKNtV8CjzouU=w408-h306-k-no",
+    "kgmid": "/g/11hc_v2l6x",
+    "businessProfileId": "16503695712496437016"
+  },
+  {
+    "title": "RW Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Saldanha Marinho, 2837 - Sala1 - Dos Estados, Guarapuava - PR, 85035-160, Brazil",
+    "neighborhood": "Dos Estados",
+    "street": "R. Saldanha Marinho, 2837 - Sala1",
+    "city": "Guarapuava",
+    "postalCode": "85035-160",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.rwimoveis.net.br/",
+    "phone": "+55 42 98844-8338",
+    "phoneUnformatted": "+5542988448338",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3867388,
+      "lng": -51.4786538
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs_VmJ4s375QR_MEoUi2LG-o",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef378b2766f5b3:0xea1b8b2d5228c1fc",
+    "cid": "16869229856014516732",
+    "reviewsCount": 42,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 42
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RW%20Im%C3%B3veis&query_place_id=ChIJs_VmJ4s375QR_MEoUi2LG-o",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNCc1jYTbm5SHfFApLh2LQA3UohHOiRLpuIA4GvK6bM2VQcRSNXCQ93S6phj7OU7NozNjllmx_UpKd1H79NdLscykkB5r-1dUpaf5z950x14PwJAiXJ-h2NZS2m9HKjLihaynpLz990d43=w408-h544-k-no",
+    "kgmid": "/g/11qqrwfknp",
+    "businessProfileId": "7786834180779923241"
+  },
+  {
+    "title": "Danielle Gavioli - Administradora de Condomínios.",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Condominium rental agency",
+    "address": "R. Brg. Rocha, 2454 - Sala 01 - Centro, Guarapuava - PR, 85010-210, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Brg. Rocha, 2454 - Sala 01",
+    "city": "Guarapuava",
+    "postalCode": "85010-210",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.facebook.com/danielle.gavioli.5",
+    "phone": "+55 42 99922-0499",
+    "phoneUnformatted": "+5542999220499",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3869189,
+      "lng": -51.4683225
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbawlVBI375QRPlDUE-XpIBg",
+    "categories": [
+      "Condominium rental agency"
+    ],
+    "fid": "0x94ef37125425ac6d:0x1820e9e513d4503e",
+    "cid": "1738646626254475326",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12:01 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Danielle%20Gavioli%20-%20Administradora%20de%20Condom%C3%ADnios.&query_place_id=ChIJbawlVBI375QRPlDUE-XpIBg",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PvZNPyfL2KQgmkOjJfjoGg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=49.45636&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j5lnvcz3",
+    "businessProfileId": null
+  },
+  {
+    "title": "Nothare Imóveis Guarapuava",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Leonardo Coblinski, 924 - Boqueirão, Guarapuava - PR, 85023-330, Brazil",
+    "neighborhood": "Boqueirão",
+    "street": "R. Leonardo Coblinski, 924",
+    "city": "Guarapuava",
+    "postalCode": "85023-330",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "https://www.imobiliarianothare.com.br/",
+    "phone": "+55 42 98836-8121",
+    "phoneUnformatted": "+5542988368121",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.4153849,
+      "lng": -51.4734005
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPw-zYOlJ75QR_ImXUj4v59s",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef49e960b30f3f:0xdbe72f3e529789fc",
+    "cid": "15845685758646520316",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nothare%20Im%C3%B3veis%20Guarapuava&query_place_id=ChIJPw-zYOlJ75QR_ImXUj4v59s",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IpI6cbQNKruaYrt9b0LoJw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=37.67819&pitch=0&thumbfov=100",
+    "kgmid": "/g/11yz9shtfw",
+    "businessProfileId": "9868108562532511140"
+  },
+  {
+    "title": "Habitare Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Conselheiro Jesuíno Marcondes, 2532 - Batel, Guarapuava - PR, 85015-294, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Conselheiro Jesuíno Marcondes, 2532",
+    "city": "Guarapuava",
+    "postalCode": "85015-294",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.imoveishabitare.com/",
+    "phone": "+55 42 3036-0008",
+    "phoneUnformatted": "+554230360008",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3923012,
+      "lng": -51.4794044
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK440rTI275QRbPGZ71AWRgk",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef3632ad348e2b:0x9461650ef99f16c",
+    "cid": "668246131584135532",
+    "reviewsCount": 182,
+    "reviewsDistribution": {
+      "oneStar": 23,
+      "twoStar": 3,
+      "threeStar": 8,
+      "fourStar": 15,
+      "fiveStar": 133
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Habitare%20Im%C3%B3veis&query_place_id=ChIJK440rTI275QRbPGZ71AWRgk",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaNCmBCG7vDJ2Y5LyMD9aDMXxJqUCIx7Pw1sBoyUfAtYEahsQ4mZAFGQ50k1DrLYLDZJ6atkuyGGE-dhWz0WY-ff1amMKaNcNP_YId-zWREwehl47_2-l915kriBHA35Dy3CUm=w426-h240-k-no",
+    "kgmid": "/g/11cnb5fn_0",
+    "businessProfileId": "8985978521414296560"
+  },
+  {
+    "title": "Famma Imobiliária",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Pedro Siqueira, 1306 - Sl 2 - Santana, Guarapuava - PR, 85070-190, Brazil",
+    "neighborhood": "Santana",
+    "street": "R. Pedro Siqueira, 1306 - Sl 2",
+    "city": "Guarapuava",
+    "postalCode": "85070-190",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://fammaimobiliaria.com.br/",
+    "phone": "+55 42 3304-5309",
+    "phoneUnformatted": "+554233045309",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3901932,
+      "lng": -51.4560272
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmUvdU3U375QRL1fbDNrSxJs",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef377553dd4b99:0x9bc4d2da0cdb572f",
+    "cid": "11224328005274523439",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 27
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "11:30 AM–1 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11:30 AM–1 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11:30 AM–1 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11:30 AM–1 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11:30 AM–1 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Famma%20Imobili%C3%A1ria&query_place_id=ChIJmUvdU3U375QRL1fbDNrSxJs",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfF3-Qwhj9F1YCX5Y9BZnRHPOMYEtFjj5sU_WIstsp2ZTnigA2KhzXW1CJkn_-yX1PO2pb00qNZeEpZ7HnsTWUkg5YGuR-OByt10JohkKDGCj0SZXr-oMIKEC3bU-1tlDvoYFw4hg=w408-h544-k-no",
+    "kgmid": "/g/11ss3d14cc",
+    "businessProfileId": "15226148069924978504"
+  },
+  {
+    "title": "Dal Posso Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "Av. Manoel Ribas, 2407 - Centro, Guarapuava - PR, 85010-180, Brazil",
+    "neighborhood": "Centro",
+    "street": "Av. Manoel Ribas, 2407",
+    "city": "Guarapuava",
+    "postalCode": "85010-180",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.dalpossoimoveis.com.br/",
+    "phone": "+55 42 3622-0380",
+    "phoneUnformatted": "+554236220380",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3854762,
+      "lng": -51.4652354
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN3lpEDE275QRRoGUGIg2xOA",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef363110697937:0xe0c4368818948146",
+    "cid": "16196130118086984006",
+    "reviewsCount": 169,
+    "reviewsDistribution": {
+      "oneStar": 19,
+      "twoStar": 6,
+      "threeStar": 7,
+      "fourStar": 19,
+      "fiveStar": 118
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:44.556Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dal%20Posso%20Im%C3%B3veis&query_place_id=ChIJN3lpEDE275QRRoGUGIg2xOA",
+    "searchPageUrl": "https://www.google.com/maps/search/administradora%20de%20im%C3%B3veis%20Guarapuava%20PR?hl=en",
+    "searchString": "administradora de imóveis Guarapuava PR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcA1F3Px6Vb9a4uv94R8-2xAhyUxRR197095IDB_y_70GSZtpJXUR_J_QqE8lfZ1jWgqm18P_S7UlkuBLdFCPjVJtOGIzlpdBwY4bWszbM4RRVuu-fPhRlOgCDEp90Z90hPL2EPArr5z5j=w426-h240-k-no",
+    "kgmid": "/g/11gzx4l96",
+    "businessProfileId": "17904160737235725669"
+  },
+  {
+    "title": "Escalada Imobiliária",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Visc. de Guarapuava, 131 - Centro, Guarapuava - PR, 85050-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Visc. de Guarapuava, 131",
+    "city": "Guarapuava",
+    "postalCode": "85050-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.escaladaimobiliaria.com.br/",
+    "phone": "+55 42 3623-5841",
+    "phoneUnformatted": "+554236235841",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3942789,
+      "lng": -51.4641532
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1Scoxy8275QR0UrAlA1SCrE",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef362fc72827d5:0xb10a520d94c04ad1",
+    "cid": "12757099112764033745",
+    "reviewsCount": 102,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 1,
+      "threeStar": 10,
+      "fourStar": 12,
+      "fiveStar": 69
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:50.370Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12 PM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12 PM, 1 to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Escalada%20Imobili%C3%A1ria&query_place_id=ChIJ1Scoxy8275QR0UrAlA1SCrE",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20centro?hl=en",
+    "searchString": "imobiliária Guarapuava centro",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaJVA6s1jxg9v4X4Sk4gUUxRGczilA0zMiKN8JY5fYV6lzD0rYeiLbE1EUP_4vcaTzmqFeqk5PnesnVees2Iz36DPvihY4BweaSqDqAusjqnPNW4HI4br3Tj1sifp609geFUwjEg=w425-h240-k-no",
+    "kgmid": "/g/1thx9snt",
+    "businessProfileId": "7977416814892200894"
+  },
+  {
+    "title": "Gilson Araldi Corretor de Imóveis",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Quintino Bocaiúva, 957 - Centro, Guarapuava - PR, 85010-300, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Quintino Bocaiúva, 957",
+    "city": "Guarapuava",
+    "postalCode": "85010-300",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://gilsonaraldiimoveis.com.br/",
+    "phone": "+55 42 3627-6026",
+    "phoneUnformatted": "+554236276026",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3995924,
+      "lng": -51.4665195
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc6Y7Ryk275QRYOVnZ6VQsug",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef3629473ba673:0xe8b250a56767e560",
+    "cid": "16767553033988466016",
+    "reviewsCount": 180,
+    "reviewsDistribution": {
+      "oneStar": 38,
+      "twoStar": 4,
+      "threeStar": 10,
+      "fourStar": 7,
+      "fiveStar": 121
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:50.370Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gilson%20Araldi%20Corretor%20de%20Im%C3%B3veis&query_place_id=ChIJc6Y7Ryk275QRYOVnZ6VQsug",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20centro?hl=en",
+    "searchString": "imobiliária Guarapuava centro",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfN7qeUyxDMjFvH9fxmYEUR1T8JUTnvuMUVsyqThH_o4z85Se5bOT32BgT3tXdBt57sbDLYRJ5fMlCkB_ajrvt1bggqQoL0fbGrEbbOnudQVJYW_4bxiKTiSdiaKb1Z5cMsirpv=w408-h408-k-no",
+    "kgmid": "/g/11c58rt8k_",
+    "businessProfileId": "17681429827286189101"
+  },
+  {
+    "title": "Imobiliária MP",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Vicente Machado, 2112 - Sala 01 - Centro, Guarapuava - PR, 85010-260, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Vicente Machado, 2112 - Sala 01",
+    "city": "Guarapuava",
+    "postalCode": "85010-260",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.mpcorretor.com.br/",
+    "phone": "+55 42 99977-2241",
+    "phoneUnformatted": "+5542999772241",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3900857,
+      "lng": -51.4709901
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd9_kfDM275QR2SCF1bXRY4g",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef36337ce4df77:0x8863d1b5d58520d9",
+    "cid": "9827929390754111705",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 3,
+      "fiveStar": 8
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:50.370Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11:30 AM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Imobili%C3%A1ria%20MP&query_place_id=ChIJd9_kfDM275QR2SCF1bXRY4g",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20centro?hl=en",
+    "searchString": "imobiliária Guarapuava centro",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLewyo8FoTf6wUCZL6njlPvmw0D3ZTu0bAeny7SvEQKLM9yhBmTz8b0ZparykVbcQ1MfZCFwduqxctVlgu4tPeK006HtPNfNZhqRrnnWoHk5LRe_5e-uPCEseAqqK6wXMXklCKqALQ=w408-h306-k-no",
+    "kgmid": "/g/1v83284c",
+    "businessProfileId": "6874604549688673905"
+  },
+  {
+    "title": "Zupo Empreendimentos Imobiliários Ltda - Me",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Xavier da Silva, 1808 - Sl B - Centro, Guarapuava - PR, 85010-220, Brazil",
+    "neighborhood": "Centro",
+    "street": "R. Xavier da Silva, 1808 - Sl B",
+    "city": "Guarapuava",
+    "postalCode": "85010-220",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://www.zupoimobiliaria.com.br/",
+    "phone": "+55 42 3036-1200",
+    "phoneUnformatted": "+554230361200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -25.3868886,
+      "lng": -51.469809
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGyfYrTU275QRT9gBoEwSZdA",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef3635add8271b:0xd065124ca001d84f",
+    "cid": "15016428652848076879",
+    "reviewsCount": 51,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 9,
+      "fiveStar": 33
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:50.370Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zupo%20Empreendimentos%20Imobili%C3%A1rios%20Ltda%20-%20Me&query_place_id=ChIJGyfYrTU275QRT9gBoEwSZdA",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20centro?hl=en",
+    "searchString": "imobiliária Guarapuava centro",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgshQElm2nRwhJtZHrHWi4TH8uZC0-xSTwBiqO0fqL8znSDoOtSXGOWG9DDrTyCZqggyDELsfpa81nrY5XBs7Yt6Qic0ZuhMmy2nuipbq0pLBldXAQYyoO5MHCwjNhxcs_e9Cc=w408-h306-k-no",
+    "kgmid": "/g/11bxgbnksj",
+    "businessProfileId": "14834141323936554612"
+  },
+  {
+    "title": "Portale Imoveis Ltda",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Real estate agency",
+    "address": "R. Cel. Lustosa, 1165 - Batel, Guarapuava - PR, 85015-340, Brazil",
+    "neighborhood": "Batel",
+    "street": "R. Cel. Lustosa, 1165",
+    "city": "Guarapuava",
+    "postalCode": "85015-340",
+    "state": "Paraná",
+    "countryCode": "BR",
+    "website": "http://portaleimoveis.com.br/",
+    "phone": "+55 42 3304-9094",
+    "phoneUnformatted": "+554233049094",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": -25.3920912,
+      "lng": -51.4740981
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQD8vsw375QRcM0ctYw9Jeo",
+    "categories": [
+      "Real estate agency"
+    ],
+    "fid": "0x94ef37ccbefc0001:0xea253d8cb51ccd70",
+    "cid": "16871959253556710768",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 10
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T14:30:50.371Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 to 11:30 AM, 1 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Portale%20Imoveis%20Ltda&query_place_id=ChIJAQD8vsw375QRcM0ctYw9Jeo",
+    "searchPageUrl": "https://www.google.com/maps/search/imobili%C3%A1ria%20Guarapuava%20centro?hl=en",
+    "searchString": "imobiliária Guarapuava centro",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLetECJ6kmMsM_WCnZkFFK5a-UQ2HXQeHKwRxGSA7IObFf8-gLEEUnN7MOoZooqVXWbPoSyrMDoRco9qKrcyZrz8PEhCeOQK-a2FNdlJPgtiaOGJppbNZSz38J_Kva1PWeISWcI=w408-h240-k-no-pi2.9387047-ya171.07986-ro-5.8020754-fo100",
+    "kgmid": "/g/11j7xl592b",
+    "businessProfileId": null
+  }
+]
