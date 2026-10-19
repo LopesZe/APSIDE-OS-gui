@@ -4,10 +4,10 @@ Estado vivo do APSIDE-OS. Lido no `/abrir` e atualizado por `/auditar`. Não é 
 sensível — vive versionado no git (Regra 4 de `RULES.md`).
 
 ```
-ultima_sincronizacao:  2026-10-15
-ultima_auditoria:      2026-10-14
-pendencias_vencidas:   nenhum (1 item condicional em memoria/pendencias.md)
-github:                main e master sincronizados (3e1e66b), árvore limpa
+ultima_sincronizacao:  2026-10-19
+ultima_auditoria:      2026-10-19 (parcial, 0 críticos)
+pendencias_vencidas:   nenhum (5 itens em memoria/pendencias.md)
+github:                main e master sincronizados após /salvar de 19/10
 ```
 
 ## Alertas a resolver
@@ -24,9 +24,12 @@ github:                main e master sincronizados (3e1e66b), árvore limpa
 - **Imagens quebradas** — `analise/youtube/kelvin-cleto/apresentacao.html` aponta 17× pra `icone-apside*` (arquivos não existem)
 - **Mídia não restaurada** — `clientes/ang-festas/identidade/Videos/` aguarda confirmação do operador (fotos e `node_modules` já restaurados)
 
-## Última auditoria — 2026-10-14 (`reports/audits/2026-10-14.md`)
+## Última auditoria — 2026-10-19 (`reports/audits/2026-10-19.md`)
 
-- **0 críticos.** `memoria/*` preenchido, identidade íntegra, `site/index.html` limpo, git sincronizado, 40 skills (nenhuma nova — regra de ouro respeitada)
-- **108 ocorrências da paleta antiga em 13 arquivos** (templates migrados em 14/10; restam os itens de alerta acima)
+- **0 críticos** (parcial — foco em memória/git/reprodutibilidade pós-validação de prospects)
+- 9 prospects de estética PG qualificados, abordagem inicia 20/10; ângulo de serviço
+  novo (IA do Google como vendedor) registrado em `memoria/estrategia.md`
+- Alertas de 14/10 (paleta antiga, skills sem frontmatter, GMB da APSIDE sem publicar)
+  mantidos — próxima auditoria completa deve varrer-los
 
 Histórico completo de auditorias: `reports/audits/`. Histórico de mudanças: `git log`.

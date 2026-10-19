@@ -52,9 +52,17 @@ pra "toxina botulínica em Guarapuava") ou em agregador que revende o lead
 quem aparece é a [concorrente]; tu aparece só no Instagram, pra quem já te conhece."
 
 Estado (19/10): varredura PG + Guarapuava feita (`scripts/apify/`, analisador
-`analisar-vertical.cjs` com as 6 verticais, re-runnável). **Operador vai validar
-os prospects de PG manualmente** e passar a lista qualificada. Script de abordagem
-ainda não escrito (decisão do operador — gate humano).
+`analisar-vertical.cjs` com as 6 verticais, re-runnável). **Prospects de estética em
+PG validados pelo operador (19/10 à noite): 9 qualificados** com mensagens prontas em
+`saidas/prospects-estetica-pg-2026-10-19.md` (fila: Sculpt → Flor da Pele → La Bella →
+Sabres/Dermo/Claudia → Fernanda/Diomara → Monnyer). Abordagem por WhatsApp inicia
+20/10 de manhã (gate do operador — ele envia).
+
+**Ângulo de serviço novo (19/10): IA do Google como vendedor.** Quando buscam o nome
+do negócio, o AI Overview/Gemini responde antes de tudo — resumo montado a partir de
+GMB + site + avaliações. Dado fraco = resumo genérico. Serviço: enriquecer as fontes
+que a IA lê (GMB completo, serviços, fotos, posts, avaliações) = "a IA fala bem de ti
+24h". Encaixa no posicionamento AI-First. Ainda não virou etapa de skill.
 
 ## Decisão de posicionamento (em aberto)
 

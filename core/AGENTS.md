@@ -12,7 +12,7 @@ quem está lidando.
 - **Dependências:** skills em `.opencode/skills/`, memória em `memoria/`.
 
 ## Estado
-- Saudável. Última auditoria 14/10/2026 sem críticos (`reports/audits/2026-10-14.md`);
+- Saudável. Última auditoria 19/10/2026 sem críticos (`reports/audits/2026-10-19.md`);
   `design-guide.md` completo.
 - **0 clientes pagantes** — ANG Festas e TESTE - EMPRESA X (Agroterra) são testes,
   não clientes nem cases.
@@ -20,6 +20,8 @@ quem está lidando.
 - Análise do canal Kelvin Cleto em `analise/youtube/kelvin-cleto/` (206 transcrições);
   framework de nicho dourado do vídeo `j9U_AyRGATg` aplicado à escolha de vertical.
 - **Vertical fechada (19/10): estética em Ponta Grossa** (ver `memoria/estrategia.md`);
-  varredura PG+GUA em `scripts/apify/`. Operador validando prospects manualmente.
-- Próximo passo: com lista qualificada, mandar a 1ª mensagem de prospecção (gate
-  humano). GMB da APSIDE ainda não publicado.
+  varredura PG+GUA em `scripts/apify/`. **9 prospects validados** com mensagens prontas
+  (`saidas/prospects-estetica-pg-2026-10-19.md`); ângulo novo: IA do Google como
+  serviço (AI Overview).
+- Próximo passo: 20/10 manhã operador aborda os 9 prospects (gate humano).
+  GMB da APSIDE ainda não publicado.
